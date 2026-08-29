@@ -1,16 +1,86 @@
 {
-  "_ملاحظة": "هذا ملف الإعدادات. عدّل هنا فقط — لا حاجة لفتح ملفات الأكواد.",
-
   "windowHours": 24,
 
   "keywords": [
     "syria", "syrian", "damascus", "sharaa", "golan", "quneitra", "daraa",
-    "sdf", "kurdish", "caesar act", "hayat tahrir",
+    "sdf", "kurdish", "kurds", "idlib", "caesar act", "hayat tahrir",
+    "sanctions", "ofac", "sanctioned",
+    "israel", "israeli", "netanyahu", "katz",
+    "turkey", "turkish", "erdogan", "ankara", "fidan",
+    "hezbollah", "lebanon", "barrack", "shaibani", "shara",
+
     "سوريا", "سوري", "سورية", "دمشق", "الشرع", "الجولان", "القنيطرة",
-    "درعا", "قسد", "الشيباني", "قيصر", "بيت جن"
+    "درعا", "قسد", "الشيباني", "قيصر", "بيت جن", "إدلب",
+    "عقوبات", "واشنطن", "أمريك", "البيت الأبيض", "برّاك", "براك",
+    "إسرائيل", "اسرائيل", "نتنياهو", "تركيا", "تركي", "أردوغان", "أنقرة",
+    "حزب الله", "لبنان"
   ],
 
   "sources": [
+    {
+      "id": "federal-register",
+      "name": "Federal Register — السجل الفيدرالي الأمريكي",
+      "circle": "الإدارة التنفيذية الأمريكية",
+      "type": "federalregister",
+      "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=Syria&order=newest&per_page=20&fields%5B%5D=title&fields%5B%5D=publication_date&fields%5B%5D=html_url&fields%5B%5D=type",
+      "filter": false
+    },
+    {
+      "id": "thehill",
+      "name": "The Hill — الكونغرس والسياسة الأمريكية",
+      "circle": "الكونغرس والتوازن السياسي الأمريكي",
+      "type": "rss",
+      "url": "https://thehill.com/feed/",
+      "filter": true
+    },
+    {
+      "id": "fdd",
+      "name": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+      "circle": "مراكز الفكر",
+      "type": "rss",
+      "url": "https://www.fdd.org/feed/",
+      "filter": true
+    },
+    {
+      "id": "atlantic-council",
+      "name": "Atlantic Council — المجلس الأطلسي",
+      "circle": "مراكز الفكر",
+      "type": "rss",
+      "url": "https://www.atlanticcouncil.org/feed/",
+      "filter": true
+    },
+    {
+      "id": "al-monitor",
+      "name": "Al-Monitor",
+      "circle": "الإعلام المتخصص",
+      "type": "rss",
+      "url": "https://www.al-monitor.com/rss",
+      "filter": true
+    },
+    {
+      "id": "the-national",
+      "name": "The National",
+      "circle": "الإعلام المتخصص",
+      "type": "rss",
+      "url": "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml",
+      "filter": true
+    },
+    {
+      "id": "jpost-me",
+      "name": "Jerusalem Post — الشرق الأوسط",
+      "circle": "الملف الإسرائيلي والتركي",
+      "type": "rss",
+      "url": "https://www.jpost.com/rss/rssfeedsmiddleeastnews.aspx",
+      "filter": true
+    },
+    {
+      "id": "aljazeera-en",
+      "name": "Al Jazeera English",
+      "circle": "الإعلام الدولي",
+      "type": "rss",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "filter": true
+    },
     {
       "id": "sana-ar",
       "name": "سانا — وكالة الأنباء السورية",
@@ -25,30 +95,6 @@
       "circle": "الإعلام السوري المستقل",
       "type": "rss",
       "url": "https://www.enabbaladi.net/feed",
-      "filter": false
-    },
-    {
-      "id": "enab-en",
-      "name": "Enab Baladi (English)",
-      "circle": "الإعلام السوري المستقل",
-      "type": "rss",
-      "url": "https://english.enabbaladi.net/feed",
-      "filter": false
-    },
-    {
-      "id": "aljazeera-en",
-      "name": "Al Jazeera English",
-      "circle": "الإعلام الدولي",
-      "type": "rss",
-      "url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "filter": true
-    },
-    {
-      "id": "federal-register",
-      "name": "Federal Register (السجل الفيدرالي الأمريكي)",
-      "circle": "الإدارة التنفيذية الأمريكية",
-      "type": "federalregister",
-      "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=Syria&order=newest&per_page=20&fields%5B%5D=title&fields%5B%5D=publication_date&fields%5B%5D=html_url&fields%5B%5D=type",
       "filter": false
     }
   ]
