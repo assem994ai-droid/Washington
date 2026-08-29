@@ -27,6 +27,7 @@ jobs:
       - name: تشغيل جامع الأخبار
         env:
           WINDOW_HOURS: ${{ inputs.hours }}
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
         run: node scripts/collect.mjs
 
       - name: حفظ النتيجة داخل المستودع
