@@ -1,17 +1,18 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-29T15:16:04.008Z",
+    "generatedAt": "2026-08-29T15:31:15.116Z",
     "windowHours": 24,
-    "from": "2026-08-28T15:16:04.008Z",
-    "to": "2026-08-29T15:16:04.008Z"
+    "from": "2026-08-28T15:31:15.116Z",
+    "to": "2026-08-29T15:31:15.116Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 5,
     "files": 3,
-    "followUps": 3,
+    "withNew": 0,
+    "stale": 3,
     "contested": 0,
-    "archiveCycles": 6
+    "archiveCycles": 7
   },
   "emptyCircles": [
     "الكونغرس",
@@ -37,9 +38,11 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "متابعة — رُصد آخر مرة في دورة 2026-08-29 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-29 15:16",
       "isFollowUp": true,
-      "score": 14,
+      "newItems": 0,
+      "stale": true,
+      "score": 8,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -50,7 +53,8 @@
           "publishedAt": "2026-08-28T19:26:14.000Z",
           "files": [
             "sdf"
-          ]
+          ],
+          "seenBefore": true
         },
         {
           "source": "سانا — قسم السياسة",
@@ -61,7 +65,8 @@
           "publishedAt": "2026-08-28T17:57:43.000Z",
           "files": [
             "sdf"
-          ]
+          ],
+          "seenBefore": true
         },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -72,7 +77,8 @@
           "publishedAt": "2026-08-28T16:51:43.000Z",
           "files": [
             "sdf"
-          ]
+          ],
+          "seenBefore": true
         }
       ]
     },
@@ -88,9 +94,11 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "متابعة — رُصد آخر مرة في دورة 2026-08-29 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-29 15:16",
       "isFollowUp": true,
-      "score": 9,
+      "newItems": 0,
+      "stale": true,
+      "score": 3,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -102,7 +110,8 @@
           "files": [
             "turkey",
             "israel"
-          ]
+          ],
+          "seenBefore": true
         }
       ]
     },
@@ -118,9 +127,11 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "متابعة — رُصد آخر مرة في دورة 2026-08-29 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-29 15:16",
       "isFollowUp": true,
-      "score": 9,
+      "newItems": 0,
+      "stale": true,
+      "score": 3,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -131,7 +142,8 @@
           "publishedAt": "2026-08-28T15:55:02.000Z",
           "files": [
             "sanctions"
-          ]
+          ],
+          "seenBefore": true
         }
       ]
     }

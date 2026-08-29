@@ -57,6 +57,11 @@
   .chip.v-single{color:var(--single);border-color:var(--single);background:transparent}
   .chip.v-contested{color:var(--contested);border-color:var(--contested);background:transparent;border-style:dashed}
   .chip.follow{color:var(--accent-ink);border-color:var(--accent)}
+  .chip.stale{color:var(--ink-faint);border-style:dashed}
+  .card.stale-card{opacity:.72}
+  .tag-new{font-size:.62rem;font-weight:700;padding:1px 6px;border-radius:4px;
+    background:var(--ok);color:var(--bg);margin-inline-end:4px;vertical-align:2px}
+  .items li.old{color:var(--ink-muted)}
   .layer{font-size:.68rem;font-weight:700;letter-spacing:.05em;color:var(--ink-faint);margin:14px 0 5px}
   .items{margin:0;padding-inline-start:18px}
   .items li{margin-bottom:9px;font-size:.92rem}
@@ -76,40 +81,41 @@
   <header>
     <h1>رصد واشنطن</h1>
     <p class="tagline">رصد الشأن الأمريكي وتأثيره على سوريا — طبقة الوقائع مبنية آلياً</p>
-    <p class="stamp">نافذة الدورة: 2026-08-28 15:16 UTC ← 2026-08-29 15:16 UTC · بُنيت 2026-08-29 15:16 UTC</p>
+    <p class="stamp">نافذة الدورة: 2026-08-28 15:31 UTC ← 2026-08-29 15:31 UTC · بُنيت 2026-08-29 15:31 UTC</p>
   </header>
 
   <div class="strip">
     <div class="cell"><span class="k">بنود</span><span class="v">5</span></div>
     <div class="cell"><span class="k">ملفات</span><span class="v">3</span></div>
-    <div class="cell"><span class="k">متابعات</span><span class="v">3</span></div>
+    <div class="cell"><span class="k">فيها جديد</span><span class="v">0</span></div>
+    <div class="cell"><span class="k">بلا جديد</span><span class="v">3</span></div>
     <div class="cell"><span class="k">متنازع عليه</span><span class="v">0</span></div>
-    <div class="cell"><span class="k">دورات بالأرشيف</span><span class="v">6</span></div>
+    <div class="cell"><span class="k">دورات بالأرشيف</span><span class="v">7</span></div>
   </div>
 
   
-  <article class="card">
+  <article class="card stale-card">
     <div class="chips">
       <span class="chip v-ok">مصدران مستقلان فأكثر</span>
       <span class="chip">2 مصدر مستقل</span>
-      <span class="chip follow">متابعة — رُصد آخر مرة في دورة 2026-08-29 14:49</span>
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-29 15:16</span>
     </div>
     <h3>ملف اندماج قسد</h3>
 
     <p class="layer">الخبر</p>
     <ul class="items">
       
-      <li>
+      <li class="old">
         <a href="https://sana.sy/syria-and-the-world/2565431/" target="_blank" rel="noopener">كندا ترحب باتفاق دمج &amp;#8220;قسد&amp;#8221; في الدولة السورية وتعدّه خطوة نحو سوريا موحدة وآمنة</a>
-        <span class="meta">سانا — قسم السياسة · 2026-08-28 19:26 UTC</span>
+        <span class="meta">سانا — قسم السياسة · 2026-08-28 19:26 UTC · سبق عرضه</span>
       </li>
-      <li>
+      <li class="old">
         <a href="https://sana.sy/politics/2565381/" target="_blank" rel="noopener">العراق يرحّب بدمج «قسد» في مؤسسات الدولة السورية ويعدّه خطوة تعزز السيادة</a>
-        <span class="meta">سانا — قسم السياسة · 2026-08-28 17:57 UTC</span>
+        <span class="meta">سانا — قسم السياسة · 2026-08-28 17:57 UTC · سبق عرضه</span>
       </li>
-      <li>
+      <li class="old">
         <a href="https://www.jpost.com/middle-east/article-906912" target="_blank" rel="noopener">Syrian president names former commander of Kurdish-led force as adviser</a>
-        <span class="meta">Jerusalem Post — الشرق الأوسط · 2026-08-28 16:51 UTC</span>
+        <span class="meta">Jerusalem Post — الشرق الأوسط · 2026-08-28 16:51 UTC · سبق عرضه</span>
       </li>
     </ul>
 
@@ -119,20 +125,20 @@
     <p class="layer">التحليل</p>
     <div class="pending">بانتظار طبقة الحكم — السياق، الأولوية، قابلية التأثير السوري، والموقف السوري المعلن بشرطه.</div>
   </article>
-  <article class="card">
+  <article class="card stale-card">
     <div class="chips">
       <span class="chip v-single">مصدر واحد</span>
       <span class="chip">1 مصدر مستقل</span>
-      <span class="chip follow">متابعة — رُصد آخر مرة في دورة 2026-08-29 14:49</span>
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-29 15:16</span>
     </div>
     <h3>الملف التركي</h3>
 
     <p class="layer">الخبر</p>
     <ul class="items">
       
-      <li>
+      <li class="old">
         <a href="https://www.jpost.com/middle-east/article-906941" target="_blank" rel="noopener">Turkish presence in Syria poses threat to Israel due to Ankara’s NATO combat doctrine, expert warns</a>
-        <span class="meta">Jerusalem Post — الشرق الأوسط · 2026-08-29 09:50 UTC</span>
+        <span class="meta">Jerusalem Post — الشرق الأوسط · 2026-08-29 09:50 UTC · سبق عرضه</span>
       </li>
     </ul>
 
@@ -142,20 +148,20 @@
     <p class="layer">التحليل</p>
     <div class="pending">بانتظار طبقة الحكم — السياق، الأولوية، قابلية التأثير السوري، والموقف السوري المعلن بشرطه.</div>
   </article>
-  <article class="card">
+  <article class="card stale-card">
     <div class="chips">
       <span class="chip v-single">مصدر واحد</span>
       <span class="chip">1 مصدر مستقل</span>
-      <span class="chip follow">متابعة — رُصد آخر مرة في دورة 2026-08-29 14:49</span>
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-29 15:16</span>
     </div>
     <h3>ملف العقوبات والاعتراف الأمريكي</h3>
 
     <p class="layer">الخبر</p>
     <ul class="items">
       
-      <li>
+      <li class="old">
         <a href="https://sana.sy/syria-and-the-world/2565287/" target="_blank" rel="noopener">بروس: رفع واشنطن اسم سوريا من قائمة الدول الراعية للإرهاب إنجاز تاريخي</a>
-        <span class="meta">سانا — قسم السياسة · 2026-08-28 15:55 UTC</span>
+        <span class="meta">سانا — قسم السياسة · 2026-08-28 15:55 UTC · سبق عرضه</span>
       </li>
     </ul>
 
