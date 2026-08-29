@@ -1,21 +1,12 @@
 {
   "windowHours": 24,
-
   "keywords": [
-    "syria", "syrian", "damascus", "sharaa", "golan", "quneitra", "daraa",
-    "sdf", "kurdish", "kurds", "idlib", "caesar act", "hayat tahrir",
-    "sanctions", "ofac", "sanctioned",
-    "israel", "israeli", "netanyahu", "katz",
-    "turkey", "turkish", "erdogan", "ankara", "fidan",
-    "hezbollah", "lebanon", "barrack", "shaibani", "shara",
-
-    "سوريا", "سوري", "سورية", "دمشق", "الشرع", "الجولان", "القنيطرة",
-    "درعا", "قسد", "الشيباني", "قيصر", "بيت جن", "إدلب",
-    "عقوبات", "واشنطن", "أمريك", "البيت الأبيض", "برّاك", "براك",
-    "إسرائيل", "اسرائيل", "نتنياهو", "تركيا", "تركي", "أردوغان", "أنقرة",
-    "حزب الله", "لبنان"
+    "syria", "syrian", "damascus", "sharaa", "shaibani",
+    "golan", "quneitra", "daraa", "beit jinn",
+    "sdf", "caesar act", "hayat tahrir", "hts",
+    "سوريا", "سوري", "سورية", "دمشق", "الشرع", "الشيباني",
+    "الجولان", "القنيطرة", "درعا", "بيت جن", "قسد", "قيصر"
   ],
-
   "sources": [
     {
       "id": "federal-register",
@@ -23,7 +14,7 @@
       "circle": "الإدارة التنفيذية الأمريكية",
       "type": "federalregister",
       "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=Syria&order=newest&per_page=20&fields%5B%5D=title&fields%5B%5D=publication_date&fields%5B%5D=html_url&fields%5B%5D=type",
-      "filter": false
+      "filter": true
     },
     {
       "id": "thehill",
@@ -87,15 +78,7 @@
       "circle": "المصادر الرسمية السورية",
       "type": "rss",
       "url": "https://sana.sy/?feed=rss2",
-      "filter": false
-    },
-    {
-      "id": "enab-ar",
-      "name": "عنب بلدي (عربي)",
-      "circle": "الإعلام السوري المستقل",
-      "type": "rss",
-      "url": "https://www.enabbaladi.net/feed",
-      "filter": false
+      "filter": true
     }
   ]
 }
