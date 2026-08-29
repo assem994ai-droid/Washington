@@ -1,0 +1,174 @@
+{
+  "_ملاحظة": "قاموس الملفات. كل ملف له مصطلحاته بالعربية والإنجليزية معاً، ليتعرف البرنامج على الخبر الواحد مهما اختلفت لغة المصدر. الترتيب مهم: البند يُنسب لأول ملف يطابقه.",
+  "denialTerms": [
+    "نفى",
+    "نفت",
+    "ينفي",
+    "تنفي",
+    "ينفون",
+    "يكذّب",
+    "تكذيب",
+    "مزاعم",
+    "denied",
+    "denies",
+    "deny",
+    "rejects",
+    "rejected",
+    "refutes",
+    "dismisses",
+    "disputes"
+  ],
+  "files": [
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "terms": [
+        "قسد",
+        "sdf",
+        "syrian democratic forces",
+        "kurdish-led",
+        "kurdish led",
+        "مظلوم عبدي",
+        "mazloum abdi",
+        "الإدارة الذاتية",
+        "قوات سوريا الديمقراطية"
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "terms": [
+        "عقوبات",
+        "sanctions",
+        "قيصر",
+        "caesar",
+        "ofac",
+        "قائمة الإرهاب",
+        "state sponsor",
+        "terrorism list",
+        "رفع التصنيف",
+        "delisting",
+        "الخزانة الأمريكية",
+        "treasury",
+        "الراعية للإرهاب",
+        "راعية للإرهاب",
+        "sponsor of terrorism",
+        "sponsors of terrorism",
+        "رفع اسم سوريا",
+        "الحظر",
+        "embargo",
+        "تصنيف"
+      ]
+    },
+    {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "terms": [
+        "s.3172",
+        "congress",
+        "الكونغرس",
+        "senate",
+        "مجلس الشيوخ",
+        "house of representatives",
+        "مجلس النواب",
+        "ndaa",
+        "bill"
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "terms": [
+        "تركيا",
+        "تركي",
+        "turkey",
+        "turkish",
+        "أنقرة",
+        "ankara",
+        "أردوغان",
+        "erdogan",
+        "فيدان",
+        "fidan"
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "terms": [
+        "إسرائيل",
+        "اسرائيل",
+        "israel",
+        "israeli",
+        "نتنياهو",
+        "netanyahu",
+        "الجولان",
+        "golan",
+        "بيت جن",
+        "beit jinn",
+        "القنيطرة",
+        "quneitra",
+        "كاتس",
+        "katz",
+        "توغل",
+        "incursion",
+        "غارة",
+        "air strike",
+        "airstrike"
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "terms": [
+        "لبنان",
+        "لبناني",
+        "lebanon",
+        "lebanese",
+        "حزب الله",
+        "hezbollah"
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "terms": [
+        "استثمار",
+        "investment",
+        "معرض دمشق",
+        "damascus fair",
+        "مصرف",
+        "بنك",
+        "bank",
+        "اقتصاد",
+        "economy",
+        "تجارة",
+        "trade",
+        "إعادة الإعمار",
+        "reconstruction",
+        "نقل",
+        "transport"
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "terms": [
+        "الخارجية",
+        "foreign ministry",
+        "foreign minister",
+        "الشيباني",
+        "shaibani",
+        "الشرع",
+        "sharaa",
+        "مجلس الأمن",
+        "security council",
+        "الأمم المتحدة",
+        "united nations",
+        "زيارة",
+        "visit",
+        "مباحثات",
+        "talks"
+      ]
+    }
+  ]
+}
