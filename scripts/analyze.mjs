@@ -63,12 +63,17 @@ function readArchive() {
 
 const archive = readArchive();
 
-// آخر ظهور لكل ملف في الأرشيف
+// الرابط بلا معاملات التتبّع — نفس قاعدة كاشف التكرار في الجامع
+const norm = (l) => String(l || "").split("?")[0];
+
+// آخر ظهور لكل ملف + كل الروابط التي سبق رصدها
 const lastSeen = {};
+const seenLinks = new Set();
 for (const cyc of archive) {
   for (const it of cyc.items || []) {
     const id = classify(it.title).primary;
     if (!lastSeen[id]) lastSeen[id] = cyc.cycle.generatedAt;
+    seenLinks.add(norm(it.link));
   }
 }
 
@@ -78,7 +83,8 @@ for (const cyc of archive) {
 const groups = {};
 for (const it of cur.items || []) {
   const c = classify(it.title);
-  (groups[c.primary] ||= []).push({ ...it, files: c.all });
+  const seenBefore = seenLinks.has(norm(it.link));
+  (groups[c.primary] ||= []).push({ ...it, files: c.all, seenBefore });
 }
 
 const files = Object.entries(groups).map(([id, items]) => {
@@ -92,22 +98,25 @@ const files = Object.entries(groups).map(([id, items]) => {
   else verification = "مصدر واحد";
 
   const prev = lastSeen[id];
-  const history = prev
-    ? `متابعة — رُصد آخر مرة في دورة ${prev.slice(0, 16).replace("T", " ")}`
-    : "جديد على الرصد";
+  const newItems = items.filter((i) => !i.seenBefore).length;
+  let history;
+  if (!prev) history = "جديد على الرصد";
+  else if (newItems > 0) history = `تطوّر جديد — ${newItems} بند جديد على ملف رُصد سابقاً`;
+  else history = `لا جديد — نفس البنود المرصودة في دورة ${prev.slice(0, 16).replace("T", " ")}`;
 
   items.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
   // الأولوية: تعدد المصادر يرفعها، والملفات الجوهرية ترفعها، والتنازع يرفعها
   const core = ["sdf", "sanctions", "congress", "israel", "turkey"].includes(id);
-  const score = sourceIds.length * 3 + items.length + (core ? 4 : 0) + (contested ? 3 : 0) + (prev ? 1 : 0);
+  const score = sourceIds.length * 3 + items.length + (core ? 4 : 0) +
+                (contested ? 3 : 0) + newItems * 4 - (prev && newItems === 0 ? 5 : 0);
 
   return {
     id, label: labelOf(id),
     verification, contested,
     independentSources: sourceIds.length,
     sources: [...new Set(items.map((i) => i.source))],
-    circles, history, isFollowUp: Boolean(prev),
+    circles, history, isFollowUp: Boolean(prev), newItems, stale: Boolean(prev) && newItems === 0,
     score, items,
   };
 });
@@ -130,7 +139,8 @@ const out = {
   totals: {
     items: (cur.items || []).length,
     files: files.length,
-    followUps: files.filter((f) => f.isFollowUp).length,
+    withNew: files.filter((f) => f.newItems > 0 || !f.isFollowUp).length,
+    stale: files.filter((f) => f.stale).length,
     contested: files.filter((f) => f.contested).length,
     archiveCycles: archive.length,
   },

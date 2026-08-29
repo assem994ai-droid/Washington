@@ -26,20 +26,20 @@ const vClass = (v) =>
   v.startsWith("متنازع") ? "v-contested" : v.startsWith("مصدران") ? "v-ok" : "v-single";
 
 const fileCard = (f) => `
-  <article class="card${f.contested ? " contested" : ""}">
+  <article class="card${f.contested ? " contested" : ""}${f.stale ? " stale-card" : ""}">
     <div class="chips">
       <span class="chip ${vClass(f.verification)}">${esc(f.verification)}</span>
       <span class="chip">${f.independentSources} مصدر مستقل</span>
-      <span class="chip ${f.isFollowUp ? "follow" : "fresh"}">${esc(f.history)}</span>
+      <span class="chip ${f.stale ? "stale" : f.isFollowUp ? "follow" : "fresh"}">${esc(f.history)}</span>
     </div>
     <h3>${esc(f.label)}</h3>
 
     <p class="layer">الخبر</p>
     <ul class="items">
       ${f.items.map((i) => `
-      <li>
-        <a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
-        <span class="meta">${esc(i.source)} · ${fmt(i.publishedAt)}</span>
+      <li${i.seenBefore ? ' class="old"' : ""}>
+        ${i.seenBefore ? "" : '<span class="tag-new">جديد</span> '}<a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+        <span class="meta">${esc(i.source)} · ${fmt(i.publishedAt)}${i.seenBefore ? " · سبق عرضه" : ""}</span>
       </li>`).join("")}
     </ul>
 
@@ -109,6 +109,11 @@ const html = `<!doctype html>
   .chip.v-single{color:var(--single);border-color:var(--single);background:transparent}
   .chip.v-contested{color:var(--contested);border-color:var(--contested);background:transparent;border-style:dashed}
   .chip.follow{color:var(--accent-ink);border-color:var(--accent)}
+  .chip.stale{color:var(--ink-faint);border-style:dashed}
+  .card.stale-card{opacity:.72}
+  .tag-new{font-size:.62rem;font-weight:700;padding:1px 6px;border-radius:4px;
+    background:var(--ok);color:var(--bg);margin-inline-end:4px;vertical-align:2px}
+  .items li.old{color:var(--ink-muted)}
   .layer{font-size:.68rem;font-weight:700;letter-spacing:.05em;color:var(--ink-faint);margin:14px 0 5px}
   .items{margin:0;padding-inline-start:18px}
   .items li{margin-bottom:9px;font-size:.92rem}
@@ -134,7 +139,8 @@ const html = `<!doctype html>
   <div class="strip">
     <div class="cell"><span class="k">بنود</span><span class="v">${a.totals.items}</span></div>
     <div class="cell"><span class="k">ملفات</span><span class="v">${a.totals.files}</span></div>
-    <div class="cell"><span class="k">متابعات</span><span class="v">${a.totals.followUps}</span></div>
+    <div class="cell"><span class="k">فيها جديد</span><span class="v">${a.totals.withNew}</span></div>
+    <div class="cell"><span class="k">بلا جديد</span><span class="v">${a.totals.stale}</span></div>
     <div class="cell"><span class="k">متنازع عليه</span><span class="v">${a.totals.contested}</span></div>
     <div class="cell"><span class="k">دورات بالأرشيف</span><span class="v">${a.totals.archiveCycles}</span></div>
   </div>
