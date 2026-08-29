@@ -3,7 +3,7 @@
   "keywords": [
     "syria", "syrian", "damascus", "sharaa", "shaibani",
     "golan", "quneitra", "daraa", "beit jinn",
-    "sdf", "caesar act", "hayat tahrir", "hts",
+    "sdf", "caesar act", "hayat tahrir",
     "سوريا", "سوري", "سورية", "دمشق", "الشرع", "الشيباني",
     "الجولان", "القنيطرة", "درعا", "بيت جن", "قسد", "قيصر"
   ],
@@ -77,7 +77,8 @@
       "name": "سانا — وكالة الأنباء السورية",
       "circle": "المصادر الرسمية السورية",
       "type": "rss",
-      "url": "https://sana.sy/?feed=rss2",
+      "name": "سانا — قسم السياسة",
+      "url": "https://sana.sy/politics/feed/",
       "filter": true
     }
   ]
