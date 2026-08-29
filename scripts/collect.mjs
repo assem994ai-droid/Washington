@@ -86,11 +86,68 @@ function parseFeed(xml) {
 // ------------------------------------------------------------
 async function download(url) {
   const res = await fetch(url, {
-    headers: { "user-agent": "rasd-washington-collector/1.0" },
+    headers: {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, application/json;q=0.9, */*;q=0.8",
+      "accept-language": "ar,en;q=0.9"
+    },
     signal: AbortSignal.timeout(25000), // 25 ثانية كحد أقصى
   });
   if (!res.ok) throw new Error(`الخادم ردّ برمز ${res.status}`);
   return res.text();
+}
+
+// ------------------------------------------------------------
+// (4-ب) قراءة مشاريع القوانين من بوابة الكونغرس الرسمية
+//   لا تغذية RSS هنا، بل "باب بيانات" يحتاج مفتاحاً.
+//   المفتاح يأتي من خزنة GitHub عبر متغير البيئة CONGRESS_API_KEY،
+//   ولا يُكتب في أي ملف ولا يظهر في السجل.
+// ------------------------------------------------------------
+
+// 119 ← "119th"  (لبناء رابط الصفحة العامة للمشروع)
+function ordinal(n) {
+  const r10 = n % 10, r100 = n % 100;
+  if (r10 === 1 && r100 !== 11) return n + "st";
+  if (r10 === 2 && r100 !== 12) return n + "nd";
+  if (r10 === 3 && r100 !== 13) return n + "rd";
+  return n + "th";
+}
+
+const BILL_PATH = {
+  s: "senate-bill", hr: "house-bill",
+  sres: "senate-resolution", hres: "house-resolution",
+  sjres: "senate-joint-resolution", hjres: "house-joint-resolution",
+  sconres: "senate-concurrent-resolution", hconres: "house-concurrent-resolution",
+};
+
+async function readCongress(src) {
+  const key = process.env.CONGRESS_API_KEY;
+  if (!key) throw new Error("مفتاح CONGRESS_API_KEY غير مضبوط في خزنة المستودع");
+
+  const base = src.base || "https://api.congress.gov/v3";
+  const out = [];
+
+  for (const b of src.bills || []) {
+    const url = `${base}/bill/${b.congress}/${b.type}/${b.number}/actions` +
+                `?format=json&limit=50&api_key=${key}`;
+    const data = JSON.parse(await download(url));
+    const actions = data.actions || [];
+
+    const page = BILL_PATH[b.type] || "bill";
+    const link = `https://www.congress.gov/bill/${ordinal(b.congress)}-congress/${page}/${b.number}/all-actions`;
+
+    actions.forEach((a, i) => {
+      if (!a.actionDate || !a.text) return;
+      out.push({
+        // العنوان يحمل اسم المشروع ثم نص الإجراء الذي وقع عليه
+        title: `${b.label} — ${a.text}`,
+        // لاصقة فريدة لكل إجراء حتى لا يحذفها كاشف التكرار
+        link: `${link}#${a.actionDate}-${i}`,
+        rawDate: a.actionDate + "T00:00:00Z",
+      });
+    });
+  }
+  return out;
 }
 
 // ------------------------------------------------------------
@@ -107,10 +164,13 @@ function matchesKeywords(title) {
 
 for (const src of cfg.sources) {
   try {
-    const body = await download(src.url);
     let raw = [];
 
-    if (src.type === "federalregister") {
+    if (src.type === "congress") {
+      // مصدر يجلب عدة روابط بنفسه، فلا ننزّل شيئاً مسبقاً
+      raw = await readCongress(src);
+    } else if (src.type === "federalregister") {
+      const body = await download(src.url);
       // مصدر من نوع JSON وليس RSS — السجل الفيدرالي الأمريكي
       const data = JSON.parse(body);
       raw = (data.results || []).map((r) => ({
@@ -120,7 +180,7 @@ for (const src of cfg.sources) {
         rawDate: r.publication_date ? r.publication_date + "T00:00:00Z" : "",
       }));
     } else {
-      raw = parseFeed(body);
+      raw = parseFeed(await download(src.url));
     }
 
     let kept = 0;
