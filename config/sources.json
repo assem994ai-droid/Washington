@@ -8,6 +8,16 @@
     "الجولان", "القنيطرة", "درعا", "بيت جن", "قسد", "قيصر"
   ],
   "sources": [
+        {
+      "id": "congress-watch",
+      "name": "Congress.gov — مشاريع تحت المتابعة",
+      "circle": "الكونغرس",
+      "type": "congress",
+      "filter": false,
+      "bills": [
+        { "congress": 119, "type": "s", "number": 3172, "label": "S.3172 — إلغاء العقوبات على سوريا" }
+      ]
+    },
     {
       "id": "federal-register",
       "name": "Federal Register — السجل الفيدرالي الأمريكي",
