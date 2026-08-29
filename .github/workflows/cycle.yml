@@ -29,11 +29,17 @@ jobs:
           WINDOW_HOURS: ${{ inputs.hours }}
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
         run: node scripts/collect.mjs
+        
+      - name: تحليل بالقواعد
+        run: node scripts/analyze.mjs
+
+      - name: بناء اللوحة
+        run: node scripts/render.mjs
 
       - name: حفظ النتيجة داخل المستودع
         run: |
           git config user.name "rasd-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data
+          git add data docs
           git commit -m "دورة رصد" || echo "لا جديد لحفظه"
           git push
