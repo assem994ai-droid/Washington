@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-30T21:02:23.522Z",
+    "generatedAt": "2026-08-30T21:43:40.205Z",
     "windowHours": 24,
-    "from": "2026-08-29T21:02:23.522Z",
-    "to": "2026-08-30T21:02:23.522Z"
+    "from": "2026-08-29T21:43:40.205Z",
+    "to": "2026-08-30T21:43:40.205Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 18,
     "files": 8,
     "withNew": 1,
     "stale": 7,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 13
+    "archiveCycles": 14
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,22 +34,36 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 19,
+      "score": 29,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli incursion, artillery shelling target Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out a ground incursion into the northern Quneitra countryside on Sunday evening, while artillery shelling targeted areas in the southern countryside. A North Press correspondent in Qune",
+          "link": "https://npasyria.com/en/140906/",
+          "publishedAt": "2026-08-30T21:42:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -123,42 +137,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "circles": [
-        "الإعلام الدولي"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-          "excerpt": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
-          "link": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-          "publishedAt": "2026-08-30T20:38:56.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -174,7 +152,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -246,7 +224,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -311,7 +289,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -347,7 +325,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -383,7 +361,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -408,6 +386,42 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "circles": [
+        "الإعلام الدولي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+          "excerpt": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
+          "link": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+          "publishedAt": "2026-08-30T20:38:56.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -419,7 +433,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
