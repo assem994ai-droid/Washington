@@ -57,7 +57,12 @@
         "رفع اسم سوريا",
         "الحظر",
         "embargo",
-        "تصنيف"
+        "تصنيف",
+        "terrorism sponsor",
+        "sponsor list",
+        "terror list",
+        "delisting",
+        "removal from the terror"
       ]
     },
     {
@@ -72,7 +77,11 @@
         "house of representatives",
         "مجلس النواب",
         "ndaa",
-        "bill"
+        "bill",
+        "committee on foreign relations",
+        "referred to the committee",
+        "introduced in senate",
+        "introduced in house"
       ]
     },
     {
@@ -170,5 +179,43 @@
         "talks"
       ]
     }
+  ],
+  "usTerms": [
+    "واشنطن",
+    "أمريك",
+    "الولايات المتحدة",
+    "الكونغرس",
+    "مجلس الشيوخ",
+    "البيت الأبيض",
+    "الخارجية الأمريكية",
+    "الخزانة الأمريكية",
+    "ترامب",
+    "برّاك",
+    "براك",
+    "عقوبات",
+    "قيصر",
+    "التصنيف",
+    "washington",
+    "american",
+    "u.s.",
+    "united states",
+    "congress",
+    "senate",
+    "white house",
+    "state department",
+    "treasury",
+    "trump",
+    "barrack",
+    "sanctions",
+    "caesar",
+    "ofac",
+    "terrorism list",
+    "terror list",
+    "committee on foreign relations",
+    "house of representatives",
+    "capitol",
+    "lawmakers",
+    "الشيوخ",
+    "النواب الأمريكي"
   ]
 }

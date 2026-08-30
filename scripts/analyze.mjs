@@ -37,6 +37,16 @@ function labelOf(id) {
   return f ? f.label : OTHER.label;
 }
 
+// هل يمسّ البند واشنطن مباشرة؟ هذا هو مقياس بقاء المنصة على هدفها
+const US = (ent.usTerms || []).map((x) => x.toLowerCase());
+const US_SOURCES = new Set((cfg.sources || []).filter((s) => s.american).map((s) => s.id));
+function touchesUS(it) {
+  // مصدر أمريكي رسمي (كونغرس، سجل فيدرالي) يمسّ واشنطن بحكم طبيعته
+  if (US_SOURCES.has(it.sourceId)) return true;
+  const t = ((it.title || "") + " " + (it.excerpt || "")).toLowerCase();
+  return US.some((x) => t.includes(x));
+}
+
 function hasDenial(title) {
   const t = (title || "").toLowerCase();
   return ent.denialTerms.some((d) => t.includes(d.toLowerCase()));
@@ -84,7 +94,7 @@ const groups = {};
 for (const it of cur.items || []) {
   const c = classify(it.title);
   const seenBefore = seenLinks.has(norm(it.link));
-  (groups[c.primary] ||= []).push({ ...it, files: c.all, seenBefore });
+  (groups[c.primary] ||= []).push({ ...it, files: c.all, seenBefore, us: touchesUS(it) });
 }
 
 const files = Object.entries(groups).map(([id, items]) => {
@@ -110,15 +120,16 @@ const files = Object.entries(groups).map(([id, items]) => {
 
   // الأولوية: تعدد المصادر يرفعها، والملفات الجوهرية ترفعها، والتنازع يرفعها
   const core = ["sdf", "sanctions", "congress", "israel", "turkey"].includes(id);
+  const usItems = items.filter((i) => i.us).length;
   const score = sourceIds.length * 3 + items.length + (core ? 4 : 0) +
-                (contested ? 3 : 0) + newItems * 4 - (prev && newItems === 0 ? 5 : 0);
+                (contested ? 3 : 0) + newItems * 4 + usItems * 3 - (prev && newItems === 0 ? 5 : 0);
 
   return {
     id, label: labelOf(id),
     verification, contested,
     independentSources: sourceIds.length,
     sources: [...new Set(items.map((i) => i.source))],
-    circles, history, isFollowUp: Boolean(prev), newItems, stale: Boolean(prev) && newItems === 0, echoed,
+    circles, history, isFollowUp: Boolean(prev), newItems, stale: Boolean(prev) && newItems === 0, echoed, usItems,
     score, items,
   };
 });
@@ -173,6 +184,7 @@ const out = {
     stale: files.filter((f) => f.stale).length,
     contested: files.filter((f) => f.contested).length,
     echoed: files.filter((f) => f.echoed).length,
+    americanItems: (cur.items || []).filter(touchesUS).length,
     archiveCycles: archive.length,
   },
   emptyCircles,
@@ -184,6 +196,7 @@ writeFileSync("data/analysis.json", JSON.stringify(out, null, 2) + "\n", "utf8")
 
 console.log("=".repeat(60));
 console.log(`تحليل بالقواعد — ${out.totals.items} بند في ${out.totals.files} ملف`);
+console.log(`بنود تمسّ واشنطن مباشرة: ${out.totals.americanItems} من ${out.totals.items}`);
 console.log(`دورات سابقة بالأرشيف: ${out.totals.archiveCycles}`);
 console.log("=".repeat(60));
 for (const f of files) {

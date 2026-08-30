@@ -74,6 +74,7 @@ const card = (f) => {
     <div class="chips">
       <span class="chip cat">${esc(f.circles[0] || "")}</span>
       <span class="chip ${vClass(f.verification)}">${esc(f.verification)}</span>
+      ${f.usItems ? `<span class="chip us">${f.usItems} تمسّ واشنطن</span>` : ""}
       <span class="chip ${f.stale ? "stale" : f.isFollowUp ? "follow" : "fresh"}">${esc(f.history)}</span>
     </div>
     <h4>${esc(f.label)}</h4>
@@ -264,6 +265,7 @@ const html = `<!doctype html>
   .chip.v-echo{color:var(--accent-ink);border-color:var(--accent);background:transparent;border-style:dashed}
   .chip.follow{color:var(--accent-ink);border-color:var(--accent)}
   .chip.stale{color:var(--ink-faint);border-style:dashed}
+  .chip.us{background:var(--accent);color:var(--bg);border-color:var(--accent)}
 
   .layer{font-size:.68rem;font-weight:700;letter-spacing:.05em;color:var(--ink-faint);margin:13px 0 5px}
   .items{margin:0;padding-inline-start:18px}
@@ -344,6 +346,8 @@ const html = `<!doctype html>
     <h2>خلاصة الدورة</h2>
     <p>${esc(brief)}</p>
   </section>
+
+  ${a.totals.americanItems === 0 ? `<div class="us-warn"><b>تنبيه:</b> لم يمسّ أي بند في هذه الدورة واشنطن مباشرة — لا الكونغرس ولا الإدارة التنفيذية ولا العقوبات. ما يلي سياق إقليمي يخصّ الملف، لا رصد أمريكي.</div>` : ""}
 
   ${urgent ? urgentBlock(urgent) : ""}
 

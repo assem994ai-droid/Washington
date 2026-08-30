@@ -152,6 +152,33 @@ async function readCongress(src) {
   return out;
 }
 
+// يمسح آخر مشاريع القوانين المحدَّثة في الكونغرس ويلتقط ما يخص سوريا بعنوانه.
+// هذا يفتح دائرة الكونغرس على كل تشريع جديد، لا على مشروع واحد متابَع.
+async function readCongressSearch(src) {
+  const key = process.env.CONGRESS_API_KEY;
+  if (!key) throw new Error("مفتاح CONGRESS_API_KEY غير مضبوط في خزنة المستودع");
+  const base = src.base || "https://api.congress.gov/v3";
+  const limit = src.limit || 250;
+  const url = `${base}/bill?format=json&limit=${limit}&sort=updateDate+desc&api_key=${key}`;
+  const data = JSON.parse(await download(url));
+  const bills = data.bills || [];
+  const out = [];
+  for (const b of bills) {
+    const title = b.title || "";
+    if (!title) continue;
+    const page = BILL_PATH[String(b.type || "").toLowerCase()] || "bill";
+    const num = b.number, cong = b.congress;
+    const act = b.latestAction || {};
+    out.push({
+      title: `${String(b.type || "").toUpperCase()}.${num} — ${title}`,
+      excerpt: act.text ? `آخر إجراء (${act.actionDate || ""}): ${act.text}` : "",
+      link: b.url || `https://www.congress.gov/bill/${ordinal(cong)}-congress/${page}/${num}`,
+      rawDate: (act.actionDate || b.updateDate || "").slice(0, 10) + "T00:00:00Z",
+    });
+  }
+  return out;
+}
+
 // ------------------------------------------------------------
 // (5) المرور على كل المصادر
 // ------------------------------------------------------------
@@ -176,7 +203,9 @@ for (const src of cfg.sources) {
   try {
     let raw = [];
 
-    if (src.type === "congress") {
+    if (src.type === "congress-search") {
+      raw = await readCongressSearch(src);
+    } else if (src.type === "congress") {
       // مصدر يجلب عدة روابط بنفسه، فلا ننزّل شيئاً مسبقاً
       raw = await readCongress(src);
     } else if (src.type === "federalregister") {
