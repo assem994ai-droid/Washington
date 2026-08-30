@@ -1,117 +1,1032 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-29T16:14:04.876Z",
+    "generatedAt": "2026-08-30T19:36:39.592Z",
     "windowHours": 24,
-    "from": "2026-08-28T16:14:04.876Z",
-    "to": "2026-08-29T16:14:04.876Z"
+    "from": "2026-08-29T19:36:39.592Z",
+    "to": "2026-08-30T19:36:39.592Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 4,
-    "files": 2,
-    "withNew": 0,
-    "stale": 2,
-    "contested": 0,
-    "archiveCycles": 8
+    "items": 61,
+    "files": 9,
+    "withNew": 9,
+    "stale": 0,
+    "contested": 1,
+    "echoed": 2,
+    "archiveCycles": 9
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "مراكز الفكر",
-    "الإعلام المتخصص",
-    "الإعلام الدولي"
+    "الإعلام الدولي",
+    "التقارير الرسمية الدورية",
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
+      "id": "syria_general",
+      "label": "الملف السوري العام",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 5,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "سانا — قسم السياسة",
+        "The National",
+        "Atlantic Council — المجلس الأطلسي"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الإعلام المتخصص",
+        "مراكز الفكر"
+      ],
+      "history": "تطوّر جديد — 31 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 31,
+      "stale": false,
+      "echoed": true,
+      "score": 173,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "عطل تقني يؤجّل مواعيد إصدار وتجديد الجوازات في السفارة السورية ببرلين",
+          "excerpt": "أعلنت السفارة السورية في برلين تأجيل جميع المواعيد المحددة ليوم غدٍ الإثنين، والخاصة بخدمات إصدار وتجديد جوازات ووثائق السفر، بسبب عطل تقني طارئ في المنظومة الم",
+          "link": "https://www.syria.tv/%D8%B9%D8%B7%D9%84-%D8%AA%D9%82%D9%86%D9%8A-%D9%8A%D8%A4%D8%AC%D9%91%D9%84-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%88%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B2%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A8%D8%B1%D9%84%D9%8A%D9%86",
+          "publishedAt": "2026-08-30T18:26:06.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Internal Security kills former regime commander in Tartous",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security said on Sunday that it killed Firas Abdulkarim Hammoud, known as “al-Khal,” during an armed clash in Tartous governorate. The Internal Security Command said the operation was carried",
+          "link": "https://npasyria.com/en/140903/",
+          "publishedAt": "2026-08-30T17:24:32.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Kurdish teachers protest over Syria’s education decision",
+          "excerpt": "QAMISHLI, Syria (North Press) – Kurdish language teachers held a protest outside the Hasakah Education Directorate on Sunday, rejecting a Syrian Education Ministry decision and demanding Kurdish be recognized as a language of instruction. I",
+          "link": "https://npasyria.com/en/140897/",
+          "publishedAt": "2026-08-30T17:04:45.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا وليبيا توقعان اتفاقية لتفعيل اللجنة العليا المشتركة وتعزيز التعاون الثنائي",
+          "excerpt": "وقّعت سوريا وليبيا، الأحد، اتفاقية في مجال التعاون الثنائي تهدف إلى تفعيل الاتفاقية المبرمة سابقاً بشأن اللجنة العليا المشتركة، وتعديلها بما يتفق مع التطورات ا",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%84%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A",
+          "publishedAt": "2026-08-30T16:38:58.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خلال توجههما إلى دمشق.. إصابة شخصين برصاص حاجز لـ\"الحرس الوطني\" في السويداء",
+          "excerpt": "أُصيب شخصان بجروح، الأحد، إثر إطلاق نار من حاجز يتبع لـميليشيا \"الحرس الوطني\" عند دوار العنقود وسط مدينة السويداء، وذلك في أثناء توجههما إلى مطار دمشق الدولي، و",
+          "link": "https://www.syria.tv/%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D8%AC%D9%87%D9%87%D9%85%D8%A7-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%AD%D8%A7%D8%AC%D8%B2-%D9%84%D9%80%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
+          "publishedAt": "2026-08-30T14:26:24.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا وليبيا توقّعان اتفاقية لتفعيل اللجنة العليا المشتركة وتطوير التعاون الثنائي",
+          "excerpt": "وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الأحد، في العاصمة الليبية طرابلس، اتفاقية في مجال التعاون ‏الثنائي بين الجمهورية العربية السورية ودولة ليبيا الشقيقة",
+          "link": "https://sana.sy/syria-and-the-world/2566887/",
+          "publishedAt": "2026-08-30T14:14:25.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خاص| الشركة السورية للبترول تكشف تفاصيل تجفيف \"نهر الموت\" في الحسكة",
+          "excerpt": "تُعرّف هذه المياه بأنها مياه طبقية تخرج من الآبار بالتزامن مع إنتاج النفط، وقد تحتوي على مركّبات نفطية ومواد ملوثة ومكوّنات ضارة.",
+          "link": "https://www.syria.tv/%D8%AE%D8%A7%D8%B5-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D8%AC%D9%81%D9%8A%D9%81-%D9%86%D9%87%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
+          "publishedAt": "2026-08-30T13:50:29.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "إطلاق فعالية \"دمشق تتنفس\".. أحياء العاصمة القديمة بلا سيارات ليوم واحد",
+          "excerpt": "وبحسب بيان لمديرية دمشق القديمة في المحافظة، سيتوقف دخول جميع السيارات والدراجات النارية وجميع الآليات إلى الأحياء القديمة..",
+          "link": "https://www.syria.tv/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%AA%D9%86%D9%81%D8%B3-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D8%A8%D9%84%D8%A7-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%8A%D9%88%D9%85-%D9%88%D8%A7%D8%AD%D8%AF",
+          "publishedAt": "2026-08-30T13:44:45.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مياه دمشق تعلن برنامج التزويد خلال شهر أيلول.. تعرف إلى مواعيد منطقتك",
+          "excerpt": "مياه دمشق تعلن برنامج التزويد خلال أيلول.. المواعيد بحسب المناطق",
+          "link": "https://www.syria.tv/%D9%85%D9%8A%D8%A7%D9%87-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%B9%D9%84%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%AA%D8%B2%D9%88%D9%8A%D8%AF-%D8%AE%D9%84%D8%A7%D9%84-%D8%B4%D9%87%D8%B1-%D8%A3%D9%8A%D9%84%D9%88%D9%84-%D8%AA%D8%B9%D8%B1%D9%81-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D8%AA%D9%83",
+          "publishedAt": "2026-08-30T13:38:22.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "أونماخت: نتذكر آلاف السوريين المفقودين والمختفين قسراً",
+          "excerpt": "استذكر القائم بأعمال بعثة الاتحاد الأوروبي لدى سوريا ميخائيل أونماخت آلاف السوريين المفقودين والمختفين قسراً، معرباً عن التضامن مع عائلاتهم.",
+          "link": "https://sana.sy/syria-and-the-world/2566759/",
+          "publishedAt": "2026-08-30T12:52:39.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا ومصر تبحثان استئناف الرحلات الجوية المباشرة بين دمشق والقاهرة",
+          "excerpt": "بحثت الهيئة العامة للطيران المدني والنقل الجوي في سوريا مع وفد من سلطة الطيران المدني المصري، الأحد سبل تعزيز التعاون في مجال الطيران المدني، واستئناف الرحلات",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%85%D8%B5%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AF%D9%85%D8%B4%D9%82-%D9%88%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9",
+          "publishedAt": "2026-08-30T12:30:39.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
+          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
+          "link": "https://sana.sy/syria-and-the-world/2566687/",
+          "publishedAt": "2026-08-30T12:17:09.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أكثر من 139 ألف ملف.. المالية السورية تكشف مستجدات رواتب المتقاعدين العسكريين",
+          "excerpt": "أصدرت وزارة المالية السورية، الأحد، توضيحات بشأن ملفات المتقاعدين العسكريين بعد عام 2011، ممن لم تتلطخ أيديهم بالدماء، إضافة إلى ورثة المتقاعدين الذين أوقفت",
+          "link": "https://www.syria.tv/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-139-%D8%A3%D9%84%D9%81-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%A7%D8%B9%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D9%8A%D9%86",
+          "publishedAt": "2026-08-30T12:02:39.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "إطلاق برنامج \"أثر\" لتسهيل الإبلاغ عن المفقودين في سوريا",
+          "excerpt": "أطلقت الهيئة الوطنية للمفقودين في سوريا، الأحد، برنامج \"أثر\"، للإبلاغ عن المفقودين والمختفين قسراً، بمناسبة اليوم الدولي لضحايا الاختفاء القسري، الذي يصادف",
+          "link": "https://www.syria.tv/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A3%D8%AB%D8%B1-%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D8%A7%D9%84%D8%A5%D8%A8%D9%84%D8%A7%D8%BA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-08-30T10:23:04.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "في اليوم العالمي للمختفين قسرا.. مصير 177 ألف سوري ما يزال مجهولا رغم سقوط الأسد",
+          "excerpt": "وثقت الشبكة مقتل أكثر من 45,365 شخصاً بسبب التعذيب أو ظروف الاحتجاز اللاإنسانية منذ آذار 2011، بينهم 45,038 شخصاً قضوا داخل مراكز احتجاز تابعة لنظام المخلوع",
+          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D9%85%D8%AE%D8%AA%D9%81%D9%8A%D9%86-%D9%82%D8%B3%D8%B1%D8%A7-%D9%85%D8%B5%D9%8A%D8%B1-177-%D8%A3%D9%84%D9%81-%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D8%A7-%D9%8A%D8%B2%D8%A7%D9%84-%D9%85%D8%AC%D9%87%D9%88%D9%84%D8%A7-%D8%B1%D8%BA%D9%85-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF",
+          "publishedAt": "2026-08-30T10:19:03.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Families of missing ISIS victims in Syria&#8217;s Kobani demand answers",
+          "excerpt": "The post Families of missing ISIS victims in Syria&#8217;s Kobani demand answers appeared first on North press agency.",
+          "link": "https://npasyria.com/en/140885/",
+          "publishedAt": "2026-08-30T09:58:53.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من بقي في سوريا.. المسنون يواجهون الشيخوخة وحدهم",
+          "excerpt": "أحدثت الحرب وتبعاتها من لجوء ونزوح وتشرد تغييراً واضحاً في بنية الأسرة السورية، ومع هجرة كثير من السوريين، وجد الأبناء أنفسهم في بلدان بعيدة لأسباب أمنية أو إنس",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A8%D9%82%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B3%D9%86%D9%88%D9%86-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%D9%88%D8%AE%D8%A9-%D9%88%D8%AD%D8%AF%D9%87%D9%85",
+          "publishedAt": "2026-08-30T09:26:53.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خلال يوم واحد.. 12 إصابة بحوادث سير و108 حرائق متفرقة في سوريا",
+          "excerpt": "أصيب 12 مدنياً من جراء 20 حادث سير شهدتها مناطق متفرقة من سوريا، السبت، وفق ما أفادت به فرق الدفاع المدني السوري في وزارة الطوارئ وإدارة الكوارث.",
+          "link": "https://www.syria.tv/%D8%AE%D9%84%D8%A7%D9%84-%D9%8A%D9%88%D9%85-%D9%88%D8%A7%D8%AD%D8%AF-12-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%B1-%D9%88108-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-08-30T09:24:11.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "شادي جميل يعتذر للسوريين عن مقطع أغنية مجّد فيه بشار الأسد | فيديو",
+          "excerpt": "وجّه الفنان السوري شادي جميل اعتذاراً علنياً إلى الشعب السوري، عن مقطع أغنية مجّد فيه رئيس النظام المخلوع بشار الأسد خلال حفل أقيم قبل عدة سنوات.",
+          "link": "https://www.syria.tv/%D8%B4%D8%A7%D8%AF%D9%8A-%D8%AC%D9%85%D9%8A%D9%84-%D9%8A%D8%B9%D8%AA%D8%B0%D8%B1-%D9%84%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%B9%D9%86-%D9%85%D9%82%D8%B7%D8%B9-%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D9%85%D8%AC%D9%91%D8%AF-%D9%81%D9%8A%D9%87-%D8%A8%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+          "publishedAt": "2026-08-30T08:26:57.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Harvest of plum underway in Syria’s Raqqa",
+          "excerpt": "The post Harvest of plum underway in Syria’s Raqqa appeared first on North press agency.",
+          "link": "https://npasyria.com/en/140876/",
+          "publishedAt": "2026-08-30T07:59:31.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "احتفاء بتاريخها الثقافي.. سوريا ضيف شرف معرض عمّان للكتاب",
+          "excerpt": "اختيرت سوريا ضيف شرف الدورة الخامسة والعشرين من معرض عمّان الدولي للكتاب 2026، المقرر انطلاق فعالياته في العاصمة الأردنية في 24 من أيلول المقبل.",
+          "link": "https://www.syria.tv/%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D8%A1-%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87%D8%A7-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B6%D9%8A%D9%81-%D8%B4%D8%B1%D9%81-%D9%85%D8%B9%D8%B1%D8%B6-%D8%B9%D9%85%D9%91%D8%A7%D9%86-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
+          "publishedAt": "2026-08-30T07:38:06.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian officials meet in Aleppo to discuss integration, return of IDPs",
+          "excerpt": "ALEPPO, Syria (North Press) – Syrian officials met on Saturday in Aleppo, northwestern Syria, to discuss integration efforts and plans to facilitate the return of displaced residents to their cities and villages, including security, adminis",
+          "link": "https://npasyria.com/en/140870/",
+          "publishedAt": "2026-08-30T07:16:46.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Kurdish official says Syria enters new political phase after years of war",
+          "excerpt": "QAMISHLI, Syria (North Press) – Ilham Ahmad, co-chair of the Department of Foreign Relations of the Autonomous Administration of North and East Syria (AANES), said on Saturday that the region has entered a new political phase, describing th",
+          "link": "https://npasyria.com/en/140865/",
+          "publishedAt": "2026-08-30T05:52:08.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من طلب الإعدام إلى السجن المؤبد.. قضية أحمد حسون ومسار المساءلة في سوريا",
+          "excerpt": "حول طلب النيابة العامة السورية إنزال العقوبة القصوى بأحمد بدر الدين حسون، المفتي العام السابق للنظام المخلوع وقرار محكمة الجنايات الرابعة..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A3%D8%AD%D9%85%D8%AF-%D8%AD%D8%B3%D9%88%D9%86-%D9%88%D9%85%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A1%D9%84%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-08-30T03:04:17.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria can rebuild its power sector with lessons learned from Jordan",
+          "excerpt": "Syria is rebuilding its electricity sector with more than $10 billion already pledged for generation, transmission and exploration, much of it from Gulf countries. But money is not its only advantage.Syria has something potentially more val",
+          "link": "https://www.thenationalnews.com/business/energy/2026/08/30/syria-can-rebuild-its-power-sector-with-lessons-learned-from-jordan/",
+          "publishedAt": "2026-08-30T03:00:00.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد سحب حمايتهم.. هذا ما ينصح به مسؤول ألماني السوريين للبقاء",
+          "excerpt": "بدأت ألمانيا منذ أشهر مراجعة ملفات آلاف السوريين الحاصلين على الحماية الفرعية، لتقييم استمرار أسباب منحها، في ضوء التغيّرات التي شهدتها سوريا بعد سقوط النظام",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B3%D8%AD%D8%A8-%D8%AD%D9%85%D8%A7%D9%8A%D8%AA%D9%87%D9%85-%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D9%8A%D9%86%D8%B5%D8%AD-%D8%A8%D9%87-%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%84%D9%84%D8%A8%D9%82%D8%A7%D8%A1",
+          "publishedAt": "2026-08-30T02:10:50.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "السوري محمد مطيع شرف الدين يفوز بالمركز الأول في كأس العالم للكيك بوكسينغ",
+          "excerpt": "توج اللاعب السوري محمد مطيع شرف الدين، أمس السبت، بالميدالية الذهبية والمركز الأول في بطولة كأس العالم للكيك بوكسينغ،",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B7%D9%8A%D8%B9-%D8%B4%D8%B1%D9%81-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%84%D9%84%D9%83%D9%8A%D9%83-%D8%A8%D9%88%D9%83%D8%B3%D9%8A%D9%86%D8%BA",
+          "publishedAt": "2026-08-29T22:57:38.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "العراق يسرع مشروع أنبوب النفط إلى بانياس لتعزيز صادراته عبر سوريا",
+          "excerpt": "أعلن رئيس مجلس الوزراء العراقي علي فالح الزيدي، السبت، توجيه وزارة النفط بالإسراع في تنفيذ مشروع أنبوب النفط الاستراتيجي الذي يربط البصرة بحديثة وفيشخابور",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%B1%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A3%D9%86%D8%A8%D9%88%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A5%D9%84%D9%89-%D8%A8%D8%A7%D9%86%D9%8A%D8%A7%D8%B3-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%D9%87-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-08-29T22:09:33.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الدفاع المدني السوري: 20 عائلة متضررة و3 عمليات إجلاء من جراء الهطولات الغزيرة",
+          "excerpt": "أعلن الدفاع المدني السوري أن 20 عائلة تضررت من جراء حالة عدم الاستقرار الجوي والهطولات المطرية الرعدية الغزيرة التي شهدتها عدة محافظات، ..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-20-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%85%D8%AA%D8%B6%D8%B1%D8%B1%D8%A9-%D9%883-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A5%D8%AC%D9%84%D8%A7%D8%A1-%D9%85%D9%86-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%87%D8%B7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%B2%D9%8A%D8%B1%D8%A9",
+          "publishedAt": "2026-08-29T22:07:57.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تتسلّم أول طائرتين من طراز \"إيرباص A320\" ضمن خطة لتحديث أسطولها الجوي",
+          "excerpt": "أعلنت الهيئة العامة للطيران المدني والنقل الجوي السوري، السبت، تسلّم أول طائرتين من أصل ثماني طائرات من عائلة إيرباص A320،",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D9%84-%D8%B7%D8%A7%D8%A6%D8%B1%D8%AA%D9%8A%D9%86-%D9%85%D9%86-%D8%B7%D8%B1%D8%A7%D8%B2-%D8%A5%D9%8A%D8%B1%D8%A8%D8%A7%D8%B5-a320-%D8%B6%D9%85%D9%86-%D8%AE%D8%B7%D8%A9-%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A3%D8%B3%D8%B7%D9%88%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D9%88%D9%8A",
+          "publishedAt": "2026-08-29T21:32:06.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "Atlantic Council — المجلس الأطلسي",
+          "sourceId": "atlantic-council",
+          "circle": "مراكز الفكر",
+          "title": "A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list",
+          "excerpt": "The US removal of the country from its list of state sponsors of terrorism is big step for Syria toward its post-Assad future. The post A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list appeared first on ",
+          "link": "https://www.atlanticcouncil.org/dispatches/a-revolutionary-coffee-the-impact-of-syrias-removal-from-the-terrorism-sponsor-list/",
+          "publishedAt": "2026-08-29T20:58:56.000Z",
+          "files": [
+            "syria_general"
+          ],
+          "seenBefore": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "The National",
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "جديد على الرصد",
+      "isFollowUp": false,
+      "newItems": 9,
+      "stale": false,
+      "echoed": true,
+      "score": 54,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria's Foreign Minister discusses co-operation with Libya as embassy in Tripoli reopens",
+          "excerpt": "Syria's Foreign Minister Asaad Al Shibani discussed ways for his country to increase security and economic co-operation with Libya during a visit on Sunday to Tripoli.It was the latest stop in his tour of North African countries that took d",
+          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-libya-civil-war/",
+          "publishedAt": "2026-08-30T18:07:37.000Z",
+          "files": [
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد أكثر من 14 عاما على إغلاقها.. الشيباني يعيد افتتاح السفارة السورية في ليبيا",
+          "excerpt": "أكد وزير الخارجية والمغتربين السوري أسعد حسن الشيباني أن إعادة افتتاح السفارة السورية في العاصمة الليبية طرابلس ستسهم في تعزيز التواصل الرسمي بين البلدين، وتنظي",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-14-%D8%B9%D8%A7%D9%85%D8%A7-%D8%B9%D9%84%D9%89-%D8%A5%D8%BA%D9%84%D8%A7%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
+          "publishedAt": "2026-08-30T17:33:24.000Z",
+          "files": [
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "وزير الإعلام السعودي: زيارة وزير الإعلام السوري تعزز الشراكة الإعلامية",
+          "excerpt": "قال وزير الإعلام السعودي سلمان الدوسري: إن زيارة وزير الإعلام خالد زعرور إلى الرياض شكلت مناسبة لبحث تطوير أوجه العمل الإعلامي المشترك وتعزيز التعاون بين البلدين.",
+          "link": "https://sana.sy/syria-and-the-world/2566958/",
+          "publishedAt": "2026-08-30T17:20:58.000Z",
+          "files": [
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني يعيد افتتاح السفارة السورية في العاصمة ‏الليبية طرابلس",
+          "excerpt": "مراسل سانا في طرابلس: وصول وزير الخارجية والمغتربين أسعد حسن الشيباني إلى مقر السفارة السورية في العاصمة الليبية طرابلس لإعادة افتتاحها.",
+          "link": "https://sana.sy/syria-and-the-world/2567097/",
+          "publishedAt": "2026-08-30T17:11:24.000Z",
+          "files": [
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني والدبيبة يبحثان تعزيز العلاقات السورية الليبية وتوسيع آفاق التعاون",
+          "excerpt": "وزير الخارجية والمغتربين أسعد حسن الشيباني يلتقي اليوم الأحد، في العاصمة الليبية طرابلس، رئيس حكومة الوحدة الوطنية عبد الحميد الدبيبة",
+          "link": "https://sana.sy/syria-and-the-world/2566676/",
+          "publishedAt": "2026-08-30T12:06:26.000Z",
+          "files": [
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خاص| الشيباني في طرابلس لإعادة تنشيط العلاقات السورية–الليبية",
+          "excerpt": "وصل وزير الخارجية السوري أسعد الشيباني إلى العاصمة الليبية طرابلس، في زيارة تهدف إلى إعادة تنشيط العلاقات بين البلدين.",
+          "link": "https://www.syria.tv/%D8%AE%D8%A7%D8%B5-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%86%D8%B4%D9%8A%D8%B7-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9%E2%80%93%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A%D8%A9",
+          "publishedAt": "2026-08-30T08:46:45.000Z",
+          "files": [
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "شقق فندقية وموافقات أمنية.. كيف يرى المغتربون زيارة دمشق بعد غياب طويل؟",
+          "excerpt": "تبدأ معاناة المغترب ما إن يقرر زيارة دمشق بعد سنوات طويلة من الغياب والحرمان، وسط فوضى الحسابات الوهمية على الإنترنت وتكاليف الإيجار الخيالية وغياب التنظيم.",
+          "link": "https://www.syria.tv/%D8%B4%D9%82%D9%82-%D9%81%D9%86%D8%AF%D9%82%D9%8A%D8%A9-%D9%88%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A7%D8%AA-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D8%B1%D9%89-%D8%A7%D9%84%D9%85%D8%BA%D8%AA%D8%B1%D8%A8%D9%88%D9%86-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%BA%D9%8A%D8%A7%D8%A8-%D8%B7%D9%88%D9%8A%D9%84%D8%9F",
+          "publishedAt": "2026-08-30T03:08:19.000Z",
+          "files": [
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الخارجية السورية تتيح التقديم على قرعة الحج لعام 2027 في أوروبا ودول الخليج",
+          "excerpt": "أعلنت الخارجية السورية فتح التقديم على قرعة الحج لموسم 2027 عبر سفاراتها في أوروبا وعدد من دول الخليج، من 30 آب حتى 10 أيلول المقبل.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AA%D9%8A%D8%AD-%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D9%82%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%AC-%D9%84%D8%B9%D8%A7%D9%85-2027-%D9%81%D9%8A-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
+          "publishedAt": "2026-08-30T03:03:11.000Z",
+          "files": [
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني والخليفي يبحثان العلاقات الثنائية والتطورات الإقليمية",
+          "excerpt": "أجرى وزير الخارجية والمغتربين في سوريا أسعد الشيباني، السبت، اتصالاً هاتفياً مع وزير الدولة بوزارة الخارجية القطرية محمد بن عبد العزيز بن صالح الخليفي..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%81%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9",
+          "publishedAt": "2026-08-29T22:57:09.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
-        "Jerusalem Post — الشرق الأوسط"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-29 15:31",
+      "history": "تطوّر جديد — 8 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "score": 8,
+      "newItems": 8,
+      "stale": false,
+      "echoed": false,
+      "score": 49,
       "items": [
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "كندا ترحب باتفاق دمج &#8220;قسد&#8221; في الدولة السورية وتعدّه خطوة نحو سوريا موحدة وآمنة",
-          "link": "https://sana.sy/syria-and-the-world/2565431/",
-          "publishedAt": "2026-08-28T19:26:14.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true
+          "title": "وزير الإعلام يبحث في الرياض تعزيز التعاون وتبادل الخبرات بين &#8220;سانا&#8221; و&#8221;واس&#8221;",
+          "excerpt": "بحث وزير الإعلام خالد زعرور خلال زيارته اليوم الأحد إلى مقر وكالة الأنباء السعودية \"واس\" في الرياض، مع رئيس الوكالة المكلف حسن بن محمد الأسمري، سبل تعزيز التعاون الإخباري وتبادل الخبرات المهنية بين الوكالة العربية السورية للأنباء \"سانا\" و\"و",
+          "link": "https://sana.sy/politics/2567090/",
+          "publishedAt": "2026-08-30T17:18:18.000Z",
+          "files": [],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من خلاف إلى توتر مناطقي.. كيف أطفأ وجهاء جديدة عرطوز ودير الزور توترا كاد يتوسع؟",
+          "excerpt": "انتهت في بلدة جديدة عرطوز بريف دمشق جلسة الصلح بين أهالي البلدة ووجهاء من أبناء محافظة دير الزور، بعد يومين من التوتر الذي بدأ بخلاف بين مجموعة من الأطفال، قبل",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%AE%D9%84%D8%A7%D9%81-%D8%A5%D9%84%D9%89-%D8%AA%D9%88%D8%AA%D8%B1-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%8A-%D9%83%D9%8A%D9%81-%D8%A3%D8%B7%D9%81%D8%A3-%D9%88%D8%AC%D9%87%D8%A7%D8%A1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D8%B1%D8%B7%D9%88%D8%B2-%D9%88%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D8%AA%D9%88%D8%AA%D8%B1%D8%A7-%D9%83%D8%A7%D8%AF-%D9%8A%D8%AA%D9%88%D8%B3%D8%B9%D8%9F",
+          "publishedAt": "2026-08-30T13:50:19.000Z",
+          "files": [],
+          "seenBefore": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Kobani families demand answers on fate of 587 missing people",
+          "excerpt": "KOBANI, Syria (North Press) – Families of people abducted or missing after being captured by the Islamic State (ISIS) held a protest on Sunday in Kobani, northern Syria, demanding information about the fate of their relatives who have been ",
+          "link": "https://npasyria.com/en/140894/",
+          "publishedAt": "2026-08-30T12:28:39.000Z",
+          "files": [],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الدفاع المدني يجدد مطالبته بالكشف عن مصير المتطوع حمزة العمارين والإفراج عنه",
+          "excerpt": "جدد الدفاع المدني السوري مطالبته بالكشف عن مصير متطوعه حمزة العمارين، المنحدر من مدينة نوى بريف درعا، والإفراج عنه بشكل فوري، وذلك تزامناً مع اليوم الدولي",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%8A%D8%AC%D8%AF%D8%AF-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%AA%D9%87-%D8%A8%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D8%B5%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%88%D8%B9-%D8%AD%D9%85%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86%D9%87",
+          "publishedAt": "2026-08-30T12:09:59.000Z",
+          "files": [],
+          "seenBefore": false
         },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "العراق يرحّب بدمج «قسد» في مؤسسات الدولة السورية ويعدّه خطوة تعزز السيادة",
-          "link": "https://sana.sy/politics/2565381/",
-          "publishedAt": "2026-08-28T17:57:43.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true
+          "title": "قاديش يبحث مع وفد بريطاني تعزيز التعاون ‏ودعم التنمية",
+          "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش‎ ‎اليوم ‌‏الأحد، مع وفد بريطاني رفيع المستوى ضم السفير باري بيش وديفيد هانت رئيس ‌‏دائرة سوريا في وزارة الخارجية والكومنولث والتنمية البريطانية، أفق التعاون ‌‏الثنائي وا",
+          "link": "https://sana.sy/politics/2566606/",
+          "publishedAt": "2026-08-30T11:28:54.000Z",
+          "files": [],
+          "seenBefore": false
         },
         {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syrian president names former commander of Kurdish-led force as adviser",
-          "link": "https://www.jpost.com/middle-east/article-906912",
-          "publishedAt": "2026-08-28T16:51:43.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مؤسسة المناطق الحرة تضع اللمسات الأخيرة على منطقة نموذجية بمرفأ جاف في إدلب",
+          "excerpt": "أكد مدير الاستثمار في المناطق الحرة أن المشاركة في معرض دمشق الدولي تمثل فرصة لإعلان عودة المناطق الحرة في سوريا إلى النشاط، بعد سنوات من التهميش.",
+          "link": "https://www.syria.tv/%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9-%D8%AA%D8%B6%D8%B9-%D8%A7%D9%84%D9%84%D9%85%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%86%D9%85%D9%88%D8%B0%D8%AC%D9%8A%D8%A9-%D8%A8%D9%85%D8%B1%D9%81%D8%A3-%D8%AC%D8%A7%D9%81-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8",
+          "publishedAt": "2026-08-30T03:03:36.000Z",
+          "files": [],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "صلح بين أهالي جديدة عرطوز ووجهاء من دير الزور ينهي التوتر في البلدة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا، مساء اليوم، ببدء جلسة صلح في مسجد الرحمن وسط بلدة جديدة عرطوز بريف دمشق، بين أهالي البلدة ووجهاء من أبناء محافظة ..",
+          "link": "https://www.syria.tv/%D8%B5%D9%84%D8%AD-%D8%A8%D9%8A%D9%86-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D8%B1%D8%B7%D9%88%D8%B2-%D9%88%D9%88%D8%AC%D9%87%D8%A7%D8%A1-%D9%85%D9%86-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%8A%D9%86%D9%87%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D8%A9",
+          "publishedAt": "2026-08-29T21:24:25.000Z",
+          "files": [],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "استهدافان في نوى غربي درعا.. مقتل شاب ونجاة محامٍ من محاولة اغتيال",
+          "excerpt": "قُتل شاب وأصيب آخر، مساء السبت، من جراء إطلاق نار نفذه مسلحون مجهولون في مدينة نوى بريف محافظة درعا الغربي، وفق ما أفاد به موقع \"درعا 24\".",
+          "link": "https://www.syria.tv/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81%D8%A7%D9%86-%D9%81%D9%8A-%D9%86%D9%88%D9%89-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%88%D9%86%D8%AC%D8%A7%D8%A9-%D9%85%D8%AD%D8%A7%D9%85%D9%8D-%D9%85%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84",
+          "publishedAt": "2026-08-29T20:25:24.000Z",
+          "files": [],
+          "seenBefore": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 4,
+      "stale": false,
+      "echoed": false,
+      "score": 30,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي",
+          "excerpt": "أفاد مراسل تلفزيون سوريا، الأحد، بأن دورية تابعة لقوات الاحتلال الإسرائيلي، مؤلفة من ست آليات عسكرية، توغلت في قرية طرنجة بريف القنيطرة..",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
+          "publishedAt": "2026-08-30T18:28:30.000Z",
           "files": [
-            "sdf"
+            "israel"
           ],
-          "seenBefore": true
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يقتحم منطقة الكسارات في جباتا الخشب بريف القنيطرة",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الأحد، في محيط بلدة جباتا الخشب بريف القنيطرة الشمالي، ونفذت حملة تفتيش في منطقة الكسارات بالبلدة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-08-30T12:32:53.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces fire toward houses in Syria&#8217;s Daraa",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Sunday opened heavy machine-gun fire from the Al-Jazira military barracks toward houses in the village of Maariya in western Daraa, southern Syria. Local sources told North Press the gunfire ca",
+          "link": "https://npasyria.com/en/140873/",
+          "publishedAt": "2026-08-30T07:52:09.000Z",
+          "files": [
+            "israel",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يستهدف أحياء سكنية في قرية معرية غربي درعا",
+          "excerpt": "أطلقت قوات الاحتلال الإسرائيلي المتمركزة في ثكنة الجزيرة، الأحد نيرانًا كثيفة من أسلحة ثقيلة باتجاه الأحياء السكنية في قرية معرية بريف درعا الغربي، وفقاً لما",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%B3%D9%83%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-08-30T07:39:51.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false
         }
       ]
     },
     {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط"
+        "تلفزيون سوريا",
+        "Al-Monitor"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-29 15:31",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "score": 3,
+      "newItems": 3,
+      "stale": false,
+      "echoed": false,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بتعاون سوري-تركي.. جسر حربي عائم يعيد ربط ضفتي الفرات في الميادين",
+          "excerpt": "أعلن وزارة الدفاع السورية، الأحد، الانتهاء من تركيب جسر حربي عائم جديد، بالتعاون مع الجيش التركي، لربط ضفتي نهر الفرات في منطقة الميادين شرقي دير الزور. وقالت",
+          "link": "https://www.syria.tv/%D8%A8%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D8%AC%D8%B3%D8%B1-%D8%AD%D8%B1%D8%A8%D9%8A-%D8%B9%D8%A7%D8%A6%D9%85-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%B1%D8%A8%D8%B7-%D8%B6%D9%81%D8%AA%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86",
+          "publishedAt": "2026-08-30T18:41:30.000Z",
+          "files": [
+            "turkey",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Kurdish families honour their dead on road to peace with Turkey",
+          "excerpt": "<p>Menal Konak's brother, Mahmut, was 18 when he left to join the Kurdistan Workers' Party (PKK) in Syria in 2014. He died six years ago but she only found out this week.</p> <p>The Turkish authorities have now begun publishing lists of \"ma",
+          "link": "https://www.al-monitor.com/originals/2026/08/kurdish-families-honour-their-dead-road-peace-turkey",
+          "publishedAt": "2026-08-30T15:30:25.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بنك \"زراعات\" التركي يعتزم فتح فرع في سوريا قبل نهاية 2026",
+          "excerpt": "أكد رئيس مجلس الأعمال التركي السوري، محسوم ألتون كايا، استمرار تحسن في العلاقات التجارية والقطاع المصرفي بين بلاده وسوريا، مشيراً إلى أن بنك \"زراعات\" التركي يعت",
+          "link": "https://www.syria.tv/%D8%A8%D9%86%D9%83-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B9%D8%AA%D8%B2%D9%85-%D9%81%D8%AA%D8%AD-%D9%81%D8%B1%D8%B9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A8%D9%84-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-2026",
+          "publishedAt": "2026-08-30T11:32:24.000Z",
+          "files": [
+            "turkey",
+            "economy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 3,
+      "stale": false,
+      "echoed": false,
+      "score": 24,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني يبحث في طرابلس تعزيز التعاون السوري الليبي بقطاعي الطاقة والاستثمار",
+          "excerpt": "بحث وزير الخارجية والمغتربين السوري أسعد حسن الشيباني، خلال زيارته إلى العاصمة الليبية طرابلس الأحد مع وزير النفط والغاز الليبي خليفة عبد الصادق",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%81%D9%8A-%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A-%D8%A8%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
+          "publishedAt": "2026-08-30T13:42:03.000Z",
+          "files": [
+            "economy",
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
-          "title": "Turkish presence in Syria poses threat to Israel due to Ankara’s NATO combat doctrine, expert warns",
-          "link": "https://www.jpost.com/middle-east/article-906941",
-          "publishedAt": "2026-08-29T09:50:10.000Z",
+          "title": "Syria’s credit card comeback, Damascus International Fair mark return to global economy",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/735757' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
+          "link": "https://www.jpost.com/middle-east/article-907005",
+          "publishedAt": "2026-08-30T12:32:28.000Z",
           "files": [
-            "turkey",
-            "israel"
+            "economy",
+            "syria_general"
           ],
-          "seenBefore": true
+          "seenBefore": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني يبحث تعزيز العلاقات السورية-الليبية والتعاون في الطاقة والاستثمار",
+          "excerpt": "وزير الخارجية والمغتربين أسعد حسن الشيباني، يلتقي اليوم الأحد، في العاصمة ‏الليبية طرابلس، المكلف بتسيير أعمال وزارة الخارجية ‏والتعاون الدولي في دولة ‏ليبيا الطاهر الباعور، وناقش الجانبان سبل تعزيز العلاقة الأخوية بين البلدين",
+          "link": "https://sana.sy/syria-and-the-world/2566630/",
+          "publishedAt": "2026-08-30T11:35:38.000Z",
+          "files": [
+            "economy",
+            "diplomacy",
+            "syria_general"
+          ],
+          "seenBefore": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "score": 12,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran vows to resist sanctions as war passes 6-month mark",
+          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
+          "link": "https://npasyria.com/en/140867/",
+          "publishedAt": "2026-08-30T06:20:50.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "score": 12,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد أن حلت قسد نفسها ومن قبلها \"ب ك ك\" .. هل انتهى دور منظمات ما دون الدولة؟",
+          "excerpt": "تعرف منظمات ما دون الدولة، بأنها التنظيمات والقوى التي تملك كيانات تعمل سياسياً أو عسكرياً أو اجتماعياً خارج إطار الدولة الرسمي، كالأحزاب والحركات السياسية..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%86-%D8%AD%D9%84%D8%AA-%D9%82%D8%B3%D8%AF-%D9%86%D9%81%D8%B3%D9%87%D8%A7-%D9%88%D9%85%D9%86-%D9%82%D8%A8%D9%84%D9%87%D8%A7-%D8%A8-%D9%83-%D9%83-%D9%87%D9%84-%D8%A7%D9%86%D8%AA%D9%87%D9%89-%D8%AF%D9%88%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA-%D9%85%D8%A7-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%9F",
+          "publishedAt": "2026-08-30T03:04:49.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "score": 8,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "واشنطن: استقرار لبنان مرهون بنزع سلاح \"حزب الله\"",
+          "excerpt": "طالبت الولايات المتحدة الأمريكية، أمس السبت، حزب الله بنزع سلاحه، مؤكدة أن الحكومة اللبنانية هي الجهة الشرعية الوحيدة المخولة بالتفاوض بشأن مستقبل البلاد.",
+          "link": "https://www.syria.tv/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D8%B1%D9%87%D9%88%D9%86-%D8%A8%D9%86%D8%B2%D8%B9-%D8%B3%D9%84%D8%A7%D8%AD-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
+          "publishedAt": "2026-08-30T03:06:03.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": false
         }
       ]
     }
