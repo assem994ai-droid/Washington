@@ -73,6 +73,8 @@ function parseFeed(xml) {
   return blocks.map((b) => ({
     title: tag(b, "title"),
     link: linkOf(b),
+    // المقتطف: كثير من الأخبار المهمة لا تذكر سوريا في العنوان بل في السطر الأول
+    excerpt: (tag(b, "description") || tag(b, "summary") || tag(b, "content:encoded") || tag(b, "content")).slice(0, 400),
     rawDate:
       tag(b, "pubDate") ||
       tag(b, "published") ||
@@ -157,8 +159,8 @@ const keywords = (cfg.keywords || []).map((k) => k.toLowerCase());
 const items = [];
 const errors = [];
 
-function matchesKeywords(title) {
-  const t = title.toLowerCase();
+function matchesKeywords(title, excerpt) {
+  const t = (title + " " + (excerpt || "")).toLowerCase();
   return keywords.some((k) => t.includes(k));
 }
 
@@ -194,13 +196,14 @@ for (const src of cfg.sources) {
       if (isNaN(d.getTime())) continue;      // تاريخ غير مفهوم → نتجاهله
 
       if (d < from || d > now) { tooOld++; continue; }          // خارج النافذة
-      if (src.filter && !matchesKeywords(r.title)) { offTopic++; continue; }
+      if (src.filter && !matchesKeywords(r.title, r.excerpt)) { offTopic++; continue; }
 
       items.push({
         source: src.name,
         sourceId: src.id,
         circle: src.circle,
         title: r.title,
+        excerpt: (r.excerpt || "").slice(0, 240),
         link: r.link,
         publishedAt: d.toISOString(),
       });

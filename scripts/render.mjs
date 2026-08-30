@@ -53,11 +53,13 @@ const urgentId = say.urgent || (a.files[0] && a.files[0].newItems > 0 ? a.files[
 const urgent = a.files.find((f) => f.id === urgentId) || null;
 const rest = a.files.filter((f) => f !== urgent);
 
-const vClass = (v) => v.startsWith("متنازع") ? "v-contested" : v.startsWith("مصدران") ? "v-ok" : "v-single";
+const vClass = (v) => v.startsWith("متنازع") ? "v-contested"
+  : v.includes("متطابقة") ? "v-echo"
+  : v.startsWith("مصدران") ? "v-ok" : "v-single";
 
 const itemsList = (f) => `
     <ul class="items">${f.items.map((i) => `
-      <li${i.seenBefore ? ' class="old"' : ""}>${i.seenBefore ? "" : '<span class="tag-new">جديد</span> '}<a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><span class="meta">${esc(i.source)} · ${fmt(i.publishedAt)} UTC${i.seenBefore ? " · سبق عرضه" : ""}</span></li>`).join("")}
+      <li${i.seenBefore ? ' class="old"' : ""}>${i.seenBefore ? "" : '<span class="tag-new">جديد</span> '}<a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><span class="meta">${esc(i.source)} · ${fmt(i.publishedAt)} UTC${i.seenBefore ? " · سبق عرضه" : ""}</span>${i.excerpt ? `<span class="ex">${esc(i.excerpt)}</span>` : ""}</li>`).join("")}
     </ul>`;
 
 const pending = (what) => `<div class="pending">${what}</div>`;
@@ -204,7 +206,12 @@ const html = `<!doctype html>
   .runbar p{margin:0;font-size:.82rem;color:var(--ink-muted);max-width:60ch}
   .runbtn{font-size:.9rem;font-weight:600;background:var(--ok);color:var(--bg);border-radius:8px;
     padding:9px 20px;text-decoration:none;white-space:nowrap}
+  .runbtn{font-family:inherit;border:1px solid var(--ok);cursor:pointer}
   .runbtn:hover{filter:brightness(1.08)}
+  .runbtn:active{transform:translateY(1px)}
+  .runbtn:disabled{opacity:.7;cursor:default}
+  .runbtn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  .sub-run{margin:6px 0 0 !important;font-size:.78rem}
   .fresh{font-size:.79rem;color:var(--ink-faint);margin:0 0 16px;min-height:1.2em}
   .fresh.hot{color:var(--ok);font-weight:600}
 
@@ -254,6 +261,7 @@ const html = `<!doctype html>
   .chip.v-ok{color:var(--ok);border-color:var(--ok);background:transparent}
   .chip.v-single{color:var(--watch);border-color:var(--watch);background:transparent}
   .chip.v-contested{color:var(--challenge);border-color:var(--challenge);background:transparent;border-style:dashed}
+  .chip.v-echo{color:var(--accent-ink);border-color:var(--accent);background:transparent;border-style:dashed}
   .chip.follow{color:var(--accent-ink);border-color:var(--accent)}
   .chip.stale{color:var(--ink-faint);border-style:dashed}
 
@@ -262,6 +270,8 @@ const html = `<!doctype html>
   .items li{margin-bottom:8px;font-size:.91rem}
   .items li.old{color:var(--ink-muted)}
   .items .meta{display:block;font-size:.75rem;color:var(--ink-faint);margin-top:1px}
+  .items .ex{display:block;font-size:.8rem;color:var(--ink-muted);margin-top:4px;max-width:76ch}
+  .urgent .items .ex{color:color-mix(in srgb, var(--urgent-ink) 72%, transparent)}
   .tag-new{font-size:.62rem;font-weight:700;padding:1px 6px;border-radius:4px;
     background:var(--ok);color:var(--bg);margin-inline-end:4px;vertical-align:2px}
   .comment{background:var(--comment-bg);border-inline-start:3px solid var(--comment-accent);
@@ -321,9 +331,10 @@ const html = `<!doctype html>
   <section class="runbar">
     <div>
       <h2>تحديث الآن</h2>
-      <p>يفتح صفحة التشغيل في GitHub. اضغط هناك <b>Run workflow</b>، ثم عُد إلى هذه الصفحة — ستكتشف الدورة الجديدة وتحدّث نفسها.</p>
+      <p>الدورة تعمل تلقائياً كل ثلاث ساعات وتبحث عن كل جديد بلا تدخل. هذا الزر يسأل فوراً: هل وصلت دورة أحدث؟ فإن وصلت حدّثت الصفحة نفسها.</p>
+      <p class="sub-run"><a href="${RUN_URL}" target="_blank" rel="noopener">تشغيل دورة استثنائية الآن في GitHub ↗</a></p>
     </div>
-    <a class="runbtn" href="${RUN_URL}" target="_blank" rel="noopener">تحديث الآن ↗</a>
+    <button class="runbtn" id="runbtn" type="button">تحديث الآن</button>
   </section>
   <p class="fresh" id="fresh"></p>
 
@@ -382,20 +393,43 @@ const html = `<!doctype html>
     if(h < 24) return "منذ " + h + " ساعة";
     return "منذ " + Math.floor(h/24) + " يوم";
   }
-  function paint(){ el.textContent = "آخر دورة: " + since(); }
+  function paint(){ if(!el.classList.contains("hot")) el.textContent = "آخر دورة: " + since(); }
   paint(); setInterval(paint, 30000);
+
+  function arrived(){
+    el.className = "fresh hot";
+    el.textContent = "وصلت دورة أحدث — يجري تحديث الصفحة…";
+    setTimeout(function(){ location.reload(); }, 1000);
+  }
+
+  // فحص صامت كل نصف دقيقة بينما الصفحة أمامك
   setInterval(function(){
     if(document.visibilityState !== "visible") return;
     fetch("analysis.json?t=" + Date.now(), { cache: "no-store" })
       .then(function(r){ return r.ok ? r.json() : null; })
-      .then(function(d){
-        if(!d || !d.cycle || d.cycle.generatedAt === CURRENT) return;
-        el.className = "fresh hot";
-        el.textContent = "وصلت دورة أحدث — يجري تحديث الصفحة…";
-        setTimeout(function(){ location.reload(); }, 1200);
-      })
+      .then(function(d){ if(d && d.cycle && d.cycle.generatedAt !== CURRENT) arrived(); })
       .catch(function(){});
   }, 30000);
+
+  // الزر: فحص فوري بطلب المستخدم
+  var btn = document.getElementById("runbtn");
+  if(btn){
+    var IDLE = btn.textContent;
+    btn.addEventListener("click", function(){
+      btn.disabled = true; btn.textContent = "يتحقق…";
+      function back(msg){
+        btn.textContent = msg;
+        setTimeout(function(){ btn.textContent = IDLE; btn.disabled = false; }, 2400);
+      }
+      fetch("analysis.json?t=" + Date.now(), { cache: "no-store" })
+        .then(function(r){ return r.ok ? r.json() : null; })
+        .then(function(d){
+          if(d && d.cycle && d.cycle.generatedAt !== CURRENT){ arrived(); return; }
+          back("لا جديد بعد");
+        })
+        .catch(function(){ back("تعذّر التحقق"); });
+    });
+  }
 })();
 </script>
 </body>

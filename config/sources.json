@@ -1,21 +1,45 @@
 {
   "windowHours": 24,
   "keywords": [
-    "syria", "syrian", "damascus", "sharaa", "shaibani",
-    "golan", "quneitra", "daraa", "beit jinn",
-    "sdf", "caesar act", "hayat tahrir",
-    "سوريا", "سوري", "سورية", "دمشق", "الشرع", "الشيباني",
-    "الجولان", "القنيطرة", "درعا", "بيت جن", "قسد", "قيصر"
+    "syria",
+    "syrian",
+    "damascus",
+    "sharaa",
+    "shaibani",
+    "golan",
+    "quneitra",
+    "daraa",
+    "beit jinn",
+    "sdf",
+    "caesar act",
+    "hayat tahrir",
+    "سوريا",
+    "سوري",
+    "سورية",
+    "دمشق",
+    "الشرع",
+    "الشيباني",
+    "الجولان",
+    "القنيطرة",
+    "درعا",
+    "بيت جن",
+    "قسد",
+    "قيصر"
   ],
   "sources": [
-        {
+    {
       "id": "congress-watch",
       "name": "Congress.gov — مشاريع تحت المتابعة",
       "circle": "الكونغرس",
       "type": "congress",
       "filter": false,
       "bills": [
-        { "congress": 119, "type": "s", "number": 3172, "label": "S.3172 — إلغاء العقوبات على سوريا" }
+        {
+          "congress": 119,
+          "type": "s",
+          "number": 3172,
+          "label": "S.3172 — إلغاء العقوبات على سوريا"
+        }
       ]
     },
     {
@@ -84,11 +108,66 @@
     },
     {
       "id": "sana-ar",
-      "name": "سانا — وكالة الأنباء السورية",
+      "name": "سانا — قسم السياسة",
       "circle": "المصادر الرسمية السورية",
       "type": "rss",
-      "name": "سانا — قسم السياسة",
       "url": "https://sana.sy/politics/feed/",
+      "filter": true
+    },
+    {
+      "id": "crisisgroup",
+      "name": "International Crisis Group",
+      "circle": "مراكز الفكر",
+      "type": "rss",
+      "url": "https://www.crisisgroup.org/rss.xml",
+      "filter": true
+    },
+    {
+      "id": "unpress",
+      "name": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+      "circle": "التقارير الرسمية الدورية",
+      "type": "rss",
+      "url": "https://press.un.org/en/rss.xml",
+      "filter": true
+    },
+    {
+      "id": "turkishminute",
+      "name": "Turkish Minute",
+      "circle": "الملف التركي",
+      "type": "rss",
+      "url": "https://turkishminute.com/feed/",
+      "filter": true
+    },
+    {
+      "id": "ynet-en",
+      "name": "Ynet News (English)",
+      "circle": "الملف الإسرائيلي",
+      "type": "rss",
+      "url": "https://www.ynetnews.com/Integration/StoryRss3082.xml",
+      "filter": true
+    },
+    {
+      "id": "mee",
+      "name": "Middle East Eye",
+      "circle": "الإعلام المتخصص",
+      "type": "rss",
+      "url": "https://www.middleeasteye.net/rss",
+      "filter": true
+    },
+    {
+      "id": "npasyria-en",
+      "name": "North Press Agency (English)",
+      "circle": "الإعلام السوري المستقل",
+      "type": "rss",
+      "url": "https://npasyria.com/en/feed/",
+      "filter": true
+    },
+    {
+      "id": "syriatv-ar",
+      "name": "تلفزيون سوريا",
+      "circle": "الإعلام السوري المستقل",
+      "type": "rss",
+      "url": "https://www.syria.tv/rss.xml",
       "filter": true
     }
   ]

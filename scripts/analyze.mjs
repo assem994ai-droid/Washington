@@ -90,10 +90,12 @@ for (const it of cur.items || []) {
 const files = Object.entries(groups).map(([id, items]) => {
   const sourceIds = [...new Set(items.map((i) => i.sourceId))];
   const circles = [...new Set(items.map((i) => i.circle))];
-  const contested = items.some((i) => hasDenial(i.title));
+  const contested = items.some((i) => hasDenial(i.title + " " + (i.excerpt || "")));
+  const echoed = sourceIds.length >= 2 && sameWording(items);
 
   let verification;
   if (contested) verification = "متنازع عليه — يحتاج تحققاً";
+  else if (echoed) verification = "مصدران بصياغة متطابقة — قد يعودان لأصل واحد";
   else if (sourceIds.length >= 2) verification = "مصدران مستقلان فأكثر";
   else verification = "مصدر واحد";
 
@@ -116,12 +118,40 @@ const files = Object.entries(groups).map(([id, items]) => {
     verification, contested,
     independentSources: sourceIds.length,
     sources: [...new Set(items.map((i) => i.source))],
-    circles, history, isFollowUp: Boolean(prev), newItems, stale: Boolean(prev) && newItems === 0,
+    circles, history, isFollowUp: Boolean(prev), newItems, stale: Boolean(prev) && newItems === 0, echoed,
     score, items,
   };
 });
 
 files.sort((a, b) => b.score - a.score);
+
+// ------------------------------------------------------------
+// (3-ب) كشف الصياغة المتطابقة تقريباً
+//   مصدران ينقلان نص وكالة واحدة ليسا مصدرين مستقلين.
+//   نقارن كلمات العنوانين: تطابق عالٍ = نسخة واحدة برأسين.
+// ------------------------------------------------------------
+function words(t) {
+  return new Set(
+    String(t || "").toLowerCase()
+      .replace(/[^\p{L}\p{N}\s]/gu, " ")
+      .split(/\s+/)
+      .filter((w) => w.length >= 4)
+  );
+}
+function overlap(a, b) {
+  const A = words(a), B = words(b);
+  if (A.size < 3 || B.size < 3) return 0;
+  let hit = 0;
+  for (const w of A) if (B.has(w)) hit++;
+  return hit / Math.min(A.size, B.size);
+}
+function sameWording(items) {
+  for (let i = 0; i < items.length; i++)
+    for (let j = i + 1; j < items.length; j++)
+      if (items[i].sourceId !== items[j].sourceId &&
+          overlap(items[i].title, items[j].title) >= 0.6) return true;
+  return false;
+}
 
 // ------------------------------------------------------------
 // (4) الدوائر التي لم تُنتج شيئاً — تُذكر بالاسم لا بالصمت
@@ -142,6 +172,7 @@ const out = {
     withNew: files.filter((f) => f.newItems > 0 || !f.isFollowUp).length,
     stale: files.filter((f) => f.stale).length,
     contested: files.filter((f) => f.contested).length,
+    echoed: files.filter((f) => f.echoed).length,
     archiveCycles: archive.length,
   },
   emptyCircles,
