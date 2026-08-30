@@ -1,19 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-30T20:01:59.725Z",
+    "generatedAt": "2026-08-30T20:33:37.605Z",
     "windowHours": 24,
-    "from": "2026-08-29T20:01:59.725Z",
-    "to": "2026-08-30T20:01:59.725Z"
+    "from": "2026-08-29T20:33:37.605Z",
+    "to": "2026-08-30T20:33:37.605Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 17,
     "files": 7,
-    "withNew": 2,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "archiveCycles": 10
+    "americanItems": 4,
+    "archiveCycles": 11
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,20 +32,23 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 4,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
-      "score": 34,
+      "usItems": 2,
+      "score": 28,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -57,7 +61,8 @@
           "files": [
             "israel"
           ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "تلفزيون سوريا",
@@ -70,33 +75,22 @@
           "files": [
             "israel"
           ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "خروقات مستمرة في غزة.. مقتل شاب متأثرا بجراحه وإصابة مسنة بنيران إسرائيلية",
-          "excerpt": "الشاب محمد ناصر الدين، البالغ من العمر 21 عاماً، توفي متأثراً بجروح أصيب بها الأسبوع الماضي، من جراء قصف إسرائيلي استهدف تجمعاً لمدنيين في حي الأمل غربي",
-          "link": "https://www.syria.tv/%D8%AE%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%85%D8%AA%D8%A3%D8%AB%D8%B1%D8%A7-%D8%A8%D8%AC%D8%B1%D8%A7%D8%AD%D9%87-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%B3%D9%86%D8%A9-%D8%A8%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-08-30T10:34:05.000Z",
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Gaza's catch-22: Trump's peace plan caught between Hamas disarmament, Israeli withdrawal - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1868,w_2802/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHI",
+          "link": "https://www.jpost.com/middle-east/article-907003",
+          "publishedAt": "2026-08-30T12:09:38.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إصابة 6 فلسطينيين خلال اقتحام إسرائيلي لمخيم الفارعة بالضفة الغربية",
-          "excerpt": "أصيب 6 فلسطينيين بالاختناق، مساء السبت، من جراء إطلاق قوات الاحتلال الإسرائيلي قنابل الغاز المسيل للدموع خلال اقتحامها مخيم الفارعة للاجئين جنوبي مدينة طوباس",
-          "link": "https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-6-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D8%B9%D8%A9-%D8%A8%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
-          "publishedAt": "2026-08-30T09:19:29.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false
+          "seenBefore": false,
+          "us": true
         },
         {
           "source": "North Press Agency (English)",
@@ -109,7 +103,8 @@
           "files": [
             "israel"
           ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "تلفزيون سوريا",
@@ -122,33 +117,60 @@
           "files": [
             "israel"
           ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "North Press Agency (English)",
+        "Atlantic Council — المجلس الأطلسي"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:01",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 10,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran vows to resist sanctions as war passes 6-month mark",
+          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
+          "link": "https://npasyria.com/en/140867/",
+          "publishedAt": "2026-08-30T06:20:50.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "جنوب إفريقيا تقدم ملفا لعدم امتثال الاحتلال الإسرائيلي لقرارات العدل الدولية",
-          "excerpt": "قدمت جنوب إفريقيا ملفًا شاملًا إلى محكمة العدل الدولية بشأن عدم امتثال إسرائيل للتدابير المؤقتة التي أمرت بها المحكمة في دعوى الإبادة الجماعية المرفوعة ضدها.",
-          "link": "https://www.syria.tv/%D8%AC%D9%86%D9%88%D8%A8-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%AA%D9%82%D8%AF%D9%85-%D9%85%D9%84%D9%81%D8%A7-%D9%84%D8%B9%D8%AF%D9%85-%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-08-29T22:04:50.000Z",
+          "source": "Atlantic Council — المجلس الأطلسي",
+          "sourceId": "atlantic-council",
+          "circle": "مراكز الفكر",
+          "title": "A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list",
+          "excerpt": "The US removal of the country from its list of state sponsors of terrorism is big step for Syria toward its post-Assad future. The post A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list appeared first on ",
+          "link": "https://www.atlanticcouncil.org/dispatches/a-revolutionary-coffee-the-impact-of-syrias-removal-from-the-terrorism-sponsor-list/",
+          "publishedAt": "2026-08-29T20:58:56.000Z",
           "files": [
-            "israel"
+            "sanctions"
           ],
-          "seenBefore": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مقتل 3 فلسطينيين وإصابة 6 آخرين بهجمات إسرائيلية متفرقة على قطاع غزة",
-          "excerpt": "قتل 3 فلسطينيين وأصيب 6 آخرون، السبت، في سلسلة هجمات إسرائيلية استهدفت مناطق متفرقة من قطاع غزة منذ ساعات الصباح، وشملت..",
-          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-3-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-6-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D8%AA%D9%81%D8%B1%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D9%82%D8%B7%D8%A7%D8%B9-%D8%BA%D8%B2%D8%A9",
-          "publishedAt": "2026-08-29T20:16:03.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -157,26 +179,24 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 3,
       "sources": [
         "The National",
         "North Press Agency (English)",
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "Atlantic Council — المجلس الأطلسي"
+        "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "مراكز الفكر"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:01",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
-      "score": 30,
+      "usItems": 0,
+      "score": 8,
       "items": [
         {
           "source": "The National",
@@ -187,7 +207,8 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
           "publishedAt": "2026-08-30T19:36:36.000Z",
           "files": [],
-          "seenBefore": false
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "North Press Agency (English)",
@@ -198,18 +219,8 @@
           "link": "https://npasyria.com/en/140903/",
           "publishedAt": "2026-08-30T17:24:32.000Z",
           "files": [],
-          "seenBefore": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Kurdish teachers protest over Syria’s education decision",
-          "excerpt": "QAMISHLI, Syria (North Press) – Kurdish language teachers held a protest outside the Hasakah Education Directorate on Sunday, rejecting a Syrian Education Ministry decision and demanding Kurdish be recognized as a language of instruction. I",
-          "link": "https://npasyria.com/en/140897/",
-          "publishedAt": "2026-08-30T17:04:45.000Z",
-          "files": [],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "سانا — قسم السياسة",
@@ -220,18 +231,8 @@
           "link": "https://sana.sy/syria-and-the-world/2566687/",
           "publishedAt": "2026-08-30T12:17:09.000Z",
           "files": [],
-          "seenBefore": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "خامنئي يدعو في رسالة مكتوبة إلى \"وحدة المسلمين ضد الأعداء\"",
-          "excerpt": "نشر حساب المرشد الإيراني مجتبى خامنئي على تليغرام، اليوم الأحد، رسالة مكتوبة دعا فيها إلى التعاون والوحدة بين المسلمين في العالم، والدفاع المشترك ضد من وصفهم بـ",
-          "link": "https://www.syria.tv/%D8%AE%D8%A7%D9%85%D9%86%D8%A6%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D9%81%D9%8A-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%85%D9%83%D8%AA%D9%88%D8%A8%D8%A9-%D8%A5%D9%84%D9%89-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B9%D8%AF%D8%A7%D8%A1",
-          "publishedAt": "2026-08-30T07:37:18.000Z",
-          "files": [],
-          "seenBefore": false
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "North Press Agency (English)",
@@ -242,18 +243,8 @@
           "link": "https://npasyria.com/en/140865/",
           "publishedAt": "2026-08-30T05:52:08.000Z",
           "files": [],
-          "seenBefore": true
-        },
-        {
-          "source": "Atlantic Council — المجلس الأطلسي",
-          "sourceId": "atlantic-council",
-          "circle": "مراكز الفكر",
-          "title": "A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list",
-          "excerpt": "The US removal of the country from its list of state sponsors of terrorism is big step for Syria toward its post-Assad future. The post A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list appeared first on ",
-          "link": "https://www.atlanticcouncil.org/dispatches/a-revolutionary-coffee-the-impact-of-syrias-removal-from-the-terrorism-sponsor-list/",
-          "publishedAt": "2026-08-29T20:58:56.000Z",
-          "files": [],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -271,11 +262,12 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 19:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:01",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
+      "usItems": 0,
       "score": 8,
       "items": [
         {
@@ -289,7 +281,8 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "Al-Monitor",
@@ -302,7 +295,8 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "تلفزيون سوريا",
@@ -316,41 +310,8 @@
             "turkey",
             "economy"
           ],
-          "seenBefore": true
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 19:36",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "score": 3,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran vows to resist sanctions as war passes 6-month mark",
-          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
-          "link": "https://npasyria.com/en/140867/",
-          "publishedAt": "2026-08-30T06:20:50.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -366,11 +327,12 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 19:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:01",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
+      "usItems": 0,
       "score": 3,
       "items": [
         {
@@ -384,41 +346,8 @@
           "files": [
             "sdf"
           ],
-          "seenBefore": true
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 19:36",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "score": -1,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria’s credit card comeback, Damascus International Fair mark return to global economy",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/735757' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
-          "link": "https://www.jpost.com/middle-east/article-907005",
-          "publishedAt": "2026-08-30T12:32:28.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -434,12 +363,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 19:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:01",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "score": -1,
+      "usItems": 1,
+      "score": 2,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -452,7 +382,44 @@
           "files": [
             "lebanon"
           ],
-          "seenBefore": true
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:01",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syria’s credit card comeback, Damascus International Fair mark return to global economy",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/735757' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
+          "link": "https://www.jpost.com/middle-east/article-907005",
+          "publishedAt": "2026-08-30T12:32:28.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     }
