@@ -1,26 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-30T20:41:07.980Z",
+    "generatedAt": "2026-08-30T21:02:23.522Z",
     "windowHours": 24,
-    "from": "2026-08-29T20:41:07.980Z",
-    "to": "2026-08-30T20:41:07.980Z"
+    "from": "2026-08-29T21:02:23.522Z",
+    "to": "2026-08-30T21:02:23.522Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 17,
-    "files": 7,
-    "withNew": 0,
+    "files": 8,
+    "withNew": 1,
     "stale": 7,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 12
+    "archiveCycles": 13
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام الدولي",
+    "مراكز الفكر",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -42,7 +42,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -123,53 +123,37 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "North Press Agency (English)",
-        "Atlantic Council — المجلس الأطلسي"
+        "Al Jazeera English"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
+        "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 10,
+      "usItems": 0,
+      "score": 8,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran vows to resist sanctions as war passes 6-month mark",
-          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
-          "link": "https://npasyria.com/en/140867/",
-          "publishedAt": "2026-08-30T06:20:50.000Z",
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+          "excerpt": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
+          "link": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+          "publishedAt": "2026-08-30T20:38:56.000Z",
           "files": [
-            "sanctions"
+            "diplomacy"
           ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Atlantic Council — المجلس الأطلسي",
-          "sourceId": "atlantic-council",
-          "circle": "مراكز الفكر",
-          "title": "A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list",
-          "excerpt": "The US removal of the country from its list of state sponsors of terrorism is big step for Syria toward its post-Assad future. The post A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list appeared first on ",
-          "link": "https://www.atlanticcouncil.org/dispatches/a-revolutionary-coffee-the-impact-of-syrias-removal-from-the-terrorism-sponsor-list/",
-          "publishedAt": "2026-08-29T20:58:56.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         }
       ]
@@ -190,7 +174,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -262,7 +246,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -316,6 +300,42 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran vows to resist sanctions as war passes 6-month mark",
+          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
+          "link": "https://npasyria.com/en/140867/",
+          "publishedAt": "2026-08-30T06:20:50.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -327,7 +347,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -363,7 +383,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -399,7 +419,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,

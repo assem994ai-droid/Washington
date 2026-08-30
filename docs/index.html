@@ -72,7 +72,10 @@
   .runbtn:active{transform:translateY(1px)}
   .runbtn:disabled{opacity:.7;cursor:default}
   .runbtn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  .runacts{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
   .sub-run{margin:6px 0 0 !important;font-size:.78rem}
+  .runbtn.ghost{background:transparent;color:var(--ok);border:1px solid var(--ok)}
+  .runbtn.ghost:hover{background:color-mix(in srgb, var(--ok) 12%, transparent)}
   .fresh{font-size:.79rem;color:var(--ink-faint);margin:0 0 16px;min-height:1.2em}
   .fresh.hot{color:var(--ok);font-weight:600}
 
@@ -187,24 +190,24 @@
         <span class="tag">الدورة اليومية</span>
       </div>
     </div>
-    <p class="updated">آخر دورة: 2026-08-30 20:41 UTC · 17 بند · 7 ملف · 7 بلا جديد</p>
+    <p class="updated">آخر دورة: 2026-08-30 21:02 UTC · 17 بند · 8 ملف · 7 بلا جديد</p>
   </header>
 
   <section class="runbar">
     <div>
       <h2>تحديث الآن</h2>
-      <p>الدورة تعمل تلقائياً كل ثلاث ساعات وتبحث عن كل جديد بلا تدخل. هذا الزر يسأل فوراً: هل وصلت دورة أحدث؟ فإن وصلت حدّثت الصفحة نفسها.</p>
-      <p class="sub-run"><a href="https://github.com/assem994ai-droid/Washington/actions/workflows/cycle.yml" target="_blank" rel="noopener">تشغيل دورة استثنائية الآن في GitHub ↗</a></p>
+      <p>المنصة تجمع الأخبار وحدها <b>كل عشر دقائق</b> بلا أي تدخل، ولا تُحدَّث هذه الصفحة إلا حين يصل خبر جديد فعلاً. اضغط الزر لتسأل فوراً: هل وصل جديد؟</p>
+      <p class="sub-run"><a href="https://github.com/assem994ai-droid/Washington/actions/workflows/cycle.yml" target="_blank" rel="noopener">تشغيل دورة استثنائية في GitHub ↗</a></p>
     </div>
-    <button class="runbtn" id="runbtn" type="button">تحديث الآن</button>
+    <button class="runbtn" id="runbtn" type="button">تحقّق من وصول جديد</button>
   </section>
   <p class="fresh" id="fresh"></p>
 
-  <div class="scope"><b>نطاق هذه الدورة:</b> كل بند أدناه وقع أو نُشر بين 2026-08-29 20:41 و2026-08-30 20:41 بتوقيت UTC. ما هو أقدم من فتح النافذة لا يُعرض، ويبقى في الأرشيف الداخلي.</div>
+  <div class="scope"><b>نطاق هذه الدورة:</b> كل بند أدناه وقع أو نُشر بين 2026-08-29 21:02 و2026-08-30 21:02 بتوقيت UTC. ما هو أقدم من فتح النافذة لا يُعرض، ويبقى في الأرشيف الداخلي.</div>
 
   <section class="brief">
     <h2>خلاصة الدورة</h2>
-    <p>الملف الأبرز في هذه الدورة هو اندماج قسد: ترحيب دولي متتابع يحوّله من ملف داخلي إلى رصيد دبلوماسي تراكمي لدمشق. وفي المقابل، ما ورد عن الملف الأمريكي جاء بمصدر واحد وناقلٍ معنيّ، فلا يُبنى عليه تقدير قبل التحقق.</p>
+    <p>أربع عمليات إسرائيلية في أربعة مواقع سورية متباعدة خلال يوم واحد — القنيطرة، جباتا الخشب، معرية، درعا — تنقل الملف من حادثة متكررة في نقطة واحدة إلى نمط ممتد على خط الفصل. وفي المقابل، البند الأمريكي الوحيد ذو الوزن جاء من مركز فكر لا من الإدارة: أربعة بنود فقط من سبعة عشر تمسّ واشنطن مباشرة، وهذا بذاته قراءة — النشاط في الملف السوري يجري ميدانياً لا في واشنطن هذا اليوم.</p>
   </section>
 
   
@@ -212,34 +215,13 @@
   
   <section class="urgent" aria-label="الملف الأبرز">
     <div class="eyebrow"><span class="dot"></span> الأبرز في هذه الدورة</div>
-    <h3>ملف اندماج قسد</h3>
+    <h3>الملف الإسرائيلي</h3>
     <div class="stamp-row">
-      <span class="stamp">مصدر واحد</span>
-      <span class="stamp">1 مصدر مستقل</span>
-      <span class="stamp">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33</span>
+      <span class="stamp">مصدران مستقلان فأكثر</span>
+      <span class="stamp">3 مصدر مستقل</span>
+      <span class="stamp">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41</span>
     </div>
     <p class="layer u">الخبر</p>
-    
-    <ul class="items">
-      <li class="old"><a href="https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%86-%D8%AD%D9%84%D8%AA-%D9%82%D8%B3%D8%AF-%D9%86%D9%81%D8%B3%D9%87%D8%A7-%D9%88%D9%85%D9%86-%D9%82%D8%A8%D9%84%D9%87%D8%A7-%D8%A8-%D9%83-%D9%83-%D9%87%D9%84-%D8%A7%D9%86%D8%AA%D9%87%D9%89-%D8%AF%D9%88%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA-%D9%85%D8%A7-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%9F" target="_blank" rel="noopener">بعد أن حلت قسد نفسها ومن قبلها &quot;ب ك ك&quot; .. هل انتهى دور منظمات ما دون الدولة؟</a><span class="meta">تلفزيون سوريا · 2026-08-30 03:04 UTC · سبق عرضه</span><span class="ex">تعرف منظمات ما دون الدولة، بأنها التنظيمات والقوى التي تملك كيانات تعمل سياسياً أو عسكرياً أو اجتماعياً خارج إطار الدولة الرسمي، كالأحزاب والحركات السياسية..</span></li>
-    </ul>
-    <p class="layer u">تعليق مباشر</p>
-    <div class="comment"><p>الترحيب الدولي المتتابع — كندا والعراق اليوم، وقبلهما فرنسا وبريطانيا وقطر والأردن والبحرين وتركيا — يحوّل اندماج قسد من ملف داخلي إلى رصيد دبلوماسي تراكمي. وقيمته الحقيقية ليست في المجاملات، بل في أنه يسحب سلفاً من أي طرح كونغرسي مستقبلي ورقة «حماية الشركاء الأكراد».</p></div>
-    <p class="layer u">التحليل</p>
-    <p class="analysis">النمط هنا هو نفسه الذي رُصد في ملف العقوبات: الاعتراف يسبق التنفيذ. الترحيب الدولي يتحدث عن «اتفاق دمج»، بينما الملفات الإدارية الفعلية — القضاء والسجل المدني والتعليم — لا يوجد في هذه الدورة ما يوثّق تقدمها. قابلية التأثير السوري: مباشرة وعالية، فهذا الملف الوحيد الذي تملك دمشق فيه السيطرة الكاملة. لكن قيمته التفاوضية تتحقق عند إنجاز موثّق لا عند إعلان مبكر. تحفّظ على درجة التحقق: المصدران مستقلان فعلاً، لكن كليهما ينقل ترحيباً لا يوثّق تنفيذاً.</p>
-  </section>
-
-  <div class="section-head"><h3>بقية الملفات</h3><span class="rule"></span></div>
-  <article class="card stale-card">
-    <div class="chips">
-      <span class="chip cat">الإعلام السوري المستقل</span>
-      <span class="chip v-ok">مصدران مستقلان فأكثر</span>
-      <span class="chip us">2 تمسّ واشنطن</span>
-      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33</span>
-    </div>
-    <h4>الملف الإسرائيلي</h4>
-
-    <p class="layer">الخبر</p>
     
     <ul class="items">
       <li class="old"><a href="https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A" target="_blank" rel="noopener">قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي</a><span class="meta">تلفزيون سوريا · 2026-08-30 18:28 UTC · سبق عرضه</span><span class="ex">أفاد مراسل تلفزيون سوريا، الأحد، بأن دورية تابعة لقوات الاحتلال الإسرائيلي، مؤلفة من ست آليات عسكرية، توغلت في قرية طرنجة بريف القنيطرة..</span></li>
@@ -248,6 +230,27 @@
       <li class="old"><a href="https://npasyria.com/en/140873/" target="_blank" rel="noopener">Israeli forces fire toward houses in Syria&amp;#8217;s Daraa</a><span class="meta">North Press Agency (English) · 2026-08-30 07:52 UTC · سبق عرضه</span><span class="ex">DARAA, Syria (North Press) – Israeli forces on Sunday opened heavy machine-gun fire from the Al-Jazira military barracks toward houses in the village of Maariya in western Daraa, southern Syria. Local sources told North Press the gunfire ca</span></li>
       <li class="old"><a href="https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%B3%D9%83%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7" target="_blank" rel="noopener">الاحتلال الإسرائيلي يستهدف أحياء سكنية في قرية معرية غربي درعا</a><span class="meta">تلفزيون سوريا · 2026-08-30 07:39 UTC · سبق عرضه</span><span class="ex">أطلقت قوات الاحتلال الإسرائيلي المتمركزة في ثكنة الجزيرة، الأحد نيرانًا كثيفة من أسلحة ثقيلة باتجاه الأحياء السكنية في قرية معرية بريف درعا الغربي، وفقاً لما</span></li>
     </ul>
+    <p class="layer u">تعليق مباشر</p>
+    <div class="comment"><p>أربعة مواقع مختلفة في أربع وعشرين ساعة، لا موقع واحد أربع مرات. وقرية طرنجة تحديداً هي نفسها التي رصدناها في 27 أغسطس بوصفها أول خرق بعد مباحثات عمّان — عودتها اليوم تحسم أنها ليست حادثة معزولة. التوزّع الجغرافي هو الخبر، لا عدد الحوادث.</p></div>
+    <p class="layer u">التحليل</p>
+    <p class="analysis">الانتقال من نقطة متكررة إلى أربع نقاط متباعدة يغيّر طبيعة الملف تفاوضياً: لم يعد حادثاً محلياً قابلاً للاحتواء بتفاهم موضعي، بل نمط عمليات على امتداد خط الفصل يصعب تفسيره كأخطاء ميدانية. قابلية التأثير السوري: مباشرة وعالية — سجل موثّق بالإحداثيات والتواريخ والمصادر، يُرفع للوسيط الأمريكي كسابقة مرقّمة قبل أن يصير التكرار وضعاً طبيعياً لا يُحتج عليه. تحفّظ على دقة الملف: بند الجيروزاليم بوست عن خطة ترامب لغزة دخل هنا بلا رابط سوري، ويجب استبعاده يدوياً — دخوله يكشف أن مرشّح الصلة لا يزال يقبل «إسرائيل + ترامب» بلا مرساة سورية في العنوان.</p>
+  </section>
+
+  <div class="section-head"><h3>بقية الملفات</h3><span class="rule"></span></div>
+  <article class="card">
+    <div class="chips">
+      <span class="chip cat">الإعلام الدولي</span>
+      <span class="chip v-single">مصدر واحد</span>
+      
+      <span class="chip follow">تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً</span>
+    </div>
+    <h4>الحراك الدبلوماسي حول سوريا</h4>
+
+    <p class="layer">الخبر</p>
+    
+    <ul class="items">
+      <li><span class="tag-new">جديد</span> <a href="https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss" target="_blank" rel="noopener">‘Opening a new chapter’: Syria reopens embassy in Libya after talks</a><span class="meta">Al Jazeera English · 2026-08-30 20:38 UTC</span><span class="ex">Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.</span></li>
+    </ul>
 
     <p class="layer">تعليق مباشر</p>
     <div class="pending">لم يُكتب تعليق لهذا الملف في هذه الدورة.</div>
@@ -255,38 +258,14 @@
     <p class="layer">التحليل</p>
     <div class="pending">لم يُكتب تحليل لهذا الملف في هذه الدورة.</div>
 
-    <div class="foot"><span class="lbl">المصادر:</span> تلفزيون سوريا · Jerusalem Post — الشرق الأوسط · North Press Agency (English)</div>
-  </article>
-  <article class="card stale-card">
-    <div class="chips">
-      <span class="chip cat">الإعلام السوري المستقل</span>
-      <span class="chip v-ok">مصدران مستقلان فأكثر</span>
-      <span class="chip us">1 تمسّ واشنطن</span>
-      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33</span>
-    </div>
-    <h4>ملف العقوبات والاعتراف الأمريكي</h4>
-
-    <p class="layer">الخبر</p>
-    
-    <ul class="items">
-      <li class="old"><a href="https://npasyria.com/en/140867/" target="_blank" rel="noopener">Iran vows to resist sanctions as war passes 6-month mark</a><span class="meta">North Press Agency (English) · 2026-08-30 06:20 UTC · سبق عرضه</span><span class="ex">QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na</span></li>
-      <li class="old"><a href="https://www.atlanticcouncil.org/dispatches/a-revolutionary-coffee-the-impact-of-syrias-removal-from-the-terrorism-sponsor-list/" target="_blank" rel="noopener">A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list</a><span class="meta">Atlantic Council — المجلس الأطلسي · 2026-08-29 20:58 UTC · سبق عرضه</span><span class="ex">The US removal of the country from its list of state sponsors of terrorism is big step for Syria toward its post-Assad future. The post A revolutionary coffee: The impact of Syria’s removal from the terrorism sponsor list appeared first on </span></li>
-    </ul>
-
-    <p class="layer">تعليق مباشر</p>
-    <div class="comment"><p>التصريح أمريكي والناقل سوري رسمي، وهذه بالضبط الحالة التي تستوجب التوقف: المطلوب النص الأصلي من الخارجية الأمريكية لا النقل عنه. مصدر واحد، وطرف معنيّ بإبراز الخبر — لا يُبنى عليه تقدير.</p></div>
-
-    <p class="layer">التحليل</p>
-    <p class="analysis">إن ثبت، فقيمته أن الإدارة تدافع علناً عن قرارها بعد أسبوع من صدوره (24 أغسطس)، لا تكتفي بتنفيذه صامتة — وهذا مؤشر ثبات لا تراجع. لكنه لا يمسّ الفجوة الموثقة بين الاعتراف السياسي والواقع المصرفي. نقطة تحقق مطلوبة: نص التصريح على موقع الخارجية الأمريكية.</p>
-
-    <div class="foot"><span class="lbl">المصادر:</span> North Press Agency (English) · Atlantic Council — المجلس الأطلسي</div>
+    <div class="foot"><span class="lbl">المصادر:</span> Al Jazeera English</div>
   </article>
   <article class="card stale-card">
     <div class="chips">
       <span class="chip cat">الإعلام المتخصص</span>
       <span class="chip v-ok">مصدران مستقلان فأكثر</span>
       
-      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33</span>
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41</span>
     </div>
     <h4>بنود خارج الملفات المعرّفة</h4>
 
@@ -312,7 +291,7 @@
       <span class="chip cat">الإعلام السوري المستقل</span>
       <span class="chip v-ok">مصدران مستقلان فأكثر</span>
       
-      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33</span>
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41</span>
     </div>
     <h4>الملف التركي</h4>
 
@@ -325,10 +304,10 @@
     </ul>
 
     <p class="layer">تعليق مباشر</p>
-    <div class="comment"><p>رأي خبير في صحيفة إسرائيلية، لا موقف رسمي. وقيمته مؤشرية: تأطير الوجود التركي كتهديد عقائدي دائم لا ظرفي، وهذا تمهيد لمطالب إسرائيلية دائمة في أي تفاهم أمني، لا مؤقتة.</p></div>
+    <div class="comment"><p>مساران تركيان يتقدمان في اليوم نفسه: عسكري لوجستي (جسر حربي عائم يعيد ربط ضفتي الفرات في الميادين) ومصرفي (بنك زراعات يعتزم فتح فرع). أنقرة تبني حضوراً بنيوياً لا رمزياً.</p></div>
 
     <p class="layer">التحليل</p>
-    <p class="analysis">يتصل بنمط سبق رصده (ضربة مطار أبو الضهور، تصريحات نتنياهو من جبل الشيخ). قابلية التأثير السوري محدودة لكنها حقيقية: دمشق طرف في أي ترتيب أمني، وصياغة وضع القوات التركية بنداً تفاوضياً تخصّها لا تخصّ أنقرة وحدها.</p>
+    <p class="analysis">الجسر العسكري على الفرات هو البند الأجدر بالانتباه: بنية تحتية عسكرية مشتركة في منطقة كان الوجود الأمريكي فيها هو الفاعل حتى أبريل الماضي. في واشنطن يُقرأ هذا كملء فراغ، وفي تل أبيب كتمدد — وهو المضمون العملي لتحذير الجيروزاليم بوست أمس عن «عقيدة الناتو». قابلية التأثير السوري: عالية وأصيلة — دمشق طرف في الاتفاق لا متلقٍّ له، وتحديد سقف التعاون العسكري قرار سيادي بيدها، وله ثمن ومقابل في كلا العاصمتين.</p>
 
     <div class="foot"><span class="lbl">المصادر:</span> تلفزيون سوريا · Al-Monitor</div>
   </article>
@@ -337,7 +316,53 @@
       <span class="chip cat">الإعلام السوري المستقل</span>
       <span class="chip v-single">مصدر واحد</span>
       <span class="chip us">1 تمسّ واشنطن</span>
-      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33</span>
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41</span>
+    </div>
+    <h4>ملف العقوبات والاعتراف الأمريكي</h4>
+
+    <p class="layer">الخبر</p>
+    
+    <ul class="items">
+      <li class="old"><a href="https://npasyria.com/en/140867/" target="_blank" rel="noopener">Iran vows to resist sanctions as war passes 6-month mark</a><span class="meta">North Press Agency (English) · 2026-08-30 06:20 UTC · سبق عرضه</span><span class="ex">QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na</span></li>
+    </ul>
+
+    <p class="layer">تعليق مباشر</p>
+    <div class="comment"><p>التقييم الأمريكي الوحيد ذو الوزن في هذه الدورة صدر عن مركز فكر لا عن الإدارة. وهذا مؤشر مرحلة: قرار رفع التصنيف انتقل من كونه خبراً إلى كونه موضوع تقييم للأثر — وهي علامة استقرار لا تراجع.</p></div>
+
+    <p class="layer">التحليل</p>
+    <p class="analysis">انتقال النقاش من «هل يُرفع التصنيف» إلى «ما أثره على التجارة والاستثمار» يعني أن الملف استقر أمريكياً ولم يعد محل نزاع سياسي داخلي. لكن الفجوة الجوهرية لم تُغلق: لا دليل حتى الآن على تغيّر سلوك البنوك المراسلة الدولية، وهي المقياس الحقيقي لا التصريحات. بند إيران في هذا الملف سياق إقليمي بلا رابط سوري محدد — يُقرأ ولا يُبنى عليه. نقطة تحقق مطلوبة: مؤشر مصرفي فعلي (فتح حساب مراسل، تحويل بالجملة)، لا تحليل إضافي.</p>
+
+    <div class="foot"><span class="lbl">المصادر:</span> North Press Agency (English)</div>
+  </article>
+  <article class="card stale-card">
+    <div class="chips">
+      <span class="chip cat">الإعلام السوري المستقل</span>
+      <span class="chip v-single">مصدر واحد</span>
+      
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41</span>
+    </div>
+    <h4>ملف اندماج قسد</h4>
+
+    <p class="layer">الخبر</p>
+    
+    <ul class="items">
+      <li class="old"><a href="https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%86-%D8%AD%D9%84%D8%AA-%D9%82%D8%B3%D8%AF-%D9%86%D9%81%D8%B3%D9%87%D8%A7-%D9%88%D9%85%D9%86-%D9%82%D8%A8%D9%84%D9%87%D8%A7-%D8%A8-%D9%83-%D9%83-%D9%87%D9%84-%D8%A7%D9%86%D8%AA%D9%87%D9%89-%D8%AF%D9%88%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA-%D9%85%D8%A7-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%9F" target="_blank" rel="noopener">بعد أن حلت قسد نفسها ومن قبلها &quot;ب ك ك&quot; .. هل انتهى دور منظمات ما دون الدولة؟</a><span class="meta">تلفزيون سوريا · 2026-08-30 03:04 UTC · سبق عرضه</span><span class="ex">تعرف منظمات ما دون الدولة، بأنها التنظيمات والقوى التي تملك كيانات تعمل سياسياً أو عسكرياً أو اجتماعياً خارج إطار الدولة الرسمي، كالأحزاب والحركات السياسية..</span></li>
+    </ul>
+
+    <p class="layer">تعليق مباشر</p>
+    <div class="comment"><p>مادة رأي لا خبر: تساؤل عن نهاية دور التنظيمات دون الدولة بعد حل قسد. تُسجَّل كمؤشر على اتجاه النقاش الداخلي، لا كتطور في الملف.</p></div>
+
+    <p class="layer">التحليل</p>
+    <div class="pending">لم يُكتب تحليل لهذا الملف في هذه الدورة.</div>
+
+    <div class="foot"><span class="lbl">المصادر:</span> تلفزيون سوريا</div>
+  </article>
+  <article class="card stale-card">
+    <div class="chips">
+      <span class="chip cat">الإعلام السوري المستقل</span>
+      <span class="chip v-single">مصدر واحد</span>
+      <span class="chip us">1 تمسّ واشنطن</span>
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41</span>
     </div>
     <h4>المسار اللبناني الموازي</h4>
 
@@ -348,10 +373,10 @@
     </ul>
 
     <p class="layer">تعليق مباشر</p>
-    <div class="pending">لم يُكتب تعليق لهذا الملف في هذه الدورة.</div>
+    <div class="comment"><p>موقف أمريكي معلن يخص لبنان، لكنه يرسم المعيار الذي تقيس به واشنطن الملفات الأمنية في المنطقة كلها: نزع السلاح شرطاً للاستقرار، لا نتيجة له. والمسار السوري الجنوبي يخضع لمنطق الصياغة نفسه.</p></div>
 
     <p class="layer">التحليل</p>
-    <div class="pending">لم يُكتب تحليل لهذا الملف في هذه الدورة.</div>
+    <p class="analysis">قيمته لدمشق ليست في مضمونه اللبناني بل في ترتيب شروطه: واشنطن تضع نزع السلاح أولاً والاستقرار ثانياً، بينما تطرح دمشق الترتيب المعاكس في ملفها الجنوبي (الانسحاب أولاً، التفاهم لاحقاً). معرفة هذا التفضيل الأمريكي في الصياغة ورقة تحضيرية لأي جولة تفاوض. تحفّظ صارم: مصدر واحد، وناقل سوري لتصريح أمريكي — لا يُبنى عليه تقدير قبل الحصول على النص الأصلي.</p>
 
     <div class="foot"><span class="lbl">المصادر:</span> تلفزيون سوريا</div>
   </article>
@@ -360,7 +385,7 @@
       <span class="chip cat">الملف الإسرائيلي والتركي</span>
       <span class="chip v-single">مصدر واحد</span>
       
-      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:33</span>
+      <span class="chip stale">لا جديد — نفس البنود المرصودة في دورة 2026-08-30 20:41</span>
     </div>
     <h4>ملف الاقتصاد وإعادة الإعمار</h4>
 
@@ -371,17 +396,17 @@
     </ul>
 
     <p class="layer">تعليق مباشر</p>
-    <div class="pending">لم يُكتب تعليق لهذا الملف في هذه الدورة.</div>
+    <div class="comment"><p>مصدر إسرائيلي هو الذي يوثّق عودة سوريا إلى الاقتصاد العالمي — وزاوية الرصد هذه لافتة بحد ذاتها ولا تخلو من غرض.</p></div>
 
     <p class="layer">التحليل</p>
-    <div class="pending">لم يُكتب تحليل لهذا الملف في هذه الدورة.</div>
+    <p class="analysis">يربط رفع العقوبات بأثر ملموس (بطاقات الدفع، معرض دمشق)، لكنه يبقى ضمن الفئة الاستهلاكية الرمزية نفسها التي رُصدت في 27 أغسطس مع أول معاملة Visa. الفجوة بين الرمزي والجوهري — الإقراض والتحويلات بالجملة — لم تتحرك.</p>
 
     <div class="foot"><span class="lbl">المصادر:</span> Jerusalem Post — الشرق الأوسط</div>
   </article>
 
   
 
-  <div class="note"><b>دوائر لم تُنتج بنداً ضمن النافذة:</b> الكونغرس · الإدارة التنفيذية الأمريكية · الكونغرس والتوازن السياسي الأمريكي · الإعلام الدولي · التقارير الرسمية الدورية · الملف التركي · الملف الإسرائيلي. تُذكر بالاسم لا بالصمت — الصفر هنا معلومة لا عطل.</div>
+  <div class="note"><b>دوائر لم تُنتج بنداً ضمن النافذة:</b> الكونغرس · الإدارة التنفيذية الأمريكية · الكونغرس والتوازن السياسي الأمريكي · مراكز الفكر · التقارير الرسمية الدورية · الملف التركي · الملف الإسرائيلي. تُذكر بالاسم لا بالصمت — الصفر هنا معلومة لا عطل.</div>
 
   
 
@@ -390,15 +415,15 @@
   <div class="standing">
     <div class="sub"><h4>عتبات الانتقال إلى السيناريو الأسوأ</h4>
       <p style="margin:0;font-size:.85rem;color:var(--ink-muted)">تُفعَّل فقط عند تحقق أيٍّ منها فعلياً بتاريخ محدد، لا كتذكير متكرر:</p>
-      <ol><li>ضربة إسرائيلية مباشرة على قوة أو منشأة تركية داخل سوريا، أو العكس.</li><li>إعلان رسمي تركي أو إسرائيلي بالانسحاب من مسار المفاوضات.</li><li>تعديل تشريعي بالكونغرس يربط صراحةً استمرار رفع العقوبات بتقدم ملموس في التطبيع مع إسرائيل.</li></ol></div>
+      <ol><li>ضربة إسرائيلية مباشرة على قوة أو منشأة تركية داخل سوريا، أو العكس.</li><li>إعلان رسمي تركي أو إسرائيلي بالانسحاب من مسار المفاوضات.</li><li>تعديل تشريعي بالكونغرس يربط صراحةً استمرار رفع العقوبات بتقدم ملموس في التطبيع مع إسرائيل.</li><li>توسّع التوغلات الإسرائيلية من خط الفصل إلى عمق يتجاوز المواقع التسعة المعلنة منذ ديسمبر 2024.</li></ol></div>
     <div class="sub"><h4>نقاط تحتاج تحققاً إضافياً</h4>
-      <ul><li>شرط التصديق الدوري في المادة 8369 من قانون الدفاع: مصادر متخصصة متعارضة، والتعارض ينتظم مع اختلاف نسخة النص لا الاجتهاد. المطلوب النص الرسمي الكامل عبر قناة قانونية، لا مزيد بحث ويب.</li></ul></div>
+      <ul><li>شرط التصديق الدوري في المادة 8369 من قانون الدفاع: مصادر متخصصة متعارضة، والتعارض ينتظم مع اختلاف نسخة النص لا الاجتهاد. المطلوب النص الرسمي الكامل عبر قناة قانونية.</li><li>نص تصريح واشنطن بشأن ربط استقرار لبنان بنزع سلاح حزب الله: وصلنا عبر ناقل سوري بمصدر واحد. المطلوب النص الأصلي من الخارجية الأمريكية.</li><li>أثر رفع التصنيف على البنوك المراسلة: لا مؤشر مصرفي فعلي حتى الآن، والتقييمات كلها تحليلية.</li></ul></div>
   </div>
 
   <details class="archive">
     <summary>الأرشيف — سجل الدورات (12)</summary>
     <div class="archive-body">
-      <table><tr><td>2026-08-30 20:41 UTC</td><td>17 بند</td></tr><tr><td>2026-08-30 20:33 UTC</td><td>17 بند</td></tr><tr><td>2026-08-30 20:01 UTC</td><td>22 بند</td></tr><tr><td>2026-08-30 19:36 UTC</td><td>61 بند</td></tr><tr><td>2026-08-29 16:14 UTC</td><td>4 بند</td></tr><tr><td>2026-08-29 15:31 UTC</td><td>5 بند</td></tr><tr><td>2026-08-29 15:16 UTC</td><td>5 بند</td></tr><tr><td>2026-08-29 14:49 UTC</td><td>5 بند</td></tr><tr><td>2026-08-29 14:21 UTC</td><td>5 بند</td></tr><tr><td>2026-08-29 14:12 UTC</td><td>8 بند</td></tr><tr><td>2026-08-29 14:05 UTC</td><td>24 بند</td></tr><tr><td>2026-08-29 13:57 UTC</td><td>24 بند</td></tr></table>
+      <table><tr><td>2026-08-30 21:02 UTC</td><td>17 بند</td></tr><tr><td>2026-08-30 20:41 UTC</td><td>17 بند</td></tr><tr><td>2026-08-30 20:33 UTC</td><td>17 بند</td></tr><tr><td>2026-08-30 20:01 UTC</td><td>22 بند</td></tr><tr><td>2026-08-30 19:36 UTC</td><td>61 بند</td></tr><tr><td>2026-08-29 16:14 UTC</td><td>4 بند</td></tr><tr><td>2026-08-29 15:31 UTC</td><td>5 بند</td></tr><tr><td>2026-08-29 15:16 UTC</td><td>5 بند</td></tr><tr><td>2026-08-29 14:49 UTC</td><td>5 بند</td></tr><tr><td>2026-08-29 14:21 UTC</td><td>5 بند</td></tr><tr><td>2026-08-29 14:12 UTC</td><td>8 بند</td></tr><tr><td>2026-08-29 14:05 UTC</td><td>24 بند</td></tr></table>
     </div>
   </details>
 
@@ -412,7 +437,7 @@
 
 <script>
 (function(){
-  var CURRENT = "2026-08-30T20:41:07.980Z";
+  var CURRENT = "2026-08-30T21:02:23.522Z";
   var el = document.getElementById("fresh");
   if(!el) return;
   function since(){
@@ -423,7 +448,7 @@
     if(h < 24) return "منذ " + h + " ساعة";
     return "منذ " + Math.floor(h/24) + " يوم";
   }
-  function paint(){ if(!el.classList.contains("hot")) el.textContent = "آخر دورة: " + since(); }
+  function paint(){ if(!el.classList.contains("hot")) el.textContent = "آخر جديد: " + since(); }
   paint(); setInterval(paint, 30000);
 
   function arrived(){
@@ -455,7 +480,7 @@
         .then(function(r){ return r.ok ? r.json() : null; })
         .then(function(d){
           if(d && d.cycle && d.cycle.generatedAt !== CURRENT){ arrived(); return; }
-          back("لا جديد بعد");
+          back("لا جديد بعد — آخر فحص الآن");
         })
         .catch(function(){ back("تعذّر التحقق"); });
     });
