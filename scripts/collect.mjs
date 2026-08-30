@@ -155,13 +155,21 @@ async function readCongress(src) {
 // ------------------------------------------------------------
 // (5) المرور على كل المصادر
 // ------------------------------------------------------------
-const keywords = (cfg.keywords || []).map((k) => k.toLowerCase());
+const keywords  = (cfg.keywords  || []).map((k) => k.toLowerCase());  // مرساة: هل يخص سوريا؟
+const relevance = (cfg.relevance || []).map((k) => k.toLowerCase());  // صلة: هل يمسّ الملف الأمريكي وأطرافه؟
 const items = [];
 const errors = [];
 
-function matchesKeywords(title, excerpt) {
+// شرطان لا شرط واحد:
+//   (أ) مرساة سورية — وإلا فالخبر ليس خبرنا أصلاً
+//   (ب) صلة بالملف — وإلا فهو شأن سوري داخلي لا يخص رصد واشنطن
+// قائمة الصلة فارغة ← يُكتفى بالمرساة (سلوك متوافق مع الإعدادات القديمة)
+function matchesKeywords(title, excerpt, src) {
   const t = (title + " " + (excerpt || "")).toLowerCase();
-  return keywords.some((k) => t.includes(k));
+  // المصادر السورية الخالصة لا تنشر إلا عن سوريا، فالمرساة فيها مضمونة سلفاً
+  if (src.scope !== "syria" && !keywords.some((k) => t.includes(k))) return false;
+  if (!relevance.length) return true;
+  return relevance.some((k) => t.includes(k));
 }
 
 for (const src of cfg.sources) {
@@ -196,7 +204,7 @@ for (const src of cfg.sources) {
       if (isNaN(d.getTime())) continue;      // تاريخ غير مفهوم → نتجاهله
 
       if (d < from || d > now) { tooOld++; continue; }          // خارج النافذة
-      if (src.filter && !matchesKeywords(r.title, r.excerpt)) { offTopic++; continue; }
+      if (src.filter && !matchesKeywords(r.title, r.excerpt, src)) { offTopic++; continue; }
 
       items.push({
         source: src.name,
