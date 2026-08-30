@@ -212,7 +212,9 @@ const html = `<!doctype html>
   .runbtn:active{transform:translateY(1px)}
   .runbtn:disabled{opacity:.7;cursor:default}
   .runbtn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-  .sub-run{margin:6px 0 0 !important;font-size:.78rem}
+  .runacts{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .runbtn.ghost{background:transparent;color:var(--ok);border:1px solid var(--ok)}
+  .runbtn.ghost:hover{background:color-mix(in srgb, var(--ok) 12%, transparent)}
   .fresh{font-size:.79rem;color:var(--ink-faint);margin:0 0 16px;min-height:1.2em}
   .fresh.hot{color:var(--ok);font-weight:600}
 
@@ -333,10 +335,12 @@ const html = `<!doctype html>
   <section class="runbar">
     <div>
       <h2>تحديث الآن</h2>
-      <p>الدورة تعمل تلقائياً كل ثلاث ساعات وتبحث عن كل جديد بلا تدخل. هذا الزر يسأل فوراً: هل وصلت دورة أحدث؟ فإن وصلت حدّثت الصفحة نفسها.</p>
-      <p class="sub-run"><a href="${RUN_URL}" target="_blank" rel="noopener">تشغيل دورة استثنائية الآن في GitHub ↗</a></p>
+      <p>الدورة تعمل وحدها كل ثلاث ساعات. ولجمع فوري: اضغط <b>تشغيل دورة جمع</b> — تفتح صفحة التشغيل في GitHub فتضغط هناك <b>Run workflow</b>، وخلال دقيقة تحدّث هذه الصفحة نفسها تلقائياً.</p>
     </div>
-    <button class="runbtn" id="runbtn" type="button">تحديث الآن</button>
+    <div class="runacts">
+      <a class="runbtn" href="${RUN_URL}" target="_blank" rel="noopener">تشغيل دورة جمع ↗</a>
+      <button class="runbtn ghost" id="runbtn" type="button">تحقّق من وصول دورة</button>
+    </div>
   </section>
   <p class="fresh" id="fresh"></p>
 
