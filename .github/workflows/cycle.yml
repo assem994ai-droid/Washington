@@ -1,6 +1,10 @@
 name: Rasd Cycle — دورة الرصد
 
 on:
+  # تعمل وحدها كل ثلاث ساعات (بتوقيت UTC) — بلا ضغط أي زر
+  schedule:
+    - cron: "0 */3 * * *"
+
   workflow_dispatch:
     inputs:
       hours:
