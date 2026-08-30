@@ -213,6 +213,7 @@ const html = `<!doctype html>
   .runbtn:disabled{opacity:.7;cursor:default}
   .runbtn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
   .runacts{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .sub-run{margin:6px 0 0 !important;font-size:.78rem}
   .runbtn.ghost{background:transparent;color:var(--ok);border:1px solid var(--ok)}
   .runbtn.ghost:hover{background:color-mix(in srgb, var(--ok) 12%, transparent)}
   .fresh{font-size:.79rem;color:var(--ink-faint);margin:0 0 16px;min-height:1.2em}
@@ -335,12 +336,10 @@ const html = `<!doctype html>
   <section class="runbar">
     <div>
       <h2>تحديث الآن</h2>
-      <p>الدورة تعمل وحدها كل ثلاث ساعات. ولجمع فوري: اضغط <b>تشغيل دورة جمع</b> — تفتح صفحة التشغيل في GitHub فتضغط هناك <b>Run workflow</b>، وخلال دقيقة تحدّث هذه الصفحة نفسها تلقائياً.</p>
+      <p>المنصة تجمع الأخبار وحدها <b>كل عشر دقائق</b> بلا أي تدخل، ولا تُحدَّث هذه الصفحة إلا حين يصل خبر جديد فعلاً. اضغط الزر لتسأل فوراً: هل وصل جديد؟</p>
+      <p class="sub-run"><a href="${RUN_URL}" target="_blank" rel="noopener">تشغيل دورة استثنائية في GitHub ↗</a></p>
     </div>
-    <div class="runacts">
-      <a class="runbtn" href="${RUN_URL}" target="_blank" rel="noopener">تشغيل دورة جمع ↗</a>
-      <button class="runbtn ghost" id="runbtn" type="button">تحقّق من وصول دورة</button>
-    </div>
+    <button class="runbtn" id="runbtn" type="button">تحقّق من وصول جديد</button>
   </section>
   <p class="fresh" id="fresh"></p>
 
@@ -401,7 +400,7 @@ const html = `<!doctype html>
     if(h < 24) return "منذ " + h + " ساعة";
     return "منذ " + Math.floor(h/24) + " يوم";
   }
-  function paint(){ if(!el.classList.contains("hot")) el.textContent = "آخر دورة: " + since(); }
+  function paint(){ if(!el.classList.contains("hot")) el.textContent = "آخر جديد: " + since(); }
   paint(); setInterval(paint, 30000);
 
   function arrived(){
@@ -433,7 +432,7 @@ const html = `<!doctype html>
         .then(function(r){ return r.ok ? r.json() : null; })
         .then(function(d){
           if(d && d.cycle && d.cycle.generatedAt !== CURRENT){ arrived(); return; }
-          back("لا جديد بعد");
+          back("لا جديد بعد — آخر فحص الآن");
         })
         .catch(function(){ back("تعذّر التحقق"); });
     });

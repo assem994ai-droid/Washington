@@ -281,6 +281,27 @@ for (const it of unique) {
   bySource[it.source] = (bySource[it.source] || 0) + 1;
 }
 
+// ------------------------------------------------------------
+// (6-ب) هل تغيّر شيء عن الدورة السابقة؟
+//   مع تشغيل كل عشر دقائق، معظم الدورات تجد الأخبار نفسها.
+//   فإن لم يتغيّر شيء لا نكتب ملفاً ولا نُحدث الموقع —
+//   وبذلك يبقى الأرشيف نظيفاً ولا يمتلئ بمئات النسخ المتطابقة.
+// ------------------------------------------------------------
+const fingerprint = unique.map((i) => i.link.split("?")[0]).sort().join("|");
+let prevFingerprint = "";
+try {
+  const prev = JSON.parse(readFileSync("data/latest.json", "utf8"));
+  prevFingerprint = (prev.items || []).map((i) => i.link.split("?")[0]).sort().join("|");
+} catch { /* لا دورة سابقة */ }
+
+if (unique.length && fingerprint === prevFingerprint) {
+  console.log("=".repeat(60));
+  console.log(`لا تغيّر عن الدورة السابقة (${unique.length} بند، نفس الروابط).`);
+  console.log("لم تُكتب ملفات جديدة، ولن يُحدَّث الموقع — وهذا هو السلوك الصحيح.");
+  console.log("=".repeat(60));
+  process.exit(0);
+}
+
 const output = {
   cycle: {
     generatedAt: now.toISOString(),
