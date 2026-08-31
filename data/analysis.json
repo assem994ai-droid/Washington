@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T04:24:10.902Z",
+    "generatedAt": "2026-08-31T05:53:49.864Z",
     "windowHours": 24,
-    "from": "2026-08-30T04:24:10.902Z",
-    "to": "2026-08-31T04:24:10.902Z"
+    "from": "2026-08-30T05:53:49.864Z",
+    "to": "2026-08-31T05:53:49.864Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 18,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 18
+    "archiveCycles": 19
   },
   "emptyCircles": [
     "الكونغرس",
@@ -41,7 +41,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -96,7 +96,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Gaza's catch-22: Trump's peace plan caught between Hamas disarmament, Israeli withdrawal - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1868,w_2802/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHI",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHIM ",
           "link": "https://www.jpost.com/middle-east/article-907003",
           "publishedAt": "2026-08-30T12:09:38.000Z",
           "files": [
@@ -136,6 +136,58 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Federal Register — السجل الفيدرالي الأمريكي",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإدارة التنفيذية الأمريكية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 13,
+      "items": [
+        {
+          "source": "Federal Register — السجل الفيدرالي الأمريكي",
+          "sourceId": "federal-register",
+          "circle": "الإدارة التنفيذية الأمريكية",
+          "title": "Rescission of the State Sponsor of Terrorism Determination Regarding Syria",
+          "excerpt": "",
+          "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17653/rescission-of-the-state-sponsor-of-terrorism-determination-regarding-syria",
+          "publishedAt": "2026-08-31T00:00:00.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran vows to resist sanctions as war passes 6-month mark",
+          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
+          "link": "https://npasyria.com/en/140867/",
+          "publishedAt": "2026-08-30T06:20:50.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -149,13 +201,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 19,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -168,7 +220,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -231,58 +283,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Federal Register — السجل الفيدرالي الأمريكي",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإدارة التنفيذية الأمريكية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:43",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 13,
-      "items": [
-        {
-          "source": "Federal Register — السجل الفيدرالي الأمريكي",
-          "sourceId": "federal-register",
-          "circle": "الإدارة التنفيذية الأمريكية",
-          "title": "Rescission of the State Sponsor of Terrorism Determination Regarding Syria",
-          "excerpt": "",
-          "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17653/rescission-of-the-state-sponsor-of-terrorism-determination-regarding-syria",
-          "publishedAt": "2026-08-31T00:00:00.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran vows to resist sanctions as war passes 6-month mark",
-          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
-          "link": "https://npasyria.com/en/140867/",
-          "publishedAt": "2026-08-30T06:20:50.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -298,13 +298,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 7,
       "items": [
         {
           "source": "The National",
@@ -341,18 +341,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Kurdish official says Syria enters new political phase after years of war",
-          "excerpt": "QAMISHLI, Syria (North Press) – Ilham Ahmad, co-chair of the Department of Foreign Relations of the Autonomous Administration of North and East Syria (AANES), said on Saturday that the region has entered a new political phase, describing th",
-          "link": "https://npasyria.com/en/140865/",
-          "publishedAt": "2026-08-30T05:52:08.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -368,7 +356,7 @@
       "circles": [
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -404,7 +392,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
