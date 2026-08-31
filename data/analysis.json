@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T13:33:45.228Z",
+    "generatedAt": "2026-08-31T13:43:50.306Z",
     "windowHours": 24,
-    "from": "2026-08-30T13:33:45.228Z",
-    "to": "2026-08-31T13:33:45.228Z"
+    "from": "2026-08-30T13:43:50.306Z",
+    "to": "2026-08-31T13:43:50.306Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
-    "files": 4,
+    "items": 21,
+    "files": 5,
     "withNew": 0,
-    "stale": 4,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 38
+    "americanItems": 3,
+    "archiveCycles": 39
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,14 +24,119 @@
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "Al-Monitor",
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "Al Jazeera English"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "الإعلام الدولي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:33",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 17,
+      "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli fire kills five people in Gaza, medics say",
+          "excerpt": "<p>CAIRO, Aug 31 (Reuters) - An Israeli strike killed at least five Palestinians in the Gaza Strip on Monday, health officials said.</p><p>Medics said two people were killed and several others wounded when an Israeli airstrike hit a crowd o",
+          "link": "https://www.al-monitor.com/originals/2026/08/israeli-fire-kills-five-people-gaza-medics-say",
+          "publishedAt": "2026-08-31T12:46:38.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
+          "link": "https://npasyria.com/en/140925/",
+          "publishedAt": "2026-08-31T11:24:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
+          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
+          "publishedAt": "2026-08-31T08:46:35.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
+          "excerpt": "Israel has attacked Syria, occupied its south since the al-Assad regime's ouster, testing Syria's diplomatic outreach.",
+          "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
+          "publishedAt": "2026-08-31T08:05:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli incursion, artillery shelling target Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out a ground incursion into the northern Quneitra countryside on Sunday evening, while artillery shelling targeted areas in the southern countryside. A North Press correspondent in Qune",
+          "link": "https://npasyria.com/en/140906/",
+          "publishedAt": "2026-08-30T21:42:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي",
+          "excerpt": "أفاد مراسل تلفزيون سوريا، الأحد، بأن دورية تابعة لقوات الاحتلال الإسرائيلي، مؤلفة من ست آليات عسكرية، توغلت في قرية طرنجة بريف القنيطرة..",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
+          "publishedAt": "2026-08-30T18:28:30.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -48,7 +153,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -184,7 +289,7 @@
         "الملف الإسرائيلي والتركي",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -224,108 +329,28 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Al-Monitor",
-        "تلفزيون سوريا",
-        "Al Jazeera English"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الإعلام الدولي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:23",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli fire kills five people in Gaza, medics say",
-          "excerpt": "<p>CAIRO, Aug 31 (Reuters) - An Israeli strike killed at least five Palestinians in the Gaza Strip on Monday, health officials said.</p><p>Medics said two people were killed and several others wounded when an Israeli airstrike hit a crowd o",
-          "link": "https://www.al-monitor.com/originals/2026/08/israeli-fire-kills-five-people-gaza-medics-say",
-          "publishedAt": "2026-08-31T12:46:38.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
-          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
-          "publishedAt": "2026-08-31T08:46:35.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
-          "excerpt": "Israel has attacked Syria, occupied its south since the al-Assad regime's ouster, testing Syria's diplomatic outreach.",
-          "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
-          "publishedAt": "2026-08-31T08:05:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي",
-          "excerpt": "أفاد مراسل تلفزيون سوريا، الأحد، بأن دورية تابعة لقوات الاحتلال الإسرائيلي، مؤلفة من ست آليات عسكرية، توغلت في قرية طرنجة بريف القنيطرة..",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
-          "publishedAt": "2026-08-30T18:28:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
         "The National"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 0,
-      "score": 3,
+      "usItems": 1,
+      "score": 11,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -340,6 +365,18 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S., Iran exchange attacks after month-long military calm",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged attacks overnight into Monday for the first time in more than a month, raising fears of renewed escalation in a conflict centered on the strategically vital Strait of Horm",
+          "link": "https://npasyria.com/en/140912/",
+          "publishedAt": "2026-08-31T06:49:14.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -348,6 +385,54 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
           "publishedAt": "2026-08-30T19:36:36.000Z",
           "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Internal Security kills former regime commander in Tartous",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security said on Sunday that it killed Firas Abdulkarim Hammoud, known as “al-Khal,” during an armed clash in Tartous governorate. The Internal Security Command said the operation was carried",
+          "link": "https://npasyria.com/en/140903/",
+          "publishedAt": "2026-08-30T17:24:32.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 13:23",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Ilham Ahmad says SDF integration does not resolve all outstanding issues",
+          "excerpt": "QAMISHLI, Syria (North Press) – Ilham Ahmad, Co-Chair of the AANES&#8217; Foreign Relations Department, said on Sunday that the completion of the SDF’s integration into Syrian state institutions would not mean that all outstanding issues ha",
+          "link": "https://npasyria.com/en/140909/",
+          "publishedAt": "2026-08-31T06:09:56.000Z",
+          "files": [
+            "sdf"
+          ],
           "seenBefore": true,
           "us": false
         }
