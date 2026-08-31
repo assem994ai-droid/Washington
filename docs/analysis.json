@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T07:54:00.933Z",
+    "generatedAt": "2026-08-31T08:24:19.582Z",
     "windowHours": 24,
-    "from": "2026-08-30T07:54:00.933Z",
-    "to": "2026-08-31T07:54:00.933Z"
+    "from": "2026-08-30T08:24:19.582Z",
+    "to": "2026-08-31T08:24:19.582Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 17,
-    "files": 7,
-    "withNew": 0,
-    "stale": 7,
+    "files": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 24
+    "archiveCycles": 25
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,24 +31,40 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "Al Jazeera English",
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
+        "الإعلام الدولي",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 28,
       "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
+          "excerpt": "Israel has attacked Syria, occupied its south since the al-Assad regime's ouster, testing Syria's diplomatic outreach.",
+          "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
+          "publishedAt": "2026-08-31T08:05:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -123,7 +139,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -195,7 +211,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -288,7 +304,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -324,7 +340,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -349,42 +365,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "circles": [
-        "الإعلام الدولي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-          "excerpt": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
-          "link": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-          "publishedAt": "2026-08-30T20:38:56.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -396,7 +376,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
