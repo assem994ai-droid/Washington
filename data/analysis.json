@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T06:23:45.587Z",
+    "generatedAt": "2026-08-31T06:53:48.744Z",
     "windowHours": 24,
-    "from": "2026-08-30T06:23:45.587Z",
-    "to": "2026-08-31T06:23:45.587Z"
+    "from": "2026-08-30T06:53:48.744Z",
+    "to": "2026-08-31T06:53:48.744Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 19,
     "files": 7,
-    "withNew": 0,
-    "stale": 7,
+    "withNew": 1,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 21
+    "americanItems": 4,
+    "archiveCycles": 22
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,6 +26,80 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "North Press Agency (English)",
+        "The National",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 20,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S., Iran exchange attacks after month-long military calm",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged attacks overnight into Monday for the first time in more than a month, raising fears of renewed escalation in a conflict centered on the strategically vital Strait of Horm",
+          "link": "https://npasyria.com/en/140912/",
+          "publishedAt": "2026-08-31T06:49:14.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
+          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
+          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
+          "publishedAt": "2026-08-30T19:36:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Internal Security kills former regime commander in Tartous",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security said on Sunday that it killed Firas Abdulkarim Hammoud, known as “al-Khal,” during an armed clash in Tartous governorate. The Internal Security Command said the operation was carried",
+          "link": "https://npasyria.com/en/140903/",
+          "publishedAt": "2026-08-30T17:24:32.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
+          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
+          "link": "https://sana.sy/syria-and-the-world/2566687/",
+          "publishedAt": "2026-08-30T12:17:09.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -41,7 +115,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -96,7 +170,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Gaza's catch-22: Trump's peace plan caught between Hamas disarmament, Israeli withdrawal - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHIM ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1868,w_2802/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHI",
           "link": "https://www.jpost.com/middle-east/article-907003",
           "publishedAt": "2026-08-30T12:09:38.000Z",
           "files": [
@@ -149,7 +223,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -231,68 +305,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "The National",
-        "North Press Agency (English)",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:13",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
-          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
-          "publishedAt": "2026-08-30T19:36:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria’s Internal Security kills former regime commander in Tartous",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security said on Sunday that it killed Firas Abdulkarim Hammoud, known as “al-Khal,” during an armed clash in Tartous governorate. The Internal Security Command said the operation was carried",
-          "link": "https://npasyria.com/en/140903/",
-          "publishedAt": "2026-08-30T17:24:32.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
-          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
-          "link": "https://sana.sy/syria-and-the-world/2566687/",
-          "publishedAt": "2026-08-30T12:17:09.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -304,7 +316,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -340,7 +352,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -376,7 +388,7 @@
       "circles": [
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -412,7 +424,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -425,7 +437,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syria’s credit card comeback, Damascus International Fair mark return to global economy",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/735757' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/735757' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria, ",
           "link": "https://www.jpost.com/middle-east/article-907005",
           "publishedAt": "2026-08-30T12:32:28.000Z",
           "files": [
