@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T08:53:52.082Z",
+    "generatedAt": "2026-08-31T09:13:46.309Z",
     "windowHours": 24,
-    "from": "2026-08-30T08:53:52.082Z",
-    "to": "2026-08-31T08:53:52.082Z"
+    "from": "2026-08-30T09:13:46.309Z",
+    "to": "2026-08-31T09:13:46.309Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
-    "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "items": 16,
+    "files": 5,
+    "withNew": 0,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 27
+    "americanItems": 2,
+    "archiveCycles": 28
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,18 +24,23 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
         "Al Jazeera English",
-        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
@@ -43,13 +48,13 @@
         "الإعلام الدولي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:53",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 29,
+      "score": 16,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -62,7 +67,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -73,20 +78,6 @@
           "excerpt": "Israel has attacked Syria, occupied its south since the al-Assad regime's ouster, testing Syria's diplomatic outreach.",
           "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
           "publishedAt": "2026-08-31T08:05:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli incursion, artillery shelling target Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out a ground incursion into the northern Quneitra countryside on Sunday evening, while artillery shelling targeted areas in the southern countryside. A North Press correspondent in Qune",
-          "link": "https://npasyria.com/en/140906/",
-          "publishedAt": "2026-08-30T21:42:46.000Z",
           "files": [
             "israel"
           ],
@@ -151,13 +142,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:53",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 12,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -170,7 +161,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -184,7 +175,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -261,80 +252,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "North Press Agency (English)",
-        "The National",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:43",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 11,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S., Iran exchange attacks after month-long military calm",
-          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged attacks overnight into Monday for the first time in more than a month, raising fears of renewed escalation in a conflict centered on the strategically vital Strait of Horm",
-          "link": "https://npasyria.com/en/140912/",
-          "publishedAt": "2026-08-31T06:49:14.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
-          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
-          "publishedAt": "2026-08-30T19:36:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria’s Internal Security kills former regime commander in Tartous",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security said on Sunday that it killed Firas Abdulkarim Hammoud, known as “al-Khal,” during an armed clash in Tartous governorate. The Internal Security Command said the operation was carried",
-          "link": "https://npasyria.com/en/140903/",
-          "publishedAt": "2026-08-30T17:24:32.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
-          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
-          "link": "https://sana.sy/syria-and-the-world/2566687/",
-          "publishedAt": "2026-08-30T12:17:09.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -346,7 +263,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -371,18 +288,20 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "North Press Agency (English)"
+        "The National",
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -391,16 +310,26 @@
       "score": 3,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Ilham Ahmad says SDF integration does not resolve all outstanding issues",
-          "excerpt": "QAMISHLI, Syria (North Press) – Ilham Ahmad, Co-Chair of the AANES&#8217; Foreign Relations Department, said on Sunday that the completion of the SDF’s integration into Syrian state institutions would not mean that all outstanding issues ha",
-          "link": "https://npasyria.com/en/140909/",
-          "publishedAt": "2026-08-31T06:09:56.000Z",
-          "files": [
-            "sdf"
-          ],
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
+          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
+          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
+          "publishedAt": "2026-08-30T19:36:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
+          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
+          "link": "https://sana.sy/syria-and-the-world/2566687/",
+          "publishedAt": "2026-08-30T12:17:09.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -418,7 +347,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
