@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T11:24:06.632Z",
+    "generatedAt": "2026-08-31T11:33:58.107Z",
     "windowHours": 24,
-    "from": "2026-08-30T11:24:06.632Z",
-    "to": "2026-08-31T11:24:06.632Z"
+    "from": "2026-08-30T11:33:58.107Z",
+    "to": "2026-08-31T11:33:58.107Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 31
+    "archiveCycles": 32
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,103 +27,15 @@
   "errors": [],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)",
-        "The National",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 24,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "'Only a smokescreen': Hamas condemns rising settler violence, Ben-Gvir's treatment of prisoners",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/733783' alt='Israeli settler extremists throw stones at a dirt road at the Palestinian village of Kusra, in the West Bank",
-          "link": "https://www.jpost.com/middle-east/article-907102",
-          "publishedAt": "2026-08-31T11:19:43.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S., Iran exchange attacks after month-long military calm",
-          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged attacks overnight into Monday for the first time in more than a month, raising fears of renewed escalation in a conflict centered on the strategically vital Strait of Horm",
-          "link": "https://npasyria.com/en/140912/",
-          "publishedAt": "2026-08-31T06:49:14.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
-          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
-          "publishedAt": "2026-08-30T19:36:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria’s Internal Security kills former regime commander in Tartous",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security said on Sunday that it killed Firas Abdulkarim Hammoud, known as “al-Khal,” during an armed clash in Tartous governorate. The Internal Security Command said the operation was carried",
-          "link": "https://npasyria.com/en/140903/",
-          "publishedAt": "2026-08-30T17:24:32.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
-          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
-          "link": "https://sana.sy/syria-and-the-world/2566687/",
-          "publishedAt": "2026-08-30T12:17:09.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Al Jazeera English",
-        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
@@ -131,14 +43,28 @@
         "الإعلام الدولي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:04",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 20,
+      "score": 30,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
+          "link": "https://npasyria.com/en/140925/",
+          "publishedAt": "2026-08-31T11:24:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -226,6 +152,94 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
+        "The National",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:24",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "'Only a smokescreen': Hamas condemns rising settler violence, Ben-Gvir's treatment of prisoners",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/733783' alt='Israeli settler extremists throw stones at a dirt road at the Palestinian village of Kusra, in the West Bank",
+          "link": "https://www.jpost.com/middle-east/article-907102",
+          "publishedAt": "2026-08-31T11:19:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S., Iran exchange attacks after month-long military calm",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged attacks overnight into Monday for the first time in more than a month, raising fears of renewed escalation in a conflict centered on the strategically vital Strait of Horm",
+          "link": "https://npasyria.com/en/140912/",
+          "publishedAt": "2026-08-31T06:49:14.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
+          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
+          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
+          "publishedAt": "2026-08-30T19:36:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Internal Security kills former regime commander in Tartous",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security said on Sunday that it killed Firas Abdulkarim Hammoud, known as “al-Khal,” during an armed clash in Tartous governorate. The Internal Security Command said the operation was carried",
+          "link": "https://npasyria.com/en/140903/",
+          "publishedAt": "2026-08-30T17:24:32.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
+          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
+          "link": "https://sana.sy/syria-and-the-world/2566687/",
+          "publishedAt": "2026-08-30T12:17:09.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -239,13 +253,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:04",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 13,
+      "score": 12,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -344,21 +358,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بنك \"زراعات\" التركي يعتزم فتح فرع في سوريا قبل نهاية 2026",
-          "excerpt": "أكد رئيس مجلس الأعمال التركي السوري، محسوم ألتون كايا، استمرار تحسن في العلاقات التجارية والقطاع المصرفي بين بلاده وسوريا، مشيراً إلى أن بنك \"زراعات\" التركي يعت",
-          "link": "https://www.syria.tv/%D8%A8%D9%86%D9%83-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B9%D8%AA%D8%B2%D9%85-%D9%81%D8%AA%D8%AD-%D9%81%D8%B1%D8%B9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A8%D9%84-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-2026",
-          "publishedAt": "2026-08-30T11:32:24.000Z",
-          "files": [
-            "turkey",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -374,7 +373,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:04",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -410,7 +409,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:04",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -446,7 +445,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:04",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 11:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
