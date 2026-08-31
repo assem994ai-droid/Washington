@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T03:13:52.055Z",
+    "generatedAt": "2026-08-31T03:43:44.380Z",
     "windowHours": 24,
-    "from": "2026-08-30T03:13:52.055Z",
-    "to": "2026-08-31T03:13:52.055Z"
+    "from": "2026-08-30T03:43:44.380Z",
+    "to": "2026-08-31T03:43:44.380Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 18,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 16
+    "archiveCycles": 17
   },
   "emptyCircles": [
     "الكونغرس",
@@ -41,7 +41,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -136,6 +136,87 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "Al-Monitor"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 18,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "السوريون في تركيا من الحماية المؤقَّتة إلى سؤال المستقبل",
+          "excerpt": "سقوط النظام وما تبعه من تحولات في الواقع السياسي والأمني يفرض إعادة النظر بهذا الملف من زاوية مختلفة فالمشهد الذي أنتج صيغة الحماية المؤقتة لم يعد المشهد نفسه.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A4%D9%82%D9%91%D9%8E%D8%AA%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D8%A4%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84",
+          "publishedAt": "2026-08-31T03:39:49.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بتعاون سوري-تركي.. جسر حربي عائم يعيد ربط ضفتي الفرات في الميادين",
+          "excerpt": "أعلن وزارة الدفاع السورية، الأحد، الانتهاء من تركيب جسر حربي عائم جديد، بالتعاون مع الجيش التركي، لربط ضفتي نهر الفرات في منطقة الميادين شرقي دير الزور. وقالت",
+          "link": "https://www.syria.tv/%D8%A8%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D8%AC%D8%B3%D8%B1-%D8%AD%D8%B1%D8%A8%D9%8A-%D8%B9%D8%A7%D8%A6%D9%85-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%B1%D8%A8%D8%B7-%D8%B6%D9%81%D8%AA%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86",
+          "publishedAt": "2026-08-30T18:41:30.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Kurdish families honour their dead on road to peace with Turkey",
+          "excerpt": "<p>Menal Konak's brother, Mahmut, was 18 when he left to join the Kurdistan Workers' Party (PKK) in Syria in 2014. He died six years ago but she only found out this week.</p> <p>The Turkish authorities have now begun publishing lists of \"ma",
+          "link": "https://www.al-monitor.com/originals/2026/08/kurdish-families-honour-their-dead-road-peace-turkey",
+          "publishedAt": "2026-08-30T15:30:25.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بنك \"زراعات\" التركي يعتزم فتح فرع في سوريا قبل نهاية 2026",
+          "excerpt": "أكد رئيس مجلس الأعمال التركي السوري، محسوم ألتون كايا، استمرار تحسن في العلاقات التجارية والقطاع المصرفي بين بلاده وسوريا، مشيراً إلى أن بنك \"زراعات\" التركي يعت",
+          "link": "https://www.syria.tv/%D8%A8%D9%86%D9%83-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B9%D8%AA%D8%B2%D9%85-%D9%81%D8%AA%D8%AD-%D9%81%D8%B1%D8%B9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A8%D9%84-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-2026",
+          "publishedAt": "2026-08-30T11:32:24.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدران مستقلان فأكثر",
@@ -149,7 +230,7 @@
         "الإدارة التنفيذية الأمريكية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -203,7 +284,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -262,73 +343,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "Al-Monitor"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بتعاون سوري-تركي.. جسر حربي عائم يعيد ربط ضفتي الفرات في الميادين",
-          "excerpt": "أعلن وزارة الدفاع السورية، الأحد، الانتهاء من تركيب جسر حربي عائم جديد، بالتعاون مع الجيش التركي، لربط ضفتي نهر الفرات في منطقة الميادين شرقي دير الزور. وقالت",
-          "link": "https://www.syria.tv/%D8%A8%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D8%AC%D8%B3%D8%B1-%D8%AD%D8%B1%D8%A8%D9%8A-%D8%B9%D8%A7%D8%A6%D9%85-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%B1%D8%A8%D8%B7-%D8%B6%D9%81%D8%AA%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86",
-          "publishedAt": "2026-08-30T18:41:30.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Kurdish families honour their dead on road to peace with Turkey",
-          "excerpt": "<p>Menal Konak's brother, Mahmut, was 18 when he left to join the Kurdistan Workers' Party (PKK) in Syria in 2014. He died six years ago but she only found out this week.</p> <p>The Turkish authorities have now begun publishing lists of \"ma",
-          "link": "https://www.al-monitor.com/originals/2026/08/kurdish-families-honour-their-dead-road-peace-turkey",
-          "publishedAt": "2026-08-30T15:30:25.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بنك \"زراعات\" التركي يعتزم فتح فرع في سوريا قبل نهاية 2026",
-          "excerpt": "أكد رئيس مجلس الأعمال التركي السوري، محسوم ألتون كايا، استمرار تحسن في العلاقات التجارية والقطاع المصرفي بين بلاده وسوريا، مشيراً إلى أن بنك \"زراعات\" التركي يعت",
-          "link": "https://www.syria.tv/%D8%A8%D9%86%D9%83-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B9%D8%AA%D8%B2%D9%85-%D9%81%D8%AA%D8%AD-%D9%81%D8%B1%D8%B9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%A8%D9%84-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-2026",
-          "publishedAt": "2026-08-30T11:32:24.000Z",
-          "files": [
-            "turkey",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -340,7 +354,7 @@
       "circles": [
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -376,7 +390,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 03:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
