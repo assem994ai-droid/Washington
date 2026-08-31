@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T00:05:04.811Z",
+    "generatedAt": "2026-08-31T03:13:52.055Z",
     "windowHours": 24,
-    "from": "2026-08-30T00:05:04.811Z",
-    "to": "2026-08-31T00:05:04.811Z"
+    "from": "2026-08-30T03:13:52.055Z",
+    "to": "2026-08-31T03:13:52.055Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
-    "files": 8,
-    "withNew": 1,
-    "stale": 7,
+    "items": 17,
+    "files": 6,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 15
+    "americanItems": 4,
+    "archiveCycles": 16
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,58 +26,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Federal Register — السجل الفيدرالي الأمريكي",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإدارة التنفيذية الأمريكية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 22,
-      "items": [
-        {
-          "source": "Federal Register — السجل الفيدرالي الأمريكي",
-          "sourceId": "federal-register",
-          "circle": "الإدارة التنفيذية الأمريكية",
-          "title": "Rescission of the State Sponsor of Terrorism Determination Regarding Syria",
-          "excerpt": "",
-          "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17653/rescission-of-the-state-sponsor-of-terrorism-determination-regarding-syria",
-          "publishedAt": "2026-08-31T00:00:00.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran vows to resist sanctions as war passes 6-month mark",
-          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
-          "link": "https://npasyria.com/en/140867/",
-          "publishedAt": "2026-08-30T06:20:50.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -93,7 +41,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -188,6 +136,58 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Federal Register — السجل الفيدرالي الأمريكي",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإدارة التنفيذية الأمريكية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 13,
+      "items": [
+        {
+          "source": "Federal Register — السجل الفيدرالي الأمريكي",
+          "sourceId": "federal-register",
+          "circle": "الإدارة التنفيذية الأمريكية",
+          "title": "Rescission of the State Sponsor of Terrorism Determination Regarding Syria",
+          "excerpt": "",
+          "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17653/rescission-of-the-state-sponsor-of-terrorism-determination-regarding-syria",
+          "publishedAt": "2026-08-31T00:00:00.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran vows to resist sanctions as war passes 6-month mark",
+          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
+          "link": "https://npasyria.com/en/140867/",
+          "publishedAt": "2026-08-30T06:20:50.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -203,7 +203,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -275,7 +275,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -329,78 +329,6 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد أن حلت قسد نفسها ومن قبلها \"ب ك ك\" .. هل انتهى دور منظمات ما دون الدولة؟",
-          "excerpt": "تعرف منظمات ما دون الدولة، بأنها التنظيمات والقوى التي تملك كيانات تعمل سياسياً أو عسكرياً أو اجتماعياً خارج إطار الدولة الرسمي، كالأحزاب والحركات السياسية..",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%86-%D8%AD%D9%84%D8%AA-%D9%82%D8%B3%D8%AF-%D9%86%D9%81%D8%B3%D9%87%D8%A7-%D9%88%D9%85%D9%86-%D9%82%D8%A8%D9%84%D9%87%D8%A7-%D8%A8-%D9%83-%D9%83-%D9%87%D9%84-%D8%A7%D9%86%D8%AA%D9%87%D9%89-%D8%AF%D9%88%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A7%D8%AA-%D9%85%D8%A7-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%9F",
-          "publishedAt": "2026-08-30T03:04:49.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 2,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "واشنطن: استقرار لبنان مرهون بنزع سلاح \"حزب الله\"",
-          "excerpt": "طالبت الولايات المتحدة الأمريكية، أمس السبت، حزب الله بنزع سلاحه، مؤكدة أن الحكومة اللبنانية هي الجهة الشرعية الوحيدة المخولة بالتفاوض بشأن مستقبل البلاد.",
-          "link": "https://www.syria.tv/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D8%B1%D9%87%D9%88%D9%86-%D8%A8%D9%86%D8%B2%D8%B9-%D8%B3%D9%84%D8%A7%D8%AD-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
-          "publishedAt": "2026-08-30T03:06:03.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -412,7 +340,7 @@
       "circles": [
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -448,7 +376,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 00:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
