@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T08:43:58.097Z",
+    "generatedAt": "2026-08-31T08:53:52.082Z",
     "windowHours": 24,
-    "from": "2026-08-30T08:43:58.097Z",
-    "to": "2026-08-31T08:43:58.097Z"
+    "from": "2026-08-30T08:53:52.082Z",
+    "to": "2026-08-31T08:53:52.082Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
-    "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "items": 20,
+    "files": 6,
+    "withNew": 2,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 26
+    "americanItems": 3,
+    "archiveCycles": 27
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,38 +24,47 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
-        "Al Jazeera English",
         "تلفزيون سوريا",
+        "Al Jazeera English",
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام الدولي",
         "الإعلام السوري المستقل",
+        "الإعلام الدولي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:24",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 29,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
+          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
+          "publishedAt": "2026-08-31T08:46:35.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al Jazeera English",
           "sourceId": "aljazeera-en",
@@ -64,6 +73,20 @@
           "excerpt": "Israel has attacked Syria, occupied its south since the al-Assad regime's ouster, testing Syria's diplomatic outreach.",
           "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
           "publishedAt": "2026-08-31T08:05:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli incursion, artillery shelling target Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out a ground incursion into the northern Quneitra countryside on Sunday evening, while artillery shelling targeted areas in the southern countryside. A North Press correspondent in Qune",
+          "link": "https://npasyria.com/en/140906/",
+          "publishedAt": "2026-08-30T21:42:46.000Z",
           "files": [
             "israel"
           ],
@@ -103,7 +126,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Gaza's catch-22: Trump's peace plan caught between Hamas disarmament, Israeli withdrawal - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHIM ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1868,w_2802/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHI",
           "link": "https://www.jpost.com/middle-east/article-907003",
           "publishedAt": "2026-08-30T12:09:38.000Z",
           "files": [
@@ -128,14 +151,42 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:24",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 10,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الإثنين 31-08-2026",
+          "excerpt": "تحسن سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الإثنين، في حين انخفضت أسعار الذهب في سوريا..",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-31-08-2026",
+          "publishedAt": "2026-08-31T08:51:48.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أردوغان: إغلاق صفحات الإرهاب في سوريا يفتح مرحلة جديدة بالمنطقة",
+          "excerpt": "جاءت تصريحات أردوغان، خلال فعالية أقيمت في المجمع الرئاسي بالعاصمة أنقرة بمناسبة الذكرى الـ104 لعيد النصر في 30 آب",
+          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
+          "publishedAt": "2026-08-31T08:51:11.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -210,6 +261,80 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "North Press Agency (English)",
+        "The National",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:43",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 11,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S., Iran exchange attacks after month-long military calm",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged attacks overnight into Monday for the first time in more than a month, raising fears of renewed escalation in a conflict centered on the strategically vital Strait of Horm",
+          "link": "https://npasyria.com/en/140912/",
+          "publishedAt": "2026-08-31T06:49:14.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
+          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
+          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
+          "publishedAt": "2026-08-30T19:36:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Internal Security kills former regime commander in Tartous",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security said on Sunday that it killed Firas Abdulkarim Hammoud, known as “al-Khal,” during an armed clash in Tartous governorate. The Internal Security Command said the operation was carried",
+          "link": "https://npasyria.com/en/140903/",
+          "publishedAt": "2026-08-30T17:24:32.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
+          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
+          "link": "https://sana.sy/syria-and-the-world/2566687/",
+          "publishedAt": "2026-08-30T12:17:09.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -221,7 +346,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -246,18 +371,16 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "The National",
-        "سانا — قسم السياسة"
+        "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
       "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:24",
       "isFollowUp": true,
@@ -268,26 +391,16 @@
       "score": 3,
       "items": [
         {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
-          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
-          "publishedAt": "2026-08-30T19:36:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مشاورات سورية بولندية في دمشق لتعزيز العلاقات والتنسيق حول القضايا المشتركة",
-          "excerpt": "أجرت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي شوبط، ‏اليوم الأحد، مشاورات سياسية هي الأولى من نوعها مع وفد رفيع المستوى من ‏جمهورية بولندا برئاسة فويتشيخ زايونتشكوفسكي معاون وزير الخارجية البولندي ‏لشؤون الشرق الأوسط و",
-          "link": "https://sana.sy/syria-and-the-world/2566687/",
-          "publishedAt": "2026-08-30T12:17:09.000Z",
-          "files": [],
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Ilham Ahmad says SDF integration does not resolve all outstanding issues",
+          "excerpt": "QAMISHLI, Syria (North Press) – Ilham Ahmad, Co-Chair of the AANES&#8217; Foreign Relations Department, said on Sunday that the completion of the SDF’s integration into Syrian state institutions would not mean that all outstanding issues ha",
+          "link": "https://npasyria.com/en/140909/",
+          "publishedAt": "2026-08-31T06:09:56.000Z",
+          "files": [
+            "sdf"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -305,7 +418,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
