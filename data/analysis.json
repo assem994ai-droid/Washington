@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T19:23:46.975Z",
+    "generatedAt": "2026-08-31T19:33:45.648Z",
     "windowHours": 24,
-    "from": "2026-08-30T19:23:46.975Z",
-    "to": "2026-08-31T19:23:46.975Z"
+    "from": "2026-08-30T19:33:45.648Z",
+    "to": "2026-08-31T19:33:45.648Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 17,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 50
+    "archiveCycles": 51
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,10 +34,10 @@
       "contested": false,
       "independentSources": 5,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Turkish Minute",
         "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)",
         "The National"
       ],
       "circles": [
@@ -46,14 +46,26 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 18:53",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 18,
+      "score": 28,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian Internal Security arrests two former regime officers",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Internal Security in Latakia governorate, in cooperation with the Counterterrorism Department, arrested two former regime officers on Monday over alleged involvement in violations and military operatio",
+          "link": "https://npasyria.com/en/140941/",
+          "publishedAt": "2026-08-31T19:33:26.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -130,7 +142,7 @@
         "الملف الإسرائيلي والتركي",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 18:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -183,7 +195,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 18:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -290,13 +302,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 18:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 7,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -325,20 +337,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli incursion, artillery shelling target Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out a ground incursion into the northern Quneitra countryside on Sunday evening, while artillery shelling targeted areas in the southern countryside. A North Press correspondent in Qune",
-          "link": "https://npasyria.com/en/140906/",
-          "publishedAt": "2026-08-30T21:42:46.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -354,7 +352,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 18:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
