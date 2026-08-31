@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T07:43:44.550Z",
+    "generatedAt": "2026-08-31T07:54:00.933Z",
     "windowHours": 24,
-    "from": "2026-08-30T07:43:44.550Z",
-    "to": "2026-08-31T07:43:44.550Z"
+    "from": "2026-08-30T07:54:00.933Z",
+    "to": "2026-08-31T07:54:00.933Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 17,
     "files": 7,
     "withNew": 0,
     "stale": 7,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 23
+    "americanItems": 3,
+    "archiveCycles": 24
   },
   "emptyCircles": [
     "الكونغرس",
@@ -41,13 +41,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 19,
+      "usItems": 1,
+      "score": 15,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -104,20 +104,6 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces fire toward houses in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Sunday opened heavy machine-gun fire from the Al-Jazira military barracks toward houses in the village of Maariya in western Daraa, southern Syria. Local sources told North Press the gunfire ca",
-          "link": "https://npasyria.com/en/140873/",
-          "publishedAt": "2026-08-30T07:52:09.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -137,7 +123,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -209,7 +195,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -302,7 +288,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -338,7 +324,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -374,7 +360,7 @@
       "circles": [
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -410,7 +396,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 06:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 07:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
