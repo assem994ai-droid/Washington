@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T19:33:45.648Z",
+    "generatedAt": "2026-08-31T19:43:38.790Z",
     "windowHours": 24,
-    "from": "2026-08-30T19:33:45.648Z",
-    "to": "2026-08-31T19:33:45.648Z"
+    "from": "2026-08-30T19:43:38.790Z",
+    "to": "2026-08-31T19:43:38.790Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 16,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 51
+    "archiveCycles": 52
   },
   "emptyCircles": [
     "الكونغرس",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الإعلام المتخصص",
     "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
@@ -32,27 +33,25 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "Turkish Minute",
-        "Jerusalem Post — الشرق الأوسط",
-        "The National"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف التركي",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:33",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 28,
+      "score": 15,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -63,7 +62,7 @@
           "link": "https://npasyria.com/en/140941/",
           "publishedAt": "2026-08-31T19:33:26.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -113,18 +112,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian security forces kill high-profile Assad-era commander in raid",
-          "excerpt": "Syrian security forces on Sunday killed a senior military officer of the former Bashar Al Assad regime, who played a major role in a \"mutiny\" against the country's new government last year, state television reported.Firas Hammoud died after",
-          "link": "https://www.thenationalnews.com/news/mena/2026/08/30/syria-alawites/",
-          "publishedAt": "2026-08-30T19:36:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -142,7 +129,7 @@
         "الملف الإسرائيلي والتركي",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -195,7 +182,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -302,7 +289,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -352,7 +339,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 19:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
