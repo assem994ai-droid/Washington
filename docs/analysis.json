@@ -1,24 +1,23 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-30T21:43:40.205Z",
+    "generatedAt": "2026-08-31T00:05:04.811Z",
     "windowHours": 24,
-    "from": "2026-08-29T21:43:40.205Z",
-    "to": "2026-08-30T21:43:40.205Z"
+    "from": "2026-08-30T00:05:04.811Z",
+    "to": "2026-08-31T00:05:04.811Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 19,
     "files": 8,
     "withNew": 1,
     "stale": 7,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 14
+    "americanItems": 5,
+    "archiveCycles": 15
   },
   "emptyCircles": [
     "الكونغرس",
-    "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "التقارير الرسمية الدورية",
@@ -27,6 +26,58 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Federal Register — السجل الفيدرالي الأمريكي",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإدارة التنفيذية الأمريكية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 2,
+      "score": 22,
+      "items": [
+        {
+          "source": "Federal Register — السجل الفيدرالي الأمريكي",
+          "sourceId": "federal-register",
+          "circle": "الإدارة التنفيذية الأمريكية",
+          "title": "Rescission of the State Sponsor of Terrorism Determination Regarding Syria",
+          "excerpt": "",
+          "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17653/rescission-of-the-state-sponsor-of-terrorism-determination-regarding-syria",
+          "publishedAt": "2026-08-31T00:00:00.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran vows to resist sanctions as war passes 6-month mark",
+          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
+          "link": "https://npasyria.com/en/140867/",
+          "publishedAt": "2026-08-30T06:20:50.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -42,13 +93,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 29,
+      "score": 20,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -61,7 +112,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -152,7 +203,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -224,7 +275,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -278,42 +329,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran vows to resist sanctions as war passes 6-month mark",
-          "excerpt": "QAMISHLI, Syria (North Press) – Iran said on Saturday that it would stand firm against what it described as “unjust” sanctions and conspiracies, while signaling that diplomacy remains possible alongside its stated readiness to defend its na",
-          "link": "https://npasyria.com/en/140867/",
-          "publishedAt": "2026-08-30T06:20:50.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -325,7 +340,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -361,7 +376,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -397,7 +412,7 @@
       "circles": [
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -433,7 +448,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:02",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-30 21:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
