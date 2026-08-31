@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T05:53:49.864Z",
+    "generatedAt": "2026-08-31T06:13:48.949Z",
     "windowHours": 24,
-    "from": "2026-08-30T05:53:49.864Z",
-    "to": "2026-08-31T05:53:49.864Z"
+    "from": "2026-08-30T06:13:48.949Z",
+    "to": "2026-08-31T06:13:48.949Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 6,
-    "withNew": 0,
+    "items": 19,
+    "files": 7,
+    "withNew": 1,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 19
+    "archiveCycles": 20
   },
   "emptyCircles": [
     "الكونغرس",
@@ -41,7 +41,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 05:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -149,7 +149,7 @@
         "الإدارة التنفيذية الأمريكية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 05:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -188,6 +188,42 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Ilham Ahmad says SDF integration does not resolve all outstanding issues",
+          "excerpt": "QAMISHLI, Syria (North Press) – Ilham Ahmad, Co-Chair of the AANES&#8217; Foreign Relations Department, said on Sunday that the completion of the SDF’s integration into Syrian state institutions would not mean that all outstanding issues ha",
+          "link": "https://npasyria.com/en/140909/",
+          "publishedAt": "2026-08-31T06:09:56.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -201,7 +237,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 05:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -298,7 +334,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 05:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -356,7 +392,7 @@
       "circles": [
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 05:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -392,7 +428,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 04:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 05:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
