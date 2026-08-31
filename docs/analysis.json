@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T09:33:55.559Z",
+    "generatedAt": "2026-08-31T11:04:09.611Z",
     "windowHours": 24,
-    "from": "2026-08-30T09:33:55.559Z",
-    "to": "2026-08-31T09:33:55.559Z"
+    "from": "2026-08-30T11:04:09.611Z",
+    "to": "2026-08-31T11:04:09.611Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 21,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 29
+    "archiveCycles": 30
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,117 +26,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "تلفزيون سوريا",
-        "Al Jazeera English",
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام الدولي",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:13",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 20,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
-          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
-          "publishedAt": "2026-08-31T08:46:35.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
-          "excerpt": "Israel has attacked Syria, occupied its south since the al-Assad regime's ouster, testing Syria's diplomatic outreach.",
-          "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
-          "publishedAt": "2026-08-31T08:05:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli incursion, artillery shelling target Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out a ground incursion into the northern Quneitra countryside on Sunday evening, while artillery shelling targeted areas in the southern countryside. A North Press correspondent in Qune",
-          "link": "https://npasyria.com/en/140906/",
-          "publishedAt": "2026-08-30T21:42:46.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي",
-          "excerpt": "أفاد مراسل تلفزيون سوريا، الأحد، بأن دورية تابعة لقوات الاحتلال الإسرائيلي، مؤلفة من ست آليات عسكرية، توغلت في قرية طرنجة بريف القنيطرة..",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
-          "publishedAt": "2026-08-30T18:28:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يقتحم منطقة الكسارات في جباتا الخشب بريف القنيطرة",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الأحد، في محيط بلدة جباتا الخشب بريف القنيطرة الشمالي، ونفذت حملة تفتيش في منطقة الكسارات بالبلدة.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-08-30T12:32:53.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Gaza's catch-22: Trump's peace plan caught between Hamas disarmament, Israeli withdrawal - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1868,w_2802/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHI",
-          "link": "https://www.jpost.com/middle-east/article-907003",
-          "publishedAt": "2026-08-30T12:09:38.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -151,14 +40,28 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:13",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 22,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "شراكة سورية تركية لتطوير مدينة باب الهوى الصناعية ورفع طاقتها الاستيعابية",
+          "excerpt": "وقّعت شركة إسراء القابضة التركية اتفاقية تعاون مع وزارة الاقتصاد والصناعة السورية لتوسعة مدينة باب الهوى الصناعية، في خطوة تهدف إلى تعزيز البنية التحتية",
+          "link": "https://www.syria.tv/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%88%D9%89-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%B1%D9%81%D8%B9-%D8%B7%D8%A7%D9%82%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B9%D8%A7%D8%A8%D9%8A%D8%A9",
+          "publishedAt": "2026-08-31T10:55:18.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -261,6 +164,117 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "Al Jazeera English",
+        "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام الدولي",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:33",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 20,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
+          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
+          "publishedAt": "2026-08-31T08:46:35.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
+          "excerpt": "Israel has attacked Syria, occupied its south since the al-Assad regime's ouster, testing Syria's diplomatic outreach.",
+          "link": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
+          "publishedAt": "2026-08-31T08:05:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli incursion, artillery shelling target Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out a ground incursion into the northern Quneitra countryside on Sunday evening, while artillery shelling targeted areas in the southern countryside. A North Press correspondent in Qune",
+          "link": "https://npasyria.com/en/140906/",
+          "publishedAt": "2026-08-30T21:42:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي",
+          "excerpt": "أفاد مراسل تلفزيون سوريا، الأحد، بأن دورية تابعة لقوات الاحتلال الإسرائيلي، مؤلفة من ست آليات عسكرية، توغلت في قرية طرنجة بريف القنيطرة..",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
+          "publishedAt": "2026-08-30T18:28:30.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يقتحم منطقة الكسارات في جباتا الخشب بريف القنيطرة",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الأحد، في محيط بلدة جباتا الخشب بريف القنيطرة الشمالي، ونفذت حملة تفتيش في منطقة الكسارات بالبلدة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-08-30T12:32:53.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Gaza's catch-22: Trump's peace plan caught between Hamas disarmament, Israeli withdrawal - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1868,w_2802/733827' alt='Palestinians are seen walking in Khan Yunis, southern Gaza Strip, August 12, 2026 (photo credit: ABED RAHI",
+          "link": "https://www.jpost.com/middle-east/article-907003",
+          "publishedAt": "2026-08-30T12:09:38.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -276,7 +290,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -346,7 +360,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -382,7 +396,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 08:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -418,7 +432,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 09:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
