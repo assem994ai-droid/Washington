@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T17:23:52.601Z",
+    "generatedAt": "2026-08-31T18:33:49.966Z",
     "windowHours": 24,
-    "from": "2026-08-30T17:23:52.601Z",
-    "to": "2026-08-31T17:23:52.601Z"
+    "from": "2026-08-30T18:33:49.966Z",
+    "to": "2026-08-31T18:33:49.966Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 18,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 46
+    "archiveCycles": 47
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,7 +46,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 16:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 17:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -130,7 +130,7 @@
         "الملف الإسرائيلي والتركي",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 16:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 17:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -143,7 +143,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "What's next for Syria's economy as US removes nation from state terror list? - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2124,w_3186/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in Da",
           "link": "https://www.jpost.com/middle-east/article-907118",
           "publishedAt": "2026-08-31T12:31:04.000Z",
           "files": [
@@ -183,7 +183,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 16:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 17:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -304,13 +304,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 16:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 17:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 8,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -353,20 +353,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي",
-          "excerpt": "أفاد مراسل تلفزيون سوريا، الأحد، بأن دورية تابعة لقوات الاحتلال الإسرائيلي، مؤلفة من ست آليات عسكرية، توغلت في قرية طرنجة بريف القنيطرة..",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
-          "publishedAt": "2026-08-30T18:28:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -382,7 +368,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 16:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 17:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
