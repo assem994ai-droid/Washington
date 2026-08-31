@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T22:34:08.866Z",
+    "generatedAt": "2026-08-31T22:43:44.943Z",
     "windowHours": 24,
-    "from": "2026-08-30T22:34:08.866Z",
-    "to": "2026-08-31T22:34:08.866Z"
+    "from": "2026-08-30T22:43:44.943Z",
+    "to": "2026-08-31T22:43:44.943Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
-    "files": 5,
+    "items": 17,
+    "files": 6,
     "withNew": 0,
-    "stale": 5,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 54
+    "americanItems": 3,
+    "archiveCycles": 55
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,14 +25,95 @@
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "Turkish Minute",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف التركي",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:34",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian Internal Security arrests two former regime officers",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Internal Security in Latakia governorate, in cooperation with the Counterterrorism Department, arrested two former regime officers on Monday over alleged involvement in violations and military operatio",
+          "link": "https://npasyria.com/en/140941/",
+          "publishedAt": "2026-08-31T19:33:26.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مكافحة الإرهاب تقبض على عنصر سابق في الأمن العسكري بدرعا",
+          "excerpt": "ألقت إدارة مكافحة الإرهاب القبض على عبيدة غسان بواب، المنحدر من مدينة تلكلخ، والذي كان يقيم في حي شمال الخط بمدينة درعا، بحسب مانقل موقع \"أحرار حوران\".",
+          "link": "https://www.syria.tv/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%AA%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B9%D9%86%D8%B5%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-08-31T16:06:12.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Prosecutors order detention of former Erdoğan adviser over remarks targeting Arab Alawites",
+          "excerpt": "Turkish prosecutors have ordered the detention of journalist Kemal Öztürk, a former press adviser to President Recep Tayyip Erdoğan, over televised remarks targeting Syria’s Arab Alawite minority that were widely condemned as hate speech, t",
+          "link": "https://turkishminute.com/2026/08/31/prosecutors-order-detention-of-former-erdogan-adviser-over-remarks-targeting-arab-alawites/",
+          "publishedAt": "2026-08-31T15:17:45.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "'Only a smokescreen': Hamas condemns rising settler violence, Ben-Gvir's treatment of prisoners",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1076,w_1920/733783' alt='Israeli settler extremists throw stones at a dirt road at the Palestinian village of Kusra, in the West Ba",
+          "link": "https://www.jpost.com/middle-east/article-907102",
+          "publishedAt": "2026-08-31T11:19:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S., Iran exchange attacks after month-long military calm",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged attacks overnight into Monday for the first time in more than a month, raising fears of renewed escalation in a conflict centered on the strategically vital Strait of Horm",
+          "link": "https://npasyria.com/en/140912/",
+          "publishedAt": "2026-08-31T06:49:14.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
     {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
@@ -47,7 +128,7 @@
         "الملف الإسرائيلي والتركي",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 21:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:34",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -100,7 +181,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 21:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:34",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -195,22 +276,19 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا",
-        "Turkish Minute",
-        "Jerusalem Post — الشرق الأوسط"
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الملف التركي",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 21:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:34",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -219,51 +297,43 @@
       "score": 7,
       "items": [
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
+          "link": "https://npasyria.com/en/140925/",
+          "publishedAt": "2026-08-31T11:24:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "مكافحة الإرهاب تقبض على عنصر سابق في الأمن العسكري بدرعا",
-          "excerpt": "ألقت إدارة مكافحة الإرهاب القبض على عبيدة غسان بواب، المنحدر من مدينة تلكلخ، والذي كان يقيم في حي شمال الخط بمدينة درعا، بحسب مانقل موقع \"أحرار حوران\".",
-          "link": "https://www.syria.tv/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%AA%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B9%D9%86%D8%B5%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-08-31T16:06:12.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Prosecutors order detention of former Erdoğan adviser over remarks targeting Arab Alawites",
-          "excerpt": "Turkish prosecutors have ordered the detention of journalist Kemal Öztürk, a former press adviser to President Recep Tayyip Erdoğan, over televised remarks targeting Syria’s Arab Alawite minority that were widely condemned as hate speech, t",
-          "link": "https://turkishminute.com/2026/08/31/prosecutors-order-detention-of-former-erdogan-adviser-over-remarks-targeting-arab-alawites/",
-          "publishedAt": "2026-08-31T15:17:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "'Only a smokescreen': Hamas condemns rising settler violence, Ben-Gvir's treatment of prisoners",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1076,w_1920/733783' alt='Israeli settler extremists throw stones at a dirt road at the Palestinian village of Kusra, in the West Ba",
-          "link": "https://www.jpost.com/middle-east/article-907102",
-          "publishedAt": "2026-08-31T11:19:43.000Z",
-          "files": [],
+          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
+          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
+          "publishedAt": "2026-08-31T08:46:35.000Z",
+          "files": [
+            "israel"
+          ],
           "seenBefore": true,
           "us": false
         }
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل"
@@ -277,15 +347,15 @@
       "score": 3,
       "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
-          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
-          "publishedAt": "2026-08-31T08:46:35.000Z",
+          "title": "Ilham Ahmad says SDF integration does not resolve all outstanding issues",
+          "excerpt": "QAMISHLI, Syria (North Press) – Ilham Ahmad, Co-Chair of the AANES&#8217; Foreign Relations Department, said on Sunday that the completion of the SDF’s integration into Syrian state institutions would not mean that all outstanding issues ha",
+          "link": "https://npasyria.com/en/140909/",
+          "publishedAt": "2026-08-31T06:09:56.000Z",
           "files": [
-            "israel"
+            "sdf"
           ],
           "seenBefore": true,
           "us": false
@@ -304,7 +374,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 21:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:34",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
