@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T20:07:21.188Z",
+    "generatedAt": "2026-09-01T20:21:37.393Z",
     "windowHours": 24,
-    "from": "2026-08-31T20:07:21.188Z",
-    "to": "2026-09-01T20:07:21.188Z"
+    "from": "2026-08-31T20:21:37.393Z",
+    "to": "2026-09-01T20:21:37.393Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 4,
     "withNew": 0,
     "stale": 4,
     "contested": 0,
     "echoed": 2,
     "americanItems": 3,
-    "archiveCycles": 99
+    "archiveCycles": 100
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "مراكز الفكر",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -31,7 +32,7 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 8,
+      "independentSources": 7,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
@@ -39,23 +40,21 @@
         "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "Jerusalem Post — الشرق الأوسط",
-        "Al Jazeera English",
         "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام الدولي"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 3,
-      "score": 41,
+      "score": 37,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -142,18 +141,6 @@
           "us": false
         },
         {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-          "excerpt": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
-          "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
-          "publishedAt": "2026-09-01T15:29:48.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -233,7 +220,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -368,7 +355,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -434,7 +421,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
