@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T09:13:06.861Z",
+    "generatedAt": "2026-09-01T10:12:27.212Z",
     "windowHours": 24,
-    "from": "2026-08-31T09:13:06.861Z",
-    "to": "2026-09-01T09:13:06.861Z"
+    "from": "2026-08-31T10:12:27.212Z",
+    "to": "2026-09-01T10:12:27.212Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 6,
+    "items": 19,
+    "files": 5,
     "withNew": 1,
-    "stale": 5,
+    "stale": 4,
     "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 70
+    "archiveCycles": 71
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,13 +46,13 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 09:13",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 29,
+      "score": 21,
       "items": [
         {
           "source": "The National",
@@ -63,7 +63,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
           "publishedAt": "2026-09-01T08:51:20.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -77,6 +77,18 @@
           "files": [],
           "seenBefore": true,
           "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Dubai to Damascus: Arada to build $7bn 'UAE-style' mixed-use project in Syria",
+          "excerpt": "Property developer Arada has revealed plans to build a $7 billion \"UAE-style\" mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, b",
+          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
+          "publishedAt": "2026-09-01T06:33:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "North Press Agency (English)",
@@ -141,6 +153,86 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "Turkish Minute"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف التركي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 18,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بالتعاون مع تركيا.. سوريا تبدأ التحضير لرقمنة السجل العقاري والمساحي",
+          "excerpt": "أعلن وزير الإدارة المحلية والبيئة محمد عنجراني، بدء التحضير لأتمتة السجل العقاري والمساحي والخدمات العقارية في سوريا، بالتعاون مع الخبرات التركية",
+          "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D9%8A",
+          "publishedAt": "2026-09-01T10:07:46.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الثلاثاء 01-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (01-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-01-09-2026",
+          "publishedAt": "2026-09-01T07:07:16.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Kurdish families honor relatives killed in PKK conflict as Turkey pursues peace",
+          "excerpt": "For years, Menal Konak believed that her younger brother Mahmut, who left home at 18 to join the outlawed Kurdistan Workers’ Party (PKK) in Syria in 2014, might still be alive. This week she learned that he had died in 2020. “We are only fi",
+          "link": "https://turkishminute.com/2026/08/31/kurdish-families-honor-relatives-killed-in-pkk-conflict-as-turkey-pursues-peace/",
+          "publishedAt": "2026-08-31T13:14:23.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "شراكة سورية تركية لتطوير مدينة باب الهوى الصناعية ورفع طاقتها الاستيعابية",
+          "excerpt": "وقّعت شركة إسراء القابضة التركية اتفاقية تعاون مع وزارة الاقتصاد والصناعة السورية لتوسعة مدينة باب الهوى الصناعية، في خطوة تهدف إلى تعزيز البنية التحتية",
+          "link": "https://www.syria.tv/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%88%D9%89-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%B1%D9%81%D8%B9-%D8%B7%D8%A7%D9%82%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B9%D8%A7%D8%A8%D9%8A%D8%A9",
+          "publishedAt": "2026-08-31T10:55:18.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -155,7 +247,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -222,72 +314,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "Turkish Minute"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الملف التركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:58",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الثلاثاء 01-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (01-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-01-09-2026",
-          "publishedAt": "2026-09-01T07:07:16.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Kurdish families honor relatives killed in PKK conflict as Turkey pursues peace",
-          "excerpt": "For years, Menal Konak believed that her younger brother Mahmut, who left home at 18 to join the outlawed Kurdistan Workers’ Party (PKK) in Syria in 2014, might still be alive. This week she learned that he had died in 2020. “We are only fi",
-          "link": "https://turkishminute.com/2026/08/31/kurdish-families-honor-relatives-killed-in-pkk-conflict-as-turkey-pursues-peace/",
-          "publishedAt": "2026-08-31T13:14:23.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "شراكة سورية تركية لتطوير مدينة باب الهوى الصناعية ورفع طاقتها الاستيعابية",
-          "excerpt": "وقّعت شركة إسراء القابضة التركية اتفاقية تعاون مع وزارة الاقتصاد والصناعة السورية لتوسعة مدينة باب الهوى الصناعية، في خطوة تهدف إلى تعزيز البنية التحتية",
-          "link": "https://www.syria.tv/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%88%D9%89-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%B1%D9%81%D8%B9-%D8%B7%D8%A7%D9%82%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B9%D8%A7%D8%A8%D9%8A%D8%A9",
-          "publishedAt": "2026-08-31T10:55:18.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -299,7 +325,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -325,42 +351,6 @@
       ]
     },
     {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:58",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE developer Arada to build $7 billion mixed-use project in Syria",
-          "excerpt": "UAE developer Arada has revealed plans to build a $7 billion mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, branded residences",
-          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
-          "publishedAt": "2026-09-01T06:33:39.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
@@ -374,7 +364,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
