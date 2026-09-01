@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T13:55:52.887Z",
+    "generatedAt": "2026-09-01T15:40:22.375Z",
     "windowHours": 24,
-    "from": "2026-08-31T13:55:52.887Z",
-    "to": "2026-09-01T13:55:52.887Z"
+    "from": "2026-08-31T15:40:22.375Z",
+    "to": "2026-09-01T15:40:22.375Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 22,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "withNew": 2,
+    "stale": 2,
     "contested": 0,
     "echoed": 1,
     "americanItems": 1,
-    "archiveCycles": 85
+    "archiveCycles": 86
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,147 +23,48 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "التقارير الرسمية الدورية",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 4,
       "sources": [
-        "Al-Monitor",
+        "Al Jazeera English",
         "تلفزيون سوريا",
-        "The National",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "The National"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام الدولي",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 26,
+      "usItems": 1,
+      "score": 29,
       "items": [
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli strikes kill five in Gaza as military says it arrests Hamas militant",
-          "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Sept 1 (Reuters) - An Israeli-backed raid to detain a Hamas militant in Gaza City was uncovered during the operation on Tuesday, prompting airstrikes to cover the force's withdrawal that killed at least ",
-          "link": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-five-gaza-military-says-it-arrests-hamas-militant",
-          "publishedAt": "2026-09-01T11:46:33.000Z",
-          "files": [
-            "israel"
-          ],
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
+          "excerpt": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
+          "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
+          "publishedAt": "2026-09-01T15:29:48.000Z",
+          "files": [],
           "seenBefore": false,
           "us": false
         },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال الإسرائيلي تختطف شابا في الرفيد جنوبي القنيطرة",
-          "excerpt": "قوات الاحتلال الإسرائيلي تختطف شابا في بلدة الرفيد بريف القنيطرة الجنوبي.",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AE%D8%AA%D8%B7%D9%81-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-01T11:04:32.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الهيئة الدينية في الجولان تدين تصريحات الهجري وتحذر من توظيف العقيدة سياسياً",
-          "excerpt": "أصدرت الهيئة الدينية في الجولان السوري المحتل، بياناً رفضت فيه تصريحات لـ \"الشيخ حكمت الهجري\" بشأن علاقة الموحّدين الدروز بالاحتلال الإسرائيلي، ومشددةً على رفض",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B",
-          "publishedAt": "2026-09-01T10:45:16.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli-backed commando operation in Gaza ends with heavy strikes and clashes",
-          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, as Israeli-backed commandos carried out an operation against Hamas.A woman and two children were killed and eight people were injured in",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
-          "publishedAt": "2026-09-01T08:51:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
-          "link": "https://npasyria.com/en/140954/",
-          "publishedAt": "2026-09-01T08:50:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-01T08:27:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 5,
-      "sources": [
-        "تلفزيون سوريا",
-        "Al Jazeera English",
-        "North Press Agency (English)",
-        "The National",
-        "Turkish Minute"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام الدولي",
-        "الإعلام المتخصص",
-        "الملف التركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:43",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 23,
-      "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -271,16 +172,128 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "Al-Monitor",
+        "تلفزيون سوريا",
+        "The National",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 27,
+      "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli strikes kill four in operation to seize Hamas figure in Gaza: officials",
+          "excerpt": "<p>Heavy Israeli bombardment killed four people in Gaza City on Tuesday, Palestinian health officials said, in what both sides described as an Israeli-backed ground operation to seize a senior Hamas figure.</p> <p>Eyewitnesses reported arou",
+          "link": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-four-operation-seize-hamas-figure-gaza-officials",
+          "publishedAt": "2026-09-01T15:30:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Prosecutors order detention of former Erdoğan adviser over remarks targeting Arab Alawites",
-          "excerpt": "Turkish prosecutors have ordered the detention of journalist Kemal Öztürk, a former press adviser to President Recep Tayyip Erdoğan, over televised remarks targeting Syria’s Arab Alawite minority that were widely condemned as hate speech, t",
-          "link": "https://turkishminute.com/2026/08/31/prosecutors-order-detention-of-former-erdogan-adviser-over-remarks-targeting-arab-alawites/",
-          "publishedAt": "2026-08-31T15:17:45.000Z",
-          "files": [],
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli strikes kill five in Gaza as military says it arrests Hamas militant",
+          "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Sept 1 (Reuters) - An Israeli-backed raid to detain a Hamas militant in Gaza City was uncovered during the operation on Tuesday, prompting airstrikes to cover the force's withdrawal that killed at least ",
+          "link": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-five-gaza-military-says-it-arrests-hamas-militant",
+          "publishedAt": "2026-09-01T11:46:33.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال الإسرائيلي تختطف شابا في الرفيد جنوبي القنيطرة",
+          "excerpt": "قوات الاحتلال الإسرائيلي تختطف شابا في بلدة الرفيد بريف القنيطرة الجنوبي.",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AE%D8%AA%D8%B7%D9%81-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-01T11:04:32.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الهيئة الدينية في الجولان تدين تصريحات الهجري وتحذر من توظيف العقيدة سياسياً",
+          "excerpt": "أصدرت الهيئة الدينية في الجولان السوري المحتل، بياناً رفضت فيه تصريحات لـ \"الشيخ حكمت الهجري\" بشأن علاقة الموحّدين الدروز بالاحتلال الإسرائيلي، ومشددةً على رفض",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B",
+          "publishedAt": "2026-09-01T10:45:16.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli-backed commando operation in Gaza ends with heavy strikes and clashes",
+          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, as Israeli-backed commandos carried out an operation against Hamas.A woman and two children were killed and eight people were injured in",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
+          "publishedAt": "2026-09-01T08:51:20.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
+          "link": "https://npasyria.com/en/140954/",
+          "publishedAt": "2026-09-01T08:50:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-01T08:27:52.000Z",
+          "files": [
+            "israel"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -300,7 +313,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -367,7 +380,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
