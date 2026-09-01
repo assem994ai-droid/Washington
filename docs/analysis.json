@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T18:41:00.440Z",
+    "generatedAt": "2026-09-01T18:55:40.733Z",
     "windowHours": 24,
-    "from": "2026-08-31T18:41:00.440Z",
-    "to": "2026-09-01T18:41:00.440Z"
+    "from": "2026-08-31T18:55:40.733Z",
+    "to": "2026-09-01T18:55:40.733Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 25,
     "files": 4,
-    "withNew": 0,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 3,
     "contested": 0,
     "echoed": 2,
-    "americanItems": 2,
-    "archiveCycles": 93
+    "americanItems": 3,
+    "archiveCycles": 94
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,30 +33,42 @@
       "contested": false,
       "independentSources": 8,
       "sources": [
+        "North Press Agency (English)",
         "Middle East Eye",
         "Al-Monitor",
         "تلفزيون سوريا",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "Jerusalem Post — الشرق الأوسط",
         "Al Jazeera English",
-        "North Press Agency (English)",
         "The National"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي",
         "الملف الإسرائيلي والتركي",
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:08",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": true,
-      "usItems": 2,
-      "score": 37,
+      "usItems": 3,
+      "score": 49,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump says U.S. striking Iranian targets near Hormuz",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump said Tuesday that American forces were striking Iranian targets near the Strait of Hormuz, describing the strikes as “large and powerful.” In a post on Truth Social, Trump said the",
+          "link": "https://npasyria.com/en/140990/",
+          "publishedAt": "2026-09-01T18:49:43.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -74,7 +86,7 @@
           "sourceId": "al-monitor",
           "circle": "الإعلام المتخصص",
           "title": "IAEA reports progress in Syria investigation, none in Iran",
-          "excerpt": "<p>VIENNA, Sept 1 (Reuters) - The U.N. nuclear watchdog has resolved its outstanding questions in its investigation into past, secret nuclear activities in Syria under the Assad family's rule, a confidential report by the agency seen by Reu",
+          "excerpt": "<p>By Francois Murphy</p><p>VIENNA, Sept 1 (Reuters) - The U.N. nuclear watchdog has resolved its outstanding questions in an investigation into secret nuclear activities in Syria under the Assad family's rule but made no progress in Iran, ",
           "link": "https://www.al-monitor.com/originals/2026/09/iaea-reports-progress-syria-investigation-none-iran",
           "publishedAt": "2026-09-01T17:46:41.000Z",
           "files": [],
@@ -109,7 +121,7 @@
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
-          "title": "An enemy from within: How Gazan militias became Hamas’s new nightmare -analysis",
+          "title": "An enemy from within: How Gazan militias became Hamas’s new nightmare - analysis",
           "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2314,w_3538/682121' alt='Palestinian Hamas terrorists stand guard on the day of the handover of hostages held in Gaza since the dea",
           "link": "https://www.jpost.com/middle-east/article-907246",
           "publishedAt": "2026-09-01T16:55:02.000Z",
@@ -188,18 +200,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Denmark reopens Syria embassy, pledges $76 million for recovery",
-          "excerpt": "QAMISHLI, Syria (North Press) – Denmark on Monday reopened its embassy in Damascus after 14 years of closure, pledging $76 million for Syria’s early recovery, stabilization and refugee return efforts. Danish Foreign Minister Lars Løkke Rasm",
-          "link": "https://npasyria.com/en/140945/",
-          "publishedAt": "2026-09-01T06:24:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -222,7 +222,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -371,7 +371,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -423,7 +423,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
