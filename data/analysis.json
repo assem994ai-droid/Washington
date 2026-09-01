@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T06:12:33.034Z",
+    "generatedAt": "2026-09-01T06:35:34.123Z",
     "windowHours": 24,
-    "from": "2026-08-31T06:12:33.034Z",
-    "to": "2026-09-01T06:12:33.034Z"
+    "from": "2026-08-31T06:35:34.123Z",
+    "to": "2026-09-01T06:35:34.123Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 15,
+    "items": 16,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 61
+    "archiveCycles": 62
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,14 +44,26 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 04:22",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 25,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Denmark reopens Syria embassy, pledges $76 million for recovery",
+          "excerpt": "QAMISHLI, Syria (North Press) – Denmark on Monday reopened its embassy in Damascus after 14 years of closure, pledging $76 million for Syria’s early recovery, stabilization and refugee return efforts. Danish Foreign Minister Lars Løkke Rasm",
+          "link": "https://npasyria.com/en/140945/",
+          "publishedAt": "2026-09-01T06:24:41.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -129,7 +141,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 04:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -195,7 +207,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 04:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -273,7 +285,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 04:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -312,7 +324,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 04:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
