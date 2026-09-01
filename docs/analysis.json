@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T13:13:29.800Z",
+    "generatedAt": "2026-09-01T13:29:09.443Z",
     "windowHours": 24,
-    "from": "2026-08-31T13:13:29.800Z",
-    "to": "2026-09-01T13:13:29.800Z"
+    "from": "2026-08-31T13:29:09.443Z",
+    "to": "2026-09-01T13:29:09.443Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 21,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
     "echoed": 1,
     "americanItems": 1,
-    "archiveCycles": 82
+    "archiveCycles": 83
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,13 +46,13 @@
         "الإعلام المتخصص",
         "الملف التركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:13",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 32,
+      "score": 23,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -63,7 +63,7 @@
           "link": "https://www.syria.tv/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D9%8A%D8%AD%D8%A7%D9%88%D9%84-%D8%AC%D8%B1%D9%91%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A3%D9%85%D9%86%D9%8A%D8%A9",
           "publishedAt": "2026-09-01T13:11:13.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -192,7 +192,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 12:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -291,24 +291,22 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "Middle East Eye",
-        "تلفزيون سوريا",
-        "Turkish Minute"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف التركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 12:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 8,
       "items": [
         {
           "source": "Middle East Eye",
@@ -352,20 +350,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Kurdish families honor relatives killed in PKK conflict as Turkey pursues peace",
-          "excerpt": "For years, Menal Konak believed that her younger brother Mahmut, who left home at 18 to join the outlawed Kurdistan Workers’ Party (PKK) in Syria in 2014, might still be alive. This week she learned that he had died in 2020. “We are only fi",
-          "link": "https://turkishminute.com/2026/08/31/kurdish-families-honor-relatives-killed-in-pkk-conflict-as-turkey-pursues-peace/",
-          "publishedAt": "2026-08-31T13:14:23.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -383,7 +367,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 12:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
