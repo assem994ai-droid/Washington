@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T10:57:14.164Z",
+    "generatedAt": "2026-09-01T11:10:23.009Z",
     "windowHours": 24,
-    "from": "2026-08-31T10:57:14.164Z",
-    "to": "2026-09-01T10:57:14.164Z"
+    "from": "2026-08-31T11:10:23.009Z",
+    "to": "2026-09-01T11:10:23.009Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 17,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 2,
-    "archiveCycles": 74
+    "americanItems": 1,
+    "archiveCycles": 75
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,157 +25,51 @@
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
-  "files": [
+  "errors": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 5,
-      "sources": [
-        "The National",
-        "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Turkish Minute",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف التركي",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 21,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iraq set to try thousands of ISIS suspects from Syria after interrogation",
-          "excerpt": "Iraq has finished interrogating thousands of ISIS suspects transferred from Syria and is preparing to put them on trial, the Supreme Judicial Council said.In a statement, the council said the First Karkh Investigation Court, which specialis",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/iraq-set-to-try-thousands-of-syrian-isis-suspects-after-interrogation/",
-          "publishedAt": "2026-09-01T10:28:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. approves helicopter sale worth $800 million to Iraq",
-          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Monday approved a sale of helicopters produced by Bell Helicopter, along with related systems and equipment, to Iraq for an estimated $800 million. The deal includes Bell 412EPX a",
-          "link": "https://npasyria.com/en/140948/",
-          "publishedAt": "2026-09-01T07:19:27.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Dubai to Damascus: Arada to build $7bn 'UAE-style' mixed-use project in Syria",
-          "excerpt": "Property developer Arada has revealed plans to build a $7 billion \"UAE-style\" mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, b",
-          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
-          "publishedAt": "2026-09-01T06:33:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Denmark reopens Syria embassy, pledges $76 million for recovery",
-          "excerpt": "QAMISHLI, Syria (North Press) – Denmark on Monday reopened its embassy in Damascus after 14 years of closure, pledging $76 million for Syria’s early recovery, stabilization and refugee return efforts. Danish Foreign Minister Lars Løkke Rasm",
-          "link": "https://npasyria.com/en/140945/",
-          "publishedAt": "2026-09-01T06:24:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian Internal Security arrests two former regime officers",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Internal Security in Latakia governorate, in cooperation with the Counterterrorism Department, arrested two former regime officers on Monday over alleged involvement in violations and military operatio",
-          "link": "https://npasyria.com/en/140941/",
-          "publishedAt": "2026-08-31T19:33:26.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مكافحة الإرهاب تقبض على عنصر سابق في الأمن العسكري بدرعا",
-          "excerpt": "ألقت إدارة مكافحة الإرهاب القبض على عبيدة غسان بواب، المنحدر من مدينة تلكلخ، والذي كان يقيم في حي شمال الخط بمدينة درعا، بحسب مانقل موقع \"أحرار حوران\".",
-          "link": "https://www.syria.tv/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%AA%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B9%D9%86%D8%B5%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-08-31T16:06:12.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Prosecutors order detention of former Erdoğan adviser over remarks targeting Arab Alawites",
-          "excerpt": "Turkish prosecutors have ordered the detention of journalist Kemal Öztürk, a former press adviser to President Recep Tayyip Erdoğan, over televised remarks targeting Syria’s Arab Alawite minority that were widely condemned as hate speech, t",
-          "link": "https://turkishminute.com/2026/08/31/prosecutors-order-detention-of-former-erdogan-adviser-over-remarks-targeting-arab-alawites/",
-          "publishedAt": "2026-08-31T15:17:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "'Only a smokescreen': Hamas condemns rising settler violence, Ben-Gvir's treatment of prisoners",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1076,w_1920/733783' alt='Israeli settler extremists throw stones at a dirt road at the Palestinian village of Kusra, in the West Ba",
-          "link": "https://www.jpost.com/middle-east/article-907102",
-          "publishedAt": "2026-08-31T11:19:43.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
+  "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
         "The National",
-        "North Press Agency (English)",
         "Middle East Eye"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 22,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال الإسرائيلي تختطف شابا في الرفيد جنوبي القنيطرة",
+          "excerpt": "قوات الاحتلال الإسرائيلي تختطف شابا في بلدة الرفيد بريف القنيطرة الجنوبي.",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AE%D8%AA%D8%B7%D9%81-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-01T11:04:32.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -198,20 +92,6 @@
           "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, amid conflicting reports of commandos carrying out an operation against Hamas.A woman and two children were killed and eight people were",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
           "publishedAt": "2026-09-01T08:51:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
-          "link": "https://npasyria.com/en/140954/",
-          "publishedAt": "2026-09-01T08:50:12.000Z",
           "files": [
             "israel"
           ],
@@ -245,20 +125,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
-          "link": "https://npasyria.com/en/140925/",
-          "publishedAt": "2026-08-31T11:24:25.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -278,7 +144,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -346,6 +212,94 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "The National",
+        "تلفزيون سوريا",
+        "Turkish Minute",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "الملف التركي",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:57",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iraq set to try thousands of ISIS suspects from Syria after interrogation",
+          "excerpt": "Iraq has finished interrogating thousands of ISIS suspects transferred from Syria and is preparing to put them on trial, the Supreme Judicial Council said.In a statement, the council said the First Karkh Investigation Court, which specialis",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/iraq-set-to-try-thousands-of-syrian-isis-suspects-after-interrogation/",
+          "publishedAt": "2026-09-01T10:28:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Dubai to Damascus: Arada to build $7bn 'UAE-style' mixed-use project in Syria",
+          "excerpt": "Property developer Arada has revealed plans to build a $7 billion \"UAE-style\" mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, b",
+          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
+          "publishedAt": "2026-09-01T06:33:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مكافحة الإرهاب تقبض على عنصر سابق في الأمن العسكري بدرعا",
+          "excerpt": "ألقت إدارة مكافحة الإرهاب القبض على عبيدة غسان بواب، المنحدر من مدينة تلكلخ، والذي كان يقيم في حي شمال الخط بمدينة درعا، بحسب مانقل موقع \"أحرار حوران\".",
+          "link": "https://www.syria.tv/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%AA%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B9%D9%86%D8%B5%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-08-31T16:06:12.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Prosecutors order detention of former Erdoğan adviser over remarks targeting Arab Alawites",
+          "excerpt": "Turkish prosecutors have ordered the detention of journalist Kemal Öztürk, a former press adviser to President Recep Tayyip Erdoğan, over televised remarks targeting Syria’s Arab Alawite minority that were widely condemned as hate speech, t",
+          "link": "https://turkishminute.com/2026/08/31/prosecutors-order-detention-of-former-erdogan-adviser-over-remarks-targeting-arab-alawites/",
+          "publishedAt": "2026-08-31T15:17:45.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "'Only a smokescreen': Hamas condemns rising settler violence, Ben-Gvir's treatment of prisoners",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1076,w_1920/733783' alt='Israeli settler extremists throw stones at a dirt road at the Palestinian village of Kusra, in the West Ba",
+          "link": "https://www.jpost.com/middle-east/article-907102",
+          "publishedAt": "2026-08-31T11:19:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -357,7 +311,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -396,7 +350,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
