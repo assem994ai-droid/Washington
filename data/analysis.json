@@ -1,28 +1,30 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T21:07:48.100Z",
+    "generatedAt": "2026-09-01T21:21:28.046Z",
     "windowHours": 24,
-    "from": "2026-08-31T21:07:48.100Z",
-    "to": "2026-09-01T21:07:48.100Z"
+    "from": "2026-08-31T21:21:28.046Z",
+    "to": "2026-09-01T21:21:28.046Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 30,
+    "items": 24,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
-    "echoed": 2,
+    "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 101
+    "archiveCycles": 102
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "مراكز الفكر",
     "الإعلام الدولي",
+    "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -31,11 +33,10 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 8,
+      "independentSources": 7,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
-        "Ynet News (English)",
         "Middle East Eye",
         "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
@@ -44,18 +45,17 @@
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي",
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 3,
-      "score": 51,
+      "score": 37,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -80,18 +80,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Surveillance, timing and a white van: how Shin Bet captured Hamas’ Gaza City security chief | Watch",
-          "excerpt": "Muin al-Arabid was wounded and taken to Israel for questioning as IDF aircraft struck nearby threats, with no Israeli casualties; Netanyahu says he helped hide hostages and Hamas leaders, rebuild the group’s capabilities and restore its rul",
-          "link": "https://www.ynetnews.com/article/aunmny62u",
-          "publishedAt": "2026-09-01T18:28:30.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
         },
         {
           "source": "Middle East Eye",
@@ -149,18 +137,6 @@
           "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2314,w_3538/682121' alt='Palestinian Hamas terrorists stand guard on the day of the handover of hostages held in Gaza since the dea",
           "link": "https://www.jpost.com/middle-east/article-907246",
           "publishedAt": "2026-09-01T16:55:02.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Hamas’ Gaza City internal security chief captured in special operation",
-          "excerpt": "Israel says Muin al-Arabid, a senior figure in Hamas’ counterintelligence apparatus, was seized by a local militia in an hours-long operation backed by IDF airstrikes",
-          "link": "https://www.ynetnews.com/article/sjhpm4v00ml",
-          "publishedAt": "2026-09-01T13:20:49.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -232,28 +208,26 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
-        "Ynet News (English)",
         "The National",
         "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
-        "الملف الإسرائيلي"
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 37,
+      "score": 22,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -299,20 +273,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Yair Golan threatens NIS 2.5M suit over Sara Netanyahu Oct. 7 conspiracy claims",
-          "excerpt": "Democrats chairman gives Sara Netanyahu 24 hours to apologize and demands compensation be donated to Nova survivors",
-          "link": "https://www.ynetnews.com/article/r1a3kle00gg",
-          "publishedAt": "2026-09-01T14:04:33.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -334,20 +294,6 @@
           "excerpt": "أصدرت الهيئة الدينية في الجولان السوري المحتل، بياناً رفضت فيه تصريحات لـ \"الشيخ حكمت الهجري\" بشأن علاقة الموحّدين الدروز بالاحتلال الإسرائيلي، ومشددةً على رفض",
           "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B",
           "publishedAt": "2026-09-01T10:45:16.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Yair Golan threatens lawsuit after Sara Netanyahu suggests he knew of October 7 attack",
-          "excerpt": "The Democratic Party chairman prepares a defamation warning against Sara Netanyahu and Channel 14 after she suggested he knew of the Hamas attack in advance; AFP says the allegations echo recurring conspiracy theories",
-          "link": "https://www.ynetnews.com/article/hymjbxeuze",
-          "publishedAt": "2026-09-01T10:32:08.000Z",
           "files": [
             "israel"
           ],
@@ -395,20 +341,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "‘This is what we’re fighting for’: Golani commanders take children to first grade",
-          "excerpt": "Ahead of Sept. 1, Golani made an unusual decision: commanders can take their children to school; 'Ella knows Dad fights the bad guys and is very proud,' says Lt. Col. A., commander of Battalion 12",
-          "link": "https://www.ynetnews.com/article/hjuwmbnozx",
-          "publishedAt": "2026-09-01T08:01:43.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -424,7 +356,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 20:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -479,24 +411,22 @@
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 20:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
-      "echoed": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": -1,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -506,20 +436,6 @@
           "excerpt": "قال مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي إن النساء السوريات عانين من تبعات قضية المفقودين، مؤكدا أن كثيرا منهن لم يكن فقط باحثات عن ذويهن المغيبين",
           "link": "https://www.syria.tv/%D8%A8%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D9%8A%D9%88%D9%85%D8%A7%D9%8B-%D8%AF%D9%88%D9%84%D9%8A%D8%A7%D9%8B-%D9%84%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86",
           "publishedAt": "2026-08-31T22:56:52.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الأمم المتحدة تعتمد19 كانون الأول يوماً دولياً لتكريم النساء ‏الباحثات عن المفقودين",
-          "excerpt": "اعتمدت الجمعية العامة للأمم المتحدة بالإجماع خلال جلسة عقدتها اليوم ‏الإثنين مشروع القرار الذي تقدمت به سوريا لإعلان الـ 19 من ‏كانون الأول من كل عام يوماً دولياً لتكريم النساء الباحثات عن ‏المفقودين‎.‎",
-          "link": "https://sana.sy/politics/2568538/",
-          "publishedAt": "2026-08-31T21:19:50.000Z",
           "files": [
             "diplomacy"
           ],
