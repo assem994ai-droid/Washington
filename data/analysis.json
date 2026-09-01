@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T21:36:20.675Z",
+    "generatedAt": "2026-09-01T21:45:58.027Z",
     "windowHours": 24,
-    "from": "2026-08-31T21:36:20.675Z",
-    "to": "2026-09-01T21:36:20.675Z"
+    "from": "2026-08-31T21:45:58.027Z",
+    "to": "2026-09-01T21:45:58.027Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 25,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 2,
-    "archiveCycles": 103
+    "americanItems": 4,
+    "archiveCycles": 104
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,23 +26,18 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
+        "North Press Agency (English)",
         "Middle East Eye",
         "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
@@ -54,13 +49,13 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:36",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
-      "usItems": 2,
-      "score": 38,
+      "usItems": 4,
+      "score": 41,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -71,7 +66,7 @@
           "link": "https://www.jpost.com/middle-east/article-907274",
           "publishedAt": "2026-09-01T21:30:31.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -85,6 +80,18 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump says U.S. striking Iranian targets near Hormuz",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump said Tuesday that American forces were striking Iranian targets near the Strait of Hormuz, describing the strikes as “large and powerful.” In a post on Truth Social, Trump said the",
+          "link": "https://npasyria.com/en/140990/",
+          "publishedAt": "2026-09-01T18:49:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "Middle East Eye",
@@ -159,6 +166,18 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria, Denmark discuss partnership agreement, economic cooperation",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syrian Minister of Foreign Affairs and Expatriates, Asaad al-Shaibani on Tuesday said he discussed with his Danish counterpart Lars Løkke Rasmussen a partnership agreement that would provide an institutional ",
+          "link": "https://npasyria.com/en/140966/",
+          "publishedAt": "2026-09-01T11:11:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -169,6 +188,18 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. approves helicopter sale worth $800 million to Iraq",
+          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Monday approved a sale of helicopters produced by Bell Helicopter, along with related systems and equipment, to Iraq for an estimated $800 million. The deal includes Bell 412EPX a",
+          "link": "https://npasyria.com/en/140948/",
+          "publishedAt": "2026-09-01T07:19:27.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "The National",
@@ -189,25 +220,26 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
-        "The National"
+        "The National",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 22,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -295,6 +327,20 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
+          "link": "https://npasyria.com/en/140954/",
+          "publishedAt": "2026-09-01T08:50:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -322,7 +368,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -386,7 +432,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 21:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
