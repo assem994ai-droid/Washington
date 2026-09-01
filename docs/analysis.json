@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T13:29:09.443Z",
+    "generatedAt": "2026-09-01T13:43:02.257Z",
     "windowHours": 24,
-    "from": "2026-08-31T13:29:09.443Z",
-    "to": "2026-09-01T13:29:09.443Z"
+    "from": "2026-08-31T13:43:02.257Z",
+    "to": "2026-09-01T13:43:02.257Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 24,
     "files": 4,
     "withNew": 0,
     "stale": 4,
     "contested": 0,
     "echoed": 1,
     "americanItems": 1,
-    "archiveCycles": 83
+    "archiveCycles": 84
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,8 +22,7 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [],
   "files": [
@@ -46,7 +45,7 @@
         "الإعلام المتخصص",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -181,24 +180,26 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "Al-Monitor",
+        "Ynet News (English)",
         "تلفزيون سوريا",
         "The National",
         "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام المتخصص",
+        "الملف الإسرائيلي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 23,
       "items": [
         {
           "source": "Al-Monitor",
@@ -208,6 +209,20 @@
           "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Sept 1 (Reuters) - An Israeli-backed raid to detain a Hamas militant in Gaza City was discovered during the operation on Tuesday, prompting airstrikes to cover their withdrawal that killed at least three",
           "link": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-four-gaza-military-says-it-arrests-hamas-militant",
           "publishedAt": "2026-09-01T11:46:33.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Hamas security chief captured in Gaza operation, brought wounded to Israel",
+          "excerpt": "Israel says a local militia seized the senior Hamas terrorist in an hours-long Gaza City operation without IDF troops on the ground, while Israeli aircraft struck threats to the force",
+          "link": "https://www.ynetnews.com/article/sjhpm4v00ml",
+          "publishedAt": "2026-09-01T11:16:46.000Z",
           "files": [
             "israel"
           ],
@@ -236,6 +251,20 @@
           "excerpt": "أصدرت الهيئة الدينية في الجولان السوري المحتل، بياناً رفضت فيه تصريحات لـ \"الشيخ حكمت الهجري\" بشأن علاقة الموحّدين الدروز بالاحتلال الإسرائيلي، ومشددةً على رفض",
           "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B",
           "publishedAt": "2026-09-01T10:45:16.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Yair Golan threatens lawsuit after Sara Netanyahu suggests he knew of October 7 attack",
+          "excerpt": "The Democratic Party chairman prepares a defamation warning against Sara Netanyahu and Channel 14 after she suggested he knew of the Hamas attack in advance; AFP says the allegations echo recurring conspiracy theories",
+          "link": "https://www.ynetnews.com/article/hymjbxeuze",
+          "publishedAt": "2026-09-01T10:32:08.000Z",
           "files": [
             "israel"
           ],
@@ -283,6 +312,20 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "‘This is what we’re fighting for’: Golani commanders take children to first grade",
+          "excerpt": "Ahead of Sept. 1, Golani made an unusual decision: commanders can take their children to school; 'Ella knows Dad fights the bad guys and is very proud,' says Lt. Col. A., commander of Battalion 12",
+          "link": "https://www.ynetnews.com/article/hjuwmbnozx",
+          "publishedAt": "2026-09-01T08:01:43.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -300,7 +343,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -367,7 +410,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
