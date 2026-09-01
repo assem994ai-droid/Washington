@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T19:19:47.863Z",
+    "generatedAt": "2026-09-01T19:30:15.571Z",
     "windowHours": 24,
-    "from": "2026-08-31T19:19:47.863Z",
-    "to": "2026-09-01T19:19:47.863Z"
+    "from": "2026-08-31T19:30:15.571Z",
+    "to": "2026-09-01T19:30:15.571Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 25,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
-    "echoed": 2,
+    "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 96
+    "archiveCycles": 97
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,19 +24,24 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 8,
+      "independentSources": 7,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "Middle East Eye",
-        "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "Jerusalem Post — الشرق الأوسط",
         "Al Jazeera English",
@@ -49,13 +54,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
-      "echoed": true,
+      "echoed": false,
       "usItems": 3,
-      "score": 41,
+      "score": 37,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -89,18 +94,6 @@
           "excerpt": "<article data-history-node-id=\"446946\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/iaea-reports-progress-syria-investigation-none-iran\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.n",
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iaea-reports-progress-syria-investigation-none-iran",
           "publishedAt": "2026-09-01T17:54:26.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "IAEA reports progress in Syria investigation, none in Iran",
-          "excerpt": "<p>By Francois Murphy</p><p>VIENNA, Sept 1 (Reuters) - The U.N. nuclear watchdog has resolved its outstanding questions in an investigation into secret nuclear activities in Syria under the Assad family's rule but made no progress in Iran, ",
-          "link": "https://www.al-monitor.com/originals/2026/09/iaea-reports-progress-syria-investigation-none-iran",
-          "publishedAt": "2026-09-01T17:46:41.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -220,12 +213,11 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Middle East Eye",
-        "Al-Monitor",
         "The National",
         "North Press Agency (English)"
       ],
@@ -234,13 +226,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 22,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -279,20 +271,6 @@
           "excerpt": "<article data-history-node-id=\"446935\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-captured-head-hamas-internal-security-gaza\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-captured-head-hamas-internal-security-gaza",
           "publishedAt": "2026-09-01T16:20:25.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli strikes kill four in operation to seize Hamas figure in Gaza: officials",
-          "excerpt": "<p>Heavy Israeli bombardment killed four people in Gaza City on Tuesday, Palestinian health officials said, in what both sides described as an Israeli-backed ground operation to seize a senior Hamas figure.</p> <p>Eyewitnesses reported arou",
-          "link": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-four-operation-seize-hamas-figure-gaza-officials",
-          "publishedAt": "2026-09-01T15:30:26.000Z",
           "files": [
             "israel"
           ],
@@ -383,13 +361,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:19",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 5,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -402,7 +380,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -449,7 +427,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
