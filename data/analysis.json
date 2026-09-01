@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T08:48:18.015Z",
+    "generatedAt": "2026-09-01T08:58:02.094Z",
     "windowHours": 24,
-    "from": "2026-08-31T08:48:18.015Z",
-    "to": "2026-09-01T08:48:18.015Z"
+    "from": "2026-08-31T08:58:02.094Z",
+    "to": "2026-09-01T08:58:02.094Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 18,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 68
+    "archiveCycles": 69
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,6 +27,87 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "Middle East Eye"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 21,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
+          "link": "https://npasyria.com/en/140954/",
+          "publishedAt": "2026-09-01T08:50:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-01T08:27:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli troops advance further into Syria’s Daraa",
+          "excerpt": "<article data-history-node-id=\"446902\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa",
+          "publishedAt": "2026-09-01T03:40:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
+          "link": "https://npasyria.com/en/140925/",
+          "publishedAt": "2026-08-31T11:24:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -46,13 +127,13 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:48",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 29,
+      "score": 20,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -75,7 +156,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/09/01/at-least-10-syrian-security-personnel-injured-in-sweida-clashes/",
           "publishedAt": "2026-09-01T06:47:29.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -141,73 +222,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "Middle East Eye",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:31",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 11,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-01T08:27:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli troops advance further into Syria’s Daraa",
-          "excerpt": "<article data-history-node-id=\"446902\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa",
-          "publishedAt": "2026-09-01T03:40:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
-          "link": "https://npasyria.com/en/140925/",
-          "publishedAt": "2026-08-31T11:24:25.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -221,13 +235,13 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 10,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -270,34 +284,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الإثنين 31-08-2026",
-          "excerpt": "تحسن سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الإثنين، في حين انخفضت أسعار الذهب في سوريا..",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-31-08-2026",
-          "publishedAt": "2026-08-31T08:51:48.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أردوغان: إغلاق صفحات الإرهاب في سوريا يفتح مرحلة جديدة بالمنطقة",
-          "excerpt": "جاءت تصريحات أردوغان، خلال فعالية أقيمت في المجمع الرئاسي بالعاصمة أنقرة بمناسبة الذكرى الـ104 لعيد النصر في 30 آب",
-          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
-          "publishedAt": "2026-08-31T08:51:11.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -313,7 +299,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -350,7 +336,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -388,7 +374,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 08:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
