@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T18:08:11.390Z",
+    "generatedAt": "2026-09-01T18:41:00.440Z",
     "windowHours": 24,
-    "from": "2026-08-31T18:08:11.390Z",
-    "to": "2026-09-01T18:08:11.390Z"
+    "from": "2026-08-31T18:41:00.440Z",
+    "to": "2026-09-01T18:41:00.440Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
     "echoed": 2,
     "americanItems": 2,
-    "archiveCycles": 92
+    "archiveCycles": 93
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام الدولي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:08",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 2,
-      "score": 46,
+      "score": 37,
       "items": [
         {
           "source": "Middle East Eye",
@@ -66,7 +66,7 @@
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iaea-reports-progress-syria-investigation-none-iran",
           "publishedAt": "2026-09-01T17:54:26.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -98,7 +98,7 @@
           "sourceId": "thehill",
           "circle": "الكونغرس والتوازن السياسي الأمريكي",
           "title": "Hunter Biden says Harris was not &#8216;loyal to a fault&#8217; to his father",
-          "excerpt": "Hunter Biden on Monday said former Vice President Kamala Harris was not &#8220;loyal to a fault&#8221; to his father, former President Biden. The president&#8217;s son sat for an interview in Los Angeles with Zeteo editor-in-chief Mehdi Has",
+          "excerpt": "Hunter Biden on Monday said former Vice President Kamala Harris was not &#8220;loyal to a fault&#8221; to his father, former President Biden. The president&#8217;s son sat for an interview in Los Angeles with Zeteo Editor-in-Chief Mehdi Has",
           "link": "https://thehill.com/blogs/in-the-know/6063405-hunter-biden-criticizes-harris/",
           "publishedAt": "2026-09-01T17:37:23.000Z",
           "files": [],
@@ -222,13 +222,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:08",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 36,
+      "score": 26,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -241,7 +241,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -249,7 +249,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Israel fears Syria's Sharaa is rearming while courting global legitimacy, defense official warns",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2124,w_3186/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in Da",
           "link": "https://www.jpost.com/middle-east/article-907252",
           "publishedAt": "2026-09-01T16:35:20.000Z",
           "files": [
@@ -281,20 +281,6 @@
           "excerpt": "<p>Heavy Israeli bombardment killed four people in Gaza City on Tuesday, Palestinian health officials said, in what both sides described as an Israeli-backed ground operation to seize a senior Hamas figure.</p> <p>Eyewitnesses reported arou",
           "link": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-four-operation-seize-hamas-figure-gaza-officials",
           "publishedAt": "2026-09-01T15:30:26.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli strikes kill five in Gaza as military says it arrests Hamas militant",
-          "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Sept 1 (Reuters) - An Israeli-backed raid to detain a Hamas militant in Gaza City was uncovered during the operation on Tuesday, prompting airstrikes to cover the force's withdrawal that killed at least ",
-          "link": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-five-gaza-military-says-it-arrests-hamas-militant",
-          "publishedAt": "2026-09-01T11:46:33.000Z",
           "files": [
             "israel"
           ],
@@ -385,7 +371,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -437,7 +423,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
