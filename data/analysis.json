@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T06:50:45.383Z",
+    "generatedAt": "2026-09-01T07:22:38.691Z",
     "windowHours": 24,
-    "from": "2026-08-31T06:50:45.383Z",
-    "to": "2026-09-01T06:50:45.383Z"
+    "from": "2026-08-31T07:22:38.691Z",
+    "to": "2026-09-01T07:22:38.691Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 18,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 2,
+    "stale": 4,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 1,
-    "archiveCycles": 63
+    "americanItems": 2,
+    "archiveCycles": 64
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,42 +27,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "جديد على الرصد",
-      "isFollowUp": false,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE developer Arada to build $7 billion mixed-use project in Syria",
-          "excerpt": "UAE developer Arada has revealed plans to build a $7 billion mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, branded residences",
-          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
-          "publishedAt": "2026-09-01T06:33:39.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -80,14 +44,26 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:35",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 12,
+      "usItems": 1,
+      "score": 25,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. approves helicopter sale worth $800 million to Iraq",
+          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Monday approved a sale of helicopters produced by Bell Helicopter, along with related systems and equipment, to Iraq for an estimated $800 million. The deal includes Bell 412EPX a",
+          "link": "https://npasyria.com/en/140948/",
+          "publishedAt": "2026-09-01T07:19:27.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -151,94 +127,41 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Middle East Eye",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:35",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 11,
-      "items": [
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli troops advance further into Syria’s Daraa",
-          "excerpt": "<article data-history-node-id=\"446902\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa",
-          "publishedAt": "2026-09-01T03:40:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
-          "link": "https://npasyria.com/en/140925/",
-          "publishedAt": "2026-08-31T11:24:25.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
-          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
-          "publishedAt": "2026-08-31T08:46:35.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "Turkish Minute"
       ],
       "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:35",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 19,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الثلاثاء 01-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (01-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-01-09-2026",
+          "publishedAt": "2026-09-01T07:07:16.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Turkish Minute",
           "sourceId": "turkishminute",
@@ -298,6 +221,73 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Middle East Eye",
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:50",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 11,
+      "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli troops advance further into Syria’s Daraa",
+          "excerpt": "<article data-history-node-id=\"446902\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa",
+          "publishedAt": "2026-09-01T03:40:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
+          "link": "https://npasyria.com/en/140925/",
+          "publishedAt": "2026-08-31T11:24:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل جنوبي القنيطرة ويقصف منطقة تل أحمر",
+          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي، الإثنين، بدبابتين داخل ثكنة الدرعيات الواقعة غرب قرية المعلقة في ريف القنيطرة الجنوبي، وفق ما أفاد به مركز \"سجل\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1",
+          "publishedAt": "2026-08-31T08:46:35.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -309,7 +299,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -335,6 +325,42 @@
       ]
     },
     {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "The National"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:50",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE developer Arada to build $7 billion mixed-use project in Syria",
+          "excerpt": "UAE developer Arada has revealed plans to build a $7 billion mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, branded residences",
+          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
+          "publishedAt": "2026-09-01T06:33:39.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
@@ -348,7 +374,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 06:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
