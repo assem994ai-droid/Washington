@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T15:40:22.375Z",
+    "generatedAt": "2026-09-01T16:29:48.709Z",
     "windowHours": 24,
-    "from": "2026-08-31T15:40:22.375Z",
-    "to": "2026-09-01T15:40:22.375Z"
+    "from": "2026-08-31T16:29:48.709Z",
+    "to": "2026-09-01T16:29:48.709Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 20,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
+    "withNew": 1,
+    "stale": 3,
     "contested": 0,
     "echoed": 1,
     "americanItems": 1,
-    "archiveCycles": 86
+    "archiveCycles": 87
   },
   "emptyCircles": [
     "الكونغرس",
@@ -29,159 +29,13 @@
   "errors": [],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "Al Jazeera English",
-        "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام الدولي",
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 29,
-      "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-          "excerpt": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
-          "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
-          "publishedAt": "2026-09-01T15:29:48.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عبد الباقي: الحرس الوطني يواصل التصعيد في السويداء ويحاول جرّها إلى مخاطر أمنية",
-          "excerpt": "اتهم مدير الأمن الداخلي في السويداء سليمان عبد الباقي ميليشيا \"الحرس الوطني\" بتكرار الخروقات والتصعيد لليوم الثاني على التوالي.",
-          "link": "https://www.syria.tv/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D9%8A%D8%AD%D8%A7%D9%88%D9%84-%D8%AC%D8%B1%D9%91%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A3%D9%85%D9%86%D9%8A%D8%A9",
-          "publishedAt": "2026-09-01T13:11:13.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Damascus goes car-free for 24 hours",
-          "excerpt": "Damascus’ Old City went car-free for 24 hours, giving residents a rare chance to walk its streets without traffic.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
-          "publishedAt": "2026-09-01T11:53:53.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria, Denmark discuss partnership agreement, economic cooperation",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syrian Minister of Foreign Affairs and Expatriates, Asaad al-Shaibani on Tuesday said he discussed with his Danish counterpart Lars Løkke Rasmussen a partnership agreement that would provide an institutional ",
-          "link": "https://npasyria.com/en/140966/",
-          "publishedAt": "2026-09-01T11:11:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iraq to put thousands of ISIS suspects transferred from Syria on trial",
-          "excerpt": "Iraq has finished interrogating thousands of ISIS suspects transferred from Syria and is preparing to put them on trial, the Supreme Judicial Council said.The First Karkh Investigation Court, which specialises in terrorism cases, has “compl",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/iraq-set-to-try-thousands-of-syrian-isis-suspects-after-interrogation/",
-          "publishedAt": "2026-09-01T10:28:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. approves helicopter sale worth $800 million to Iraq",
-          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Monday approved a sale of helicopters produced by Bell Helicopter, along with related systems and equipment, to Iraq for an estimated $800 million. The deal includes Bell 412EPX a",
-          "link": "https://npasyria.com/en/140948/",
-          "publishedAt": "2026-09-01T07:19:27.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Dubai to Damascus: Arada to build $7bn 'UAE-style' mixed-use project in Syria",
-          "excerpt": "Property developer Arada has revealed plans to build a $7 billion \"UAE-style\" mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, b",
-          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
-          "publishedAt": "2026-09-01T06:33:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Denmark reopens Syria embassy, pledges $76 million for recovery",
-          "excerpt": "QAMISHLI, Syria (North Press) – Denmark on Monday reopened its embassy in Damascus after 14 years of closure, pledging $76 million for Syria’s early recovery, stabilization and refugee return efforts. Danish Foreign Minister Lars Løkke Rasm",
-          "link": "https://npasyria.com/en/140945/",
-          "publishedAt": "2026-09-01T06:24:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian Internal Security arrests two former regime officers",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Internal Security in Latakia governorate, in cooperation with the Counterterrorism Department, arrested two former regime officers on Monday over alleged involvement in violations and military operatio",
-          "link": "https://npasyria.com/en/140941/",
-          "publishedAt": "2026-08-31T19:33:26.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مكافحة الإرهاب تقبض على عنصر سابق في الأمن العسكري بدرعا",
-          "excerpt": "ألقت إدارة مكافحة الإرهاب القبض على عبيدة غسان بواب، المنحدر من مدينة تلكلخ، والذي كان يقيم في حي شمال الخط بمدينة درعا، بحسب مانقل موقع \"أحرار حوران\".",
-          "link": "https://www.syria.tv/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%AA%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B9%D9%86%D8%B5%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-08-31T16:06:12.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "Middle East Eye",
         "Al-Monitor",
         "تلفزيون سوريا",
         "The National",
@@ -197,8 +51,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 31,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Netanyahu says Israel captured head of Hamas internal security in Gaza",
+          "excerpt": "<article data-history-node-id=\"446935\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-captured-head-hamas-internal-security-gaza\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-captured-head-hamas-internal-security-gaza",
+          "publishedAt": "2026-09-01T16:20:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -210,7 +78,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -300,6 +168,117 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "Al Jazeera English",
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 15:40",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 17,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
+          "excerpt": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
+          "link": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
+          "publishedAt": "2026-09-01T15:29:48.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "عبد الباقي: الحرس الوطني يواصل التصعيد في السويداء ويحاول جرّها إلى مخاطر أمنية",
+          "excerpt": "اتهم مدير الأمن الداخلي في السويداء سليمان عبد الباقي ميليشيا \"الحرس الوطني\" بتكرار الخروقات والتصعيد لليوم الثاني على التوالي.",
+          "link": "https://www.syria.tv/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D9%8A%D8%AD%D8%A7%D9%88%D9%84-%D8%AC%D8%B1%D9%91%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A3%D9%85%D9%86%D9%8A%D8%A9",
+          "publishedAt": "2026-09-01T13:11:13.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria, Denmark discuss partnership agreement, economic cooperation",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syrian Minister of Foreign Affairs and Expatriates, Asaad al-Shaibani on Tuesday said he discussed with his Danish counterpart Lars Løkke Rasmussen a partnership agreement that would provide an institutional ",
+          "link": "https://npasyria.com/en/140966/",
+          "publishedAt": "2026-09-01T11:11:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iraq to put thousands of ISIS suspects transferred from Syria on trial",
+          "excerpt": "Iraq has finished interrogating thousands of ISIS suspects transferred from Syria and is preparing to put them on trial, the Supreme Judicial Council said.The First Karkh Investigation Court, which specialises in terrorism cases, has “compl",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/iraq-set-to-try-thousands-of-syrian-isis-suspects-after-interrogation/",
+          "publishedAt": "2026-09-01T10:28:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. approves helicopter sale worth $800 million to Iraq",
+          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Monday approved a sale of helicopters produced by Bell Helicopter, along with related systems and equipment, to Iraq for an estimated $800 million. The deal includes Bell 412EPX a",
+          "link": "https://npasyria.com/en/140948/",
+          "publishedAt": "2026-09-01T07:19:27.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Dubai to Damascus: Arada to build $7bn 'UAE-style' mixed-use project in Syria",
+          "excerpt": "Property developer Arada has revealed plans to build a $7 billion \"UAE-style\" mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, b",
+          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
+          "publishedAt": "2026-09-01T06:33:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Denmark reopens Syria embassy, pledges $76 million for recovery",
+          "excerpt": "QAMISHLI, Syria (North Press) – Denmark on Monday reopened its embassy in Damascus after 14 years of closure, pledging $76 million for Syria’s early recovery, stabilization and refugee return efforts. Danish Foreign Minister Lars Løkke Rasm",
+          "link": "https://npasyria.com/en/140945/",
+          "publishedAt": "2026-09-01T06:24:41.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -313,7 +292,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 15:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -380,7 +359,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 13:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 15:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
