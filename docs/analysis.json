@@ -1,29 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T11:54:33.215Z",
+    "generatedAt": "2026-09-01T12:09:05.429Z",
     "windowHours": 24,
-    "from": "2026-08-31T11:54:33.215Z",
-    "to": "2026-09-01T11:54:33.215Z"
+    "from": "2026-08-31T12:09:05.429Z",
+    "to": "2026-09-01T12:09:05.429Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 26,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 2,
+    "stale": 3,
     "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 77
+    "archiveCycles": 78
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [],
   "files": [
@@ -35,22 +33,23 @@
       "independentSources": 5,
       "sources": [
         "Al-Monitor",
+        "Ynet News (English)",
         "تلفزيون سوريا",
-        "The National",
         "North Press Agency (English)",
         "Middle East Eye"
       ],
       "circles": [
         "الإعلام المتخصص",
+        "الملف الإسرائيلي",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 30,
+      "score": 40,
       "items": [
         {
           "source": "Al-Monitor",
@@ -60,6 +59,20 @@
           "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Sept 1 (Reuters) - An Israeli-backed raid to detain a Hamas militant in Gaza City was discovered during the operation on Tuesday, prompting airstrikes to cover their withdrawal that killed at least three",
           "link": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-kill-four-gaza-military-says-it-arrests-hamas-militant",
           "publishedAt": "2026-09-01T11:46:33.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Hamas security chief captured in Gaza operation, brought wounded to Israel",
+          "excerpt": "Israel says a local militia seized the senior Hamas terrorist in an hours-long Gaza City operation without IDF troops on the ground, while Israeli aircraft struck threats to the force",
+          "link": "https://www.ynetnews.com/article/sjhpm4v00ml",
+          "publishedAt": "2026-09-01T11:16:46.000Z",
           "files": [
             "israel"
           ],
@@ -95,17 +108,17 @@
           "us": false
         },
         {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "At least two children killed in series of Israeli strikes on Gaza",
-          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, amid conflicting reports of commandos carrying out an operation against Hamas.A woman and two children were killed and eight people were",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
-          "publishedAt": "2026-09-01T08:51:20.000Z",
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Yair Golan threatens lawsuit after Sara Netanyahu suggests he knew of October 7 attack",
+          "excerpt": "The Democratic Party chairman prepares a defamation warning against Sara Netanyahu and Channel 14 after she suggested he knew of the Hamas attack in advance; AFP says the allegations echo recurring conspiracy theories",
+          "link": "https://www.ynetnews.com/article/hymjbxeuze",
+          "publishedAt": "2026-09-01T10:32:08.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
@@ -137,6 +150,20 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "‘This is what we’re fighting for’: Golani commanders take children to first grade",
+          "excerpt": "Ahead of Sept. 1, Golani made an unusual decision: commanders can take their children to school; 'Ella knows Dad fights the bad guys and is very proud,' says Lt. Col. A., commander of Battalion 12",
+          "link": "https://www.ynetnews.com/article/hjuwmbnozx",
+          "publishedAt": "2026-09-01T08:01:43.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
           "source": "Middle East Eye",
           "sourceId": "mee",
           "circle": "الإعلام المتخصص",
@@ -157,26 +184,40 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "Al Jazeera English",
         "North Press Agency (English)",
         "The National",
         "تلفزيون سوريا",
         "Turkish Minute"
       ],
       "circles": [
+        "الإعلام الدولي",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 11:28",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 18,
+      "score": 32,
       "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Damascus goes car-free for 24 hours",
+          "excerpt": "Damascus’ Old City went car-free for 24 hours, giving residents a rare chance to walk its streets without traffic.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
+          "publishedAt": "2026-09-01T11:53:53.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -197,6 +238,18 @@
           "excerpt": "Iraq has finished interrogating thousands of ISIS suspects transferred from Syria and is preparing to put them on trial, the Supreme Judicial Council said.The First Karkh Investigation Court, which specialises in terrorism cases, has “compl",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/01/iraq-set-to-try-thousands-of-syrian-isis-suspects-after-interrogation/",
           "publishedAt": "2026-09-01T10:28:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Series of strikes hit Gaza amid reports of commando operation and clashes",
+          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, amid conflicting reports of commandos carrying out an operation against Hamas.A woman and two children were killed and eight people were",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
+          "publishedAt": "2026-09-01T08:51:20.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -291,7 +344,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -370,7 +423,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -409,7 +462,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
