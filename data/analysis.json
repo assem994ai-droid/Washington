@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T10:12:27.212Z",
+    "generatedAt": "2026-09-01T10:32:02.167Z",
     "windowHours": 24,
-    "from": "2026-08-31T10:12:27.212Z",
-    "to": "2026-09-01T10:12:27.212Z"
+    "from": "2026-08-31T10:32:02.167Z",
+    "to": "2026-09-01T10:32:02.167Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 15,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 2,
-    "archiveCycles": 71
+    "americanItems": 1,
+    "archiveCycles": 72
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,17 +25,27 @@
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "International Crisis Group",
+      "sourceId": "crisisgroup",
+      "message": "الخادم ردّ برمز 403"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "The National",
-        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Turkish Minute",
         "Jerusalem Post — الشرق الأوسط"
@@ -46,37 +56,25 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 09:13",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
+      "usItems": 0,
       "score": 21,
       "items": [
         {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
-          "title": "Series of strikes hit Gaza amid reports of commando operation and clashes",
-          "excerpt": "A series of Israeli strikes has hit areas west of Gaza city in the northern part of the Palestinian territory amid conflicting reports of a commando operation targeting a Hamas unit.Witnesses reported to The National on Tuesday that at leas",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
-          "publishedAt": "2026-09-01T08:51:20.000Z",
+          "title": "Iraq set to try thousands of Syrian ISIS suspects after interrogation",
+          "excerpt": "Iraq has finished interrogating thousands of ISIS suspects transferred from Syria and is preparing to put them on trial, the Supreme Judicial Council said.In a statement, the council said the First Karkh Investigation Court, which specialis",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/iraq-set-to-try-thousands-of-syrian-isis-suspects-after-interrogation/",
+          "publishedAt": "2026-09-01T10:28:39.000Z",
           "files": [],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. approves helicopter sale worth $800 million to Iraq",
-          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Monday approved a sale of helicopters produced by Bell Helicopter, along with related systems and equipment, to Iraq for an estimated $800 million. The deal includes Bell 412EPX a",
-          "link": "https://npasyria.com/en/140948/",
-          "publishedAt": "2026-09-01T07:19:27.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         },
         {
           "source": "The National",
@@ -86,30 +84,6 @@
           "excerpt": "Property developer Arada has revealed plans to build a $7 billion \"UAE-style\" mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, b",
           "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
           "publishedAt": "2026-09-01T06:33:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Denmark reopens Syria embassy, pledges $76 million for recovery",
-          "excerpt": "QAMISHLI, Syria (North Press) – Denmark on Monday reopened its embassy in Damascus after 14 years of closure, pledging $76 million for Syria’s early recovery, stabilization and refugee return efforts. Danish Foreign Minister Lars Løkke Rasm",
-          "link": "https://npasyria.com/en/140945/",
-          "publishedAt": "2026-09-01T06:24:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian Internal Security arrests two former regime officers",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Internal Security in Latakia governorate, in cooperation with the Counterterrorism Department, arrested two former regime officers on Monday over alleged involvement in violations and military operatio",
-          "link": "https://npasyria.com/en/140941/",
-          "publishedAt": "2026-08-31T19:33:26.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -153,6 +127,73 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "The National",
+        "تلفزيون سوريا",
+        "Middle East Eye"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:12",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 11,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "At least two children killed in series of Israeli strikes on Gaza",
+          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, amid conflicting reports of commandos carrying out an operation against Hamas.A woman and two children were killed and eight people were",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
+          "publishedAt": "2026-09-01T08:51:20.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-01T08:27:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli troops advance further into Syria’s Daraa",
+          "excerpt": "<article data-history-node-id=\"446902\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa",
+          "publishedAt": "2026-09-01T03:40:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -166,13 +207,13 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:12",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 9,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -185,7 +226,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -233,87 +274,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Middle East Eye"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 09:13",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
-          "link": "https://npasyria.com/en/140954/",
-          "publishedAt": "2026-09-01T08:50:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-01T08:27:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli troops advance further into Syria’s Daraa",
-          "excerpt": "<article data-history-node-id=\"446902\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa",
-          "publishedAt": "2026-09-01T03:40:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
-          "link": "https://npasyria.com/en/140925/",
-          "publishedAt": "2026-08-31T11:24:25.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -325,7 +285,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -364,7 +324,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
