@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T16:29:48.709Z",
+    "generatedAt": "2026-09-01T16:51:14.704Z",
     "windowHours": 24,
-    "from": "2026-08-31T16:29:48.709Z",
-    "to": "2026-09-01T16:29:48.709Z"
+    "from": "2026-08-31T16:51:14.704Z",
+    "to": "2026-09-01T16:51:14.704Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,14 +14,13 @@
     "contested": 0,
     "echoed": 1,
     "americanItems": 1,
-    "archiveCycles": 87
+    "archiveCycles": 88
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الملف الإسرائيلي والتركي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -33,8 +32,9 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
+        "Jerusalem Post — الشرق الأوسط",
         "Middle East Eye",
         "Al-Monitor",
         "تلفزيون سوريا",
@@ -42,6 +42,7 @@
         "North Press Agency (English)"
       ],
       "circles": [
+        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
@@ -51,8 +52,23 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 31,
+      "score": 35,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Israel fears Syria's Sharaa is rearming while courting global legitimacy, defense official warns",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2124,w_3186/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in ",
+          "link": "https://www.jpost.com/middle-east/article-907252",
+          "publishedAt": "2026-09-01T16:35:20.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -64,7 +80,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -184,7 +200,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 15:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 16:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -281,40 +297,23 @@
     {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "Middle East Eye",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 15:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 16:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 4,
       "items": [
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel warned Turkey against moving south in Syria. It did so anyway",
-          "excerpt": "<article data-history-node-id=\"446913\" about=\"https://www.middleeasteye.net/news/israel-warned-turkey-against-moving-south-syria-it-did-anyway\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-warned-t",
-          "link": "https://www.middleeasteye.net/news/israel-warned-turkey-against-moving-south-syria-it-did-anyway",
-          "publishedAt": "2026-09-01T10:46:56.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -359,7 +358,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 15:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 16:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
