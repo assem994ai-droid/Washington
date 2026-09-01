@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T10:47:52.336Z",
+    "generatedAt": "2026-09-01T10:57:14.164Z",
     "windowHours": 24,
-    "from": "2026-08-31T10:47:52.336Z",
-    "to": "2026-09-01T10:47:52.336Z"
+    "from": "2026-08-31T10:57:14.164Z",
+    "to": "2026-09-01T10:57:14.164Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 21,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 5,
     "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 73
+    "archiveCycles": 74
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,213 +27,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "تلفزيون سوريا",
-        "The National",
-        "North Press Agency (English)",
-        "Middle East Eye"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 26,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الهيئة الدينية في الجولان تدين تصريحات الهجري وتحذر من توظيف العقيدة سياسياً",
-          "excerpt": "أصدرت الهيئة الدينية في الجولان السوري المحتل، بياناً رفضت فيه تصريحات لـ \"الشيخ حكمت الهجري\" بشأن علاقة الموحّدين الدروز بالاحتلال الإسرائيلي، ومشددةً على رفض",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B",
-          "publishedAt": "2026-09-01T10:45:16.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "At least two children killed in series of Israeli strikes on Gaza",
-          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, amid conflicting reports of commandos carrying out an operation against Hamas.A woman and two children were killed and eight people were",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
-          "publishedAt": "2026-09-01T08:51:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
-          "link": "https://npasyria.com/en/140954/",
-          "publishedAt": "2026-09-01T08:50:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-01T08:27:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli troops advance further into Syria’s Daraa",
-          "excerpt": "<article data-history-node-id=\"446902\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa",
-          "publishedAt": "2026-09-01T03:40:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
-          "link": "https://npasyria.com/en/140925/",
-          "publishedAt": "2026-08-31T11:24:25.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Middle East Eye",
-        "تلفزيون سوريا",
-        "Turkish Minute"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف التركي"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 22,
-      "items": [
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel warned Turkey against moving south in Syria. It did so anyway",
-          "excerpt": "<article data-history-node-id=\"446913\" about=\"https://www.middleeasteye.net/news/israel-warned-turkey-against-moving-south-syria-it-did-anyway\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-warned-t",
-          "link": "https://www.middleeasteye.net/news/israel-warned-turkey-against-moving-south-syria-it-did-anyway",
-          "publishedAt": "2026-09-01T10:46:56.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بالتعاون مع تركيا.. سوريا تبدأ التحضير لرقمنة السجل العقاري والمساحي",
-          "excerpt": "أعلن وزير الإدارة المحلية والبيئة محمد عنجراني، بدء التحضير لأتمتة السجل العقاري والمساحي والخدمات العقارية في سوريا، بالتعاون مع الخبرات التركية",
-          "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D9%8A",
-          "publishedAt": "2026-09-01T10:07:46.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الثلاثاء 01-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (01-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-01-09-2026",
-          "publishedAt": "2026-09-01T07:07:16.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Kurdish families honor relatives killed in PKK conflict as Turkey pursues peace",
-          "excerpt": "For years, Menal Konak believed that her younger brother Mahmut, who left home at 18 to join the outlawed Kurdistan Workers’ Party (PKK) in Syria in 2014, might still be alive. This week she learned that he had died in 2020. “We are only fi",
-          "link": "https://turkishminute.com/2026/08/31/kurdish-families-honor-relatives-killed-in-pkk-conflict-as-turkey-pursues-peace/",
-          "publishedAt": "2026-08-31T13:14:23.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "شراكة سورية تركية لتطوير مدينة باب الهوى الصناعية ورفع طاقتها الاستيعابية",
-          "excerpt": "وقّعت شركة إسراء القابضة التركية اتفاقية تعاون مع وزارة الاقتصاد والصناعة السورية لتوسعة مدينة باب الهوى الصناعية، في خطوة تهدف إلى تعزيز البنية التحتية",
-          "link": "https://www.syria.tv/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D9%88%D9%89-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%B1%D9%81%D8%B9-%D8%B7%D8%A7%D9%82%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B9%D8%A7%D8%A8%D9%8A%D8%A9",
-          "publishedAt": "2026-08-31T10:55:18.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -253,7 +46,7 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -360,6 +153,199 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "The National",
+        "North Press Agency (English)",
+        "Middle East Eye"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 17,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الهيئة الدينية في الجولان تدين تصريحات الهجري وتحذر من توظيف العقيدة سياسياً",
+          "excerpt": "أصدرت الهيئة الدينية في الجولان السوري المحتل، بياناً رفضت فيه تصريحات لـ \"الشيخ حكمت الهجري\" بشأن علاقة الموحّدين الدروز بالاحتلال الإسرائيلي، ومشددةً على رفض",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B",
+          "publishedAt": "2026-09-01T10:45:16.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "At least two children killed in series of Israeli strikes on Gaza",
+          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, amid conflicting reports of commandos carrying out an operation against Hamas.A woman and two children were killed and eight people were",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
+          "publishedAt": "2026-09-01T08:51:20.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
+          "link": "https://npasyria.com/en/140954/",
+          "publishedAt": "2026-09-01T08:50:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-01T08:27:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli troops advance further into Syria’s Daraa",
+          "excerpt": "<article data-history-node-id=\"446902\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-further-syrias-daraa",
+          "publishedAt": "2026-09-01T03:40:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces briefly enter former Syrian military site in Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli force on Monday briefly entered a former Syrian regime military site in the southern countryside of Quneitra in southern Syria. Local sources told North Press that the force, consisting of two tank",
+          "link": "https://npasyria.com/en/140925/",
+          "publishedAt": "2026-08-31T11:24:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Middle East Eye",
+        "تلفزيون سوريا",
+        "Turkish Minute"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "الملف التركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel warned Turkey against moving south in Syria. It did so anyway",
+          "excerpt": "<article data-history-node-id=\"446913\" about=\"https://www.middleeasteye.net/news/israel-warned-turkey-against-moving-south-syria-it-did-anyway\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-warned-t",
+          "link": "https://www.middleeasteye.net/news/israel-warned-turkey-against-moving-south-syria-it-did-anyway",
+          "publishedAt": "2026-09-01T10:46:56.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بالتعاون مع تركيا.. سوريا تبدأ التحضير لرقمنة السجل العقاري والمساحي",
+          "excerpt": "أعلن وزير الإدارة المحلية والبيئة محمد عنجراني، بدء التحضير لأتمتة السجل العقاري والمساحي والخدمات العقارية في سوريا، بالتعاون مع الخبرات التركية",
+          "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D9%8A",
+          "publishedAt": "2026-09-01T10:07:46.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الثلاثاء 01-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (01-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-01-09-2026",
+          "publishedAt": "2026-09-01T07:07:16.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Kurdish families honor relatives killed in PKK conflict as Turkey pursues peace",
+          "excerpt": "For years, Menal Konak believed that her younger brother Mahmut, who left home at 18 to join the outlawed Kurdistan Workers’ Party (PKK) in Syria in 2014, might still be alive. This week she learned that he had died in 2020. “We are only fi",
+          "link": "https://turkishminute.com/2026/08/31/kurdish-families-honor-relatives-killed-in-pkk-conflict-as-turkey-pursues-peace/",
+          "publishedAt": "2026-08-31T13:14:23.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -371,7 +357,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -410,7 +396,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 10:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
