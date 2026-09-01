@@ -1,23 +1,24 @@
 {
   "cycle": {
-    "generatedAt": "2026-08-31T23:03:50.479Z",
+    "generatedAt": "2026-09-01T00:10:50.858Z",
     "windowHours": 24,
-    "from": "2026-08-30T23:03:50.479Z",
-    "to": "2026-08-31T23:03:50.479Z"
+    "from": "2026-08-31T00:10:50.858Z",
+    "to": "2026-09-01T00:10:50.858Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 17,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 3,
-    "archiveCycles": 56
+    "americanItems": 2,
+    "archiveCycles": 57
   },
   "emptyCircles": [
     "الكونغرس",
+    "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام المتخصص",
@@ -44,7 +45,7 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 23:03",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -115,111 +116,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "Federal Register — السجل الفيدرالي الأمريكي"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإدارة التنفيذية الأمريكية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:43",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 13,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "What's next for Syria's economy as US removes nation from state terror list? - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in Da",
-          "link": "https://www.jpost.com/middle-east/article-907118",
-          "publishedAt": "2026-08-31T12:31:04.000Z",
-          "files": [
-            "sanctions",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Federal Register — السجل الفيدرالي الأمريكي",
-          "sourceId": "federal-register",
-          "circle": "الإدارة التنفيذية الأمريكية",
-          "title": "Rescission of the State Sponsor of Terrorism Determination Regarding Syria",
-          "excerpt": "",
-          "link": "https://www.federalregister.gov/documents/2026/08/31/2026-17653/rescission-of-the-state-sponsor-of-terrorism-determination-regarding-syria",
-          "publishedAt": "2026-08-31T00:00:00.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": true,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بمبادرة سورية.. الأمم المتحدة تعتمد يوماً دولياً للنساء الباحثات عن المفقودين",
-          "excerpt": "قال مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي إن النساء السوريات عانين من تبعات قضية المفقودين، مؤكدا أن كثيرا منهن لم يكن فقط باحثات عن ذويهن المغيبين",
-          "link": "https://www.syria.tv/%D8%A8%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D9%8A%D9%88%D9%85%D8%A7%D9%8B-%D8%AF%D9%88%D9%84%D9%8A%D8%A7%D9%8B-%D9%84%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86",
-          "publishedAt": "2026-08-31T22:56:52.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الأمم المتحدة تعتمد19 كانون الأول يوماً دولياً لتكريم النساء ‏الباحثات عن المفقودين",
-          "excerpt": "اعتمدت الجمعية العامة للأمم المتحدة بالإجماع خلال جلسة عقدتها اليوم ‏الإثنين مشروع القرار الذي تقدمت به سوريا لإعلان الـ 19 من ‏كانون الأول من كل عام يوماً دولياً لتكريم النساء الباحثات عن ‏المفقودين‎.‎",
-          "link": "https://sana.sy/politics/2568538/",
-          "publishedAt": "2026-08-31T21:19:50.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -233,7 +129,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 23:03",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -340,7 +236,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 23:03",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -379,6 +275,95 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 23:03",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "What's next for Syria's economy as US removes nation from state terror list? - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in Da",
+          "link": "https://www.jpost.com/middle-east/article-907118",
+          "publishedAt": "2026-08-31T12:31:04.000Z",
+          "files": [
+            "sanctions",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 23:03",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": true,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بمبادرة سورية.. الأمم المتحدة تعتمد يوماً دولياً للنساء الباحثات عن المفقودين",
+          "excerpt": "قال مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي إن النساء السوريات عانين من تبعات قضية المفقودين، مؤكدا أن كثيرا منهن لم يكن فقط باحثات عن ذويهن المغيبين",
+          "link": "https://www.syria.tv/%D8%A8%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D9%8A%D9%88%D9%85%D8%A7%D9%8B-%D8%AF%D9%88%D9%84%D9%8A%D8%A7%D9%8B-%D9%84%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%8A%D9%86",
+          "publishedAt": "2026-08-31T22:56:52.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الأمم المتحدة تعتمد19 كانون الأول يوماً دولياً لتكريم النساء ‏الباحثات عن المفقودين",
+          "excerpt": "اعتمدت الجمعية العامة للأمم المتحدة بالإجماع خلال جلسة عقدتها اليوم ‏الإثنين مشروع القرار الذي تقدمت به سوريا لإعلان الـ 19 من ‏كانون الأول من كل عام يوماً دولياً لتكريم النساء الباحثات عن ‏المفقودين‎.‎",
+          "link": "https://sana.sy/politics/2568538/",
+          "publishedAt": "2026-08-31T21:19:50.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -390,7 +375,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 22:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-08-31 23:03",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
