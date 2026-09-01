@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-01T19:07:14.048Z",
+    "generatedAt": "2026-09-01T19:19:47.863Z",
     "windowHours": 24,
-    "from": "2026-08-31T19:07:14.048Z",
-    "to": "2026-09-01T19:07:14.048Z"
+    "from": "2026-08-31T19:19:47.863Z",
+    "to": "2026-09-01T19:19:47.863Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 4,
     "withNew": 1,
     "stale": 3,
     "contested": 0,
     "echoed": 2,
     "americanItems": 3,
-    "archiveCycles": 95
+    "archiveCycles": 96
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام الدولي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 3,
-      "score": 50,
+      "score": 41,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -66,7 +66,7 @@
           "link": "https://www.syria.tv/%D9%86%D9%88%D8%B1%D9%88%D8%B2-%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D9%85%D8%A8%D8%AF%D8%A6%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B6%D9%85-%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
           "publishedAt": "2026-09-01T18:59:26.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -234,7 +234,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -383,14 +383,28 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:55",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 4,
+      "score": 14,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هل يستعيد العمال السوريون أموال \"السيكورتا\" بعد مغادرة تركيا؟",
+          "excerpt": "لا تمنح مغادرة تركيا أو العودة النهائية إلى سوريا العاملَ السوري حقاً تلقائياً في استرداد جميع اشتراكاته المسددة لمؤسسة الضمان الاجتماعي التركية \"SGK\"، إذ يرتبط",
+          "link": "https://www.syria.tv/%D9%87%D9%84-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D9%83%D9%88%D8%B1%D8%AA%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-09-01T19:12:42.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -435,7 +449,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 18:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-01 19:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
