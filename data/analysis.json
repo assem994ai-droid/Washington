@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T08:30:28.625Z",
+    "generatedAt": "2026-09-02T08:47:27.996Z",
     "windowHours": 24,
-    "from": "2026-09-01T08:30:28.625Z",
-    "to": "2026-09-02T08:30:28.625Z"
+    "from": "2026-09-01T08:47:27.996Z",
+    "to": "2026-09-02T08:47:27.996Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 24,
     "files": 3,
     "withNew": 0,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 121
+    "archiveCycles": 122
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,7 +49,7 @@
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -244,12 +244,11 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Al Jazeera English",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor",
         "The National"
       ],
       "circles": [
@@ -258,13 +257,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 17,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -305,20 +304,6 @@
           "files": [
             "israel",
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Netanyahu says Israel seized Hamas internal security chief in Gaza",
-          "excerpt": "<p>Prime Minister Benjamin Netanyahu said Israeli forces captured a senior Hamas figure on Tuesday during a ground operation in Gaza that Palestinian health officials said killed four people.</p> <p>The premier said in a statement that the ",
-          "link": "https://www.al-monitor.com/originals/2026/09/netanyahu-says-israel-seized-hamas-internal-security-chief-gaza",
-          "publishedAt": "2026-09-01T15:30:26.000Z",
-          "files": [
-            "israel"
           ],
           "seenBefore": true,
           "us": false
@@ -379,7 +364,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
