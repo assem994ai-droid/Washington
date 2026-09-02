@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T01:30:23.063Z",
+    "generatedAt": "2026-09-02T01:56:28.624Z",
     "windowHours": 24,
-    "from": "2026-09-01T01:30:23.063Z",
-    "to": "2026-09-02T01:30:23.063Z"
+    "from": "2026-09-01T01:56:28.624Z",
+    "to": "2026-09-02T01:56:28.624Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 24,
     "files": 3,
-    "withNew": 0,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 110
+    "archiveCycles": 111
   },
   "emptyCircles": [
     "الكونغرس",
@@ -35,27 +35,39 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "North Press Agency (English)",
-        "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "The National"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 01:05",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 4,
-      "score": 37,
+      "score": 47,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria UXO causing death, injury every six hours: charity",
+          "excerpt": "<div class=\"align-center media media--type-image media--view-mode-newsletter\"> <div> <img loading=\"lazy\" src=\"/sites/default/files/styles/newsletter/public/2026-09/000_c6c68kj.jpg?itok=poc5p4U_\" width=\"870\" height=\"579\" alt=\"A Syrian army s",
+          "link": "https://www.al-monitor.com/originals/2026/09/syria-uxo-causing-death-injury-every-six-hours-charity",
+          "publishedAt": "2026-09-02T01:30:31.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -220,7 +232,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 01:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 01:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,7 +367,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 01:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 01:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
