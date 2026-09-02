@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T07:22:26.969Z",
+    "generatedAt": "2026-09-02T07:37:28.365Z",
     "windowHours": 24,
-    "from": "2026-09-01T07:22:26.969Z",
-    "to": "2026-09-02T07:22:26.969Z"
+    "from": "2026-09-01T07:37:28.365Z",
+    "to": "2026-09-02T07:37:28.365Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 26,
     "files": 3,
     "withNew": 1,
     "stale": 2,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 119
+    "americanItems": 4,
+    "archiveCycles": 120
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,29 +34,53 @@
       "contested": false,
       "independentSources": 7,
       "sources": [
+        "North Press Agency (English)",
         "Al Jazeera English",
         "The National",
         "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
-        "North Press Agency (English)",
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الإعلام الدولي",
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:52",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 38,
+      "usItems": 4,
+      "score": 56,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN envoy says France backs Kurdish rights, dialogue in Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – France will continue supporting efforts to strengthen cohesion among Syria’s different communities, with the integration of Kurds into the country’s emerging political and institutional framework needing to b",
+          "link": "https://npasyria.com/en/141003/",
+          "publishedAt": "2026-09-02T07:36:49.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran says 11 killed in U.S. strikes as fighting resumes",
+          "excerpt": "DAMASCUS, Syria (North Press) – Iranian state-run news agency IRNA reported on Tuesday that at least 11 people were killed in U.S. strikes on several areas of Iran overnight. The agency said a missile strike on Khuzestan Governorate in sout",
+          "link": "https://npasyria.com/en/141000/",
+          "publishedAt": "2026-09-02T07:26:36.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Al Jazeera English",
           "sourceId": "aljazeera-en",
@@ -220,14 +244,13 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "Al Jazeera English",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
-        "The National",
-        "North Press Agency (English)"
+        "The National"
       ],
       "circles": [
         "الإعلام الدولي",
@@ -235,13 +258,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 22,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -343,20 +366,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces intensify military activity in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday launched heavy fire on residential areas in Daraa countryside, southern Syria, while Israeli military vehicles carried out an extensive ground incursion into Jamla village. Local sources",
-          "link": "https://npasyria.com/en/140954/",
-          "publishedAt": "2026-09-01T08:50:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -384,13 +393,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:22",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 5,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -403,7 +412,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
