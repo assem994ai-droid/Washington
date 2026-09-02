@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T11:11:23.920Z",
+    "generatedAt": "2026-09-02T11:28:34.118Z",
     "windowHours": 24,
-    "from": "2026-09-01T11:11:23.920Z",
-    "to": "2026-09-02T11:11:23.920Z"
+    "from": "2026-09-01T11:28:34.118Z",
+    "to": "2026-09-02T11:28:34.118Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 20,
     "files": 3,
     "withNew": 0,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 127
+    "americanItems": 4,
+    "archiveCycles": 128
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,27 +25,17 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "International Crisis Group",
-      "sourceId": "crisisgroup",
-      "message": "الخادم ردّ برمز 403"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
         "Al Jazeera English",
         "The National",
         "Al-Monitor",
@@ -54,18 +44,18 @@
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل",
         "الإعلام الدولي",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 10:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 30,
+      "usItems": 4,
+      "score": 42,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -78,6 +68,30 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN envoy says France backs Kurdish rights, dialogue in Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – France will continue supporting efforts to strengthen cohesion among Syria’s different communities, with the integration of Kurds into the country’s emerging political and institutional framework needing to b",
+          "link": "https://npasyria.com/en/141003/",
+          "publishedAt": "2026-09-02T07:36:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran says 11 killed in U.S. strikes as fighting resumes",
+          "excerpt": "DAMASCUS, Syria (North Press) – Iranian state-run news agency IRNA reported on Tuesday that at least 11 people were killed in U.S. strikes on several areas of Iran overnight. The agency said a missile strike on Khuzestan Governorate in sout",
+          "link": "https://npasyria.com/en/141000/",
+          "publishedAt": "2026-09-02T07:26:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "Al Jazeera English",
@@ -138,6 +152,18 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump says U.S. striking Iranian targets near Hormuz",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump said Tuesday that American forces were striking Iranian targets near the Strait of Hormuz, describing the strikes as “large and powerful.” In a post on Truth Social, Trump said the",
+          "link": "https://npasyria.com/en/140990/",
+          "publishedAt": "2026-09-01T18:49:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "Al-Monitor",
@@ -217,7 +243,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 10:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -282,7 +308,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 10:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
