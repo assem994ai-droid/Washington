@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T06:10:53.012Z",
+    "generatedAt": "2026-09-02T06:38:09.754Z",
     "windowHours": 24,
-    "from": "2026-09-01T06:10:53.012Z",
-    "to": "2026-09-02T06:10:53.012Z"
+    "from": "2026-09-01T06:38:09.754Z",
+    "to": "2026-09-02T06:38:09.754Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 24,
     "files": 3,
     "withNew": 0,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 116
+    "americanItems": 3,
+    "archiveCycles": 117
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 05:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 4,
-      "score": 39,
+      "usItems": 3,
+      "score": 34,
       "items": [
         {
           "source": "The National",
@@ -156,7 +156,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "An enemy from within: How Gazan militias became Hamas’s new nightmare - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2314,w_3538/682121' alt='Palestinian Hamas terrorists stand guard on the day of the handover of hostages held in Gaza since the dea",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/682121' alt='Palestinian Hamas terrorists stand guard on the day of the handover of hostages held in Gaza since the dead",
           "link": "https://www.jpost.com/middle-east/article-907246",
           "publishedAt": "2026-09-01T16:55:02.000Z",
           "files": [],
@@ -198,30 +198,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. approves helicopter sale worth $800 million to Iraq",
-          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Monday approved a sale of helicopters produced by Bell Helicopter, along with related systems and equipment, to Iraq for an estimated $800 million. The deal includes Bell 412EPX a",
-          "link": "https://npasyria.com/en/140948/",
-          "publishedAt": "2026-09-01T07:19:27.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Dubai to Damascus: Arada to build $7bn 'UAE-style' mixed-use project in Syria",
-          "excerpt": "Property developer Arada has revealed plans to build a $7 billion \"UAE-style\" mixed-use real estate project in Syria. The new project in the west of Damascus will have 11,000 homes, including residential apartments, villas and townhouses, b",
-          "link": "https://www.thenationalnews.com/business/property/2026/09/01/uae-developer-arada-to-build-7-billion-mixed-use-project-in-syria/",
-          "publishedAt": "2026-09-01T06:33:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -245,7 +221,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 05:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -394,7 +370,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 05:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
