@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T05:31:42.008Z",
+    "generatedAt": "2026-09-02T05:46:34.734Z",
     "windowHours": 24,
-    "from": "2026-09-01T05:31:42.008Z",
-    "to": "2026-09-02T05:31:42.008Z"
+    "from": "2026-09-01T05:46:34.734Z",
+    "to": "2026-09-02T05:46:34.734Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 23,
     "files": 3,
     "withNew": 1,
     "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 114
+    "archiveCycles": 115
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,21 +25,26 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
-        "Al-Monitor",
+        "The National",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "North Press Agency (English)",
-        "The Hill — الكونغرس والسياسة الأمريكية",
-        "The National"
+        "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
         "الإعلام المتخصص",
@@ -47,24 +52,24 @@
         "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 05:12",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 4,
-      "score": 38,
+      "score": 43,
       "items": [
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
+          "source": "The National",
+          "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
-          "title": "Syria UXO causing death, injury every six hours: charity",
-          "excerpt": "<div class=\"align-center media media--type-image media--view-mode-newsletter\"> <div> <img loading=\"lazy\" src=\"/sites/default/files/styles/newsletter/public/2026-09/000_c6c68kj.jpg?itok=poc5p4U_\" width=\"870\" height=\"579\" alt=\"A Syrian army s",
-          "link": "https://www.al-monitor.com/originals/2026/09/syria-uxo-causing-death-injury-every-six-hours-charity",
-          "publishedAt": "2026-09-02T01:30:31.000Z",
+          "title": "US-Iran war escalates again, Syria explosion kills five and Jordanian toddler arrives in Dubai for treatment",
+          "excerpt": "Today on Trending Middle East, the US and Iran have traded another round of strikes, raising fears that a weeks-long lull in the war has come to an end. Several people were killed in US strikes on southern areas in Iran, while Jordan and Ku",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/02/us-iran-war-escalates-again-syria-explosion-kills-five-and-jordanian-toddler-arrives-in-dubai-for-treatment/",
+          "publishedAt": "2026-09-02T05:30:52.000Z",
           "files": [],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
@@ -102,18 +107,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "IAEA reports progress in Syria investigation, none in Iran",
-          "excerpt": "<p>By Francois Murphy</p><p>VIENNA, Sept 1 (Reuters) - The U.N. nuclear watchdog has resolved its outstanding questions from an investigation into secret nuclear activities in Syria under the Assad family's rule but made no progress in Iran",
-          "link": "https://www.al-monitor.com/originals/2026/09/iaea-reports-progress-syria-investigation-none-iran",
-          "publishedAt": "2026-09-01T17:46:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         },
         {
           "source": "تلفزيون سوريا",
@@ -218,12 +211,11 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "Al Jazeera English",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor",
         "The National",
         "North Press Agency (English)"
       ],
@@ -233,13 +225,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 05:31",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 35,
+      "score": 22,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -252,7 +244,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -280,20 +272,6 @@
           "files": [
             "israel",
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Netanyahu says Israel seized Hamas internal security chief in Gaza",
-          "excerpt": "<p>Prime Minister Benjamin Netanyahu said Israeli forces captured a senior Hamas figure on Tuesday during a ground operation in Gaza that Palestinian health officials said killed four people.</p> <p>The premier said in a statement that the ",
-          "link": "https://www.al-monitor.com/originals/2026/09/netanyahu-says-israel-seized-hamas-internal-security-chief-gaza",
-          "publishedAt": "2026-09-01T15:30:26.000Z",
-          "files": [
-            "israel"
           ],
           "seenBefore": true,
           "us": false
@@ -331,7 +309,7 @@
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
           "title": "Israeli-backed commando operation in Gaza ends with heavy strikes and clashes",
-          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, as Israeli-backed commandos carried out an operation against Hamas.A woman and two children were killed and eight people were injured in",
+          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, as Israeli-backed commandos carried out an operation against Hamas.Israeli media reported that commandos had captured Muein Al-Arabid, w",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
           "publishedAt": "2026-09-01T08:51:20.000Z",
           "files": [
@@ -382,7 +360,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 05:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 05:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
