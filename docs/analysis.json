@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T15:16:29.094Z",
+    "generatedAt": "2026-09-02T15:35:05.726Z",
     "windowHours": 24,
-    "from": "2026-09-01T15:16:29.094Z",
-    "to": "2026-09-02T15:16:29.094Z"
+    "from": "2026-09-01T15:35:05.726Z",
+    "to": "2026-09-02T15:35:05.726Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 15,
+    "items": 20,
     "files": 4,
-    "withNew": 0,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 137
+    "americanItems": 4,
+    "archiveCycles": 138
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,23 +26,18 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
         "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
         "The National",
         "تلفزيون سوريا",
         "The Hill — الكونغرس والسياسة الأمريكية"
@@ -53,13 +48,13 @@
         "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 14:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 15:16",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 24,
+      "usItems": 4,
+      "score": 36,
       "items": [
         {
           "source": "Al-Monitor",
@@ -84,6 +79,30 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN envoy says France backs Kurdish rights, dialogue in Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – France will continue supporting efforts to strengthen cohesion among Syria’s different communities, with the integration of Kurds into the country’s emerging political and institutional framework needing to b",
+          "link": "https://npasyria.com/en/141003/",
+          "publishedAt": "2026-09-02T07:36:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran says 11 killed in U.S. strikes as fighting resumes",
+          "excerpt": "DAMASCUS, Syria (North Press) – Iranian state-run news agency IRNA reported on Tuesday that at least 11 people were killed in U.S. strikes on several areas of Iran overnight. The agency said a missile strike on Khuzestan Governorate in sout",
+          "link": "https://npasyria.com/en/141000/",
+          "publishedAt": "2026-09-02T07:26:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "The National",
@@ -120,6 +139,18 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump says U.S. striking Iranian targets near Hormuz",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump said Tuesday that American forces were striking Iranian targets near the Strait of Hormuz, describing the strikes as “large and powerful.” In a post on Truth Social, Trump said the",
+          "link": "https://npasyria.com/en/140990/",
+          "publishedAt": "2026-09-01T18:49:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "تلفزيون سوريا",
@@ -164,8 +195,9 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "The National",
         "Middle East Eye",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
@@ -175,14 +207,28 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 14:10",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 27,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Netanyahu vows no retreat from Gaza after 'terrifying' Israeli commando raid",
+          "excerpt": "Prime Minister Benjamin Netanyahu said Israel will not withdraw from areas its occupies in Gaza, a day after special forces seized a Hamas official during a raid in a densely populated district. Mr Netanyahu spoke on Wednesday at a military",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/02/netanyahu-vows-no-retreat-from-gaza-after-terrifying-israeli-commando-raid/",
+          "publishedAt": "2026-09-02T15:16:22.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -229,6 +275,59 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 15:16",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 7,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أردوغان: حل \"قسد\" يفتح الباب أمام عهد جديد في المنطقة",
+          "excerpt": "رحب أردوغان بحل \"قسد\" ومسار اندماجها، مؤكداً دعم بلاده لسوريا موحدة بجميع مكوناتها وضرورة انتهاء مرحلة السلاح والعنف.",
+          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%AD%D9%84-%D9%82%D8%B3%D8%AF-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D8%B9%D9%87%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
+          "publishedAt": "2026-09-02T13:16:39.000Z",
+          "files": [
+            "sdf",
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Turkey&#8217;s Erdogan says SDF integration opens new era for region",
+          "excerpt": "DAMASCUS, Syria (North Press) – Turkish President Recep Tayyip Erdogan on Wednesday said the announcement of the dissolution of the Syrian Democratic Forces (SDF) and their integration into the Syrian state &#8220;open the door to a new era",
+          "link": "https://npasyria.com/en/141010/",
+          "publishedAt": "2026-09-02T12:38:19.000Z",
+          "files": [
+            "sdf",
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -240,7 +339,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 14:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 15:16",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -285,43 +384,6 @@
           "link": "https://www.syria.tv/%D9%87%D9%84-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D9%83%D9%88%D8%B1%D8%AA%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
           "publishedAt": "2026-09-01T19:12:42.000Z",
           "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 14:10",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أردوغان: حل \"قسد\" يفتح الباب أمام عهد جديد في المنطقة",
-          "excerpt": "رحب أردوغان بحل \"قسد\" ومسار اندماجها، مؤكداً دعم بلاده لسوريا موحدة بجميع مكوناتها وضرورة انتهاء مرحلة السلاح والعنف.",
-          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%AD%D9%84-%D9%82%D8%B3%D8%AF-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D8%B9%D9%87%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
-          "publishedAt": "2026-09-02T13:16:39.000Z",
-          "files": [
-            "sdf",
             "turkey"
           ],
           "seenBefore": true,
