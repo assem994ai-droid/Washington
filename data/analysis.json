@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T12:47:52.458Z",
+    "generatedAt": "2026-09-02T13:14:34.225Z",
     "windowHours": 24,
-    "from": "2026-09-01T12:47:52.458Z",
-    "to": "2026-09-02T12:47:52.458Z"
+    "from": "2026-09-01T13:14:34.225Z",
+    "to": "2026-09-02T13:14:34.225Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 20,
     "files": 4,
     "withNew": 1,
     "stale": 3,
-    "contested": 0,
+    "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 131
+    "archiveCycles": 132
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "مراكز الفكر",
+    "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -32,12 +33,11 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 7,
+      "independentSources": 6,
       "sources": [
         "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
-        "Al Jazeera English",
         "The National",
         "تلفزيون سوريا",
         "The Hill — الكونغرس والسياسة الأمريكية"
@@ -46,16 +46,15 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
-        "الإعلام الدولي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 12:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 4,
-      "score": 43,
+      "score": 38,
       "items": [
         {
           "source": "Al-Monitor",
@@ -104,18 +103,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’",
-          "excerpt": "Imprisoned in Spain, James 'Fergie' Chambers has supported charities but is accused of aiding Hamas.",
-          "link": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss",
-          "publishedAt": "2026-09-02T06:35:33.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         },
         {
           "source": "The National",
@@ -224,32 +211,24 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عبد الباقي: الحرس الوطني يواصل التصعيد في السويداء ويحاول جرّها إلى مخاطر أمنية",
-          "excerpt": "اتهم مدير الأمن الداخلي في السويداء سليمان عبد الباقي ميليشيا \"الحرس الوطني\" بتكرار الخروقات والتصعيد لليوم الثاني على التوالي.",
-          "link": "https://www.syria.tv/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D9%8A%D8%AD%D8%A7%D9%88%D9%84-%D8%AC%D8%B1%D9%91%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A3%D9%85%D9%86%D9%8A%D8%A9",
-          "publishedAt": "2026-09-01T13:11:13.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
       "sources": [
-        "North Press Agency (English)"
+        "Middle East Eye",
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -257,47 +236,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 23,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkey&#8217;s Erdogan says SDF integration opens new era for region",
-          "excerpt": "DAMASCUS, Syria (North Press) – Turkish President Recep Tayyip Erdogan on Wednesday said the announcement of the dissolution of the Syrian Democratic Forces (SDF) and their integration into the Syrian state &#8220;open the door to a new era",
-          "link": "https://npasyria.com/en/141010/",
-          "publishedAt": "2026-09-02T12:38:19.000Z",
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Al-Khair Foundation strongly denies UK Lawyers for Israel allegation of Hamas links",
+          "excerpt": "<article data-history-node-id=\"447003\" about=\"https://www.middleeasteye.net/news/al-khair-foundation-strongly-denies-uk-lawyers-israel-allegation-hamas-links\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/",
+          "link": "https://www.middleeasteye.net/news/al-khair-foundation-strongly-denies-uk-lawyers-israel-allegation-hamas-links",
+          "publishedAt": "2026-09-02T13:08:01.000Z",
           "files": [
-            "sdf",
-            "turkey"
+            "israel"
           ],
           "seenBefore": false,
           "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:54",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -341,7 +295,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 12:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -386,6 +340,43 @@
           "link": "https://www.syria.tv/%D9%87%D9%84-%D9%8A%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%8A%D9%83%D9%88%D8%B1%D8%AA%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
           "publishedAt": "2026-09-01T19:12:42.000Z",
           "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 12:47",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Turkey&#8217;s Erdogan says SDF integration opens new era for region",
+          "excerpt": "DAMASCUS, Syria (North Press) – Turkish President Recep Tayyip Erdogan on Wednesday said the announcement of the dissolution of the Syrian Democratic Forces (SDF) and their integration into the Syrian state &#8220;open the door to a new era",
+          "link": "https://npasyria.com/en/141010/",
+          "publishedAt": "2026-09-02T12:38:19.000Z",
+          "files": [
+            "sdf",
             "turkey"
           ],
           "seenBefore": true,
