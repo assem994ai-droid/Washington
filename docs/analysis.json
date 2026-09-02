@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T17:47:48.181Z",
+    "generatedAt": "2026-09-02T18:11:24.776Z",
     "windowHours": 24,
-    "from": "2026-09-01T17:47:48.181Z",
-    "to": "2026-09-02T17:47:48.181Z"
+    "from": "2026-09-01T18:11:24.776Z",
+    "to": "2026-09-02T18:11:24.776Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 18,
     "files": 4,
     "withNew": 0,
     "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 143
+    "archiveCycles": 144
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,11 +33,10 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "North Press Agency (English)",
-        "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
         "تلفزيون سوريا"
@@ -45,16 +44,16 @@
       "circles": [
         "مراكز الفكر",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي"
+        "الملف الإسرائيلي والتركي",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 4,
-      "score": 35,
+      "score": 31,
       "items": [
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -79,18 +78,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Once symbols of war on Islamic State, Kurdish women fighters seek role in new Syria",
-          "excerpt": "<p>By Orhan Qereman</p><p>QAMISHLI, Syria, Sept 2 (Reuters) - Female Kurdish fighters who became global symbols of the fight against Islamic State are negotiating with Syria's new authorities to retain a combat role after a government overh",
-          "link": "https://www.al-monitor.com/originals/2026/09/once-symbols-war-islamic-state-kurdish-women-fighters-seek-role-new-syria",
-          "publishedAt": "2026-09-02T10:46:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -183,25 +170,23 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
         "The National",
-        "Middle East Eye",
-        "تلفزيون سوريا"
+        "Middle East Eye"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 14,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -244,20 +229,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يفرج عن راعي أغنام بعد احتجازه في القنيطرة",
-          "excerpt": "أفرجت قوات الاحتلال عن راعي أغنام بعد احتجازه لساعات إثر توغلها غرب الرفيد بريف القنيطرة",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8A-%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-01T18:07:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -275,7 +246,7 @@
         "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,7 +326,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
