@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T11:54:38.486Z",
+    "generatedAt": "2026-09-02T12:47:52.458Z",
     "windowHours": 24,
-    "from": "2026-09-01T11:54:38.486Z",
-    "to": "2026-09-02T11:54:38.486Z"
+    "from": "2026-09-01T12:47:52.458Z",
+    "to": "2026-09-02T12:47:52.458Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
-    "files": 3,
-    "withNew": 0,
+    "items": 21,
+    "files": 4,
+    "withNew": 1,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 130
+    "archiveCycles": 131
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,7 +49,7 @@
         "الإعلام الدولي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -240,6 +240,43 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Turkey&#8217;s Erdogan says SDF integration opens new era for region",
+          "excerpt": "DAMASCUS, Syria (North Press) – Turkish President Recep Tayyip Erdogan on Wednesday said the announcement of the dissolution of the Syrian Democratic Forces (SDF) and their integration into the Syrian state &#8220;open the door to a new era",
+          "link": "https://npasyria.com/en/141010/",
+          "publishedAt": "2026-09-02T12:38:19.000Z",
+          "files": [
+            "sdf",
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -253,7 +290,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -280,7 +317,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Israel fears Syria's Sharaa is rearming while courting global legitimacy, defense official warns",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2124,w_3186/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in Da",
           "link": "https://www.jpost.com/middle-east/article-907252",
           "publishedAt": "2026-09-01T16:35:20.000Z",
           "files": [
@@ -304,7 +341,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
