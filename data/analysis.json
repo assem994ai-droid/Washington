@@ -1,33 +1,116 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T21:39:51.269Z",
+    "generatedAt": "2026-09-02T22:12:09.789Z",
     "windowHours": 24,
-    "from": "2026-09-01T21:39:51.269Z",
-    "to": "2026-09-02T21:39:51.269Z"
+    "from": "2026-09-01T22:12:09.789Z",
+    "to": "2026-09-02T22:12:09.789Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
-    "files": 4,
-    "withNew": 0,
-    "stale": 4,
+    "items": 18,
+    "files": 5,
+    "withNew": 2,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 152
+    "americanItems": 4,
+    "archiveCycles": 153
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
-    "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "سانا — قسم السياسة",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "مراكز الفكر",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 24,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا وتركيا تبحثان تعزيز التعاون في النقل وتطوير مشاريع البنية التحتية",
+          "excerpt": "بحث معاون وزير النقل لشؤون النقل البري محمد رحّال، اليوم الأربعاء، مع وفد من جمعية ‏الصناعيين ورجال الأعمال الأتراك (‏TÜSİAD‏)، سبل تعزيز التعاون المشترك وتوسيع مجالات ‏الاستفادة من الخبرات والإمكانات التركية في قطاعات النقل البري والسكك ال",
+          "link": "https://sana.sy/politics/2570667/",
+          "publishedAt": "2026-09-02T22:10:09.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Ankara Is Baiting Israel, Not the Reverse",
+          "excerpt": "Before dawn on August 18, Israeli jets destroyed the runway at Syria’s Abu al-Duhur air base in Idlib. Within hours, America’s ambassador in Ankara, Tom Barrack, pronounced the raid an unnecessary... The post Ankara Is Baiting Israel, Not t",
+          "link": "https://www.fdd.org/analysis/2026/09/02/ankara-is-baiting-israel-not-the-reverse/",
+          "publishedAt": "2026-09-02T17:26:49.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "غرق طفل سوري وإنقاذ شقيقه الأصغر جنوبي تركيا",
+          "excerpt": "توفي طفل سوري يبلغ من العمر تسعة أعوام غرقاً في قناة للري بقضاء طرسوس التابع لولاية مرسين جنوبي تركيا.",
+          "link": "https://www.syria.tv/%D8%BA%D8%B1%D9%82-%D8%B7%D9%81%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D9%88%D8%A5%D9%86%D9%82%D8%A7%D8%B0-%D8%B4%D9%82%D9%8A%D9%82%D9%87-%D8%A7%D9%84%D8%A3%D8%B5%D8%BA%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-02T10:48:40.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الأربعاء 02-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الأربعاء (02-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-02-09-2026",
+          "publishedAt": "2026-09-02T07:10:57.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -47,7 +130,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 21:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 21:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -142,6 +225,42 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 11,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "‏ سوريا تشارك باللجنة التحضيرية لمؤتمر الأمم المتحدة المعني بحماية الأشخاص بالكوارث",
+          "excerpt": "تشارك سوريا بوفد من وزارة الطوارئ وإدارة الكوارث للمرة الأولى في أعمال اللجنة التحضيرية ‏لمؤتمر الأمم المتحدة المعني بحماية الأشخاص في حالات الكوارث، المنعقد في مقر الأمم المتحدة ‏بمدينة نيويورك في الولايات المتحدة الأمريكية.‏",
+          "link": "https://sana.sy/syria-and-the-world/2570651/",
+          "publishedAt": "2026-09-02T21:58:47.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -157,7 +276,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 21:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 21:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -210,73 +329,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "مراكز الفكر",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 21:11",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 11,
-      "items": [
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Ankara Is Baiting Israel, Not the Reverse",
-          "excerpt": "Before dawn on August 18, Israeli jets destroyed the runway at Syria’s Abu al-Duhur air base in Idlib. Within hours, America’s ambassador in Ankara, Tom Barrack, pronounced the raid an unnecessary... The post Ankara Is Baiting Israel, Not t",
-          "link": "https://www.fdd.org/analysis/2026/09/02/ankara-is-baiting-israel-not-the-reverse/",
-          "publishedAt": "2026-09-02T17:26:49.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "غرق طفل سوري وإنقاذ شقيقه الأصغر جنوبي تركيا",
-          "excerpt": "توفي طفل سوري يبلغ من العمر تسعة أعوام غرقاً في قناة للري بقضاء طرسوس التابع لولاية مرسين جنوبي تركيا.",
-          "link": "https://www.syria.tv/%D8%BA%D8%B1%D9%82-%D8%B7%D9%81%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D9%88%D8%A5%D9%86%D9%82%D8%A7%D8%B0-%D8%B4%D9%82%D9%8A%D9%82%D9%87-%D8%A7%D9%84%D8%A3%D8%B5%D8%BA%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-02T10:48:40.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الأربعاء 02-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الأربعاء (02-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-02-09-2026",
-          "publishedAt": "2026-09-02T07:10:57.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدران مستقلان فأكثر",
@@ -289,7 +341,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 21:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 21:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
