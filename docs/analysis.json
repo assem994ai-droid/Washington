@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T18:11:24.776Z",
+    "generatedAt": "2026-09-02T18:57:00.660Z",
     "windowHours": 24,
-    "from": "2026-09-01T18:11:24.776Z",
-    "to": "2026-09-02T18:11:24.776Z"
+    "from": "2026-09-01T18:57:00.660Z",
+    "to": "2026-09-02T18:57:00.660Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 17,
     "files": 4,
     "withNew": 0,
     "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 144
+    "americanItems": 4,
+    "archiveCycles": 145
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 4,
-      "score": 31,
+      "usItems": 3,
+      "score": 27,
       "items": [
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -150,18 +150,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump says U.S. striking Iranian targets near Hormuz",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump said Tuesday that American forces were striking Iranian targets near the Strait of Hormuz, describing the strikes as “large and powerful.” In a post on Truth Social, Trump said the",
-          "link": "https://npasyria.com/en/140990/",
-          "publishedAt": "2026-09-01T18:49:43.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -180,7 +168,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -246,7 +234,7 @@
         "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -326,7 +314,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
