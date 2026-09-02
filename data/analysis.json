@@ -1,24 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T17:27:23.633Z",
+    "generatedAt": "2026-09-02T17:38:58.745Z",
     "windowHours": 24,
-    "from": "2026-09-01T17:27:23.633Z",
-    "to": "2026-09-02T17:27:23.633Z"
+    "from": "2026-09-01T17:38:58.745Z",
+    "to": "2026-09-02T17:38:58.745Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 21,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
+    "withNew": 1,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 6,
-    "archiveCycles": 141
+    "americanItems": 5,
+    "archiveCycles": 142
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
@@ -34,27 +35,39 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "North Press Agency (English)",
         "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
-        "تلفزيون سوريا",
-        "The Hill — الكونغرس والسياسة الأمريكية"
+        "تلفزيون سوريا"
       ],
       "circles": [
+        "مراكز الفكر",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي",
-        "الكونغرس والتوازن السياسي الأمريكي"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 16:57",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 5,
-      "score": 39,
+      "usItems": 4,
+      "score": 45,
       "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Hamas, counter terrorism messaging, the Houthis, and the IRA",
+          "excerpt": "The post Hamas, counter terrorism messaging, the Houthis, and the IRA appeared first on FDD.",
+          "link": "https://www.fdd.org/in_the_news/2026/09/02/hamas-counter-terrorism-messaging-the-houthis-and-the-ira/",
+          "publishedAt": "2026-09-02T17:35:13.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -174,18 +187,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The Hill — الكونغرس والسياسة الأمريكية",
-          "sourceId": "thehill",
-          "circle": "الكونغرس والتوازن السياسي الأمريكي",
-          "title": "Hunter Biden says Harris was not &#8216;loyal to a fault&#8217; to his father",
-          "excerpt": "Hunter Biden on Monday said former Vice President Kamala Harris was not &#8220;loyal to a fault&#8221; to his father, former President Biden. The president&#8217;s son sat for an interview in Los Angeles with Zeteo Editor-in-Chief Mehdi Has",
-          "link": "https://thehill.com/blogs/in-the-know/6063405-hunter-biden-criticizes-harris/",
-          "publishedAt": "2026-09-01T17:37:23.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -206,13 +207,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:27",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 18,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -225,7 +226,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -286,13 +287,13 @@
         "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:27",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 21,
+      "score": 12,
       "items": [
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -306,7 +307,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -366,7 +367,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 16:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 17:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
