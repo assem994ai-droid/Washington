@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T11:41:03.495Z",
+    "generatedAt": "2026-09-02T11:54:38.486Z",
     "windowHours": 24,
-    "from": "2026-09-01T11:41:03.495Z",
-    "to": "2026-09-02T11:41:03.495Z"
+    "from": "2026-09-01T11:54:38.486Z",
+    "to": "2026-09-02T11:54:38.486Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 20,
     "files": 3,
-    "withNew": 1,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 129
+    "archiveCycles": 130
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "الإعلام الدولي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:41",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 4,
-      "score": 52,
+      "score": 43,
       "items": [
         {
           "source": "Al-Monitor",
@@ -66,7 +66,7 @@
           "link": "https://www.al-monitor.com/originals/2026/09/once-symbols-war-islamic-state-kurdish-women-fighters-seek-role-new-syria",
           "publishedAt": "2026-09-02T10:46:45.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -244,39 +244,23 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "Al Jazeera English",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام الدولي",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 11,
+      "score": 7,
       "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Syria’s restrained approach to Israel carries risks",
-          "excerpt": "Damascus's restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.",
-          "link": "https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss",
-          "publishedAt": "2026-09-02T05:06:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -320,7 +304,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
