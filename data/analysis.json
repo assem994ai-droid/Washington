@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T11:28:34.118Z",
+    "generatedAt": "2026-09-02T11:41:03.495Z",
     "windowHours": 24,
-    "from": "2026-09-01T11:28:34.118Z",
-    "to": "2026-09-02T11:28:34.118Z"
+    "from": "2026-09-01T11:41:03.495Z",
+    "to": "2026-09-02T11:41:03.495Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 21,
     "files": 3,
-    "withNew": 0,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 128
+    "archiveCycles": 129
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,29 +34,41 @@
       "contested": false,
       "independentSources": 7,
       "sources": [
+        "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
         "Al Jazeera English",
         "The National",
-        "Al-Monitor",
         "تلفزيون سوريا",
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
         "الإعلام الدولي",
-        "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:11",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 4,
-      "score": 42,
+      "score": 52,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Once symbols of war on Islamic State, Kurdish women fighters seek role in new Syria",
+          "excerpt": "<p>By Orhan Qereman</p><p>QAMISHLI, Syria, Sept 2 (Reuters) - Female Kurdish fighters who became global symbols of the fight against Islamic State are negotiating with Syria's new authorities to retain a combat role after a government overh",
+          "link": "https://www.al-monitor.com/originals/2026/09/once-symbols-war-islamic-state-kurdish-women-fighters-seek-role-new-syria",
+          "publishedAt": "2026-09-02T10:46:45.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -243,7 +255,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -308,7 +320,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
