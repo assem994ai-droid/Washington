@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T06:52:30.215Z",
+    "generatedAt": "2026-09-02T07:22:26.969Z",
     "windowHours": 24,
-    "from": "2026-09-01T06:52:30.215Z",
-    "to": "2026-09-02T06:52:30.215Z"
+    "from": "2026-09-01T07:22:26.969Z",
+    "to": "2026-09-02T07:22:26.969Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 118
+    "archiveCycles": 119
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:52",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 47,
+      "score": 38,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -66,7 +66,7 @@
           "link": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss",
           "publishedAt": "2026-09-02T06:35:33.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -235,7 +235,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -384,14 +384,28 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 06:38",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 5,
+      "score": 14,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الأربعاء 02-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الأربعاء (02-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-02-09-2026",
+          "publishedAt": "2026-09-02T07:10:57.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -414,20 +428,6 @@
           "excerpt": "أعلن وزير الإدارة المحلية والبيئة محمد عنجراني، بدء التحضير لأتمتة السجل العقاري والمساحي والخدمات العقارية في سوريا، بالتعاون مع الخبرات التركية",
           "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D9%8A",
           "publishedAt": "2026-09-01T10:07:46.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الثلاثاء 01-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (01-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-01-09-2026",
-          "publishedAt": "2026-09-01T07:07:16.000Z",
           "files": [
             "turkey"
           ],
