@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T07:37:28.365Z",
+    "generatedAt": "2026-09-02T08:30:28.625Z",
     "windowHours": 24,
-    "from": "2026-09-01T07:37:28.365Z",
-    "to": "2026-09-02T07:37:28.365Z"
+    "from": "2026-09-01T08:30:28.625Z",
+    "to": "2026-09-02T08:30:28.625Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 3,
-    "withNew": 1,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 120
+    "archiveCycles": 121
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:37",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 4,
-      "score": 56,
+      "score": 43,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -66,7 +66,7 @@
           "link": "https://npasyria.com/en/141003/",
           "publishedAt": "2026-09-02T07:36:49.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,7 +78,7 @@
           "link": "https://npasyria.com/en/141000/",
           "publishedAt": "2026-09-02T07:26:36.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -258,13 +258,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 21,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -364,20 +364,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغل في جملة وتستهدف معرية بالرشاشات الثقيلة غربي درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، ليل الإثنين-الثلاثاء، منازل وأحياء سكنية في قرية معرية بريف درعا الغربي بالرشاشات الثقيلة، بالتزامن مع توغل قوة عسكرية إسرائيل",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AC%D9%85%D9%84%D8%A9-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-01T08:27:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -393,7 +379,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 07:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
