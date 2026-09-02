@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T13:30:15.018Z",
+    "generatedAt": "2026-09-02T13:48:05.611Z",
     "windowHours": 24,
-    "from": "2026-09-01T13:30:15.018Z",
-    "to": "2026-09-02T13:30:15.018Z"
+    "from": "2026-09-01T13:48:05.611Z",
+    "to": "2026-09-02T13:48:05.611Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 19,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 133
+    "archiveCycles": 134
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,13 +48,13 @@
         "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 13:14",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 13:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 4,
-      "score": 38,
+      "score": 36,
       "items": [
         {
           "source": "Al-Monitor",
@@ -117,18 +117,6 @@
           "us": false
         },
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria UXO causing death, injury every six hours: charity",
-          "excerpt": "<div class=\"align-center media media--type-image media--view-mode-newsletter\"> <div> <img loading=\"lazy\" src=\"/sites/default/files/styles/newsletter/public/2026-09/000_c6c68kj.jpg?itok=poc5p4U_\" width=\"870\" height=\"579\" alt=\"A Syrian army s",
-          "link": "https://www.al-monitor.com/originals/2026/09/syria-uxo-causing-death-injury-every-six-hours-charity",
-          "publishedAt": "2026-09-02T01:30:31.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
@@ -163,18 +151,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "IAEA reports progress in Syria investigation, none in Iran",
-          "excerpt": "<p>By Francois Murphy</p><p>VIENNA, Sept 1 (Reuters) - The U.N. nuclear watchdog has resolved its outstanding questions from an investigation into secret nuclear activities in Syria under the Assad family's rule but made no progress in Iran",
-          "link": "https://www.al-monitor.com/originals/2026/09/iaea-reports-progress-syria-investigation-none-iran",
-          "publishedAt": "2026-09-01T17:46:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         },
         {
           "source": "تلفزيون سوريا",
@@ -215,59 +191,6 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أردوغان: حل \"قسد\" يفتح الباب أمام عهد جديد في المنطقة",
-          "excerpt": "رحب أردوغان بحل \"قسد\" ومسار اندماجها، مؤكداً دعم بلاده لسوريا موحدة بجميع مكوناتها وضرورة انتهاء مرحلة السلاح والعنف.",
-          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%AD%D9%84-%D9%82%D8%B3%D8%AF-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D8%B9%D9%87%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
-          "publishedAt": "2026-09-02T13:16:39.000Z",
-          "files": [
-            "sdf",
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkey&#8217;s Erdogan says SDF integration opens new era for region",
-          "excerpt": "DAMASCUS, Syria (North Press) – Turkish President Recep Tayyip Erdogan on Wednesday said the announcement of the dissolution of the Syrian Democratic Forces (SDF) and their integration into the Syrian state &#8220;open the door to a new era",
-          "link": "https://npasyria.com/en/141010/",
-          "publishedAt": "2026-09-02T12:38:19.000Z",
-          "files": [
-            "sdf",
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -283,7 +206,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 13:14",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 13:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -337,6 +260,59 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 13:30",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 7,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أردوغان: حل \"قسد\" يفتح الباب أمام عهد جديد في المنطقة",
+          "excerpt": "رحب أردوغان بحل \"قسد\" ومسار اندماجها، مؤكداً دعم بلاده لسوريا موحدة بجميع مكوناتها وضرورة انتهاء مرحلة السلاح والعنف.",
+          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%AD%D9%84-%D9%82%D8%B3%D8%AF-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D8%B9%D9%87%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
+          "publishedAt": "2026-09-02T13:16:39.000Z",
+          "files": [
+            "sdf",
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Turkey&#8217;s Erdogan says SDF integration opens new era for region",
+          "excerpt": "DAMASCUS, Syria (North Press) – Turkish President Recep Tayyip Erdogan on Wednesday said the announcement of the dissolution of the Syrian Democratic Forces (SDF) and their integration into the Syrian state &#8220;open the door to a new era",
+          "link": "https://npasyria.com/en/141010/",
+          "publishedAt": "2026-09-02T12:38:19.000Z",
+          "files": [
+            "sdf",
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -348,7 +324,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 13:14",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 13:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
