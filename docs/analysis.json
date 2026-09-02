@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T08:47:27.996Z",
+    "generatedAt": "2026-09-02T08:57:03.465Z",
     "windowHours": 24,
-    "from": "2026-09-01T08:47:27.996Z",
-    "to": "2026-09-02T08:47:27.996Z"
+    "from": "2026-09-01T08:57:03.465Z",
+    "to": "2026-09-02T08:57:03.465Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 23,
     "files": 3,
     "withNew": 0,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 122
+    "archiveCycles": 123
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,7 +49,7 @@
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -244,26 +244,24 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "Al Jazeera English",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "The National"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام الدولي",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 13,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -335,20 +333,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli-backed commando operation in Gaza ends with heavy strikes and clashes",
-          "excerpt": "Israel has launched a series of strikes on areas west of Gaza city in the northern part of the enclave, as Israeli-backed commandos carried out an operation against Hamas.Israeli media reported that commandos had captured Muein Al-Arabid, w",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/series-of-strikes-hit-gaza-amid-reports-of-commando-operation-and-clashes/",
-          "publishedAt": "2026-09-01T08:51:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -364,7 +348,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
