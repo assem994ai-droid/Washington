@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T10:23:45.166Z",
+    "generatedAt": "2026-09-02T10:38:05.020Z",
     "windowHours": 24,
-    "from": "2026-09-01T10:23:45.166Z",
-    "to": "2026-09-02T10:23:45.166Z"
+    "from": "2026-09-01T10:38:05.020Z",
+    "to": "2026-09-02T10:38:05.020Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 20,
     "files": 3,
     "withNew": 0,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 124
+    "archiveCycles": 125
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 10:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 4,
-      "score": 43,
+      "score": 41,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -212,30 +212,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria, Denmark discuss partnership agreement, economic cooperation",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syrian Minister of Foreign Affairs and Expatriates, Asaad al-Shaibani on Tuesday said he discussed with his Danish counterpart Lars Løkke Rasmussen a partnership agreement that would provide an institutional ",
-          "link": "https://npasyria.com/en/140966/",
-          "publishedAt": "2026-09-01T11:11:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iraq to put thousands of ISIS suspects transferred from Syria on trial",
-          "excerpt": "Iraq has finished interrogating thousands of ISIS suspects transferred from Syria and is preparing to put them on trial, the Supreme Judicial Council said.The First Karkh Investigation Court, which specialises in terrorism cases, has “compl",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/01/iraq-set-to-try-thousands-of-syrian-isis-suspects-after-interrogation/",
-          "publishedAt": "2026-09-01T10:28:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -255,7 +231,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 10:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -348,7 +324,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 08:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 10:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
