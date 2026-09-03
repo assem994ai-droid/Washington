@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T11:36:39.086Z",
+    "generatedAt": "2026-09-03T11:46:41.741Z",
     "windowHours": 24,
-    "from": "2026-09-02T11:36:39.086Z",
-    "to": "2026-09-03T11:36:39.086Z"
+    "from": "2026-09-02T11:46:41.741Z",
+    "to": "2026-09-03T11:46:41.741Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 13,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 178
+    "archiveCycles": 179
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,17 +25,22 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Middle East Eye",
-        "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
@@ -45,13 +50,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 15,
       "items": [
         {
           "source": "Middle East Eye",
@@ -61,20 +66,6 @@
           "excerpt": "<article data-history-node-id=\"447055\" about=\"https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-admits-",
           "link": "https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008",
           "publishedAt": "2026-09-03T10:47:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "في ظل تصاعد الانتهاكات.. الاحتلال يجري تدريبات في الجولان المحتل",
-          "excerpt": "الفرقة 210 من جيش الاحتلال الإسرائيلي تجري مناورات في الجولان السوري المحتل.",
-          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%B8%D9%84-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AC%D8%B1%D9%8A-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84",
-          "publishedAt": "2026-09-03T08:24:13.000Z",
           "files": [
             "israel"
           ],
@@ -92,34 +83,6 @@
           "files": [
             "israel",
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ثلاث رصاصات من البحر.. إسرائيل تكشف أسرار اغتيال مستشار الأسد في طرطوس",
-          "excerpt": "إيهود أولمرت يكشف للمرة الأولى أن وحدة \"شاييتت 13\" الإسرائيلية نفذت اغتيال الجنرال السوري محمد سليمان في طرطوس عام 2008.",
-          "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B1%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%81%D9%8A-%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
-          "publishedAt": "2026-09-03T05:47:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "267 انتهاكاً خلال آب.. تقرير يوثق تصاعد الاعتداءات الإسرائيلية في سوريا",
-          "excerpt": "وثّق مركز \"سجل\" الحقوقي 267 انتهاكاً ارتكبتها قوات الاحتلال الإسرائيلي داخل الأراضي السورية خلال شهر آب/أغسطس الماضي، لترتفع الحصيلة منذ مطلع عام 2026 إلى 1752",
-          "link": "https://www.syria.tv/267-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%88%D8%AB%D9%82-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-02T21:03:22.000Z",
-          "files": [
-            "israel"
           ],
           "seenBefore": true,
           "us": false
@@ -159,11 +122,10 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "The National",
         "North Press Agency (English)",
-        "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
@@ -171,13 +133,13 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 20,
+      "score": 15,
       "items": [
         {
           "source": "The National",
@@ -216,30 +178,6 @@
           "us": true
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
-          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
-          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
-          "publishedAt": "2026-09-02T23:56:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توقيف متعهد المشروع.. وفاة عامل سوري إثر سقوطه من الطابق السابع في غازي عنتاب",
-          "excerpt": "توفي عامل يدعى جمال كحلاوي، يبلغ من العمر 57 عاماً، الأربعاء، إثر سقوطه من الطابق السابع في مبنى قيد الإنشاء بمدينة نيزيب التابعة لولاية غازي عنتاب جنوبي تركيا.",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D8%AB%D8%B1-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B2%D9%8A-%D8%B9%D9%86%D8%AA%D8%A7%D8%A8",
-          "publishedAt": "2026-09-02T19:43:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
           "sourceId": "fdd",
           "circle": "مراكز الفكر",
@@ -268,55 +206,23 @@
     {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 11,
+      "score": 6,
       "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 03-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (03-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-03-09-2026",
-          "publishedAt": "2026-09-03T07:26:03.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مباحثات سورية تركية لتعزيز التعاون في النقل البري وتوسيع فرص الاستثمار",
-          "excerpt": "مباحثات سورية تركية لتعزيز التعاون في النقل البري والسكك الحديدية، والاستفادة من الخبرات التركية، وبحث فرص الاستثمار والمشاريع المطروحة في سوريا.",
-          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A-%D9%88%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
-          "publishedAt": "2026-09-03T04:50:39.000Z",
-          "files": [
-            "turkey",
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
           "sourceId": "fdd",
@@ -337,53 +243,23 @@
     {
       "id": "sdf",
       "label": "ملف اندماج قسد",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
         "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 3,
       "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الهلالي: 9 آلاف اسم من \"قسد\" مرشح للانضمام إلى القوات الأمنية في الحسكة",
-          "excerpt": "كشف نائب محافظ الحسكة، أحمد الهلالي عن تقديم أكثر من 9 آلاف اسم لمرشحين للانضمام إلى القوات الأمنية، ضمن الترتيبات الجارية..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84%D9%8A-9-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D8%B3%D9%85-%D9%85%D9%86-%D9%82%D8%B3%D8%AF-%D9%85%D8%B1%D8%B4%D8%AD-%D9%84%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
-          "publishedAt": "2026-09-02T20:07:18.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أردوغان: حل \"قسد\" يفتح الباب أمام عهد جديد في المنطقة",
-          "excerpt": "رحب أردوغان بحل \"قسد\" ومسار اندماجها، مؤكداً دعم بلاده لسوريا موحدة بجميع مكوناتها وضرورة انتهاء مرحلة السلاح والعنف.",
-          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%AD%D9%84-%D9%82%D8%B3%D8%AF-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D8%B9%D9%87%D8%AF-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
-          "publishedAt": "2026-09-02T13:16:39.000Z",
-          "files": [
-            "sdf",
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -413,7 +289,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -449,7 +325,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
