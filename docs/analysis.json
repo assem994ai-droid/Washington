@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T18:58:16.850Z",
+    "generatedAt": "2026-09-03T19:10:51.210Z",
     "windowHours": 24,
-    "from": "2026-09-02T18:58:16.850Z",
-    "to": "2026-09-03T18:58:16.850Z"
+    "from": "2026-09-02T19:10:51.210Z",
+    "to": "2026-09-03T19:10:51.210Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 30,
+    "items": 29,
     "files": 8,
-    "withNew": 1,
-    "stale": 7,
-    "contested": 2,
+    "withNew": 0,
+    "stale": 8,
+    "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 203
+    "archiveCycles": 204
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الملف الإسرائيلي والتركي"
+    "الملف الإسرائيلي والتركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -43,13 +44,13 @@
         "الإعلام السوري المستقل",
         "الإعلام الدولي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 32,
+      "score": 23,
       "items": [
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -60,7 +61,7 @@
           "link": "https://www.fdd.org/analysis/op-eds/2026/09/03/idf-captures-hamas-security-chief-reports-29-gaza-ceasefire-violations-aug-19-sept-3/",
           "publishedAt": "2026-09-03T18:52:28.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -68,7 +69,7 @@
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
           "title": "Syria begins destroying chemical weapon materials in break with Assad era",
-          "excerpt": "Syria has begun destroying chemical weapon materials identified in co-operation with the global watchdog, the country's UN envoy has said.“This is the very first destruction process since we have been liberated from the previous regime [of ",
+          "excerpt": "Syria has begun destroying chemical weapon materials identified in co-operation with the global watchdog, the country's UN envoy has said.Ibrahim Olabi told the UN Security Council that this marked the first destruction process since the en",
           "link": "https://www.thenationalnews.com/news/us/2026/09/03/syria-breaks-with-assad-era-as-it-begins-destroying-chemical-weapon-materials/",
           "publishedAt": "2026-09-03T18:34:58.000Z",
           "files": [],
@@ -176,27 +177,25 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 4,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
       "sources": [
         "North Press Agency (English)",
         "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "Ynet News (English)"
+        "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 24,
+      "score": 17,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -312,20 +311,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Military source disputes Eisenkot: ‘Netanyahu was updated immediately’",
-          "excerpt": "Former IDF chief says he could not reach Netanyahu for up to two hours after an Israeli F-16 was downed by Syrian fire; military source with access to records says the prime minister immediately approved the response, while Eisenkot’s party",
-          "link": "https://www.ynetnews.com/article/r1qkf7uumx",
-          "publishedAt": "2026-09-02T23:05:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -355,7 +340,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -408,7 +393,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -489,7 +474,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -525,7 +510,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -561,7 +546,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -597,7 +582,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
