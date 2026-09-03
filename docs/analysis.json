@@ -1,27 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T12:50:45.590Z",
+    "generatedAt": "2026-09-03T13:06:59.022Z",
     "windowHours": 24,
-    "from": "2026-09-02T12:50:45.590Z",
-    "to": "2026-09-03T12:50:45.590Z"
+    "from": "2026-09-02T13:06:59.022Z",
+    "to": "2026-09-03T13:06:59.022Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 26,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 182
+    "archiveCycles": 183
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
     "الملف التركي"
   ],
   "errors": [],
@@ -46,7 +45,7 @@
         "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -172,7 +171,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Senior Israeli official: Settler violence harming Israel, Syria security deal attempt failed",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)' ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1067,w_1600/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)",
           "link": "https://www.jpost.com/middle-east/article-907352",
           "publishedAt": "2026-09-02T17:26:52.000Z",
           "files": [
@@ -228,7 +227,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -336,7 +335,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -392,6 +391,58 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "التقارير الرسمية الدورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:50",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "‏ سوريا تشارك باللجنة التحضيرية لمؤتمر الأمم المتحدة المعني بحماية الأشخاص بالكوارث",
+          "excerpt": "تشارك سوريا بوفد من وزارة الطوارئ وإدارة الكوارث للمرة الأولى في أعمال اللجنة التحضيرية ‏لمؤتمر الأمم المتحدة المعني بحماية الأشخاص في حالات الكوارث، المنعقد في مقر الأمم المتحدة ‏بمدينة نيويورك في الولايات المتحدة الأمريكية.‏",
+          "link": "https://sana.sy/syria-and-the-world/2570651/",
+          "publishedAt": "2026-09-02T21:58:47.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "Security Council, 10217th Meeting (AM) Syria/OPCW",
+          "excerpt": "The Security Council today will hold a meeting on the situation in the Middle East, focusing on efforts to eliminate the Syrian chemical weapons programme in accordance with resolution 2118 (2013). UN High Representative for Disarmament Aff",
+          "link": "https://press.un.org/en/blog/sc16445",
+          "publishedAt": "2026-09-02T20:39:33.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -403,7 +454,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -443,42 +494,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:09",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 2,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "‏ سوريا تشارك باللجنة التحضيرية لمؤتمر الأمم المتحدة المعني بحماية الأشخاص بالكوارث",
-          "excerpt": "تشارك سوريا بوفد من وزارة الطوارئ وإدارة الكوارث للمرة الأولى في أعمال اللجنة التحضيرية ‏لمؤتمر الأمم المتحدة المعني بحماية الأشخاص في حالات الكوارث، المنعقد في مقر الأمم المتحدة ‏بمدينة نيويورك في الولايات المتحدة الأمريكية.‏",
-          "link": "https://sana.sy/syria-and-the-world/2570651/",
-          "publishedAt": "2026-09-02T21:58:47.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -490,7 +505,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 12:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
