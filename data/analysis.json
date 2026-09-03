@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T06:57:40.582Z",
+    "generatedAt": "2026-09-03T07:12:27.714Z",
     "windowHours": 24,
-    "from": "2026-09-02T06:57:40.582Z",
-    "to": "2026-09-03T06:57:40.582Z"
+    "from": "2026-09-02T07:12:27.714Z",
+    "to": "2026-09-03T07:12:27.714Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 20,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 164
+    "americanItems": 4,
+    "archiveCycles": 165
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,13 +44,13 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 06:57",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
-      "usItems": 3,
-      "score": 34,
+      "usItems": 2,
+      "score": 21,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -61,7 +61,7 @@
           "link": "https://npasyria.com/en/141027/",
           "publishedAt": "2026-09-03T06:44:37.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -147,18 +147,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran says 11 killed in U.S. strikes as fighting resumes",
-          "excerpt": "DAMASCUS, Syria (North Press) – Iranian state-run news agency IRNA reported on Tuesday that at least 11 people were killed in U.S. strikes on several areas of Iran overnight. The agency said a missile strike on Khuzestan Governorate in sout",
-          "link": "https://npasyria.com/en/141000/",
-          "publishedAt": "2026-09-02T07:26:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -179,13 +167,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 06:57",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 16,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -199,7 +187,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -274,13 +262,13 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 06:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 06:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 12,
+      "score": 11,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -326,20 +314,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الأربعاء 02-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الأربعاء (02-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-02-09-2026",
-          "publishedAt": "2026-09-02T07:10:57.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -356,7 +330,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 06:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 06:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -422,7 +396,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 06:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 06:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
