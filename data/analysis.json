@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T11:21:32.727Z",
+    "generatedAt": "2026-09-03T11:36:39.086Z",
     "windowHours": 24,
-    "from": "2026-09-02T11:21:32.727Z",
-    "to": "2026-09-03T11:21:32.727Z"
+    "from": "2026-09-02T11:36:39.086Z",
+    "to": "2026-09-03T11:36:39.086Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 22,
     "files": 6,
     "withNew": 0,
     "stale": 6,
-    "contested": 1,
+    "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 177
+    "archiveCycles": 178
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,37 +22,36 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 6,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 5,
       "sources": [
         "Middle East Eye",
         "تلفزيون سوريا",
         "North Press Agency (English)",
-        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 31,
+      "score": 21,
       "items": [
         {
           "source": "Middle East Eye",
@@ -112,20 +111,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Military source disputes Eisenkot: ‘Netanyahu was updated immediately’",
-          "excerpt": "Former IDF chief says he could not reach Netanyahu for up to two hours after an Israeli F-16 was downed by Syrian fire; military source with access to records says the prime minister immediately approved the response, while Eisenkot’s party",
-          "link": "https://www.ynetnews.com/article/r1qkf7uumx",
-          "publishedAt": "2026-09-02T23:05:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -133,20 +118,6 @@
           "excerpt": "وثّق مركز \"سجل\" الحقوقي 267 انتهاكاً ارتكبتها قوات الاحتلال الإسرائيلي داخل الأراضي السورية خلال شهر آب/أغسطس الماضي، لترتفع الحصيلة منذ مطلع عام 2026 إلى 1752",
           "link": "https://www.syria.tv/267-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%88%D8%AB%D9%82-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-09-02T21:03:22.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Israel assassinated top Assad nuclear adviser in daring commando operation, new account reveals",
-          "excerpt": "Eighteen years after Gen. Muhammad Suleiman was shot dead at his Tartus vacation home, then-PM Olmert says Israeli naval commandos slipped ashore, shot the Syrian president’s confidant three times and escaped undetected",
-          "link": "https://www.ynetnews.com/article/skyeorboze",
-          "publishedAt": "2026-09-02T17:40:09.000Z",
           "files": [
             "israel"
           ],
@@ -168,20 +139,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Disguised vegetable truck, point-blank fire: how Israel captured Hamas' internal security chief",
-          "excerpt": "Shin Bet tracked Muin al-Arabid for days before raiding a Gaza City villa where he was wounded and seized; Israeli airstrikes covered the force’s withdrawal, and Netanyahu says the captured Hamas official may yield valuable intelligence",
-          "link": "https://www.ynetnews.com/article/sykv116sumg",
-          "publishedAt": "2026-09-02T15:35:33.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -189,20 +146,6 @@
           "excerpt": "Prime Minister Benjamin Netanyahu said Israel will not withdraw from areas it occupies in Gaza, a day after special forces seized a Hamas official during a raid in a densely populated district. Mr Netanyahu spoke on Wednesday at a military ",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/02/netanyahu-vows-no-retreat-from-gaza-after-terrifying-israeli-commando-raid/",
           "publishedAt": "2026-09-02T15:16:22.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Eisenkot: Netanyahu’s office had October 7 intelligence 3 hours before attack",
-          "excerpt": "Former IDF chief says Netanyahu’s intelligence adviser received reports on unusual Gaza activity about three hours before the Hamas assault began and says the PM must explain why the information did not reach him",
-          "link": "https://www.ynetnews.com/article/s15jkfhumg",
-          "publishedAt": "2026-09-02T11:38:40.000Z",
           "files": [
             "israel"
           ],
@@ -228,7 +171,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -336,7 +279,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -404,7 +347,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -470,7 +413,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -506,7 +449,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 11:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
