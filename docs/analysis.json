@@ -1,44 +1,45 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T18:14:21.514Z",
+    "generatedAt": "2026-09-03T18:49:33.863Z",
     "windowHours": 24,
-    "from": "2026-09-02T18:14:21.514Z",
-    "to": "2026-09-03T18:14:21.514Z"
+    "from": "2026-09-02T18:49:33.863Z",
+    "to": "2026-09-03T18:49:33.863Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 29,
     "files": 8,
     "withNew": 2,
     "stale": 6,
-    "contested": 1,
+    "contested": 2,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 201
+    "americanItems": 3,
+    "archiveCycles": 202
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الملف الإسرائيلي والتركي",
-    "الملف الإسرائيلي"
+    "الملف الإسرائيلي والتركي"
   ],
   "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 4,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -46,8 +47,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 33,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter Syria’s Quneitra countryside, shell Damascus outskirts",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered northern Syria’s Quneitra countryside on Thursday with three military vehicles and shelled the outskirts of Beit Jinn in western Damascus countryside. North Press sources in Quneitra an",
+          "link": "https://npasyria.com/en/141055/",
+          "publishedAt": "2026-09-03T18:40:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -59,7 +74,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -148,6 +163,20 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Military source disputes Eisenkot: ‘Netanyahu was updated immediately’",
+          "excerpt": "Former IDF chief says he could not reach Netanyahu for up to two hours after an Israeli F-16 was downed by Syrian fire; military source with access to records says the prime minister immediately approved the response, while Eisenkot’s party",
+          "link": "https://www.ynetnews.com/article/r1qkf7uumx",
+          "publishedAt": "2026-09-02T23:05:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -170,24 +199,36 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "The National",
         "تلفزيون سوريا",
         "Al Jazeera English",
-        "North Press Agency (English)",
-        "The National"
+        "North Press Agency (English)"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الإعلام الدولي",
-        "الإعلام المتخصص"
+        "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 22,
+      "usItems": 1,
+      "score": 28,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria begins destroying chemical weapon materials in break with Assad era",
+          "excerpt": "Syria has begun destroying chemical weapon materials identified in co-operation with the global watchdog, the country's UN envoy has said.“This is the very first destruction process since we have been liberated from the previous regime [of ",
+          "link": "https://www.thenationalnews.com/news/us/2026/09/03/syria-breaks-with-assad-era-as-it-begins-destroying-chemical-weapon-materials/",
+          "publishedAt": "2026-09-03T18:34:58.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -261,18 +302,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S.-Iran conflict escalates as Tehran strikes Gulf targets after American attacks",
-          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged fresh attacks overnight into Thursday, as Tehran launched missiles and drones toward U.S. military interests and allied countries in the Gulf following a new wave of Ameri",
-          "link": "https://npasyria.com/en/141024/",
-          "publishedAt": "2026-09-03T06:00:10.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -299,42 +328,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "مراكز الفكر"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Syria Is Off the Terror List, but Washington Still Has Leverage",
-          "excerpt": "US President Donald Trump has fulfilled the promise he made to Syrian President Ahmad al-Sharaa in May 2025, to&#160;give&#160;Syrians “a chance at greatness.” At the end of August of this year, Trump... The post Syria Is Off the Terror Lis",
-          "link": "https://www.fdd.org/analysis/2026/09/03/syria-is-off-the-terror-list-but-washington-still-has-leverage/",
-          "publishedAt": "2026-09-03T18:10:39.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -348,7 +341,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -401,7 +394,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -471,6 +464,42 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:14",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Syria Is Off the Terror List, but Washington Still Has Leverage",
+          "excerpt": "US President Donald Trump has fulfilled the promise he made to Syrian President Ahmad al-Sharaa in May 2025, to&#160;give&#160;Syrians “a chance at greatness.” At the end of August of this year, Trump... The post Syria Is Off the Terror Lis",
+          "link": "https://www.fdd.org/analysis/2026/09/03/syria-is-off-the-terror-list-but-washington-still-has-leverage/",
+          "publishedAt": "2026-09-03T18:10:39.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -482,7 +511,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -518,7 +547,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -554,7 +583,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
