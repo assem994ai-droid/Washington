@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-02T22:28:49.505Z",
+    "generatedAt": "2026-09-03T00:11:14.250Z",
     "windowHours": 24,
-    "from": "2026-09-01T22:28:49.505Z",
-    "to": "2026-09-02T22:28:49.505Z"
+    "from": "2026-09-02T00:11:14.250Z",
+    "to": "2026-09-03T00:11:14.250Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 18,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 154
+    "archiveCycles": 155
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,14 +46,26 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:12",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 23,
+      "score": 33,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
+          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
+          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
+          "publishedAt": "2026-09-02T23:56:28.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -156,7 +168,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -183,7 +195,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Senior Israeli official: Settler violence harming Israel, Syria security deal attempt failed",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)' ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1067,w_1600/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)",
           "link": "https://www.jpost.com/middle-east/article-907352",
           "publishedAt": "2026-09-02T17:26:52.000Z",
           "files": [
@@ -222,7 +234,7 @@
         "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -288,7 +300,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -354,7 +366,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-02 22:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
