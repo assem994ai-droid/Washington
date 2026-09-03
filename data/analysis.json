@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T17:49:12.266Z",
+    "generatedAt": "2026-09-03T17:57:39.344Z",
     "windowHours": 24,
-    "from": "2026-09-02T17:49:12.266Z",
-    "to": "2026-09-03T17:49:12.266Z"
+    "from": "2026-09-02T17:57:39.344Z",
+    "to": "2026-09-03T17:57:39.344Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 25,
     "files": 7,
     "withNew": 1,
     "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 199
+    "archiveCycles": 200
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,117 +22,59 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
-    "الإعلام الدولي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 18,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من إدلب إلى دمشق.. تقرير يكشف جذور العلاقة الاستراتيجية بين تركيا والشرع",
-          "excerpt": "كشف تقرير نشرته دورية \"Middle East Journal\" الأميركية تفاصيل عن تطور العلاقة بين تركيا والرئيس السوري أحمد الشرع..",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AC%D8%B0%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B9",
-          "publishedAt": "2026-09-03T17:40:06.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الدفاع التركية تؤكد استمرار جهودها لدعم الاستقرار في سوريا وتعزيز التعاون المشترك",
-          "excerpt": "أكدت وزارة الدفاع التركية اليوم الخميس، أنها ستواصل جهودها للإسهام بإرساء الأمن والاستقرار في سوريا وعودة الحياة اليومية للشعب السوري إلى طبيعتها.",
-          "link": "https://sana.sy/syria-and-the-world/2571312/",
-          "publishedAt": "2026-09-03T13:21:01.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 03-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (03-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-03-09-2026",
-          "publishedAt": "2026-09-03T07:26:03.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مباحثات سورية تركية لتعزيز التعاون في النقل البري وتوسيع فرص الاستثمار",
-          "excerpt": "مباحثات سورية تركية لتعزيز التعاون في النقل البري والسكك الحديدية، والاستفادة من الخبرات التركية، وبحث فرص الاستثمار والمشاريع المطروحة في سوريا.",
-          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A-%D9%88%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
-          "publishedAt": "2026-09-03T04:50:39.000Z",
-          "files": [
-            "turkey",
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
-        "North Press Agency (English)",
         "تلفزيون سوريا",
+        "Al Jazeera English",
+        "North Press Agency (English)",
         "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
+        "الإعلام الدولي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:37",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 17,
+      "score": 35,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
+          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
+          "publishedAt": "2026-09-03T17:55:21.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Kurdish women who fought ISIL seek place in Syria’s new security forces",
+          "excerpt": "Following the SDF’s dissolution, the Kurdish all-women YPJ is seeking to preserve its combat role in Syria.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-ypj-syrian-army-sv?traffic_source=rss",
+          "publishedAt": "2026-09-03T17:42:28.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -234,7 +176,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -357,7 +299,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -397,6 +339,89 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 9,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من إدلب إلى دمشق.. تقرير يكشف جذور العلاقة الاستراتيجية بين تركيا والشرع",
+          "excerpt": "كشف تقرير نشرته دورية \"Middle East Journal\" الأميركية تفاصيل عن تطور العلاقة بين تركيا والرئيس السوري أحمد الشرع..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AC%D8%B0%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B9",
+          "publishedAt": "2026-09-03T17:40:06.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الدفاع التركية تؤكد استمرار جهودها لدعم الاستقرار في سوريا وتعزيز التعاون المشترك",
+          "excerpt": "أكدت وزارة الدفاع التركية اليوم الخميس، أنها ستواصل جهودها للإسهام بإرساء الأمن والاستقرار في سوريا وعودة الحياة اليومية للشعب السوري إلى طبيعتها.",
+          "link": "https://sana.sy/syria-and-the-world/2571312/",
+          "publishedAt": "2026-09-03T13:21:01.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 03-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (03-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-03-09-2026",
+          "publishedAt": "2026-09-03T07:26:03.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية تركية لتعزيز التعاون في النقل البري وتوسيع فرص الاستثمار",
+          "excerpt": "مباحثات سورية تركية لتعزيز التعاون في النقل البري والسكك الحديدية، والاستفادة من الخبرات التركية، وبحث فرص الاستثمار والمشاريع المطروحة في سوريا.",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A-%D9%88%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
+          "publishedAt": "2026-09-03T04:50:39.000Z",
+          "files": [
+            "turkey",
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -408,7 +433,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -444,7 +469,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -480,7 +505,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
