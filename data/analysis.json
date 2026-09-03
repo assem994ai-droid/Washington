@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T21:44:24.783Z",
+    "generatedAt": "2026-09-03T22:35:05.762Z",
     "windowHours": 24,
-    "from": "2026-09-02T21:44:24.783Z",
-    "to": "2026-09-03T21:44:24.783Z"
+    "from": "2026-09-02T22:35:05.762Z",
+    "to": "2026-09-03T22:35:05.762Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
-    "files": 8,
+    "items": 27,
+    "files": 7,
     "withNew": 0,
-    "stale": 8,
+    "stale": 7,
     "contested": 2,
     "echoed": 1,
     "americanItems": 4,
-    "archiveCycles": 215
+    "archiveCycles": 216
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الملف الإسرائيلي والتركي"
+    "الملف الإسرائيلي والتركي",
+    "التقارير الرسمية الدورية"
   ],
   "errors": [],
   "files": [
@@ -41,7 +42,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -197,7 +198,7 @@
         "الإعلام السوري المستقل",
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -329,7 +330,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -381,7 +382,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -462,7 +463,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -498,7 +499,7 @@
       "circles": [
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -524,42 +525,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:35",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "First Verified Destruction of Syrian Chemical Munitions Since 2014 Marks ‘Significant Progress’, Disarmament Chief Tells Security Council",
-          "excerpt": "The United Nations disarmament Chief told the Security Council today that the Organisation for the Prohibition of Chemical Weapons (OPCW) has verified the destruction of 42 aerial bombs declared by Syria as part of its chemical weapons prog",
-          "link": "https://press.un.org/en/2026/sc16445.doc.htm",
-          "publishedAt": "2026-09-03T19:11:06.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -571,7 +536,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 21:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
