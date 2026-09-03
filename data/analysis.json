@@ -1,56 +1,55 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T16:29:31.508Z",
+    "generatedAt": "2026-09-03T16:43:10.311Z",
     "windowHours": 24,
-    "from": "2026-09-02T16:29:31.508Z",
-    "to": "2026-09-03T16:29:31.508Z"
+    "from": "2026-09-02T16:43:10.311Z",
+    "to": "2026-09-03T16:43:10.311Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
-    "contested": 1,
+    "withNew": 0,
+    "stale": 6,
+    "contested": 2,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 194
+    "archiveCycles": 195
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام الدولي",
-    "الملف الإسرائيلي"
+    "الإعلام الدولي"
   ],
   "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
       "independentSources": 5,
       "sources": [
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
         "North Press Agency (English)",
-        "Middle East Eye",
+        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
+        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:29",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 32,
+      "score": 27,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -59,11 +58,11 @@
           "title": "علبي يعلن بدء تدمير مواد كيميائية في سوريا ويحذر من مخاطر الاعتداءات الإسرائيلية",
           "excerpt": "أعلن مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي بدء عملية تدمير بعض المواد الكيميائية التي تم العثور عليها في سوريا، وذلك ضمن إجراءات التحقق المتبعة للأمانة الفنية لمنظمة حظر الأسلحة الكيميائية، مشيراً إلى أنها لحظة تاريخية.",
           "link": "https://sana.sy/politics/2571397/",
-          "publishedAt": "2026-09-03T16:15:36.000Z",
+          "publishedAt": "2026-09-03T16:35:00.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -88,20 +87,6 @@
           "excerpt": "DARAA, Syria (North Press) – Israeli forces on Thursday entered areas in western Daraa and southern Quneitra, southern Syria, accompanied by raids and searches of residents’ homes. Local sources told North Press that Israeli military vehicl",
           "link": "https://npasyria.com/en/141040/",
           "publishedAt": "2026-09-03T11:49:19.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel admits it assassinated senior Assad official in Syria in 2008",
-          "excerpt": "<article data-history-node-id=\"447055\" about=\"https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-admits-",
-          "link": "https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008",
-          "publishedAt": "2026-09-03T10:47:20.000Z",
           "files": [
             "israel"
           ],
@@ -152,6 +137,20 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Military source disputes Eisenkot: ‘Netanyahu was updated immediately’",
+          "excerpt": "Former IDF chief says he could not reach Netanyahu for up to two hours after an Israeli F-16 was downed by Syrian fire; military source with access to records says the prime minister immediately approved the response, while Eisenkot’s party",
+          "link": "https://www.ynetnews.com/article/r1qkf7uumx",
+          "publishedAt": "2026-09-02T23:05:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -159,6 +158,20 @@
           "excerpt": "وثّق مركز \"سجل\" الحقوقي 267 انتهاكاً ارتكبتها قوات الاحتلال الإسرائيلي داخل الأراضي السورية خلال شهر آب/أغسطس الماضي، لترتفع الحصيلة منذ مطلع عام 2026 إلى 1752",
           "link": "https://www.syria.tv/267-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%88%D8%AB%D9%82-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-09-02T21:03:22.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Israel assassinated top Assad nuclear adviser in daring commando operation, new account reveals",
+          "excerpt": "Eighteen years after Gen. Muhammad Suleiman was shot dead at his Tartus vacation home, then-PM Olmert says Israeli naval commandos slipped ashore, shot the Syrian president’s confidant three times and escaped undetected",
+          "link": "https://www.ynetnews.com/article/skyeorboze",
+          "publishedAt": "2026-09-02T17:40:09.000Z",
           "files": [
             "israel"
           ],
@@ -198,13 +211,13 @@
         "الإعلام المتخصص",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:29",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 30,
+      "score": 21,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -215,7 +228,7 @@
           "link": "https://npasyria.com/en/141052/",
           "publishedAt": "2026-09-03T16:14:28.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -320,7 +333,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -403,7 +416,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -456,7 +469,7 @@
         "المصادر الرسمية السورية",
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -506,7 +519,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 16:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
