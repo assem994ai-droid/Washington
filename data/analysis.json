@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T19:10:51.210Z",
+    "generatedAt": "2026-09-03T19:25:08.991Z",
     "windowHours": 24,
-    "from": "2026-09-02T19:10:51.210Z",
-    "to": "2026-09-03T19:10:51.210Z"
+    "from": "2026-09-02T19:25:08.991Z",
+    "to": "2026-09-03T19:25:08.991Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 29,
+    "items": 30,
     "files": 8,
-    "withNew": 0,
-    "stale": 8,
+    "withNew": 1,
+    "stale": 7,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 204
+    "archiveCycles": 205
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,7 +44,7 @@
         "الإعلام السوري المستقل",
         "الإعلام الدولي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 19:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -189,7 +189,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 19:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -340,7 +340,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 19:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -380,6 +380,56 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
+      ],
+      "circles": [
+        "التقارير الرسمية الدورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 9,
+      "items": [
+        {
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "First Verified Destruction of Syrian Chemical Munitions Since 2014 Marks ‘Significant Progress’, Disarmament Chief Tells Security Council",
+          "excerpt": "The United Nations disarmament Chief told the Security Council today that the Organisation for the Prohibition of Chemical Weapons (OPCW) has verified the destruction of 42 aerial bombs declared by Syria as part of its chemical weapons prog",
+          "link": "https://press.un.org/en/2026/sc16445.doc.htm",
+          "publishedAt": "2026-09-03T19:11:06.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "Security Council, 10217th Meeting (AM) Syria/OPCW",
+          "excerpt": "The Security Council today will hold a meeting on the situation in the Middle East, focusing on efforts to eliminate the Syrian chemical weapons programme in accordance with resolution 2118 (2013). UN High Representative for Disarmament Aff",
+          "link": "https://press.un.org/en/blog/sc16445",
+          "publishedAt": "2026-09-02T20:39:33.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -393,7 +443,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 19:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -474,7 +524,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 19:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -510,7 +560,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 19:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -546,7 +596,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 19:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -564,42 +614,6 @@
           "publishedAt": "2026-09-03T10:32:43.000Z",
           "files": [
             "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 18:58",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Security Council, 10217th Meeting (AM) Syria/OPCW",
-          "excerpt": "The Security Council today will hold a meeting on the situation in the Middle East, focusing on efforts to eliminate the Syrian chemical weapons programme in accordance with resolution 2118 (2013). UN High Representative for Disarmament Aff",
-          "link": "https://press.un.org/en/blog/sc16445",
-          "publishedAt": "2026-09-02T20:39:33.000Z",
-          "files": [
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
