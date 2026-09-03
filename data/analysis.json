@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T08:24:44.447Z",
+    "generatedAt": "2026-09-03T08:39:54.440Z",
     "windowHours": 24,
-    "from": "2026-09-02T08:24:44.447Z",
-    "to": "2026-09-03T08:24:44.447Z"
+    "from": "2026-09-02T08:39:54.440Z",
+    "to": "2026-09-03T08:39:54.440Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 26,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
-    "contested": 0,
+    "withNew": 0,
+    "stale": 5,
+    "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 170
+    "archiveCycles": 171
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,35 +22,36 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
   "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
+        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
+        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 27,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -63,7 +64,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -96,6 +97,20 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Military source disputes Eisenkot: ‘Netanyahu was updated immediately’",
+          "excerpt": "Former IDF chief says he could not reach Netanyahu for up to two hours after an Israeli F-16 was downed by Syrian fire; military source with access to records says the prime minister immediately approved the response, while Eisenkot’s party",
+          "link": "https://www.ynetnews.com/article/r1qkf7uumx",
+          "publishedAt": "2026-09-02T23:05:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -110,13 +125,41 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Israel assassinated top Assad nuclear adviser in daring commando operation, new account reveals",
+          "excerpt": "Eighteen years after Gen. Muhammad Suleiman was shot dead at his Tartus vacation home, then-PM Olmert says Israeli naval commandos slipped ashore, shot the Syrian president’s confidant three times and escaped undetected",
+          "link": "https://www.ynetnews.com/article/skyeorboze",
+          "publishedAt": "2026-09-02T17:40:09.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Senior Israeli official: Settler violence harming Israel, Syria security deal attempt failed",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)' ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1067,w_1600/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)",
           "link": "https://www.jpost.com/middle-east/article-907352",
           "publishedAt": "2026-09-02T17:26:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Disguised vegetable truck, point-blank fire: how Israel captured Hamas' internal security chief",
+          "excerpt": "Shin Bet tracked Muin al-Arabid for days before raiding a Gaza City villa where he was wounded and seized; Israeli airstrikes covered the force’s withdrawal, and Netanyahu says the captured Hamas official may yield valuable intelligence",
+          "link": "https://www.ynetnews.com/article/sykv116sumg",
+          "publishedAt": "2026-09-02T15:35:33.000Z",
           "files": [
             "israel"
           ],
@@ -136,6 +179,20 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Eisenkot: Netanyahu’s office had October 7 intelligence 3 hours before attack",
+          "excerpt": "Former IDF chief says Netanyahu’s intelligence adviser received reports on unusual Gaza activity about three hours before the Hamas assault began and says the PM must explain why the information did not reach him",
+          "link": "https://www.ynetnews.com/article/s15jkfhumg",
+          "publishedAt": "2026-09-02T11:38:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -144,25 +201,27 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "مراكز الفكر",
+        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 20,
+      "score": 24,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -237,6 +296,18 @@
           "us": true
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Former IDF soldier charged after allegedly preparing to join Islamic State abroad",
+          "excerpt": "Prosecutors say Khamis Sawaed, 30, developed ideological support for Islamic State, planned to travel to Syria or Africa and studied weapons, rockets and drones to prepare for joining the terror group",
+          "link": "https://www.ynetnews.com/article/hjuzefh00fl",
+          "publishedAt": "2026-09-02T11:08:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
@@ -264,7 +335,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -346,7 +417,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -412,7 +483,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
