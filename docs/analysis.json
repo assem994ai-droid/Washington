@@ -1,36 +1,298 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T15:32:22.506Z",
+    "generatedAt": "2026-09-03T15:46:56.873Z",
     "windowHours": 24,
-    "from": "2026-09-02T15:32:22.506Z",
-    "to": "2026-09-03T15:32:22.506Z"
+    "from": "2026-09-02T15:46:56.873Z",
+    "to": "2026-09-03T15:46:56.873Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 5,
+    "items": 25,
+    "files": 6,
     "withNew": 0,
-    "stale": 5,
-    "contested": 1,
+    "stale": 6,
+    "contested": 2,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 190
+    "americanItems": 3,
+    "archiveCycles": 191
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام الدولي",
-    "الملف الإسرائيلي"
+    "الإعلام الدولي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 5,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Middle East Eye",
+        "Ynet News (English)",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 27,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "غموض بالاتفاق الأمني بين سوريا والاحتلال.. ما موقع الانتخابات الإسرائيلية منه؟",
+          "excerpt": "تبدو المفاوضات السورية مع الاحتلال الإسرائيلي بشأن اتفاق أمني أقرب اليوم إلى التجميد منها إلى التسوية، مع اتساع الخلاف من ترتيبات حدودية عسكرية وأمنية إلى ...",
+          "link": "https://www.syria.tv/%D8%BA%D9%85%D9%88%D8%B6-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D9%87%D8%9F",
+          "publishedAt": "2026-09-03T13:54:44.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces raid villages, search homes in southern Syria",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Thursday entered areas in western Daraa and southern Quneitra, southern Syria, accompanied by raids and searches of residents’ homes. Local sources told North Press that Israeli military vehicl",
+          "link": "https://npasyria.com/en/141040/",
+          "publishedAt": "2026-09-03T11:49:19.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel admits it assassinated senior Assad official in Syria in 2008",
+          "excerpt": "<article data-history-node-id=\"447055\" about=\"https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-admits-",
+          "link": "https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008",
+          "publishedAt": "2026-09-03T10:47:20.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "في ظل تصاعد الانتهاكات.. الاحتلال يجري تدريبات في الجولان المحتل",
+          "excerpt": "الفرقة 210 من جيش الاحتلال الإسرائيلي تجري مناورات في الجولان السوري المحتل.",
+          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%B8%D9%84-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AC%D8%B1%D9%8A-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84",
+          "publishedAt": "2026-09-03T08:24:13.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli official says security talks with Syria remain unresolved",
+          "excerpt": "DAMASCUS, Syria (North Press) – An Israeli official on Wednesday said efforts to reach a security agreement with Syria have so far failed, adding that discussions on security arrangements in southern Syria are still ongoing. The Israeli off",
+          "link": "https://npasyria.com/en/141030/",
+          "publishedAt": "2026-09-03T06:52:01.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "ثلاث رصاصات من البحر.. إسرائيل تكشف أسرار اغتيال مستشار الأسد في طرطوس",
+          "excerpt": "إيهود أولمرت يكشف للمرة الأولى أن وحدة \"شاييتت 13\" الإسرائيلية نفذت اغتيال الجنرال السوري محمد سليمان في طرطوس عام 2008.",
+          "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B1%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%81%D9%8A-%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+          "publishedAt": "2026-09-03T05:47:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Military source disputes Eisenkot: ‘Netanyahu was updated immediately’",
+          "excerpt": "Former IDF chief says he could not reach Netanyahu for up to two hours after an Israeli F-16 was downed by Syrian fire; military source with access to records says the prime minister immediately approved the response, while Eisenkot’s party",
+          "link": "https://www.ynetnews.com/article/r1qkf7uumx",
+          "publishedAt": "2026-09-02T23:05:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "267 انتهاكاً خلال آب.. تقرير يوثق تصاعد الاعتداءات الإسرائيلية في سوريا",
+          "excerpt": "وثّق مركز \"سجل\" الحقوقي 267 انتهاكاً ارتكبتها قوات الاحتلال الإسرائيلي داخل الأراضي السورية خلال شهر آب/أغسطس الماضي، لترتفع الحصيلة منذ مطلع عام 2026 إلى 1752",
+          "link": "https://www.syria.tv/267-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%88%D8%AB%D9%82-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-02T21:03:22.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Israel assassinated top Assad nuclear adviser in daring commando operation, new account reveals",
+          "excerpt": "Eighteen years after Gen. Muhammad Suleiman was shot dead at his Tartus vacation home, then-PM Olmert says Israeli naval commandos slipped ashore, shot the Syrian president’s confidant three times and escaped undetected",
+          "link": "https://www.ynetnews.com/article/skyeorboze",
+          "publishedAt": "2026-09-02T17:40:09.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Senior Israeli official: Settler violence harming Israel, Syria security deal attempt failed",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1067,w_1600/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)",
+          "link": "https://www.jpost.com/middle-east/article-907352",
+          "publishedAt": "2026-09-02T17:26:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "The National",
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 16,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Airport ground handler Menzies considers expansion in Gulf, Syria and US despite war uncertainty",
+          "excerpt": "Airport ground handler Menzies Aviation is planning expansion in the Gulf and US, while the Syrian market is of interest, as it aims to sustain its “aggressive” growth despite Iran war-related travel disruptions and higher costs.The aviatio",
+          "link": "https://www.thenationalnews.com/business/aviation/2026/09/03/airport-ground-handler-menzies-considers-expansion-in-gulf-syria-and-us-despite-war-uncertainty/",
+          "publishedAt": "2026-09-03T10:39:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN experts urge Syria to suspend laws linked to displacement",
+          "excerpt": "QAMISHLI, Syria (North Press) – United Nations experts on Thursday urged Syria&#8217;s Transitional Government to suspend laws that contributed to widespread property dispossession and displacement under the previous regime and begin a proc",
+          "link": "https://npasyria.com/en/141027/",
+          "publishedAt": "2026-09-03T06:44:37.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S.-Iran conflict escalates as Tehran strikes Gulf targets after American attacks",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged fresh attacks overnight into Thursday, as Tehran launched missiles and drones toward U.S. military interests and allied countries in the Gulf following a new wave of Ameri",
+          "link": "https://npasyria.com/en/141024/",
+          "publishedAt": "2026-09-03T06:00:10.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
+          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
+          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
+          "publishedAt": "2026-09-02T23:56:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توقيف متعهد المشروع.. وفاة عامل سوري إثر سقوطه من الطابق السابع في غازي عنتاب",
+          "excerpt": "توفي عامل يدعى جمال كحلاوي، يبلغ من العمر 57 عاماً، الأربعاء، إثر سقوطه من الطابق السابع في مبنى قيد الإنشاء بمدينة نيزيب التابعة لولاية غازي عنتاب جنوبي تركيا.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D8%AB%D8%B1-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B2%D9%8A-%D8%B9%D9%86%D8%AA%D8%A7%D8%A8",
+          "publishedAt": "2026-09-02T19:43:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Hamas, counter terrorism messaging, the Houthis, and the IRA",
+          "excerpt": "The post Hamas, counter terrorism messaging, the Houthis, and the IRA appeared first on FDD.",
+          "link": "https://www.fdd.org/in_the_news/2026/09/02/hamas-counter-terrorism-messaging-the-houthis-and-the-ira/",
+          "publishedAt": "2026-09-02T17:35:13.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -47,7 +309,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:16",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -117,116 +379,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "Middle East Eye",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:16",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 14,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "غموض بالاتفاق الأمني بين سوريا والاحتلال.. ما موقع الانتخابات الإسرائيلية منه؟",
-          "excerpt": "تبدو المفاوضات السورية مع الاحتلال الإسرائيلي بشأن اتفاق أمني أقرب اليوم إلى التجميد منها إلى التسوية، مع اتساع الخلاف من ترتيبات حدودية عسكرية وأمنية إلى ...",
-          "link": "https://www.syria.tv/%D8%BA%D9%85%D9%88%D8%B6-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D9%87%D8%9F",
-          "publishedAt": "2026-09-03T13:54:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel admits it assassinated senior Assad official in Syria in 2008",
-          "excerpt": "<article data-history-node-id=\"447055\" about=\"https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-admits-",
-          "link": "https://www.middleeasteye.net/news/israel-admits-it-assassinated-senior-assad-official-syria-2008",
-          "publishedAt": "2026-09-03T10:47:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "في ظل تصاعد الانتهاكات.. الاحتلال يجري تدريبات في الجولان المحتل",
-          "excerpt": "الفرقة 210 من جيش الاحتلال الإسرائيلي تجري مناورات في الجولان السوري المحتل.",
-          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%B8%D9%84-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AC%D8%B1%D9%8A-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84",
-          "publishedAt": "2026-09-03T08:24:13.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ثلاث رصاصات من البحر.. إسرائيل تكشف أسرار اغتيال مستشار الأسد في طرطوس",
-          "excerpt": "إيهود أولمرت يكشف للمرة الأولى أن وحدة \"شاييتت 13\" الإسرائيلية نفذت اغتيال الجنرال السوري محمد سليمان في طرطوس عام 2008.",
-          "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B1%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%81%D9%8A-%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
-          "publishedAt": "2026-09-03T05:47:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "267 انتهاكاً خلال آب.. تقرير يوثق تصاعد الاعتداءات الإسرائيلية في سوريا",
-          "excerpt": "وثّق مركز \"سجل\" الحقوقي 267 انتهاكاً ارتكبتها قوات الاحتلال الإسرائيلي داخل الأراضي السورية خلال شهر آب/أغسطس الماضي، لترتفع الحصيلة منذ مطلع عام 2026 إلى 1752",
-          "link": "https://www.syria.tv/267-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%88%D8%AB%D9%82-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-02T21:03:22.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Senior Israeli official: Settler violence harming Israel, Syria security deal attempt failed",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1067,w_1600/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)",
-          "link": "https://www.jpost.com/middle-east/article-907352",
-          "publishedAt": "2026-09-02T17:26:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -240,7 +392,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:16",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -280,80 +432,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "The National",
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:16",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Airport ground handler Menzies considers expansion in Gulf, Syria and US despite war uncertainty",
-          "excerpt": "Airport ground handler Menzies Aviation is planning expansion in the Gulf and US, while the Syrian market is of interest, as it aims to sustain its “aggressive” growth despite Iran war-related travel disruptions and higher costs.The aviatio",
-          "link": "https://www.thenationalnews.com/business/aviation/2026/09/03/airport-ground-handler-menzies-considers-expansion-in-gulf-syria-and-us-despite-war-uncertainty/",
-          "publishedAt": "2026-09-03T10:39:43.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
-          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
-          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
-          "publishedAt": "2026-09-02T23:56:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توقيف متعهد المشروع.. وفاة عامل سوري إثر سقوطه من الطابق السابع في غازي عنتاب",
-          "excerpt": "توفي عامل يدعى جمال كحلاوي، يبلغ من العمر 57 عاماً، الأربعاء، إثر سقوطه من الطابق السابع في مبنى قيد الإنشاء بمدينة نيزيب التابعة لولاية غازي عنتاب جنوبي تركيا.",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D8%AB%D8%B1-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B2%D9%8A-%D8%B9%D9%86%D8%AA%D8%A7%D8%A8",
-          "publishedAt": "2026-09-02T19:43:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Hamas, counter terrorism messaging, the Houthis, and the IRA",
-          "excerpt": "The post Hamas, counter terrorism messaging, the Houthis, and the IRA appeared first on FDD.",
-          "link": "https://www.fdd.org/in_the_news/2026/09/02/hamas-counter-terrorism-messaging-the-houthis-and-the-ira/",
-          "publishedAt": "2026-09-02T17:35:13.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -367,7 +445,7 @@
         "المصادر الرسمية السورية",
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:16",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -399,6 +477,42 @@
           "publishedAt": "2026-09-02T20:39:33.000Z",
           "files": [
             "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:16",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Lebanon dismantles network linked to Hezbollah, Assad regime",
+          "excerpt": "DAMASCUS, Syria (North Press) – Lebanon has foiled a security sabotage plot targeting Syria’s coastal region after dismantling a network operating between the two countries and linked to Lebanon’s Hezbollah and members of the former al-Assa",
+          "link": "https://npasyria.com/en/141041/",
+          "publishedAt": "2026-09-03T10:32:43.000Z",
+          "files": [
+            "lebanon"
           ],
           "seenBefore": true,
           "us": false
