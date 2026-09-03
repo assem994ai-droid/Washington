@@ -1,166 +1,30 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T17:57:39.344Z",
+    "generatedAt": "2026-09-03T18:14:21.514Z",
     "windowHours": 24,
-    "from": "2026-09-02T17:57:39.344Z",
-    "to": "2026-09-03T17:57:39.344Z"
+    "from": "2026-09-02T18:14:21.514Z",
+    "to": "2026-09-03T18:14:21.514Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
-    "files": 7,
-    "withNew": 1,
+    "items": 27,
+    "files": 8,
+    "withNew": 2,
     "stale": 6,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 200
+    "americanItems": 4,
+    "archiveCycles": 201
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "تلفزيون سوريا",
-        "Al Jazeera English",
-        "North Press Agency (English)",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام الدولي",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 35,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
-          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
-          "publishedAt": "2026-09-03T17:55:21.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Kurdish women who fought ISIL seek place in Syria’s new security forces",
-          "excerpt": "Following the SDF’s dissolution, the Kurdish all-women YPJ is seeking to preserve its combat role in Syria.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-ypj-syrian-army-sv?traffic_source=rss",
-          "publishedAt": "2026-09-03T17:42:28.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. hails progress as Syria begins chemical materials destruction",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria announced on Thursday the start of destroying some chemical materials found in the country, while the United States hailed significant progress in addressing Syria’s chemical weapons file. Speaking duri",
-          "link": "https://npasyria.com/en/141052/",
-          "publishedAt": "2026-09-03T16:14:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "نُقلوا إلى العراق.. قائمة بأسماء 4700 سوري اتُّهموا بالانتماء إلى \"داعش\"",
-          "excerpt": "تداول ناشطون وعائلات معتقلين قائمة تضم أسماء أكثر من 4700 سوري نُقلوا من مراكز احتجاز كانت تديرها \"قوات سوريا الديمقراطية\" (قسد) شمال شرقي سوريا..",
-          "link": "https://www.syria.tv/%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-4700-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D8%AA%D9%91%D9%8F%D9%87%D9%85%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4",
-          "publishedAt": "2026-09-03T16:07:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Airport ground handler Menzies considers expansion in Gulf, Syria and US despite war uncertainty",
-          "excerpt": "Airport ground handler Menzies Aviation is planning expansion in the Gulf and US, while the Syrian market is of interest, as it aims to sustain its “aggressive” growth despite Iran war-related travel disruptions and higher costs.The aviatio",
-          "link": "https://www.thenationalnews.com/business/aviation/2026/09/03/airport-ground-handler-menzies-considers-expansion-in-gulf-syria-and-us-despite-war-uncertainty/",
-          "publishedAt": "2026-09-03T10:39:43.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UN experts urge Syria to suspend laws linked to displacement",
-          "excerpt": "QAMISHLI, Syria (North Press) – United Nations experts on Thursday urged Syria&#8217;s Transitional Government to suspend laws that contributed to widespread property dispossession and displacement under the previous regime and begin a proc",
-          "link": "https://npasyria.com/en/141027/",
-          "publishedAt": "2026-09-03T06:44:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S.-Iran conflict escalates as Tehran strikes Gulf targets after American attacks",
-          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged fresh attacks overnight into Thursday, as Tehran launched missiles and drones toward U.S. military interests and allied countries in the Gulf following a new wave of Ameri",
-          "link": "https://npasyria.com/en/141024/",
-          "publishedAt": "2026-09-03T06:00:10.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
-          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
-          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
-          "publishedAt": "2026-09-02T23:56:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توقيف متعهد المشروع.. وفاة عامل سوري إثر سقوطه من الطابق السابع في غازي عنتاب",
-          "excerpt": "توفي عامل يدعى جمال كحلاوي، يبلغ من العمر 57 عاماً، الأربعاء، إثر سقوطه من الطابق السابع في مبنى قيد الإنشاء بمدينة نيزيب التابعة لولاية غازي عنتاب جنوبي تركيا.",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D8%AB%D8%B1-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B2%D9%8A-%D8%B9%D9%86%D8%AA%D8%A7%D8%A8",
-          "publishedAt": "2026-09-02T19:43:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -168,22 +32,36 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
-        "سانا — قسم السياسة",
         "تلفزيون سوريا",
+        "سانا — قسم السياسة",
         "North Press Agency (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 15,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قصف إسرائيلي يستهدف بيت جن وحاجز مؤقت في ريف القنيطرة",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الخميس، تلة باط الوردة المحيطة بقرية بيت جن في ريف دمشق الغربي بأربع قذائف مدفعية، وفقاً لـ\"الإخبارية السورية\".",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%AD%D8%A7%D8%AC%D8%B2-%D9%85%D8%A4%D9%82%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-03T18:06:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -286,6 +164,177 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "Al Jazeera English",
+        "North Press Agency (English)",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام الدولي",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 22,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
+          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
+          "publishedAt": "2026-09-03T17:55:21.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Kurdish women who fought ISIL seek place in Syria’s new security forces",
+          "excerpt": "Following the SDF’s dissolution, the Kurdish all-women YPJ is seeking to preserve its combat role in Syria.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-ypj-syrian-army-sv?traffic_source=rss",
+          "publishedAt": "2026-09-03T17:42:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. hails progress as Syria begins chemical materials destruction",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria announced on Thursday the start of destroying some chemical materials found in the country, while the United States hailed significant progress in addressing Syria’s chemical weapons file. Speaking duri",
+          "link": "https://npasyria.com/en/141052/",
+          "publishedAt": "2026-09-03T16:14:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "نُقلوا إلى العراق.. قائمة بأسماء 4700 سوري اتُّهموا بالانتماء إلى \"داعش\"",
+          "excerpt": "تداول ناشطون وعائلات معتقلين قائمة تضم أسماء أكثر من 4700 سوري نُقلوا من مراكز احتجاز كانت تديرها \"قوات سوريا الديمقراطية\" (قسد) شمال شرقي سوريا..",
+          "link": "https://www.syria.tv/%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-4700-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D8%AA%D9%91%D9%8F%D9%87%D9%85%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4",
+          "publishedAt": "2026-09-03T16:07:24.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Airport ground handler Menzies considers expansion in Gulf, Syria and US despite war uncertainty",
+          "excerpt": "Airport ground handler Menzies Aviation is planning expansion in the Gulf and US, while the Syrian market is of interest, as it aims to sustain its “aggressive” growth despite Iran war-related travel disruptions and higher costs.The aviatio",
+          "link": "https://www.thenationalnews.com/business/aviation/2026/09/03/airport-ground-handler-menzies-considers-expansion-in-gulf-syria-and-us-despite-war-uncertainty/",
+          "publishedAt": "2026-09-03T10:39:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN experts urge Syria to suspend laws linked to displacement",
+          "excerpt": "QAMISHLI, Syria (North Press) – United Nations experts on Thursday urged Syria&#8217;s Transitional Government to suspend laws that contributed to widespread property dispossession and displacement under the previous regime and begin a proc",
+          "link": "https://npasyria.com/en/141027/",
+          "publishedAt": "2026-09-03T06:44:37.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S.-Iran conflict escalates as Tehran strikes Gulf targets after American attacks",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged fresh attacks overnight into Thursday, as Tehran launched missiles and drones toward U.S. military interests and allied countries in the Gulf following a new wave of Ameri",
+          "link": "https://npasyria.com/en/141024/",
+          "publishedAt": "2026-09-03T06:00:10.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
+          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
+          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
+          "publishedAt": "2026-09-02T23:56:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توقيف متعهد المشروع.. وفاة عامل سوري إثر سقوطه من الطابق السابع في غازي عنتاب",
+          "excerpt": "توفي عامل يدعى جمال كحلاوي، يبلغ من العمر 57 عاماً، الأربعاء، إثر سقوطه من الطابق السابع في مبنى قيد الإنشاء بمدينة نيزيب التابعة لولاية غازي عنتاب جنوبي تركيا.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D8%AB%D8%B1-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B2%D9%8A-%D8%B9%D9%86%D8%AA%D8%A7%D8%A8",
+          "publishedAt": "2026-09-02T19:43:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "مراكز الفكر"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Syria Is Off the Terror List, but Washington Still Has Leverage",
+          "excerpt": "US President Donald Trump has fulfilled the promise he made to Syrian President Ahmad al-Sharaa in May 2025, to&#160;give&#160;Syrians “a chance at greatness.” At the end of August of this year, Trump... The post Syria Is Off the Terror Lis",
+          "link": "https://www.fdd.org/analysis/2026/09/03/syria-is-off-the-terror-list-but-washington-still-has-leverage/",
+          "publishedAt": "2026-09-03T18:10:39.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -299,7 +348,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -352,7 +401,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -433,7 +482,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -469,7 +518,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -505,7 +554,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
