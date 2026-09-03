@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T14:30:43.674Z",
+    "generatedAt": "2026-09-03T14:58:20.438Z",
     "windowHours": 24,
-    "from": "2026-09-02T14:30:43.674Z",
-    "to": "2026-09-03T14:30:43.674Z"
+    "from": "2026-09-02T14:58:20.438Z",
+    "to": "2026-09-03T14:58:20.438Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 24,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 187
+    "americanItems": 3,
+    "archiveCycles": 188
   },
   "emptyCircles": [
     "الكونغرس",
@@ -43,7 +43,7 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -197,13 +197,13 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 20,
+      "usItems": 1,
+      "score": 16,
       "items": [
         {
           "source": "The National",
@@ -276,71 +276,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump suggests renaming Strait of Hormuz ‘Trump Strait’",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump claimed on Wednesday that the United States controls the Strait of Hormuz and suggested renaming the strategic waterway the “Trump Strait.” In a post on Truth Social, Trump wrote: ",
-          "link": "https://npasyria.com/en/141013/",
-          "publishedAt": "2026-09-02T16:40:17.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 19,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Turkey denies claims SDF-linked foreign fighters will be allowed to enter country",
-          "excerpt": "Turkey’s Defense Ministry has denied reports that foreign fighters affiliated with the recently dissolved Syrian Democratic Forces (SDF) will leave Syria and that some will be allowed to enter Turkey, the state-run Anadolu news agency repor",
-          "link": "https://turkishminute.com/2026/09/03/turkey-denies-claims-sdf-linked-foreign-fighters-will-be-allowed-to-enter-country/",
-          "publishedAt": "2026-09-03T14:30:08.000Z",
-          "files": [
-            "sdf",
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الهلالي: 9 آلاف اسم من \"قسد\" مرشح للانضمام إلى القوات الأمنية في الحسكة",
-          "excerpt": "كشف نائب محافظ الحسكة، أحمد الهلالي عن تقديم أكثر من 9 آلاف اسم لمرشحين للانضمام إلى القوات الأمنية، ضمن الترتيبات الجارية..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84%D9%8A-9-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D8%B3%D9%85-%D9%85%D9%86-%D9%82%D8%B3%D8%AF-%D9%85%D8%B1%D8%B4%D8%AD-%D9%84%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
-          "publishedAt": "2026-09-02T20:07:18.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -360,7 +295,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -430,6 +365,59 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "Turkish Minute",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الملف التركي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:30",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 10,
+      "items": [
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Turkey denies claims SDF-linked foreign fighters will be allowed to enter country",
+          "excerpt": "Turkey’s Defense Ministry has denied reports that foreign fighters affiliated with the recently dissolved Syrian Democratic Forces (SDF) will leave Syria and that some will be allowed to enter Turkey, the state-run Anadolu news agency repor",
+          "link": "https://turkishminute.com/2026/09/03/turkey-denies-claims-sdf-linked-foreign-fighters-will-be-allowed-to-enter-country/",
+          "publishedAt": "2026-09-03T14:30:08.000Z",
+          "files": [
+            "sdf",
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الهلالي: 9 آلاف اسم من \"قسد\" مرشح للانضمام إلى القوات الأمنية في الحسكة",
+          "excerpt": "كشف نائب محافظ الحسكة، أحمد الهلالي عن تقديم أكثر من 9 آلاف اسم لمرشحين للانضمام إلى القوات الأمنية، ضمن الترتيبات الجارية..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84%D9%8A-9-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D8%B3%D9%85-%D9%85%D9%86-%D9%82%D8%B3%D8%AF-%D9%85%D8%B1%D8%B4%D8%AD-%D9%84%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
+          "publishedAt": "2026-09-02T20:07:18.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -443,7 +431,7 @@
         "المصادر الرسمية السورية",
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -493,7 +481,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 14:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
