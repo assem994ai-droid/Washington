@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T13:23:07.778Z",
+    "generatedAt": "2026-09-03T13:58:46.664Z",
     "windowHours": 24,
-    "from": "2026-09-02T13:23:07.778Z",
-    "to": "2026-09-03T13:23:07.778Z"
+    "from": "2026-09-02T13:58:46.664Z",
+    "to": "2026-09-03T13:58:46.664Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 184
+    "archiveCycles": 185
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,9 +32,9 @@
       "contested": true,
       "independentSources": 6,
       "sources": [
+        "تلفزيون سوريا",
         "North Press Agency (English)",
         "Middle East Eye",
-        "تلفزيون سوريا",
         "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
@@ -45,14 +45,28 @@
         "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:06",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 31,
+      "score": 41,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "غموض بالاتفاق الأمني بين سوريا والاحتلال.. ما موقع الانتخابات الإسرائيلية منه؟",
+          "excerpt": "تبدو المفاوضات السورية مع الاحتلال الإسرائيلي بشأن اتفاق أمني أقرب اليوم إلى التجميد منها إلى التسوية، مع اتساع الخلاف من ترتيبات حدودية عسكرية وأمنية إلى ...",
+          "link": "https://www.syria.tv/%D8%BA%D9%85%D9%88%D8%B6-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D9%87%D8%9F",
+          "publishedAt": "2026-09-03T13:54:44.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -211,91 +225,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 24,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الدفاع التركية تؤكد استمرار جهودها لدعم الاستقرار في سوريا وتعزيز التعاون المشترك",
-          "excerpt": "أكدت وزارة الدفاع التركية اليوم الخميس، أنها ستواصل جهودها للإسهام بإرساء الأمن والاستقرار في سوريا وعودة الحياة اليومية للشعب السوري إلى طبيعتها.",
-          "link": "https://sana.sy/syria-and-the-world/2571312/",
-          "publishedAt": "2026-09-03T13:21:01.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 03-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (03-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-03-09-2026",
-          "publishedAt": "2026-09-03T07:26:03.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مباحثات سورية تركية لتعزيز التعاون في النقل البري وتوسيع فرص الاستثمار",
-          "excerpt": "مباحثات سورية تركية لتعزيز التعاون في النقل البري والسكك الحديدية، والاستفادة من الخبرات التركية، وبحث فرص الاستثمار والمشاريع المطروحة في سوريا.",
-          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A-%D9%88%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
-          "publishedAt": "2026-09-03T04:50:39.000Z",
-          "files": [
-            "turkey",
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Ankara Is Baiting Israel, Not the Reverse",
-          "excerpt": "Before dawn on August 18, Israeli jets destroyed the runway at Syria’s Abu al-Duhur air base in Idlib. Within hours, America’s ambassador in Ankara, Tom Barrack, pronounced the raid an unnecessary... The post Ankara Is Baiting Israel, Not t",
-          "link": "https://www.fdd.org/analysis/2026/09/02/ankara-is-baiting-israel-not-the-reverse/",
-          "publishedAt": "2026-09-02T17:26:49.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -312,7 +241,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -407,6 +336,91 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:23",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الدفاع التركية تؤكد استمرار جهودها لدعم الاستقرار في سوريا وتعزيز التعاون المشترك",
+          "excerpt": "أكدت وزارة الدفاع التركية اليوم الخميس، أنها ستواصل جهودها للإسهام بإرساء الأمن والاستقرار في سوريا وعودة الحياة اليومية للشعب السوري إلى طبيعتها.",
+          "link": "https://sana.sy/syria-and-the-world/2571312/",
+          "publishedAt": "2026-09-03T13:21:01.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 03-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (03-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-03-09-2026",
+          "publishedAt": "2026-09-03T07:26:03.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية تركية لتعزيز التعاون في النقل البري وتوسيع فرص الاستثمار",
+          "excerpt": "مباحثات سورية تركية لتعزيز التعاون في النقل البري والسكك الحديدية، والاستفادة من الخبرات التركية، وبحث فرص الاستثمار والمشاريع المطروحة في سوريا.",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A-%D9%88%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
+          "publishedAt": "2026-09-03T04:50:39.000Z",
+          "files": [
+            "turkey",
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Ankara Is Baiting Israel, Not the Reverse",
+          "excerpt": "Before dawn on August 18, Israeli jets destroyed the runway at Syria’s Abu al-Duhur air base in Idlib. Within hours, America’s ambassador in Ankara, Tom Barrack, pronounced the raid an unnecessary... The post Ankara Is Baiting Israel, Not t",
+          "link": "https://www.fdd.org/analysis/2026/09/02/ankara-is-baiting-israel-not-the-reverse/",
+          "publishedAt": "2026-09-02T17:26:49.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -420,7 +434,7 @@
         "المصادر الرسمية السورية",
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -470,7 +484,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -506,7 +520,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
