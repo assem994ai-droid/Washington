@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T23:37:59.309Z",
+    "generatedAt": "2026-09-03T23:46:33.889Z",
     "windowHours": 24,
-    "from": "2026-09-02T23:37:59.309Z",
-    "to": "2026-09-03T23:37:59.309Z"
+    "from": "2026-09-02T23:46:33.889Z",
+    "to": "2026-09-03T23:46:33.889Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 15,
-    "files": 8,
+    "items": 20,
+    "files": 7,
     "withNew": 0,
-    "stale": 8,
+    "stale": 7,
     "contested": 1,
-    "echoed": 0,
+    "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 219
+    "archiveCycles": 220
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,8 +26,8 @@
   ],
   "errors": [
     {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
       "message": "الخادم ردّ برمز 403"
     }
   ],
@@ -41,20 +41,20 @@
       "sources": [
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "The National",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "مراكز الفكر",
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 12,
+      "usItems": 0,
+      "score": 10,
       "items": [
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -81,16 +81,28 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "U.S. hails progress as Syria begins chemical materials destruction",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria announced on Thursday the start of destroying some chemical materials found in the country, while the United States hailed significant progress in addressing Syria’s chemical weapons file. Speaking duri",
-          "link": "https://npasyria.com/en/141052/",
-          "publishedAt": "2026-09-03T16:14:28.000Z",
+          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
+          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
+          "publishedAt": "2026-09-03T17:55:21.000Z",
           "files": [],
           "seenBefore": true,
-          "us": true
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "نُقلوا إلى العراق.. قائمة بأسماء 4700 سوري اتُّهموا بالانتماء إلى \"داعش\"",
+          "excerpt": "تداول ناشطون وعائلات معتقلين قائمة تضم أسماء أكثر من 4700 سوري نُقلوا من مراكز احتجاز كانت تديرها \"قوات سوريا الديمقراطية\" (قسد) شمال شرقي سوريا..",
+          "link": "https://www.syria.tv/%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-4700-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D8%AA%D9%91%D9%8F%D9%87%D9%85%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4",
+          "publishedAt": "2026-09-03T16:07:24.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "The National",
@@ -105,13 +117,13 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "UN experts urge Syria to suspend laws linked to displacement",
-          "excerpt": "QAMISHLI, Syria (North Press) – United Nations experts on Thursday urged Syria&#8217;s Transitional Government to suspend laws that contributed to widespread property dispossession and displacement under the previous regime and begin a proc",
-          "link": "https://npasyria.com/en/141027/",
-          "publishedAt": "2026-09-03T06:44:37.000Z",
+          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
+          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
+          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
+          "publishedAt": "2026-09-02T23:56:28.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -125,29 +137,29 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "North Press Agency (English)",
+        "تلفزيون سوريا",
         "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 10,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces enter Syria’s Quneitra countryside, shell Damascus outskirts",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered northern Syria’s Quneitra countryside on Thursday with three military vehicles and shelled the outskirts of Beit Jinn in western Damascus countryside. North Press sources in Quneitra an",
-          "link": "https://npasyria.com/en/141055/",
-          "publishedAt": "2026-09-03T18:40:41.000Z",
+          "title": "قصف إسرائيلي يستهدف بيت جن وحاجز مؤقت في ريف القنيطرة",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الخميس، تلة باط الوردة المحيطة بقرية بيت جن في ريف دمشق الغربي بأربع قذائف مدفعية، وفقاً لـ\"الإخبارية السورية\".",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%AD%D8%A7%D8%AC%D8%B2-%D9%85%D8%A4%D9%82%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-03T18:06:41.000Z",
           "files": [
             "israel"
           ],
@@ -169,13 +181,13 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid villages, search homes in southern Syria",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Thursday entered areas in western Daraa and southern Quneitra, southern Syria, accompanied by raids and searches of residents’ homes. Local sources told North Press that Israeli military vehicl",
-          "link": "https://npasyria.com/en/141040/",
-          "publishedAt": "2026-09-03T11:49:19.000Z",
+          "title": "غموض بالاتفاق الأمني بين سوريا والاحتلال.. ما موقع الانتخابات الإسرائيلية منه؟",
+          "excerpt": "تبدو المفاوضات السورية مع الاحتلال الإسرائيلي بشأن اتفاق أمني أقرب اليوم إلى التجميد منها إلى التسوية، مع اتساع الخلاف من ترتيبات حدودية عسكرية وأمنية إلى ...",
+          "link": "https://www.syria.tv/%D8%BA%D9%85%D9%88%D8%B6-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D9%87%D8%9F",
+          "publishedAt": "2026-09-03T13:54:44.000Z",
           "files": [
             "israel"
           ],
@@ -183,15 +195,163 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli official says security talks with Syria remain unresolved",
-          "excerpt": "DAMASCUS, Syria (North Press) – An Israeli official on Wednesday said efforts to reach a security agreement with Syria have so far failed, adding that discussions on security arrangements in southern Syria are still ongoing. The Israeli off",
-          "link": "https://npasyria.com/en/141030/",
-          "publishedAt": "2026-09-03T06:52:01.000Z",
+          "title": "في ظل تصاعد الانتهاكات.. الاحتلال يجري تدريبات في الجولان المحتل",
+          "excerpt": "الفرقة 210 من جيش الاحتلال الإسرائيلي تجري مناورات في الجولان السوري المحتل.",
+          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%B8%D9%84-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AC%D8%B1%D9%8A-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84",
+          "publishedAt": "2026-09-03T08:24:13.000Z",
           "files": [
-            "israel",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "ثلاث رصاصات من البحر.. إسرائيل تكشف أسرار اغتيال مستشار الأسد في طرطوس",
+          "excerpt": "إيهود أولمرت يكشف للمرة الأولى أن وحدة \"شاييتت 13\" الإسرائيلية نفذت اغتيال الجنرال السوري محمد سليمان في طرطوس عام 2008.",
+          "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B1%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%81%D9%8A-%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+          "publishedAt": "2026-09-03T05:47:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:37",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": true,
+      "usItems": 2,
+      "score": 9,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"هذا رائع\".. ترمب يرحب ببروز سوريا ممراً بديلاً للطاقة والتجارة",
+          "excerpt": "رحّب الرئيس الأميركي دونالد ترمب بتقرير لصحيفة \"واشنطن بوست\" حول تنامي الدور الإقليمي لسوريا كممر بديل لنقل الطاقة والتجارة، في ظل تعطل حركة الشحن عبر مضيق هرمز",
+          "link": "https://www.syria.tv/%D9%87%D8%B0%D8%A7-%D8%B1%D8%A7%D8%A6%D8%B9-%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B1%D8%AD%D8%A8-%D8%A8%D8%A8%D8%B1%D9%88%D8%B2-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%85%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AF%D9%8A%D9%84%D8%A7%D9%8B-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-03T21:04:50.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "ترامب يرحب بتنامي دور سوريا ممراً بديلاً للطاقة والتجارة بعيداً عن مضيق ‌‏هرمز",
+          "excerpt": "رحب الرئيس الأمريكي دونالد ترامب بما أورده تقرير لصحيفة \"واشنطن ‌‏بوست\" حول تنامي دور سوريا ممراً بديلاً لنقل الطاقة والتجارة في المنطقة، ‌‏في ظل تعطل حركة الشحن عبر مضيق هرمز على خلفية الحرب الأمريكية ‌‏الإسرائيلية-الإيرانية.‏",
+          "link": "https://sana.sy/syria-and-the-world/2571531/",
+          "publishedAt": "2026-09-03T17:32:24.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:37",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 9,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من إدلب إلى دمشق.. تقرير يكشف جذور العلاقة الاستراتيجية بين تركيا والشرع",
+          "excerpt": "كشف تقرير نشرته دورية \"Middle East Journal\" الأميركية تفاصيل عن تطور العلاقة بين تركيا والرئيس السوري أحمد الشرع..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AC%D8%B0%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B9",
+          "publishedAt": "2026-09-03T17:40:06.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الدفاع التركية تؤكد استمرار جهودها لدعم الاستقرار في سوريا وتعزيز التعاون المشترك",
+          "excerpt": "أكدت وزارة الدفاع التركية اليوم الخميس، أنها ستواصل جهودها للإسهام بإرساء الأمن والاستقرار في سوريا وعودة الحياة اليومية للشعب السوري إلى طبيعتها.",
+          "link": "https://sana.sy/syria-and-the-world/2571312/",
+          "publishedAt": "2026-09-03T13:21:01.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 03-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (03-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-03-09-2026",
+          "publishedAt": "2026-09-03T07:26:03.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية تركية لتعزيز التعاون في النقل البري وتوسيع فرص الاستثمار",
+          "excerpt": "مباحثات سورية تركية لتعزيز التعاون في النقل البري والسكك الحديدية، والاستفادة من الخبرات التركية، وبحث فرص الاستثمار والمشاريع المطروحة في سوريا.",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A-%D9%88%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1",
+          "publishedAt": "2026-09-03T04:50:39.000Z",
+          "files": [
+            "turkey",
+            "economy",
             "diplomacy"
           ],
           "seenBefore": true,
@@ -211,7 +371,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -247,7 +407,7 @@
       "circles": [
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -273,78 +433,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:06",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الدفاع التركية تؤكد استمرار جهودها لدعم الاستقرار في سوريا وتعزيز التعاون المشترك",
-          "excerpt": "أكدت وزارة الدفاع التركية اليوم الخميس، أنها ستواصل جهودها للإسهام بإرساء الأمن والاستقرار في سوريا وعودة الحياة اليومية للشعب السوري إلى طبيعتها.",
-          "link": "https://sana.sy/syria-and-the-world/2571312/",
-          "publishedAt": "2026-09-03T13:21:01.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:06",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 2,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "ترامب يرحب بتنامي دور سوريا ممراً بديلاً للطاقة والتجارة بعيداً عن مضيق ‌‏هرمز",
-          "excerpt": "رحب الرئيس الأمريكي دونالد ترامب بما أورده تقرير لصحيفة \"واشنطن ‌‏بوست\" حول تنامي دور سوريا ممراً بديلاً لنقل الطاقة والتجارة في المنطقة، ‌‏في ظل تعطل حركة الشحن عبر مضيق هرمز على خلفية الحرب الأمريكية ‌‏الإسرائيلية-الإيرانية.‏",
-          "link": "https://sana.sy/syria-and-the-world/2571531/",
-          "publishedAt": "2026-09-03T17:32:24.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -356,7 +444,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -374,42 +462,6 @@
           "publishedAt": "2026-09-03T19:11:06.000Z",
           "files": [
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 23:06",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Lebanon dismantles network linked to Hezbollah, Assad regime",
-          "excerpt": "DAMASCUS, Syria (North Press) – Lebanon has foiled a security sabotage plot targeting Syria’s coastal region after dismantling a network operating between the two countries and linked to Lebanon’s Hezbollah and members of the former al-Assa",
-          "link": "https://npasyria.com/en/141041/",
-          "publishedAt": "2026-09-03T10:32:43.000Z",
-          "files": [
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
