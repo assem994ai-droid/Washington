@@ -1,55 +1,54 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T15:46:56.873Z",
+    "generatedAt": "2026-09-03T15:56:27.965Z",
     "windowHours": 24,
-    "from": "2026-09-02T15:46:56.873Z",
-    "to": "2026-09-03T15:46:56.873Z"
+    "from": "2026-09-02T15:56:27.965Z",
+    "to": "2026-09-03T15:56:27.965Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 23,
     "files": 6,
     "withNew": 0,
     "stale": 6,
-    "contested": 2,
+    "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 191
+    "archiveCycles": 192
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام الدولي"
+    "الإعلام الدولي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 5,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "Middle East Eye",
-        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 19,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -137,20 +136,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Military source disputes Eisenkot: ‘Netanyahu was updated immediately’",
-          "excerpt": "Former IDF chief says he could not reach Netanyahu for up to two hours after an Israeli F-16 was downed by Syrian fire; military source with access to records says the prime minister immediately approved the response, while Eisenkot’s party",
-          "link": "https://www.ynetnews.com/article/r1qkf7uumx",
-          "publishedAt": "2026-09-02T23:05:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -158,20 +143,6 @@
           "excerpt": "وثّق مركز \"سجل\" الحقوقي 267 انتهاكاً ارتكبتها قوات الاحتلال الإسرائيلي داخل الأراضي السورية خلال شهر آب/أغسطس الماضي، لترتفع الحصيلة منذ مطلع عام 2026 إلى 1752",
           "link": "https://www.syria.tv/267-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D9%8B-%D8%AE%D9%84%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%88%D8%AB%D9%82-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-09-02T21:03:22.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Israel assassinated top Assad nuclear adviser in daring commando operation, new account reveals",
-          "excerpt": "Eighteen years after Gen. Muhammad Suleiman was shot dead at his Tartus vacation home, then-PM Olmert says Israeli naval commandos slipped ashore, shot the Syrian president’s confidant three times and escaped undetected",
-          "link": "https://www.ynetnews.com/article/skyeorboze",
-          "publishedAt": "2026-09-02T17:40:09.000Z",
           "files": [
             "israel"
           ],
@@ -211,7 +182,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -309,7 +280,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -392,7 +363,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -445,7 +416,7 @@
         "المصادر الرسمية السورية",
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -495,7 +466,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:16",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 15:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
