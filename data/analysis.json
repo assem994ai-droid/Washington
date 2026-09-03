@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T01:06:13.059Z",
+    "generatedAt": "2026-09-03T01:24:55.606Z",
     "windowHours": 24,
-    "from": "2026-09-02T01:06:13.059Z",
-    "to": "2026-09-03T01:06:13.059Z"
+    "from": "2026-09-02T01:24:55.606Z",
+    "to": "2026-09-03T01:24:55.606Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 18,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 156
+    "americanItems": 4,
+    "archiveCycles": 157
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,9 +27,9 @@
   ],
   "errors": [
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "message": "The operation was aborted due to timeout"
     }
   ],
   "files": [
@@ -38,10 +38,11 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
@@ -51,13 +52,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 00:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 0,
-      "score": 12,
+      "usItems": 2,
+      "score": 24,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -96,6 +97,18 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump suggests renaming Strait of Hormuz ‘Trump Strait’",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump claimed on Wednesday that the United States controls the Strait of Hormuz and suggested renaming the strategic waterway the “Trump Strait.” In a post on Truth Social, Trump wrote: ",
+          "link": "https://npasyria.com/en/141013/",
+          "publishedAt": "2026-09-02T16:40:17.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
@@ -106,6 +119,30 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN envoy says France backs Kurdish rights, dialogue in Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – France will continue supporting efforts to strengthen cohesion among Syria’s different communities, with the integration of Kurds into the country’s emerging political and institutional framework needing to b",
+          "link": "https://npasyria.com/en/141003/",
+          "publishedAt": "2026-09-02T07:36:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran says 11 killed in U.S. strikes as fighting resumes",
+          "excerpt": "DAMASCUS, Syria (North Press) – Iranian state-run news agency IRNA reported on Tuesday that at least 11 people were killed in U.S. strikes on several areas of Iran overnight. The agency said a missile strike on Khuzestan Governorate in sout",
+          "link": "https://npasyria.com/en/141000/",
+          "publishedAt": "2026-09-02T07:26:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "The National",
@@ -137,7 +174,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 00:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -164,7 +201,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Senior Israeli official: Settler violence harming Israel, Syria security deal attempt failed",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1067,w_1600/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/680320' alt='IDF soldier operating on Israel's border with Syria, September 9, 2025. (photo credit: MARC ISRAEL SELLEM)' ",
           "link": "https://www.jpost.com/middle-east/article-907352",
           "publishedAt": "2026-09-02T17:26:52.000Z",
           "files": [
@@ -203,7 +240,7 @@
         "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 00:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -259,22 +296,23 @@
     {
       "id": "sdf",
       "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 00:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 4,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -304,6 +342,21 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Turkey&#8217;s Erdogan says SDF integration opens new era for region",
+          "excerpt": "DAMASCUS, Syria (North Press) – Turkish President Recep Tayyip Erdogan on Wednesday said the announcement of the dissolution of the Syrian Democratic Forces (SDF) and their integration into the Syrian state &#8220;open the door to a new era",
+          "link": "https://npasyria.com/en/141010/",
+          "publishedAt": "2026-09-02T12:38:19.000Z",
+          "files": [
+            "sdf",
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -319,7 +372,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 00:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
