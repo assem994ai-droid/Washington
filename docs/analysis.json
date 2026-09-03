@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-03T08:39:54.440Z",
+    "generatedAt": "2026-09-03T10:23:35.886Z",
     "windowHours": 24,
-    "from": "2026-09-02T08:39:54.440Z",
-    "to": "2026-09-03T08:39:54.440Z"
+    "from": "2026-09-02T10:23:35.886Z",
+    "to": "2026-09-03T10:23:35.886Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 16,
     "files": 5,
     "withNew": 0,
     "stale": 5,
-    "contested": 1,
+    "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 171
+    "americanItems": 2,
+    "archiveCycles": 172
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,36 +22,40 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 5,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 13,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -68,21 +72,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli official says security talks with Syria remain unresolved",
-          "excerpt": "DAMASCUS, Syria (North Press) – An Israeli official on Wednesday said efforts to reach a security agreement with Syria have so far failed, adding that discussions on security arrangements in southern Syria are still ongoing. The Israeli off",
-          "link": "https://npasyria.com/en/141030/",
-          "publishedAt": "2026-09-03T06:52:01.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -90,20 +79,6 @@
           "excerpt": "إيهود أولمرت يكشف للمرة الأولى أن وحدة \"شاييتت 13\" الإسرائيلية نفذت اغتيال الجنرال السوري محمد سليمان في طرطوس عام 2008.",
           "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B1%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%81%D9%8A-%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
           "publishedAt": "2026-09-03T05:47:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Military source disputes Eisenkot: ‘Netanyahu was updated immediately’",
-          "excerpt": "Former IDF chief says he could not reach Netanyahu for up to two hours after an Israeli F-16 was downed by Syrian fire; military source with access to records says the prime minister immediately approved the response, while Eisenkot’s party",
-          "link": "https://www.ynetnews.com/article/r1qkf7uumx",
-          "publishedAt": "2026-09-02T23:05:27.000Z",
           "files": [
             "israel"
           ],
@@ -125,20 +100,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Israel assassinated top Assad nuclear adviser in daring commando operation, new account reveals",
-          "excerpt": "Eighteen years after Gen. Muhammad Suleiman was shot dead at his Tartus vacation home, then-PM Olmert says Israeli naval commandos slipped ashore, shot the Syrian president’s confidant three times and escaped undetected",
-          "link": "https://www.ynetnews.com/article/skyeorboze",
-          "publishedAt": "2026-09-02T17:40:09.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
@@ -153,169 +114,16 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Disguised vegetable truck, point-blank fire: how Israel captured Hamas' internal security chief",
-          "excerpt": "Shin Bet tracked Muin al-Arabid for days before raiding a Gaza City villa where he was wounded and seized; Israeli airstrikes covered the force’s withdrawal, and Netanyahu says the captured Hamas official may yield valuable intelligence",
-          "link": "https://www.ynetnews.com/article/sykv116sumg",
-          "publishedAt": "2026-09-02T15:35:33.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
           "title": "Netanyahu vows no retreat from Gaza after 'terrifying' Israeli commando raid",
-          "excerpt": "Prime Minister Benjamin Netanyahu said Israel will not withdraw from areas its occupies in Gaza, a day after special forces seized a Hamas official during a raid in a densely populated district. Mr Netanyahu spoke on Wednesday at a military",
+          "excerpt": "Prime Minister Benjamin Netanyahu said Israel will not withdraw from areas it occupies in Gaza, a day after special forces seized a Hamas official during a raid in a densely populated district. Mr Netanyahu spoke on Wednesday at a military ",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/02/netanyahu-vows-no-retreat-from-gaza-after-terrifying-israeli-commando-raid/",
           "publishedAt": "2026-09-02T15:16:22.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Eisenkot: Netanyahu’s office had October 7 intelligence 3 hours before attack",
-          "excerpt": "Former IDF chief says Netanyahu’s intelligence adviser received reports on unusual Gaza activity about three hours before the Hamas assault began and says the PM must explain why the information did not reach him",
-          "link": "https://www.ynetnews.com/article/s15jkfhumg",
-          "publishedAt": "2026-09-02T11:38:40.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 5,
-      "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Ynet News (English)",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "مراكز الفكر",
-        "الملف الإسرائيلي",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 24,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UN experts urge Syria to suspend laws linked to displacement",
-          "excerpt": "QAMISHLI, Syria (North Press) – United Nations experts on Thursday urged Syria&#8217;s Transitional Government to suspend laws that contributed to widespread property dispossession and displacement under the previous regime and begin a proc",
-          "link": "https://npasyria.com/en/141027/",
-          "publishedAt": "2026-09-03T06:44:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S.-Iran conflict escalates as Tehran strikes Gulf targets after American attacks",
-          "excerpt": "QAMISHLI, Syria (North Press) – The United States and Iran exchanged fresh attacks overnight into Thursday, as Tehran launched missiles and drones toward U.S. military interests and allied countries in the Gulf following a new wave of Ameri",
-          "link": "https://npasyria.com/en/141024/",
-          "publishedAt": "2026-09-03T06:00:10.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
-          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
-          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
-          "publishedAt": "2026-09-02T23:56:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توقيف متعهد المشروع.. وفاة عامل سوري إثر سقوطه من الطابق السابع في غازي عنتاب",
-          "excerpt": "توفي عامل يدعى جمال كحلاوي، يبلغ من العمر 57 عاماً، الأربعاء، إثر سقوطه من الطابق السابع في مبنى قيد الإنشاء بمدينة نيزيب التابعة لولاية غازي عنتاب جنوبي تركيا.",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D8%AB%D8%B1-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B2%D9%8A-%D8%B9%D9%86%D8%AA%D8%A7%D8%A8",
-          "publishedAt": "2026-09-02T19:43:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Hamas, counter terrorism messaging, the Houthis, and the IRA",
-          "excerpt": "The post Hamas, counter terrorism messaging, the Houthis, and the IRA appeared first on FDD.",
-          "link": "https://www.fdd.org/in_the_news/2026/09/02/hamas-counter-terrorism-messaging-the-houthis-and-the-ira/",
-          "publishedAt": "2026-09-02T17:35:13.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump suggests renaming Strait of Hormuz ‘Trump Strait’",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump claimed on Wednesday that the United States controls the Strait of Hormuz and suggested renaming the strategic waterway the “Trump Strait.” In a post on Truth Social, Trump wrote: ",
-          "link": "https://npasyria.com/en/141013/",
-          "publishedAt": "2026-09-02T16:40:17.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Former IDF soldier charged after allegedly preparing to join Islamic State abroad",
-          "excerpt": "Prosecutors say Khamis Sawaed, 30, developed ideological support for Islamic State, planned to travel to Syria or Africa and studied weapons, rockets and drones to prepare for joining the terror group",
-          "link": "https://www.ynetnews.com/article/hjuzefh00fl",
-          "publishedAt": "2026-09-02T11:08:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "IDF killed two Hamas terrorists in Gaza strikes, military confirms",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3905,w_5900/729743' alt='Smoke rises following an Israeli strike on a metal foundry in Gaza City, July 12, 2026. (photo credit: REU",
-          "link": "https://www.jpost.com/middle-east/article-907306",
-          "publishedAt": "2026-09-02T10:46:43.000Z",
-          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -335,7 +143,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -405,25 +213,98 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "مراكز الفكر",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
       "score": 8,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مقتل شخص إثر مشاجرة في الشيخ مسكين والأمن يفرض حظر تجوال",
+          "excerpt": "قتل شخص، مساء الأربعاء، إثر مشاجرة بين مدنيين تطورت إلى إطلاق نار في مدينة الشيخ مسكين بريف درعا الأوسط، في حين فرضت قوى الأمن الداخلي حظر تجوال داخل المدينة..",
+          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A5%D8%AB%D8%B1-%D9%85%D8%B4%D8%A7%D8%AC%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%B3%D9%83%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84",
+          "publishedAt": "2026-09-02T23:56:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توقيف متعهد المشروع.. وفاة عامل سوري إثر سقوطه من الطابق السابع في غازي عنتاب",
+          "excerpt": "توفي عامل يدعى جمال كحلاوي، يبلغ من العمر 57 عاماً، الأربعاء، إثر سقوطه من الطابق السابع في مبنى قيد الإنشاء بمدينة نيزيب التابعة لولاية غازي عنتاب جنوبي تركيا.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%88%D9%81%D8%A7%D8%A9-%D8%B9%D8%A7%D9%85%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D8%AB%D8%B1-%D8%B3%D9%82%D9%88%D8%B7%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D8%BA%D8%A7%D8%B2%D9%8A-%D8%B9%D9%86%D8%AA%D8%A7%D8%A8",
+          "publishedAt": "2026-09-02T19:43:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Hamas, counter terrorism messaging, the Houthis, and the IRA",
+          "excerpt": "The post Hamas, counter terrorism messaging, the Houthis, and the IRA appeared first on FDD.",
+          "link": "https://www.fdd.org/in_the_news/2026/09/02/hamas-counter-terrorism-messaging-the-houthis-and-the-ira/",
+          "publishedAt": "2026-09-02T17:35:13.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "IDF killed two Hamas terrorists in Gaza strikes, military confirms",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/729743' alt='Smoke rises following an Israeli strike on a metal foundry in Gaza City, July 12, 2026. (photo credit: REUTE",
+          "link": "https://www.jpost.com/middle-east/article-907306",
+          "publishedAt": "2026-09-02T10:46:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:39",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 4,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -453,21 +334,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkey&#8217;s Erdogan says SDF integration opens new era for region",
-          "excerpt": "DAMASCUS, Syria (North Press) – Turkish President Recep Tayyip Erdogan on Wednesday said the announcement of the dissolution of the Syrian Democratic Forces (SDF) and their integration into the Syrian state &#8220;open the door to a new era",
-          "link": "https://npasyria.com/en/141010/",
-          "publishedAt": "2026-09-02T12:38:19.000Z",
-          "files": [
-            "sdf",
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -483,7 +349,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-03 08:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
