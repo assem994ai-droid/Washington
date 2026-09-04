@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T10:38:33.579Z",
+    "generatedAt": "2026-09-04T10:49:20.090Z",
     "windowHours": 24,
-    "from": "2026-09-03T10:38:33.579Z",
-    "to": "2026-09-04T10:38:33.579Z"
+    "from": "2026-09-03T10:49:20.090Z",
+    "to": "2026-09-04T10:49:20.090Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 23,
     "files": 8,
-    "withNew": 1,
-    "stale": 7,
+    "withNew": 0,
+    "stale": 8,
     "contested": 0,
     "echoed": 1,
     "americanItems": 5,
-    "archiveCycles": 244
+    "archiveCycles": 245
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,7 +44,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -185,13 +185,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 16,
+      "score": 15,
       "items": [
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -252,54 +252,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Airport ground handler Menzies considers expansion in Gulf, Syria and US despite war uncertainty",
-          "excerpt": "Airport ground handler Menzies Aviation is planning expansion in the Gulf and US, while the Syrian market is of interest, as it aims to sustain its “aggressive” growth despite Iran war-related travel disruptions and higher costs.The aviatio",
-          "link": "https://www.thenationalnews.com/business/aviation/2026/09/03/airport-ground-handler-menzies-considers-expansion-in-gulf-syria-and-us-despite-war-uncertainty/",
-          "publishedAt": "2026-09-03T10:39:43.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Mazloum Abdi says Syrian Kurds enter new phase in building Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Presidential Adviser Mazloum Abdi said Kurds have entered a new phase in Syria, participating for the first time in state-building with their own identity. Abdi said it was “not true that we lost every",
-          "link": "https://npasyria.com/en/141063/",
-          "publishedAt": "2026-09-04T10:24:54.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": false,
-          "us": false
         }
       ]
     },
@@ -317,7 +269,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -398,7 +350,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -448,7 +400,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -473,6 +425,42 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:38",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Mazloum Abdi says Syrian Kurds enter new phase in building Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Presidential Adviser Mazloum Abdi said Kurds have entered a new phase in Syria, participating for the first time in state-building with their own identity. Abdi said it was “not true that we lost every",
+          "link": "https://npasyria.com/en/141063/",
+          "publishedAt": "2026-09-04T10:24:54.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -484,7 +472,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -520,7 +508,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
