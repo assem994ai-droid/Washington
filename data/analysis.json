@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T02:09:57.187Z",
+    "generatedAt": "2026-09-04T02:56:31.818Z",
     "windowHours": 24,
-    "from": "2026-09-03T02:09:57.187Z",
-    "to": "2026-09-04T02:09:57.187Z"
+    "from": "2026-09-03T02:56:31.818Z",
+    "to": "2026-09-04T02:56:31.818Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 21,
     "files": 8,
-    "withNew": 1,
-    "stale": 7,
+    "withNew": 0,
+    "stale": 8,
     "contested": 1,
     "echoed": 1,
-    "americanItems": 5,
-    "archiveCycles": 227
+    "americanItems": 4,
+    "archiveCycles": 228
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,30 +24,35 @@
     "الإعلام الدولي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "تلفزيون سوريا",
-        "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 01:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 02:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 11,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -57,20 +62,6 @@
           "excerpt": "أفادت مصادر محلية باختطاف عاطف هنيدي، المعروف بلقب \"الباشا\"، عقب اقتحام مسلحين منزله في قرية المجدل بريف السويداء الغربي..",
           "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D9%87-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D8%B3%D9%84%D8%AD%D9%88%D9%86-%D9%8A%D8%AE%D8%AA%D8%B7%D9%81%D9%88%D9%86-%D8%B9%D8%A7%D8%B7%D9%81-%D9%87%D9%86%D9%8A%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
           "publishedAt": "2026-09-04T00:52:14.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces enter Syria’s Quneitra countryside, shell Damascus outskirts",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered northern Syria’s Quneitra countryside on Thursday with three military vehicles and shelled the outskirts of Beit Jinn in western Damascus countryside. North Press sources in Quneitra an",
-          "link": "https://npasyria.com/en/141055/",
-          "publishedAt": "2026-09-03T18:40:41.000Z",
           "files": [
             "israel"
           ],
@@ -120,20 +111,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid villages, search homes in southern Syria",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Thursday entered areas in western Daraa and southern Quneitra, southern Syria, accompanied by raids and searches of residents’ homes. Local sources told North Press that Israeli military vehicl",
-          "link": "https://npasyria.com/en/141040/",
-          "publishedAt": "2026-09-03T11:49:19.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -143,21 +120,6 @@
           "publishedAt": "2026-09-03T08:24:13.000Z",
           "files": [
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli official says security talks with Syria remain unresolved",
-          "excerpt": "DAMASCUS, Syria (North Press) – An Israeli official on Wednesday said efforts to reach a security agreement with Syria have so far failed, adding that discussions on security arrangements in southern Syria are still ongoing. The Israeli off",
-          "link": "https://npasyria.com/en/141030/",
-          "publishedAt": "2026-09-03T06:52:01.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -179,169 +141,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "The National",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "مراكز الفكر",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 01:56",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 17,
-      "items": [
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "IDF captures Hamas security chief, reports 29 Gaza ceasefire violations Aug. 19–Sept. 3",
-          "excerpt": "Israeli special operations forces&#160;captured&#160;Moein Muhammad al Arabeed, a senior Hamas security official, during a September 1 raid in the Katiba area of western Gaza City. Meanwhile, the US-backed... The post IDF captures Hamas sec",
-          "link": "https://www.fdd.org/analysis/op-eds/2026/09/03/idf-captures-hamas-security-chief-reports-29-gaza-ceasefire-violations-aug-19-sept-3/",
-          "publishedAt": "2026-09-03T18:52:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria begins destroying chemical weapon materials in break with Assad era",
-          "excerpt": "Syria has begun destroying chemical weapon materials identified in co-operation with the global watchdog, the country's UN envoy has said.Ibrahim Olabi told the UN Security Council that this marked the first destruction process since the en",
-          "link": "https://www.thenationalnews.com/news/us/2026/09/03/syria-breaks-with-assad-era-as-it-begins-destroying-chemical-weapon-materials/",
-          "publishedAt": "2026-09-03T18:34:58.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
-          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
-          "publishedAt": "2026-09-03T17:55:21.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. hails progress as Syria begins chemical materials destruction",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria announced on Thursday the start of destroying some chemical materials found in the country, while the United States hailed significant progress in addressing Syria’s chemical weapons file. Speaking duri",
-          "link": "https://npasyria.com/en/141052/",
-          "publishedAt": "2026-09-03T16:14:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "نُقلوا إلى العراق.. قائمة بأسماء 4700 سوري اتُّهموا بالانتماء إلى \"داعش\"",
-          "excerpt": "تداول ناشطون وعائلات معتقلين قائمة تضم أسماء أكثر من 4700 سوري نُقلوا من مراكز احتجاز كانت تديرها \"قوات سوريا الديمقراطية\" (قسد) شمال شرقي سوريا..",
-          "link": "https://www.syria.tv/%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-4700-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D8%AA%D9%91%D9%8F%D9%87%D9%85%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4",
-          "publishedAt": "2026-09-03T16:07:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Airport ground handler Menzies considers expansion in Gulf, Syria and US despite war uncertainty",
-          "excerpt": "Airport ground handler Menzies Aviation is planning expansion in the Gulf and US, while the Syrian market is of interest, as it aims to sustain its “aggressive” growth despite Iran war-related travel disruptions and higher costs.The aviatio",
-          "link": "https://www.thenationalnews.com/business/aviation/2026/09/03/airport-ground-handler-menzies-considers-expansion-in-gulf-syria-and-us-despite-war-uncertainty/",
-          "publishedAt": "2026-09-03T10:39:43.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UN experts urge Syria to suspend laws linked to displacement",
-          "excerpt": "QAMISHLI, Syria (North Press) – United Nations experts on Thursday urged Syria&#8217;s Transitional Government to suspend laws that contributed to widespread property dispossession and displacement under the previous regime and begin a proc",
-          "link": "https://npasyria.com/en/141027/",
-          "publishedAt": "2026-09-03T06:44:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "The National",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Can Hezbollah survive without money?",
-          "excerpt": "When the US announced it was imposing new sanctions on Iran late last month, Treasury Secretary Scott Bessent said the aim was to sever every economic lifeline “until Tehran stands alone”. The burden will also fall on Iran-backed groups acr",
-          "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/04/can-hezbollah-survive-without-money/",
-          "publishedAt": "2026-09-04T02:00:00.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Lebanon dismantles network linked to Hezbollah, Assad regime",
-          "excerpt": "DAMASCUS, Syria (North Press) – Lebanon has foiled a security sabotage plot targeting Syria’s coastal region after dismantling a network operating between the two countries and linked to Lebanon’s Hezbollah and members of the former al-Assa",
-          "link": "https://npasyria.com/en/141041/",
-          "publishedAt": "2026-09-03T10:32:43.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
@@ -355,7 +154,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 01:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 02:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -394,6 +193,92 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "The National",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "مراكز الفكر",
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 02:09",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 9,
+      "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "IDF captures Hamas security chief, reports 29 Gaza ceasefire violations Aug. 19–Sept. 3",
+          "excerpt": "Israeli special operations forces&#160;captured&#160;Moein Muhammad al Arabeed, a senior Hamas security official, during a September 1 raid in the Katiba area of western Gaza City. Meanwhile, the US-backed... The post IDF captures Hamas sec",
+          "link": "https://www.fdd.org/analysis/op-eds/2026/09/03/idf-captures-hamas-security-chief-reports-29-gaza-ceasefire-violations-aug-19-sept-3/",
+          "publishedAt": "2026-09-03T18:52:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria begins destroying chemical weapon materials in break with Assad era",
+          "excerpt": "Syria has begun destroying chemical weapon materials identified in co-operation with the global watchdog, the country's UN envoy has said.Ibrahim Olabi told the UN Security Council that this marked the first destruction process since the en",
+          "link": "https://www.thenationalnews.com/news/us/2026/09/03/syria-breaks-with-assad-era-as-it-begins-destroying-chemical-weapon-materials/",
+          "publishedAt": "2026-09-03T18:34:58.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
+          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
+          "publishedAt": "2026-09-03T17:55:21.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "نُقلوا إلى العراق.. قائمة بأسماء 4700 سوري اتُّهموا بالانتماء إلى \"داعش\"",
+          "excerpt": "تداول ناشطون وعائلات معتقلين قائمة تضم أسماء أكثر من 4700 سوري نُقلوا من مراكز احتجاز كانت تديرها \"قوات سوريا الديمقراطية\" (قسد) شمال شرقي سوريا..",
+          "link": "https://www.syria.tv/%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-4700-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D8%AA%D9%91%D9%8F%D9%87%D9%85%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4",
+          "publishedAt": "2026-09-03T16:07:24.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Airport ground handler Menzies considers expansion in Gulf, Syria and US despite war uncertainty",
+          "excerpt": "Airport ground handler Menzies Aviation is planning expansion in the Gulf and US, while the Syrian market is of interest, as it aims to sustain its “aggressive” growth despite Iran war-related travel disruptions and higher costs.The aviatio",
+          "link": "https://www.thenationalnews.com/business/aviation/2026/09/03/airport-ground-handler-menzies-considers-expansion-in-gulf-syria-and-us-despite-war-uncertainty/",
+          "publishedAt": "2026-09-03T10:39:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -407,7 +292,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 01:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 02:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -488,7 +373,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 01:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 02:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -524,7 +409,7 @@
       "circles": [
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 01:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 02:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -550,6 +435,42 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "The National"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 02:09",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 2,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Can Hezbollah survive without money?",
+          "excerpt": "When the US announced it was imposing new sanctions on Iran late last month, Treasury Secretary Scott Bessent said the aim was to sever every economic lifeline “until Tehran stands alone”. The burden will also fall on Iran-backed groups acr",
+          "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/04/can-hezbollah-survive-without-money/",
+          "publishedAt": "2026-09-04T02:00:00.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -561,7 +482,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 01:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 02:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
