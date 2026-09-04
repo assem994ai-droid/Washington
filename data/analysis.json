@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T18:08:10.560Z",
+    "generatedAt": "2026-09-04T18:23:35.264Z",
     "windowHours": 24,
-    "from": "2026-09-03T18:08:10.560Z",
-    "to": "2026-09-04T18:08:10.560Z"
+    "from": "2026-09-03T18:23:35.264Z",
+    "to": "2026-09-04T18:23:35.264Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
-    "files": 8,
-    "withNew": 1,
+    "items": 23,
+    "files": 7,
+    "withNew": 0,
     "stale": 7,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 262
+    "americanItems": 4,
+    "archiveCycles": 263
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,7 +46,7 @@
         "مراكز الفكر",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -153,58 +153,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "The National",
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria has received many visitors since the civil war ended – but what it really wants is tourists",
-          "excerpt": "Mourhaf Nazha cut a lonely figure at his family's hotel business during the civil war. Few customers were staying at their Golden Mazzeh hotel in west Damascus as renovation was under way to open another, the landmark Royal Semiramis in the",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/syria-tourism-what-next-foreign-tourists-hotels-payments-bookings/",
-          "publishedAt": "2026-09-04T18:00:00.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "First Verified Destruction of Syrian Chemical Munitions Since 2014 Marks ‘Significant Progress’, Disarmament Chief Tells Security Council",
-          "excerpt": "The United Nations disarmament Chief told the Security Council today that the Organisation for the Prohibition of Chemical Weapons (OPCW) has verified the destruction of 42 aerial bombs declared by Syria as part of its chemical weapons prog",
-          "link": "https://press.un.org/en/2026/sc16445.doc.htm",
-          "publishedAt": "2026-09-03T19:11:06.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -219,7 +167,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -298,7 +246,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -348,7 +296,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -415,38 +363,54 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "The National",
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
       ],
       "circles": [
-        "مراكز الفكر"
+        "الإعلام المتخصص",
+        "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 6,
+      "usItems": 0,
+      "score": 3,
       "items": [
         {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Syria Is Off the Terror List, but Washington Still Has Leverage",
-          "excerpt": "US President Donald Trump has fulfilled the promise he made to Syrian President Ahmad al-Sharaa in May 2025, to&#160;give&#160;Syrians “a chance at greatness.” At the end of August of this year, Trump... The post Syria Is Off the Terror Lis",
-          "link": "https://www.fdd.org/analysis/op-eds/2026/09/03/syria-is-off-the-terror-list-but-washington-still-has-leverage/",
-          "publishedAt": "2026-09-03T18:10:39.000Z",
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria has received many visitors since the civil war ended – but what it really wants is tourists",
+          "excerpt": "Mourhaf Nazha cut a lonely figure at his family's hotel business during the civil war. Few customers were staying at their Golden Mazzeh hotel in west Damascus as renovation was under way to open another, the landmark Royal Semiramis in the",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/syria-tourism-what-next-foreign-tourists-hotels-payments-bookings/",
+          "publishedAt": "2026-09-04T18:00:00.000Z",
           "files": [
-            "sanctions"
+            "diplomacy"
           ],
           "seenBefore": true,
-          "us": true
+          "us": false
+        },
+        {
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "First Verified Destruction of Syrian Chemical Munitions Since 2014 Marks ‘Significant Progress’, Disarmament Chief Tells Security Council",
+          "excerpt": "The United Nations disarmament Chief told the Security Council today that the Organisation for the Prohibition of Chemical Weapons (OPCW) has verified the destruction of 42 aerial bombs declared by Syria as part of its chemical weapons prog",
+          "link": "https://press.un.org/en/2026/sc16445.doc.htm",
+          "publishedAt": "2026-09-03T19:11:06.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -462,7 +426,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -512,7 +476,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 18:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
