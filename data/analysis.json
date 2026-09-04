@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T06:51:04.666Z",
+    "generatedAt": "2026-09-04T07:06:41.565Z",
     "windowHours": 24,
-    "from": "2026-09-03T06:51:04.666Z",
-    "to": "2026-09-04T06:51:04.666Z"
+    "from": "2026-09-03T07:06:41.565Z",
+    "to": "2026-09-04T07:06:41.565Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 24,
     "files": 8,
     "withNew": 0,
     "stale": 8,
     "contested": 1,
     "echoed": 1,
     "americanItems": 5,
-    "archiveCycles": 235
+    "archiveCycles": 236
   },
   "emptyCircles": [
     "الكونغرس",
@@ -43,13 +43,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 06:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 19,
       "items": [
         {
           "source": "The National",
@@ -163,21 +163,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli official says security talks with Syria remain unresolved",
-          "excerpt": "DAMASCUS, Syria (North Press) – An Israeli official on Wednesday said efforts to reach a security agreement with Syria have so far failed, adding that discussions on security arrangements in southern Syria are still ongoing. The Israeli off",
-          "link": "https://npasyria.com/en/141030/",
-          "publishedAt": "2026-09-03T06:52:01.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -198,7 +183,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 06:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -294,7 +279,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 06:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -346,7 +331,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 06:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -413,7 +398,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 06:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -463,7 +448,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 06:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -499,7 +484,7 @@
       "circles": [
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 06:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -536,7 +521,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 06:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
