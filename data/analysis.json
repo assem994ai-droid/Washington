@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T15:13:10.184Z",
+    "generatedAt": "2026-09-04T16:22:56.804Z",
     "windowHours": 24,
-    "from": "2026-09-03T15:13:10.184Z",
-    "to": "2026-09-04T15:13:10.184Z"
+    "from": "2026-09-03T16:22:56.804Z",
+    "to": "2026-09-04T16:22:56.804Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 30,
+    "items": 28,
     "files": 8,
-    "withNew": 2,
-    "stale": 6,
+    "withNew": 0,
+    "stale": 8,
     "contested": 1,
     "echoed": 1,
-    "americanItems": 7,
-    "archiveCycles": 256
+    "americanItems": 6,
+    "archiveCycles": 257
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "مراكز الفكر",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 15:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 26,
+      "usItems": 1,
+      "score": 21,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -148,96 +148,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. hails progress as Syria begins chemical materials destruction",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria announced on Thursday the start of destroying some chemical materials found in the country, while the United States hailed significant progress in addressing Syria’s chemical weapons file. Speaking duri",
-          "link": "https://npasyria.com/en/141052/",
-          "publishedAt": "2026-09-03T16:14:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "نُقلوا إلى العراق.. قائمة بأسماء 4700 سوري اتُّهموا بالانتماء إلى \"داعش\"",
-          "excerpt": "تداول ناشطون وعائلات معتقلين قائمة تضم أسماء أكثر من 4700 سوري نُقلوا من مراكز احتجاز كانت تديرها \"قوات سوريا الديمقراطية\" (قسد) شمال شرقي سوريا..",
-          "link": "https://www.syria.tv/%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-4700-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D8%AA%D9%91%D9%8F%D9%87%D9%85%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4",
-          "publishedAt": "2026-09-03T16:07:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": true,
-      "usItems": 3,
-      "score": 25,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ديروان: الصناعة السورية تدخل مرحلة جديدة عنوانها الاقتصاد الحر والانفتاح الخارجي",
-          "excerpt": "ديروان: الاقتصاد الحر ورفع العقوبات يفتحان للصناعة السورية أسواقاً جديدة ويعززان قدرتها على المنافسة عالمياً.. فهل تنجح؟",
-          "link": "https://www.syria.tv/%D8%AF%D9%8A%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D8%AE%D9%84-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86%D9%88%D8%A7%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A",
-          "publishedAt": "2026-09-04T15:12:44.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"هذا رائع\".. ترمب يرحب ببروز سوريا ممراً بديلاً للطاقة والتجارة",
-          "excerpt": "رحّب الرئيس الأميركي دونالد ترمب بتقرير لصحيفة \"واشنطن بوست\" حول تنامي الدور الإقليمي لسوريا كممر بديل لنقل الطاقة والتجارة، في ظل تعطل حركة الشحن عبر مضيق هرمز",
-          "link": "https://www.syria.tv/%D9%87%D8%B0%D8%A7-%D8%B1%D8%A7%D8%A6%D8%B9-%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B1%D8%AD%D8%A8-%D8%A8%D8%A8%D8%B1%D9%88%D8%B2-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%85%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AF%D9%8A%D9%84%D8%A7%D9%8B-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-03T21:04:50.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "ترامب يرحب بتنامي دور سوريا ممراً بديلاً للطاقة والتجارة بعيداً عن مضيق ‌‏هرمز",
-          "excerpt": "رحب الرئيس الأمريكي دونالد ترامب بما أورده تقرير لصحيفة \"واشنطن ‌‏بوست\" حول تنامي دور سوريا ممراً بديلاً لنقل الطاقة والتجارة في المنطقة، ‌‏في ظل تعطل حركة الشحن عبر مضيق هرمز على خلفية الحرب الأمريكية ‌‏الإسرائيلية-الإيرانية.‏",
-          "link": "https://sana.sy/syria-and-the-world/2571531/",
-          "publishedAt": "2026-09-03T17:32:24.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -258,7 +168,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 15:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -369,6 +279,72 @@
       ]
     },
     {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 15:13",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": true,
+      "usItems": 3,
+      "score": 16,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "ديروان: الصناعة السورية تدخل مرحلة جديدة عنوانها الاقتصاد الحر والانفتاح الخارجي",
+          "excerpt": "ديروان: الاقتصاد الحر ورفع العقوبات يفتحان للصناعة السورية أسواقاً جديدة ويعززان قدرتها على المنافسة عالمياً.. فهل تنجح؟",
+          "link": "https://www.syria.tv/%D8%AF%D9%8A%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D8%AE%D9%84-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86%D9%88%D8%A7%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A",
+          "publishedAt": "2026-09-04T15:12:44.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"هذا رائع\".. ترمب يرحب ببروز سوريا ممراً بديلاً للطاقة والتجارة",
+          "excerpt": "رحّب الرئيس الأميركي دونالد ترمب بتقرير لصحيفة \"واشنطن بوست\" حول تنامي الدور الإقليمي لسوريا كممر بديل لنقل الطاقة والتجارة، في ظل تعطل حركة الشحن عبر مضيق هرمز",
+          "link": "https://www.syria.tv/%D9%87%D8%B0%D8%A7-%D8%B1%D8%A7%D8%A6%D8%B9-%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B1%D8%AD%D8%A8-%D8%A8%D8%A8%D8%B1%D9%88%D8%B2-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%85%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AF%D9%8A%D9%84%D8%A7%D9%8B-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-03T21:04:50.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "ترامب يرحب بتنامي دور سوريا ممراً بديلاً للطاقة والتجارة بعيداً عن مضيق ‌‏هرمز",
+          "excerpt": "رحب الرئيس الأمريكي دونالد ترامب بما أورده تقرير لصحيفة \"واشنطن ‌‏بوست\" حول تنامي دور سوريا ممراً بديلاً لنقل الطاقة والتجارة في المنطقة، ‌‏في ظل تعطل حركة الشحن عبر مضيق هرمز على خلفية الحرب الأمريكية ‌‏الإسرائيلية-الإيرانية.‏",
+          "link": "https://sana.sy/syria-and-the-world/2571531/",
+          "publishedAt": "2026-09-03T17:32:24.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -380,13 +356,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 15:13",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 7,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -399,7 +375,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -473,7 +449,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 15:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -509,7 +485,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 15:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -559,7 +535,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 15:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -595,7 +571,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 15:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
