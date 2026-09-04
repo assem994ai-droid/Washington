@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T09:13:12.833Z",
+    "generatedAt": "2026-09-04T10:23:06.053Z",
     "windowHours": 24,
-    "from": "2026-09-03T09:13:12.833Z",
-    "to": "2026-09-04T09:13:12.833Z"
+    "from": "2026-09-03T10:23:06.053Z",
+    "to": "2026-09-04T10:23:06.053Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 24,
     "files": 7,
-    "withNew": 0,
-    "stale": 7,
+    "withNew": 1,
+    "stale": 6,
     "contested": 0,
     "echoed": 1,
     "americanItems": 5,
-    "archiveCycles": 242
+    "archiveCycles": 243
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,14 +44,29 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 08:58",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 28,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel releases four more detainees to Lebanon through Red Cross",
+          "excerpt": "Four more detainees captured by Israeli troops in south Lebanon have been received by the International Committee of the Red Cross for transfer to Lebanon, the ICRC said on Friday, following the release of another detainee through the organ",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/israel-releases-four-more-detainees-to-lebanon-through-red-cross/",
+          "publishedAt": "2026-09-04T10:19:17.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -170,7 +185,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -266,7 +281,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -347,7 +362,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -399,7 +414,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -449,7 +464,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -485,7 +500,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 08:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
