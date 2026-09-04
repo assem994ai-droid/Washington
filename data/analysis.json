@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T12:58:41.699Z",
+    "generatedAt": "2026-09-04T13:14:06.905Z",
     "windowHours": 24,
-    "from": "2026-09-03T12:58:41.699Z",
-    "to": "2026-09-04T12:58:41.699Z"
+    "from": "2026-09-03T13:14:06.905Z",
+    "to": "2026-09-04T13:14:06.905Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
-    "files": 8,
-    "withNew": 1,
-    "stale": 7,
+    "items": 24,
+    "files": 7,
+    "withNew": 3,
+    "stale": 4,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 6,
-    "archiveCycles": 250
+    "americanItems": 5,
+    "archiveCycles": 251
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,152 +22,21 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
-  "files": [
+  "errors": [
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "تلفزيون سوريا",
-        "The National",
-        "North Press Agency (English)",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 28,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل بثلاث سيارات في الصمدانية الشرقية بريف القنيطرة",
-          "excerpt": "توغلت ثلاث سيارات تابعة لقوات الاحتلال الإسرائيلي، الجمعة، إلى محيط بلدة الصمدانية الشرقية بريف القنيطرة، وفق ما أفاد به موقع \"درعا 24\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-04T12:58:39.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel releases four more detainees to Lebanon through Red Cross",
-          "excerpt": "Four more detainees captured by Israeli troops in south Lebanon have been handed over to the Lebanese authorities.The move was facilitated by the International Committee of the Red Cross, security sources confirmed on Friday, following the ",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/israel-releases-four-more-detainees-to-lebanon-through-red-cross/",
-          "publishedAt": "2026-09-04T10:19:17.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel to release detained Lebanese, EU backs economic pressure on Iran and Syria destroys chemical weapons",
-          "excerpt": "In today's episode of Trending Middle East, Israel is to release five civilians detained in occupied areas of southern Lebanon, as part of a renewed diplomatic push between the two countries. But it comes as the Israeli military abducts thr",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/04/israel-to-release-detained-lebanese-eu-backs-economic-pressure-on-iran-and-syria-destroys-chemical-weapons/",
-          "publishedAt": "2026-09-04T05:31:36.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد انتقاده تصريحات الهجري بشأن إسرائيل.. مسلحون يختطفون عاطف هنيدي في السويداء",
-          "excerpt": "أفادت مصادر محلية باختطاف عاطف هنيدي، المعروف بلقب \"الباشا\"، عقب اقتحام مسلحين منزله في قرية المجدل بريف السويداء الغربي..",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D9%87-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D8%B3%D9%84%D8%AD%D9%88%D9%86-%D9%8A%D8%AE%D8%AA%D8%B7%D9%81%D9%88%D9%86-%D8%B9%D8%A7%D8%B7%D9%81-%D9%87%D9%86%D9%8A%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
-          "publishedAt": "2026-09-04T00:52:14.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces enter Syria’s Quneitra countryside, shell Damascus outskirts",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered northern Syria’s Quneitra countryside on Thursday with three military vehicles and shelled the outskirts of Beit Jinn in western Damascus countryside. North Press sources in Quneitra an",
-          "link": "https://npasyria.com/en/141055/",
-          "publishedAt": "2026-09-03T18:40:41.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قصف إسرائيلي يستهدف بيت جن وحاجز مؤقت في ريف القنيطرة",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الخميس، تلة باط الوردة المحيطة بقرية بيت جن في ريف دمشق الغربي بأربع قذائف مدفعية، وفقاً لـ\"الإخبارية السورية\".",
-          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%AD%D8%A7%D8%AC%D8%B2-%D9%85%D8%A4%D9%82%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-03T18:06:41.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي يعلن بدء تدمير مواد كيميائية في سوريا ويحذر من مخاطر الاعتداءات الإسرائيلية",
-          "excerpt": "أعلن مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي بدء عملية تدمير بعض المواد الكيميائية التي تم العثور عليها في سوريا، وذلك ضمن إجراءات التحقق المتبعة للأمانة الفنية لمنظمة حظر الأسلحة الكيميائية، مشيراً إلى أنها لحظة تاريخية.",
-          "link": "https://sana.sy/video/2571397/",
-          "publishedAt": "2026-09-03T16:35:00.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "غموض بالاتفاق الأمني بين سوريا والاحتلال.. ما موقع الانتخابات الإسرائيلية منه؟",
-          "excerpt": "تبدو المفاوضات السورية مع الاحتلال الإسرائيلي بشأن اتفاق أمني أقرب اليوم إلى التجميد منها إلى التسوية، مع اتساع الخلاف من ترتيبات حدودية عسكرية وأمنية إلى ...",
-          "link": "https://www.syria.tv/%D8%BA%D9%85%D9%88%D8%B6-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D9%87%D8%9F",
-          "publishedAt": "2026-09-03T13:54:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
+      "source": "International Crisis Group",
+      "sourceId": "crisisgroup",
+      "message": "الخادم ردّ برمز 403"
     },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
+  "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -175,34 +44,35 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
-        "North Press Agency (English)",
+        "Turkish Minute",
         "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "The National"
       ],
       "circles": [
+        "الملف التركي",
         "الإعلام السوري المستقل",
         "مراكز الفكر",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:47",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 20,
+      "usItems": 1,
+      "score": 25,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Jordan, Austria discuss Syria support, regional de-escalation",
-          "excerpt": "QAMISHLI, Syria (North Press) – Jordanian Foreign Minister Ayman al-Safadi and Austrian Foreign Minister Beate Meinl-Reisinger discussed on Thursday regional developments, de-escalation and support for Syria’s reconstruction in Vienna. The ",
-          "link": "https://npasyria.com/en/141067/",
-          "publishedAt": "2026-09-04T12:31:26.000Z",
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Syrian Kurdish leader says meeting with Öcalan ‘would be good’",
+          "excerpt": "Mazlum Abdi, the former commander of the Kurdish-led Syrian Democratic Forces (SDF) and now an adviser to Syrian President Ahmed al-Sharaa, said in an interview aired Friday that a meeting with imprisoned Kurdistan Workers’ Party (PKK) foun",
+          "link": "https://turkishminute.com/2026/09/04/syrian-kurdish-leader-says-meeting-with-ocalan-would-be-good/",
+          "publishedAt": "2026-09-04T13:10:20.000Z",
           "files": [],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
@@ -254,18 +124,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. hails progress as Syria begins chemical materials destruction",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria announced on Thursday the start of destroying some chemical materials found in the country, while the United States hailed significant progress in addressing Syria’s chemical weapons file. Speaking duri",
-          "link": "https://npasyria.com/en/141052/",
-          "publishedAt": "2026-09-03T16:14:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -293,14 +151,28 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:47",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 19,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "عبدي يكشف موعد بدء مهامه مستشارا للرئاسة السورية ويتحدث عن العلاقة مع تركيا",
+          "excerpt": "كشف مظلوم عبدي، القائد العام السابق لقوات سوريا الديمقراطية (قسد)، أن مباشرته مهامه مستشاراً للرئيس السوري أحمد الشرع",
+          "link": "https://www.syria.tv/%D8%B9%D8%A8%D8%AF%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A1-%D9%85%D9%87%D8%A7%D9%85%D9%87-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7-%D9%84%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-04T13:10:14.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -361,6 +233,182 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "The National",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:58",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 15,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل بثلاث سيارات في الصمدانية الشرقية بريف القنيطرة",
+          "excerpt": "توغلت ثلاث سيارات تابعة لقوات الاحتلال الإسرائيلي، الجمعة، إلى محيط بلدة الصمدانية الشرقية بريف القنيطرة، وفق ما أفاد به موقع \"درعا 24\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-04T12:58:39.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel releases four more detainees to Lebanon through Red Cross",
+          "excerpt": "Four more detainees captured by Israeli troops in south Lebanon have been handed over to the Lebanese authorities.The move was facilitated by the International Committee of the Red Cross, security sources confirmed on Friday, following the ",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/israel-releases-four-more-detainees-to-lebanon-through-red-cross/",
+          "publishedAt": "2026-09-04T10:19:17.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel to release detained Lebanese, EU backs economic pressure on Iran and Syria destroys chemical weapons",
+          "excerpt": "In today's episode of Trending Middle East, Israel is to release five civilians detained in occupied areas of southern Lebanon, as part of a renewed diplomatic push between the two countries. But it comes as the Israeli military abducts thr",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/04/israel-to-release-detained-lebanese-eu-backs-economic-pressure-on-iran-and-syria-destroys-chemical-weapons/",
+          "publishedAt": "2026-09-04T05:31:36.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد انتقاده تصريحات الهجري بشأن إسرائيل.. مسلحون يختطفون عاطف هنيدي في السويداء",
+          "excerpt": "أفادت مصادر محلية باختطاف عاطف هنيدي، المعروف بلقب \"الباشا\"، عقب اقتحام مسلحين منزله في قرية المجدل بريف السويداء الغربي..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D9%87-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D8%B3%D9%84%D8%AD%D9%88%D9%86-%D9%8A%D8%AE%D8%AA%D8%B7%D9%81%D9%88%D9%86-%D8%B9%D8%A7%D8%B7%D9%81-%D9%87%D9%86%D9%8A%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
+          "publishedAt": "2026-09-04T00:52:14.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قصف إسرائيلي يستهدف بيت جن وحاجز مؤقت في ريف القنيطرة",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الخميس، تلة باط الوردة المحيطة بقرية بيت جن في ريف دمشق الغربي بأربع قذائف مدفعية، وفقاً لـ\"الإخبارية السورية\".",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%AD%D8%A7%D8%AC%D8%B2-%D9%85%D8%A4%D9%82%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-03T18:06:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي يعلن بدء تدمير مواد كيميائية في سوريا ويحذر من مخاطر الاعتداءات الإسرائيلية",
+          "excerpt": "أعلن مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي بدء عملية تدمير بعض المواد الكيميائية التي تم العثور عليها في سوريا، وذلك ضمن إجراءات التحقق المتبعة للأمانة الفنية لمنظمة حظر الأسلحة الكيميائية، مشيراً إلى أنها لحظة تاريخية.",
+          "link": "https://sana.sy/video/2571397/",
+          "publishedAt": "2026-09-03T16:35:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "غموض بالاتفاق الأمني بين سوريا والاحتلال.. ما موقع الانتخابات الإسرائيلية منه؟",
+          "excerpt": "تبدو المفاوضات السورية مع الاحتلال الإسرائيلي بشأن اتفاق أمني أقرب اليوم إلى التجميد منها إلى التسوية، مع اتساع الخلاف من ترتيبات حدودية عسكرية وأمنية إلى ...",
+          "link": "https://www.syria.tv/%D8%BA%D9%85%D9%88%D8%B6-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D9%87%D8%9F",
+          "publishedAt": "2026-09-03T13:54:44.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "The National"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 12,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "From phone taps to arrests: the intelligence trail behind a Lebanon-Syria security operation",
+          "excerpt": "By infiltrating phones, tracking communications and piecing together intelligence across the border, Lebanese and Syrian security authorities uncovered a cell accused of plotting attacks inside Syria.The operation offers a rare window into ",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/from-phone-taps-to-arrests-the-intelligence-trail-behind-a-lebanon-syria-security-operation/",
+          "publishedAt": "2026-09-04T13:01:46.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Can Hezbollah survive without money?",
+          "excerpt": "When the US announced it was imposing new sanctions on Iran late last month, Treasury Secretary Scott Bessent said the aim was to sever every economic lifeline “until Tehran stands alone”. The burden will also fall on Iran-backed groups acr",
+          "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/04/can-hezbollah-survive-without-money/",
+          "publishedAt": "2026-09-04T02:00:00.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
@@ -374,7 +422,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -424,7 +472,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -449,78 +497,6 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:47",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Mazloum Abdi says Syrian Kurds enter new phase in building Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Presidential Adviser Mazloum Abdi said Kurds have entered a new phase in Syria, participating for the first time in state-building with their own identity. Abdi said it was “not true that we lost every",
-          "link": "https://npasyria.com/en/141063/",
-          "publishedAt": "2026-09-04T10:24:54.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:47",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 2,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Can Hezbollah survive without money?",
-          "excerpt": "When the US announced it was imposing new sanctions on Iran late last month, Treasury Secretary Scott Bessent said the aim was to sever every economic lifeline “until Tehran stands alone”. The burden will also fall on Iran-backed groups acr",
-          "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/04/can-hezbollah-survive-without-money/",
-          "publishedAt": "2026-09-04T02:00:00.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -532,7 +508,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
