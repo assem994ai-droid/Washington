@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T14:21:27.257Z",
+    "generatedAt": "2026-09-04T14:49:20.526Z",
     "windowHours": 24,
-    "from": "2026-09-03T14:21:27.257Z",
-    "to": "2026-09-04T14:21:27.257Z"
+    "from": "2026-09-03T14:49:20.526Z",
+    "to": "2026-09-04T14:49:20.526Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 28,
     "files": 8,
     "withNew": 1,
     "stale": 7,
     "contested": 0,
     "echoed": 1,
     "americanItems": 6,
-    "archiveCycles": 254
+    "archiveCycles": 255
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,9 +33,9 @@
       "contested": false,
       "independentSources": 5,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Turkish Minute",
-        "North Press Agency (English)",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "The National"
       ],
@@ -45,14 +45,26 @@
         "مراكز الفكر",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 13:55",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 25,
+      "score": 35,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UNHCR says nearly 1.8 million Syrian refugees return home",
+          "excerpt": "QAMISHLI, Syria (North Press) – Nearly 1.8 million Syrian refugees have returned from abroad since December 2024, according to the latest figures from the UN refugee agency. The United Nations High Commissioner for Refugees (UNHCR) said 1,7",
+          "link": "https://npasyria.com/en/141072/",
+          "publishedAt": "2026-09-04T14:48:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -180,7 +192,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 13:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -291,42 +303,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "مراكز الفكر"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Syria Is Off the Terror List, but Washington Still Has Leverage",
-          "excerpt": "US President Donald Trump has fulfilled the promise he made to Syrian President Ahmad al-Sharaa in May 2025, to&#160;give&#160;Syrians “a chance at greatness.” At the end of August of this year, Trump... The post Syria Is Off the Terror Lis",
-          "link": "https://www.fdd.org/analysis/op-eds/2026/09/03/syria-is-off-the-terror-list-but-washington-still-has-leverage/",
-          "publishedAt": "2026-09-03T18:10:39.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
@@ -340,7 +316,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 13:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -390,7 +366,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 13:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -458,6 +434,42 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:21",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Syria Is Off the Terror List, but Washington Still Has Leverage",
+          "excerpt": "US President Donald Trump has fulfilled the promise he made to Syrian President Ahmad al-Sharaa in May 2025, to&#160;give&#160;Syrians “a chance at greatness.” At the end of August of this year, Trump... The post Syria Is Off the Terror Lis",
+          "link": "https://www.fdd.org/analysis/op-eds/2026/09/03/syria-is-off-the-terror-list-but-washington-still-has-leverage/",
+          "publishedAt": "2026-09-03T18:10:39.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -469,7 +481,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 13:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -519,7 +531,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 13:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -555,7 +567,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 13:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 14:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
