@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T17:53:38.166Z",
+    "generatedAt": "2026-09-04T18:08:10.560Z",
     "windowHours": 24,
-    "from": "2026-09-03T17:53:38.166Z",
-    "to": "2026-09-04T17:53:38.166Z"
+    "from": "2026-09-03T18:08:10.560Z",
+    "to": "2026-09-04T18:08:10.560Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 24,
     "files": 8,
-    "withNew": 0,
-    "stale": 8,
+    "withNew": 1,
+    "stale": 7,
     "contested": 1,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 261
+    "archiveCycles": 262
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,13 +46,13 @@
         "مراكز الفكر",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 22,
+      "score": 21,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -149,16 +149,56 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "The National",
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "التقارير الرسمية الدورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria has received many visitors since the civil war ended – but what it really wants is tourists",
+          "excerpt": "Mourhaf Nazha cut a lonely figure at his family's hotel business during the civil war. Few customers were staying at their Golden Mazzeh hotel in west Damascus as renovation was under way to open another, the landmark Royal Semiramis in the",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/syria-tourism-what-next-foreign-tourists-hotels-payments-bookings/",
+          "publishedAt": "2026-09-04T18:00:00.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
-          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
-          "publishedAt": "2026-09-03T17:55:21.000Z",
-          "files": [],
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "First Verified Destruction of Syrian Chemical Munitions Since 2014 Marks ‘Significant Progress’, Disarmament Chief Tells Security Council",
+          "excerpt": "The United Nations disarmament Chief told the Security Council today that the Organisation for the Prohibition of Chemical Weapons (OPCW) has verified the destruction of 42 aerial bombs declared by Syria as part of its chemical weapons prog",
+          "link": "https://press.un.org/en/2026/sc16445.doc.htm",
+          "publishedAt": "2026-09-03T19:11:06.000Z",
+          "files": [
+            "diplomacy"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -179,13 +219,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 13,
+      "score": 12,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -243,20 +283,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قصف إسرائيلي يستهدف بيت جن وحاجز مؤقت في ريف القنيطرة",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الخميس، تلة باط الوردة المحيطة بقرية بيت جن في ريف دمشق الغربي بأربع قذائف مدفعية، وفقاً لـ\"الإخبارية السورية\".",
-          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%AD%D8%A7%D8%AC%D8%B2-%D9%85%D8%A4%D9%82%D8%AA-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-03T18:06:41.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -272,7 +298,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -322,7 +348,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -400,7 +426,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -436,7 +462,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -486,7 +512,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -504,42 +530,6 @@
           "publishedAt": "2026-09-04T10:24:54.000Z",
           "files": [
             "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 17:40",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "First Verified Destruction of Syrian Chemical Munitions Since 2014 Marks ‘Significant Progress’, Disarmament Chief Tells Security Council",
-          "excerpt": "The United Nations disarmament Chief told the Security Council today that the Organisation for the Prohibition of Chemical Weapons (OPCW) has verified the destruction of 42 aerial bombs declared by Syria as part of its chemical weapons prog",
-          "link": "https://press.un.org/en/2026/sc16445.doc.htm",
-          "publishedAt": "2026-09-03T19:11:06.000Z",
-          "files": [
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
