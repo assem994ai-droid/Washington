@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T12:09:09.477Z",
+    "generatedAt": "2026-09-04T12:47:39.553Z",
     "windowHours": 24,
-    "from": "2026-09-03T12:09:09.477Z",
-    "to": "2026-09-04T12:09:09.477Z"
+    "from": "2026-09-03T12:47:39.553Z",
+    "to": "2026-09-04T12:47:39.553Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 24,
     "files": 8,
-    "withNew": 0,
-    "stale": 8,
+    "withNew": 1,
+    "stale": 7,
     "contested": 0,
     "echoed": 1,
     "americanItems": 6,
-    "archiveCycles": 248
+    "archiveCycles": 249
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,24 +34,36 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "The National",
-        "North Press Agency (English)"
+        "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "مراكز الفكر",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 19,
+      "score": 29,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Jordan, Austria discuss Syria support, regional de-escalation",
+          "excerpt": "QAMISHLI, Syria (North Press) – Jordanian Foreign Minister Ayman al-Safadi and Austrian Foreign Minister Beate Meinl-Reisinger discussed on Thursday regional developments, de-escalation and support for Syria’s reconstruction in Vienna. The ",
+          "link": "https://npasyria.com/en/141067/",
+          "publishedAt": "2026-09-04T12:31:26.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -143,7 +155,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -267,7 +279,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -348,7 +360,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -398,7 +410,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -434,7 +446,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -470,7 +482,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -506,7 +518,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
