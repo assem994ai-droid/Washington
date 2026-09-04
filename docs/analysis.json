@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T11:54:05.162Z",
+    "generatedAt": "2026-09-04T12:09:09.477Z",
     "windowHours": 24,
-    "from": "2026-09-03T11:54:05.162Z",
-    "to": "2026-09-04T11:54:05.162Z"
+    "from": "2026-09-03T12:09:09.477Z",
+    "to": "2026-09-04T12:09:09.477Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
-    "files": 7,
+    "items": 23,
+    "files": 8,
     "withNew": 0,
-    "stale": 7,
+    "stale": 8,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 5,
-    "archiveCycles": 247
+    "americanItems": 6,
+    "archiveCycles": 248
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,28 +25,117 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "Federal Register — السجل الفيدرالي الأمريكي",
-      "sourceId": "federal-register",
-      "message": "الخادم ردّ برمز 403"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "The National",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "مراكز الفكر",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 19,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "عون يوقّع قانون العفو العام.. هل يشمل السوريين في سجن رومية؟",
+          "excerpt": "وقّع جوزاف عون قانون العفو العام، ووجّه نواف سلام لنشره اليوم، ما يمهّد لتخفيض عقوبات وإخلاءات سبيل قد تشمل فئات من سجناء رومية.",
+          "link": "https://www.syria.tv/%D8%B9%D9%88%D9%86-%D9%8A%D9%88%D9%82%D9%91%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%81%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%87%D9%84-%D9%8A%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%86-%D8%B1%D9%88%D9%85%D9%8A%D8%A9%D8%9F",
+          "publishedAt": "2026-09-04T11:20:04.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "IDF captures Hamas security chief, reports 29 Gaza ceasefire violations Aug. 19–Sept. 3",
+          "excerpt": "Israeli special operations forces&#160;captured&#160;Moein Muhammad al Arabeed, a senior Hamas security official, during a September 1 raid in the Katiba area of western Gaza City. Meanwhile, the US-backed... The post IDF captures Hamas sec",
+          "link": "https://www.fdd.org/analysis/op-eds/2026/09/03/idf-captures-hamas-security-chief-reports-29-gaza-ceasefire-violations-aug-19-sept-3/",
+          "publishedAt": "2026-09-03T18:52:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria begins destroying chemical weapon materials in break with Assad era",
+          "excerpt": "Syria has begun destroying chemical weapon materials identified in co-operation with the global watchdog, the country's UN envoy has said.Ibrahim Olabi told the UN Security Council that this marked the first destruction process since the en",
+          "link": "https://www.thenationalnews.com/news/us/2026/09/03/syria-breaks-with-assad-era-as-it-begins-destroying-chemical-weapon-materials/",
+          "publishedAt": "2026-09-03T18:34:58.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
+          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
+          "publishedAt": "2026-09-03T17:55:21.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. hails progress as Syria begins chemical materials destruction",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria announced on Thursday the start of destroying some chemical materials found in the country, while the United States hailed significant progress in addressing Syria’s chemical weapons file. Speaking duri",
+          "link": "https://npasyria.com/en/141052/",
+          "publishedAt": "2026-09-03T16:14:28.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "نُقلوا إلى العراق.. قائمة بأسماء 4700 سوري اتُّهموا بالانتماء إلى \"داعش\"",
+          "excerpt": "تداول ناشطون وعائلات معتقلين قائمة تضم أسماء أكثر من 4700 سوري نُقلوا من مراكز احتجاز كانت تديرها \"قوات سوريا الديمقراطية\" (قسد) شمال شرقي سوريا..",
+          "link": "https://www.syria.tv/%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-4700-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D8%AA%D9%91%D9%8F%D9%87%D9%85%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4",
+          "publishedAt": "2026-09-03T16:07:24.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
         "The National",
         "تلفزيون سوريا",
+        "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
@@ -54,20 +143,20 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 18,
       "items": [
         {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
           "title": "Israel releases four more detainees to Lebanon through Red Cross",
-          "excerpt": "Four more detainees captured by Israeli troops in south Lebanon have been handed over to the Lebanese authorities, a move facilitated by the International Committee of the Red Cross, security sources confirmed on Friday, following the relea",
+          "excerpt": "Four more detainees captured by Israeli troops in south Lebanon have been handed over to the Lebanese authorities.The move was facilitated by the International Committee of the Red Cross, security sources confirmed on Friday, following the ",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/04/israel-releases-four-more-detainees-to-lebanon-through-red-cross/",
           "publishedAt": "2026-09-04T10:19:17.000Z",
           "files": [
@@ -100,6 +189,20 @@
           "excerpt": "أفادت مصادر محلية باختطاف عاطف هنيدي، المعروف بلقب \"الباشا\"، عقب اقتحام مسلحين منزله في قرية المجدل بريف السويداء الغربي..",
           "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D9%87-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D8%B3%D9%84%D8%AD%D9%88%D9%86-%D9%8A%D8%AE%D8%AA%D8%B7%D9%81%D9%88%D9%86-%D8%B9%D8%A7%D8%B7%D9%81-%D9%87%D9%86%D9%8A%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
           "publishedAt": "2026-09-04T00:52:14.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter Syria’s Quneitra countryside, shell Damascus outskirts",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered northern Syria’s Quneitra countryside on Thursday with three military vehicles and shelled the outskirts of Beit Jinn in western Damascus countryside. North Press sources in Quneitra an",
+          "link": "https://npasyria.com/en/141055/",
+          "publishedAt": "2026-09-03T18:40:41.000Z",
           "files": [
             "israel"
           ],
@@ -151,92 +254,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "مراكز الفكر",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 12,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عون يوقّع قانون العفو العام.. هل يشمل السوريين في سجن رومية؟",
-          "excerpt": "وقّع جوزاف عون قانون العفو العام، ووجّه نواف سلام لنشره اليوم، ما يمهّد لتخفيض عقوبات وإخلاءات سبيل قد تشمل فئات من سجناء رومية.",
-          "link": "https://www.syria.tv/%D8%B9%D9%88%D9%86-%D9%8A%D9%88%D9%82%D9%91%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%81%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%87%D9%84-%D9%8A%D8%B4%D9%85%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%86-%D8%B1%D9%88%D9%85%D9%8A%D8%A9%D8%9F",
-          "publishedAt": "2026-09-04T11:20:04.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "IDF captures Hamas security chief, reports 29 Gaza ceasefire violations Aug. 19–Sept. 3",
-          "excerpt": "Israeli special operations forces&#160;captured&#160;Moein Muhammad al Arabeed, a senior Hamas security official, during a September 1 raid in the Katiba area of western Gaza City. Meanwhile, the US-backed... The post IDF captures Hamas sec",
-          "link": "https://www.fdd.org/analysis/op-eds/2026/09/03/idf-captures-hamas-security-chief-reports-29-gaza-ceasefire-violations-aug-19-sept-3/",
-          "publishedAt": "2026-09-03T18:52:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria begins destroying chemical weapon materials in break with Assad era",
-          "excerpt": "Syria has begun destroying chemical weapon materials identified in co-operation with the global watchdog, the country's UN envoy has said.Ibrahim Olabi told the UN Security Council that this marked the first destruction process since the en",
-          "link": "https://www.thenationalnews.com/news/us/2026/09/03/syria-breaks-with-assad-era-as-it-begins-destroying-chemical-weapon-materials/",
-          "publishedAt": "2026-09-03T18:34:58.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تعلن تدمير مواد كيميائية من عهد الأسد وترحيب دولي بالتعاون والشفافية",
-          "excerpt": "أعلنت سوريا، خلال جلسة لمجلس الأمن الدولي الخميس، بدء عملية تدمير مواد كيميائية عُثر عليها في البلاد وتعود إلى حقبة النظام المخلوع",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D8%B1%D8%AD%D9%8A%D8%A8-%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9",
-          "publishedAt": "2026-09-03T17:55:21.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "نُقلوا إلى العراق.. قائمة بأسماء 4700 سوري اتُّهموا بالانتماء إلى \"داعش\"",
-          "excerpt": "تداول ناشطون وعائلات معتقلين قائمة تضم أسماء أكثر من 4700 سوري نُقلوا من مراكز احتجاز كانت تديرها \"قوات سوريا الديمقراطية\" (قسد) شمال شرقي سوريا..",
-          "link": "https://www.syria.tv/%D9%86%D9%8F%D9%82%D9%84%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-4700-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D8%AA%D9%91%D9%8F%D9%87%D9%85%D9%88%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%A7%D8%B9%D8%B4",
-          "publishedAt": "2026-09-03T16:07:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -250,7 +267,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -331,7 +348,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -381,7 +398,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -406,6 +423,42 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Mazloum Abdi says Syrian Kurds enter new phase in building Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Presidential Adviser Mazloum Abdi said Kurds have entered a new phase in Syria, participating for the first time in state-building with their own identity. Abdi said it was “not true that we lost every",
+          "link": "https://npasyria.com/en/141063/",
+          "publishedAt": "2026-09-04T10:24:54.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -417,7 +470,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -453,7 +506,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 11:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
