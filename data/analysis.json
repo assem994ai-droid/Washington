@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T10:23:06.053Z",
+    "generatedAt": "2026-09-04T10:38:33.579Z",
     "windowHours": 24,
-    "from": "2026-09-03T10:23:06.053Z",
-    "to": "2026-09-04T10:23:06.053Z"
+    "from": "2026-09-03T10:38:33.579Z",
+    "to": "2026-09-04T10:38:33.579Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 24,
-    "files": 7,
+    "files": 8,
     "withNew": 1,
-    "stale": 6,
+    "stale": 7,
     "contested": 0,
     "echoed": 1,
     "americanItems": 5,
-    "archiveCycles": 243
+    "archiveCycles": 244
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,13 +44,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 28,
+      "score": 19,
       "items": [
         {
           "source": "The National",
@@ -64,7 +64,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -185,7 +185,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -268,6 +268,42 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Mazloum Abdi says Syrian Kurds enter new phase in building Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Presidential Adviser Mazloum Abdi said Kurds have entered a new phase in Syria, participating for the first time in state-building with their own identity. Abdi said it was “not true that we lost every",
+          "link": "https://npasyria.com/en/141063/",
+          "publishedAt": "2026-09-04T10:24:54.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -281,7 +317,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -362,7 +398,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -401,58 +437,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "The National",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Can Hezbollah survive without money?",
-          "excerpt": "When the US announced it was imposing new sanctions on Iran late last month, Treasury Secretary Scott Bessent said the aim was to sever every economic lifeline “until Tehran stands alone”. The burden will also fall on Iran-backed groups acr",
-          "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/04/can-hezbollah-survive-without-money/",
-          "publishedAt": "2026-09-04T02:00:00.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Lebanon dismantles network linked to Hezbollah, Assad regime",
-          "excerpt": "DAMASCUS, Syria (North Press) – Lebanon has foiled a security sabotage plot targeting Syria’s coastal region after dismantling a network operating between the two countries and linked to Lebanon’s Hezbollah and members of the former al-Assa",
-          "link": "https://npasyria.com/en/141041/",
-          "publishedAt": "2026-09-03T10:32:43.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -464,7 +448,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -489,6 +473,42 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "The National"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 2,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Can Hezbollah survive without money?",
+          "excerpt": "When the US announced it was imposing new sanctions on Iran late last month, Treasury Secretary Scott Bessent said the aim was to sever every economic lifeline “until Tehran stands alone”. The burden will also fall on Iran-backed groups acr",
+          "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/04/can-hezbollah-survive-without-money/",
+          "publishedAt": "2026-09-04T02:00:00.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -500,7 +520,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 09:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 10:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
