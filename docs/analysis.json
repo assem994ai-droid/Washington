@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-04T04:57:27.343Z",
+    "generatedAt": "2026-09-04T05:39:57.675Z",
     "windowHours": 24,
-    "from": "2026-09-03T04:57:27.343Z",
-    "to": "2026-09-04T04:57:27.343Z"
+    "from": "2026-09-03T05:39:57.675Z",
+    "to": "2026-09-04T05:39:57.675Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 8,
-    "withNew": 0,
-    "stale": 8,
+    "withNew": 1,
+    "stale": 7,
     "contested": 1,
     "echoed": 1,
     "americanItems": 5,
-    "archiveCycles": 232
+    "archiveCycles": 233
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,24 +31,41 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "The National",
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:38",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 30,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel to release detained Lebanese, EU backs economic pressure on Iran and Syria destroys chemical weapons",
+          "excerpt": "In today's episode of Trending Middle East, Israel is to release five civilians detained in occupied areas of southern Lebanon, as part of a renewed diplomatic push between the two countries. But it comes as the Israeli military abducts thr",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/04/israel-to-release-detained-lebanese-eu-backs-economic-pressure-on-iran-and-syria-destroys-chemical-weapons/",
+          "publishedAt": "2026-09-04T05:31:36.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -195,7 +212,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -303,7 +320,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,7 +372,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -422,7 +439,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -472,7 +489,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -508,7 +525,7 @@
       "circles": [
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -545,7 +562,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-04 04:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
