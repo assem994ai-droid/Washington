@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T05:43:55.498Z",
+    "generatedAt": "2026-09-05T06:08:03.792Z",
     "windowHours": 24,
-    "from": "2026-09-04T05:43:55.498Z",
-    "to": "2026-09-05T05:43:55.498Z"
+    "from": "2026-09-04T06:08:03.792Z",
+    "to": "2026-09-05T06:08:03.792Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 22,
     "files": 7,
-    "withNew": 0,
-    "stale": 7,
+    "withNew": 1,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 281
+    "archiveCycles": 282
   },
   "emptyCircles": [
     "الكونغرس",
@@ -35,22 +35,34 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
-        "تلفزيون سوريا",
         "North Press Agency (English)",
+        "تلفزيون سوريا",
         "Turkish Minute"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 03:36",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 25,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Abdi says neighboring countries oppose Kurdish-language education in Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Former Commander in Chief of the Kurdish-led Syrian Democratic Forces (SDF), Mazloum Abdi, on Friday said that opposition to Kurdish-language education in Syria comes from both domestic parties and neighborin",
+          "link": "https://npasyria.com/en/141078/",
+          "publishedAt": "2026-09-05T05:58:52.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -163,7 +175,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 03:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -213,7 +225,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 03:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -306,7 +318,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 03:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -357,7 +369,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 03:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -407,7 +419,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 03:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -443,7 +455,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 03:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
