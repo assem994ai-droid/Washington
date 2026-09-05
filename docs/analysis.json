@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T19:05:37.894Z",
+    "generatedAt": "2026-09-05T19:45:58.068Z",
     "windowHours": 24,
-    "from": "2026-09-04T19:05:37.894Z",
-    "to": "2026-09-05T19:05:37.894Z"
+    "from": "2026-09-04T19:45:58.068Z",
+    "to": "2026-09-05T19:45:58.068Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 17,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 310
+    "archiveCycles": 311
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,14 +44,26 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 18:50",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 3,
-      "score": 21,
+      "score": 31,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria arrests former regime Major General over alleged abuses",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security Forces arrested former regime Major General Jalal Kamel Saqr on Saturday over alleged involvement in military operations and abuses against civilians. The forces said in a statement ",
+          "link": "https://npasyria.com/en/141104/",
+          "publishedAt": "2026-09-05T19:44:53.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -164,7 +176,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 18:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 19:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -229,7 +241,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 18:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 19:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -265,7 +277,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 18:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 19:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -330,7 +342,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 18:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 19:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
