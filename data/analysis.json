@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T17:28:15.865Z",
+    "generatedAt": "2026-09-05T17:38:21.341Z",
     "windowHours": 24,
-    "from": "2026-09-04T17:28:15.865Z",
-    "to": "2026-09-05T17:28:15.865Z"
+    "from": "2026-09-04T17:38:21.341Z",
+    "to": "2026-09-05T17:38:21.341Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
-    "files": 6,
+    "items": 19,
+    "files": 7,
     "withNew": 0,
-    "stale": 6,
+    "stale": 7,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 305
+    "americanItems": 5,
+    "archiveCycles": 306
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,35 +26,151 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "North Press Agency (English)",
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 17:28",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 3,
+      "score": 21,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Zelensky says Ukraine ready to halt strikes on Moscow",
+          "excerpt": "QAMISHLI, Syria (North Press) – Ukrainian President Volodymyr Zelensky said on Friday that Kyiv would not carry out airstrikes during the visit of U.S. envoys to Moscow, urging Russia to reciprocate. Zelensky said Ukraine would ensure the n",
+          "link": "https://npasyria.com/en/141101/",
+          "publishedAt": "2026-09-05T16:34:52.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "CENTCOM says U.S. strikes three Iranian crude oil tankers",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Central Command (CENTCOM) said on Saturday that U.S. forces struck three Iranian crude oil tankers after the Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles at two U.S. Navy warships",
+          "link": "https://npasyria.com/en/141098/",
+          "publishedAt": "2026-09-05T15:30:41.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "من سوريا إلى العالم.. قضية الباحثات عن المفقودين تحظى باعتراف دولي",
+          "excerpt": "من رحم سنوات من البحث والانتظار، حملت أمهات وزوجات وأخوات وبنات المفقودين عبء المطالبة بمصير أحبائهن، وتمسكن بحقهن في معرفة ما حلّ بهم، لتتحول معاناتهن من قضية عائلية إلى قضية حاضرة على طاولة المؤسسات الوطنية، وصولاً إلى الأمم المتحدة.",
+          "link": "https://sana.sy/syria-and-the-world/2572922/",
+          "publishedAt": "2026-09-05T11:15:38.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وفاة امرأة إثر انهيار منزل متضرر من قصف النظام المخلوع في حماة",
+          "excerpt": "سقف المنزل انهار نتيجة الأضرار والتصدعات التي لحقت به جراء القصف الذي تعرضت له المنطقة خلال سنوات حكم النظام البائد",
+          "link": "https://www.syria.tv/%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%AA%D8%B6%D8%B1%D8%B1-%D9%85%D9%86-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D9%81%D9%8A-%D8%AD%D9%85%D8%A7%D8%A9",
+          "publishedAt": "2026-09-05T10:27:29.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump says Syria offers alternative to Strait of Hormuz for oil shipments",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Friday pointed to Syria as an alternative route for oil shipments amid continued disruption in the Strait of Hormuz. “Many oil pipelines are being built in the Middle East,” Tru",
+          "link": "https://npasyria.com/en/141082/",
+          "publishedAt": "2026-09-05T06:21:38.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Abdi says neighboring countries oppose Kurdish-language education in Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Former Commander in Chief of the Kurdish-led Syrian Democratic Forces (SDF), Mazloum Abdi, on Friday said that opposition to Kurdish-language education in Syria comes from both domestic parties and neighborin",
+          "link": "https://npasyria.com/en/141078/",
+          "publishedAt": "2026-09-05T05:58:52.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "متى تتوقف التعديات على الواقع السوري؟",
+          "excerpt": "لم تقف المسألة عند العدوان الإسرائيلي المستمر على الأراضي السورية، وتواصل قضم الجغرافيا السورية، واعتقال المواطنين السوريين، والتعدي على الممتلكات والمنازل..",
+          "link": "https://www.syria.tv/%D9%85%D8%AA%D9%89-%D8%AA%D8%AA%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D8%AF%D9%8A%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%9F",
+          "publishedAt": "2026-09-05T03:27:55.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "حملة أمنية في حلب تستهدف متورطين بجرائم ارتُكبت بعهد النظام المخلوع",
+          "excerpt": "أطلقت قوى الأمن الداخلي بالاشتراك مع إدارة مكافحة الإرهاب، الجمعة، حملة أمنية في محافظة حلب.",
+          "link": "https://www.syria.tv/%D8%AD%D9%85%D9%84%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%84%D8%A8-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AA%D9%88%D8%B1%D8%B7%D9%8A%D9%86-%D8%A8%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D8%B1%D8%AA%D9%8F%D9%83%D8%A8%D8%AA-%D8%A8%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9",
+          "publishedAt": "2026-09-04T20:29:33.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 12,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -98,21 +214,33 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces set up checkpoint in Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered Ufania villagOn Thursday, Israeli forces fired mortar shells at the vicinity of Bat al-Warda Hill in Damascus countryside. They also entered Umm Batnah village in Quneitra countryside a",
+          "link": "https://npasyria.com/en/141075/",
+          "publishedAt": "2026-09-04T18:50:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
+        "North Press Agency (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
       "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:44",
@@ -120,56 +248,22 @@
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 0,
-      "score": 5,
+      "usItems": 1,
+      "score": 6,
       "items": [
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "من سوريا إلى العالم.. قضية الباحثات عن المفقودين تحظى باعتراف دولي",
-          "excerpt": "من رحم سنوات من البحث والانتظار، حملت أمهات وزوجات وأخوات وبنات المفقودين عبء المطالبة بمصير أحبائهن، وتمسكن بحقهن في معرفة ما حلّ بهم، لتتحول معاناتهن من قضية عائلية إلى قضية حاضرة على طاولة المؤسسات الوطنية، وصولاً إلى الأمم المتحدة.",
-          "link": "https://sana.sy/syria-and-the-world/2572922/",
-          "publishedAt": "2026-09-05T11:15:38.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "وفاة امرأة إثر انهيار منزل متضرر من قصف النظام المخلوع في حماة",
-          "excerpt": "سقف المنزل انهار نتيجة الأضرار والتصدعات التي لحقت به جراء القصف الذي تعرضت له المنطقة خلال سنوات حكم النظام البائد",
-          "link": "https://www.syria.tv/%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%AA%D8%B6%D8%B1%D8%B1-%D9%85%D9%86-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D9%81%D9%8A-%D8%AD%D9%85%D8%A7%D8%A9",
-          "publishedAt": "2026-09-05T10:27:29.000Z",
-          "files": [],
+          "title": "U.S. approves potential $5 billion weapons sale to Saudi Arabia",
+          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Friday approved a potential sale of Joint Direct Attack Munitions-Extend Range (JDAM-ER) to Saudi Arabia for an estimated $5 billion. Boeing will be the principal contractor for t",
+          "link": "https://npasyria.com/en/141086/",
+          "publishedAt": "2026-09-05T07:26:57.000Z",
+          "files": [
+            "congress"
+          ],
           "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "متى تتوقف التعديات على الواقع السوري؟",
-          "excerpt": "لم تقف المسألة عند العدوان الإسرائيلي المستمر على الأراضي السورية، وتواصل قضم الجغرافيا السورية، واعتقال المواطنين السوريين، والتعدي على الممتلكات والمنازل..",
-          "link": "https://www.syria.tv/%D9%85%D8%AA%D9%89-%D8%AA%D8%AA%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D8%AF%D9%8A%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%9F",
-          "publishedAt": "2026-09-05T03:27:55.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "حملة أمنية في حلب تستهدف متورطين بجرائم ارتُكبت بعهد النظام المخلوع",
-          "excerpt": "أطلقت قوى الأمن الداخلي بالاشتراك مع إدارة مكافحة الإرهاب، الجمعة، حملة أمنية في محافظة حلب.",
-          "link": "https://www.syria.tv/%D8%AD%D9%85%D9%84%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%84%D8%A8-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AA%D9%88%D8%B1%D8%B7%D9%8A%D9%86-%D8%A8%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D8%B1%D8%AA%D9%8F%D9%83%D8%A8%D8%AA-%D8%A8%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9",
-          "publishedAt": "2026-09-04T20:29:33.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
+          "us": true
         }
       ]
     },
@@ -185,7 +279,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -250,7 +344,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -286,7 +380,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -322,7 +416,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
