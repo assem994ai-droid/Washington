@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T13:09:39.827Z",
+    "generatedAt": "2026-09-05T13:21:44.413Z",
     "windowHours": 24,
-    "from": "2026-09-04T13:09:39.827Z",
-    "to": "2026-09-05T13:09:39.827Z"
+    "from": "2026-09-04T13:21:44.413Z",
+    "to": "2026-09-05T13:21:44.413Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 20,
     "files": 7,
     "withNew": 0,
     "stale": 7,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 296
+    "archiveCycles": 297
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,6 +23,7 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -32,25 +33,23 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "Turkish Minute"
+        "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف التركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 20,
+      "score": 15,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -147,30 +146,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "دعوة أممية لحماية حق السكن ومراجعة قوانين الملكية في سوريا",
-          "excerpt": "قال مكتب مفوض الأمم المتحدة السامي لحقوق الإنسان، في بيان نشره إن ثلاثة خبراء أمميين حذروا من آثار هذه التشريعات على حقوق آلاف الأسر في السكن والملكية",
-          "link": "https://www.syria.tv/%D8%AF%D8%B9%D9%88%D8%A9-%D8%A3%D9%85%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82-%D8%A7%D9%84%D8%B3%D9%83%D9%86-%D9%88%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-04T13:19:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Syrian Kurdish leader says meeting with Öcalan ‘would be good’",
-          "excerpt": "Mazlum Abdi, the former commander of the Kurdish-led Syrian Democratic Forces (SDF) and now an adviser to Syrian President Ahmed al-Sharaa, said in an interview aired Friday that a meeting with imprisoned Kurdistan Workers’ Party (PKK) foun",
-          "link": "https://turkishminute.com/2026/09/04/syrian-kurdish-leader-says-meeting-with-ocalan-would-be-good/",
-          "publishedAt": "2026-09-04T13:10:20.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -188,7 +163,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -241,7 +216,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -294,6 +269,42 @@
       ]
     },
     {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 13:09",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. approves potential $5 billion weapons sale to Saudi Arabia",
+          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Friday approved a potential sale of Joint Direct Attack Munitions-Extend Range (JDAM-ER) to Saudi Arabia for an estimated $5 billion. Boeing will be the principal contractor for t",
+          "link": "https://npasyria.com/en/141086/",
+          "publishedAt": "2026-09-05T07:26:57.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -305,13 +316,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 6,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -369,56 +380,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عبدي يكشف موعد بدء مهامه مستشارا للرئاسة السورية ويتحدث عن العلاقة مع تركيا",
-          "excerpt": "كشف مظلوم عبدي، القائد العام السابق لقوات سوريا الديمقراطية (قسد)، أن مباشرته مهامه مستشاراً للرئيس السوري أحمد الشرع",
-          "link": "https://www.syria.tv/%D8%B9%D8%A8%D8%AF%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%88%D8%B9%D8%AF-%D8%A8%D8%AF%D8%A1-%D9%85%D9%87%D8%A7%D9%85%D9%87-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7-%D9%84%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-04T13:10:14.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. approves potential $5 billion weapons sale to Saudi Arabia",
-          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Friday approved a potential sale of Joint Direct Attack Munitions-Extend Range (JDAM-ER) to Saudi Arabia for an estimated $5 billion. Boeing will be the principal contractor for t",
-          "link": "https://npasyria.com/en/141086/",
-          "publishedAt": "2026-09-05T07:26:57.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -434,7 +395,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -470,7 +431,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
