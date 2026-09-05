@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T11:28:50.638Z",
+    "generatedAt": "2026-09-05T12:31:53.012Z",
     "windowHours": 24,
-    "from": "2026-09-04T11:28:50.638Z",
-    "to": "2026-09-05T11:28:50.638Z"
+    "from": "2026-09-04T12:31:53.012Z",
+    "to": "2026-09-05T12:31:53.012Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 8,
     "withNew": 0,
     "stale": 8,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 294
+    "archiveCycles": 295
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,13 +44,13 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 21,
+      "score": 20,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -171,18 +171,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Jordan, Austria discuss Syria support, regional de-escalation",
-          "excerpt": "QAMISHLI, Syria (North Press) – Jordanian Foreign Minister Ayman al-Safadi and Austrian Foreign Minister Beate Meinl-Reisinger discussed on Thursday regional developments, de-escalation and support for Syria’s reconstruction in Vienna. The ",
-          "link": "https://npasyria.com/en/141067/",
-          "publishedAt": "2026-09-04T12:31:26.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -201,7 +189,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -281,7 +269,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -331,7 +319,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -424,7 +412,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -460,7 +448,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -496,7 +484,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -532,7 +520,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
