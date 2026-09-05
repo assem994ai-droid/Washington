@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T06:25:29.356Z",
+    "generatedAt": "2026-09-05T07:06:04.938Z",
     "windowHours": 24,
-    "from": "2026-09-04T06:25:29.356Z",
-    "to": "2026-09-05T06:25:29.356Z"
+    "from": "2026-09-04T07:06:04.938Z",
+    "to": "2026-09-05T07:06:04.938Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 25,
     "files": 7,
-    "withNew": 2,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 283
+    "archiveCycles": 284
   },
   "emptyCircles": [
     "الكونغرس",
@@ -43,13 +43,13 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:25",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 29,
+      "score": 20,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -60,7 +60,7 @@
           "link": "https://npasyria.com/en/141082/",
           "publishedAt": "2026-09-05T06:21:38.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -191,8 +191,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 18,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 05-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (05-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-05-09-2026",
+          "publishedAt": "2026-09-05T07:03:55.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -205,7 +219,7 @@
             "turkey",
             "economy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -294,7 +308,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -345,7 +359,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -396,7 +410,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -446,7 +460,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -482,7 +496,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
