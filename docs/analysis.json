@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T07:29:28.145Z",
+    "generatedAt": "2026-09-05T07:48:28.475Z",
     "windowHours": 24,
-    "from": "2026-09-04T07:29:28.145Z",
-    "to": "2026-09-05T07:29:28.145Z"
+    "from": "2026-09-04T07:48:28.475Z",
+    "to": "2026-09-05T07:48:28.475Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 8,
-    "withNew": 1,
-    "stale": 7,
+    "withNew": 0,
+    "stale": 8,
     "contested": 1,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 286
+    "archiveCycles": 287
   },
   "emptyCircles": [
     "الكونغرس",
@@ -43,7 +43,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -174,42 +174,6 @@
       ]
     },
     {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. approves potential $5 billion weapons sale to Saudi Arabia",
-          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Friday approved a potential sale of Joint Direct Attack Munitions-Extend Range (JDAM-ER) to Saudi Arabia for an estimated $5 billion. Boeing will be the principal contractor for t",
-          "link": "https://npasyria.com/en/141086/",
-          "publishedAt": "2026-09-05T07:26:57.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -223,7 +187,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -273,13 +237,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -365,20 +329,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الجمعة 04-09-2026",
-          "excerpt": "تحسن سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الجمعة (04-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-04-09-2026",
-          "publishedAt": "2026-09-04T07:40:17.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -395,7 +345,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -446,7 +396,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -485,6 +435,42 @@
       ]
     },
     {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:29",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. approves potential $5 billion weapons sale to Saudi Arabia",
+          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Friday approved a potential sale of Joint Direct Attack Munitions-Extend Range (JDAM-ER) to Saudi Arabia for an estimated $5 billion. Boeing will be the principal contractor for t",
+          "link": "https://npasyria.com/en/141086/",
+          "publishedAt": "2026-09-05T07:26:57.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -496,7 +482,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -532,7 +518,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 07:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
