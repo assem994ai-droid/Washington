@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T16:36:29.361Z",
+    "generatedAt": "2026-09-05T16:44:58.342Z",
     "windowHours": 24,
-    "from": "2026-09-04T16:36:29.361Z",
-    "to": "2026-09-05T16:36:29.361Z"
+    "from": "2026-09-04T16:44:58.342Z",
+    "to": "2026-09-05T16:44:58.342Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 19,
     "files": 7,
-    "withNew": 2,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 7,
     "contested": 0,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 303
+    "archiveCycles": 304
   },
   "emptyCircles": [
     "الكونغرس",
@@ -43,13 +43,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:36",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 31,
+      "score": 21,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -60,7 +60,7 @@
           "link": "https://npasyria.com/en/141101/",
           "publishedAt": "2026-09-05T16:34:52.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -146,18 +146,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سيرة \"الباشا\" بعد اقتحام منزله غربي السويداء.. من هو عاطف هنيدي؟",
-          "excerpt": "من المضافة والوساطة بين السويداء ودرعا إلى رفض مشاريع الانفصال وإسرائيل، ماذا توثّق المصادر عن عاطف هنيدي، وما الذي يبقى رواية محلية؟",
-          "link": "https://www.syria.tv/%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D8%B4%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%85%D9%86%D8%B2%D9%84%D9%87-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%85%D9%86-%D9%87%D9%88-%D8%B9%D8%A7%D8%B7%D9%81-%D9%87%D9%86%D9%8A%D8%AF%D9%8A%D8%9F",
-          "publishedAt": "2026-09-04T16:37:38.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -176,13 +164,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:36",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 12,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -196,7 +184,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -255,7 +243,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -291,7 +279,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -356,7 +344,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -392,7 +380,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -428,7 +416,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 16:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
