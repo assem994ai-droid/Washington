@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T12:31:53.012Z",
+    "generatedAt": "2026-09-05T13:09:39.827Z",
     "windowHours": 24,
-    "from": "2026-09-04T12:31:53.012Z",
-    "to": "2026-09-05T12:31:53.012Z"
+    "from": "2026-09-04T13:09:39.827Z",
+    "to": "2026-09-05T13:09:39.827Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
-    "files": 8,
+    "items": 23,
+    "files": 7,
     "withNew": 0,
-    "stale": 8,
+    "stale": 7,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 295
+    "archiveCycles": 296
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,7 +44,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -175,6 +175,58 @@
       ]
     },
     {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 12,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "ترامب يؤكد وجود بدائل لمضيق هرمز ويشير لمسارات تمر عبر سوريا لنقل الطاقة",
+          "excerpt": "أكد الرئيس الأمريكي دونالد ترامب اليوم الجمعة، أن هناك بدائل كثيرة لمضيق هرمز، مشيراً إلى وجود شاحنات تنقل النفط عبر سوريا، وذلك في ظل استمرار التوترات في منطقة الشرق الأوسط.",
+          "link": "https://sana.sy/syria-and-the-world/2572601/",
+          "publishedAt": "2026-09-04T20:48:44.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "ديروان: الصناعة السورية تدخل مرحلة جديدة عنوانها الاقتصاد الحر والانفتاح الخارجي",
+          "excerpt": "ديروان: الاقتصاد الحر ورفع العقوبات يفتحان للصناعة السورية أسواقاً جديدة ويعززان قدرتها على المنافسة عالمياً.. فهل تنجح؟",
+          "link": "https://www.syria.tv/%D8%AF%D9%8A%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D8%AE%D9%84-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86%D9%88%D8%A7%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A",
+          "publishedAt": "2026-09-04T15:12:44.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -189,13 +241,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 11,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -238,72 +290,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل بثلاث سيارات في الصمدانية الشرقية بريف القنيطرة",
-          "excerpt": "توغلت ثلاث سيارات تابعة لقوات الاحتلال الإسرائيلي، الجمعة، إلى محيط بلدة الصمدانية الشرقية بريف القنيطرة، وفق ما أفاد به موقع \"درعا 24\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%AB%D9%84%D8%A7%D8%AB-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-04T12:58:39.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 12,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "ترامب يؤكد وجود بدائل لمضيق هرمز ويشير لمسارات تمر عبر سوريا لنقل الطاقة",
-          "excerpt": "أكد الرئيس الأمريكي دونالد ترامب اليوم الجمعة، أن هناك بدائل كثيرة لمضيق هرمز، مشيراً إلى وجود شاحنات تنقل النفط عبر سوريا، وذلك في ظل استمرار التوترات في منطقة الشرق الأوسط.",
-          "link": "https://sana.sy/syria-and-the-world/2572601/",
-          "publishedAt": "2026-09-04T20:48:44.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ديروان: الصناعة السورية تدخل مرحلة جديدة عنوانها الاقتصاد الحر والانفتاح الخارجي",
-          "excerpt": "ديروان: الاقتصاد الحر ورفع العقوبات يفتحان للصناعة السورية أسواقاً جديدة ويعززان قدرتها على المنافسة عالمياً.. فهل تنجح؟",
-          "link": "https://www.syria.tv/%D8%AF%D9%8A%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D8%AE%D9%84-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86%D9%88%D8%A7%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A",
-          "publishedAt": "2026-09-04T15:12:44.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -319,7 +305,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -412,7 +398,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -448,7 +434,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -484,7 +470,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -502,42 +488,6 @@
           "publishedAt": "2026-09-04T18:00:00.000Z",
           "files": [
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 11:28",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "From phone taps to arrests: the intelligence trail behind a Lebanon-Syria security operation",
-          "excerpt": "By infiltrating phones, tracking communications and piecing together intelligence across the border, Lebanese and Syrian security authorities uncovered a cell accused of plotting attacks inside Syria.The operation offers a rare window into ",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/from-phone-taps-to-arrests-the-intelligence-trail-behind-a-lebanon-syria-security-operation/",
-          "publishedAt": "2026-09-04T13:01:46.000Z",
-          "files": [
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
