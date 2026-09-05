@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T20:53:44.639Z",
+    "generatedAt": "2026-09-05T21:06:22.608Z",
     "windowHours": 24,
-    "from": "2026-09-04T20:53:44.639Z",
-    "to": "2026-09-05T20:53:44.639Z"
+    "from": "2026-09-04T21:06:22.608Z",
+    "to": "2026-09-05T21:06:22.608Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
-    "files": 4,
+    "items": 11,
+    "files": 3,
     "withNew": 0,
-    "stale": 4,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 314
+    "americanItems": 1,
+    "archiveCycles": 315
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,18 +27,23 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "fetch failed"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
@@ -46,13 +51,13 @@
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 20:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 20:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 4,
-      "score": 29,
+      "usItems": 1,
+      "score": 12,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -79,42 +84,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria arrests former regime Major General over alleged abuses",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security Forces arrested former regime Major General Jalal Kamel Saqr on Saturday over alleged involvement in military operations and abuses against civilians. The forces said in a statement ",
-          "link": "https://npasyria.com/en/141104/",
-          "publishedAt": "2026-09-05T19:44:53.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Zelensky says Ukraine ready to halt strikes on Moscow",
-          "excerpt": "QAMISHLI, Syria (North Press) – Ukrainian President Volodymyr Zelensky said on Friday that Kyiv would not carry out airstrikes during the visit of U.S. envoys to Moscow, urging Russia to reciprocate. Zelensky said Ukraine would ensure the n",
-          "link": "https://npasyria.com/en/141101/",
-          "publishedAt": "2026-09-05T16:34:52.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "CENTCOM says U.S. strikes three Iranian crude oil tankers",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Central Command (CENTCOM) said on Saturday that U.S. forces struck three Iranian crude oil tankers after the Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles at two U.S. Navy warships",
-          "link": "https://npasyria.com/en/141098/",
-          "publishedAt": "2026-09-05T15:30:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
@@ -134,30 +103,6 @@
           "excerpt": "سقف المنزل انهار نتيجة الأضرار والتصدعات التي لحقت به جراء القصف الذي تعرضت له المنطقة خلال سنوات حكم النظام البائد",
           "link": "https://www.syria.tv/%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%AA%D8%B6%D8%B1%D8%B1-%D9%85%D9%86-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D9%81%D9%8A-%D8%AD%D9%85%D8%A7%D8%A9",
           "publishedAt": "2026-09-05T10:27:29.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump says Syria offers alternative to Strait of Hormuz for oil shipments",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Friday pointed to Syria as an alternative route for oil shipments amid continued disruption in the Strait of Hormuz. “Many oil pipelines are being built in the Middle East,” Tru",
-          "link": "https://npasyria.com/en/141082/",
-          "publishedAt": "2026-09-05T06:21:38.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Abdi says neighboring countries oppose Kurdish-language education in Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Former Commander in Chief of the Kurdish-led Syrian Democratic Forces (SDF), Mazloum Abdi, on Friday said that opposition to Kurdish-language education in Syria comes from both domestic parties and neighborin",
-          "link": "https://npasyria.com/en/141078/",
-          "publishedAt": "2026-09-05T05:58:52.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -190,7 +135,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 20:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 20:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -244,42 +189,6 @@
       ]
     },
     {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 20:35",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. approves potential $5 billion weapons sale to Saudi Arabia",
-          "excerpt": "DAMASCUS, Syria (North Press) – The U.S. State Department on Friday approved a potential sale of Joint Direct Attack Munitions-Extend Range (JDAM-ER) to Saudi Arabia for an estimated $5 billion. Boeing will be the principal contractor for t",
-          "link": "https://npasyria.com/en/141086/",
-          "publishedAt": "2026-09-05T07:26:57.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -291,7 +200,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 20:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 20:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
