@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T06:08:03.792Z",
+    "generatedAt": "2026-09-05T06:25:29.356Z",
     "windowHours": 24,
-    "from": "2026-09-04T06:08:03.792Z",
-    "to": "2026-09-05T06:08:03.792Z"
+    "from": "2026-09-04T06:25:29.356Z",
+    "to": "2026-09-05T06:25:29.356Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 24,
     "files": 7,
-    "withNew": 1,
-    "stale": 6,
+    "withNew": 2,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 282
+    "americanItems": 4,
+    "archiveCycles": 283
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,9 +48,21 @@
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 25,
+      "usItems": 2,
+      "score": 29,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump says Syria offers alternative to Strait of Hormuz for oil shipments",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Friday pointed to Syria as an alternative route for oil shipments amid continued disruption in the Strait of Hormuz. “Many oil pipelines are being built in the Middle East,” Tru",
+          "link": "https://npasyria.com/en/141082/",
+          "publishedAt": "2026-09-05T06:21:38.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -60,7 +72,7 @@
           "link": "https://npasyria.com/en/141078/",
           "publishedAt": "2026-09-05T05:58:52.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -162,58 +174,6 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 12,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "ترامب يؤكد وجود بدائل لمضيق هرمز ويشير لمسارات تمر عبر سوريا لنقل الطاقة",
-          "excerpt": "أكد الرئيس الأمريكي دونالد ترامب اليوم الجمعة، أن هناك بدائل كثيرة لمضيق هرمز، مشيراً إلى وجود شاحنات تنقل النفط عبر سوريا، وذلك في ظل استمرار التوترات في منطقة الشرق الأوسط.",
-          "link": "https://sana.sy/syria-and-the-world/2572601/",
-          "publishedAt": "2026-09-04T20:48:44.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ديروان: الصناعة السورية تدخل مرحلة جديدة عنوانها الاقتصاد الحر والانفتاح الخارجي",
-          "excerpt": "ديروان: الاقتصاد الحر ورفع العقوبات يفتحان للصناعة السورية أسواقاً جديدة ويعززان قدرتها على المنافسة عالمياً.. فهل تنجح؟",
-          "link": "https://www.syria.tv/%D8%AF%D9%8A%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D8%AE%D9%84-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86%D9%88%D8%A7%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A",
-          "publishedAt": "2026-09-04T15:12:44.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -225,14 +185,29 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 17,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد نقلهم من سوريا للعراق.. تركيا تبدأ استعادة مواطنيها المتهمين بالانتماء لداعش",
+          "excerpt": "تضم القائمة الموجودة لدى السلطات العراقية 184 تركيا.",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%86%D9%82%D9%84%D9%87%D9%85-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D9%84%D8%AF%D8%A7%D8%B9%D8%B4",
+          "publishedAt": "2026-09-05T06:23:36.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -306,6 +281,58 @@
       ]
     },
     {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 12,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "ترامب يؤكد وجود بدائل لمضيق هرمز ويشير لمسارات تمر عبر سوريا لنقل الطاقة",
+          "excerpt": "أكد الرئيس الأمريكي دونالد ترامب اليوم الجمعة، أن هناك بدائل كثيرة لمضيق هرمز، مشيراً إلى وجود شاحنات تنقل النفط عبر سوريا، وذلك في ظل استمرار التوترات في منطقة الشرق الأوسط.",
+          "link": "https://sana.sy/syria-and-the-world/2572601/",
+          "publishedAt": "2026-09-04T20:48:44.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "ديروان: الصناعة السورية تدخل مرحلة جديدة عنوانها الاقتصاد الحر والانفتاح الخارجي",
+          "excerpt": "ديروان: الاقتصاد الحر ورفع العقوبات يفتحان للصناعة السورية أسواقاً جديدة ويعززان قدرتها على المنافسة عالمياً.. فهل تنجح؟",
+          "link": "https://www.syria.tv/%D8%AF%D9%8A%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D8%AE%D9%84-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86%D9%88%D8%A7%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A",
+          "publishedAt": "2026-09-04T15:12:44.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -318,7 +345,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -369,7 +396,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -419,7 +446,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -455,7 +482,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 05:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 06:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
