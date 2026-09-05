@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T01:18:42.645Z",
+    "generatedAt": "2026-09-05T02:06:44.276Z",
     "windowHours": 24,
-    "from": "2026-09-04T01:18:42.645Z",
-    "to": "2026-09-05T01:18:42.645Z"
+    "from": "2026-09-04T02:06:44.276Z",
+    "to": "2026-09-05T02:06:44.276Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 21,
     "files": 7,
     "withNew": 0,
     "stale": 7,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 276
+    "americanItems": 3,
+    "archiveCycles": 277
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,13 +26,7 @@
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "message": "الخادم ردّ برمز 504"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
@@ -49,7 +43,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:18",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -157,7 +151,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:18",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -210,7 +204,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:18",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -275,7 +269,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:18",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -368,7 +362,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:18",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -407,56 +401,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:05",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 3,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "From phone taps to arrests: the intelligence trail behind a Lebanon-Syria security operation",
-          "excerpt": "By infiltrating phones, tracking communications and piecing together intelligence across the border, Lebanese and Syrian security authorities uncovered a cell accused of plotting attacks inside Syria.The operation offers a rare window into ",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/from-phone-taps-to-arrests-the-intelligence-trail-behind-a-lebanon-syria-security-operation/",
-          "publishedAt": "2026-09-04T13:01:46.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Can Hezbollah survive without money?",
-          "excerpt": "When the US announced it was imposing new sanctions on Iran late last month, Treasury Secretary Scott Bessent said the aim was to sever every economic lifeline “until Tehran stands alone”. The burden will also fall on Iran-backed groups acr",
-          "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/09/04/can-hezbollah-survive-without-money/",
-          "publishedAt": "2026-09-04T02:00:00.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -468,7 +412,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:05",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:18",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -486,6 +430,42 @@
           "publishedAt": "2026-09-04T18:00:00.000Z",
           "files": [
             "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "The National"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 01:18",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "From phone taps to arrests: the intelligence trail behind a Lebanon-Syria security operation",
+          "excerpt": "By infiltrating phones, tracking communications and piecing together intelligence across the border, Lebanese and Syrian security authorities uncovered a cell accused of plotting attacks inside Syria.The operation offers a rare window into ",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/04/from-phone-taps-to-arrests-the-intelligence-trail-behind-a-lebanon-syria-security-operation/",
+          "publishedAt": "2026-09-04T13:01:46.000Z",
+          "files": [
+            "lebanon"
           ],
           "seenBefore": true,
           "us": false
