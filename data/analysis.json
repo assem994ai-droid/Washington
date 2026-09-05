@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-05T15:22:37.813Z",
+    "generatedAt": "2026-09-05T15:35:20.287Z",
     "windowHours": 24,
-    "from": "2026-09-04T15:22:37.813Z",
-    "to": "2026-09-05T15:22:37.813Z"
+    "from": "2026-09-04T15:35:20.287Z",
+    "to": "2026-09-05T15:35:20.287Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 18,
     "files": 7,
-    "withNew": 0,
-    "stale": 7,
+    "withNew": 1,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 301
+    "americanItems": 4,
+    "archiveCycles": 302
   },
   "emptyCircles": [
     "الكونغرس",
@@ -35,22 +35,34 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
+        "North Press Agency (English)",
         "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:09",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 14,
+      "usItems": 2,
+      "score": 27,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "CENTCOM says U.S. strikes three Iranian crude oil tankers",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Central Command (CENTCOM) said on Saturday that U.S. forces struck three Iranian crude oil tankers after the Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles at two U.S. Navy warships",
+          "link": "https://npasyria.com/en/141098/",
+          "publishedAt": "2026-09-05T15:30:41.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -152,7 +164,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -216,7 +228,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -252,7 +264,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -317,7 +329,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -353,7 +365,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -389,7 +401,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-05 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
