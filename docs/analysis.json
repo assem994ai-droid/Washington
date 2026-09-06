@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-06T06:42:00.372Z",
+    "generatedAt": "2026-09-06T07:07:55.824Z",
     "windowHours": 24,
-    "from": "2026-09-05T06:42:00.372Z",
-    "to": "2026-09-06T06:42:00.372Z"
+    "from": "2026-09-05T07:07:55.824Z",
+    "to": "2026-09-06T07:07:55.824Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 18,
-    "files": 5,
+    "files": 4,
     "withNew": 1,
-    "stale": 4,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 6,
-    "archiveCycles": 331
+    "archiveCycles": 332
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:42",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 5,
-      "score": 45,
+      "score": 36,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -64,7 +64,7 @@
           "link": "https://npasyria.com/en/141109/",
           "publishedAt": "2026-09-06T06:37:58.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -194,8 +194,9 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
       ],
@@ -203,14 +204,28 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:26",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 22,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces intensify attacks across southern Syria",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces shelled the southern outskirts of al-Rafid village and Tel Ahmar Sharqi in Quneitra countryside, southern Syria, with more than 10 artillery shells fired from the Israeli-occupied Golan Heights, l",
+          "link": "https://npasyria.com/en/141112/",
+          "publishedAt": "2026-09-06T07:02:29.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -282,7 +297,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:42",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -318,7 +333,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:42",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -336,42 +351,6 @@
           "publishedAt": "2026-09-06T03:06:51.000Z",
           "files": [
             "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:26",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 05-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (05-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-05-09-2026",
-          "publishedAt": "2026-09-05T07:03:55.000Z",
-          "files": [
-            "turkey"
           ],
           "seenBefore": true,
           "us": false
