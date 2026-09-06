@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-06T08:07:25.744Z",
+    "generatedAt": "2026-09-06T08:22:41.790Z",
     "windowHours": 24,
-    "from": "2026-09-05T08:07:25.744Z",
-    "to": "2026-09-06T08:07:25.744Z"
+    "from": "2026-09-05T08:22:41.790Z",
+    "to": "2026-09-06T08:22:41.790Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -13,8 +13,8 @@
     "stale": 3,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 336
+    "americanItems": 6,
+    "archiveCycles": 337
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,8 +33,9 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
+        "The National",
         "North Press Agency (English)",
         "Al-Monitor",
         "تلفزيون سوريا",
@@ -42,19 +43,31 @@
         "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 07:54",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 5,
-      "score": 36,
+      "usItems": 6,
+      "score": 52,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "US envoy Barrack urges restraint and dialogue as violence escalates in Syria's Sweida",
+          "excerpt": "US envoy to Syria Tom Barrack has called for restraint amid renewed violence in the southern province of Sweida and stressed there was no alternative to talks if the region was to avoid another round of bloodshed.On Monday, at least 10 Syri",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/06/us-envoy-barrack-urges-restraint-and-dialogue-as-violence-escalates-in-syrias-sweida/",
+          "publishedAt": "2026-09-06T08:20:14.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -204,13 +217,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 07:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 08:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 13,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -274,23 +287,9 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Can Fatah’s Democratic Reform faction handle peace with both Israel and Hamas?",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/736401' alt='MOHAMMAD DAHLAN, leader of Fatah’s Democratic Reform faction, has called for Palestinians to put past divisi",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1273,w_1969/736401' alt='MOHAMMAD DAHLAN, leader of Fatah’s Democratic Reform faction, has called for Palestinians to put past divi",
           "link": "https://www.jpost.com/middle-east/article-907520",
           "publishedAt": "2026-09-05T09:53:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال الإسرائيلي تتوغل في قرية الأصبح بالقنيطرة وتدهم منزلا",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، فجر السبت، في قرية الأصبح بريف القنيطرة الجنوبي.",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B5%D8%A8%D8%AD-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D8%AF%D9%87%D9%85-%D9%85%D9%86%D8%B2%D9%84%D8%A7",
-          "publishedAt": "2026-09-05T08:16:52.000Z",
           "files": [
             "israel"
           ],
@@ -311,13 +310,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 08:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -330,7 +329,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -347,7 +346,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 07:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 08:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
