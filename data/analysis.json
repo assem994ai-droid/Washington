@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-06T05:45:02.487Z",
+    "generatedAt": "2026-09-06T06:08:23.436Z",
     "windowHours": 24,
-    "from": "2026-09-05T05:45:02.487Z",
-    "to": "2026-09-06T05:45:02.487Z"
+    "from": "2026-09-05T06:08:23.436Z",
+    "to": "2026-09-06T06:08:23.436Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 19,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 328
+    "americanItems": 6,
+    "archiveCycles": 329
   },
   "emptyCircles": [
     "الكونغرس",
@@ -35,26 +35,38 @@
       "contested": false,
       "independentSources": 5,
       "sources": [
+        "North Press Agency (English)",
         "Al-Monitor",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:36",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 4,
-      "score": 33,
+      "usItems": 5,
+      "score": 45,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. envoy urges restraint as Syria’s Suwayda tensions escalate",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Special Envoy for Syria Tom Barrack on Sunday expressed concern over renewed tensions in Suwayda, southern Syria, calling for restraint, dialogue and accountability amid reports of escalating intra-Druze",
+          "link": "https://npasyria.com/en/141107/",
+          "publishedAt": "2026-09-06T06:02:57.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -174,18 +186,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Abdi says neighboring countries oppose Kurdish-language education in Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Former Commander in Chief of the Kurdish-led Syrian Democratic Forces (SDF), Mazloum Abdi, on Friday said that opposition to Kurdish-language education in Syria comes from both domestic parties and neighborin",
-          "link": "https://npasyria.com/en/141078/",
-          "publishedAt": "2026-09-05T05:58:52.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -203,7 +203,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -282,7 +282,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 03:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -318,7 +318,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -369,7 +369,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
