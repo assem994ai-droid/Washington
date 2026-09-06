@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-06T06:08:23.436Z",
+    "generatedAt": "2026-09-06T06:26:36.268Z",
     "windowHours": 24,
-    "from": "2026-09-05T06:08:23.436Z",
-    "to": "2026-09-06T06:08:23.436Z"
+    "from": "2026-09-05T06:26:36.268Z",
+    "to": "2026-09-06T06:26:36.268Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 17,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 6,
-    "archiveCycles": 329
+    "americanItems": 5,
+    "archiveCycles": 330
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:08",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
-      "usItems": 5,
-      "score": 45,
+      "usItems": 4,
+      "score": 32,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -64,7 +64,7 @@
           "link": "https://npasyria.com/en/141107/",
           "publishedAt": "2026-09-06T06:02:57.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -174,18 +174,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump says Syria offers alternative to Strait of Hormuz for oil shipments",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Friday pointed to Syria as an alternative route for oil shipments amid continued disruption in the Strait of Hormuz. “Many oil pipelines are being built in the Middle East,” Tru",
-          "link": "https://npasyria.com/en/141082/",
-          "publishedAt": "2026-09-05T06:21:38.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -203,7 +191,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -282,7 +270,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -307,57 +295,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:45",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 4,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 05-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (05-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-05-09-2026",
-          "publishedAt": "2026-09-05T07:03:55.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد نقلهم من سوريا للعراق.. تركيا تبدأ استعادة مواطنيها المتهمين بالانتماء لداعش",
-          "excerpt": "تضم القائمة الموجودة لدى السلطات العراقية 184 تركيا.",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%86%D9%82%D9%84%D9%87%D9%85-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%85%D8%A7%D8%A1-%D9%84%D8%AF%D8%A7%D8%B9%D8%B4",
-          "publishedAt": "2026-09-05T06:23:36.000Z",
-          "files": [
-            "turkey",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -369,7 +306,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 05:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -387,6 +324,42 @@
           "publishedAt": "2026-09-06T03:06:51.000Z",
           "files": [
             "sdf"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 06:08",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 05-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (05-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-05-09-2026",
+          "publishedAt": "2026-09-05T07:03:55.000Z",
+          "files": [
+            "turkey"
           ],
           "seenBefore": true,
           "us": false
