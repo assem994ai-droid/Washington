@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-06T07:36:36.525Z",
+    "generatedAt": "2026-09-06T07:54:11.078Z",
     "windowHours": 24,
-    "from": "2026-09-05T07:36:36.525Z",
-    "to": "2026-09-06T07:36:36.525Z"
+    "from": "2026-09-05T07:54:11.078Z",
+    "to": "2026-09-06T07:54:11.078Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 18,
     "files": 3,
-    "withNew": 0,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 334
+    "archiveCycles": 335
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,7 +47,7 @@
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 07:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 07:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -196,22 +196,36 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
-        "North Press Agency (English)",
         "تلفزيون سوريا",
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 07:21",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 13,
+      "score": 23,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تصعيد إسرائيلي جنوبي سوريا.. قصف وتوغلات في القنيطرة ودرعا وريف دمشق",
+          "excerpt": "شهدت مناطق متفرقة في ريفي القنيطرة ودرعا وريف دمشق الغربي تصعيداً عسكرياً إسرائيلياً، السبت تزامن مع قصف مدفعي وإطلاق نار وتوغل لقوات الاحتلال في عدد من القرى و",
+          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-09-06T07:51:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -297,7 +311,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 07:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 07:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
