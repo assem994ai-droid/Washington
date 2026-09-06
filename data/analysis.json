@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-06T08:22:41.790Z",
+    "generatedAt": "2026-09-06T08:38:30.494Z",
     "windowHours": 24,
-    "from": "2026-09-05T08:22:41.790Z",
-    "to": "2026-09-06T08:22:41.790Z"
+    "from": "2026-09-05T08:38:30.494Z",
+    "to": "2026-09-06T08:38:30.494Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
-    "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "items": 12,
+    "files": 2,
+    "withNew": 0,
+    "stale": 2,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 6,
-    "archiveCycles": 337
+    "americanItems": 5,
+    "archiveCycles": 338
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,19 +26,24 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "The National",
         "North Press Agency (English)",
         "Al-Monitor",
-        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة"
       ],
@@ -48,13 +53,13 @@
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 08:22",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
-      "usItems": 6,
-      "score": 52,
+      "usItems": 5,
+      "score": 34,
       "items": [
         {
           "source": "The National",
@@ -65,7 +70,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/09/06/us-envoy-barrack-urges-restraint-and-dialogue-as-violence-escalates-in-syrias-sweida/",
           "publishedAt": "2026-09-06T08:20:14.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -103,30 +108,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قتلى وإحراق منازل في مواجهات عشائرية تشهدها الحسكة",
-          "excerpt": "تشهد محافظة الحسكة مواجهات عشائرية دامية، أسفرت عن مقتل شابين وإحراق عدد من المنازل، وسط مناشدات لتدخل السلطات بهدف احتواء النزاع ووقف التصعيد.",
-          "link": "https://www.syria.tv/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%A5%D8%AD%D8%B1%D8%A7%D9%82-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B4%D9%87%D8%AF%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
-          "publishedAt": "2026-09-05T23:10:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "باراك: غياب الدولة في السويداء أفسح المجال للعصابات وقضية عاطف هنيدي تعكس ذلك",
-          "excerpt": "أعرب المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توم باراك، عن قلق الولايات المتحدة إزاء التصعيد المتجدد في محافظة السويداء..",
-          "link": "https://www.syria.tv/%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D8%BA%D9%8A%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A3%D9%81%D8%B3%D8%AD-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84-%D9%84%D9%84%D8%B9%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D9%82%D8%B6%D9%8A%D8%A9-%D8%B9%D8%A7%D8%B7%D9%81-%D9%87%D9%86%D9%8A%D8%AF%D9%8A-%D8%AA%D8%B9%D9%83%D8%B3-%D8%B0%D9%84%D9%83",
-          "publishedAt": "2026-09-05T20:37:48.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -187,18 +168,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وفاة امرأة إثر انهيار منزل متضرر من قصف النظام المخلوع في حماة",
-          "excerpt": "سقف المنزل انهار نتيجة الأضرار والتصدعات التي لحقت به جراء القصف الذي تعرضت له المنطقة خلال سنوات حكم النظام البائد",
-          "link": "https://www.syria.tv/%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%AA%D8%B6%D8%B1%D8%B1-%D9%85%D9%86-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D9%81%D9%8A-%D8%AD%D9%85%D8%A7%D8%A9",
-          "publishedAt": "2026-09-05T10:27:29.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -207,9 +176,8 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
@@ -217,28 +185,14 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 08:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 13,
+      "score": 8,
       "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تصعيد إسرائيلي جنوبي سوريا.. قصف وتوغلات في القنيطرة ودرعا وريف دمشق",
-          "excerpt": "شهدت مناطق متفرقة في ريفي القنيطرة ودرعا وريف دمشق الغربي تصعيداً عسكرياً إسرائيلياً، السبت تزامن مع قصف مدفعي وإطلاق نار وتوغل لقوات الاحتلال في عدد من القرى و",
-          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
-          "publishedAt": "2026-09-06T07:51:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -247,20 +201,6 @@
           "excerpt": "DARAA, Syria (North Press) – Israeli forces shelled the southern outskirts of al-Rafid village and Tel Ahmar Sharqi in Quneitra countryside, southern Syria, with more than 10 artillery shells fired from the Israeli-occupied Golan Heights, l",
           "link": "https://npasyria.com/en/141112/",
           "publishedAt": "2026-09-06T07:02:29.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يقصف بالمدفعية بلدة الرفيد بريف القنيطرة",
-          "excerpt": "هاجم الاحتلال الإسرائيلي بلدة الرفيد بريف القنيطرة بست قذائف مدفعية",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-05T23:18:51.000Z",
           "files": [
             "israel"
           ],
@@ -292,78 +232,6 @@
           "publishedAt": "2026-09-05T09:53:52.000Z",
           "files": [
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 08:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "لتقليل الاعتماد على هرمز.. العراق يعلن رفع صادرات النفط عبر سوريا وتركيا",
-          "excerpt": "تكتسب مشاريع خطوط الأنابيب الجديدة أهمية إضافية في ظل سعي العراق إلى تقليل اعتماده على طرق تصدير النفط عبر مضيق هرمز الذي يعاني من اضطرابات متواصلة",
-          "link": "https://www.syria.tv/%D9%84%D8%AA%D9%82%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B9%D9%84%D9%89-%D9%87%D8%B1%D9%85%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%84%D9%86-%D8%B1%D9%81%D8%B9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-06T07:56:31.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 08:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الهجري.. نهاية لَـحد أم درس \"قسد\"؟",
-          "excerpt": "بين التجربتين السوريتين، \"قوات سوريا الديمقراطية\" (قسد) و\"مشروع الهجري\" في السويداء، قاسم مشترك يتعلق بقيمة الأوراق المحلية عندما تتغير حسابات القوى الخارجية..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D9%84%D9%8E%D9%80%D8%AD%D8%AF-%D8%A3%D9%85-%D8%AF%D8%B1%D8%B3-%D9%82%D8%B3%D8%AF%D8%9F",
-          "publishedAt": "2026-09-06T03:06:51.000Z",
-          "files": [
-            "sdf"
           ],
           "seenBefore": true,
           "us": false
