@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-06T21:39:44.171Z",
+    "generatedAt": "2026-09-06T21:49:21.902Z",
     "windowHours": 24,
-    "from": "2026-09-05T21:39:44.171Z",
-    "to": "2026-09-06T21:39:44.171Z"
+    "from": "2026-09-05T21:49:21.902Z",
+    "to": "2026-09-06T21:49:21.902Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
+    "items": 19,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 368
+    "americanItems": 6,
+    "archiveCycles": 369
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,39 +27,46 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "Al-Monitor",
         "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 19,
+      "usItems": 4,
+      "score": 31,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Jdeidet Yabous border crossing records 2 million passengers in 2026",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Jdeidet Yabous border crossing with Lebanon has recorded active passenger and commercial truck traffic during the first eight months of 2026, Syrian authorities say. From the beginning of the year thr",
+          "link": "https://npasyria.com/en/141144/",
+          "publishedAt": "2026-09-06T18:00:05.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -109,6 +116,30 @@
           "us": true
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. strikes Iranian oil tankers after missile attack on Navy vessels",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. forces struck three Iranian oil tankers after Iranian ballistic missiles targeted American Navy vessels in the region, the U.S. military said on Saturday, marking a dangerous escalation in the months-lon",
+          "link": "https://npasyria.com/en/141109/",
+          "publishedAt": "2026-09-06T06:37:58.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. envoy urges restraint as Syria’s Suwayda tensions escalate",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Special Envoy for Syria Tom Barrack on Sunday expressed concern over renewed tensions in Suwayda, southern Syria, calling for restraint, dialogue and accountability amid reports of escalating intra-Druze",
+          "link": "https://npasyria.com/en/141107/",
+          "publishedAt": "2026-09-06T06:02:57.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
           "circle": "الإعلام المتخصص",
@@ -139,23 +170,38 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 11,
+      "score": 16,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli Shelling Kills Livestock in Syria’s Quneitra Countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Several livestock were killed on Sunday in Israeli artillery shelling targeting agricultural land in central Syria’s Quneitra countryside, according to North Press correspondent. The Quneitra Governorate Medi",
+          "link": "https://npasyria.com/en/141141/",
+          "publishedAt": "2026-09-06T16:30:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -178,6 +224,20 @@
           "excerpt": "شهدت مناطق متفرقة في ريفي القنيطرة ودرعا وريف دمشق الغربي تصعيداً عسكرياً إسرائيلياً، السبت تزامن مع قصف مدفعي وإطلاق نار وتوغل لقوات الاحتلال في عدد من القرى و",
           "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
           "publishedAt": "2026-09-06T07:51:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces intensify attacks across southern Syria",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces shelled the southern outskirts of al-Rafid village and Tel Ahmar Sharqi in Quneitra countryside, southern Syria, with more than 10 artillery shells fired from the Israeli-occupied Golan Heights, l",
+          "link": "https://npasyria.com/en/141112/",
+          "publishedAt": "2026-09-06T07:02:29.000Z",
           "files": [
             "israel"
           ],
@@ -214,7 +274,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -254,6 +314,58 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "North Press Agency (English)",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:39",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. envoys arrive in Kyiv to revive Ukraine peace talks",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. envoys Steve Witkoff and Jared Kushner on Sunday arrived in Kyiv for talks with Ukrainian officials as Washington renewed efforts to revive negotiations aimed at ending Russia’s full-scale war in Ukraine",
+          "link": "https://npasyria.com/en/141132/",
+          "publishedAt": "2026-09-06T11:13:49.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE leaders hold talks with Bahrain's King Hamad in Dubai",
+          "excerpt": "President Sheikh Mohamed has met Bahrain's King Hamad in Dubai to strengthen ties between their two nations.The meeting, held on Saturday in the presence of Sheikh Mohammed bin Rashid, Vice President and Ruler of Dubai, reflected the long-s",
+          "link": "https://www.thenationalnews.com/news/uae/2026/09/06/uae-leaders-hold-talks-with-bahrains-king-hamad-in-dubai/",
+          "publishedAt": "2026-09-06T10:36:09.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -265,7 +377,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -283,42 +395,6 @@
           "publishedAt": "2026-09-06T03:06:51.000Z",
           "files": [
             "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 21:06",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE leaders hold talks with Bahrain's King Hamad in Dubai",
-          "excerpt": "President Sheikh Mohamed has met Bahrain's King Hamad in Dubai to strengthen ties between their two nations.The meeting, held on Saturday in the presence of Sheikh Mohammed bin Rashid, Vice President and Ruler of Dubai, reflected the long-s",
-          "link": "https://www.thenationalnews.com/news/uae/2026/09/06/uae-leaders-hold-talks-with-bahrains-king-hamad-in-dubai/",
-          "publishedAt": "2026-09-06T10:36:09.000Z",
-          "files": [
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
