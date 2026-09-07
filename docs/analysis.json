@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T08:11:46.417Z",
+    "generatedAt": "2026-09-07T08:32:54.841Z",
     "windowHours": 24,
-    "from": "2026-09-06T08:11:46.417Z",
-    "to": "2026-09-07T08:11:46.417Z"
+    "from": "2026-09-06T08:32:54.841Z",
+    "to": "2026-09-07T08:32:54.841Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 13,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 384
+    "americanItems": 3,
+    "archiveCycles": 385
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,26 +33,25 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
-        "Al-Monitor",
-        "The National"
+        "Al-Monitor"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 07:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 08:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 21,
+      "usItems": 1,
+      "score": 14,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -101,86 +100,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US envoy Barrack urges restraint and dialogue as violence escalates in Syria's Sweida",
-          "excerpt": "US envoy to Syria Tom Barrack has called for restraint amid renewed violence in the southern province of Sweida and stressed there was no alternative to talks if the region was to avoid another round of bloodshed.On Monday, at least 10 Syri",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/06/us-envoy-barrack-urges-restraint-and-dialogue-as-violence-escalates-in-syrias-sweida/",
-          "publishedAt": "2026-09-06T08:20:14.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "The National"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 19,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الحصري: مباحثات سوريا والسعودية ركزت على تطوير الطيران المدني وتوسيع ‏الربط الجوي",
-          "excerpt": "أكد رئيس الهيئة العامة للطيران المدني والنقل الجوي عمر الحصري، أن المباحثات التي ‏أجراها مع رئيس الهيئة العامة للطيران المدني في المملكة العربية السعودية عبد العزيز ‏الدعيلج في الرياض، ركزت على دعم خطة تطوير منظومة الطيران المدني السوري، ‏و",
-          "link": "https://sana.sy/syria-and-the-world/2574527/",
-          "publishedAt": "2026-09-07T08:00:14.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. envoys arrive in Kyiv to revive Ukraine peace talks",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. envoys Steve Witkoff and Jared Kushner on Sunday arrived in Kyiv for talks with Ukrainian officials as Washington renewed efforts to revive negotiations aimed at ending Russia’s full-scale war in Ukraine",
-          "link": "https://npasyria.com/en/141132/",
-          "publishedAt": "2026-09-06T11:13:49.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE leaders hold talks with Bahrain's King Hamad in Dubai",
-          "excerpt": "President Sheikh Mohamed has met Bahrain's King Hamad in Dubai to strengthen ties between their two nations.The meeting, held on Saturday in the presence of Sheikh Mohammed bin Rashid, Vice President and Ruler of Dubai, reflected the long-s",
-          "link": "https://www.thenationalnews.com/news/uae/2026/09/06/uae-leaders-hold-talks-with-bahrains-king-hamad-in-dubai/",
-          "publishedAt": "2026-09-06T10:36:09.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -198,7 +117,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 07:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 08:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -266,6 +185,74 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "The National"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 08:11",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 10,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الحصري: مباحثات سوريا والسعودية ركزت على تطوير الطيران المدني وتوسيع ‏الربط الجوي",
+          "excerpt": "أكد رئيس الهيئة العامة للطيران المدني والنقل الجوي عمر الحصري، أن المباحثات التي ‏أجراها مع رئيس الهيئة العامة للطيران المدني في المملكة العربية السعودية عبد العزيز ‏الدعيلج في الرياض، ركزت على دعم خطة تطوير منظومة الطيران المدني السوري، ‏و",
+          "link": "https://sana.sy/syria-and-the-world/2574527/",
+          "publishedAt": "2026-09-07T08:00:14.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. envoys arrive in Kyiv to revive Ukraine peace talks",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. envoys Steve Witkoff and Jared Kushner on Sunday arrived in Kyiv for talks with Ukrainian officials as Washington renewed efforts to revive negotiations aimed at ending Russia’s full-scale war in Ukraine",
+          "link": "https://npasyria.com/en/141132/",
+          "publishedAt": "2026-09-06T11:13:49.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE leaders hold talks with Bahrain's King Hamad in Dubai",
+          "excerpt": "President Sheikh Mohamed has met Bahrain's King Hamad in Dubai to strengthen ties between their two nations.The meeting, held on Saturday in the presence of Sheikh Mohammed bin Rashid, Vice President and Ruler of Dubai, reflected the long-s",
+          "link": "https://www.thenationalnews.com/news/uae/2026/09/06/uae-leaders-hold-talks-with-bahrains-king-hamad-in-dubai/",
+          "publishedAt": "2026-09-06T10:36:09.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -279,7 +266,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 07:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 08:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
