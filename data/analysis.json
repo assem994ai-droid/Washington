@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T13:52:48.909Z",
+    "generatedAt": "2026-09-07T14:07:17.120Z",
     "windowHours": 24,
-    "from": "2026-09-06T13:52:48.909Z",
-    "to": "2026-09-07T13:52:48.909Z"
+    "from": "2026-09-06T14:07:17.120Z",
+    "to": "2026-09-07T14:07:17.120Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 15,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 395
+    "americanItems": 2,
+    "archiveCycles": 396
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,66 +30,14 @@
   "errors": [],
   "files": [
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 25,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
-          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
-          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
-          "publishedAt": "2026-09-07T13:46:52.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
-          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
-          "link": "https://sana.sy/reports/2574649/",
-          "publishedAt": "2026-09-07T11:17:57.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل"
@@ -100,8 +48,23 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 22,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاجتماع الوزاري العربي يدين الانتهاكات الإسرائيلية في سوريا ولبنان وفلسطين",
+          "excerpt": "دعا الوزراء خلال اجتماعهم في القاهرة إلى وقف التصعيد والعودة للمسار الدبلوماسي، مع التأكيد على احترام سيادة الدول العربية",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+          "publishedAt": "2026-09-07T14:01:31.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -114,7 +77,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -206,61 +169,52 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
       "sources": [
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 10,
+      "usItems": 2,
+      "score": 16,
       "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria’s Jdeidet Yabous border crossing records 2 million passengers in 2026",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Jdeidet Yabous border crossing with Lebanon has recorded active passenger and commercial truck traffic during the first eight months of 2026, Syrian authorities say. From the beginning of the year thr",
-          "link": "https://npasyria.com/en/141144/",
-          "publishedAt": "2026-09-06T18:00:05.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "‘Al-Aqsa, be patient’: Chants against ‘Zionist scum’ heard at Damascus International Fair - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/736649' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
-          "link": "https://www.jpost.com/middle-east/article-907726",
-          "publishedAt": "2026-09-06T17:30:56.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "تصريحات باراك بشأن السويداء.. هل انتقلت واشنطن من الاحتواء إلى الضغط؟",
-          "excerpt": "ماذا تعني هذه الرسائل الأميركية؟ وهل تشير إلى تحول في مقاربة واشنطن لملف السويداء؟",
-          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%87%D9%84-%D8%A7%D9%86%D8%AA%D9%82%D9%84%D8%AA-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B6%D8%BA%D8%B7%D8%9F",
-          "publishedAt": "2026-09-06T14:04:00.000Z",
-          "files": [],
+          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
+          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
+          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+          "publishedAt": "2026-09-07T13:46:52.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
+          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
+          "link": "https://sana.sy/reports/2574649/",
+          "publishedAt": "2026-09-07T11:17:57.000Z",
+          "files": [
+            "sanctions"
+          ],
           "seenBefore": true,
           "us": true
         }
@@ -278,7 +232,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -317,6 +271,54 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:52",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Jdeidet Yabous border crossing records 2 million passengers in 2026",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Jdeidet Yabous border crossing with Lebanon has recorded active passenger and commercial truck traffic during the first eight months of 2026, Syrian authorities say. From the beginning of the year thr",
+          "link": "https://npasyria.com/en/141144/",
+          "publishedAt": "2026-09-06T18:00:05.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "‘Al-Aqsa, be patient’: Chants against ‘Zionist scum’ heard at Damascus International Fair - report",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/736649' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
+          "link": "https://www.jpost.com/middle-east/article-907726",
+          "publishedAt": "2026-09-06T17:30:56.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -328,7 +330,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
