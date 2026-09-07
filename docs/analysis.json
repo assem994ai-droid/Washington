@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T13:40:10.723Z",
+    "generatedAt": "2026-09-07T13:52:48.909Z",
     "windowHours": 24,
-    "from": "2026-09-06T13:40:10.723Z",
-    "to": "2026-09-07T13:40:10.723Z"
+    "from": "2026-09-06T13:52:48.909Z",
+    "to": "2026-09-07T13:52:48.909Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
+    "items": 15,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 2,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 394
+    "americanItems": 3,
+    "archiveCycles": 395
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,26 +30,93 @@
   "errors": [],
   "files": [
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 2,
+      "score": 25,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
+          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
+          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+          "publishedAt": "2026-09-07T13:46:52.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
+          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
+          "link": "https://sana.sy/reports/2574649/",
+          "publishedAt": "2026-09-07T11:17:57.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 11,
+      "score": 21,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Shaibani says Arab rights in Golan remain non-negotiable",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani said on Monday that Syria reaffirms that Arab rights in the occupied Golan are non-negotiable. Speaking at a meeting of Arab foreign ministers during the 166th sessio",
+          "link": "https://npasyria.com/en/141177/",
+          "publishedAt": "2026-09-07T13:47:39.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -153,7 +220,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -200,42 +267,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 9,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
-          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
-          "link": "https://sana.sy/reports/2574649/",
-          "publishedAt": "2026-09-07T11:17:57.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -247,7 +278,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -297,7 +328,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
