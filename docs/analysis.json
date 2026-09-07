@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T11:30:12.533Z",
+    "generatedAt": "2026-09-07T12:36:41.364Z",
     "windowHours": 24,
-    "from": "2026-09-06T11:30:12.533Z",
-    "to": "2026-09-07T11:30:12.533Z"
+    "from": "2026-09-06T12:36:41.364Z",
+    "to": "2026-09-07T12:36:41.364Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 13,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 391
+    "archiveCycles": 392
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,42 +28,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 18,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
-          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
-          "link": "https://sana.sy/reports/2574649/",
-          "publishedAt": "2026-09-07T11:17:57.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -81,7 +45,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -152,7 +116,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -235,26 +199,60 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:30",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 9,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
+          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
+          "link": "https://sana.sy/reports/2574649/",
+          "publishedAt": "2026-09-07T11:17:57.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 4,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -283,21 +281,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Fatah Central Committee secretary-general reveals Hamas talks in Turkey, doubts elections - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4814,w_7217/736619' alt=' PALESTINIAN-ISRAEL-CONFLICT-WEST BANK Palestinian Vice President Hussein Al-Sheikh (L) and head of the Pa",
-          "link": "https://www.jpost.com/middle-east/article-907687",
-          "publishedAt": "2026-09-06T12:35:05.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -313,7 +296,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
