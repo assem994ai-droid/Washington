@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T14:07:17.120Z",
+    "generatedAt": "2026-09-07T14:52:25.500Z",
     "windowHours": 24,
-    "from": "2026-09-06T14:07:17.120Z",
-    "to": "2026-09-07T14:07:17.120Z"
+    "from": "2026-09-06T14:52:25.500Z",
+    "to": "2026-09-07T14:52:25.500Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 15,
+    "items": 16,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
-    "contested": 1,
+    "withNew": 2,
+    "stale": 3,
+    "contested": 2,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 396
+    "archiveCycles": 397
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,8 +32,8 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
       "independentSources": 2,
       "sources": [
         "تلفزيون سوريا",
@@ -48,8 +48,23 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من السويداء إلى إسرائيل.. الشيباني يستعرض أولويات سوريا أمام الجامعة العربية",
+          "excerpt": "أفاد وزير الخارجية السوري أسعد الشيباني بأنّ سوريا تمضي في تنفيذ خارطة الطريق الثلاثية الخاصة بالسويداء..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+          "publishedAt": "2026-09-07T14:42:14.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -62,7 +77,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -151,20 +166,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli Shelling Kills Livestock in Syria’s Quneitra Countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Several livestock were killed on Sunday in Israeli artillery shelling targeting agricultural land in central Syria’s Quneitra countryside, according to North Press correspondent. The Quneitra Governorate Medi",
-          "link": "https://npasyria.com/en/141141/",
-          "publishedAt": "2026-09-06T16:30:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -182,7 +183,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 14:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -221,6 +222,66 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 13,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Internal Security arrests former senior government officer",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security Forces in Tartous governorate said on Monday they arrested former Brig. Gen. Mohammad Ali Dirgham, a senior officer under the former government. The forces said Dirgham was arrested ",
+          "link": "https://npasyria.com/en/141180/",
+          "publishedAt": "2026-09-07T14:46:59.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Jdeidet Yabous border crossing records 2 million passengers in 2026",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Jdeidet Yabous border crossing with Lebanon has recorded active passenger and commercial truck traffic during the first eight months of 2026, Syrian authorities say. From the beginning of the year thr",
+          "link": "https://npasyria.com/en/141144/",
+          "publishedAt": "2026-09-06T18:00:05.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "‘Al-Aqsa, be patient’: Chants against ‘Zionist scum’ heard at Damascus International Fair - report",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/736649' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
+          "link": "https://www.jpost.com/middle-east/article-907726",
+          "publishedAt": "2026-09-06T17:30:56.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -232,7 +293,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 14:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -271,54 +332,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:52",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria’s Jdeidet Yabous border crossing records 2 million passengers in 2026",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Jdeidet Yabous border crossing with Lebanon has recorded active passenger and commercial truck traffic during the first eight months of 2026, Syrian authorities say. From the beginning of the year thr",
-          "link": "https://npasyria.com/en/141144/",
-          "publishedAt": "2026-09-06T18:00:05.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "‘Al-Aqsa, be patient’: Chants against ‘Zionist scum’ heard at Damascus International Fair - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/736649' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
-          "link": "https://www.jpost.com/middle-east/article-907726",
-          "publishedAt": "2026-09-06T17:30:56.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -330,7 +343,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 14:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
