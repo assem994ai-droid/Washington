@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T15:39:02.549Z",
+    "generatedAt": "2026-09-07T16:50:58.129Z",
     "windowHours": 24,
-    "from": "2026-09-06T15:39:02.549Z",
-    "to": "2026-09-07T15:39:02.549Z"
+    "from": "2026-09-06T16:50:58.129Z",
+    "to": "2026-09-07T16:50:58.129Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 18,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 2,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 399
+    "archiveCycles": 400
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,12 +33,14 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "Al-Monitor",
         "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -47,8 +49,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 30,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli clearance of Gaza rubble could destroy 'evidence', says UN expert",
+          "excerpt": "<p>GENEVA, Sept 7 (Reuters) - A U.N. expert said on Monday that Israeli clearance of rubble in Gaza could destroy valuable evidence of \"atrocity crimes\" and prevent the recovery of human remains.</p><p>Israel's assault on Gaza — started aft",
+          "link": "https://www.al-monitor.com/originals/2026/09/israeli-clearance-gaza-rubble-could-destroy-evidence-says-un-expert",
+          "publishedAt": "2026-09-07T16:46:31.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -60,7 +76,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -196,7 +212,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -250,7 +266,7 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -308,7 +324,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -358,7 +374,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
