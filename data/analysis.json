@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T13:25:36.814Z",
+    "generatedAt": "2026-09-07T13:40:10.723Z",
     "windowHours": 24,
-    "from": "2026-09-06T13:25:36.814Z",
-    "to": "2026-09-07T13:25:36.814Z"
+    "from": "2026-09-06T13:40:10.723Z",
+    "to": "2026-09-07T13:40:10.723Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 13,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 393
+    "archiveCycles": 394
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الإعلام المتخصص",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -41,13 +42,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 11,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -60,7 +61,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -142,25 +143,23 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا",
-        "Al-Monitor"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 14,
+      "score": 10,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -197,18 +196,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "With joy and grief, Palestinian football marks return",
-          "excerpt": "<p>Palestinian sports commentator Khalil Jadallah has spent the past three years mourning the athletes killed in the Gaza war. As Palestinian football officially resumed this week, his return to the stadium proved bittersweet.</p> <p>Palest",
-          "link": "https://www.al-monitor.com/originals/2026/09/joy-and-grief-palestinian-football-marks-return",
-          "publishedAt": "2026-09-06T13:30:29.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -224,7 +211,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -260,7 +247,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -310,7 +297,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 13:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
