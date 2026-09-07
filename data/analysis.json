@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T05:55:40.336Z",
+    "generatedAt": "2026-09-07T06:54:18.552Z",
     "windowHours": 24,
-    "from": "2026-09-06T05:55:40.336Z",
-    "to": "2026-09-07T05:55:40.336Z"
+    "from": "2026-09-06T06:54:18.552Z",
+    "to": "2026-09-07T06:54:18.552Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 15,
     "files": 4,
-    "withNew": 0,
-    "stale": 4,
+    "withNew": 2,
+    "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 381
+    "archiveCycles": 382
   },
   "emptyCircles": [
     "الكونغرس",
@@ -29,6 +29,102 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 25,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli army foils explosive device plot on Syria border",
+          "excerpt": "DAMASCUS, Syria (North Press) – The Israeli army on Sunday said it foiled an attempt by three people to plant an explosive device along the border with Syria. According to Israeli newspaper Maariv, the operation was thwarted after a unit fr",
+          "link": "https://npasyria.com/en/141163/",
+          "publishedAt": "2026-09-07T06:49:59.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israel orders evacuation in south Lebanon ahead of strikes",
+          "excerpt": "QAMISHLI, Syria (North Press) – The Israeli army on Monday ordered residents of a designated area in the southern Lebanese town of Deir Zahrani to evacuate ahead of planned strikes targeting what it described as a Hezbollah facility. The Is",
+          "link": "https://npasyria.com/en/141147/",
+          "publishedAt": "2026-09-07T05:36:17.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli Shelling Kills Livestock in Syria’s Quneitra Countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Several livestock were killed on Sunday in Israeli artillery shelling targeting agricultural land in central Syria’s Quneitra countryside, according to North Press correspondent. The Quneitra Governorate Medi",
+          "link": "https://npasyria.com/en/141141/",
+          "publishedAt": "2026-09-06T16:30:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "WATCH: Gazan activist calls for peace with Israel, blames Hamas for war, seeks meeting with Trump",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4480,w_6720/736594' alt='Tents housing displaced Palestinians are seen among homes destroyed during the recent war between Israel a",
+          "link": "https://www.jpost.com/middle-east/article-907673",
+          "publishedAt": "2026-09-06T10:09:13.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تصعيد إسرائيلي جنوبي سوريا.. قصف وتوغلات في القنيطرة ودرعا وريف دمشق",
+          "excerpt": "شهدت مناطق متفرقة في ريفي القنيطرة ودرعا وريف دمشق الغربي تصعيداً عسكرياً إسرائيلياً، السبت تزامن مع قصف مدفعي وإطلاق نار وتوغل لقوات الاحتلال في عدد من القرى و",
+          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-09-06T07:51:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -47,7 +143,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 05:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 05:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -118,123 +214,41 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 05:42",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 16,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israel orders evacuation in south Lebanon ahead of strikes",
-          "excerpt": "QAMISHLI, Syria (North Press) – The Israeli army on Monday ordered residents of a designated area in the southern Lebanese town of Deir Zahrani to evacuate ahead of planned strikes targeting what it described as a Hezbollah facility. The Is",
-          "link": "https://npasyria.com/en/141147/",
-          "publishedAt": "2026-09-07T05:36:17.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli Shelling Kills Livestock in Syria’s Quneitra Countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Several livestock were killed on Sunday in Israeli artillery shelling targeting agricultural land in central Syria’s Quneitra countryside, according to North Press correspondent. The Quneitra Governorate Medi",
-          "link": "https://npasyria.com/en/141141/",
-          "publishedAt": "2026-09-06T16:30:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "WATCH: Gazan activist calls for peace with Israel, blames Hamas for war, seeks meeting with Trump",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4480,w_6720/736594' alt='Tents housing displaced Palestinians are seen among homes destroyed during the recent war between Israel a",
-          "link": "https://www.jpost.com/middle-east/article-907673",
-          "publishedAt": "2026-09-06T10:09:13.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تصعيد إسرائيلي جنوبي سوريا.. قصف وتوغلات في القنيطرة ودرعا وريف دمشق",
-          "excerpt": "شهدت مناطق متفرقة في ريفي القنيطرة ودرعا وريف دمشق الغربي تصعيداً عسكرياً إسرائيلياً، السبت تزامن مع قصف مدفعي وإطلاق نار وتوغل لقوات الاحتلال في عدد من القرى و",
-          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D8%B5%D9%81-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
-          "publishedAt": "2026-09-06T07:51:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces intensify attacks across southern Syria",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces shelled the southern outskirts of al-Rafid village and Tel Ahmar Sharqi in Quneitra countryside, southern Syria, with more than 10 artillery shells fired from the Israeli-occupied Golan Heights, l",
-          "link": "https://npasyria.com/en/141112/",
-          "publishedAt": "2026-09-06T07:02:29.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 05:42",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 17,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هيئة المنافذ: عودة 73 ألف سوري طوعا عبر معبر السلامة مع تركيا منذ بداية العام",
+          "excerpt": "منفذ السلامة الحدودي يشهد عبور 1.23 مليون مسافر، من بينهم 73 ألف عائد طوعاً، ومرور 46 ألف شاحنة تجارية منذ بداية العام الحالي",
+          "link": "https://www.syria.tv/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%B9%D9%88%D8%AF%D8%A9-73-%D8%A3%D9%84%D9%81-%D8%B3%D9%88%D8%B1%D9%8A-%D8%B7%D9%88%D8%B9%D8%A7-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
+          "publishedAt": "2026-09-07T06:39:18.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -280,7 +294,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 05:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 05:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
