@@ -1,59 +1,64 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-06T23:48:50.882Z",
+    "generatedAt": "2026-09-07T00:43:04.337Z",
     "windowHours": 24,
-    "from": "2026-09-05T23:48:50.882Z",
-    "to": "2026-09-06T23:48:50.882Z"
+    "from": "2026-09-06T00:43:04.337Z",
+    "to": "2026-09-07T00:43:04.337Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 14,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 6,
-    "archiveCycles": 372
+    "americanItems": 5,
+    "archiveCycles": 373
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "message": "الخادم ردّ برمز 502"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "Al-Monitor",
         "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 4,
-      "score": 30,
+      "score": 26,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -63,18 +68,6 @@
           "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Jdeidet Yabous border crossing with Lebanon has recorded active passenger and commercial truck traffic during the first eight months of 2026, Syrian authorities say. From the beginning of the year thr",
           "link": "https://npasyria.com/en/141144/",
           "publishedAt": "2026-09-06T18:00:05.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "‘Al-Aqsa, be patient’: Chants against ‘Zionist scum’ heard at Damascus International Fair - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/736649' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
-          "link": "https://www.jpost.com/middle-east/article-907726",
-          "publishedAt": "2026-09-06T17:30:56.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -158,23 +151,21 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 15,
+      "usItems": 0,
+      "score": 8,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -189,20 +180,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "WATCH: Gazan activist calls for peace with Israel, blames Hamas for war, seeks meeting with Trump",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736594' alt='Tents housing displaced Palestinians are seen among homes destroyed during the recent war between Israel an",
-          "link": "https://www.jpost.com/middle-east/article-907673",
-          "publishedAt": "2026-09-06T10:09:13.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
         },
         {
           "source": "تلفزيون سوريا",
@@ -235,59 +212,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:39",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Fatah Central Committee secretary-general reveals Hamas talks in Turkey, doubts elections - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/736619' alt=' PALESTINIAN-ISRAEL-CONFLICT-WEST BANK Palestinian Vice President Hussein Al-Sheikh (L) and head of the Pale",
-          "link": "https://www.jpost.com/middle-east/article-907687",
-          "publishedAt": "2026-09-06T12:35:05.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "لتقليل الاعتماد على هرمز.. العراق يعلن رفع صادرات النفط عبر سوريا وتركيا",
-          "excerpt": "تكتسب مشاريع خطوط الأنابيب الجديدة أهمية إضافية في ظل سعي العراق إلى تقليل اعتماده على طرق تصدير النفط عبر مضيق هرمز الذي يعاني من اضطرابات متواصلة",
-          "link": "https://www.syria.tv/%D9%84%D8%AA%D9%82%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B9%D9%84%D9%89-%D9%87%D8%B1%D9%85%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%84%D9%86-%D8%B1%D9%81%D8%B9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-06T07:56:31.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -301,7 +225,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -340,6 +264,42 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:48",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "لتقليل الاعتماد على هرمز.. العراق يعلن رفع صادرات النفط عبر سوريا وتركيا",
+          "excerpt": "تكتسب مشاريع خطوط الأنابيب الجديدة أهمية إضافية في ظل سعي العراق إلى تقليل اعتماده على طرق تصدير النفط عبر مضيق هرمز الذي يعاني من اضطرابات متواصلة",
+          "link": "https://www.syria.tv/%D9%84%D8%AA%D9%82%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B9%D9%84%D9%89-%D9%87%D8%B1%D9%85%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B9%D9%84%D9%86-%D8%B1%D9%81%D8%B9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-06T07:56:31.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -351,7 +311,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-06 23:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
