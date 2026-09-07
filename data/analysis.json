@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T21:06:57.608Z",
+    "generatedAt": "2026-09-07T21:21:35.549Z",
     "windowHours": 24,
-    "from": "2026-09-06T21:06:57.608Z",
-    "to": "2026-09-07T21:06:57.608Z"
+    "from": "2026-09-06T21:21:35.549Z",
+    "to": "2026-09-07T21:21:35.549Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 22,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 2,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 409
+    "archiveCycles": 410
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,24 +33,53 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
+        "Middle East Eye",
         "North Press Agency (English)",
-        "Al-Monitor",
-        "تلفزيون سوريا"
+        "Al-Monitor"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 29,
+      "score": 38,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يقصف أراضي زراعية بين صيدا الحانوت والرزانية بريف القنيطرة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي قصفت، مساء الإثنين، بالمدفعية الثقيلة الأراضي الزراعية الواقعة بين قريتي صيدا الحانوت والرزانية بريف القني",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%86%D9%88%D8%AA-%D9%88%D8%A7%D9%84%D8%B1%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-07T21:18:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria’s top diplomat condemns Iran, Israel at Arab League meeting",
+          "excerpt": "<article data-history-node-id=\"447286\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/syrias-top-diplomat-condemns-iran-israel-arab-league-meeting\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middle",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syrias-top-diplomat-condemns-iran-israel-arab-league-meeting",
+          "publishedAt": "2026-09-07T21:09:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -62,7 +91,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -197,7 +226,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 20:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 21:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -252,7 +281,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 20:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 21:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -334,7 +363,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 20:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 21:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -398,7 +427,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 20:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 21:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
