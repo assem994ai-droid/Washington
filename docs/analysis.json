@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T17:21:00.796Z",
+    "generatedAt": "2026-09-07T17:37:41.594Z",
     "windowHours": 24,
-    "from": "2026-09-06T17:21:00.796Z",
-    "to": "2026-09-07T17:21:00.796Z"
+    "from": "2026-09-06T17:37:41.594Z",
+    "to": "2026-09-07T17:37:41.594Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
+    "items": 17,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 2,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 401
+    "archiveCycles": 402
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -28,85 +29,34 @@
   ],
   "errors": [
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "message": "الخادم ردّ برمز 502"
     }
   ],
   "files": [
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 16:50",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 16,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
-          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
-          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
-          "publishedAt": "2026-09-07T13:46:52.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
-          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
-          "link": "https://sana.sy/reports/2574649/",
-          "publishedAt": "2026-09-07T11:17:57.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "Al-Monitor",
+        "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 16:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 17:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 21,
       "items": [
         {
           "source": "Al-Monitor",
@@ -116,6 +66,20 @@
           "excerpt": "<p>GENEVA, Sept 7 (Reuters) - A U.N. expert said on Monday that Israeli clearance of rubble in Gaza could destroy valuable evidence of \"atrocity crimes\" and prevent the recovery of human remains.</p><p>Israel's assault on Gaza — started aft",
           "link": "https://www.al-monitor.com/originals/2026/09/israeli-clearance-gaza-rubble-could-destroy-evidence-says-un-expert",
           "publishedAt": "2026-09-07T16:46:31.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter Syria’s Quneitra village, throw smoke grenades at homes",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered Taranja village in northern Quneitra, southern Syria on Monday and threw smoke grenades toward residents’ homes, with no injuries reported. On Sunday, Israeli forces shelled agricultura",
+          "link": "https://npasyria.com/en/141183/",
+          "publishedAt": "2026-09-07T15:28:06.000Z",
           "files": [
             "israel"
           ],
@@ -148,6 +112,21 @@
           "files": [
             "israel",
             "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Shaibani says Arab rights in Golan remain non-negotiable",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani said on Monday that Syria reaffirms that Arab rights in the occupied Golan are non-negotiable. Speaking at a meeting of Arab foreign ministers during the 166th sessio",
+          "link": "https://npasyria.com/en/141177/",
+          "publishedAt": "2026-09-07T13:47:39.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -194,6 +173,87 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli army foils explosive device plot on Syria border",
+          "excerpt": "DAMASCUS, Syria (North Press) – The Israeli army on Sunday said it foiled an attempt by three people to plant an explosive device along the border with Syria. According to Israeli newspaper Maariv, the operation was thwarted after a unit fr",
+          "link": "https://npasyria.com/en/141163/",
+          "publishedAt": "2026-09-07T06:49:59.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israel orders evacuation in south Lebanon ahead of strikes",
+          "excerpt": "QAMISHLI, Syria (North Press) – The Israeli army on Monday ordered residents of a designated area in the southern Lebanese town of Deir Zahrani to evacuate ahead of planned strikes targeting what it described as a Hezbollah facility. The Is",
+          "link": "https://npasyria.com/en/141147/",
+          "publishedAt": "2026-09-07T05:36:17.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 17:21",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 16,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
+          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
+          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+          "publishedAt": "2026-09-07T13:46:52.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
+          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
+          "link": "https://sana.sy/reports/2574649/",
+          "publishedAt": "2026-09-07T11:17:57.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
         }
       ]
     },
@@ -209,7 +269,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 16:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 17:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -254,14 +314,14 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "Al-Monitor",
-        "Jerusalem Post — الشرق الأوسط"
+        "North Press Agency (English)",
+        "Al-Monitor"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 16:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 17:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -270,6 +330,18 @@
       "score": 3,
       "items": [
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Internal Security arrests former senior government officer",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security Forces in Tartous governorate said on Monday they arrested former Brig. Gen. Mohammad Ali Dirgham, a senior officer under the former government. The forces said Dirgham was arrested ",
+          "link": "https://npasyria.com/en/141180/",
+          "publishedAt": "2026-09-07T14:46:59.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
           "circle": "الإعلام المتخصص",
@@ -277,18 +349,6 @@
           "excerpt": "<p>By Francois Murphy</p><p>VIENNA, Sept 7 (Reuters) - The nuclear reactor Syria had nearly completed in 2007 when Israeli jets destroyed it was of a type that could quickly produce fissile material usable in nuclear weapons, U.N. nuclear w",
           "link": "https://www.al-monitor.com/originals/2026/09/syrian-nuclear-reactor-could-have-been-useful-weapons-iaea-chief-says",
           "publishedAt": "2026-09-07T14:46:40.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "‘Al-Aqsa, be patient’: Chants against ‘Zionist scum’ heard at Damascus International Fair - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3101,w_4652/736649' alt='Artists perform on stage during the opening ceremony of the Damascus International Fair in Damascus, Syria",
-          "link": "https://www.jpost.com/middle-east/article-907726",
-          "publishedAt": "2026-09-06T17:30:56.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -307,7 +367,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 16:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 17:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
