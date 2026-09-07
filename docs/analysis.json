@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T03:14:24.732Z",
+    "generatedAt": "2026-09-07T03:30:42.165Z",
     "windowHours": 24,
-    "from": "2026-09-06T03:14:24.732Z",
-    "to": "2026-09-07T03:14:24.732Z"
+    "from": "2026-09-06T03:30:42.165Z",
+    "to": "2026-09-07T03:30:42.165Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 15,
     "files": 4,
     "withNew": 0,
     "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 6,
-    "archiveCycles": 378
+    "archiveCycles": 379
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 01:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 03:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 4,
-      "score": 30,
+      "score": 29,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -138,18 +138,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Sobering reality: Curbs on alcohol in northeast Syria cause discontent",
-          "excerpt": "<p>At his shop in northeast Syria, Ayaz Ibrahim wiped the dust off bottles of alcohol he said had become too pricey for customers following new regulations from the Islamist authorities.</p> <p>Residents of the region, which is home to many",
-          "link": "https://www.al-monitor.com/originals/2026/09/sobering-reality-curbs-alcohol-northeast-syria-cause-discontent",
-          "publishedAt": "2026-09-06T03:30:25.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -168,7 +156,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 01:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 03:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -248,7 +236,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 01:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 03:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -301,7 +289,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 01:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 03:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
