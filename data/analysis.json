@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T06:29:23.248Z",
+    "generatedAt": "2026-09-08T06:48:10.820Z",
     "windowHours": 24,
-    "from": "2026-09-07T06:29:23.248Z",
-    "to": "2026-09-08T06:29:23.248Z"
+    "from": "2026-09-07T06:48:10.820Z",
+    "to": "2026-09-08T06:48:10.820Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 25,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 2,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 418
+    "archiveCycles": 419
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:29",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 45,
+      "score": 31,
       "items": [
         {
           "source": "Middle East Eye",
@@ -64,7 +64,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,7 +78,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -211,21 +211,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Al-Shaibani says Arab rights in Golan remain non-negotiable",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani said on Monday that Syria reaffirms that Arab rights in the occupied Golan are non-negotiable. Speaking at a meeting of Arab foreign ministers during the 166th sessio",
-          "link": "https://npasyria.com/en/141177/",
-          "publishedAt": "2026-09-07T13:47:39.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -289,7 +274,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -385,7 +370,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -435,13 +420,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 5,
+      "score": 4,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -470,20 +455,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "هيئة المنافذ: عودة 73 ألف سوري طوعا عبر معبر السلامة مع تركيا منذ بداية العام",
-          "excerpt": "منفذ السلامة الحدودي يشهد عبور 1.23 مليون مسافر، من بينهم 73 ألف عائد طوعاً، ومرور 46 ألف شاحنة تجارية منذ بداية العام الحالي",
-          "link": "https://www.syria.tv/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%B9%D9%88%D8%AF%D8%A9-73-%D8%A3%D9%84%D9%81-%D8%B3%D9%88%D8%B1%D9%8A-%D8%B7%D9%88%D8%B9%D8%A7-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
-          "publishedAt": "2026-09-07T06:39:18.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -499,7 +470,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 06:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
