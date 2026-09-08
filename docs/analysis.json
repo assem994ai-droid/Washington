@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T18:27:38.075Z",
+    "generatedAt": "2026-09-08T18:43:56.350Z",
     "windowHours": 24,
-    "from": "2026-09-07T18:27:38.075Z",
-    "to": "2026-09-08T18:27:38.075Z"
+    "from": "2026-09-07T18:43:56.350Z",
+    "to": "2026-09-08T18:43:56.350Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 448
+    "archiveCycles": 449
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,9 +33,9 @@
       "contested": false,
       "independentSources": 5,
       "sources": [
+        "Al-Monitor",
         "The National",
         "سانا — قسم السياسة",
-        "Al-Monitor",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
       ],
@@ -54,6 +54,20 @@
       "score": 30,
       "items": [
         {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Netanyahu under fire over report UAE warned of October 7 attack",
+          "excerpt": "<p>Israeli opposition leaders on Tuesday called Prime Minister Benjamin Netanyahu unfit to serve after a bombshell report that the United Arab Emirates had warned him before the October 7, 2023 Hamas attack.</p> <p>Haaretz newspaper, in a r",
+          "link": "https://www.al-monitor.com/originals/2026/09/netanyahu-under-fire-over-report-uae-warned-october-7-attack",
+          "publishedAt": "2026-09-08T18:30:29.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -64,7 +78,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -75,20 +89,6 @@
           "excerpt": "أكدت عضو لجنة التحقيق الدولية المستقلة بشأن سوريا فيونوالا ني أولين أن الانتهاكات الإسرائيلية المستمرة للأراضي السورية، وممارساتها وأفعالها فيها ترقى إلى جرائم حرب، محذِّرة من خطورة توسيع الوجود الإسرائيلي، وما يمثّله من انتهاك لسيادة سوريا",
           "link": "https://sana.sy/syria-and-the-world/2575636/",
           "publishedAt": "2026-09-08T14:29:00.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Some Israeli actions in Syria may amount to war crimes, UN probe says",
-          "excerpt": "<p>By Olivia Le Poidevin</p><p>GENEVA, Sept 8 (Reuters) - A U.N. commission investigating Syria said on Tuesday it was deeply alarmed over Israel's military activity inside Syrian territory, warning that some actions including the detention",
-          "link": "https://www.al-monitor.com/originals/2026/09/some-israeli-actions-syria-may-amount-war-crimes-un-probe-says",
-          "publishedAt": "2026-09-08T13:46:41.000Z",
           "files": [
             "israel"
           ],
@@ -173,7 +173,7 @@
         "الملف الإسرائيلي والتركي",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 18:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -280,7 +280,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 18:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -331,7 +331,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 18:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -411,7 +411,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 18:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -479,7 +479,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 18:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
