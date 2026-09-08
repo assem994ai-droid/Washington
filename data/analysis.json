@@ -1,24 +1,23 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T16:32:48.928Z",
+    "generatedAt": "2026-09-08T16:48:30.618Z",
     "windowHours": 24,
-    "from": "2026-09-07T16:32:48.928Z",
-    "to": "2026-09-08T16:32:48.928Z"
+    "from": "2026-09-07T16:48:30.618Z",
+    "to": "2026-09-08T16:48:30.618Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 21,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 442
+    "americanItems": 3,
+    "archiveCycles": 443
   },
   "emptyCircles": [
     "الكونغرس",
-    "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
@@ -32,26 +31,40 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "The Hill — الكونغرس والسياسة الأمريكية",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
         "Federal Register — السجل الفيدرالي الأمريكي"
       ],
       "circles": [
+        "الكونغرس والتوازن السياسي الأمريكي",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:12",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 20,
+      "usItems": 3,
+      "score": 36,
       "items": [
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "Coast Guard joins search for missing plane off Bahamas",
+          "excerpt": "The U.S. Coast Guard joined the search for a missing plane carrying four family members that vanished near the Bahamas on their way back to Florida.&#160; A spokesperson for the Coast Guard told The Hill, “The Royal Bahamian Defense Force r",
+          "link": "https://thehill.com/policy/international/6076703-bahamas-plane-crash-four-dead/",
+          "publishedAt": "2026-09-08T16:44:03.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -156,7 +169,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -263,7 +276,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -329,7 +342,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -381,7 +394,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
