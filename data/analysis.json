@@ -1,48 +1,44 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T11:11:51.353Z",
+    "generatedAt": "2026-09-08T11:29:32.570Z",
     "windowHours": 24,
-    "from": "2026-09-07T11:11:51.353Z",
-    "to": "2026-09-08T11:11:51.353Z"
+    "from": "2026-09-07T11:29:32.570Z",
+    "to": "2026-09-08T11:29:32.570Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 22,
     "files": 6,
     "withNew": 0,
     "stale": 6,
-    "contested": 2,
+    "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 428
+    "archiveCycles": 429
   },
   "emptyCircles": [
     "الكونغرس",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام الدولي",
+    "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "Middle East Eye",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
         "Al-Monitor"
       ],
       "circles": [
@@ -50,13 +46,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 10:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 11:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 26,
       "items": [
         {
           "source": "Middle East Eye",
@@ -109,6 +105,20 @@
           "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي قصفت، مساء الإثنين، بالمدفعية الثقيلة الأراضي الزراعية الواقعة بين قريتي صيدا الحانوت والرزانية بريف القني",
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%86%D9%88%D8%AA-%D9%88%D8%A7%D9%84%D8%B1%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
           "publishedAt": "2026-09-07T21:18:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli artillery shelling targets southern Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled the Saida al-Hanout area in southern Quneitra countryside on Monday evening with at least six artillery rounds, causing material damage to farmland with no reported casualties. The shel",
+          "link": "https://npasyria.com/en/141200/",
+          "publishedAt": "2026-09-07T21:00:03.000Z",
           "files": [
             "israel"
           ],
@@ -176,82 +186,31 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 10:48",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 16,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
-          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
-          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
-          "publishedAt": "2026-09-07T13:46:52.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "رفع اسم سوريا من قائمة الدول الراعية للإرهاب.. أبعاد التحول نحو الانفتاح ‌‏والتعاون",
-          "excerpt": "شكل قرار الولايات المتحدة رفع اسم سوريا من قائمة الدول الراعية للإرهاب ‌‏في 24 آب الماضي محطة مهمة في مسار التحول",
-          "link": "https://sana.sy/reports/2574649/",
-          "publishedAt": "2026-09-07T11:17:57.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
         "Federal Register — السجل الفيدرالي الأمريكي",
         "تلفزيون سوريا",
         "Al-Monitor"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
-        "الإدارة التنفيذية الأمريكية",
         "الإعلام السوري المستقل",
+        "الإدارة التنفيذية الأمريكية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 10:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 11:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 15,
+      "usItems": 2,
+      "score": 24,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -264,6 +223,30 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "EU files show focus on accelerating returns, deportations to Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Newly disclosed European Union documents show that Brussels is prioritizing increased returns and potential deportations of Syrians as it expands cooperation with Syria&#8217;s transitional authorities on mig",
+          "link": "https://npasyria.com/en/141221/",
+          "publishedAt": "2026-09-08T07:51:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian, U.S. military officials discuss counterterrorism, regional issues",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s Ministry of Defense on Tuesday said Chief of the General Staff Major General Ali al-Naasan met with Rear Admiral Liam M. Hulin, commander of the Combined Joint Task Force &#8211; Operation Inherent Re",
+          "link": "https://npasyria.com/en/141218/",
+          "publishedAt": "2026-09-08T07:27:38.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "Federal Register — السجل الفيدرالي الأمريكي",
@@ -285,6 +268,18 @@
           "excerpt": "استقبل رئيس هيئة الأركان العامة في وزارة الدفاع السورية، اللواء علي النعسان، الإثنين، وفداً من الجيش الأميركي برئاسة الأدميرال البحري ليام إم. هولين، قائد قوة ا",
           "link": "https://www.syria.tv/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A8-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
           "publishedAt": "2026-09-07T20:51:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "YPJ says initial deal reached with Damascus on integration",
+          "excerpt": "QAMISHLI, Syria (North Press) – The Women’s Protection Units (YPJ) says it has reached an initial understanding with Damascus to join the Interior Ministry as a special mission force. Ruken Jamal, a YPJ spokesperson, told Rudaw on Monday th",
+          "link": "https://npasyria.com/en/141193/",
+          "publishedAt": "2026-09-07T19:01:07.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -316,6 +311,42 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 11:11",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
+          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
+          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+          "publishedAt": "2026-09-07T13:46:52.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -327,7 +358,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 10:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 11:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -378,7 +409,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 10:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 11:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -414,7 +445,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 10:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 11:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
