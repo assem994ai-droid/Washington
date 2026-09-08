@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T14:32:13.971Z",
+    "generatedAt": "2026-09-08T14:50:19.344Z",
     "windowHours": 24,
-    "from": "2026-09-07T14:32:13.971Z",
-    "to": "2026-09-08T14:32:13.971Z"
+    "from": "2026-09-07T14:50:19.344Z",
+    "to": "2026-09-08T14:50:19.344Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 20,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
-    "contested": 1,
+    "withNew": 0,
+    "stale": 5,
+    "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 438
+    "archiveCycles": 439
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,8 +30,8 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
       "independentSources": 6,
       "sources": [
         "سانا — قسم السياسة",
@@ -47,13 +47,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:32",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 0,
-      "score": 38,
+      "score": 25,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -66,7 +66,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -167,21 +167,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من السويداء إلى إسرائيل.. الشيباني يستعرض أولويات سوريا أمام الجامعة العربية",
-          "excerpt": "أفاد وزير الخارجية السوري أسعد الشيباني بأنّ سوريا تمضي في تنفيذ خارطة الطريق الثلاثية الخاصة بالسويداء..",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
-          "publishedAt": "2026-09-07T14:42:14.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -202,7 +187,7 @@
         "الإعلام السوري المستقل",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -296,7 +281,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -362,7 +347,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -412,7 +397,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
