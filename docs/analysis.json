@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T22:37:03.409Z",
+    "generatedAt": "2026-09-08T22:55:36.722Z",
     "windowHours": 24,
-    "from": "2026-09-07T22:37:03.409Z",
-    "to": "2026-09-08T22:37:03.409Z"
+    "from": "2026-09-07T22:55:36.722Z",
+    "to": "2026-09-08T22:55:36.722Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 26,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 8,
-    "archiveCycles": 461
+    "archiveCycles": 462
   },
   "emptyCircles": [
     "الكونغرس",
@@ -50,13 +50,13 @@
         "الإعلام السوري المستقل",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:37",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 5,
-      "score": 53,
+      "score": 44,
       "items": [
         {
           "source": "Middle East Eye",
@@ -67,7 +67,7 @@
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-jordan-intercept-barrage-iranian-missiles",
           "publishedAt": "2026-09-08T22:24:30.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -187,24 +187,38 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
         "Al-Monitor",
         "The National",
-        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:07",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 26,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "دورية إسرائيلية تتوغل في قرية عين العبد بالقنيطرة وتفتش منازل مدنيين",
+          "excerpt": "توغل إسرائيلي جديد في القنيطرة يترافق مع مداهمة منازل مدنيين وتحليق مسيرات فوق المنطقة منذ فجر اليوم",
+          "link": "https://www.syria.tv/%D8%AF%D9%88%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A8%D8%AF-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86",
+          "publishedAt": "2026-09-08T22:46:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -292,7 +306,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -389,7 +403,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -440,7 +454,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
