@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T17:12:14.466Z",
+    "generatedAt": "2026-09-08T17:41:04.819Z",
     "windowHours": 24,
-    "from": "2026-09-07T17:12:14.466Z",
-    "to": "2026-09-08T17:12:14.466Z"
+    "from": "2026-09-07T17:41:04.819Z",
+    "to": "2026-09-08T17:41:04.819Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -13,8 +13,8 @@
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 445
+    "americanItems": 5,
+    "archiveCycles": 446
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,20 +45,20 @@
         "الملف الإسرائيلي والتركي",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 27,
+      "score": 26,
       "items": [
         {
           "source": "The Hill — الكونغرس والسياسة الأمريكية",
           "sourceId": "thehill",
           "circle": "الكونغرس والتوازن السياسي الأمريكي",
-          "title": "Coast Guard joins search for missing plane off Bahamas",
-          "excerpt": "The U.S. Coast Guard joined the search for a missing plane carrying four family members that vanished near the Bahamas on their way back to Florida.&#160; A spokesperson for the Coast Guard told The Hill, “The Royal Bahamian Defense Force r",
+          "title": "Coast Guard joins search for missing plane near Bahamas",
+          "excerpt": "The U.S. Coast Guard joined the search for a missing plane carrying four family members that vanished near the Bahamas on their way back to Florida. “The Royal Bahamian Defense Force requested Coast Guard assistance following a report of a ",
           "link": "https://thehill.com/policy/international/6076703-bahamas-plane-crash-four-dead/",
           "publishedAt": "2026-09-08T16:44:03.000Z",
           "files": [],
@@ -136,18 +136,58 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 2,
+      "score": 22,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من السياسة إلى الاقتصاد.. ما آثار رفع العقوبات العربية عن سوريا؟",
+          "excerpt": "رأى مركز \"جسور للدراسات\" أن قرار جامعة الدول العربية رفع العقوبات السياسية والاقتصادية والاجتماعية المفروضة على سوريا يمثل تحولاً مهماً في علاقة دمشق بمحيطها ..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D8%A7-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B9%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-09-08T17:39:51.000Z",
+          "files": [
+            "sanctions",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": true
         },
         {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syrian nuclear site destroyed by IDF in 2007 was useful for weapon production, IAEA chief says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_628,w_898/441676' alt='This undated image released by the US government shows the nuclear reactor under construction in Syria that ",
-          "link": "https://www.jpost.com/middle-east/article-907853",
-          "publishedAt": "2026-09-07T17:38:43.000Z",
-          "files": [],
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. Treasury sanctions 27 Iranian airlines",
+          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. Treasury Department on Tuesday sanctioned 36 entities and individuals linked to Iran’s aviation sector, including 27 Iranian airlines, accusing them of supporting the movement of weapons, personnel, ",
+          "link": "https://npasyria.com/en/141252/",
+          "publishedAt": "2026-09-08T17:10:10.000Z",
+          "files": [
+            "sanctions"
+          ],
           "seenBefore": true,
-          "us": false
+          "us": true
         }
       ]
     },
@@ -169,7 +209,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -265,42 +305,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. Treasury sanctions 27 Iranian airlines",
-          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. Treasury Department on Tuesday sanctioned 36 entities and individuals linked to Iran’s aviation sector, including 27 Iranian airlines, accusing them of supporting the movement of weapons, personnel, ",
-          "link": "https://npasyria.com/en/141252/",
-          "publishedAt": "2026-09-08T17:10:10.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -312,7 +316,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -377,7 +381,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -445,7 +449,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 16:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
