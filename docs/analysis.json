@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T12:31:09.802Z",
+    "generatedAt": "2026-09-08T12:52:52.592Z",
     "windowHours": 24,
-    "from": "2026-09-07T12:31:09.802Z",
-    "to": "2026-09-08T12:31:09.802Z"
+    "from": "2026-09-07T12:52:52.592Z",
+    "to": "2026-09-08T12:52:52.592Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 22,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 432
+    "archiveCycles": 433
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,26 +33,25 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "تلفزيون سوريا",
         "Middle East Eye",
         "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)",
-        "Al-Monitor"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:31",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 36,
+      "score": 23,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -65,7 +64,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -140,20 +139,6 @@
           "us": false
         },
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli clearance of Gaza rubble could destroy 'evidence', says UN expert",
-          "excerpt": "<p>By Emma Farge</p><p>GENEVA, Sept 7 (Reuters) - A U.N. expert said on Monday that Israeli clearance of rubble in Gaza could destroy valuable evidence of \"atrocity crimes\" and prevent the recovery of human remains.</p><p>Israel's assault o",
-          "link": "https://www.al-monitor.com/originals/2026/09/israeli-clearance-gaza-rubble-could-destroy-evidence-says-un-expert",
-          "publishedAt": "2026-09-07T16:46:31.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -204,34 +189,32 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
         "Federal Register — السجل الفيدرالي الأمريكي",
-        "تلفزيون سوريا",
-        "Al-Monitor"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
-        "الإدارة التنفيذية الأمريكية",
-        "الإعلام المتخصص"
+        "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 23,
+      "score": 19,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Yemen frontlines heat up as Saudi-backed forces challenge Houthis - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/686572' alt='Protesters, predominantly Houthi supporters, rally to celebrate the ceasefire between Israel and Hamas in ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/686572' alt='Protesters, predominantly Houthi supporters, rally to celebrate the ceasefire between Israel and Hamas in Ga",
           "link": "https://www.jpost.com/middle-east/article-907905",
           "publishedAt": "2026-09-08T10:29:42.000Z",
           "files": [],
@@ -297,18 +280,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian nuclear reactor could have been useful for weapons, IAEA chief says",
-          "excerpt": "<p>By Francois Murphy</p><p>VIENNA, Sept 7 (Reuters) - The nuclear reactor Syria had nearly completed in 2007 when Israeli jets destroyed it was of a type that could quickly produce fissile material usable in nuclear weapons, U.N. nuclear w",
-          "link": "https://www.al-monitor.com/originals/2026/09/syrian-nuclear-reactor-could-have-been-useful-weapons-iaea-chief-says",
-          "publishedAt": "2026-09-07T14:46:40.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -324,7 +295,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -360,7 +331,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -426,7 +397,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -476,7 +447,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 12:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
