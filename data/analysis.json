@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T15:25:45.908Z",
+    "generatedAt": "2026-09-08T16:12:28.119Z",
     "windowHours": 24,
-    "from": "2026-09-07T15:25:45.908Z",
-    "to": "2026-09-08T15:25:45.908Z"
+    "from": "2026-09-07T16:12:28.119Z",
+    "to": "2026-09-08T16:12:28.119Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 22,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 440
+    "archiveCycles": 441
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,6 +27,117 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
+        "Federal Register — السجل الفيدرالي الأمريكي"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
+        "الإدارة التنفيذية الأمريكية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 2,
+      "score": 29,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مؤتمر في البرلمان الأوروبي يبحث حقوق المسيحيين وتمثيلهم في سوريا",
+          "excerpt": "عُقد في مقر البرلمان الأوروبي بالعاصمة البلجيكية بروكسل مؤتمر ناقش مستقبل المسيحيين في سوريا، مع التركيز على قضايا الحرية الدينية والتمثيل السياسي..",
+          "link": "https://www.syria.tv/%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D9%85%D8%AB%D9%8A%D9%84%D9%87%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-08T16:06:08.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Yemen frontlines heat up as Saudi-backed forces challenge Houthis - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/686572' alt='Protesters, predominantly Houthi supporters, rally to celebrate the ceasefire between Israel and Hamas in ",
+          "link": "https://www.jpost.com/middle-east/article-907905",
+          "publishedAt": "2026-09-08T10:29:42.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "EU files show focus on accelerating returns, deportations to Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Newly disclosed European Union documents show that Brussels is prioritizing increased returns and potential deportations of Syrians as it expands cooperation with Syria&#8217;s transitional authorities on mig",
+          "link": "https://npasyria.com/en/141221/",
+          "publishedAt": "2026-09-08T07:51:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian, U.S. military officials discuss counterterrorism, regional issues",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s Ministry of Defense on Tuesday said Chief of the General Staff Major General Ali al-Naasan met with Rear Admiral Liam M. Hulin, commander of the Combined Joint Task Force &#8211; Operation Inherent Re",
+          "link": "https://npasyria.com/en/141218/",
+          "publishedAt": "2026-09-08T07:27:38.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "Federal Register — السجل الفيدرالي الأمريكي",
+          "sourceId": "federal-register",
+          "circle": "الإدارة التنفيذية الأمريكية",
+          "title": "Termination of Iran, North Korea, and Syria Nonproliferation Act Measures Against ROK Entity",
+          "excerpt": "",
+          "link": "https://www.federalregister.gov/documents/2026/09/08/2026-18222/termination-of-iran-north-korea-and-syria-nonproliferation-act-measures-against-rok-entity",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "رئيس الأركان السورية يبحث مع قائد عملية \"العزم الصلب\" مكافحة الإرهاب",
+          "excerpt": "استقبل رئيس هيئة الأركان العامة في وزارة الدفاع السورية، اللواء علي النعسان، الإثنين، وفداً من الجيش الأميركي برئاسة الأدميرال البحري ليام إم. هولين، قائد قوة ا",
+          "link": "https://www.syria.tv/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A8-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+          "publishedAt": "2026-09-07T20:51:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syrian nuclear site destroyed by IDF in 2007 was useful for weapon production, IAEA chief says",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_628,w_898/441676' alt='This undated image released by the US government shows the nuclear reactor under construction in Syria that ",
+          "link": "https://www.jpost.com/middle-east/article-907853",
+          "publishedAt": "2026-09-07T17:38:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -47,7 +158,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 15:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -171,157 +282,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)",
-        "Federal Register — السجل الفيدرالي الأمريكي",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل",
-        "الإدارة التنفيذية الأمريكية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:50",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 19,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Yemen frontlines heat up as Saudi-backed forces challenge Houthis - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/686572' alt='Protesters, predominantly Houthi supporters, rally to celebrate the ceasefire between Israel and Hamas in ",
-          "link": "https://www.jpost.com/middle-east/article-907905",
-          "publishedAt": "2026-09-08T10:29:42.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "EU files show focus on accelerating returns, deportations to Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Newly disclosed European Union documents show that Brussels is prioritizing increased returns and potential deportations of Syrians as it expands cooperation with Syria&#8217;s transitional authorities on mig",
-          "link": "https://npasyria.com/en/141221/",
-          "publishedAt": "2026-09-08T07:51:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian, U.S. military officials discuss counterterrorism, regional issues",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s Ministry of Defense on Tuesday said Chief of the General Staff Major General Ali al-Naasan met with Rear Admiral Liam M. Hulin, commander of the Combined Joint Task Force &#8211; Operation Inherent Re",
-          "link": "https://npasyria.com/en/141218/",
-          "publishedAt": "2026-09-08T07:27:38.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Federal Register — السجل الفيدرالي الأمريكي",
-          "sourceId": "federal-register",
-          "circle": "الإدارة التنفيذية الأمريكية",
-          "title": "Termination of Iran, North Korea, and Syria Nonproliferation Act Measures Against ROK Entity",
-          "excerpt": "",
-          "link": "https://www.federalregister.gov/documents/2026/09/08/2026-18222/termination-of-iran-north-korea-and-syria-nonproliferation-act-measures-against-rok-entity",
-          "publishedAt": "2026-09-08T00:00:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "رئيس الأركان السورية يبحث مع قائد عملية \"العزم الصلب\" مكافحة الإرهاب",
-          "excerpt": "استقبل رئيس هيئة الأركان العامة في وزارة الدفاع السورية، اللواء علي النعسان، الإثنين، وفداً من الجيش الأميركي برئاسة الأدميرال البحري ليام إم. هولين، قائد قوة ا",
-          "link": "https://www.syria.tv/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A8-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
-          "publishedAt": "2026-09-07T20:51:49.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syrian nuclear site destroyed by IDF in 2007 was useful for weapon production, IAEA chief says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_628,w_898/441676' alt='This undated image released by the US government shows the nuclear reactor under construction in Syria that ",
-          "link": "https://www.jpost.com/middle-east/article-907853",
-          "publishedAt": "2026-09-07T17:38:43.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الخارجية تنظم ورشة عمل لمناقشة مقترحات ‏إعادة تشكيل فريق الأمم المتحدة القُطري",
-          "excerpt": "وزارة الخارجية والمغتربين تنظم، اليوم الثلاثاء، ورشة عمل لمناقشة مقترحات ‏الحكومة السورية لإعادة تشكيل فريق الأمم المتحدة القُطري، بحضور معاوني الوزراء ‏ومديري التعاون الدولي في الوزارات، وذلك في مبنى الوزارة بدمشق.‏",
-          "link": "https://sana.sy/politics/2575679/",
-          "publishedAt": "2026-09-08T15:17:20.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"طيران ناس سوريا\".. أين وصلت الاتفاقية بعد مباحثات الحصري في الرياض؟",
-          "excerpt": "الحصري يبحث في الرياض مع طيران ناس اتفاقية إطلاق طيران ناس سوريا وتطوير التعاون الجوي بين البلدين",
-          "link": "https://www.syria.tv/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%86%D8%A7%D8%B3-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%8A%D9%86-%D9%88%D8%B5%D9%84%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%9F",
-          "publishedAt": "2026-09-07T20:33:43.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -333,7 +293,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 15:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -399,7 +359,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 14:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 15:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -431,6 +391,58 @@
           "publishedAt": "2026-09-07T19:21:41.000Z",
           "files": [
             "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 15:25",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الخارجية تنظم ورشة عمل لمناقشة مقترحات ‏إعادة تشكيل فريق الأمم المتحدة القُطري",
+          "excerpt": "وزارة الخارجية والمغتربين تنظم، اليوم الثلاثاء، ورشة عمل لمناقشة مقترحات ‏الحكومة السورية لإعادة تشكيل فريق الأمم المتحدة القُطري، بحضور معاوني الوزراء ‏ومديري التعاون الدولي في الوزارات، وذلك في مبنى الوزارة بدمشق.‏",
+          "link": "https://sana.sy/politics/2575679/",
+          "publishedAt": "2026-09-08T15:17:20.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"طيران ناس سوريا\".. أين وصلت الاتفاقية بعد مباحثات الحصري في الرياض؟",
+          "excerpt": "الحصري يبحث في الرياض مع طيران ناس اتفاقية إطلاق طيران ناس سوريا وتطوير التعاون الجوي بين البلدين",
+          "link": "https://www.syria.tv/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%86%D8%A7%D8%B3-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%8A%D9%86-%D9%88%D8%B5%D9%84%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%9F",
+          "publishedAt": "2026-09-07T20:33:43.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
