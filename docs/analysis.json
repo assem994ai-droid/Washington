@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T13:41:14.806Z",
+    "generatedAt": "2026-09-08T13:57:04.952Z",
     "windowHours": 24,
-    "from": "2026-09-07T13:41:14.806Z",
-    "to": "2026-09-08T13:41:14.806Z"
+    "from": "2026-09-07T13:57:04.952Z",
+    "to": "2026-09-08T13:57:04.952Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
-    "files": 6,
+    "items": 21,
+    "files": 5,
     "withNew": 1,
-    "stale": 5,
+    "stale": 4,
     "contested": 1,
-    "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 435
+    "echoed": 1,
+    "americanItems": 2,
+    "archiveCycles": 436
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,8 +33,9 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "Al-Monitor",
         "Middle East Eye",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
@@ -49,10 +50,24 @@
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
-      "echoed": false,
+      "echoed": true,
       "usItems": 0,
-      "score": 32,
+      "score": 35,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Some Israeli actions in Syria may amount to war crimes, UN probe says",
+          "excerpt": "<p>By Olivia Le Poidevin</p><p>GENEVA, Sept 8 (Reuters) - A U.N. commission investigating Syria said on Tuesday it was deeply alarmed over Israel's military activity inside Syrian territory, warning that some actions including the detention",
+          "link": "https://www.al-monitor.com/originals/2026/09/some-israeli-actions-syria-may-amount-war-crimes-un-probe-says",
+          "publishedAt": "2026-09-08T13:46:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -64,7 +79,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -75,20 +90,6 @@
           "excerpt": "قال ممثل سوريا أمام مجلس حقوق الإنسان ياسر الفرحان إن بلاده تمضي في مساري العدالة والمحاسبة \"دون تمييز\"، وتواصل تعزيز تعاونها مع لجنة التحقيق الدولية",
           "link": "https://www.syria.tv/%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%AA%D9%87%D8%A7",
           "publishedAt": "2026-09-08T12:14:42.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli troops advance into south Syrian village",
-          "excerpt": "<article data-history-node-id=\"447303\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-south-syrian-village\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-south-syrian-village",
-          "publishedAt": "2026-09-08T06:28:01.000Z",
           "files": [
             "israel"
           ],
@@ -201,7 +202,7 @@
         "الإعلام السوري المستقل",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -284,42 +285,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:26",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
-          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
-          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
-          "publishedAt": "2026-09-07T13:46:52.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -331,7 +296,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -397,7 +362,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -447,7 +412,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 13:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
