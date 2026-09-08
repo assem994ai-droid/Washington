@@ -1,24 +1,23 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T19:40:13.965Z",
+    "generatedAt": "2026-09-08T19:54:44.207Z",
     "windowHours": 24,
-    "from": "2026-09-07T19:40:13.965Z",
-    "to": "2026-09-08T19:40:13.965Z"
+    "from": "2026-09-07T19:54:44.207Z",
+    "to": "2026-09-08T19:54:44.207Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 6,
-    "archiveCycles": 451
+    "americanItems": 7,
+    "archiveCycles": 452
   },
   "emptyCircles": [
     "الكونغرس",
-    "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -31,8 +30,9 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة",
         "The Hill — الكونغرس والسياسة الأمريكية",
@@ -41,6 +41,7 @@
         "Federal Register — السجل الفيدرالي الأمريكي"
       ],
       "circles": [
+        "مراكز الفكر",
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية",
         "الكونغرس والتوازن السياسي الأمريكي",
@@ -52,9 +53,21 @@
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 4,
-      "score": 43,
+      "usItems": 5,
+      "score": 50,
       "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "U.S. maintains leverage over Syria",
+          "excerpt": "The post U.S. maintains leverage over Syria appeared first on FDD.",
+          "link": "https://www.fdd.org/in_the_news/2026/09/08/u-s-maintains-leverage-over-syria/",
+          "publishedAt": "2026-09-08T19:41:05.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -64,7 +77,7 @@
           "link": "https://www.jpost.com/middle-east/article-907993",
           "publishedAt": "2026-09-08T19:28:21.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -184,7 +197,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -306,7 +319,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -357,7 +370,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -423,7 +436,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -491,7 +504,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 19:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
