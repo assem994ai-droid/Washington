@@ -1,24 +1,23 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-07T23:54:35.186Z",
+    "generatedAt": "2026-09-08T00:11:14.460Z",
     "windowHours": 24,
-    "from": "2026-09-06T23:54:35.186Z",
-    "to": "2026-09-07T23:54:35.186Z"
+    "from": "2026-09-07T00:11:14.460Z",
+    "to": "2026-09-08T00:11:14.460Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
-    "files": 3,
-    "withNew": 0,
-    "stale": 3,
-    "contested": 1,
+    "items": 23,
+    "files": 5,
+    "withNew": 1,
+    "stale": 4,
+    "contested": 2,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 411
+    "americanItems": 3,
+    "archiveCycles": 412
   },
   "emptyCircles": [
     "الكونغرس",
-    "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام الدولي",
@@ -26,37 +25,147 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 5,
+      "sources": [
+        "Federal Register — السجل الفيدرالي الأمريكي",
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط",
+        "Al-Monitor"
+      ],
+      "circles": [
+        "الإدارة التنفيذية الأمريكية",
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 28,
+      "items": [
+        {
+          "source": "Federal Register — السجل الفيدرالي الأمريكي",
+          "sourceId": "federal-register",
+          "circle": "الإدارة التنفيذية الأمريكية",
+          "title": "Termination of Iran, North Korea, and Syria Nonproliferation Act Measures Against ROK Entity",
+          "excerpt": "",
+          "link": "https://www.federalregister.gov/documents/2026/09/08/2026-18222/termination-of-iran-north-korea-and-syria-nonproliferation-act-measures-against-rok-entity",
+          "publishedAt": "2026-09-08T00:00:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "رئيس الأركان السورية يبحث مع قائد عملية \"العزم الصلب\" مكافحة الإرهاب",
+          "excerpt": "استقبل رئيس هيئة الأركان العامة في وزارة الدفاع السورية، اللواء علي النعسان، الإثنين، وفداً من الجيش الأميركي برئاسة الأدميرال البحري ليام إم. هولين، قائد قوة ا",
+          "link": "https://www.syria.tv/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A8-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+          "publishedAt": "2026-09-07T20:51:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "YPJ says initial deal reached with Damascus on integration",
+          "excerpt": "QAMISHLI, Syria (North Press) – The Women’s Protection Units (YPJ) says it has reached an initial understanding with Damascus to join the Interior Ministry as a special mission force. Ruken Jamal, a YPJ spokesperson, told Rudaw on Monday th",
+          "link": "https://npasyria.com/en/141193/",
+          "publishedAt": "2026-09-07T19:01:07.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syrian nuclear site destroyed by IDF in 2007 was useful for weapon production, IAEA chief says",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_628,w_898/441676' alt='This undated image released by the US government shows the nuclear reactor under construction in Syria that ",
+          "link": "https://www.jpost.com/middle-east/article-907853",
+          "publishedAt": "2026-09-07T17:38:43.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s Internal Security arrests former senior government officer",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security Forces in Tartous governorate said on Monday they arrested former Brig. Gen. Mohammad Ali Dirgham, a senior officer under the former government. The forces said Dirgham was arrested ",
+          "link": "https://npasyria.com/en/141180/",
+          "publishedAt": "2026-09-07T14:46:59.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian nuclear reactor could have been useful for weapons, IAEA chief says",
+          "excerpt": "<p>By Francois Murphy</p><p>VIENNA, Sept 7 (Reuters) - The nuclear reactor Syria had nearly completed in 2007 when Israeli jets destroyed it was of a type that could quickly produce fissile material usable in nuclear weapons, U.N. nuclear w",
+          "link": "https://www.al-monitor.com/originals/2026/09/syrian-nuclear-reactor-could-have-been-useful-weapons-iaea-chief-says",
+          "publishedAt": "2026-09-07T14:46:40.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
         "Middle East Eye",
         "North Press Agency (English)",
         "Al-Monitor"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 21:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 23:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 13,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يقصف أراضي زراعية بين صيدا الحانوت والرزانية بريف القنيطرة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي قصفت، مساء الإثنين، بالمدفعية الثقيلة الأراضي الزراعية الواقعة بين قريتي صيدا الحانوت والرزانية بريف القني",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%86%D9%88%D8%AA-%D9%88%D8%A7%D9%84%D8%B1%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-07T21:18:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -114,6 +223,36 @@
           "us": false
         },
         {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من السويداء إلى إسرائيل.. الشيباني يستعرض أولويات سوريا أمام الجامعة العربية",
+          "excerpt": "أفاد وزير الخارجية السوري أسعد الشيباني بأنّ سوريا تمضي في تنفيذ خارطة الطريق الثلاثية الخاصة بالسويداء..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+          "publishedAt": "2026-09-07T14:42:14.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاجتماع الوزاري العربي يدين الانتهاكات الإسرائيلية في سوريا ولبنان وفلسطين",
+          "excerpt": "دعا الوزراء خلال اجتماعهم في القاهرة إلى وقف التصعيد والعودة للمسار الدبلوماسي، مع التأكيد على احترام سيادة الدول العربية",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+          "publishedAt": "2026-09-07T14:01:31.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
@@ -127,6 +266,49 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل إسرائيلي في طرنجة بريف القنيطرة وإلقاء قنابل دخانية بين منازل الأهالي",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الإثنين، داخل قرية طرنجة بريف القنيطرة، بمشاركة ثلاث آليات عسكرية وقوة من المشاة.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%A5%D9%84%D9%82%D8%A7%D8%A1-%D9%82%D9%86%D8%A7%D8%A8%D9%84-%D8%AF%D8%AE%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A",
+          "publishedAt": "2026-09-07T13:14:59.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وقفة احتجاجية لأهالي المختطفين لدى إسرائيل أمام مقر الأمم المتحدة في القنيطرة",
+          "excerpt": "نظّم عدد من أهالي المختطفين في سجون الاحتلال الإسرائيلي، ممن اعتُقلوا من ريفي درعا ودمشق الغربي والقنيطرة، وقفة احتجاجية أمام مقر الأمم المتحدة",
+          "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D9%82%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-07T10:42:30.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يزعم إحباط محاولة زرع عبوة قرب السياج الفاصل في الجولان المحتل",
+          "excerpt": "نفذت قوات الاحتلال عملية تطويق وتمشيط واسعة في المنطقة، للتحقق مما إذا كان الأشخاص قد وضعوا عبوة أو أي جسم آخر قرب السياج",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B2%D8%B9%D9%85-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%B2%D8%B1%D8%B9-%D8%B9%D8%A8%D9%88%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AC-%D8%A7%D9%84%D9%81%D8%A7%D8%B5%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84",
+          "publishedAt": "2026-09-07T10:08:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -135,21 +317,37 @@
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "تلفزيون سوريا",
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 21:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 23:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 9,
+      "usItems": 2,
+      "score": 16,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
+          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
+          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+          "publishedAt": "2026-09-07T13:46:52.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -167,20 +365,16 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 1,
       "sources": [
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الإعلام السوري المستقل"
       ],
       "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 21:21",
       "isFollowUp": true,
@@ -188,53 +382,83 @@
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 5,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "YPJ says initial deal reached with Damascus on integration",
-          "excerpt": "QAMISHLI, Syria (North Press) – The Women’s Protection Units (YPJ) says it has reached an initial understanding with Damascus to join the Interior Ministry as a special mission force. Ruken Jamal, a YPJ spokesperson, told Rudaw on Monday th",
-          "link": "https://npasyria.com/en/141193/",
-          "publishedAt": "2026-09-07T19:01:07.000Z",
-          "files": [],
+          "title": "بعد توحيد المناهج.. عبد الرحمن مصطفى يطالب باستمرار تدريس التركية في سوريا",
+          "excerpt": "طالب عضو مجلس الشعب ورئيس مجلس تركمان سوريا، عبد الرحمن مصطفى، وزارة التربية والتعليم بإعادة النظر في وضع اللغة التركية ضمن المنهاج الدراسي الجديد..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%87%D8%AC-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-07T19:21:41.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         },
         {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syrian nuclear site destroyed by IDF in 2007 was useful for weapon production, IAEA chief says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_628,w_898/441676' alt='This undated image released by the US government shows the nuclear reactor under construction in Syria that ",
-          "link": "https://www.jpost.com/middle-east/article-907853",
-          "publishedAt": "2026-09-07T17:38:43.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Syria’s Internal Security arrests former senior government officer",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security Forces in Tartous governorate said on Monday they arrested former Brig. Gen. Mohammad Ali Dirgham, a senior officer under the former government. The forces said Dirgham was arrested ",
-          "link": "https://npasyria.com/en/141180/",
-          "publishedAt": "2026-09-07T14:46:59.000Z",
-          "files": [],
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الإثنين 07-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي، في حين انخفضت أسعار الذهب في..",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-07-09-2026",
+          "publishedAt": "2026-09-07T10:30:58.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         },
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian nuclear reactor could have been useful for weapons, IAEA chief says",
-          "excerpt": "<p>By Francois Murphy</p><p>VIENNA, Sept 7 (Reuters) - The nuclear reactor Syria had nearly completed in 2007 when Israeli jets destroyed it was of a type that could quickly produce fissile material usable in nuclear weapons, U.N. nuclear w",
-          "link": "https://www.al-monitor.com/originals/2026/09/syrian-nuclear-reactor-could-have-been-useful-weapons-iaea-chief-says",
-          "publishedAt": "2026-09-07T14:46:40.000Z",
-          "files": [],
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هيئة المنافذ: عودة 73 ألف سوري طوعا عبر معبر السلامة مع تركيا منذ بداية العام",
+          "excerpt": "منفذ السلامة الحدودي يشهد عبور 1.23 مليون مسافر، من بينهم 73 ألف عائد طوعاً، ومرور 46 ألف شاحنة تجارية منذ بداية العام الحالي",
+          "link": "https://www.syria.tv/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%B9%D9%88%D8%AF%D8%A9-73-%D8%A3%D9%84%D9%81-%D8%B3%D9%88%D8%B1%D9%8A-%D8%B7%D9%88%D8%B9%D8%A7-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
+          "publishedAt": "2026-09-07T06:39:18.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-07 21:21",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"طيران ناس سوريا\".. أين وصلت الاتفاقية بعد مباحثات الحصري في الرياض؟",
+          "excerpt": "الحصري يبحث في الرياض مع طيران ناس اتفاقية إطلاق طيران ناس سوريا وتطوير التعاون الجوي بين البلدين",
+          "link": "https://www.syria.tv/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%86%D8%A7%D8%B3-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%8A%D9%86-%D9%88%D8%B5%D9%84%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%9F",
+          "publishedAt": "2026-09-07T20:33:43.000Z",
+          "files": [
+            "diplomacy"
+          ],
           "seenBefore": true,
           "us": false
         }
