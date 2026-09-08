@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T23:20:34.802Z",
+    "generatedAt": "2026-09-08T23:35:45.181Z",
     "windowHours": 24,
-    "from": "2026-09-07T23:20:34.802Z",
-    "to": "2026-09-08T23:20:34.802Z"
+    "from": "2026-09-07T23:35:45.181Z",
+    "to": "2026-09-08T23:35:45.181Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 26,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 6,
-    "archiveCycles": 463
+    "americanItems": 8,
+    "archiveCycles": 464
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,20 +23,14 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 7,
+      "independentSources": 8,
       "sources": [
         "Middle East Eye",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -44,6 +38,7 @@
         "سانا — قسم السياسة",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "تلفزيون سوريا",
+        "North Press Agency (English)",
         "Federal Register — السجل الفيدرالي الأمريكي"
       ],
       "circles": [
@@ -55,13 +50,13 @@
         "الإعلام السوري المستقل",
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 4,
-      "score": 36,
+      "usItems": 5,
+      "score": 44,
       "items": [
         {
           "source": "Middle East Eye",
@@ -148,6 +143,30 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "EU files show focus on accelerating returns, deportations to Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Newly disclosed European Union documents show that Brussels is prioritizing increased returns and potential deportations of Syrians as it expands cooperation with Syria&#8217;s transitional authorities on mig",
+          "link": "https://npasyria.com/en/141221/",
+          "publishedAt": "2026-09-08T07:51:39.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian, U.S. military officials discuss counterterrorism, regional issues",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s Ministry of Defense on Tuesday said Chief of the General Staff Major General Ali al-Naasan met with Rear Admiral Liam M. Hulin, commander of the Combined Joint Task Force &#8211; Operation Inherent Re",
+          "link": "https://npasyria.com/en/141218/",
+          "publishedAt": "2026-09-08T07:27:38.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
           "source": "Federal Register — السجل الفيدرالي الأمريكي",
           "sourceId": "federal-register",
           "circle": "الإدارة التنفيذية الأمريكية",
@@ -178,7 +197,7 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -287,7 +306,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -374,22 +393,23 @@
     {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 6,
+      "usItems": 2,
+      "score": 13,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -402,6 +422,20 @@
           "files": [
             "sanctions",
             "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. Treasury sanctions 27 Iranian airlines",
+          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. Treasury Department on Tuesday sanctioned 36 entities and individuals linked to Iran’s aviation sector, including 27 Iranian airlines, accusing them of supporting the movement of weapons, personnel, ",
+          "link": "https://npasyria.com/en/141252/",
+          "publishedAt": "2026-09-08T17:10:10.000Z",
+          "files": [
+            "sanctions"
           ],
           "seenBefore": true,
           "us": true
@@ -420,7 +454,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 22:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
