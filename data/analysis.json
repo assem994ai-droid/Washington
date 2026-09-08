@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T09:48:40.818Z",
+    "generatedAt": "2026-09-08T10:15:20.329Z",
     "windowHours": 24,
-    "from": "2026-09-07T09:48:40.818Z",
-    "to": "2026-09-08T09:48:40.818Z"
+    "from": "2026-09-07T10:15:20.329Z",
+    "to": "2026-09-08T10:15:20.329Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 24,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 2,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 424
+    "archiveCycles": 425
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 29,
+      "score": 28,
       "items": [
         {
           "source": "Middle East Eye",
@@ -86,7 +86,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syria still committed to diplomatic option with Israel, FM Shaibani tells Arab League - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/736892' alt='Syria's interim foreign minister Asaad Shaibani attends a meeting of the Council of Arab Foreign Ministers ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/736892' alt='Syria's interim foreign minister Asaad Shaibani attends a meeting of the Council of Arab Foreign Ministers a",
           "link": "https://www.jpost.com/middle-east/article-907887",
           "publishedAt": "2026-09-08T02:18:29.000Z",
           "files": [
@@ -210,20 +210,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يزعم إحباط محاولة زرع عبوة قرب السياج الفاصل في الجولان المحتل",
-          "excerpt": "نفذت قوات الاحتلال عملية تطويق وتمشيط واسعة في المنطقة، للتحقق مما إذا كان الأشخاص قد وضعوا عبوة أو أي جسم آخر قرب السياج",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B2%D8%B9%D9%85-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%B2%D8%B1%D8%B9-%D8%B9%D8%A8%D9%88%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AC-%D8%A7%D9%84%D9%81%D8%A7%D8%B5%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84",
-          "publishedAt": "2026-09-07T10:08:26.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -246,7 +232,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -319,7 +305,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syrian nuclear site destroyed by IDF in 2007 was useful for weapon production, IAEA chief says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/441676' alt='This undated image released by the US government shows the nuclear reactor under construction in Syria that",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_628,w_898/441676' alt='This undated image released by the US government shows the nuclear reactor under construction in Syria that ",
           "link": "https://www.jpost.com/middle-east/article-907853",
           "publishedAt": "2026-09-07T17:38:43.000Z",
           "files": [],
@@ -354,7 +340,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -404,7 +390,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -454,7 +440,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -490,7 +476,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 09:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
