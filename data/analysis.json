@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T05:51:30.599Z",
+    "generatedAt": "2026-09-08T06:08:54.887Z",
     "windowHours": 24,
-    "from": "2026-09-07T05:51:30.599Z",
-    "to": "2026-09-08T05:51:30.599Z"
+    "from": "2026-09-07T06:08:54.887Z",
+    "to": "2026-09-08T06:08:54.887Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
-    "files": 3,
+    "items": 26,
+    "files": 5,
     "withNew": 0,
-    "stale": 3,
-    "contested": 1,
+    "stale": 5,
+    "contested": 2,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 416
+    "americanItems": 3,
+    "archiveCycles": 417
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,44 +25,48 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "International Crisis Group",
-      "sourceId": "crisisgroup",
-      "message": "الخادم ردّ برمز 503"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 5,
       "sources": [
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Middle East Eye",
         "North Press Agency (English)",
         "Al-Monitor"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 05:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 05:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 31,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "انتهاكات متواصلة.. قوات الاحتلال تداهم منزلا في ريف القنيطرة",
+          "excerpt": "داهمت قوة من جيش الاحتلال الإسرائيلي، فجر اليوم الثلاثاء، منزلاً في قرية بريقة بريف القنيطرة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AF%D8%A7%D9%87%D9%85-%D9%85%D9%86%D8%B2%D9%84%D8%A7-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-08T05:18:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -86,6 +90,20 @@
           "excerpt": "<article data-history-node-id=\"447293\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-accuses-israel-attempts-obliterating-evidence-crimes-gaza\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mid",
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-accuses-israel-attempts-obliterating-evidence-crimes-gaza",
           "publishedAt": "2026-09-08T00:35:33.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يقصف أراضي زراعية بين صيدا الحانوت والرزانية بريف القنيطرة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي قصفت، مساء الإثنين، بالمدفعية الثقيلة الأراضي الزراعية الواقعة بين قريتي صيدا الحانوت والرزانية بريف القني",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%86%D9%88%D8%AA-%D9%88%D8%A7%D9%84%D8%B1%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-07T21:18:46.000Z",
           "files": [
             "israel"
           ],
@@ -149,6 +167,36 @@
           "us": false
         },
         {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من السويداء إلى إسرائيل.. الشيباني يستعرض أولويات سوريا أمام الجامعة العربية",
+          "excerpt": "أفاد وزير الخارجية السوري أسعد الشيباني بأنّ سوريا تمضي في تنفيذ خارطة الطريق الثلاثية الخاصة بالسويداء..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+          "publishedAt": "2026-09-07T14:42:14.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاجتماع الوزاري العربي يدين الانتهاكات الإسرائيلية في سوريا ولبنان وفلسطين",
+          "excerpt": "دعا الوزراء خلال اجتماعهم في القاهرة إلى وقف التصعيد والعودة للمسار الدبلوماسي، مع التأكيد على احترام سيادة الدول العربية",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+          "publishedAt": "2026-09-07T14:01:31.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
@@ -162,6 +210,49 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل إسرائيلي في طرنجة بريف القنيطرة وإلقاء قنابل دخانية بين منازل الأهالي",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الإثنين، داخل قرية طرنجة بريف القنيطرة، بمشاركة ثلاث آليات عسكرية وقوة من المشاة.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%A5%D9%84%D9%82%D8%A7%D8%A1-%D9%82%D9%86%D8%A7%D8%A8%D9%84-%D8%AF%D8%AE%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A",
+          "publishedAt": "2026-09-07T13:14:59.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وقفة احتجاجية لأهالي المختطفين لدى إسرائيل أمام مقر الأمم المتحدة في القنيطرة",
+          "excerpt": "نظّم عدد من أهالي المختطفين في سجون الاحتلال الإسرائيلي، ممن اعتُقلوا من ريفي درعا ودمشق الغربي والقنيطرة، وقفة احتجاجية أمام مقر الأمم المتحدة",
+          "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D9%82%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-07T10:42:30.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يزعم إحباط محاولة زرع عبوة قرب السياج الفاصل في الجولان المحتل",
+          "excerpt": "نفذت قوات الاحتلال عملية تطويق وتمشيط واسعة في المنطقة، للتحقق مما إذا كان الأشخاص قد وضعوا عبوة أو أي جسم آخر قرب السياج",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B2%D8%B9%D9%85-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%B2%D8%B1%D8%B9-%D8%B9%D8%A8%D9%88%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AC-%D8%A7%D9%84%D9%81%D8%A7%D8%B5%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84",
+          "publishedAt": "2026-09-07T10:08:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -170,9 +261,10 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "Federal Register — السجل الفيدرالي الأمريكي",
+        "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor"
@@ -183,13 +275,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 05:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 05:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 19,
       "items": [
         {
           "source": "Federal Register — السجل الفيدرالي الأمريكي",
@@ -202,6 +294,18 @@
           "files": [],
           "seenBefore": true,
           "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "رئيس الأركان السورية يبحث مع قائد عملية \"العزم الصلب\" مكافحة الإرهاب",
+          "excerpt": "استقبل رئيس هيئة الأركان العامة في وزارة الدفاع السورية، اللواء علي النعسان، الإثنين، وفداً من الجيش الأميركي برئاسة الأدميرال البحري ليام إم. هولين، قائد قوة ا",
+          "link": "https://www.syria.tv/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%82%D8%A7%D8%A6%D8%AF-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B2%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A8-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+          "publishedAt": "2026-09-07T20:51:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "North Press Agency (English)",
@@ -258,21 +362,37 @@
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "تلفزيون سوريا",
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 05:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 05:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 9,
+      "usItems": 2,
+      "score": 16,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اسمه ضمن قوائم العقوبات الدولية.. القبض على لواء في قوات النظام المخلوع بطرطوس",
+          "excerpt": "أعلنت قوى الأمن الداخلي في محافظة طرطوس، إلقاء القبض على اللواء السابق، محمد علي درغام، وذلك بعد..",
+          "link": "https://www.syria.tv/%D8%A7%D8%B3%D9%85%D9%87-%D8%B6%D9%85%D9%86-%D9%82%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%84%D9%88%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+          "publishedAt": "2026-09-07T13:46:52.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -286,6 +406,106 @@
           ],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 05:22",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 5,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد توحيد المناهج.. عبد الرحمن مصطفى يطالب باستمرار تدريس التركية في سوريا",
+          "excerpt": "طالب عضو مجلس الشعب ورئيس مجلس تركمان سوريا، عبد الرحمن مصطفى، وزارة التربية والتعليم بإعادة النظر في وضع اللغة التركية ضمن المنهاج الدراسي الجديد..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%87%D8%AC-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-07T19:21:41.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الإثنين 07-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي، في حين انخفضت أسعار الذهب في..",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-07-09-2026",
+          "publishedAt": "2026-09-07T10:30:58.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هيئة المنافذ: عودة 73 ألف سوري طوعا عبر معبر السلامة مع تركيا منذ بداية العام",
+          "excerpt": "منفذ السلامة الحدودي يشهد عبور 1.23 مليون مسافر، من بينهم 73 ألف عائد طوعاً، ومرور 46 ألف شاحنة تجارية منذ بداية العام الحالي",
+          "link": "https://www.syria.tv/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%B9%D9%88%D8%AF%D8%A9-73-%D8%A3%D9%84%D9%81-%D8%B3%D9%88%D8%B1%D9%8A-%D8%B7%D9%88%D8%B9%D8%A7-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85",
+          "publishedAt": "2026-09-07T06:39:18.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 05:22",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"طيران ناس سوريا\".. أين وصلت الاتفاقية بعد مباحثات الحصري في الرياض؟",
+          "excerpt": "الحصري يبحث في الرياض مع طيران ناس اتفاقية إطلاق طيران ناس سوريا وتطوير التعاون الجوي بين البلدين",
+          "link": "https://www.syria.tv/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%86%D8%A7%D8%B3-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%8A%D9%86-%D9%88%D8%B5%D9%84%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%9F",
+          "publishedAt": "2026-09-07T20:33:43.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     }
