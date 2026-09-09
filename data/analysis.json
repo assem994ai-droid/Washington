@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T17:38:18.110Z",
+    "generatedAt": "2026-09-09T17:48:26.321Z",
     "windowHours": 24,
-    "from": "2026-09-08T17:38:18.110Z",
-    "to": "2026-09-09T17:38:18.110Z"
+    "from": "2026-09-08T17:48:26.321Z",
+    "to": "2026-09-09T17:48:26.321Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 26,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 6,
-    "archiveCycles": 497
+    "americanItems": 5,
+    "archiveCycles": 498
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,7 +48,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -197,9 +197,9 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا",
         "The National"
       ],
       "circles": [
@@ -213,8 +213,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 26,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "نتنياهو يقتحم جبل الشيخ المحتل ويتوعد إيران قبل الانتخابات",
+          "excerpt": "نتنياهو يتفقد جبل الشيخ السوري المحتل ويتحدث عن سيطرة إسرائيلية واسعة، فماذا وراء الزيارة؟",
+          "link": "https://www.syria.tv/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84-%D9%88%D9%8A%D8%AA%D9%88%D8%B9%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+          "publishedAt": "2026-09-09T17:42:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -226,7 +240,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -289,6 +303,58 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 10,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا ترحب بقرار الجامعة العربية الرفع الكامل للعقوبات عن الدولة السورية ومؤسساتها",
+          "excerpt": "رحبت سوريا بالقرار الصادر عن مجلس جامعة الدول العربية القاضي بالرفع الكامل لكل ‏العقوبات السياسية والاقتصادية والاجتماعية ‏المفروضة على الدولة السورية ومؤسساتها، ‏مع إبقاء العقوبات على مسؤولي ‏النظام البائد.‏",
+          "link": "https://sana.sy/politics/2576731/",
+          "publishedAt": "2026-09-09T16:54:41.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد رفع الحظر.. كيف يمكن للمستخدمين في سوريا الوصول إلى \"Gemini\"؟",
+          "excerpt": "أصبحت خدمة \"Google Gemini\" متاحة للمستخدمين داخل سوريا، بعد رفع القيود التي كانت تمنع الوصول إليها على مستوى الدولة، وفق ما أعلنته مبادرة \"سوريا بلا قيود\"..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-gemini%D8%9F",
+          "publishedAt": "2026-09-09T07:56:24.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -302,13 +368,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 9,
       "items": [
         {
           "source": "Middle East Eye",
@@ -322,7 +388,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -372,73 +438,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:21",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 14,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا ترحب بقرار الجامعة العربية الرفع الكامل للعقوبات عن الدولة السورية ومؤسساتها",
-          "excerpt": "رحبت سوريا بالقرار الصادر عن مجلس جامعة الدول العربية القاضي بالرفع الكامل لكل ‏العقوبات السياسية والاقتصادية والاجتماعية ‏المفروضة على الدولة السورية ومؤسساتها، ‏مع إبقاء العقوبات على مسؤولي ‏النظام البائد.‏",
-          "link": "https://sana.sy/politics/2576731/",
-          "publishedAt": "2026-09-09T16:54:41.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد رفع الحظر.. كيف يمكن للمستخدمين في سوريا الوصول إلى \"Gemini\"؟",
-          "excerpt": "أصبحت خدمة \"Google Gemini\" متاحة للمستخدمين داخل سوريا، بعد رفع القيود التي كانت تمنع الوصول إليها على مستوى الدولة، وفق ما أعلنته مبادرة \"سوريا بلا قيود\"..",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-gemini%D8%9F",
-          "publishedAt": "2026-09-09T07:56:24.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من السياسة إلى الاقتصاد.. ما آثار رفع العقوبات العربية عن سوريا؟",
-          "excerpt": "رأى مركز \"جسور للدراسات\" أن قرار جامعة الدول العربية رفع العقوبات السياسية والاقتصادية والاجتماعية المفروضة على سوريا يمثل تحولاً مهماً في علاقة دمشق بمحيطها ..",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D8%A7-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B9%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-09-08T17:39:51.000Z",
-          "files": [
-            "sanctions",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -450,7 +449,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -487,7 +486,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
