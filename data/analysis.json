@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T13:40:34.318Z",
+    "generatedAt": "2026-09-09T13:56:03.750Z",
     "windowHours": 24,
-    "from": "2026-09-08T13:40:34.318Z",
-    "to": "2026-09-09T13:40:34.318Z"
+    "from": "2026-09-08T13:56:03.750Z",
+    "to": "2026-09-09T13:56:03.750Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 26,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 9,
-    "archiveCycles": 487
+    "archiveCycles": 488
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,8 +31,9 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
+        "Al-Monitor",
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -41,20 +42,33 @@
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 5,
-      "score": 38,
+      "score": 51,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "IAEA board draws a line under past Syrian nuclear activities",
+          "excerpt": "<p>VIENNA, Sept 9 (Reuters) - The U.N. nuclear watchdog's 35-nation Board of Governors passed a resolution on Wednesday drawing a line under Syria's secret nuclear activities during the Assad family's rule, saying the new authorities had he",
+          "link": "https://www.al-monitor.com/originals/2026/09/iaea-board-draws-line-under-past-syrian-nuclear-activities",
+          "publishedAt": "2026-09-09T13:46:38.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -132,7 +146,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Secular school in Damascus announces full gender segregation, backlash ensues",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/730319' alt='Women prepare for Eid al-Adha prayers at the Umayyad Mosque in Damascus, Syria, May 27, 2026. (photo credi",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/730319' alt='Women prepare for Eid al-Adha prayers at the Umayyad Mosque in Damascus, Syria, May 27, 2026. (photo credit:",
           "link": "https://www.jpost.com/middle-east/article-907993",
           "publishedAt": "2026-09-08T19:28:21.000Z",
           "files": [],
@@ -190,7 +204,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -257,7 +271,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -372,7 +386,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -451,7 +465,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -488,7 +502,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
