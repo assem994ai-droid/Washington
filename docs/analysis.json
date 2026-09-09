@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T16:09:03.067Z",
+    "generatedAt": "2026-09-09T16:26:10.241Z",
     "windowHours": 24,
-    "from": "2026-09-08T16:09:03.067Z",
-    "to": "2026-09-09T16:09:03.067Z"
+    "from": "2026-09-08T16:26:10.241Z",
+    "to": "2026-09-09T16:26:10.241Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 25,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
-    "echoed": 0,
+    "echoed": 1,
     "americanItems": 7,
-    "archiveCycles": 493
+    "archiveCycles": 494
   },
   "emptyCircles": [
     "الكونغرس",
@@ -29,34 +29,46 @@
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
       "independentSources": 7,
       "sources": [
+        "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "Al-Monitor",
         "North Press Agency (English)",
-        "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط",
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 15:55",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
+      "newItems": 1,
+      "stale": false,
+      "echoed": true,
       "usItems": 4,
-      "score": 38,
+      "score": 48,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تدين الهجمات الإيرانية على الأردن وتؤكد تضامنها الكامل معه",
+          "excerpt": "سوريا تدين الهجمات الإيرانية على الأردن بعد اعتراض دفاعاته 18 صاروخاً باليستياً.. إلى أين يتجه التصعيد؟",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D8%B9%D9%87",
+          "publishedAt": "2026-09-09T16:24:36.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -193,7 +205,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 15:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 16:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -293,7 +305,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 15:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 16:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -306,7 +318,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "UN Secretary-General Guterres condemns 'Israeli escalation' in Lebanon, calls for IDF withdrawal",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_530,w_1170/731424' alt='UN Secretary-General António Guterres addresses the media in Damascus, Syria. (photo credit: UNITED NATIONS",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/731424' alt='UN Secretary-General António Guterres addresses the media in Damascus, Syria. (photo credit: UNITED NATIONS)",
           "link": "https://www.jpost.com/middle-east/article-908031",
           "publishedAt": "2026-09-09T10:47:40.000Z",
           "files": [
@@ -372,7 +384,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 15:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 16:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -423,7 +435,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 15:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 16:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -460,7 +472,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 15:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 16:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
