@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T18:33:56.364Z",
+    "generatedAt": "2026-09-09T18:49:01.537Z",
     "windowHours": 24,
-    "from": "2026-09-08T18:33:56.364Z",
-    "to": "2026-09-09T18:33:56.364Z"
+    "from": "2026-09-08T18:49:01.537Z",
+    "to": "2026-09-09T18:49:01.537Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 1,
     "americanItems": 4,
-    "archiveCycles": 501
+    "archiveCycles": 502
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,11 +32,10 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "Al-Monitor",
         "North Press Agency (English)",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط"
@@ -44,17 +43,16 @@
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الإعلام المتخصص",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 2,
-      "score": 30,
+      "score": 26,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -112,18 +110,6 @@
           "excerpt": "أدانت الجمهورية العربية السورية الاعتداءات الإيرانية المتكررة ‏التي تستهدف المملكة الأردنية الهاشمية الشقيقة، وأكدت أنها تعد ‏انتهاكاً مرفوضاً لسيادة الدول، ومخالفةً صريحةً لمبادئ القانون ‏الدولي وميثاق الأمم المتحدة‎.‎",
           "link": "https://sana.sy/politics/2576675/",
           "publishedAt": "2026-09-09T15:32:13.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "IAEA board draws a line under past Syrian nuclear activities",
-          "excerpt": "<p>VIENNA, Sept 9 (Reuters) - The U.N. nuclear watchdog's 35-nation Board of Governors passed a resolution on Wednesday drawing a line under Syria's secret nuclear activities during the Assad family's rule, saying the new authorities had he",
-          "link": "https://www.al-monitor.com/originals/2026/09/iaea-board-draws-line-under-past-syrian-nuclear-activities",
-          "publishedAt": "2026-09-09T13:46:38.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -211,8 +197,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 24,
+      "score": 25,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter al-Muallaqa in southern Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered al-Muallaqa village in southern Quneitra countryside on Wednesday with five armored vehicles and set up a temporary checkpoint to search passers-by. North Press correspondent reported t",
+          "link": "https://npasyria.com/en/141314/",
+          "publishedAt": "2026-09-09T18:40:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -225,7 +225,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -275,7 +275,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "UN Secretary-General Guterres condemns 'Israeli escalation' in Lebanon, calls for IDF withdrawal",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_530,w_1170/731424' alt='UN Secretary-General António Guterres addresses the media in Damascus, Syria. (photo credit: UNITED NATIONS",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/731424' alt='UN Secretary-General António Guterres addresses the media in Damascus, Syria. (photo credit: UNITED NATIONS)",
           "link": "https://www.jpost.com/middle-east/article-908031",
           "publishedAt": "2026-09-09T10:47:40.000Z",
           "files": [
@@ -329,7 +329,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -381,7 +381,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -447,7 +447,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -484,7 +484,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:33",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
