@@ -1,23 +1,24 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-08T23:35:45.181Z",
+    "generatedAt": "2026-09-09T00:11:50.712Z",
     "windowHours": 24,
-    "from": "2026-09-07T23:35:45.181Z",
-    "to": "2026-09-08T23:35:45.181Z"
+    "from": "2026-09-08T00:11:50.712Z",
+    "to": "2026-09-09T00:11:50.712Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 8,
-    "archiveCycles": 464
+    "americanItems": 7,
+    "archiveCycles": 465
   },
   "emptyCircles": [
     "الكونغرس",
+    "الإدارة التنفيذية الأمريكية",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -30,7 +31,7 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 8,
+      "independentSources": 7,
       "sources": [
         "Middle East Eye",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -38,8 +39,7 @@
         "سانا — قسم السياسة",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "Federal Register — السجل الفيدرالي الأمريكي"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام المتخصص",
@@ -47,16 +47,15 @@
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية",
         "الكونغرس والتوازن السياسي الأمريكي",
-        "الإعلام السوري المستقل",
-        "الإدارة التنفيذية الأمريكية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 5,
-      "score": 44,
+      "usItems": 4,
+      "score": 37,
       "items": [
         {
           "source": "Middle East Eye",
@@ -165,18 +164,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Federal Register — السجل الفيدرالي الأمريكي",
-          "sourceId": "federal-register",
-          "circle": "الإدارة التنفيذية الأمريكية",
-          "title": "Termination of Iran, North Korea, and Syria Nonproliferation Act Measures Against ROK Entity",
-          "excerpt": "",
-          "link": "https://www.federalregister.gov/documents/2026/09/08/2026-18222/termination-of-iran-north-korea-and-syria-nonproliferation-act-measures-against-rok-entity",
-          "publishedAt": "2026-09-08T00:00:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -197,7 +184,7 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -306,7 +293,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -403,7 +390,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -454,7 +441,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-08 23:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
