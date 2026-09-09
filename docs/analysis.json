@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T19:56:20.319Z",
+    "generatedAt": "2026-09-09T20:24:38.215Z",
     "windowHours": 24,
-    "from": "2026-09-08T19:56:20.319Z",
-    "to": "2026-09-09T19:56:20.319Z"
+    "from": "2026-09-08T20:24:38.215Z",
+    "to": "2026-09-09T20:24:38.215Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 23,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 506
+    "americanItems": 1,
+    "archiveCycles": 507
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,13 +32,15 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "سانا — قسم السياسة",
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
+        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
@@ -48,8 +50,23 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 31,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الأردن يدين الدخول غير الشرعي لنتنياهو إلى الأراضي السورية ويؤكد أنه ‏انتهاك مرفوض",
+          "excerpt": "أدان الأردن، اليوم الأربعاء، الدخول اللاشرعي لرئيس وزراء الاحتلال ‏الإسرائيلي إلى منطقة جبل الشيخ، مؤكداً أنه انتهاكً صارخ لسيادة سوريا ‏ووحدة أراضيها، ويمثل خرقاً فاضحاً للقانون الدولي، واستفزازاً مرفوضاً.‏",
+          "link": "https://sana.sy/politics/2576951/",
+          "publishedAt": "2026-09-09T20:16:04.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -62,7 +79,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -196,156 +213,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "مراكز الفكر",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:47",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 10,
-      "items": [
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Qatar still hosts Hamas&#8217;s top brass, one year after they were targeted",
-          "excerpt": "One year ago today, Hamas officials in Qatar narrowly escaped death. On September 9, 2025, Israel launched an airstrike on a Hamas meeting in Doha. The strike failed to wipe out Hamas’s upper ranks.... The post Qatar still hosts Hamas&#8217",
-          "link": "https://www.fdd.org/analysis/2026/09/09/qatar-still-hosts-hamass-top-brass-one-year-after-they-were-targeted/",
-          "publishedAt": "2026-09-09T19:17:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يفرج عن 3 سوريين بعد احتجازهم لمدة تصل لثلاثة أشهر",
-          "excerpt": "أفرج جيش الاحتلال الإسرائيلي عن ثلاثة سوريين بعد فترات احتجاز تراوحت بين شهر وثلاثة أشهر، وفق مراسل تلفزيون سوريا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-3-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87%D9%85-%D9%84%D9%85%D8%AF%D8%A9-%D8%AA%D8%B5%D9%84-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
-          "publishedAt": "2026-09-09T18:06:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من القصف إلى الحواجز.. 15 عاماً من استهداف التعليم في سوريا",
-          "excerpt": "في اليوم الدولي لحماية التعليم من الهجمات، يرصد التقرير كيف انتقلت عوائق التعليم في سوريا من القصف وتدمير المدارس إلى الحواجز وصعوبة الوصول إلى الامتحانات.",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-15-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-09T17:53:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "بريطانيا ترحِّب بتقدم سوريا في التعاون مع الوكالة الدولية للطاقة الذرية",
-          "excerpt": "أكدت الممثلة الدائمة لبريطانيا لدى الأمم المتحدة والوكالة الدولية للطاقة الذرية ‌‏(‏IAEA‏) ومنظمة معاهدة الحظر الشامل للتجارب النووية (‏CTBTO‏) في ‏فيينا، سونيا فاري، أن سوريا اتخذت خطوات مهمة لمعالجة تركة النظام ‏البائد، ودعم جهود الوكالة ",
-          "link": "https://sana.sy/politics/2576741/",
-          "publishedAt": "2026-09-09T17:20:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تدين الهجمات الإيرانية على الأردن وتؤكد تضامنها الكامل معه",
-          "excerpt": "سوريا تدين الهجمات الإيرانية على الأردن بعد اعتراض دفاعاته 18 صاروخاً باليستياً.. إلى أين يتجه التصعيد؟",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D8%B9%D9%87",
-          "publishedAt": "2026-09-09T16:24:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"معمار جديد للطاقة\".. ماذا تخشى إيران من مشروع خط كركوك - بانياس؟",
-          "excerpt": "لا تنظر وسائل الإعلام الإيرانية المقربة من دوائر الحكم إلى مشروع نقل النفط العراقي عبر سوريا بوصفه خطاً جديداً للأنابيب بين كركوك أو حديثة وميناء بانياس فقط",
-          "link": "https://www.syria.tv/%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AE%D8%B4%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AE%D8%B7-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%A8%D8%A7%D9%86%D9%8A%D8%A7%D8%B3%D8%9F",
-          "publishedAt": "2026-09-09T05:33:07.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:47",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 10,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا ترحب بقرار الجامعة العربية الرفع الكامل للعقوبات عن الدولة السورية ومؤسساتها",
-          "excerpt": "رحبت سوريا بالقرار الصادر عن مجلس جامعة الدول العربية القاضي بالرفع الكامل لكل ‏العقوبات السياسية والاقتصادية والاجتماعية ‏المفروضة على الدولة السورية ومؤسساتها، ‏مع إبقاء العقوبات على مسؤولي ‏النظام البائد.‏",
-          "link": "https://sana.sy/politics/2576731/",
-          "publishedAt": "2026-09-09T16:54:41.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد رفع الحظر.. كيف يمكن للمستخدمين في سوريا الوصول إلى \"Gemini\"؟",
-          "excerpt": "أصبحت خدمة \"Google Gemini\" متاحة للمستخدمين داخل سوريا، بعد رفع القيود التي كانت تمنع الوصول إليها على مستوى الدولة، وفق ما أعلنته مبادرة \"سوريا بلا قيود\"..",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-gemini%D8%9F",
-          "publishedAt": "2026-09-09T07:56:24.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -359,7 +226,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -414,6 +281,126 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "مراكز الفكر",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:56",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 6,
+      "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Qatar still hosts Hamas&#8217;s top brass, one year after they were targeted",
+          "excerpt": "One year ago today, Hamas officials in Qatar narrowly escaped death. On September 9, 2025, Israel launched an airstrike on a Hamas meeting in Doha. The strike failed to wipe out Hamas’s upper ranks.... The post Qatar still hosts Hamas&#8217",
+          "link": "https://www.fdd.org/analysis/2026/09/09/qatar-still-hosts-hamass-top-brass-one-year-after-they-were-targeted/",
+          "publishedAt": "2026-09-09T19:17:46.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يفرج عن 3 سوريين بعد احتجازهم لمدة تصل لثلاثة أشهر",
+          "excerpt": "أفرج جيش الاحتلال الإسرائيلي عن ثلاثة سوريين بعد فترات احتجاز تراوحت بين شهر وثلاثة أشهر، وفق مراسل تلفزيون سوريا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-3-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87%D9%85-%D9%84%D9%85%D8%AF%D8%A9-%D8%AA%D8%B5%D9%84-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
+          "publishedAt": "2026-09-09T18:06:37.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من القصف إلى الحواجز.. 15 عاماً من استهداف التعليم في سوريا",
+          "excerpt": "في اليوم الدولي لحماية التعليم من الهجمات، يرصد التقرير كيف انتقلت عوائق التعليم في سوريا من القصف وتدمير المدارس إلى الحواجز وصعوبة الوصول إلى الامتحانات.",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-15-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-09T17:53:46.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تدين الهجمات الإيرانية على الأردن وتؤكد تضامنها الكامل معه",
+          "excerpt": "سوريا تدين الهجمات الإيرانية على الأردن بعد اعتراض دفاعاته 18 صاروخاً باليستياً.. إلى أين يتجه التصعيد؟",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D8%B9%D9%87",
+          "publishedAt": "2026-09-09T16:24:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"معمار جديد للطاقة\".. ماذا تخشى إيران من مشروع خط كركوك - بانياس؟",
+          "excerpt": "لا تنظر وسائل الإعلام الإيرانية المقربة من دوائر الحكم إلى مشروع نقل النفط العراقي عبر سوريا بوصفه خطاً جديداً للأنابيب بين كركوك أو حديثة وميناء بانياس فقط",
+          "link": "https://www.syria.tv/%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AE%D8%B4%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AE%D8%B7-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%A8%D8%A7%D9%86%D9%8A%D8%A7%D8%B3%D8%9F",
+          "publishedAt": "2026-09-09T05:33:07.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:56",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد رفع الحظر.. كيف يمكن للمستخدمين في سوريا الوصول إلى \"Gemini\"؟",
+          "excerpt": "أصبحت خدمة \"Google Gemini\" متاحة للمستخدمين داخل سوريا، بعد رفع القيود التي كانت تمنع الوصول إليها على مستوى الدولة، وفق ما أعلنته مبادرة \"سوريا بلا قيود\"..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-gemini%D8%9F",
+          "publishedAt": "2026-09-09T07:56:24.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -425,7 +412,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -462,7 +449,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 19:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
