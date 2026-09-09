@@ -1,38 +1,44 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T11:50:24.152Z",
+    "generatedAt": "2026-09-09T12:30:04.422Z",
     "windowHours": 24,
-    "from": "2026-09-08T11:50:24.152Z",
-    "to": "2026-09-09T11:50:24.152Z"
+    "from": "2026-09-08T12:30:04.422Z",
+    "to": "2026-09-09T12:30:04.422Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
-    "files": 6,
+    "items": 20,
+    "files": 5,
     "withNew": 0,
-    "stale": 6,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 9,
-    "archiveCycles": 482
+    "americanItems": 6,
+    "archiveCycles": 483
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
-        "North Press Agency (English)",
         "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط",
@@ -46,62 +52,14 @@
         "المصادر الرسمية السورية",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 5,
-      "score": 38,
+      "usItems": 3,
+      "score": 25,
       "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump map showing Greenland, Iceland as U.S. territory sparks backlash",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Wednesday sparked diplomatic backlash across the North Atlantic after posting a map on social media depicting the United States stretching across North America and including Gre",
-          "link": "https://npasyria.com/en/141285/",
-          "publishedAt": "2026-09-09T11:17:02.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "European conference urges equal citizenship for Syria’s Christians",
-          "excerpt": "QAMISHLI, Syria (North Press) – European policymakers, Church leaders and representatives of Syria’s Christian communities on Tuesday called for a new constitutional and political framework guaranteeing equal citizenship, religious freedom ",
-          "link": "https://npasyria.com/en/141282/",
-          "publishedAt": "2026-09-09T10:15:18.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UNHCR records more than 681,000 Syrian refugee returns since January 2025",
-          "excerpt": "QAMISHLI, Syria (North Press) – More than 681,000 Syrians registered with the UN refugee agency have returned to Syria since January 2025, with most returning spontaneously, according to new figures released by the United Nations High Commi",
-          "link": "https://npasyria.com/en/141276/",
-          "publishedAt": "2026-09-09T06:05:02.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. destroys 5 IRGC tankers after failed attacks on Navy warship",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Central Command said on Tuesday that American forces destroyed five Iranian crude oil carriers after the Islamic Revolutionary Guard Corps (IRGC) twice targeted a U.S. Navy warship with ballistic missile",
-          "link": "https://npasyria.com/en/141273/",
-          "publishedAt": "2026-09-09T05:43:29.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -193,13 +151,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 16,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -271,86 +229,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "لجنة التحقيق الدولية: الاعتداءات الإسرائيلية على جنوبي سوريا انتهاك لسيادتها",
-          "excerpt": "قال ممثل سوريا أمام مجلس حقوق الإنسان ياسر الفرحان إن بلاده تمضي في مساري العدالة والمحاسبة \"دون تمييز\"، وتواصل تعزيز تعاونها مع لجنة التحقيق الدولية",
-          "link": "https://www.syria.tv/%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%AA%D9%87%D8%A7",
-          "publishedAt": "2026-09-08T12:14:42.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:22",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 14,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد رفع الحظر.. كيف يمكن للمستخدمين في سوريا الوصول إلى \"Gemini\"؟",
-          "excerpt": "أصبحت خدمة \"Google Gemini\" متاحة للمستخدمين داخل سوريا، بعد رفع القيود التي كانت تمنع الوصول إليها على مستوى الدولة، وفق ما أعلنته مبادرة \"سوريا بلا قيود\"..",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-gemini%D8%9F",
-          "publishedAt": "2026-09-09T07:56:24.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من السياسة إلى الاقتصاد.. ما آثار رفع العقوبات العربية عن سوريا؟",
-          "excerpt": "رأى مركز \"جسور للدراسات\" أن قرار جامعة الدول العربية رفع العقوبات السياسية والاقتصادية والاجتماعية المفروضة على سوريا يمثل تحولاً مهماً في علاقة دمشق بمحيطها ..",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D8%A7-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B9%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-09-08T17:39:51.000Z",
-          "files": [
-            "sanctions",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. Treasury sanctions 27 Iranian airlines",
-          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. Treasury Department on Tuesday sanctioned 36 entities and individuals linked to Iran’s aviation sector, including 27 Iranian airlines, accusing them of supporting the movement of weapons, personnel, ",
-          "link": "https://npasyria.com/en/141252/",
-          "publishedAt": "2026-09-08T17:10:10.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -368,7 +246,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -468,37 +346,35 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "Al Jazeera English",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام الدولي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 0,
+      "usItems": 1,
       "score": 7,
       "items": [
         {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "As SDF disband in Syria, Kurds ponder how to secure their rights",
-          "excerpt": "As the Kurdish forces dissolve, experts express concern if their rights will be won through democratic means.",
-          "link": "https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss",
-          "publishedAt": "2026-09-09T05:57:02.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد رفع الحظر.. كيف يمكن للمستخدمين في سوريا الوصول إلى \"Gemini\"؟",
+          "excerpt": "أصبحت خدمة \"Google Gemini\" متاحة للمستخدمين داخل سوريا، بعد رفع القيود التي كانت تمنع الوصول إليها على مستوى الدولة، وفق ما أعلنته مبادرة \"سوريا بلا قيود\"..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-gemini%D8%9F",
+          "publishedAt": "2026-09-09T07:56:24.000Z",
           "files": [
-            "sdf"
+            "sanctions"
           ],
           "seenBefore": true,
           "us": false
@@ -507,16 +383,16 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "كليتشدار أوغلو: تغيير النظام واندماج \"قسد\" نجاح للدولة التركية",
-          "excerpt": "اعتبر زعيم حزب الشعب الجمهوري التركي، كمال كليتشدار أوغلو، أن التطورات التي شهدتها سوريا، بما في ذلك الإطاحة بالنظام وإلقاء قوات سوريا الديمقراطية \"قسد\" السلاح",
-          "link": "https://www.syria.tv/%D9%83%D9%84%D9%8A%D8%AA%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A3%D9%88%D8%BA%D9%84%D9%88-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%A7%D9%86%D8%AF%D9%85%D8%A7%D8%AC-%D9%82%D8%B3%D8%AF-%D9%86%D8%AC%D8%A7%D8%AD-%D9%84%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
-          "publishedAt": "2026-09-08T12:08:55.000Z",
+          "title": "من السياسة إلى الاقتصاد.. ما آثار رفع العقوبات العربية عن سوريا؟",
+          "excerpt": "رأى مركز \"جسور للدراسات\" أن قرار جامعة الدول العربية رفع العقوبات السياسية والاقتصادية والاجتماعية المفروضة على سوريا يمثل تحولاً مهماً في علاقة دمشق بمحيطها ..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D8%A7-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B9%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-09-08T17:39:51.000Z",
           "files": [
-            "sdf",
-            "turkey"
+            "sanctions",
+            "economy"
           ],
           "seenBefore": true,
-          "us": false
+          "us": true
         }
       ]
     },
@@ -532,7 +408,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 11:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
