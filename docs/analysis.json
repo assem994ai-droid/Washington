@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T17:48:26.321Z",
+    "generatedAt": "2026-09-09T17:57:06.619Z",
     "windowHours": 24,
-    "from": "2026-09-08T17:48:26.321Z",
-    "to": "2026-09-09T17:48:26.321Z"
+    "from": "2026-09-08T17:57:06.619Z",
+    "to": "2026-09-09T17:57:06.619Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 2,
+    "stale": 4,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 5,
-    "archiveCycles": 498
+    "americanItems": 4,
+    "archiveCycles": 499
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,37 +25,53 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
-        "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "Al-Monitor",
+        "سانا — قسم السياسة",
         "North Press Agency (English)",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
+        "المصادر الرسمية السورية",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": true,
-      "usItems": 3,
-      "score": 33,
+      "usItems": 2,
+      "score": 35,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من القصف إلى الحواجز.. 15 عاماً من استهداف التعليم في سوريا",
+          "excerpt": "في اليوم الدولي لحماية التعليم من الهجمات، يرصد التقرير كيف انتقلت عوائق التعليم في سوريا من القصف وتدمير المدارس إلى الحواجز وصعوبة الوصول إلى الامتحانات.",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-15-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-09T17:53:46.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -88,18 +104,6 @@
           "excerpt": "أدانت الجمهورية العربية السورية الاعتداءات الإيرانية المتكررة ‏التي تستهدف المملكة الأردنية الهاشمية الشقيقة، وأكدت أنها تعد ‏انتهاكاً مرفوضاً لسيادة الدول، ومخالفةً صريحةً لمبادئ القانون ‏الدولي وميثاق الأمم المتحدة‎.‎",
           "link": "https://sana.sy/politics/2576675/",
           "publishedAt": "2026-09-09T15:32:13.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "IAEA board draws a line under past Syrian nuclear activities",
-          "excerpt": "<p>VIENNA, Sept 9 (Reuters) - The U.N. nuclear watchdog's 35-nation Board of Governors passed a resolution on Wednesday drawing a line under Syria's secret nuclear activities during the Assad family's rule, saying the new authorities had he",
-          "link": "https://www.al-monitor.com/originals/2026/09/iaea-board-draws-line-under-past-syrian-nuclear-activities",
-          "publishedAt": "2026-09-09T13:46:38.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -139,18 +143,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. destroys 5 IRGC tankers after failed attacks on Navy warship",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Central Command said on Tuesday that American forces destroyed five Iranian crude oil carriers after the Islamic Revolutionary Guard Corps (IRGC) twice targeted a U.S. Navy warship with ballistic missile",
-          "link": "https://npasyria.com/en/141273/",
-          "publishedAt": "2026-09-09T05:43:29.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         },
         {
           "source": "تلفزيون سوريا",
@@ -197,8 +189,8 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
-        "تلفزيون سوريا",
         "North Press Agency (English)",
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
@@ -213,8 +205,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 27,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Netanyahu tours Mount Hermon in southern Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli Prime Minister Benjamin Netanyahu visited Mount Hermon in southern Syria on Wednesday with Defense Minister Israel Katz and senior military officers, reiterating Israel’s control over the area. In a v",
+          "link": "https://npasyria.com/en/141304/",
+          "publishedAt": "2026-09-09T17:55:08.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -226,7 +232,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -316,7 +322,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -368,13 +374,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 8,
       "items": [
         {
           "source": "Middle East Eye",
@@ -419,21 +425,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "في زيارة جديدة.. الشيباني يصل إلى أنقرة لإجراء مباحثات مع هاكان فيدان",
-          "excerpt": "وصل وزير الخارجية والمغتربين السوري أسعد حسن الشيباني إلى العاصمة التركية أنقرة لإجراء مباحثات مع نظيره التركي هاكان فيدان..",
-          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86",
-          "publishedAt": "2026-09-08T17:51:14.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -449,7 +440,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -486,7 +477,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
