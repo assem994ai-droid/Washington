@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T10:52:16.885Z",
+    "generatedAt": "2026-09-09T11:22:36.313Z",
     "windowHours": 24,
-    "from": "2026-09-08T10:52:16.885Z",
-    "to": "2026-09-09T10:52:16.885Z"
+    "from": "2026-09-08T11:22:36.313Z",
+    "to": "2026-09-09T11:22:36.313Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
+    "items": 29,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 8,
-    "archiveCycles": 480
+    "americanItems": 9,
+    "archiveCycles": 481
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,14 +46,26 @@
         "المصادر الرسمية السورية",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:39",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 4,
-      "score": 34,
+      "usItems": 5,
+      "score": 47,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump map showing Greenland, Iceland as U.S. territory sparks backlash",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Wednesday sparked diplomatic backlash across the North Atlantic after posting a map on social media depicting the United States stretching across North America and including Gre",
+          "link": "https://npasyria.com/en/141285/",
+          "publishedAt": "2026-09-09T11:17:02.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -181,13 +193,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:52",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 17,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -201,7 +213,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -290,7 +302,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -416,7 +428,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -483,7 +495,7 @@
         "الإعلام الدولي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -534,7 +546,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 10:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
