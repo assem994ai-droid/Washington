@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T13:23:20.798Z",
+    "generatedAt": "2026-09-09T13:40:34.318Z",
     "windowHours": 24,
-    "from": "2026-09-08T13:23:20.798Z",
-    "to": "2026-09-09T13:23:20.798Z"
+    "from": "2026-09-08T13:40:34.318Z",
+    "to": "2026-09-09T13:40:34.318Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 9,
-    "archiveCycles": 486
+    "archiveCycles": 487
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,7 +47,7 @@
         "المصادر الرسمية السورية",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -178,104 +178,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا",
-        "Al-Monitor",
-        "The National"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:00",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "UN Secretary-General Guterres condemns 'Israeli escalation' in Lebanon, calls for IDF withdrawal",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/731424' alt='UN Secretary-General António Guterres addresses the media in Damascus, Syria. (photo credit: UNITED NATIONS)",
-          "link": "https://www.jpost.com/middle-east/article-908031",
-          "publishedAt": "2026-09-09T10:47:40.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تعارض التوجهات الأميركية والإسرائيلية في ملف السويداء",
-          "excerpt": "وجد المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توماس باراك، في حصار الناشط عاطف هنيدي من قبل مجموعات مسلحة محلية في السويداء..",
-          "link": "https://www.syria.tv/%D8%AA%D8%B9%D8%A7%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
-          "publishedAt": "2026-09-09T04:34:05.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "دورية إسرائيلية تتوغل في قرية عين العبد بالقنيطرة وتفتش منازل مدنيين",
-          "excerpt": "توغل إسرائيلي جديد في القنيطرة يترافق مع مداهمة منازل مدنيين وتحليق مسيرات فوق المنطقة منذ فجر اليوم",
-          "link": "https://www.syria.tv/%D8%AF%D9%88%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A8%D8%AF-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86",
-          "publishedAt": "2026-09-08T22:46:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Netanyahu under fire over report UAE warned of October 7 attack",
-          "excerpt": "<p>Israeli opposition leaders on Tuesday called Prime Minister Benjamin Netanyahu unfit to serve after a bombshell report that the United Arab Emirates had warned him before the October 7, 2023 Hamas attack.</p> <p>Haaretz newspaper, in a r",
-          "link": "https://www.al-monitor.com/originals/2026/09/netanyahu-under-fire-over-report-uae-warned-october-7-attack",
-          "publishedAt": "2026-09-08T18:30:29.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE responds to media report that claims Israel was warned of October 7 attack",
-          "excerpt": "The UAE has responded to an article in an Israeli news outlet that claimed Abu Dhabi warned Israel of an imminent Hamas attack in the weeks before October 7.Haaretz claimed Prime Minister Benjamin Netanyahu was personally warned by senior E",
-          "link": "https://www.thenationalnews.com/news/uae/2026/09/08/uae-responds-to-media-report-that-claims-israel-was-warned-of-october-7-attack/",
-          "publishedAt": "2026-09-08T18:12:39.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدران مستقلان فأكثر",
@@ -288,7 +190,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,7 +257,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -455,6 +357,89 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Jerusalem Post — الشرق الأوسط",
+        "تلفزيون سوريا",
+        "The National"
+      ],
+      "circles": [
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "UN Secretary-General Guterres condemns 'Israeli escalation' in Lebanon, calls for IDF withdrawal",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/731424' alt='UN Secretary-General António Guterres addresses the media in Damascus, Syria. (photo credit: UNITED NATIONS)",
+          "link": "https://www.jpost.com/middle-east/article-908031",
+          "publishedAt": "2026-09-09T10:47:40.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تعارض التوجهات الأميركية والإسرائيلية في ملف السويداء",
+          "excerpt": "وجد المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توماس باراك، في حصار الناشط عاطف هنيدي من قبل مجموعات مسلحة محلية في السويداء..",
+          "link": "https://www.syria.tv/%D8%AA%D8%B9%D8%A7%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
+          "publishedAt": "2026-09-09T04:34:05.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "دورية إسرائيلية تتوغل في قرية عين العبد بالقنيطرة وتفتش منازل مدنيين",
+          "excerpt": "توغل إسرائيلي جديد في القنيطرة يترافق مع مداهمة منازل مدنيين وتحليق مسيرات فوق المنطقة منذ فجر اليوم",
+          "link": "https://www.syria.tv/%D8%AF%D9%88%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A8%D8%AF-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86",
+          "publishedAt": "2026-09-08T22:46:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE responds to media report that claims Israel was warned of October 7 attack",
+          "excerpt": "The UAE has responded to an article in an Israeli news outlet that claimed Abu Dhabi warned Israel of an imminent Hamas attack in the weeks before October 7.Haaretz claimed Prime Minister Benjamin Netanyahu was personally warned by senior E",
+          "link": "https://www.thenationalnews.com/news/uae/2026/09/08/uae-responds-to-media-report-that-claims-israel-was-warned-of-october-7-attack/",
+          "publishedAt": "2026-09-08T18:12:39.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -466,7 +451,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -503,7 +488,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 13:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
