@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T23:06:17.448Z",
+    "generatedAt": "2026-09-09T23:19:59.622Z",
     "windowHours": 24,
-    "from": "2026-09-08T23:06:17.448Z",
-    "to": "2026-09-09T23:06:17.448Z"
+    "from": "2026-09-08T23:19:59.622Z",
+    "to": "2026-09-09T23:19:59.622Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 8,
-    "files": 4,
+    "items": 26,
+    "files": 6,
     "withNew": 0,
-    "stale": 4,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 514
+    "americanItems": 2,
+    "archiveCycles": 515
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,48 +23,34 @@
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
-    "الملف الإسرائيلي",
-    "الإعلام السوري المستقل"
+    "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "Federal Register — السجل الفيدرالي الأمريكي",
-      "sourceId": "federal-register",
-      "message": "الخادم ردّ برمز 403"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 2,
+      "independentSources": 4,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
-        "سانا — قسم السياسة"
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 22:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 11,
+      "score": 25,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -96,6 +82,106 @@
           "us": false
         },
         {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الخارجية السورية تدين اقتحام نتنياهو جبل الشيخ وتطالب بالعودة لاتفاق 1974",
+          "excerpt": "دانت الخارجية السورية دخول نتنياهو إلى جبل الشيخ، واعتبرته انتهاكاً لسيادة البلاد، مطالبة بوقف الاعتداءات والعودة إلى اتفاق فض الاشتباك لعام 1974.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-1974",
+          "publishedAt": "2026-09-09T19:54:20.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria condemns Netanyahu’s unauthorized entry",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Foreign Ministry condemned on Wednesday Israeli Prime Minister Benjamin Netanyahu’s unauthorized entry into Syrian territory. Earlier Wednesday, Netanyahu posted a video showing him with Israeli Defen",
+          "link": "https://npasyria.com/en/141317/",
+          "publishedAt": "2026-09-09T19:39:30.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter al-Muallaqa in southern Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered al-Muallaqa village in southern Quneitra countryside on Wednesday with five armored vehicles and set up a temporary checkpoint to search passers-by. North Press correspondent reported t",
+          "link": "https://npasyria.com/en/141314/",
+          "publishedAt": "2026-09-09T18:40:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Shaibani, Safadi warn of Israeli attacks on Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani and Jordanian Foreign Minister Ayman Safadi warned on Wednesday that continued Israeli attacks threaten Syria’s security, stability and sovereignty. Earlier Wednesday",
+          "link": "https://npasyria.com/en/141309/",
+          "publishedAt": "2026-09-09T18:16:47.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Netanyahu tours Mount Hermon in southern Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli Prime Minister Benjamin Netanyahu visited Mount Hermon in southern Syria on Wednesday with Defense Minister Israel Katz and senior military officers, reiterating Israel’s control over the area. In a v",
+          "link": "https://npasyria.com/en/141304/",
+          "publishedAt": "2026-09-09T17:55:08.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "نتنياهو يقتحم جبل الشيخ المحتل ويتوعد إيران قبل الانتخابات",
+          "excerpt": "نتنياهو يتفقد جبل الشيخ السوري المحتل ويتحدث عن سيطرة إسرائيلية واسعة، فماذا وراء الزيارة؟",
+          "link": "https://www.syria.tv/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%82%D8%AA%D8%AD%D9%85-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84-%D9%88%D9%8A%D8%AA%D9%88%D8%B9%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+          "publishedAt": "2026-09-09T17:42:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Katz says Israel to stay in Syria security zone",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli Defense Minister Israel Katz said on Wednesday that Israel would maintain its presence in Syria’s security zone and continue monitoring threats along its northern border. Katz made the remarks in a vi",
+          "link": "https://npasyria.com/en/141301/",
+          "publishedAt": "2026-09-09T17:34:30.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
@@ -109,6 +195,20 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تعارض التوجهات الأميركية والإسرائيلية في ملف السويداء",
+          "excerpt": "وجد المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توماس باراك، في حصار الناشط عاطف هنيدي من قبل مجموعات مسلحة محلية في السويداء..",
+          "link": "https://www.syria.tv/%D8%AA%D8%B9%D8%A7%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D9%88%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
+          "publishedAt": "2026-09-09T04:34:05.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -117,22 +217,24 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
-        "Middle East Eye"
+        "Middle East Eye",
+        "تلفزيون سوريا"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الإعلام المتخصص"
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 22:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 12,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -162,43 +264,35 @@
           ],
           "seenBefore": true,
           "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 22:54",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
+        },
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "المصرف المركزي يرحب بقرار الجامعة العربية رفع العقوبات المفروضة على سوريا",
-          "excerpt": "رحّب مصرف سوريا المركزي بقرار مجلس جامعة الدول العربية القاضي بالرفع الكامل للعقوبات السياسية والاقتصادية والاجتماعية المفروضة على الدولة السورية ومؤسساتها، مع الإبقاء على العقوبات المتعلقة بمسؤولي النظام البائد.",
-          "link": "https://sana.sy/politics/2576965/",
-          "publishedAt": "2026-09-09T20:28:24.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد لقائه بفيدان.. الشيباني يناقش مع باراك تطورات المنطقة وسبل خفض التصعيد",
+          "excerpt": "بحث وزير الخارجية والمغتربين السوري، أسعد الشيباني، مع المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توم باراك، آخر المستجدات والتطورات في المنطقة.",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A8%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%B9-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%B3%D8%A8%D9%84-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
+          "publishedAt": "2026-09-09T07:28:15.000Z",
           "files": [
-            "sanctions",
-            "economy"
+            "turkey",
+            "diplomacy"
           ],
           "seenBefore": true,
-          "us": true
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الأربعاء 09-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الأربعاء (09-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-09-09-2026",
+          "publishedAt": "2026-09-09T07:13:47.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -207,22 +301,24 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
-        "مراكز الفكر"
+        "مراكز الفكر",
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 22:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": 10,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -245,6 +341,194 @@
           "link": "https://www.fdd.org/analysis/2026/09/09/qatar-still-hosts-hamass-top-brass-one-year-after-they-were-targeted/",
           "publishedAt": "2026-09-09T19:17:46.000Z",
           "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يفرج عن 3 سوريين بعد احتجازهم لمدة تصل لثلاثة أشهر",
+          "excerpt": "أفرج جيش الاحتلال الإسرائيلي عن ثلاثة سوريين بعد فترات احتجاز تراوحت بين شهر وثلاثة أشهر، وفق مراسل تلفزيون سوريا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-3-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87%D9%85-%D9%84%D9%85%D8%AF%D8%A9-%D8%AA%D8%B5%D9%84-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
+          "publishedAt": "2026-09-09T18:06:37.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من القصف إلى الحواجز.. 15 عاماً من استهداف التعليم في سوريا",
+          "excerpt": "في اليوم الدولي لحماية التعليم من الهجمات، يرصد التقرير كيف انتقلت عوائق التعليم في سوريا من القصف وتدمير المدارس إلى الحواجز وصعوبة الوصول إلى الامتحانات.",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-15-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-09T17:53:46.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تدين الهجمات الإيرانية على الأردن وتؤكد تضامنها الكامل معه",
+          "excerpt": "سوريا تدين الهجمات الإيرانية على الأردن بعد اعتراض دفاعاته 18 صاروخاً باليستياً.. إلى أين يتجه التصعيد؟",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D8%B9%D9%87",
+          "publishedAt": "2026-09-09T16:24:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"معمار جديد للطاقة\".. ماذا تخشى إيران من مشروع خط كركوك - بانياس؟",
+          "excerpt": "لا تنظر وسائل الإعلام الإيرانية المقربة من دوائر الحكم إلى مشروع نقل النفط العراقي عبر سوريا بوصفه خطاً جديداً للأنابيب بين كركوك أو حديثة وميناء بانياس فقط",
+          "link": "https://www.syria.tv/%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AE%D8%B4%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%86-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AE%D8%B7-%D9%83%D8%B1%D9%83%D9%88%D9%83-%D8%A8%D8%A7%D9%86%D9%8A%D8%A7%D8%B3%D8%9F",
+          "publishedAt": "2026-09-09T05:33:07.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:06",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 10,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "المصرف المركزي يرحب بقرار الجامعة العربية رفع العقوبات المفروضة على سوريا",
+          "excerpt": "رحّب مصرف سوريا المركزي بقرار مجلس جامعة الدول العربية القاضي بالرفع الكامل للعقوبات السياسية والاقتصادية والاجتماعية المفروضة على الدولة السورية ومؤسساتها، مع الإبقاء على العقوبات المتعلقة بمسؤولي النظام البائد.",
+          "link": "https://sana.sy/politics/2576965/",
+          "publishedAt": "2026-09-09T20:28:24.000Z",
+          "files": [
+            "sanctions",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد رفع الحظر.. كيف يمكن للمستخدمين في سوريا الوصول إلى \"Gemini\"؟",
+          "excerpt": "أصبحت خدمة \"Google Gemini\" متاحة للمستخدمين داخل سوريا، بعد رفع القيود التي كانت تمنع الوصول إليها على مستوى الدولة، وفق ما أعلنته مبادرة \"سوريا بلا قيود\"..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-gemini%D8%9F",
+          "publishedAt": "2026-09-09T07:56:24.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 22:54",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 2,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خاص|حراك سياسي وأمني واقتصادي يسبق زيارة الشرع إلى نيويورك",
+          "excerpt": "تشهد العلاقة بين دمشق وواشنطن حراكاً متزامناً على المستويات السياسية والأمنية والاقتصادية، مع تحضيرات لزيارة وفد اقتصادي أميركي إلى دمشق خلال الأيام المقبلة",
+          "link": "https://www.syria.tv/%D8%AE%D8%A7%D8%B5%D8%AD%D8%B1%D8%A7%D9%83-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%88%D8%A3%D9%85%D9%86%D9%8A-%D9%88%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D9%8A%D8%B3%D8%A8%D9%82-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%A5%D9%84%D9%89-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+          "publishedAt": "2026-09-09T09:55:57.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 22:54",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 0,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية ليبية لبحث استئناف رحلات الخطوط الجوية الليبية إلى سوريا",
+          "excerpt": "هيئة الطيران السورية تبحث مع وفد ليبي متطلبات استئناف رحلات الخطوط الجوية الليبية إلى سوريا",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%8A%D8%A8%D9%8A%D8%A9-%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-09T15:27:11.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "السويداء ومجلس التنسيق الأعلى على طاولة مباحثات الشيباني والصفدي في دمشق",
+          "excerpt": "استقبل وزير الخارجية والمغتربين أسعد حسن الشيباني، الأربعاء، نائب رئيس الوزراء وزير الخارجية وشؤون المغتربين الأردني أيمن الصفدي في مطار دمشق الدولي",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B5%D9%81%D8%AF%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-09-09T12:16:11.000Z",
+          "files": [
+            "diplomacy"
+          ],
           "seenBefore": true,
           "us": false
         }
