@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T17:57:06.619Z",
+    "generatedAt": "2026-09-09T18:13:48.980Z",
     "windowHours": 24,
-    "from": "2026-09-08T17:57:06.619Z",
-    "to": "2026-09-09T17:57:06.619Z"
+    "from": "2026-09-08T18:13:48.980Z",
+    "to": "2026-09-09T18:13:48.980Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 26,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 1,
     "americanItems": 4,
-    "archiveCycles": 499
+    "archiveCycles": 500
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,23 +25,18 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "message": "The operation was aborted due to timeout"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
+        "Al-Monitor",
         "North Press Agency (English)",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط"
@@ -49,6 +44,7 @@
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
+        "الإعلام المتخصص",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
@@ -58,8 +54,20 @@
       "stale": false,
       "echoed": true,
       "usItems": 2,
-      "score": 35,
+      "score": 40,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يفرج عن 3 سوريين بعد احتجازهم لمدة تصل لثلاثة أشهر",
+          "excerpt": "أفرج جيش الاحتلال الإسرائيلي عن ثلاثة سوريين بعد فترات احتجاز تراوحت بين شهر وثلاثة أشهر، وفق مراسل تلفزيون سوريا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-3-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87%D9%85-%D9%84%D9%85%D8%AF%D8%A9-%D8%AA%D8%B5%D9%84-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
+          "publishedAt": "2026-09-09T18:06:37.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -69,7 +77,7 @@
           "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-15-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-09-09T17:53:46.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -104,6 +112,18 @@
           "excerpt": "أدانت الجمهورية العربية السورية الاعتداءات الإيرانية المتكررة ‏التي تستهدف المملكة الأردنية الهاشمية الشقيقة، وأكدت أنها تعد ‏انتهاكاً مرفوضاً لسيادة الدول، ومخالفةً صريحةً لمبادئ القانون ‏الدولي وميثاق الأمم المتحدة‎.‎",
           "link": "https://sana.sy/politics/2576675/",
           "publishedAt": "2026-09-09T15:32:13.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "IAEA board draws a line under past Syrian nuclear activities",
+          "excerpt": "<p>VIENNA, Sept 9 (Reuters) - The U.N. nuclear watchdog's 35-nation Board of Governors passed a resolution on Wednesday drawing a line under Syria's secret nuclear activities during the Assad family's rule, saying the new authorities had he",
+          "link": "https://www.al-monitor.com/originals/2026/09/iaea-board-draws-line-under-past-syrian-nuclear-activities",
+          "publishedAt": "2026-09-09T13:46:38.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -187,25 +207,23 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "North Press Agency (English)",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "The National"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 14,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -218,7 +236,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -291,20 +309,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE responds to media report that claims Israel was warned of October 7 attack",
-          "excerpt": "The UAE has responded to an article in an Israeli news outlet that claimed Abu Dhabi warned Israel of an imminent Hamas attack in the weeks before October 7.Haaretz claimed Prime Minister Benjamin Netanyahu was personally warned by senior E",
-          "link": "https://www.thenationalnews.com/news/uae/2026/09/08/uae-responds-to-media-report-that-claims-israel-was-warned-of-october-7-attack/",
-          "publishedAt": "2026-09-08T18:12:39.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -322,7 +326,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -374,7 +378,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -440,7 +444,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -477,7 +481,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
