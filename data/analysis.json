@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T18:13:48.980Z",
+    "generatedAt": "2026-09-09T18:33:56.364Z",
     "windowHours": 24,
-    "from": "2026-09-08T18:13:48.980Z",
-    "to": "2026-09-09T18:13:48.980Z"
+    "from": "2026-09-08T18:33:56.364Z",
+    "to": "2026-09-09T18:33:56.364Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 1,
     "americanItems": 4,
-    "archiveCycles": 500
+    "archiveCycles": 501
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,13 +48,13 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 2,
-      "score": 40,
+      "score": 30,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -65,7 +65,7 @@
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-3-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87%D9%85-%D9%84%D9%85%D8%AF%D8%A9-%D8%AA%D8%B5%D9%84-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
           "publishedAt": "2026-09-09T18:06:37.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -153,18 +153,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UNHCR records more than 681,000 Syrian refugee returns since January 2025",
-          "excerpt": "QAMISHLI, Syria (North Press) – More than 681,000 Syrians registered with the UN refugee agency have returned to Syria since January 2025, with most returning spontaneously, according to new figures released by the United Nations High Commi",
-          "link": "https://npasyria.com/en/141276/",
-          "publishedAt": "2026-09-09T06:05:02.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -217,14 +205,29 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 24,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Shaibani, Safadi warn of Israeli attacks on Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani and Jordanian Foreign Minister Ayman Safadi warned on Wednesday that continued Israeli attacks threaten Syria’s security, stability and sovereignty. Earlier Wednesday",
+          "link": "https://npasyria.com/en/141309/",
+          "publishedAt": "2026-09-09T18:16:47.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -326,7 +329,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -378,7 +381,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -444,7 +447,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -481,7 +484,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 18:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
