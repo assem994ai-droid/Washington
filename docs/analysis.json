@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T14:40:18.862Z",
+    "generatedAt": "2026-09-10T14:57:29.569Z",
     "windowHours": 24,
-    "from": "2026-09-09T14:40:18.862Z",
-    "to": "2026-09-10T14:40:18.862Z"
+    "from": "2026-09-09T14:57:29.569Z",
+    "to": "2026-09-10T14:57:29.569Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 29,
+    "items": 33,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 545
+    "americanItems": 5,
+    "archiveCycles": 546
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,8 +22,7 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام المتخصص",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [],
   "files": [
@@ -32,25 +31,27 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "سانا — قسم السياسة",
+        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
+        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 0,
-      "score": 30,
+      "usItems": 1,
+      "score": 39,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -161,6 +162,20 @@
           "excerpt": "إسرائيل لا تتعامل مع سوريا بوصفها ساحة تهديد عسكري مباشر فحسب، بل بوصفها مجالاً جيوسياسياً يجري تشكيله لإدامة التفوق الإسرائيلي، ومنع نشوء قوة إقليمية..",
           "link": "https://www.syria.tv/%D9%83%D9%8A%D9%81-%D9%8A%D8%B5%D9%88%D8%BA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%A7%D9%82%D8%B9%D8%A7%D9%8B-%D8%AC%D9%8A%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
           "publishedAt": "2026-09-10T06:08:19.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Dermer calls report of UAE warning to Netanyahu before Oct. 7 ‘essentially fiction, a made-up story’",
+          "excerpt": "Ron Dermer said no such call took place and rejected claims that the UAE warned Netanyahu of a planned Hamas massacre before Oct. 7; The UAE has declined to comment on the report, while Likud alleges foreign interference in Israel’s upcomin",
+          "link": "https://www.ynetnews.com/article/skiz3pjkzg",
+          "publishedAt": "2026-09-09T23:41:00.000Z",
           "files": [
             "israel"
           ],
@@ -280,6 +295,130 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "‘Not one day of quiet’: Israel accused of blocking Trump Gaza plan, stalling Hamas disarmament",
+          "excerpt": "Board of Peace officials say preparations are advancing for a 2,500-strong international force and Palestinian police deployment, but expect little movement before Israel’s election",
+          "link": "https://www.ynetnews.com/article/sjhyxzjfze",
+          "publishedAt": "2026-09-09T17:15:57.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Likud alleges foreign election interference over report Netanyahu was warned before Oct. 7",
+          "excerpt": "Netanyahu’s party points to Palestinian figure Mohammed Dahlan and alleged links to opposition figures, demanding a criminal probe into Haaretz, Shlomi Eldar and Yair Golan over the disputed report",
+          "link": "https://www.ynetnews.com/article/hjv0jm1tzl",
+          "publishedAt": "2026-09-09T17:01:34.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Turkish Minute",
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الملف التركي",
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 25,
+      "items": [
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Syrian Kurdish leader reveals high-level contacts with Turkey",
+          "excerpt": "Syrian Kurdish political leader Ilham Ahmed has revealed that Syrian Kurdish officials have kept high-level channels open with Turkey’s security establishment, despite Ankara’s public portrayal of Kurdish-led forces in Syria as terrorists. ",
+          "link": "https://turkishminute.com/2026/09/10/syrian-kurdish-leader-reveals-high-level-contacts-with-turkey/",
+          "publishedAt": "2026-09-10T14:43:47.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
+          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
+          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
+          "publishedAt": "2026-09-10T12:44:41.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
+          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-10T11:39:18.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
+          "publishedAt": "2026-09-10T07:29:02.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
+          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
+          "link": "https://sana.sy/politics/2577081/",
+          "publishedAt": "2026-09-09T21:46:39.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -302,7 +441,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -397,88 +536,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:22",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
-          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
-          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
-          "publishedAt": "2026-09-10T12:44:41.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
-          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T11:39:18.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
-          "publishedAt": "2026-09-10T07:29:02.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
-          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
-          "link": "https://sana.sy/politics/2577081/",
-          "publishedAt": "2026-09-09T21:46:39.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -490,7 +547,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -527,7 +584,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 14:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
