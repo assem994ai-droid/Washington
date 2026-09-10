@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T07:39:29.568Z",
+    "generatedAt": "2026-09-10T08:07:40.065Z",
     "windowHours": 24,
-    "from": "2026-09-09T07:39:29.568Z",
-    "to": "2026-09-10T07:39:29.568Z"
+    "from": "2026-09-09T08:07:40.065Z",
+    "to": "2026-09-10T08:07:40.065Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 526
+    "archiveCycles": 527
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,7 +46,7 @@
         "الإعلام الدولي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -102,7 +102,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Blinken denies telling Qatar to delay Israel-Hamas hostage mediation",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2942,w_4412/642151' alt=' US Secretary of State Antony Blinken addresses the press in Jordan's southern city of Aqaba on December 1",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/642151' alt=' US Secretary of State Antony Blinken addresses the press in Jordan's southern city of Aqaba on December 14,",
           "link": "https://www.jpost.com/middle-east/article-908157",
           "publishedAt": "2026-09-09T21:34:07.000Z",
           "files": [
@@ -244,58 +244,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
-          "publishedAt": "2026-09-10T07:29:02.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
-          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
-          "link": "https://sana.sy/politics/2577081/",
-          "publishedAt": "2026-09-09T21:46:39.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -312,7 +260,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -395,26 +343,76 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "id": "turkey",
+      "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:39",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 7,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
+          "publishedAt": "2026-09-10T07:29:02.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
+          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
+          "link": "https://sana.sy/politics/2577081/",
+          "publishedAt": "2026-09-09T21:46:39.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 10,
+      "score": 6,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -430,20 +428,6 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد رفع الحظر.. كيف يمكن للمستخدمين في سوريا الوصول إلى \"Gemini\"؟",
-          "excerpt": "أصبحت خدمة \"Google Gemini\" متاحة للمستخدمين داخل سوريا، بعد رفع القيود التي كانت تمنع الوصول إليها على مستوى الدولة، وفق ما أعلنته مبادرة \"سوريا بلا قيود\"..",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84-%D8%A5%D9%84%D9%89-gemini%D8%9F",
-          "publishedAt": "2026-09-09T07:56:24.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -459,7 +443,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -496,7 +480,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
