@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T17:49:59.376Z",
+    "generatedAt": "2026-09-10T17:58:41.409Z",
     "windowHours": 24,
-    "from": "2026-09-09T17:49:59.376Z",
-    "to": "2026-09-10T17:49:59.376Z"
+    "from": "2026-09-09T17:58:41.409Z",
+    "to": "2026-09-10T17:58:41.409Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 29,
+    "items": 28,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 554
+    "archiveCycles": 555
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,131 +27,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 5,
-      "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "مراكز الفكر"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 33,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "القائم بأعمال السفارة السورية بروما يبحث مع UNDP‏)‏ دعم تعافي الطاقة ‏في ‏سوريا",
-          "excerpt": "بحث القائم بأعمال سفارة الجمهورية العربية السورية في روما السفير ‏حسين الصباغ، مع مدير مركز برنامج الأمم المتحدة الإنمائي (‏UNDP‏) ‏أغوستينو إنغوشيو، برامج الدعم المقدمة إلى سوريا.",
-          "link": "https://sana.sy/economy/syrian-economy/2577672/",
-          "publishedAt": "2026-09-10T17:44:57.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "321 displaced families return from Syria’s Idlib camps",
-          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
-          "link": "https://npasyria.com/en/141334/",
-          "publishedAt": "2026-09-10T14:59:49.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الولايات المتحدة: سوريا نموذج يحتذى في الوفاء بالتزاماتها بمنع الانتشار النووي",
-          "excerpt": "رحبت بعثة الولايات المتحدة لدى المنظمات الدولية في فيينا بقرار مجلس محافظي ‌‏الوكالة الدولية للطاقة الذرية إغلاق ملف عدم الامتثال المتعلق بسوريا، ورفع اسمها ‌‏من قائمة الدول غير الممتثلة، مؤكدة أن الحكومة السورية قدمت نموذجاً يحتذى به ‌‏في ",
-          "link": "https://sana.sy/politics/2577274/",
-          "publishedAt": "2026-09-10T08:53:56.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump threatens Iran’s Pickaxe Mountain as Hormuz traffic drops",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Wednesday warned Iran against activity at Pickaxe Mountain, a fortified site near the damaged Natanz nuclear facility, as the U.S.-Iran war intensified and commercial traffic th",
-          "link": "https://npasyria.com/en/141328/",
-          "publishedAt": "2026-09-10T05:42:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Bipartisan House group warns PA fiscal collapse could strengthen Hamas, Iran-backed groups",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/733480' alt='The Palestinian Authority Security Forces have expanded significantly since the Oslo Accords, becoming a c",
-          "link": "https://www.jpost.com/middle-east/article-908163",
-          "publishedAt": "2026-09-09T22:03:15.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Qatar still hosts Hamas&#8217;s top brass, one year after they were targeted",
-          "excerpt": "One year ago today, Hamas officials in Qatar narrowly escaped death. On September 9, 2025, Israel launched an airstrike on a Hamas meeting in Doha. The strike failed to wipe out Hamas’s upper ranks.... The post Qatar still hosts Hamas&#8217",
-          "link": "https://www.fdd.org/analysis/2026/09/09/qatar-still-hosts-hamass-top-brass-one-year-after-they-were-targeted/",
-          "publishedAt": "2026-09-09T19:17:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يفرج عن 3 سوريين بعد احتجازهم لمدة تصل لثلاثة أشهر",
-          "excerpt": "أفرج جيش الاحتلال الإسرائيلي عن ثلاثة سوريين بعد فترات احتجاز تراوحت بين شهر وثلاثة أشهر، وفق مراسل تلفزيون سوريا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-3-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87%D9%85-%D9%84%D9%85%D8%AF%D8%A9-%D8%AA%D8%B5%D9%84-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
-          "publishedAt": "2026-09-09T18:06:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من القصف إلى الحواجز.. 15 عاماً من استهداف التعليم في سوريا",
-          "excerpt": "في اليوم الدولي لحماية التعليم من الهجمات، يرصد التقرير كيف انتقلت عوائق التعليم في سوريا من القصف وتدمير المدارس إلى الحواجز وصعوبة الوصول إلى الامتحانات.",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-15-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-09T17:53:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -169,7 +44,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -381,6 +256,119 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 5,
+      "sources": [
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:49",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 23,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "القائم بأعمال السفارة السورية بروما يبحث مع (UNDP‏)‏ دعم تعافي الطاقة ‏في ‏سوريا",
+          "excerpt": "بحث القائم بأعمال سفارة الجمهورية العربية السورية في روما السفير ‏حسين الصباغ، مع مدير مركز برنامج الأمم المتحدة الإنمائي (‏UNDP‏) ‏أغوستينو إنغوشيو، برامج الدعم المقدمة إلى سوريا.",
+          "link": "https://sana.sy/economy/syrian-economy/2577672/",
+          "publishedAt": "2026-09-10T17:44:57.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "321 displaced families return from Syria’s Idlib camps",
+          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
+          "link": "https://npasyria.com/en/141334/",
+          "publishedAt": "2026-09-10T14:59:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الولايات المتحدة: سوريا نموذج يحتذى في الوفاء بالتزاماتها بمنع الانتشار النووي",
+          "excerpt": "رحبت بعثة الولايات المتحدة لدى المنظمات الدولية في فيينا بقرار مجلس محافظي ‌‏الوكالة الدولية للطاقة الذرية إغلاق ملف عدم الامتثال المتعلق بسوريا، ورفع اسمها ‌‏من قائمة الدول غير الممتثلة، مؤكدة أن الحكومة السورية قدمت نموذجاً يحتذى به ‌‏في ",
+          "link": "https://sana.sy/politics/2577274/",
+          "publishedAt": "2026-09-10T08:53:56.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump threatens Iran’s Pickaxe Mountain as Hormuz traffic drops",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Wednesday warned Iran against activity at Pickaxe Mountain, a fortified site near the damaged Natanz nuclear facility, as the U.S.-Iran war intensified and commercial traffic th",
+          "link": "https://npasyria.com/en/141328/",
+          "publishedAt": "2026-09-10T05:42:46.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Bipartisan House group warns PA fiscal collapse could strengthen Hamas, Iran-backed groups",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/733480' alt='The Palestinian Authority Security Forces have expanded significantly since the Oslo Accords, becoming a c",
+          "link": "https://www.jpost.com/middle-east/article-908163",
+          "publishedAt": "2026-09-09T22:03:15.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Qatar still hosts Hamas&#8217;s top brass, one year after they were targeted",
+          "excerpt": "One year ago today, Hamas officials in Qatar narrowly escaped death. On September 9, 2025, Israel launched an airstrike on a Hamas meeting in Doha. The strike failed to wipe out Hamas’s upper ranks.... The post Qatar still hosts Hamas&#8217",
+          "link": "https://www.fdd.org/analysis/2026/09/09/qatar-still-hosts-hamass-top-brass-one-year-after-they-were-targeted/",
+          "publishedAt": "2026-09-09T19:17:46.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يفرج عن 3 سوريين بعد احتجازهم لمدة تصل لثلاثة أشهر",
+          "excerpt": "أفرج جيش الاحتلال الإسرائيلي عن ثلاثة سوريين بعد فترات احتجاز تراوحت بين شهر وثلاثة أشهر، وفق مراسل تلفزيون سوريا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-3-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87%D9%85-%D9%84%D9%85%D8%AF%D8%A9-%D8%AA%D8%B5%D9%84-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D9%87%D8%B1",
+          "publishedAt": "2026-09-09T18:06:37.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -396,7 +384,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -488,7 +476,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -525,7 +513,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
