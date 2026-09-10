@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T16:23:39.110Z",
+    "generatedAt": "2026-09-10T16:38:27.751Z",
     "windowHours": 24,
-    "from": "2026-09-09T16:23:39.110Z",
-    "to": "2026-09-10T16:23:39.110Z"
+    "from": "2026-09-09T16:38:27.751Z",
+    "to": "2026-09-10T16:38:27.751Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 34,
-    "files": 5,
-    "withNew": 1,
+    "files": 6,
+    "withNew": 2,
     "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 550
+    "archiveCycles": 551
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,8 +33,8 @@
       "contested": true,
       "independentSources": 5,
       "sources": [
-        "تلفزيون سوريا",
         "North Press Agency (English)",
+        "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط"
@@ -45,14 +45,28 @@
         "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 15:55",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 39,
+      "score": 48,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli military vehicles enter Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Six Israeli military vehicles carrying soldiers entered Rasm Sanad farm near Kodana in southern Quneitra countryside on Thursday, a North Press correspondent reported. The correspondent said Israeli forces se",
+          "link": "https://npasyria.com/en/141337/",
+          "publishedAt": "2026-09-10T16:32:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -187,7 +201,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Blinken denies telling Qatar to delay Israel-Hamas hostage mediation",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/642151' alt=' US Secretary of State Antony Blinken addresses the press in Jordan's southern city of Aqaba on December 14,",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2942,w_4412/642151' alt=' US Secretary of State Antony Blinken addresses the press in Jordan's southern city of Aqaba on December 1",
           "link": "https://www.jpost.com/middle-east/article-908157",
           "publishedAt": "2026-09-09T21:34:07.000Z",
           "files": [
@@ -283,20 +297,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Katz says Israel to stay in Syria security zone",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli Defense Minister Israel Katz said on Wednesday that Israel would maintain its presence in Syria’s security zone and continue monitoring threats along its northern border. Katz made the remarks in a vi",
-          "link": "https://npasyria.com/en/141301/",
-          "publishedAt": "2026-09-09T17:34:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "Ynet News (English)",
           "sourceId": "ynet-en",
           "circle": "الملف الإسرائيلي",
@@ -345,13 +345,13 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 15:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 24,
+      "score": 23,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -436,18 +436,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تدين الهجمات الإيرانية على الأردن وتؤكد تضامنها الكامل معه",
-          "excerpt": "سوريا تدين الهجمات الإيرانية على الأردن بعد اعتراض دفاعاته 18 صاروخاً باليستياً.. إلى أين يتجه التصعيد؟",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D9%85%D8%B9%D9%87",
-          "publishedAt": "2026-09-09T16:24:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -467,7 +455,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 15:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -548,8 +536,8 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
@@ -565,19 +553,18 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "وزارة الدفاع التركية: تسليم أسلحة \"قسد\" إلى الجيش السوري \"مطلب طبيعي\" للدمج",
-          "excerpt": "وزارة الدفاع التركية تقول إن تسليم قسد الأسلحة التي بحوزتها إلى الجيش السوري تعد مطلباً طبيعياً ضمن عملية الدمج",
-          "link": "https://www.syria.tv/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%82%D8%B3%D8%AF-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D8%B7%D9%84%D8%A8-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%84%D9%84%D8%AF%D9%85%D8%AC",
-          "publishedAt": "2026-09-10T16:21:55.000Z",
+          "title": "شملت مكافحة غسيل الأموال.. مباحثات سورية أميركية لتعزيز الشراكة المالية",
+          "excerpt": "ماذا تضمنت المباحثات بين وزارة المالية السورية ووزارة الخزانة الأميركية؟",
+          "link": "https://www.syria.tv/%D8%B4%D9%85%D9%84%D8%AA-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
+          "publishedAt": "2026-09-10T16:37:46.000Z",
           "files": [
-            "sdf",
-            "turkey"
+            "diplomacy"
           ],
           "seenBefore": false,
           "us": false
@@ -596,7 +583,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 15:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -618,6 +605,43 @@
           ],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:23",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وزارة الدفاع التركية: تسليم أسلحة \"قسد\" إلى الجيش السوري \"مطلب طبيعي\" للدمج",
+          "excerpt": "وزارة الدفاع التركية تقول إن تسليم قسد الأسلحة التي بحوزتها إلى الجيش السوري تعد مطلباً طبيعياً ضمن عملية الدمج",
+          "link": "https://www.syria.tv/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%82%D8%B3%D8%AF-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D8%B7%D9%84%D8%A8-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%84%D9%84%D8%AF%D9%85%D8%AC",
+          "publishedAt": "2026-09-10T16:21:55.000Z",
+          "files": [
+            "sdf",
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     }
