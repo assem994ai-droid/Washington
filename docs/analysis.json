@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-09T23:31:13.142Z",
+    "generatedAt": "2026-09-10T00:30:54.869Z",
     "windowHours": 24,
-    "from": "2026-09-08T23:31:13.142Z",
-    "to": "2026-09-09T23:31:13.142Z"
+    "from": "2026-09-09T00:30:54.869Z",
+    "to": "2026-09-10T00:30:54.869Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 26,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 516
+    "archiveCycles": 517
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,26 +46,26 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:31",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 38,
+      "score": 29,
       "items": [
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
           "circle": "الإعلام المتخصص",
-          "title": "Hamas member released in exchange for Israeli soldier killed in Gaza strike",
+          "title": "Hamas member released in exchange for Israeli soldier Gilad Shalit killed in Gaza",
           "excerpt": "<article data-history-node-id=\"447443\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-member-released-exchange-israeli-soldier-killed-gaza-strike\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.m",
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-member-released-exchange-israeli-soldier-killed-gaza-strike",
           "publishedAt": "2026-09-09T23:25:42.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -229,90 +229,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "Middle East Eye",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:19",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
-          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
-          "link": "https://sana.sy/politics/2577081/",
-          "publishedAt": "2026-09-09T21:46:39.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel names new envoy to Turkey amid tensions over Gaza and Syria",
-          "excerpt": "<article data-history-node-id=\"447423\" about=\"https://www.middleeasteye.net/news/israel-names-new-envoy-turkey-amid-tensions-over-gaza-and-syria\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-names-",
-          "link": "https://www.middleeasteye.net/news/israel-names-new-envoy-turkey-amid-tensions-over-gaza-and-syria",
-          "publishedAt": "2026-09-09T17:31:28.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد لقائه بفيدان.. الشيباني يناقش مع باراك تطورات المنطقة وسبل خفض التصعيد",
-          "excerpt": "بحث وزير الخارجية والمغتربين السوري، أسعد الشيباني، مع المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توم باراك، آخر المستجدات والتطورات في المنطقة.",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A8%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%B9-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%B3%D8%A8%D9%84-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
-          "publishedAt": "2026-09-09T07:28:15.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الأربعاء 09-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الأربعاء (09-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-09-09-2026",
-          "publishedAt": "2026-09-09T07:13:47.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -328,7 +244,7 @@
         "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -424,7 +340,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -464,6 +380,73 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:31",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
+          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
+          "link": "https://sana.sy/politics/2577081/",
+          "publishedAt": "2026-09-09T21:46:39.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد لقائه بفيدان.. الشيباني يناقش مع باراك تطورات المنطقة وسبل خفض التصعيد",
+          "excerpt": "بحث وزير الخارجية والمغتربين السوري، أسعد الشيباني، مع المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توم باراك، آخر المستجدات والتطورات في المنطقة.",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A8%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%B9-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%B3%D8%A8%D9%84-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
+          "publishedAt": "2026-09-09T07:28:15.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الأربعاء 09-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الأربعاء (09-09-2026)، في حين ارتفعت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1-09-09-2026",
+          "publishedAt": "2026-09-09T07:13:47.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -475,7 +458,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -512,7 +495,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-09 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
