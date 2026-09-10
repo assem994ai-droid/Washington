@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T19:25:26.506Z",
+    "generatedAt": "2026-09-10T19:35:01.907Z",
     "windowHours": 24,
-    "from": "2026-09-09T19:25:26.506Z",
-    "to": "2026-09-10T19:25:26.506Z"
+    "from": "2026-09-09T19:35:01.907Z",
+    "to": "2026-09-10T19:35:01.907Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 2,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 560
+    "archiveCycles": 561
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,11 +22,17 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام المتخصص",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "message": "fetch failed"
+    }
+  ],
   "files": [
     {
       "id": "israel",
@@ -35,15 +41,15 @@
       "contested": true,
       "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
+        "Ynet News (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -51,8 +57,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 37,
+      "score": 38,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "البرلمان العربي: التوغلات الإسرائيلية في سوريا \"تهديد للأمن القومي العربي\"",
+          "excerpt": "البرلمان العربي: التوغلات الإسرائيلية في سوريا \"تهديد للأمن القومي العربي\"",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
+          "publishedAt": "2026-09-10T19:25:22.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -65,7 +85,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -212,13 +232,13 @@
           "us": false
         },
         {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Blinken denies telling Qatar to delay Israel-Hamas hostage mediation",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2942,w_4412/642151' alt=' US Secretary of State Antony Blinken addresses the press in Jordan's southern city of Aqaba on December 1",
-          "link": "https://www.jpost.com/middle-east/article-908157",
-          "publishedAt": "2026-09-09T21:34:07.000Z",
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Dermer calls report of UAE warning to Netanyahu before Oct. 7 ‘essentially fiction, a made-up story’",
+          "excerpt": "Ron Dermer said no such call took place and rejected claims that the UAE warned Netanyahu of a planned Hamas massacre before Oct. 7; The UAE has declined to comment on the report, while Likud alleges foreign interference in Israel’s upcomin",
+          "link": "https://www.ynetnews.com/article/skiz3pjkzg",
+          "publishedAt": "2026-09-09T23:41:00.000Z",
           "files": [
             "israel"
           ],
@@ -272,7 +292,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -371,24 +391,22 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط"
+        "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 15,
+      "score": 11,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -437,18 +455,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Bipartisan House group warns PA fiscal collapse could strengthen Hamas, Iran-backed groups",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/733480' alt='The Palestinian Authority Security Forces have expanded significantly since the Oslo Accords, becoming a cen",
-          "link": "https://www.jpost.com/middle-east/article-908163",
-          "publishedAt": "2026-09-09T22:03:15.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -464,7 +470,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -501,7 +507,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
