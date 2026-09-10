@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T17:12:51.123Z",
+    "generatedAt": "2026-09-10T17:27:40.617Z",
     "windowHours": 24,
-    "from": "2026-09-09T17:12:51.123Z",
-    "to": "2026-09-10T17:12:51.123Z"
+    "from": "2026-09-09T17:27:40.617Z",
+    "to": "2026-09-10T17:27:40.617Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 33,
+    "items": 31,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 552
+    "americanItems": 4,
+    "archiveCycles": 553
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 38,
+      "usItems": 0,
+      "score": 33,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -269,20 +269,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Netanyahu tours Mount Hermon in southern Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli Prime Minister Benjamin Netanyahu visited Mount Hermon in southern Syria on Wednesday with Defense Minister Israel Katz and senior military officers, reiterating Israel’s control over the area. In a v",
-          "link": "https://npasyria.com/en/141304/",
-          "publishedAt": "2026-09-09T17:55:08.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -295,20 +281,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "‘Not one day of quiet’: Israel accused of blocking Trump Gaza plan, stalling Hamas disarmament",
-          "excerpt": "Board of Peace officials say preparations are advancing for a 2,500-strong international force and Palestinian police deployment, but expect little movement before Israel’s election",
-          "link": "https://www.ynetnews.com/article/sjhyxzjfze",
-          "publishedAt": "2026-09-09T17:15:57.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -331,7 +303,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -441,7 +413,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -533,7 +505,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -570,7 +542,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -607,7 +579,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 17:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
