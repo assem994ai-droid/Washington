@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T12:53:23.188Z",
+    "generatedAt": "2026-09-10T13:07:14.387Z",
     "windowHours": 24,
-    "from": "2026-09-09T12:53:23.188Z",
-    "to": "2026-09-10T12:53:23.188Z"
+    "from": "2026-09-09T13:07:14.387Z",
+    "to": "2026-09-10T13:07:14.387Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 538
+    "archiveCycles": 539
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,24 +34,38 @@
       "contested": true,
       "independentSources": 4,
       "sources": [
-        "سانا — قسم السياسة",
         "تلفزيون سوريا",
+        "سانا — قسم السياسة",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 12:17",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 37,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "جبل الشيخ في قلب الانتخابات الإسرائيلية.. كيف يوظف نتنياهو توغلاته في سوريا؟",
+          "excerpt": "لم يكن اقتحام رئيس وزراء الإسرائيلي بنيامين نتنياهو أعلى تلال جبل الشيخ في الأراضي السورية في 9 أيلول 2026 حدثاً منفصلاً أو مجرد جولة ميدانية قبيل انتخابات..",
+          "link": "https://www.syria.tv/%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%81%D9%8A-%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D9%88%D8%B8%D9%81-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-09-10T12:57:48.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -242,88 +256,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 24,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
-          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
-          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
-          "publishedAt": "2026-09-10T12:44:41.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
-          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T11:39:18.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
-          "publishedAt": "2026-09-10T07:29:02.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
-          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
-          "link": "https://sana.sy/politics/2577081/",
-          "publishedAt": "2026-09-09T21:46:39.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -342,7 +274,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 12:17",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 12:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -437,6 +369,88 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Turkish Minute",
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الملف التركي",
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 12:53",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
+          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
+          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
+          "publishedAt": "2026-09-10T12:44:41.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
+          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-10T11:39:18.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
+          "publishedAt": "2026-09-10T07:29:02.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
+          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
+          "link": "https://sana.sy/politics/2577081/",
+          "publishedAt": "2026-09-09T21:46:39.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -448,7 +462,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 12:17",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 12:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -485,7 +499,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 12:17",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 12:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
