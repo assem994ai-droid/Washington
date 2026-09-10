@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T16:38:27.751Z",
+    "generatedAt": "2026-09-10T17:12:51.123Z",
     "windowHours": 24,
-    "from": "2026-09-09T16:38:27.751Z",
-    "to": "2026-09-10T16:38:27.751Z"
+    "from": "2026-09-09T17:12:51.123Z",
+    "to": "2026-09-10T17:12:51.123Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 34,
+    "items": 33,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 551
+    "archiveCycles": 552
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 48,
+      "score": 38,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -64,7 +64,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -309,20 +309,6 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Likud alleges foreign election interference over report Netanyahu was warned before Oct. 7",
-          "excerpt": "Netanyahu’s party points to Palestinian figure Mohammed Dahlan and alleged links to opposition figures, demanding a criminal probe into Haaretz, Shlomi Eldar and Yair Golan over the disputed report",
-          "link": "https://www.ynetnews.com/article/hjv0jm1tzl",
-          "publishedAt": "2026-09-09T17:01:34.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -345,7 +331,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -455,7 +441,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -536,42 +522,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "شملت مكافحة غسيل الأموال.. مباحثات سورية أميركية لتعزيز الشراكة المالية",
-          "excerpt": "ماذا تضمنت المباحثات بين وزارة المالية السورية ووزارة الخزانة الأميركية؟",
-          "link": "https://www.syria.tv/%D8%B4%D9%85%D9%84%D8%AA-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-09-10T16:37:46.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -583,7 +533,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -620,7 +570,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -639,6 +589,42 @@
           "files": [
             "sdf",
             "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 16:38",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "شملت مكافحة غسيل الأموال.. مباحثات سورية أميركية لتعزيز الشراكة المالية",
+          "excerpt": "ماذا تضمنت المباحثات بين وزارة المالية السورية ووزارة الخزانة الأميركية؟",
+          "link": "https://www.syria.tv/%D8%B4%D9%85%D9%84%D8%AA-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
+          "publishedAt": "2026-09-10T16:37:46.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
