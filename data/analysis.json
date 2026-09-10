@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T07:25:26.194Z",
+    "generatedAt": "2026-09-10T07:39:29.568Z",
     "windowHours": 24,
-    "from": "2026-09-09T07:25:26.194Z",
-    "to": "2026-09-10T07:25:26.194Z"
+    "from": "2026-09-09T07:39:29.568Z",
+    "to": "2026-09-10T07:39:29.568Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 26,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 525
+    "archiveCycles": 526
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "الإعلام المتخصص",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -31,12 +32,11 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
         "Al Jazeera English",
-        "Middle East Eye",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)"
       ],
@@ -44,16 +44,15 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
         "الإعلام الدولي",
-        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 43,
+      "score": 30,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -67,7 +66,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -92,20 +91,6 @@
           "excerpt": "Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.",
           "link": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
           "publishedAt": "2026-09-10T03:14:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Hamas member released in exchange for Israeli soldier Gilad Shalit killed in Gaza",
-          "excerpt": "<article data-history-node-id=\"447443\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-member-released-exchange-israeli-soldier-killed-gaza-strike\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.m",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-member-released-exchange-israeli-soldier-killed-gaza-strike",
-          "publishedAt": "2026-09-09T23:25:42.000Z",
           "files": [
             "israel"
           ],
@@ -259,6 +244,58 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 16,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
+          "publishedAt": "2026-09-10T07:29:02.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
+          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
+          "link": "https://sana.sy/politics/2577081/",
+          "publishedAt": "2026-09-09T21:46:39.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -275,7 +312,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 06:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -371,7 +408,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 06:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -411,59 +448,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 06:09",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا تعزّي سوريا بشهداء انفجار مستودع ذخيرة في إدلب",
-          "excerpt": "أعربت وزارة الخارجية التركية عن بالغ حزنها لوقوع ضحايا جراء انفجار ‏وقع في مستودع للذخيرة في محافظة إدلب.‏",
-          "link": "https://sana.sy/politics/2577081/",
-          "publishedAt": "2026-09-09T21:46:39.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد لقائه بفيدان.. الشيباني يناقش مع باراك تطورات المنطقة وسبل خفض التصعيد",
-          "excerpt": "بحث وزير الخارجية والمغتربين السوري، أسعد الشيباني، مع المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توم باراك، آخر المستجدات والتطورات في المنطقة.",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A8%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%B9-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%B3%D8%A8%D9%84-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF",
-          "publishedAt": "2026-09-09T07:28:15.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -475,7 +459,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 06:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -512,7 +496,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 06:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 07:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
