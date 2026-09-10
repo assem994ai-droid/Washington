@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T05:54:50.066Z",
+    "generatedAt": "2026-09-10T06:09:53.038Z",
     "windowHours": 24,
-    "from": "2026-09-09T05:54:50.066Z",
-    "to": "2026-09-10T05:54:50.066Z"
+    "from": "2026-09-09T06:09:53.038Z",
+    "to": "2026-09-10T06:09:53.038Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 523
+    "archiveCycles": 524
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,28 +33,42 @@
       "contested": true,
       "independentSources": 6,
       "sources": [
+        "تلفزيون سوريا",
         "Al Jazeera English",
         "Middle East Eye",
         "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة",
-        "تلفزيون سوريا",
         "North Press Agency (English)"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الإعلام الدولي",
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:41",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 32,
+      "score": 42,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "كيف يصوغ الاحتلال الإسرائيلي واقعاً جيوسياسياً جديداً في سوريا؟",
+          "excerpt": "إسرائيل لا تتعامل مع سوريا بوصفها ساحة تهديد عسكري مباشر فحسب، بل بوصفها مجالاً جيوسياسياً يجري تشكيله لإدامة التفوق الإسرائيلي، ومنع نشوء قوة إقليمية..",
+          "link": "https://www.syria.tv/%D9%83%D9%8A%D9%81-%D9%8A%D8%B5%D9%88%D8%BA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%A7%D9%82%D8%B9%D8%A7%D9%8B-%D8%AC%D9%8A%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-09-10T06:08:19.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al Jazeera English",
           "sourceId": "aljazeera-en",
@@ -246,13 +260,13 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:54",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 25,
+      "score": 16,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -263,7 +277,7 @@
           "link": "https://npasyria.com/en/141328/",
           "publishedAt": "2026-09-10T05:42:46.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -342,7 +356,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -395,7 +409,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -460,7 +474,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -497,7 +511,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 05:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
