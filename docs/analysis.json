@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T22:45:18.010Z",
+    "generatedAt": "2026-09-10T22:53:44.942Z",
     "windowHours": 24,
-    "from": "2026-09-09T22:45:18.010Z",
-    "to": "2026-09-10T22:45:18.010Z"
+    "from": "2026-09-09T22:53:44.942Z",
+    "to": "2026-09-10T22:53:44.942Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 23,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
-    "contested": 1,
+    "withNew": 0,
+    "stale": 5,
+    "contested": 2,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 574
+    "archiveCycles": 575
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,143 +24,34 @@
     "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [],
   "files": [
     {
-      "id": "turkey",
-      "label": "الملف التركي",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "Turkish Minute"
+        "North Press Agency (English)",
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الملف التركي"
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:32",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 20,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
-          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
-          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T18:37:40.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا ترحب برفع الوكالة الذرية بند &#8220;عدم الامتثال&#8221; عن سوريا",
-          "excerpt": "رحبت تركيا اليوم الخميس بقرار مجلس محافظي الوكالة الدولية للطاقة الذرية إنهاء النظر في بند ‏تنفيذ اتفاق الضمانات في الجمهورية العربية السورية.",
-          "link": "https://sana.sy/politics/2577650/",
-          "publishedAt": "2026-09-10T18:14:00.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Syrian Kurdish leader reveals high-level contacts with Turkey",
-          "excerpt": "Syrian Kurdish political leader Ilham Ahmed has revealed that Syrian Kurdish officials have kept high-level channels open with Turkey’s security establishment, despite Ankara’s public portrayal of Kurdish-led forces in Syria as terrorists. ",
-          "link": "https://turkishminute.com/2026/09/10/syrian-kurdish-leader-reveals-high-level-contacts-with-turkey/",
-          "publishedAt": "2026-09-10T14:43:47.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
-          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
-          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
-          "publishedAt": "2026-09-10T12:44:41.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
-          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T11:39:18.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
-          "publishedAt": "2026-09-10T07:29:02.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 25,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -302,6 +193,130 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Dermer calls report of UAE warning to Netanyahu before Oct. 7 ‘essentially fiction, a made-up story’",
+          "excerpt": "Ron Dermer said no such call took place and rejected claims that the UAE warned Netanyahu of a planned Hamas massacre before Oct. 7; The UAE has declined to comment on the report, while Likud alleges foreign interference in Israel’s upcomin",
+          "link": "https://www.ynetnews.com/article/skiz3pjkzg",
+          "publishedAt": "2026-09-09T23:41:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "Turkish Minute"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الملف التركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:45",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 20,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
+          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
+          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-10T18:37:40.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "تركيا ترحب برفع الوكالة الذرية بند &#8220;عدم الامتثال&#8221; عن سوريا",
+          "excerpt": "رحبت تركيا اليوم الخميس بقرار مجلس محافظي الوكالة الدولية للطاقة الذرية إنهاء النظر في بند ‏تنفيذ اتفاق الضمانات في الجمهورية العربية السورية.",
+          "link": "https://sana.sy/politics/2577650/",
+          "publishedAt": "2026-09-10T18:14:00.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Syrian Kurdish leader reveals high-level contacts with Turkey",
+          "excerpt": "Syrian Kurdish political leader Ilham Ahmed has revealed that Syrian Kurdish officials have kept high-level channels open with Turkey’s security establishment, despite Ankara’s public portrayal of Kurdish-led forces in Syria as terrorists. ",
+          "link": "https://turkishminute.com/2026/09/10/syrian-kurdish-leader-reveals-high-level-contacts-with-turkey/",
+          "publishedAt": "2026-09-10T14:43:47.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
+          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
+          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
+          "publishedAt": "2026-09-10T12:44:41.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
+          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-10T11:39:18.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الخميس 10-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الخميس (10-09-2026)، في حين ارتفعت أسعار الذهب قليلاً في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-10-09-2026",
+          "publishedAt": "2026-09-10T07:29:02.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -319,13 +334,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:45",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 17,
+      "score": 8,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -336,7 +351,7 @@
           "link": "https://sana.sy/syria-and-the-world/2577992/",
           "publishedAt": "2026-09-10T22:32:20.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -389,7 +404,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -426,7 +441,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 22:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
