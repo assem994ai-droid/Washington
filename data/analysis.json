@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T19:44:57.946Z",
+    "generatedAt": "2026-09-10T19:53:36.891Z",
     "windowHours": 24,
-    "from": "2026-09-09T19:44:57.946Z",
-    "to": "2026-09-10T19:44:57.946Z"
+    "from": "2026-09-09T19:53:36.891Z",
+    "to": "2026-09-10T19:53:36.891Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
+    "items": 27,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 2,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 562
+    "archiveCycles": 563
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الإعلام المتخصص",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,27 +33,25 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
-        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 32,
+      "score": 28,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -227,20 +226,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Dermer calls report of UAE warning to Netanyahu before Oct. 7 ‘essentially fiction, a made-up story’",
-          "excerpt": "Ron Dermer said no such call took place and rejected claims that the UAE warned Netanyahu of a planned Hamas massacre before Oct. 7; The UAE has declined to comment on the report, while Likud alleges foreign interference in Israel’s upcomin",
-          "link": "https://www.ynetnews.com/article/skiz3pjkzg",
-          "publishedAt": "2026-09-09T23:41:00.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
@@ -287,7 +272,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -397,7 +382,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -479,7 +464,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -516,7 +501,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 19:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
