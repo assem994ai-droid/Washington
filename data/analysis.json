@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T18:49:20.430Z",
+    "generatedAt": "2026-09-10T18:58:48.544Z",
     "windowHours": 24,
-    "from": "2026-09-09T18:49:20.430Z",
-    "to": "2026-09-10T18:49:20.430Z"
+    "from": "2026-09-09T18:58:48.544Z",
+    "to": "2026-09-10T18:58:48.544Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 29,
     "files": 5,
-    "withNew": 3,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 5,
     "contested": 2,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 558
+    "americanItems": 3,
+    "archiveCycles": 559
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,22 +24,17 @@
     "الإعلام الدولي",
     "التقارير الرسمية الدورية"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "سانا — قسم السياسة",
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط"
@@ -50,13 +45,13 @@
         "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:49",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 34,
+      "score": 31,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -69,7 +64,21 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli military vehicles enter Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Six Israeli military vehicles carrying soldiers entered Rasm Sanad farm near Kodana in southern Quneitra countryside on Thursday, a North Press correspondent reported. The correspondent said Israeli forces se",
+          "link": "https://npasyria.com/en/141337/",
+          "publishedAt": "2026-09-10T16:32:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
           "us": false
         },
         {
@@ -80,6 +89,20 @@
           "excerpt": "دانت كل من قطر والسعودية والأردن ومصر والكويت واليمن دخول رئيس وزراء الاحتلال الإسرائيلي بنيامين نتنياهو بصورة غير شرعية إلى منطقة جبل الشيخ في الأراضي السورية",
           "link": "https://www.syria.tv/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
           "publishedAt": "2026-09-10T14:20:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces move through Syria’s Daraa countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces move into Jamlah village in western Daraa on Thursday, stopping and searching passersby before withdrawing toward the Golan Heights. Local sources told North Press that an Israeli military forc",
+          "link": "https://npasyria.com/en/141331/",
+          "publishedAt": "2026-09-10T14:14:01.000Z",
           "files": [
             "israel"
           ],
@@ -215,6 +238,20 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria condemns Netanyahu’s unauthorized entry",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Foreign Ministry condemned on Wednesday Israeli Prime Minister Benjamin Netanyahu’s unauthorized entry into Syrian territory. Earlier Wednesday, Netanyahu posted a video showing him with Israeli Defen",
+          "link": "https://npasyria.com/en/141317/",
+          "publishedAt": "2026-09-09T19:39:30.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -234,13 +271,13 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:49",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 30,
+      "score": 21,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -253,7 +290,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -347,24 +384,26 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
         "سانا — قسم السياسة",
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
         "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:49",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 20,
+      "usItems": 2,
+      "score": 19,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -379,6 +418,18 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "321 displaced families return from Syria’s Idlib camps",
+          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
+          "link": "https://npasyria.com/en/141334/",
+          "publishedAt": "2026-09-10T14:59:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
@@ -386,6 +437,18 @@
           "excerpt": "رحبت بعثة الولايات المتحدة لدى المنظمات الدولية في فيينا بقرار مجلس محافظي ‌‏الوكالة الدولية للطاقة الذرية إغلاق ملف عدم الامتثال المتعلق بسوريا، ورفع اسمها ‌‏من قائمة الدول غير الممتثلة، مؤكدة أن الحكومة السورية قدمت نموذجاً يحتذى به ‌‏في ",
           "link": "https://sana.sy/politics/2577274/",
           "publishedAt": "2026-09-10T08:53:56.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump threatens Iran’s Pickaxe Mountain as Hormuz traffic drops",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Wednesday warned Iran against activity at Pickaxe Mountain, a fortified site near the damaged Natanz nuclear facility, as the U.S.-Iran war intensified and commercial traffic th",
+          "link": "https://npasyria.com/en/141328/",
+          "publishedAt": "2026-09-10T05:42:46.000Z",
           "files": [],
           "seenBefore": true,
           "us": true
@@ -411,7 +474,7 @@
           "link": "https://www.fdd.org/analysis/analysis-analysis/2026/09/09/qatar-still-hosts-hamass-top-brass-one-year-after-they-were-targeted/",
           "publishedAt": "2026-09-09T19:17:46.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -428,7 +491,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -465,7 +528,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 18:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
