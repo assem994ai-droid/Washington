@@ -1,29 +1,29 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T11:49:38.370Z",
+    "generatedAt": "2026-09-10T12:17:05.078Z",
     "windowHours": 24,
-    "from": "2026-09-09T11:49:38.370Z",
-    "to": "2026-09-10T11:49:38.370Z"
+    "from": "2026-09-09T12:17:05.078Z",
+    "to": "2026-09-10T12:17:05.078Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 29,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 536
+    "americanItems": 4,
+    "archiveCycles": 537
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام المتخصص",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
   "errors": [],
   "files": [
@@ -36,24 +36,38 @@
       "sources": [
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "Al Jazeera English",
+        "Ynet News (English)",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الإعلام الدولي",
+        "الملف الإسرائيلي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 11:38",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 30,
+      "usItems": 1,
+      "score": 46,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مصر: التوغلات الإسرائيلية المتكررة داخل الأراضي السورية خرق للقانون الدولي",
+          "excerpt": "أدانت مصر بأشد العبارات التوغلات الإسرائيلية المتكررة داخل الأراضي السورية، باعتبارها انتهاكاً صارخاً لسيادة سوريا وسلامة أراضيها، وخرقاً واضحاً لأحكام القانون الدولي.",
+          "link": "https://sana.sy/syria-and-the-world/2577463/",
+          "publishedAt": "2026-09-10T12:02:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -114,13 +128,13 @@
           "us": false
         },
         {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
-          "excerpt": "Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.",
-          "link": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
-          "publishedAt": "2026-09-10T03:14:52.000Z",
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Dermer calls report of UAE warning to Netanyahu before Oct. 7 ‘essentially fiction, a made-up story’",
+          "excerpt": "Ron Dermer said no such call took place and rejected claims that the UAE warned Netanyahu of a planned Hamas massacre before Oct. 7; The UAE has declined to comment on the report, while Likud alleges foreign interference in Israel’s upcomin",
+          "link": "https://www.ynetnews.com/article/skiz3pjkzg",
+          "publishedAt": "2026-09-09T23:41:00.000Z",
           "files": [
             "israel"
           ],
@@ -240,6 +254,49 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "‘Not one day of quiet’: Israel accused of blocking Trump Gaza plan, stalling Hamas disarmament",
+          "excerpt": "Board of Peace officials say preparations are advancing for a 2,500-strong international force and Palestinian police deployment, but expect little movement before Israel’s election",
+          "link": "https://www.ynetnews.com/article/sjhyxzjfze",
+          "publishedAt": "2026-09-09T17:15:57.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Likud alleges foreign election interference over report Netanyahu was warned before Oct. 7",
+          "excerpt": "Netanyahu’s party points to Palestinian figure Mohammed Dahlan and alleged links to opposition figures, demanding a criminal probe into Haaretz, Shlomi Eldar and Yair Golan over the disputed report",
+          "link": "https://www.ynetnews.com/article/hjv0jm1tzl",
+          "publishedAt": "2026-09-09T17:01:34.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Netanyahu claims Israel is ‘very close’ to defeating Iran’s regime during visit to Syria",
+          "excerpt": "Visiting Mount Hermon’s Syrian summit with senior defense officials, Netanyahu vows to keep any ‘terror army’ off Israel’s border and says defeating Iran’s regime is the main task ahead, predicting the collapse of its entire regional axis",
+          "link": "https://www.ynetnews.com/article/b1yx9jkkmx",
+          "publishedAt": "2026-09-09T14:18:52.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -262,7 +319,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 11:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -370,13 +427,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 11:49",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -389,7 +446,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -434,7 +491,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 11:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -471,13 +528,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 11:49",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 0,
+      "score": -1,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -487,20 +544,6 @@
           "excerpt": "هيئة الطيران السورية تبحث مع وفد ليبي متطلبات استئناف رحلات الخطوط الجوية الليبية إلى سوريا",
           "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%8A%D8%A8%D9%8A%D8%A9-%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-09-09T15:27:11.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "السويداء ومجلس التنسيق الأعلى على طاولة مباحثات الشيباني والصفدي في دمشق",
-          "excerpt": "استقبل وزير الخارجية والمغتربين أسعد حسن الشيباني، الأربعاء، نائب رئيس الوزراء وزير الخارجية وشؤون المغتربين الأردني أيمن الصفدي في مطار دمشق الدولي",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B5%D9%81%D8%AF%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82",
-          "publishedAt": "2026-09-09T12:16:11.000Z",
           "files": [
             "diplomacy"
           ],
