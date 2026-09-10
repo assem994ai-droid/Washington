@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-10T21:21:03.480Z",
+    "generatedAt": "2026-09-10T21:36:17.741Z",
     "windowHours": 24,
-    "from": "2026-09-09T21:21:03.480Z",
-    "to": "2026-09-10T21:21:03.480Z"
+    "from": "2026-09-09T21:36:17.741Z",
+    "to": "2026-09-10T21:36:17.741Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 25,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 2,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 567
+    "americanItems": 3,
+    "archiveCycles": 568
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,13 +25,7 @@
     "الإعلام الدولي",
     "التقارير الرسمية الدورية"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "israel",
@@ -42,22 +36,21 @@
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "Ynet News (English)",
-        "Jerusalem Post — الشرق الأوسط"
+        "North Press Agency (English)",
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الملف الإسرائيلي",
-        "الملف الإسرائيلي والتركي"
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 20:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 21:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 26,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -103,6 +96,20 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli military vehicles enter Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Six Israeli military vehicles carrying soldiers entered Rasm Sanad farm near Kodana in southern Quneitra countryside on Thursday, a North Press correspondent reported. The correspondent said Israeli forces se",
+          "link": "https://npasyria.com/en/141337/",
+          "publishedAt": "2026-09-10T16:32:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -110,6 +117,20 @@
           "excerpt": "دانت كل من قطر والسعودية والأردن ومصر والكويت واليمن دخول رئيس وزراء الاحتلال الإسرائيلي بنيامين نتنياهو بصورة غير شرعية إلى منطقة جبل الشيخ في الأراضي السورية",
           "link": "https://www.syria.tv/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
           "publishedAt": "2026-09-10T14:20:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces move through Syria’s Daraa countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces move into Jamlah village in western Daraa on Thursday, stopping and searching passersby before withdrawing toward the Golan Heights. Local sources told North Press that an Israeli military forc",
+          "link": "https://npasyria.com/en/141331/",
+          "publishedAt": "2026-09-10T14:14:01.000Z",
           "files": [
             "israel"
           ],
@@ -201,20 +222,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Blinken denies telling Qatar to delay Israel-Hamas hostage mediation",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2942,w_4412/642151' alt=' US Secretary of State Antony Blinken addresses the press in Jordan's southern city of Aqaba on December 1",
-          "link": "https://www.jpost.com/middle-east/article-908157",
-          "publishedAt": "2026-09-09T21:34:07.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -234,7 +241,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 20:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 21:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -333,22 +340,24 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 20:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 21:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 7,
+      "usItems": 2,
+      "score": 15,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -363,6 +372,18 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "321 displaced families return from Syria’s Idlib camps",
+          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
+          "link": "https://npasyria.com/en/141334/",
+          "publishedAt": "2026-09-10T14:59:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
@@ -370,6 +391,18 @@
           "excerpt": "رحبت بعثة الولايات المتحدة لدى المنظمات الدولية في فيينا بقرار مجلس محافظي ‌‏الوكالة الدولية للطاقة الذرية إغلاق ملف عدم الامتثال المتعلق بسوريا، ورفع اسمها ‌‏من قائمة الدول غير الممتثلة، مؤكدة أن الحكومة السورية قدمت نموذجاً يحتذى به ‌‏في ",
           "link": "https://sana.sy/politics/2577274/",
           "publishedAt": "2026-09-10T08:53:56.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump threatens Iran’s Pickaxe Mountain as Hormuz traffic drops",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Wednesday warned Iran against activity at Pickaxe Mountain, a fortified site near the damaged Natanz nuclear facility, as the U.S.-Iran war intensified and commercial traffic th",
+          "link": "https://npasyria.com/en/141328/",
+          "publishedAt": "2026-09-10T05:42:46.000Z",
           "files": [],
           "seenBefore": true,
           "us": true
@@ -400,7 +433,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 20:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 21:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -437,7 +470,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 20:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-10 21:21",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
