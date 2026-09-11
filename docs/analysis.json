@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T17:28:08.821Z",
+    "generatedAt": "2026-09-11T17:39:58.909Z",
     "windowHours": 24,
-    "from": "2026-09-10T17:28:08.821Z",
-    "to": "2026-09-11T17:28:08.821Z"
+    "from": "2026-09-10T17:39:58.909Z",
+    "to": "2026-09-11T17:39:58.909Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 18,
-    "files": 6,
+    "files": 5,
     "withNew": 1,
-    "stale": 5,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 624
+    "archiveCycles": 625
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [
     {
@@ -40,12 +41,12 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -53,8 +54,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 22,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يقصف بيت جن بالمدفعية ويفرج عن ثلاثة أشخاص اختطفهم من ريف القنيطرة",
+          "excerpt": "الاحتلال يفرج عن ثلاثة أشخاص اختطفهم من ريف القنيطرة",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87%D9%85-%D9%85%D9%86-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-11T17:39:08.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -67,7 +82,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -171,7 +186,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -235,7 +250,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -274,7 +289,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -344,7 +359,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -377,42 +392,6 @@
           "files": [
             "sdf",
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Ynet News (English)"
-      ],
-      "circles": [
-        "الملف الإسرائيلي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:50",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
-          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
-          "link": "https://www.ynetnews.com/article/s1aoocxkze",
-          "publishedAt": "2026-09-10T21:48:02.000Z",
-          "files": [
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
