@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T12:35:25.685Z",
+    "generatedAt": "2026-09-11T13:07:10.386Z",
     "windowHours": 24,
-    "from": "2026-09-10T12:35:25.685Z",
-    "to": "2026-09-11T12:35:25.685Z"
+    "from": "2026-09-10T13:07:10.386Z",
+    "to": "2026-09-11T13:07:10.386Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
-    "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "items": 21,
+    "files": 7,
+    "withNew": 0,
+    "stale": 7,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 609
+    "archiveCycles": 610
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,8 +23,7 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [
     {
@@ -35,145 +34,28 @@
   ],
   "files": [
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Middle East Eye"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "UK sanctions on Israeli settlements include those in Syria's Golan Heights",
-          "excerpt": "<article data-history-node-id=\"447533\" about=\"https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/uk-sancti",
-          "link": "https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights",
-          "publishedAt": "2026-09-11T12:16:26.000Z",
-          "files": [
-            "sanctions",
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "Turkish Minute"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف التركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 15,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الجمعة 11-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الجمعة (11-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-11-09-2026",
-          "publishedAt": "2026-09-11T07:28:54.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
-          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
-          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T18:37:40.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا ترحب برفع الوكالة الذرية بند &#8220;عدم الامتثال&#8221; عن سوريا",
-          "excerpt": "رحبت تركيا اليوم الخميس بقرار مجلس محافظي الوكالة الدولية للطاقة الذرية إنهاء النظر في بند ‏تنفيذ اتفاق الضمانات في الجمهورية العربية السورية.",
-          "link": "https://sana.sy/politics/2577650/",
-          "publishedAt": "2026-09-10T18:14:00.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Syrian Kurdish leader reveals high-level contacts with Turkey",
-          "excerpt": "Syrian Kurdish political leader Ilham Ahmed has revealed that Syrian Kurdish officials have kept high-level channels open with Turkey’s security establishment, despite Ankara’s public portrayal of Kurdish-led forces in Syria as terrorists. ",
-          "link": "https://turkishminute.com/2026/09/10/syrian-kurdish-leader-reveals-high-level-contacts-with-turkey/",
-          "publishedAt": "2026-09-10T14:43:47.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
-        "سانا — قسم السياسة"
+        "سانا — قسم السياسة",
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 12:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 15,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -247,6 +129,20 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Hamas leader’s sister tells Israeli court she couldn’t praise Oct. 7 attack because she’s illiterate",
+          "excerpt": "Sabah Haniyeh, 57, is charged with incitement and identifying with Hamas over messages allegedly sent to her brother after the massacre; she says relatives used her phone, while prosecutors challenged her account in Be'er Sheba court",
+          "link": "https://www.ynetnews.com/article/s1fyz8ltfl",
+          "publishedAt": "2026-09-10T16:19:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -259,17 +155,85 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "Turkish Minute"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الملف التركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 12:35",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 15,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الجمعة 11-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الجمعة (11-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-11-09-2026",
+          "publishedAt": "2026-09-11T07:28:54.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "جبل الشيخ في قلب الانتخابات الإسرائيلية.. كيف يوظف نتنياهو توغلاته في سوريا؟",
-          "excerpt": "لم يكن اقتحام رئيس وزراء الإسرائيلي بنيامين نتنياهو أعلى تلال جبل الشيخ في الأراضي السورية في 9 أيلول 2026 حدثاً منفصلاً أو مجرد جولة ميدانية قبيل انتخابات..",
-          "link": "https://www.syria.tv/%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%81%D9%8A-%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D9%88%D8%B8%D9%81-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-09-10T12:57:48.000Z",
+          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
+          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
+          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-10T18:37:40.000Z",
           "files": [
-            "israel"
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "تركيا ترحب برفع الوكالة الذرية بند &#8220;عدم الامتثال&#8221; عن سوريا",
+          "excerpt": "رحبت تركيا اليوم الخميس بقرار مجلس محافظي الوكالة الدولية للطاقة الذرية إنهاء النظر في بند ‏تنفيذ اتفاق الضمانات في الجمهورية العربية السورية.",
+          "link": "https://sana.sy/politics/2577650/",
+          "publishedAt": "2026-09-10T18:14:00.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Syrian Kurdish leader reveals high-level contacts with Turkey",
+          "excerpt": "Syrian Kurdish political leader Ilham Ahmed has revealed that Syrian Kurdish officials have kept high-level channels open with Turkey’s security establishment, despite Ankara’s public portrayal of Kurdish-led forces in Syria as terrorists. ",
+          "link": "https://turkishminute.com/2026/09/10/syrian-kurdish-leader-reveals-high-level-contacts-with-turkey/",
+          "publishedAt": "2026-09-10T14:43:47.000Z",
+          "files": [
+            "turkey"
           ],
           "seenBefore": true,
           "us": false
@@ -281,22 +245,24 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
-        "The National"
+        "The National",
+        "Ynet News (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الإعلام المتخصص"
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 12:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 5,
+      "score": 9,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -345,6 +311,55 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF kills elite Hamas terrorist who took part in killing Nahal Brigade commander on Oct. 7",
+          "excerpt": "Ismail Ibrahim Darwish Kandil was killed Monday in Khan Younis; IDF says he recently worked to restore Hamas’ military capabilities and advance attacks on Israeli troops and civilians",
+          "link": "https://www.ynetnews.com/article/b1cvkhekgg",
+          "publishedAt": "2026-09-10T14:34:18.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Middle East Eye"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 12:35",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Exclusive: UK sanctions on Israeli settlements to include those in Syria's Golan Heights",
+          "excerpt": "<article data-history-node-id=\"447533\" about=\"https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/uk-sancti",
+          "link": "https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights",
+          "publishedAt": "2026-09-11T12:16:26.000Z",
+          "files": [
+            "sanctions",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
         }
       ]
     },
@@ -360,7 +375,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 12:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -401,6 +416,42 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Ynet News (English)"
+      ],
+      "circles": [
+        "الملف الإسرائيلي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:47",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
+          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
+          "link": "https://www.ynetnews.com/article/s1aoocxkze",
+          "publishedAt": "2026-09-10T21:48:02.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -412,7 +463,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 12:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
