@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T07:39:06.069Z",
+    "generatedAt": "2026-09-11T08:24:30.749Z",
     "windowHours": 24,
-    "from": "2026-09-10T07:39:06.069Z",
-    "to": "2026-09-11T07:39:06.069Z"
+    "from": "2026-09-10T08:24:30.749Z",
+    "to": "2026-09-11T08:24:30.749Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
-    "contested": 1,
+    "withNew": 1,
+    "stale": 5,
+    "contested": 2,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 595
+    "americanItems": 2,
+    "archiveCycles": 596
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,20 +28,20 @@
   "errors": [],
   "files": [
     {
-      "id": "turkey",
-      "label": "الملف التركي",
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
       "independentSources": 3,
       "sources": [
-        "تلفزيون سوريا",
+        "North Press Agency (English)",
         "سانا — قسم السياسة",
-        "Turkish Minute"
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الملف التركي"
+        "الملف الإسرائيلي"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -49,33 +49,29 @@
       "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 29,
+      "score": 25,
       "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الجمعة 11-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الجمعة (11-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-11-09-2026",
-          "publishedAt": "2026-09-11T07:28:54.000Z",
-          "files": [
-            "turkey"
-          ],
+          "title": "Trump rejects Saudi request for strikes on Houthis",
+          "excerpt": "QAMISHLI, U.S. (North Press) – U.S. President Donald Trump rejected Saudi Crown Prince Mohammed bin Salman’s request for U.S. strikes against Yemen’s Houthis, Axios reported on Friday, citing two U.S. officials. Mohammed bin Salman made two",
+          "link": "https://npasyria.com/en/141349/",
+          "publishedAt": "2026-09-11T08:12:15.000Z",
+          "files": [],
           "seenBefore": false,
-          "us": false
+          "us": true
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
-          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
-          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T18:37:40.000Z",
-          "files": [
-            "turkey"
-          ],
+          "title": "Kurdish fighter killed after abduction in Syria’s Hasakah",
+          "excerpt": "QAMISHLI, Syria (North Press) – A Kurdish fighter serving with the Hasakah Brigade was abducted and killed after being taken from Deir ez-Zor to the Hasakah countryside, amid allegations that the killing was linked to a tribal revenge dispu",
+          "link": "https://npasyria.com/en/141345/",
+          "publishedAt": "2026-09-11T07:28:58.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         },
@@ -83,55 +79,47 @@
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "تركيا ترحب برفع الوكالة الذرية بند &#8220;عدم الامتثال&#8221; عن سوريا",
-          "excerpt": "رحبت تركيا اليوم الخميس بقرار مجلس محافظي الوكالة الدولية للطاقة الذرية إنهاء النظر في بند ‏تنفيذ اتفاق الضمانات في الجمهورية العربية السورية.",
-          "link": "https://sana.sy/politics/2577650/",
-          "publishedAt": "2026-09-10T18:14:00.000Z",
-          "files": [
-            "turkey"
-          ],
+          "title": "سوريا تشارك في الدورة الـ 17 للجنة الإحصائية للإسكوا بسلطنة عُمان",
+          "excerpt": "شاركت هيئة التخطيط والإحصاء، ممثلة برئيسها أنس سليم، في أعمال ‌‏الدورة السابعة عشرة للجنة الإحصائية التابعة للجنة الأمم المتحدة الاقتصادية ‌‏والاجتماعية لغربي آسيا «الإسكوا»، التي اختتمت اليوم الخميس في ولاية ‌‏الجبل الأخضر بسلطنة عُمان.‏",
+          "link": "https://sana.sy/syria-and-the-world/2577992/",
+          "publishedAt": "2026-09-10T22:32:20.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         },
         {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Syrian Kurdish leader reveals high-level contacts with Turkey",
-          "excerpt": "Syrian Kurdish political leader Ilham Ahmed has revealed that Syrian Kurdish officials have kept high-level channels open with Turkey’s security establishment, despite Ankara’s public portrayal of Kurdish-led forces in Syria as terrorists. ",
-          "link": "https://turkishminute.com/2026/09/10/syrian-kurdish-leader-reveals-high-level-contacts-with-turkey/",
-          "publishedAt": "2026-09-10T14:43:47.000Z",
-          "files": [
-            "turkey"
-          ],
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "القائم بأعمال السفارة السورية بروما يبحث مع (UNDP‏)‏ دعم تعافي الطاقة ‏في ‏سوريا",
+          "excerpt": "بحث القائم بأعمال سفارة الجمهورية العربية السورية في روما السفير ‏حسين الصباغ، مع مدير مركز برنامج الأمم المتحدة الإنمائي (‏UNDP‏) ‏أغوستينو إنغوشيو، برامج الدعم المقدمة إلى سوريا.",
+          "link": "https://sana.sy/economy/syrian-economy/2577672/",
+          "publishedAt": "2026-09-10T17:44:57.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         },
         {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
-          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
-          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
-          "publishedAt": "2026-09-10T12:44:41.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
-          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T11:39:18.000Z",
-          "files": [
-            "turkey"
-          ],
+          "title": "321 displaced families return from Syria’s Idlib camps",
+          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
+          "link": "https://npasyria.com/en/141334/",
+          "publishedAt": "2026-09-10T14:59:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF kills elite Hamas terrorist who took part in killing Nahal Brigade commander on Oct. 7",
+          "excerpt": "Ismail Ibrahim Darwish Kandil was killed Monday in Khan Younis; IDF says he recently worked to restore Hamas’ military capabilities and advance attacks on Israeli troops and civilians",
+          "link": "https://www.ynetnews.com/article/b1cvkhekgg",
+          "publishedAt": "2026-09-10T14:34:18.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -156,7 +144,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -322,86 +310,110 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
       "independentSources": 3,
       "sources": [
-        "North Press Agency (English)",
+        "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "Ynet News (English)"
+        "Turkish Minute"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "الملف التركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
-      "usItems": 0,
-      "score": 18,
+      "usItems": 1,
+      "score": 20,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Kurdish fighter killed after abduction in Syria’s Hasakah",
-          "excerpt": "QAMISHLI, Syria (North Press) – A Kurdish fighter serving with the Hasakah Brigade was abducted and killed after being taken from Deir ez-Zor to the Hasakah countryside, amid allegations that the killing was linked to a tribal revenge dispu",
-          "link": "https://npasyria.com/en/141345/",
-          "publishedAt": "2026-09-11T07:28:58.000Z",
-          "files": [],
-          "seenBefore": false,
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الجمعة 11-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الجمعة (11-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-11-09-2026",
+          "publishedAt": "2026-09-11T07:28:54.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
+          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
+          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-10T18:37:40.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
           "us": false
         },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تشارك في الدورة الـ 17 للجنة الإحصائية للإسكوا بسلطنة عُمان",
-          "excerpt": "شاركت هيئة التخطيط والإحصاء، ممثلة برئيسها أنس سليم، في أعمال ‌‏الدورة السابعة عشرة للجنة الإحصائية التابعة للجنة الأمم المتحدة الاقتصادية ‌‏والاجتماعية لغربي آسيا «الإسكوا»، التي اختتمت اليوم الخميس في ولاية ‌‏الجبل الأخضر بسلطنة عُمان.‏",
-          "link": "https://sana.sy/syria-and-the-world/2577992/",
-          "publishedAt": "2026-09-10T22:32:20.000Z",
-          "files": [],
+          "title": "تركيا ترحب برفع الوكالة الذرية بند &#8220;عدم الامتثال&#8221; عن سوريا",
+          "excerpt": "رحبت تركيا اليوم الخميس بقرار مجلس محافظي الوكالة الدولية للطاقة الذرية إنهاء النظر في بند ‏تنفيذ اتفاق الضمانات في الجمهورية العربية السورية.",
+          "link": "https://sana.sy/politics/2577650/",
+          "publishedAt": "2026-09-10T18:14:00.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         },
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "القائم بأعمال السفارة السورية بروما يبحث مع (UNDP‏)‏ دعم تعافي الطاقة ‏في ‏سوريا",
-          "excerpt": "بحث القائم بأعمال سفارة الجمهورية العربية السورية في روما السفير ‏حسين الصباغ، مع مدير مركز برنامج الأمم المتحدة الإنمائي (‏UNDP‏) ‏أغوستينو إنغوشيو، برامج الدعم المقدمة إلى سوريا.",
-          "link": "https://sana.sy/economy/syrian-economy/2577672/",
-          "publishedAt": "2026-09-10T17:44:57.000Z",
-          "files": [],
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Syrian Kurdish leader reveals high-level contacts with Turkey",
+          "excerpt": "Syrian Kurdish political leader Ilham Ahmed has revealed that Syrian Kurdish officials have kept high-level channels open with Turkey’s security establishment, despite Ankara’s public portrayal of Kurdish-led forces in Syria as terrorists. ",
+          "link": "https://turkishminute.com/2026/09/10/syrian-kurdish-leader-reveals-high-level-contacts-with-turkey/",
+          "publishedAt": "2026-09-10T14:43:47.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
+          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
+          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
+          "publishedAt": "2026-09-10T12:44:41.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "321 displaced families return from Syria’s Idlib camps",
-          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
-          "link": "https://npasyria.com/en/141334/",
-          "publishedAt": "2026-09-10T14:59:49.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills elite Hamas terrorist who took part in killing Nahal Brigade commander on Oct. 7",
-          "excerpt": "Ismail Ibrahim Darwish Kandil was killed Monday in Khan Younis; IDF says he recently worked to restore Hamas’ military capabilities and advance attacks on Israeli troops and civilians",
-          "link": "https://www.ynetnews.com/article/b1cvkhekgg",
-          "publishedAt": "2026-09-10T14:34:18.000Z",
-          "files": [],
+          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
+          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-10T11:39:18.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -419,7 +431,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -471,7 +483,7 @@
       "circles": [
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 06:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -507,7 +519,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
