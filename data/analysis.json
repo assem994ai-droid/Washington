@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T06:15:06.569Z",
+    "generatedAt": "2026-09-11T07:23:09.825Z",
     "windowHours": 24,
-    "from": "2026-09-10T06:15:06.569Z",
-    "to": "2026-09-11T06:15:06.569Z"
+    "from": "2026-09-10T07:23:09.825Z",
+    "to": "2026-09-11T07:23:09.825Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
-    "files": 6,
+    "items": 22,
+    "files": 5,
     "withNew": 0,
-    "stale": 6,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 593
+    "archiveCycles": 594
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,27 +33,25 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Middle East Eye",
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Ynet News (English)"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 05:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 06:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 21,
       "items": [
         {
           "source": "Middle East Eye",
@@ -140,20 +139,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Hamas leader’s sister tells Israeli court she couldn’t praise Oct. 7 attack because she’s illiterate",
-          "excerpt": "Sabah Haniyeh, 57, is charged with incitement and identifying with Hamas over messages allegedly sent to her brother after the massacre; she says relatives used her phone, while prosecutors challenged her account in Be'er Sheba court",
-          "link": "https://www.ynetnews.com/article/s1fyz8ltfl",
-          "publishedAt": "2026-09-10T16:19:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -227,7 +212,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 05:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 06:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -322,80 +307,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Ynet News (English)"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 05:48",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تشارك في الدورة الـ 17 للجنة الإحصائية للإسكوا بسلطنة عُمان",
-          "excerpt": "شاركت هيئة التخطيط والإحصاء، ممثلة برئيسها أنس سليم، في أعمال ‌‏الدورة السابعة عشرة للجنة الإحصائية التابعة للجنة الأمم المتحدة الاقتصادية ‌‏والاجتماعية لغربي آسيا «الإسكوا»، التي اختتمت اليوم الخميس في ولاية ‌‏الجبل الأخضر بسلطنة عُمان.‏",
-          "link": "https://sana.sy/syria-and-the-world/2577992/",
-          "publishedAt": "2026-09-10T22:32:20.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "القائم بأعمال السفارة السورية بروما يبحث مع (UNDP‏)‏ دعم تعافي الطاقة ‏في ‏سوريا",
-          "excerpt": "بحث القائم بأعمال سفارة الجمهورية العربية السورية في روما السفير ‏حسين الصباغ، مع مدير مركز برنامج الأمم المتحدة الإنمائي (‏UNDP‏) ‏أغوستينو إنغوشيو، برامج الدعم المقدمة إلى سوريا.",
-          "link": "https://sana.sy/economy/syrian-economy/2577672/",
-          "publishedAt": "2026-09-10T17:44:57.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "321 displaced families return from Syria’s Idlib camps",
-          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
-          "link": "https://npasyria.com/en/141334/",
-          "publishedAt": "2026-09-10T14:59:49.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills elite Hamas terrorist who took part in killing Nahal Brigade commander on Oct. 7",
-          "excerpt": "Ismail Ibrahim Darwish Kandil was killed Monday in Khan Younis; IDF says he recently worked to restore Hamas’ military capabilities and advance attacks on Israeli troops and civilians",
-          "link": "https://www.ynetnews.com/article/b1cvkhekgg",
-          "publishedAt": "2026-09-10T14:34:18.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -407,7 +318,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 05:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 06:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -448,36 +359,60 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "Ynet News (English)"
+        "سانا — قسم السياسة",
+        "North Press Agency (English)"
       ],
       "circles": [
-        "الملف الإسرائيلي"
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 05:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 06:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": -1,
+      "score": 4,
       "items": [
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
-          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
-          "link": "https://www.ynetnews.com/article/s1aoocxkze",
-          "publishedAt": "2026-09-10T21:48:02.000Z",
-          "files": [
-            "lebanon"
-          ],
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تشارك في الدورة الـ 17 للجنة الإحصائية للإسكوا بسلطنة عُمان",
+          "excerpt": "شاركت هيئة التخطيط والإحصاء، ممثلة برئيسها أنس سليم، في أعمال ‌‏الدورة السابعة عشرة للجنة الإحصائية التابعة للجنة الأمم المتحدة الاقتصادية ‌‏والاجتماعية لغربي آسيا «الإسكوا»، التي اختتمت اليوم الخميس في ولاية ‌‏الجبل الأخضر بسلطنة عُمان.‏",
+          "link": "https://sana.sy/syria-and-the-world/2577992/",
+          "publishedAt": "2026-09-10T22:32:20.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "القائم بأعمال السفارة السورية بروما يبحث مع (UNDP‏)‏ دعم تعافي الطاقة ‏في ‏سوريا",
+          "excerpt": "بحث القائم بأعمال سفارة الجمهورية العربية السورية في روما السفير ‏حسين الصباغ، مع مدير مركز برنامج الأمم المتحدة الإنمائي (‏UNDP‏) ‏أغوستينو إنغوشيو، برامج الدعم المقدمة إلى سوريا.",
+          "link": "https://sana.sy/economy/syrian-economy/2577672/",
+          "publishedAt": "2026-09-10T17:44:57.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "321 displaced families return from Syria’s Idlib camps",
+          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
+          "link": "https://npasyria.com/en/141334/",
+          "publishedAt": "2026-09-10T14:59:49.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -495,7 +430,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 05:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 06:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
