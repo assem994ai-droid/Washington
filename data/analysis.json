@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T04:23:44.885Z",
+    "generatedAt": "2026-09-11T04:38:59.257Z",
     "windowHours": 24,
-    "from": "2026-09-10T04:23:44.885Z",
-    "to": "2026-09-11T04:23:44.885Z"
+    "from": "2026-09-10T04:38:59.257Z",
+    "to": "2026-09-11T04:38:59.257Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
-    "files": 6,
-    "withNew": 1,
+    "items": 24,
+    "files": 5,
+    "withNew": 0,
     "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 588
+    "archiveCycles": 589
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,27 +33,25 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Middle East Eye",
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Ynet News (English)"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:23",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 35,
+      "score": 22,
       "items": [
         {
           "source": "Middle East Eye",
@@ -65,7 +64,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -133,20 +132,6 @@
           "excerpt": "QAMISHLI, Syria (North Press) – Six Israeli military vehicles carrying soldiers entered Rasm Sanad farm near Kodana in southern Quneitra countryside on Thursday, a North Press correspondent reported. The correspondent said Israeli forces se",
           "link": "https://npasyria.com/en/141337/",
           "publishedAt": "2026-09-10T16:32:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Hamas leader’s sister tells Israeli court she couldn’t praise Oct. 7 attack because she’s illiterate",
-          "excerpt": "Sabah Haniyeh, 57, is charged with incitement and identifying with Hamas over messages allegedly sent to her brother after the massacre; she says relatives used her phone, while prosecutors challenged her account in Be'er Sheba court",
-          "link": "https://www.ynetnews.com/article/s1fyz8ltfl",
-          "publishedAt": "2026-09-10T16:19:27.000Z",
           "files": [
             "israel"
           ],
@@ -241,7 +226,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -340,24 +325,22 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Ynet News (English)"
+        "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 12,
+      "score": 8,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -396,18 +379,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills elite Hamas terrorist who took part in killing Nahal Brigade commander on Oct. 7",
-          "excerpt": "Ismail Ibrahim Darwish Kandil was killed Monday in Khan Younis; IDF says he recently worked to restore Hamas’ military capabilities and advance attacks on Israeli troops and civilians",
-          "link": "https://www.ynetnews.com/article/b1cvkhekgg",
-          "publishedAt": "2026-09-10T14:34:18.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
@@ -433,7 +404,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -474,42 +445,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Ynet News (English)"
-      ],
-      "circles": [
-        "الملف الإسرائيلي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
-          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
-          "link": "https://www.ynetnews.com/article/s1aoocxkze",
-          "publishedAt": "2026-09-10T21:48:02.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -521,7 +456,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
