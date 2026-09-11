@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T08:24:30.749Z",
+    "generatedAt": "2026-09-11T08:53:17.253Z",
     "windowHours": 24,
-    "from": "2026-09-10T08:24:30.749Z",
-    "to": "2026-09-11T08:24:30.749Z"
+    "from": "2026-09-10T08:53:17.253Z",
+    "to": "2026-09-11T08:53:17.253Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 28,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 2,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 596
+    "archiveCycles": 597
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,13 +32,15 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "The National",
         "North Press Agency (English)",
         "سانا — قسم السياسة",
         "Ynet News (English)"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي"
@@ -49,8 +51,20 @@
       "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 25,
+      "score": 29,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE art guide: Nine exhibitions to see, from Unseen Script at Rizk to Precarious Beings at Tashkeel",
+          "excerpt": "Galleries and institutions in Abu Dhabi, Dubai and Sharjah continue to present a range of exhibitions.Current highlights include A Board Game Adventure at Louvre Abu Dhabi, an exhibition that traces the journey of games including chess, Man",
+          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/11/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+          "publishedAt": "2026-09-11T08:44:03.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -60,7 +74,7 @@
           "link": "https://npasyria.com/en/141349/",
           "publishedAt": "2026-09-11T08:12:15.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -144,7 +158,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -325,7 +339,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -431,7 +445,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -483,7 +497,7 @@
       "circles": [
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -519,7 +533,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 08:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
