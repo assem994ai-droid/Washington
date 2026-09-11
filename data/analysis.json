@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T15:06:46.350Z",
+    "generatedAt": "2026-09-11T15:50:23.572Z",
     "windowHours": 24,
-    "from": "2026-09-10T15:06:46.350Z",
-    "to": "2026-09-11T15:06:46.350Z"
+    "from": "2026-09-10T15:50:23.572Z",
+    "to": "2026-09-11T15:50:23.572Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
-    "files": 7,
+    "items": 18,
+    "files": 6,
     "withNew": 0,
-    "stale": 7,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 617
+    "archiveCycles": 618
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [
     {
@@ -49,7 +50,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -120,24 +121,22 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "Ynet News (English)"
+        "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -209,20 +208,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Hamas leader’s sister tells Israeli court she couldn’t praise Oct. 7 attack because she’s illiterate",
-          "excerpt": "Sabah Haniyeh, 57, is charged with incitement and identifying with Hamas over messages allegedly sent to her brother after the massacre; she says relatives used her phone, while prosecutors challenged her account in Be'er Sheba court",
-          "link": "https://www.ynetnews.com/article/s1fyz8ltfl",
-          "publishedAt": "2026-09-10T16:19:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -240,7 +225,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -322,7 +307,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -359,7 +344,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -400,42 +385,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Ynet News (English)"
-      ],
-      "circles": [
-        "الملف الإسرائيلي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:23",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
-          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
-          "link": "https://www.ynetnews.com/article/s1aoocxkze",
-          "publishedAt": "2026-09-10T21:48:02.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -447,7 +396,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
