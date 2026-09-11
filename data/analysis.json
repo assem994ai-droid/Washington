@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T01:55:40.959Z",
+    "generatedAt": "2026-09-11T02:38:56.013Z",
     "windowHours": 24,
-    "from": "2026-09-10T01:55:40.959Z",
-    "to": "2026-09-11T01:55:40.959Z"
+    "from": "2026-09-10T02:38:56.013Z",
+    "to": "2026-09-11T02:38:56.013Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
-    "files": 5,
+    "items": 25,
+    "files": 6,
     "withNew": 0,
-    "stale": 5,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 581
+    "archiveCycles": 582
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,11 +24,192 @@
     "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [],
   "files": [
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "Ynet News (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:55",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 22,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هآرتس: إسرائيل قد تتخلى عن دروز سوريا بعد انتهاء الحاجة إليهم كورقة ضغط",
+          "excerpt": "أفاد تقرير نشرته صحيفة \"هآرتس\" الإسرائيلية، وأعدّه الكاتب تسفي برئيل، بأن إسرائيل قد تجد نفسها مطالبة بالانسحاب من الأراضي التي سيطرت عليها في سوريا",
+          "link": "https://www.syria.tv/%D9%87%D8%A2%D8%B1%D8%AA%D8%B3-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%82%D8%AF-%D8%AA%D8%AA%D8%AE%D9%84%D9%89-%D8%B9%D9%86-%D8%AF%D8%B1%D9%88%D8%B2-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%D8%A9-%D8%A5%D9%84%D9%8A%D9%87%D9%85-%D9%83%D9%88%D8%B1%D9%82%D8%A9-%D8%B6%D8%BA%D8%B7",
+          "publishedAt": "2026-09-10T22:18:08.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "البرلمان العربي: التوغلات الإسرائيلية في سوريا \"تهديد للأمن القومي العربي\"",
+          "excerpt": "البرلمان العربي: التوغلات الإسرائيلية في سوريا \"تهديد للأمن القومي العربي\"",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
+          "publishedAt": "2026-09-10T19:25:22.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "السعودية تدين الدخول غير الشرعي لـ نتنياهو إلى الأراضي السورية",
+          "excerpt": "أدانت السعودية بأشد العبارات الدخول غير الشرعي لرئيس حكومة الاحتلال الإسرائيلي بنيامين نتنياهو إلى الأراضي السورية، مؤكدة أنه يمثل انتهاكاً صارخاً لسيادة سوريا ووحدة أراضيها وخرقاً فاضحاً للقانون الدولي.",
+          "link": "https://sana.sy/politics/2577788/",
+          "publishedAt": "2026-09-10T19:22:19.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "البرلمان العربي يدين التوغلات الإسرائيلية المتكررة داخل الأراضي السورية",
+          "excerpt": "أدان البرلمان العربي، اليوم الخميس بشدة التوغلات الإسرائيلية المتكررة داخل الأراضي السورية، معتبراً إياها انتهاكاً صارخاً لسيادة سوريا، ووحدة وسلامة أراضيها، وخرقاً سافراً لقواعد القانون الدولي وميثاق الأمم المتحدة.",
+          "link": "https://sana.sy/politics/2577731/",
+          "publishedAt": "2026-09-10T18:37:13.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli military vehicles enter Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Six Israeli military vehicles carrying soldiers entered Rasm Sanad farm near Kodana in southern Quneitra countryside on Thursday, a North Press correspondent reported. The correspondent said Israeli forces se",
+          "link": "https://npasyria.com/en/141337/",
+          "publishedAt": "2026-09-10T16:32:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Hamas leader’s sister tells Israeli court she couldn’t praise Oct. 7 attack because she’s illiterate",
+          "excerpt": "Sabah Haniyeh, 57, is charged with incitement and identifying with Hamas over messages allegedly sent to her brother after the massacre; she says relatives used her phone, while prosecutors challenged her account in Be'er Sheba court",
+          "link": "https://www.ynetnews.com/article/s1fyz8ltfl",
+          "publishedAt": "2026-09-10T16:19:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "إدانات عربية لاقتحام نتنياهو جبل الشيخ ودعوات لوقف الانتهاكات الإسرائيلية",
+          "excerpt": "دانت كل من قطر والسعودية والأردن ومصر والكويت واليمن دخول رئيس وزراء الاحتلال الإسرائيلي بنيامين نتنياهو بصورة غير شرعية إلى منطقة جبل الشيخ في الأراضي السورية",
+          "link": "https://www.syria.tv/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
+          "publishedAt": "2026-09-10T14:20:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces move through Syria’s Daraa countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces move into Jamlah village in western Daraa on Thursday, stopping and searching passersby before withdrawing toward the Golan Heights. Local sources told North Press that an Israeli military forc",
+          "link": "https://npasyria.com/en/141331/",
+          "publishedAt": "2026-09-10T14:14:01.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "جبل الشيخ في قلب الانتخابات الإسرائيلية.. كيف يوظف نتنياهو توغلاته في سوريا؟",
+          "excerpt": "لم يكن اقتحام رئيس وزراء الإسرائيلي بنيامين نتنياهو أعلى تلال جبل الشيخ في الأراضي السورية في 9 أيلول 2026 حدثاً منفصلاً أو مجرد جولة ميدانية قبيل انتخابات..",
+          "link": "https://www.syria.tv/%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%81%D9%8A-%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D9%88%D8%B8%D9%81-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-09-10T12:57:48.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مصر: التوغلات الإسرائيلية المتكررة داخل الأراضي السورية خرق للقانون الدولي",
+          "excerpt": "أدانت مصر بأشد العبارات التوغلات الإسرائيلية المتكررة داخل الأراضي السورية، باعتبارها انتهاكاً صارخاً لسيادة سوريا وسلامة أراضيها، وخرقاً واضحاً لأحكام القانون الدولي.",
+          "link": "https://sana.sy/syria-and-the-world/2577463/",
+          "publishedAt": "2026-09-10T12:02:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "كيف يصوغ الاحتلال الإسرائيلي واقعاً جيوسياسياً جديداً في سوريا؟",
+          "excerpt": "إسرائيل لا تتعامل مع سوريا بوصفها ساحة تهديد عسكري مباشر فحسب، بل بوصفها مجالاً جيوسياسياً يجري تشكيله لإدامة التفوق الإسرائيلي، ومنع نشوء قوة إقليمية..",
+          "link": "https://www.syria.tv/%D9%83%D9%8A%D9%81-%D9%8A%D8%B5%D9%88%D8%BA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%A7%D9%82%D8%B9%D8%A7%D9%8B-%D8%AC%D9%8A%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-09-10T06:08:19.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -45,7 +226,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -140,192 +321,28 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:41",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 18,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "هآرتس: إسرائيل قد تتخلى عن دروز سوريا بعد انتهاء الحاجة إليهم كورقة ضغط",
-          "excerpt": "أفاد تقرير نشرته صحيفة \"هآرتس\" الإسرائيلية، وأعدّه الكاتب تسفي برئيل، بأن إسرائيل قد تجد نفسها مطالبة بالانسحاب من الأراضي التي سيطرت عليها في سوريا",
-          "link": "https://www.syria.tv/%D9%87%D8%A2%D8%B1%D8%AA%D8%B3-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%82%D8%AF-%D8%AA%D8%AA%D8%AE%D9%84%D9%89-%D8%B9%D9%86-%D8%AF%D8%B1%D9%88%D8%B2-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%D8%A9-%D8%A5%D9%84%D9%8A%D9%87%D9%85-%D9%83%D9%88%D8%B1%D9%82%D8%A9-%D8%B6%D8%BA%D8%B7",
-          "publishedAt": "2026-09-10T22:18:08.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "البرلمان العربي: التوغلات الإسرائيلية في سوريا \"تهديد للأمن القومي العربي\"",
-          "excerpt": "البرلمان العربي: التوغلات الإسرائيلية في سوريا \"تهديد للأمن القومي العربي\"",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
-          "publishedAt": "2026-09-10T19:25:22.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "السعودية تدين الدخول غير الشرعي لـ نتنياهو إلى الأراضي السورية",
-          "excerpt": "أدانت السعودية بأشد العبارات الدخول غير الشرعي لرئيس حكومة الاحتلال الإسرائيلي بنيامين نتنياهو إلى الأراضي السورية، مؤكدة أنه يمثل انتهاكاً صارخاً لسيادة سوريا ووحدة أراضيها وخرقاً فاضحاً للقانون الدولي.",
-          "link": "https://sana.sy/politics/2577788/",
-          "publishedAt": "2026-09-10T19:22:19.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "البرلمان العربي يدين التوغلات الإسرائيلية المتكررة داخل الأراضي السورية",
-          "excerpt": "أدان البرلمان العربي، اليوم الخميس بشدة التوغلات الإسرائيلية المتكررة داخل الأراضي السورية، معتبراً إياها انتهاكاً صارخاً لسيادة سوريا، ووحدة وسلامة أراضيها، وخرقاً سافراً لقواعد القانون الدولي وميثاق الأمم المتحدة.",
-          "link": "https://sana.sy/politics/2577731/",
-          "publishedAt": "2026-09-10T18:37:13.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli military vehicles enter Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Six Israeli military vehicles carrying soldiers entered Rasm Sanad farm near Kodana in southern Quneitra countryside on Thursday, a North Press correspondent reported. The correspondent said Israeli forces se",
-          "link": "https://npasyria.com/en/141337/",
-          "publishedAt": "2026-09-10T16:32:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إدانات عربية لاقتحام نتنياهو جبل الشيخ ودعوات لوقف الانتهاكات الإسرائيلية",
-          "excerpt": "دانت كل من قطر والسعودية والأردن ومصر والكويت واليمن دخول رئيس وزراء الاحتلال الإسرائيلي بنيامين نتنياهو بصورة غير شرعية إلى منطقة جبل الشيخ في الأراضي السورية",
-          "link": "https://www.syria.tv/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-09-10T14:20:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces move through Syria’s Daraa countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces move into Jamlah village in western Daraa on Thursday, stopping and searching passersby before withdrawing toward the Golan Heights. Local sources told North Press that an Israeli military forc",
-          "link": "https://npasyria.com/en/141331/",
-          "publishedAt": "2026-09-10T14:14:01.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "جبل الشيخ في قلب الانتخابات الإسرائيلية.. كيف يوظف نتنياهو توغلاته في سوريا؟",
-          "excerpt": "لم يكن اقتحام رئيس وزراء الإسرائيلي بنيامين نتنياهو أعلى تلال جبل الشيخ في الأراضي السورية في 9 أيلول 2026 حدثاً منفصلاً أو مجرد جولة ميدانية قبيل انتخابات..",
-          "link": "https://www.syria.tv/%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%81%D9%8A-%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D9%88%D8%B8%D9%81-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-09-10T12:57:48.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مصر: التوغلات الإسرائيلية المتكررة داخل الأراضي السورية خرق للقانون الدولي",
-          "excerpt": "أدانت مصر بأشد العبارات التوغلات الإسرائيلية المتكررة داخل الأراضي السورية، باعتبارها انتهاكاً صارخاً لسيادة سوريا وسلامة أراضيها، وخرقاً واضحاً لأحكام القانون الدولي.",
-          "link": "https://sana.sy/syria-and-the-world/2577463/",
-          "publishedAt": "2026-09-10T12:02:26.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "كيف يصوغ الاحتلال الإسرائيلي واقعاً جيوسياسياً جديداً في سوريا؟",
-          "excerpt": "إسرائيل لا تتعامل مع سوريا بوصفها ساحة تهديد عسكري مباشر فحسب، بل بوصفها مجالاً جيوسياسياً يجري تشكيله لإدامة التفوق الإسرائيلي، ومنع نشوء قوة إقليمية..",
-          "link": "https://www.syria.tv/%D9%83%D9%8A%D9%81-%D9%8A%D8%B5%D9%88%D8%BA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%A7%D9%82%D8%B9%D8%A7%D9%8B-%D8%AC%D9%8A%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7%D9%8B-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-09-10T06:08:19.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "Ynet News (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 8,
+      "score": 12,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -364,6 +381,18 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF kills elite Hamas terrorist who took part in killing Nahal Brigade commander on Oct. 7",
+          "excerpt": "Ismail Ibrahim Darwish Kandil was killed Monday in Khan Younis; IDF says he recently worked to restore Hamas’ military capabilities and advance attacks on Israeli troops and civilians",
+          "link": "https://www.ynetnews.com/article/b1cvkhekgg",
+          "publishedAt": "2026-09-10T14:34:18.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
@@ -389,7 +418,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -415,6 +444,42 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Ynet News (English)"
+      ],
+      "circles": [
+        "الملف الإسرائيلي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:15",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
+          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
+          "link": "https://www.ynetnews.com/article/s1aoocxkze",
+          "publishedAt": "2026-09-10T21:48:02.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -426,7 +491,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 01:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
