@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T16:39:08.334Z",
+    "generatedAt": "2026-09-11T16:50:11.954Z",
     "windowHours": 24,
-    "from": "2026-09-10T16:39:08.334Z",
-    "to": "2026-09-11T16:39:08.334Z"
+    "from": "2026-09-10T16:50:11.954Z",
+    "to": "2026-09-11T16:50:11.954Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
-    "files": 5,
+    "items": 18,
+    "files": 6,
     "withNew": 0,
-    "stale": 5,
+    "stale": 6,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 621
+    "archiveCycles": 622
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,8 +23,7 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [
     {
@@ -50,7 +49,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -130,7 +129,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -237,7 +236,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -276,7 +275,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -346,7 +345,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -379,6 +378,42 @@
           "files": [
             "sdf",
             "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Ynet News (English)"
+      ],
+      "circles": [
+        "الملف الإسرائيلي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:06",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
+          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
+          "link": "https://www.ynetnews.com/article/s1aoocxkze",
+          "publishedAt": "2026-09-10T21:48:02.000Z",
+          "files": [
+            "lebanon"
           ],
           "seenBefore": true,
           "us": false
