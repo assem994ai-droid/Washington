@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T09:39:07.642Z",
+    "generatedAt": "2026-09-11T10:23:12.239Z",
     "windowHours": 24,
-    "from": "2026-09-10T09:39:07.642Z",
-    "to": "2026-09-11T09:39:07.642Z"
+    "from": "2026-09-10T10:23:12.239Z",
+    "to": "2026-09-11T10:23:12.239Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
-    "files": 6,
+    "items": 13,
+    "files": 4,
     "withNew": 0,
-    "stale": 6,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 600
+    "archiveCycles": 601
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,13 +23,19 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الإعلام السوري المستقل"
   ],
   "errors": [
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
       "message": "الخادم ردّ برمز 404"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "message": "الخادم ردّ برمز 403"
     }
   ],
   "files": [
@@ -38,53 +44,23 @@
       "label": "الملف التركي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "Turkish Minute"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 20,
+      "score": 14,
       "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الجمعة 11-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الجمعة (11-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-11-09-2026",
-          "publishedAt": "2026-09-11T07:28:54.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
-          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
-          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T18:37:40.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -126,20 +102,6 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "العراق يخطط لتصدير مليون برميل نفط يوميا عبر سوريا وتركيا",
-          "excerpt": "كشف وزير النفط العراقي باسم محمد خضير عن خطة مستقبلية لزيادة صادرات بلاده من النفط عبر سوريا وميناء جيهان التركي لتتجاوز مليون برميل يوميا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T11:39:18.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -148,26 +110,24 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "Middle East Eye",
-        "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "Ynet News (English)"
       ],
       "circles": [
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 13,
       "items": [
         {
           "source": "Middle East Eye",
@@ -177,34 +137,6 @@
           "excerpt": "<article data-history-node-id=\"447511\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-abduct-syrian-man-during-incursion-al-hamidiya-town\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.",
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-abduct-syrian-man-during-incursion-al-hamidiya-town",
           "publishedAt": "2026-09-11T04:12:00.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "هآرتس: إسرائيل قد تتخلى عن دروز سوريا بعد انتهاء الحاجة إليهم كورقة ضغط",
-          "excerpt": "أفاد تقرير نشرته صحيفة \"هآرتس\" الإسرائيلية، وأعدّه الكاتب تسفي برئيل، بأن إسرائيل قد تجد نفسها مطالبة بالانسحاب من الأراضي التي سيطرت عليها في سوريا",
-          "link": "https://www.syria.tv/%D9%87%D8%A2%D8%B1%D8%AA%D8%B3-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%82%D8%AF-%D8%AA%D8%AA%D8%AE%D9%84%D9%89-%D8%B9%D9%86-%D8%AF%D8%B1%D9%88%D8%B2-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%D8%A9-%D8%A5%D9%84%D9%8A%D9%87%D9%85-%D9%83%D9%88%D8%B1%D9%82%D8%A9-%D8%B6%D8%BA%D8%B7",
-          "publishedAt": "2026-09-10T22:18:08.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "البرلمان العربي: التوغلات الإسرائيلية في سوريا \"تهديد للأمن القومي العربي\"",
-          "excerpt": "البرلمان العربي: التوغلات الإسرائيلية في سوريا \"تهديد للأمن القومي العربي\"",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A",
-          "publishedAt": "2026-09-10T19:25:22.000Z",
           "files": [
             "israel"
           ],
@@ -255,34 +187,6 @@
           "us": false
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إدانات عربية لاقتحام نتنياهو جبل الشيخ ودعوات لوقف الانتهاكات الإسرائيلية",
-          "excerpt": "دانت كل من قطر والسعودية والأردن ومصر والكويت واليمن دخول رئيس وزراء الاحتلال الإسرائيلي بنيامين نتنياهو بصورة غير شرعية إلى منطقة جبل الشيخ في الأراضي السورية",
-          "link": "https://www.syria.tv/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-09-10T14:20:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "جبل الشيخ في قلب الانتخابات الإسرائيلية.. كيف يوظف نتنياهو توغلاته في سوريا؟",
-          "excerpt": "لم يكن اقتحام رئيس وزراء الإسرائيلي بنيامين نتنياهو أعلى تلال جبل الشيخ في الأراضي السورية في 9 أيلول 2026 حدثاً منفصلاً أو مجرد جولة ميدانية قبيل انتخابات..",
-          "link": "https://www.syria.tv/%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%81%D9%8A-%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D9%88%D8%B8%D9%81-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-09-10T12:57:48.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
@@ -314,7 +218,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -373,58 +277,6 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:06",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 4,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عن دمج قسد وتقويض الاستراتيجية الإسرائيلية في سوريا الجديدة",
-          "excerpt": "لم أستغرب ما نشرته صحيفة «هآرتس» الأسبوع الماضي، وما نشرته وسائل الإعلام العبرية في الفترة الأخيرة، عن الانزعاج والقلق من عملية دمج «قسد» في سوريا الجديدة ومؤسس",
-          "link": "https://www.syria.tv/%D8%B9%D9%86-%D8%AF%D9%85%D8%AC-%D9%82%D8%B3%D8%AF-%D9%88%D8%AA%D9%82%D9%88%D9%8A%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-          "publishedAt": "2026-09-11T03:42:24.000Z",
-          "files": [
-            "sdf",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وزارة الدفاع التركية: تسليم أسلحة \"قسد\" إلى الجيش السوري \"مطلب طبيعي\" للدمج",
-          "excerpt": "وزارة الدفاع التركية تقول إن تسليم قسد الأسلحة التي بحوزتها إلى الجيش السوري تعد مطلباً طبيعياً ضمن عملية الدمج",
-          "link": "https://www.syria.tv/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%82%D8%B3%D8%AF-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D8%B7%D9%84%D8%A8-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%84%D9%84%D8%AF%D9%85%D8%AC",
-          "publishedAt": "2026-09-10T16:21:55.000Z",
-          "files": [
-            "sdf",
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -436,7 +288,7 @@
       "circles": [
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -454,42 +306,6 @@
           "publishedAt": "2026-09-10T21:48:02.000Z",
           "files": [
             "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 09:06",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "شملت مكافحة غسيل الأموال.. مباحثات سورية أميركية لتعزيز الشراكة المالية",
-          "excerpt": "ماذا تضمنت المباحثات بين وزارة المالية السورية ووزارة الخزانة الأميركية؟",
-          "link": "https://www.syria.tv/%D8%B4%D9%85%D9%84%D8%AA-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%BA%D8%B3%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-09-10T16:37:46.000Z",
-          "files": [
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
