@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T02:50:39.366Z",
+    "generatedAt": "2026-09-11T03:07:01.352Z",
     "windowHours": 24,
-    "from": "2026-09-10T02:50:39.366Z",
-    "to": "2026-09-11T02:50:39.366Z"
+    "from": "2026-09-10T03:07:01.352Z",
+    "to": "2026-09-11T03:07:01.352Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
-    "files": 6,
+    "items": 22,
+    "files": 5,
     "withNew": 0,
-    "stale": 6,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 583
+    "americanItems": 2,
+    "archiveCycles": 584
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,15 +24,10 @@
     "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "turkey",
@@ -50,7 +45,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -153,20 +148,19 @@
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "Ynet News (English)"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 18,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -226,13 +220,13 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Hamas leader’s sister tells Israeli court she couldn’t praise Oct. 7 attack because she’s illiterate",
-          "excerpt": "Sabah Haniyeh, 57, is charged with incitement and identifying with Hamas over messages allegedly sent to her brother after the massacre; she says relatives used her phone, while prosecutors challenged her account in Be'er Sheba court",
-          "link": "https://www.ynetnews.com/article/s1fyz8ltfl",
-          "publishedAt": "2026-09-10T16:19:27.000Z",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli military vehicles enter Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Six Israeli military vehicles carrying soldiers entered Rasm Sanad farm near Kodana in southern Quneitra countryside on Thursday, a North Press correspondent reported. The correspondent said Israeli forces se",
+          "link": "https://npasyria.com/en/141337/",
+          "publishedAt": "2026-09-10T16:32:52.000Z",
           "files": [
             "israel"
           ],
@@ -247,6 +241,20 @@
           "excerpt": "دانت كل من قطر والسعودية والأردن ومصر والكويت واليمن دخول رئيس وزراء الاحتلال الإسرائيلي بنيامين نتنياهو بصورة غير شرعية إلى منطقة جبل الشيخ في الأراضي السورية",
           "link": "https://www.syria.tv/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
           "publishedAt": "2026-09-10T14:20:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces move through Syria’s Daraa countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces move into Jamlah village in western Daraa on Thursday, stopping and searching passersby before withdrawing toward the Golan Heights. Local sources told North Press that an Israeli military forc",
+          "link": "https://npasyria.com/en/141331/",
+          "publishedAt": "2026-09-10T14:14:01.000Z",
           "files": [
             "israel"
           ],
@@ -305,19 +313,19 @@
       "independentSources": 2,
       "sources": [
         "سانا — قسم السياسة",
-        "Ynet News (English)"
+        "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 0,
-      "score": 4,
+      "usItems": 1,
+      "score": 8,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -344,16 +352,28 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills elite Hamas terrorist who took part in killing Nahal Brigade commander on Oct. 7",
-          "excerpt": "Ismail Ibrahim Darwish Kandil was killed Monday in Khan Younis; IDF says he recently worked to restore Hamas’ military capabilities and advance attacks on Israeli troops and civilians",
-          "link": "https://www.ynetnews.com/article/b1cvkhekgg",
-          "publishedAt": "2026-09-10T14:34:18.000Z",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "321 displaced families return from Syria’s Idlib camps",
+          "excerpt": "QAMISHLI, Syria (North Press) – A convoy carrying 321 displaced families leaves camps in Idlib on Thursday, heading to their villages and towns in Hama, Idlib, Homs, Damascus countryside, Aleppo and Damascus. The Ministry of Emergency and D",
+          "link": "https://npasyria.com/en/141334/",
+          "publishedAt": "2026-09-10T14:59:49.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump threatens Iran’s Pickaxe Mountain as Hormuz traffic drops",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Wednesday warned Iran against activity at Pickaxe Mountain, a fortified site near the damaged Natanz nuclear facility, as the U.S.-Iran war intensified and commercial traffic th",
+          "link": "https://npasyria.com/en/141328/",
+          "publishedAt": "2026-09-10T05:42:46.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         }
       ]
     },
@@ -369,7 +389,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -395,42 +415,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Ynet News (English)"
-      ],
-      "circles": [
-        "الملف الإسرائيلي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:38",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
-          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
-          "link": "https://www.ynetnews.com/article/s1aoocxkze",
-          "publishedAt": "2026-09-10T21:48:02.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -442,7 +426,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 02:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
