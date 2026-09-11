@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T11:56:09.896Z",
+    "generatedAt": "2026-09-11T12:35:25.685Z",
     "windowHours": 24,
-    "from": "2026-09-10T11:56:09.896Z",
-    "to": "2026-09-11T11:56:09.896Z"
+    "from": "2026-09-10T12:35:25.685Z",
+    "to": "2026-09-11T12:35:25.685Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 19,
-    "files": 5,
-    "withNew": 0,
+    "files": 6,
+    "withNew": 1,
     "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 608
+    "archiveCycles": 609
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,10 +30,47 @@
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 404"
+      "message": "الخادم ردّ برمز 403"
     }
   ],
   "files": [
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Middle East Eye"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "UK sanctions on Israeli settlements include those in Syria's Golan Heights",
+          "excerpt": "<article data-history-node-id=\"447533\" about=\"https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/uk-sancti",
+          "link": "https://www.middleeasteye.net/news/uk-sanctions-israeli-settlements-include-those-syrias-golan-heights",
+          "publishedAt": "2026-09-11T12:16:26.000Z",
+          "files": [
+            "sanctions",
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -50,13 +87,13 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 19,
+      "usItems": 0,
+      "score": 15,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -113,20 +150,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "US envoy says alliance with Turkey ‘has never been stronger’",
-          "excerpt": "US Ambassador to Turkey and Special Presidential Envoy for Syria and Iraq Tom Barrack said the alliance between Washington and Ankara “has never been stronger” after he met with Turkish President Recep Tayyip Erdoğan in Ankara on Wednesday.",
-          "link": "https://turkishminute.com/2026/09/10/us-envoy-says-alliance-with-turkey-has-never-been-stronger/",
-          "publishedAt": "2026-09-10T12:44:41.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -144,7 +167,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -267,7 +290,7 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -337,7 +360,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -389,7 +412,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 11:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
