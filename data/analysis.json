@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T14:51:29.508Z",
+    "generatedAt": "2026-09-11T15:06:46.350Z",
     "windowHours": 24,
-    "from": "2026-09-10T14:51:29.508Z",
-    "to": "2026-09-11T14:51:29.508Z"
+    "from": "2026-09-10T15:06:46.350Z",
+    "to": "2026-09-11T15:06:46.350Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "items": 20,
+    "files": 7,
+    "withNew": 0,
+    "stale": 7,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 616
+    "archiveCycles": 617
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,8 +23,7 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [
     {
@@ -34,90 +33,6 @@
     }
   ],
   "files": [
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "The National",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 15,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Germany charges Hamas gun plot suspects",
-          "excerpt": "Germany's federal prosecutor has filed charges against seven suspected members of Hamas who are accused of procuring weapons for attacks.The alleged targets were Israeli or Jewish sites in Germany or Austria, and the group plotted to carry ",
-          "link": "https://www.thenationalnews.com/news/europe/2026/09/11/germany-charges-hamas-gun-plot-suspects/",
-          "publishedAt": "2026-09-11T14:46:01.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "منظمة حظر الأسلحة الكيميائية: المملكة المتحدة تسهم بـ585 ألف يورو لدعم ‏بعثات سوريا",
-          "excerpt": "أعلنت منظمة حظر الأسلحة الكيميائية اليوم الجمعة، أن المملكة المتحدة قدمت ‏مساهمة بقيمة 585 ألف يورو إلى الصندوق الائتماني لبعثات سوريا، دعماً لعمل ‏المنظمة الفني في البلاد.‏",
-          "link": "https://sana.sy/politics/2578226/",
-          "publishedAt": "2026-09-11T10:54:25.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE art guide: Nine exhibitions to see, from Unseen Script at Rizk to Precarious Beings at Tashkeel",
-          "excerpt": "Galleries and institutions in Abu Dhabi, Dubai and Sharjah continue to present a range of exhibitions.Current highlights include A Board Game Adventure at Louvre Abu Dhabi, an exhibition that traces the journey of games including chess, Man",
-          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/11/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
-          "publishedAt": "2026-09-11T08:44:03.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تشارك في الدورة الـ 17 للجنة الإحصائية للإسكوا بسلطنة عُمان",
-          "excerpt": "شاركت هيئة التخطيط والإحصاء، ممثلة برئيسها أنس سليم، في أعمال ‌‏الدورة السابعة عشرة للجنة الإحصائية التابعة للجنة الأمم المتحدة الاقتصادية ‌‏والاجتماعية لغربي آسيا «الإسكوا»، التي اختتمت اليوم الخميس في ولاية ‌‏الجبل الأخضر بسلطنة عُمان.‏",
-          "link": "https://sana.sy/syria-and-the-world/2577992/",
-          "publishedAt": "2026-09-10T22:32:20.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "القائم بأعمال السفارة السورية بروما يبحث مع (UNDP‏)‏ دعم تعافي الطاقة ‏في ‏سوريا",
-          "excerpt": "بحث القائم بأعمال سفارة الجمهورية العربية السورية في روما السفير ‏حسين الصباغ، مع مدير مركز برنامج الأمم المتحدة الإنمائي (‏UNDP‏) ‏أغوستينو إنغوشيو، برامج الدعم المقدمة إلى سوريا.",
-          "link": "https://sana.sy/economy/syrian-economy/2577672/",
-          "publishedAt": "2026-09-10T17:44:57.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -134,7 +49,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -205,22 +120,24 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
-        "سانا — قسم السياسة"
+        "سانا — قسم السياسة",
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 10,
+      "score": 14,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -292,6 +209,104 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Hamas leader’s sister tells Israeli court she couldn’t praise Oct. 7 attack because she’s illiterate",
+          "excerpt": "Sabah Haniyeh, 57, is charged with incitement and identifying with Hamas over messages allegedly sent to her brother after the massacre; she says relatives used her phone, while prosecutors challenged her account in Be'er Sheba court",
+          "link": "https://www.ynetnews.com/article/s1fyz8ltfl",
+          "publishedAt": "2026-09-10T16:19:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "The National",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 6,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Germany charges Hamas gun plot suspects",
+          "excerpt": "Germany's federal prosecutor has filed charges against seven suspected members of Hamas who are accused of procuring weapons for attacks.The alleged targets were Israeli or Jewish sites in Germany or Austria, and the group plotted to carry ",
+          "link": "https://www.thenationalnews.com/news/europe/2026/09/11/germany-charges-hamas-gun-plot-suspects/",
+          "publishedAt": "2026-09-11T14:46:01.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "منظمة حظر الأسلحة الكيميائية: المملكة المتحدة تسهم بـ585 ألف يورو لدعم ‏بعثات سوريا",
+          "excerpt": "أعلنت منظمة حظر الأسلحة الكيميائية اليوم الجمعة، أن المملكة المتحدة قدمت ‏مساهمة بقيمة 585 ألف يورو إلى الصندوق الائتماني لبعثات سوريا، دعماً لعمل ‏المنظمة الفني في البلاد.‏",
+          "link": "https://sana.sy/politics/2578226/",
+          "publishedAt": "2026-09-11T10:54:25.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE art guide: Nine exhibitions to see, from Unseen Script at Rizk to Precarious Beings at Tashkeel",
+          "excerpt": "Galleries and institutions in Abu Dhabi, Dubai and Sharjah continue to present a range of exhibitions.Current highlights include A Board Game Adventure at Louvre Abu Dhabi, an exhibition that traces the journey of games including chess, Man",
+          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/11/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+          "publishedAt": "2026-09-11T08:44:03.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تشارك في الدورة الـ 17 للجنة الإحصائية للإسكوا بسلطنة عُمان",
+          "excerpt": "شاركت هيئة التخطيط والإحصاء، ممثلة برئيسها أنس سليم، في أعمال ‌‏الدورة السابعة عشرة للجنة الإحصائية التابعة للجنة الأمم المتحدة الاقتصادية ‌‏والاجتماعية لغربي آسيا «الإسكوا»، التي اختتمت اليوم الخميس في ولاية ‌‏الجبل الأخضر بسلطنة عُمان.‏",
+          "link": "https://sana.sy/syria-and-the-world/2577992/",
+          "publishedAt": "2026-09-10T22:32:20.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "القائم بأعمال السفارة السورية بروما يبحث مع (UNDP‏)‏ دعم تعافي الطاقة ‏في ‏سوريا",
+          "excerpt": "بحث القائم بأعمال سفارة الجمهورية العربية السورية في روما السفير ‏حسين الصباغ، مع مدير مركز برنامج الأمم المتحدة الإنمائي (‏UNDP‏) ‏أغوستينو إنغوشيو، برامج الدعم المقدمة إلى سوريا.",
+          "link": "https://sana.sy/economy/syrian-economy/2577672/",
+          "publishedAt": "2026-09-10T17:44:57.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -307,7 +322,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -344,7 +359,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -385,6 +400,42 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Ynet News (English)"
+      ],
+      "circles": [
+        "الملف الإسرائيلي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:23",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
+          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
+          "link": "https://www.ynetnews.com/article/s1aoocxkze",
+          "publishedAt": "2026-09-10T21:48:02.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -396,7 +447,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 14:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
