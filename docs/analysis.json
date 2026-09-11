@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T17:57:41.956Z",
+    "generatedAt": "2026-09-11T18:32:32.470Z",
     "windowHours": 24,
-    "from": "2026-09-10T17:57:41.956Z",
-    "to": "2026-09-11T17:57:41.956Z"
+    "from": "2026-09-10T18:32:32.470Z",
+    "to": "2026-09-11T18:32:32.470Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
-    "files": 6,
-    "withNew": 1,
+    "items": 19,
+    "files": 5,
+    "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 626
+    "archiveCycles": 627
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [
     {
@@ -47,13 +48,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:57",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 23,
+      "score": 14,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -66,7 +67,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -199,7 +200,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -263,7 +264,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -302,7 +303,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -372,7 +373,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -405,42 +406,6 @@
           "files": [
             "sdf",
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Ynet News (English)"
-      ],
-      "circles": [
-        "الملف الإسرائيلي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
-          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
-          "link": "https://www.ynetnews.com/article/s1aoocxkze",
-          "publishedAt": "2026-09-10T21:48:02.000Z",
-          "files": [
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
