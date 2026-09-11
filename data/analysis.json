@@ -1,27 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T04:07:25.271Z",
+    "generatedAt": "2026-09-11T04:23:44.885Z",
     "windowHours": 24,
-    "from": "2026-09-10T04:07:25.271Z",
-    "to": "2026-09-11T04:07:25.271Z"
+    "from": "2026-09-10T04:23:44.885Z",
+    "to": "2026-09-11T04:23:44.885Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 27,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 587
+    "archiveCycles": 588
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية"
@@ -33,26 +32,42 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "Middle East Eye",
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
         "Ynet News (English)"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 03:51",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 35,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli forces abduct Syrian man during incursion into Al-Hamidiya town",
+          "excerpt": "<article data-history-node-id=\"447511\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-abduct-syrian-man-during-incursion-al-hamidiya-town\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-abduct-syrian-man-during-incursion-al-hamidiya-town",
+          "publishedAt": "2026-09-11T04:12:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -226,7 +241,7 @@
         "المصادر الرسمية السورية",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 03:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -336,7 +351,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 03:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -418,7 +433,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 03:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -470,7 +485,7 @@
       "circles": [
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 03:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -506,7 +521,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 03:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 04:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
