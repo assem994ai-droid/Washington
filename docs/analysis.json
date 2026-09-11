@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T17:39:58.909Z",
+    "generatedAt": "2026-09-11T17:57:41.956Z",
     "windowHours": 24,
-    "from": "2026-09-10T17:39:58.909Z",
-    "to": "2026-09-11T17:39:58.909Z"
+    "from": "2026-09-10T17:57:41.956Z",
+    "to": "2026-09-11T17:57:41.956Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 5,
+    "items": 20,
+    "files": 6,
     "withNew": 1,
-    "stale": 4,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 625
+    "archiveCycles": 626
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,8 +23,7 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [
     {
@@ -54,8 +53,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 23,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "فرنسا تدعو لانسحاب إسرائيل من سوريا وتحث على توقيع اتفاق أمني",
+          "excerpt": "فرنسا تدعو إسرائيل للانسحاب من الأراضي السورية",
+          "link": "https://www.syria.tv/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%AF%D8%B9%D9%88-%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%AD%D8%AB-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A3%D9%85%D9%86%D9%8A",
+          "publishedAt": "2026-09-11T17:54:13.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -67,7 +80,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -186,7 +199,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -250,7 +263,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -289,7 +302,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -359,7 +372,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -392,6 +405,42 @@
           "files": [
             "sdf",
             "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Ynet News (English)"
+      ],
+      "circles": [
+        "الملف الإسرائيلي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 17:28",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Escalation with Iran: On the way to tense high holidays after destruction of Hezbollah's key ridge",
+          "excerpt": "Following the strike on the Ali Taher Ridge, Israel raises readiness for possible Iranian retaliation and other multi-front threats during the High Holidays, from the target bank prepared for Iran, through preparations for Hamas attacks",
+          "link": "https://www.ynetnews.com/article/s1aoocxkze",
+          "publishedAt": "2026-09-10T21:48:02.000Z",
+          "files": [
+            "lebanon"
           ],
           "seenBefore": true,
           "us": false
