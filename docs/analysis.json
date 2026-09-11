@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T16:07:39.836Z",
+    "generatedAt": "2026-09-11T16:23:48.781Z",
     "windowHours": 24,
-    "from": "2026-09-10T16:07:39.836Z",
-    "to": "2026-09-11T16:07:39.836Z"
+    "from": "2026-09-10T16:23:48.781Z",
+    "to": "2026-09-11T16:23:48.781Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 619
+    "archiveCycles": 620
   },
   "emptyCircles": [
     "الكونغرس",
@@ -35,6 +35,139 @@
   ],
   "files": [
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
+      "sources": [
+        "Turkish Minute",
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الملف التركي",
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:07",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 15,
+      "items": [
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Turkey welcomes IAEA decision closing Syria nuclear file",
+          "excerpt": "Turkey on Thursday welcomed a unanimous decision by the International Atomic Energy Agency (IAEA) to close Syria’s nuclear file after nearly 20 years. “We welcome the resolution adopted by consensus to close Syria’s nuclear file,” Turkey’s ",
+          "link": "https://turkishminute.com/2026/09/11/turkey-welcomes-iaea-decision-closing-syria-nuclear-file/",
+          "publishedAt": "2026-09-11T13:45:17.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الجمعة 11-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الجمعة (11-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-11-09-2026",
+          "publishedAt": "2026-09-11T07:28:54.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
+          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
+          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-10T18:37:40.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "تركيا ترحب برفع الوكالة الذرية بند &#8220;عدم الامتثال&#8221; عن سوريا",
+          "excerpt": "رحبت تركيا اليوم الخميس بقرار مجلس محافظي الوكالة الدولية للطاقة الذرية إنهاء النظر في بند ‏تنفيذ اتفاق الضمانات في الجمهورية العربية السورية.",
+          "link": "https://sana.sy/politics/2577650/",
+          "publishedAt": "2026-09-10T18:14:00.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 13,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مقتل عنصر سابق في \"قسد\" يثير توترات ومحافظ الحسكة يشدد على الاحتكام إلى القانون",
+          "excerpt": "أدان محافظ الحسكة نور الدين أحمد مقتل سامي حسو، المعروف بلقب \"سيبان\"، واصفاً الحادثة بأنها \"جريمة نكراء\" تتنافى مع القيم الإنسانية والأخلاقية والشرعية، وتشكل اع",
+          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D9%86%D8%B5%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D9%82%D8%B3%D8%AF-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D9%88%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9-%D9%8A%D8%B4%D8%AF%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%83%D8%A7%D9%85-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86",
+          "publishedAt": "2026-09-11T16:19:36.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "عن دمج قسد وتقويض الاستراتيجية الإسرائيلية في سوريا الجديدة",
+          "excerpt": "لم أستغرب ما نشرته صحيفة «هآرتس» الأسبوع الماضي، وما نشرته وسائل الإعلام العبرية في الفترة الأخيرة، عن الانزعاج والقلق من عملية دمج «قسد» في سوريا الجديدة ومؤسس",
+          "link": "https://www.syria.tv/%D8%B9%D9%86-%D8%AF%D9%85%D8%AC-%D9%82%D8%B3%D8%AF-%D9%88%D8%AA%D9%82%D9%88%D9%8A%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+          "publishedAt": "2026-09-11T03:42:24.000Z",
+          "files": [
+            "sdf",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -48,13 +181,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 11,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -67,7 +200,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -144,88 +277,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
-      "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:50",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 15,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Turkey welcomes IAEA decision closing Syria nuclear file",
-          "excerpt": "Turkey on Thursday welcomed a unanimous decision by the International Atomic Energy Agency (IAEA) to close Syria’s nuclear file after nearly 20 years. “We welcome the resolution adopted by consensus to close Syria’s nuclear file,” Turkey’s ",
-          "link": "https://turkishminute.com/2026/09/11/turkey-welcomes-iaea-decision-closing-syria-nuclear-file/",
-          "publishedAt": "2026-09-11T13:45:17.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الجمعة 11-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الجمعة (11-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-11-09-2026",
-          "publishedAt": "2026-09-11T07:28:54.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تركيا وأميركا ترحبان بإنهاء حالة عدم الامتثال النووي لسوريا",
-          "excerpt": "تركيا وأميركا ترحيب بإغلاق ملف سوريا نووي",
-          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%AA%D8%B1%D8%AD%D8%A8%D8%A7%D9%86-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-10T18:37:40.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا ترحب برفع الوكالة الذرية بند &#8220;عدم الامتثال&#8221; عن سوريا",
-          "excerpt": "رحبت تركيا اليوم الخميس بقرار مجلس محافظي الوكالة الدولية للطاقة الذرية إنهاء النظر في بند ‏تنفيذ اتفاق الضمانات في الجمهورية العربية السورية.",
-          "link": "https://sana.sy/politics/2577650/",
-          "publishedAt": "2026-09-10T18:14:00.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -237,7 +288,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -276,7 +327,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -335,58 +386,6 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:50",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 4,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عن دمج قسد وتقويض الاستراتيجية الإسرائيلية في سوريا الجديدة",
-          "excerpt": "لم أستغرب ما نشرته صحيفة «هآرتس» الأسبوع الماضي، وما نشرته وسائل الإعلام العبرية في الفترة الأخيرة، عن الانزعاج والقلق من عملية دمج «قسد» في سوريا الجديدة ومؤسس",
-          "link": "https://www.syria.tv/%D8%B9%D9%86-%D8%AF%D9%85%D8%AC-%D9%82%D8%B3%D8%AF-%D9%88%D8%AA%D9%82%D9%88%D9%8A%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-          "publishedAt": "2026-09-11T03:42:24.000Z",
-          "files": [
-            "sdf",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وزارة الدفاع التركية: تسليم أسلحة \"قسد\" إلى الجيش السوري \"مطلب طبيعي\" للدمج",
-          "excerpt": "وزارة الدفاع التركية تقول إن تسليم قسد الأسلحة التي بحوزتها إلى الجيش السوري تعد مطلباً طبيعياً ضمن عملية الدمج",
-          "link": "https://www.syria.tv/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%82%D8%B3%D8%AF-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D8%B7%D9%84%D8%A8-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%84%D9%84%D8%AF%D9%85%D8%AC",
-          "publishedAt": "2026-09-10T16:21:55.000Z",
-          "files": [
-            "sdf",
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -398,7 +397,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 15:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 16:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
