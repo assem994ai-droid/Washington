@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-12T04:28:43.375Z",
+    "generatedAt": "2026-09-12T05:54:09.301Z",
     "windowHours": 24,
-    "from": "2026-09-11T04:28:43.375Z",
-    "to": "2026-09-12T04:28:43.375Z"
+    "from": "2026-09-11T05:54:09.301Z",
+    "to": "2026-09-12T05:54:09.301Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 17,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 642
+    "archiveCycles": 643
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,7 +30,7 @@
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 404"
+      "message": "الخادم ردّ برمز 403"
     }
   ],
   "files": [
@@ -51,7 +51,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 03:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 04:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -176,38 +176,75 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 3,
       "sources": [
-        "تلفزيون سوريا"
+        "Al-Monitor",
+        "The National",
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 15,
+      "usItems": 0,
+      "score": 17,
       "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "محددات تحويل رفع سوريا من قائمة الدول الراعية للإرهاب إلى فرصة",
-          "excerpt": "بعد رفع سوريا من القائمة الأميركية للدول الراعية للإرهاب، وكذلك رفع العقوبات الأوروبية، تتفكك منظومة قانونية لتسهيل تعامل المؤسسات والشركات الغربية مع سوريا..",
-          "link": "https://www.syria.tv/%D9%85%D8%AD%D8%AF%D8%AF%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%B1%D9%81%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%A5%D9%84%D9%89-%D9%81%D8%B1%D8%B5%D8%A9",
-          "publishedAt": "2026-09-12T04:11:25.000Z",
-          "files": [
-            "sanctions"
-          ],
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian private airport plans spark outcry over mass graves, land rights",
+          "excerpt": "<p>By Feras Dalatey</p><p>DAMASCUS, Sept 12 (Reuters) - Syrian government plans to turn a former military airport in Damascus into a hub for private jets are raising alarm among rights groups and residents who say redevelopment could distur",
+          "link": "https://www.al-monitor.com/originals/2026/09/syrian-private-airport-plans-spark-outcry-over-mass-graves-land-rights",
+          "publishedAt": "2026-09-12T05:46:29.000Z",
+          "files": [],
           "seenBefore": false,
-          "us": true
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Germany charges Hamas gun plot suspects",
+          "excerpt": "Germany's federal prosecutor has filed charges against seven suspected members of Hamas who are accused of procuring weapons for attacks.The alleged targets were Israeli or Jewish sites in Germany or Austria, and the group plotted to carry ",
+          "link": "https://www.thenationalnews.com/news/europe/2026/09/11/germany-charges-hamas-gun-plot-suspects/",
+          "publishedAt": "2026-09-11T14:46:01.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "منظمة حظر الأسلحة الكيميائية: المملكة المتحدة تسهم بـ585 ألف يورو لدعم ‏بعثات سوريا",
+          "excerpt": "أعلنت منظمة حظر الأسلحة الكيميائية اليوم الجمعة، أن المملكة المتحدة قدمت ‏مساهمة بقيمة 585 ألف يورو إلى الصندوق الائتماني لبعثات سوريا، دعماً لعمل ‏المنظمة الفني في البلاد.‏",
+          "link": "https://sana.sy/politics/2578226/",
+          "publishedAt": "2026-09-11T10:54:25.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE art guide: Nine exhibitions to see, from Unseen Script at Rizk to Precarious Beings at Tashkeel",
+          "excerpt": "Galleries and institutions in Abu Dhabi, Dubai and Sharjah continue to present a range of exhibitions.Current highlights include A Board Game Adventure at Louvre Abu Dhabi, an exhibition that traces the journey of games including chess, Man",
+          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/11/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+          "publishedAt": "2026-09-11T08:44:03.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -225,7 +262,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 03:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 04:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -278,62 +315,38 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "The National",
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 03:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 04:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 0,
-      "score": 4,
+      "usItems": 1,
+      "score": 6,
       "items": [
         {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Germany charges Hamas gun plot suspects",
-          "excerpt": "Germany's federal prosecutor has filed charges against seven suspected members of Hamas who are accused of procuring weapons for attacks.The alleged targets were Israeli or Jewish sites in Germany or Austria, and the group plotted to carry ",
-          "link": "https://www.thenationalnews.com/news/europe/2026/09/11/germany-charges-hamas-gun-plot-suspects/",
-          "publishedAt": "2026-09-11T14:46:01.000Z",
-          "files": [],
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "محددات تحويل رفع سوريا من قائمة الدول الراعية للإرهاب إلى فرصة",
+          "excerpt": "بعد رفع سوريا من القائمة الأميركية للدول الراعية للإرهاب، وكذلك رفع العقوبات الأوروبية، تتفكك منظومة قانونية لتسهيل تعامل المؤسسات والشركات الغربية مع سوريا..",
+          "link": "https://www.syria.tv/%D9%85%D8%AD%D8%AF%D8%AF%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%B1%D9%81%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%A5%D9%84%D9%89-%D9%81%D8%B1%D8%B5%D8%A9",
+          "publishedAt": "2026-09-12T04:11:25.000Z",
+          "files": [
+            "sanctions"
+          ],
           "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "منظمة حظر الأسلحة الكيميائية: المملكة المتحدة تسهم بـ585 ألف يورو لدعم ‏بعثات سوريا",
-          "excerpt": "أعلنت منظمة حظر الأسلحة الكيميائية اليوم الجمعة، أن المملكة المتحدة قدمت ‏مساهمة بقيمة 585 ألف يورو إلى الصندوق الائتماني لبعثات سوريا، دعماً لعمل ‏المنظمة الفني في البلاد.‏",
-          "link": "https://sana.sy/politics/2578226/",
-          "publishedAt": "2026-09-11T10:54:25.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE art guide: Nine exhibitions to see, from Unseen Script at Rizk to Precarious Beings at Tashkeel",
-          "excerpt": "Galleries and institutions in Abu Dhabi, Dubai and Sharjah continue to present a range of exhibitions.Current highlights include A Board Game Adventure at Louvre Abu Dhabi, an exhibition that traces the journey of games including chess, Man",
-          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/11/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
-          "publishedAt": "2026-09-11T08:44:03.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
+          "us": true
         }
       ]
     },
@@ -349,7 +362,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 03:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 04:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
