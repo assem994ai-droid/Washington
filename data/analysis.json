@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-11T22:36:31.340Z",
+    "generatedAt": "2026-09-12T03:38:14.870Z",
     "windowHours": 24,
-    "from": "2026-09-10T22:36:31.340Z",
-    "to": "2026-09-11T22:36:31.340Z"
+    "from": "2026-09-11T03:38:14.870Z",
+    "to": "2026-09-12T03:38:14.870Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 0,
     "americanItems": 0,
-    "archiveCycles": 639
+    "archiveCycles": 640
   },
   "emptyCircles": [
     "الكونغرس",
@@ -70,7 +70,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -93,13 +93,13 @@
           "circle": "الإعلام المتخصص",
           "title": "Syria condemns Netanyahu visit to Israeli troops as breach of sovereignty",
           "excerpt": "Damascus's UN ambassador on Friday condemned Israeli Prime Minister Benjamin Netanyahu’s visit to troops stationed in southern Syria, calling it a breach of sovereignty and international law.Mr Netanyahu entered Syrian territory on Wednesda",
-          "link": "https://www.thenationalnews.com/news/us/2026/09/11/syria-condemns-netanyahu-visit-to-israeli-troops-as-breach-of-sovereignty/",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/12/syria-condemns-netanyahu-visit-to-israeli-troops-as-breach-of-sovereignty/",
           "publishedAt": "2026-09-11T19:05:51.000Z",
           "files": [
             "israel",
             "diplomacy"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
@@ -189,7 +189,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 22:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -253,7 +253,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 22:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -306,7 +306,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 22:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-11 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
