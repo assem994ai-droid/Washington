@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-12T11:30:05.738Z",
+    "generatedAt": "2026-09-12T12:26:18.914Z",
     "windowHours": 24,
-    "from": "2026-09-11T11:30:05.738Z",
-    "to": "2026-09-12T11:30:05.738Z"
+    "from": "2026-09-11T12:26:18.914Z",
+    "to": "2026-09-12T12:26:18.914Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 17,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 650
+    "archiveCycles": 651
   },
   "emptyCircles": [
     "الكونغرس",
@@ -35,6 +35,86 @@
   ],
   "files": [
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Turkish Minute",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الملف التركي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 18,
+      "items": [
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Journalist jailed after Syria transfers him to Turkey following 8 months in custody",
+          "excerpt": "A Turkish journalist who spent nearly eight months in Syrian custody after being detained while covering fighting in Raqqa was jailed pending trial after Syrian authorities transferred him to Turkey. Ahmet Polad, the pen name of Turkish cit",
+          "link": "https://turkishminute.com/2026/09/12/journalist-jailed-after-syria-transfers-him-to-turkey-following-8-months-in-custody/",
+          "publishedAt": "2026-09-12T12:21:26.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 12-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (12-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-12-09-2026",
+          "publishedAt": "2026-09-12T07:12:23.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "كانوا تحت رعايتها.. تركيا تعيد 7 أطفال سوريين إلى دمشق للمّ شملهم بذويهم",
+          "excerpt": "أعادت وزيرة الأسرة التركية ماهينور أوزدمير غوكطاش، الجمعة، سبعة أطفال سوريين كانوا تحت الحماية والرعاية في تركيا إلى الحكومة السورية",
+          "link": "https://www.syria.tv/%D9%83%D8%A7%D9%86%D9%88%D8%A7-%D8%AA%D8%AD%D8%AA-%D8%B1%D8%B9%D8%A7%D9%8A%D8%AA%D9%87%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B9%D9%8A%D8%AF-7-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D9%84%D9%84%D9%85%D9%91-%D8%B4%D9%85%D9%84%D9%87%D9%85-%D8%A8%D8%B0%D9%88%D9%8A%D9%87%D9%85",
+          "publishedAt": "2026-09-11T21:09:01.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Turkey welcomes IAEA decision closing Syria nuclear file",
+          "excerpt": "Turkey on Thursday welcomed a unanimous decision by the International Atomic Energy Agency (IAEA) to close Syria’s nuclear file after nearly 20 years. “We welcome the resolution adopted by consensus to close Syria’s nuclear file,” Turkey’s ",
+          "link": "https://turkishminute.com/2026/09/11/turkey-welcomes-iaea-decision-closing-syria-nuclear-file/",
+          "publishedAt": "2026-09-11T13:45:17.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -50,7 +130,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -175,72 +255,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "Turkish Minute"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الملف التركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:19",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 12-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (12-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-12-09-2026",
-          "publishedAt": "2026-09-12T07:12:23.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "كانوا تحت رعايتها.. تركيا تعيد 7 أطفال سوريين إلى دمشق للمّ شملهم بذويهم",
-          "excerpt": "أعادت وزيرة الأسرة التركية ماهينور أوزدمير غوكطاش، الجمعة، سبعة أطفال سوريين كانوا تحت الحماية والرعاية في تركيا إلى الحكومة السورية",
-          "link": "https://www.syria.tv/%D9%83%D8%A7%D9%86%D9%88%D8%A7-%D8%AA%D8%AD%D8%AA-%D8%B1%D8%B9%D8%A7%D9%8A%D8%AA%D9%87%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B9%D9%8A%D8%AF-7-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D9%84%D9%84%D9%85%D9%91-%D8%B4%D9%85%D9%84%D9%87%D9%85-%D8%A8%D8%B0%D9%88%D9%8A%D9%87%D9%85",
-          "publishedAt": "2026-09-11T21:09:01.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Turkey welcomes IAEA decision closing Syria nuclear file",
-          "excerpt": "Turkey on Thursday welcomed a unanimous decision by the International Atomic Energy Agency (IAEA) to close Syria’s nuclear file after nearly 20 years. “We welcome the resolution adopted by consensus to close Syria’s nuclear file,” Turkey’s ",
-          "link": "https://turkishminute.com/2026/09/11/turkey-welcomes-iaea-decision-closing-syria-nuclear-file/",
-          "publishedAt": "2026-09-11T13:45:17.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -252,7 +266,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -289,7 +303,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -335,7 +349,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -371,7 +385,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -386,7 +400,7 @@
           "title": "الشيباني: سوريا تؤكد أمام مجلس الأمن رفضها انتهاك سيادتها والتمسك بوحدة ‏أراضيها",
           "excerpt": "قال وزير الخارجية والمغتربين أسعد حسن الشيباني في منشور عبر منصة \" ‏X‏ \" ‏اليوم السبت‏: إنه بحضور وتأييد أكثر من ‏أربعين دولة من مختلف أنحاء العالم، ‏أكدت سوريا بصوت واضح ومسؤول أمام ‏مجلس الأمن الدولي رفضها لانتهاك ‏سيادتها",
           "link": "https://sana.sy/politics/2578829/",
-          "publishedAt": "2026-09-12T11:10:43.000Z",
+          "publishedAt": "2026-09-12T11:59:53.000Z",
           "files": [
             "diplomacy"
           ],
