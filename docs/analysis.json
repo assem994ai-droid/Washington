@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-12T19:17:27.565Z",
+    "generatedAt": "2026-09-12T21:20:40.803Z",
     "windowHours": 24,
-    "from": "2026-09-11T19:17:27.565Z",
-    "to": "2026-09-12T19:17:27.565Z"
+    "from": "2026-09-11T21:20:40.803Z",
+    "to": "2026-09-12T21:20:40.803Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 11,
+    "items": 10,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 1,
     "americanItems": 1,
-    "archiveCycles": 660
+    "archiveCycles": 661
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,72 +34,6 @@
   ],
   "files": [
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 17:57",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Journalist jailed after Syria transfers him to Turkey following 8 months in custody",
-          "excerpt": "A Turkish journalist who spent nearly eight months in Syrian custody after being detained while covering fighting in Raqqa was jailed pending trial after Syrian authorities transferred him to Turkey. Ahmet Polad, the pen name of Turkish cit",
-          "link": "https://turkishminute.com/2026/09/12/journalist-jailed-after-syria-transfers-him-to-turkey-following-8-months-in-custody/",
-          "publishedAt": "2026-09-12T12:21:26.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 12-09-2026",
-          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (12-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-12-09-2026",
-          "publishedAt": "2026-09-12T07:12:23.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "كانوا تحت رعايتها.. تركيا تعيد 7 أطفال سوريين إلى دمشق للمّ شملهم بذويهم",
-          "excerpt": "أعادت وزيرة الأسرة التركية ماهينور أوزدمير غوكطاش، الجمعة، سبعة أطفال سوريين كانوا تحت الحماية والرعاية في تركيا إلى الحكومة السورية",
-          "link": "https://www.syria.tv/%D9%83%D8%A7%D9%86%D9%88%D8%A7-%D8%AA%D8%AD%D8%AA-%D8%B1%D8%B9%D8%A7%D9%8A%D8%AA%D9%87%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B9%D9%8A%D8%AF-7-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D9%84%D9%84%D9%85%D9%91-%D8%B4%D9%85%D9%84%D9%87%D9%85-%D8%A8%D8%B0%D9%88%D9%8A%D9%87%D9%85",
-          "publishedAt": "2026-09-11T21:09:01.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -115,7 +49,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 19:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -162,6 +96,58 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Turkish Minute",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الملف التركي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 19:17",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 7,
+      "items": [
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Journalist jailed after Syria transfers him to Turkey following 8 months in custody",
+          "excerpt": "A Turkish journalist who spent nearly eight months in Syrian custody after being detained while covering fighting in Raqqa was jailed pending trial after Syrian authorities transferred him to Turkey. Ahmet Polad, the pen name of Turkish cit",
+          "link": "https://turkishminute.com/2026/09/12/journalist-jailed-after-syria-transfers-him-to-turkey-following-8-months-in-custody/",
+          "publishedAt": "2026-09-12T12:21:26.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 12-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (12-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-12-09-2026",
+          "publishedAt": "2026-09-12T07:12:23.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -173,7 +159,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 19:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -209,7 +195,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 19:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -261,7 +247,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 17:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 19:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
