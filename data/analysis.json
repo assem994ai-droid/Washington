@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-12T22:20:05.922Z",
+    "generatedAt": "2026-09-12T22:30:36.888Z",
     "windowHours": 24,
-    "from": "2026-09-11T22:20:05.922Z",
-    "to": "2026-09-12T22:20:05.922Z"
+    "from": "2026-09-11T22:30:36.888Z",
+    "to": "2026-09-12T22:30:36.888Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 4,
-    "files": 3,
+    "items": 10,
+    "files": 5,
     "withNew": 0,
-    "stale": 3,
+    "stale": 5,
     "contested": 0,
-    "echoed": 0,
-    "americanItems": 0,
-    "archiveCycles": 662
+    "echoed": 1,
+    "americanItems": 1,
+    "archiveCycles": 663
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,19 +23,13 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي",
-    "الإعلام السوري المستقل"
+    "الملف الإسرائيلي"
   ],
   "errors": [
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
       "message": "الخادم ردّ برمز 404"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "message": "الخادم ردّ برمز 403"
     }
   ],
   "files": [
@@ -44,23 +38,37 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 21:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": 7,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سطو مسلح واقتحام منزل.. السجن لـ4 شبان سوريين في النمسا",
+          "excerpt": "أصدرت محكمة نمساوية أحكاماً بالسجن على 4 شبان سوريين، بعد إدانتهم باقتحام منزل عائلة في بلدة غروسإيبرسدورف بولاية النمسا السفلى، والاعتداء على..",
+          "link": "https://www.syria.tv/%D8%B3%D8%B7%D9%88-%D9%85%D8%B3%D9%84%D8%AD-%D9%88%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%85%D9%86%D8%B2%D9%84-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D9%84%D9%804-%D8%B4%D8%A8%D8%A7%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%85%D8%B3%D8%A7",
+          "publishedAt": "2026-09-12T17:39:48.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -90,22 +98,24 @@
     {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "Turkish Minute"
+        "Turkish Minute",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الملف التركي"
+        "الملف التركي",
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 21:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": 7,
       "items": [
         {
           "source": "Turkish Minute",
@@ -120,20 +130,70 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم السبت 12-09-2026",
+          "excerpt": "استقر سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم السبت (12-09-2026)، في حين انخفضت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-12-09-2026",
+          "publishedAt": "2026-09-12T07:12:23.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 21:20",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "محددات تحويل رفع سوريا من قائمة الدول الراعية للإرهاب إلى فرصة",
+          "excerpt": "بعد رفع سوريا من القائمة الأميركية للدول الراعية للإرهاب، وكذلك رفع العقوبات الأوروبية، تتفكك منظومة قانونية لتسهيل تعامل المؤسسات والشركات الغربية مع سوريا..",
+          "link": "https://www.syria.tv/%D9%85%D8%AD%D8%AF%D8%AF%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%B1%D9%81%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%A5%D9%84%D9%89-%D9%81%D8%B1%D8%B5%D8%A9",
+          "publishedAt": "2026-09-12T04:11:25.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
       ],
       "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 21:20",
       "isFollowUp": true,
@@ -141,8 +201,74 @@
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": -1,
+      "score": 4,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل إسرائيلي في كروم مزرعة بيت جن بريف دمشق الغربي وانسحاب لاحق",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، السبت، في كروم مزرعة بيت جن بريف دمشق الغربي، بقوة عسكرية ضمت دبابتين وجرافة وأكثر من 10 عربات عسكرية، وفقاً لمراسل تلفزيون سوري",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D9%83%D8%B1%D9%88%D9%85-%D9%85%D8%B2%D8%B1%D8%B9%D8%A9-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A-%D9%88%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%84%D8%A7%D8%AD%D9%82",
+          "publishedAt": "2026-09-12T10:58:11.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يقصف أراضي زراعية غربي بيت جن ويتوغل بريف القنيطرة",
+          "excerpt": "جددت قوات الاحتلال الإسرائيلي، السبت، استهدافها بالمدفعية للأراضي الزراعية في محيط بلدة بيت جن بريف دمشق الغربي.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-12T08:37:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:20",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": true,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني: سوريا ترفض انتهاك سيادتها وتؤكد التزامها بوحدة أراضيها",
+          "excerpt": "قال وزير الخارجية والمغتربين السوري أسعد حسن الشيباني إن سوريا تحدثت بوضوح ومسؤولية أمام مجلس الأمن التابع للأمم المتحدة، بدعم من أكثر من أربعين..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B1%D9%81%D8%B6-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%B3%D9%8A%D8%A7%D8%AF%D8%AA%D9%87%D8%A7-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%87%D8%A7-%D8%A8%D9%88%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
+          "publishedAt": "2026-09-12T17:14:45.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
