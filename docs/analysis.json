@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-12T07:30:56.843Z",
+    "generatedAt": "2026-09-12T08:47:46.555Z",
     "windowHours": 24,
-    "from": "2026-09-11T07:30:56.843Z",
-    "to": "2026-09-12T07:30:56.843Z"
+    "from": "2026-09-11T08:47:46.555Z",
+    "to": "2026-09-12T08:47:46.555Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 16,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 646
+    "archiveCycles": 647
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,7 +30,7 @@
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 404"
+      "message": "الخادم ردّ برمز 403"
     }
   ],
   "files": [
@@ -50,14 +50,28 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:20",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 15,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يقصف أراضي زراعية غربي بيت جن ويتوغل بريف القنيطرة",
+          "excerpt": "جددت قوات الاحتلال الإسرائيلي، السبت، استهدافها بالمدفعية للأراضي الزراعية في محيط بلدة بيت جن بريف دمشق الغربي.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-12T08:37:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -174,7 +188,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -241,13 +255,13 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 7,
       "items": [
         {
           "source": "Al-Monitor",
@@ -284,18 +298,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE art guide: Nine exhibitions to see, from Unseen Script at Rizk to Precarious Beings at Tashkeel",
-          "excerpt": "Galleries and institutions in Abu Dhabi, Dubai and Sharjah continue to present a range of exhibitions.Current highlights include A Board Game Adventure at Louvre Abu Dhabi, an exhibition that traces the journey of games including chess, Man",
-          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/11/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
-          "publishedAt": "2026-09-11T08:44:03.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -311,7 +313,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -347,7 +349,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 07:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
