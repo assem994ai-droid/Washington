@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-13T17:45:03.960Z",
+    "generatedAt": "2026-09-13T18:39:21.662Z",
     "windowHours": 24,
-    "from": "2026-09-12T17:45:03.960Z",
-    "to": "2026-09-13T17:45:03.960Z"
+    "from": "2026-09-12T18:39:21.662Z",
+    "to": "2026-09-13T18:39:21.662Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 9,
+    "items": 10,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 0,
-    "archiveCycles": 681
+    "archiveCycles": 682
   },
   "emptyCircles": [
     "الكونغرس",
@@ -42,21 +42,36 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:20",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 19,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الرئيس الشرع يستقبل فيدان بدمشق لبحث تعزيز الشراكة السورية التركية",
+          "excerpt": "استقبل الرئيس السوري أحمد الشرع، الأحد، في العاصمة دمشق، وزير الخارجية التركي هاكان فيدان، بحضور وزير الخارجية والمغتربين السوري..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D8%AF%D9%85%D8%B4%D9%82-%D9%84%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
+          "publishedAt": "2026-09-13T18:36:07.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -131,7 +146,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -181,7 +196,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -217,7 +232,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -230,7 +245,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Two killed in Gaza City strike, IDF says it targeted car with Hamas terrorists",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4061,w_6240/737575' alt='Residents attempt to extinguish a fire following an Israeli airstrike that hit a vehicle in Gaza City, Aug",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/737575' alt='Residents attempt to extinguish a fire following an Israeli airstrike that hit a vehicle in Gaza City, Augus",
           "link": "https://www.jpost.com/middle-east/article-908449",
           "publishedAt": "2026-09-13T12:15:41.000Z",
           "files": [],
@@ -251,7 +266,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
