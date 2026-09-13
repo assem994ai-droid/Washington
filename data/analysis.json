@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-13T16:22:02.115Z",
+    "generatedAt": "2026-09-13T17:20:57.058Z",
     "windowHours": 24,
-    "from": "2026-09-12T16:22:02.115Z",
-    "to": "2026-09-13T16:22:02.115Z"
+    "from": "2026-09-12T17:20:57.058Z",
+    "to": "2026-09-13T17:20:57.058Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
-    "files": 6,
-    "withNew": 1,
+    "items": 11,
+    "files": 5,
+    "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 0,
-    "archiveCycles": 679
+    "archiveCycles": 680
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 16:22",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 9,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -69,7 +69,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -133,7 +133,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 15:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 16:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -191,7 +191,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 15:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 16:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -241,7 +241,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 15:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 16:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -277,7 +277,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 15:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 16:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -295,42 +295,6 @@
           "publishedAt": "2026-09-13T11:55:17.000Z",
           "files": [
             "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 15:20",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني: سوريا ترفض انتهاك سيادتها وتؤكد التزامها بوحدة أراضيها",
-          "excerpt": "قال وزير الخارجية والمغتربين السوري أسعد حسن الشيباني إن سوريا تحدثت بوضوح ومسؤولية أمام مجلس الأمن التابع للأمم المتحدة، بدعم من أكثر من أربعين..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B1%D9%81%D8%B6-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%B3%D9%8A%D8%A7%D8%AF%D8%AA%D9%87%D8%A7-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%87%D8%A7-%D8%A8%D9%88%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
-          "publishedAt": "2026-09-12T17:14:45.000Z",
-          "files": [
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
