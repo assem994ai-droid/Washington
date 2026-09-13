@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-13T18:39:21.662Z",
+    "generatedAt": "2026-09-13T18:51:07.773Z",
     "windowHours": 24,
-    "from": "2026-09-12T18:39:21.662Z",
-    "to": "2026-09-13T18:39:21.662Z"
+    "from": "2026-09-12T18:51:07.773Z",
+    "to": "2026-09-13T18:51:07.773Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
+    "items": 11,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 0,
-    "archiveCycles": 682
+    "archiveCycles": 683
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,7 +22,6 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام المتخصص",
-    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -35,6 +34,54 @@
     }
   ],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Al Jazeera English",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Syrian child killed after roadside object explodes near Damascus",
+          "excerpt": "A child has been killed after an explosive object detonated when he touched it near Damascus.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
+          "publishedAt": "2026-09-13T18:30:29.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Two killed in Gaza City strike, IDF says it targeted car with Hamas terrorists",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/737575' alt='Residents attempt to extinguish a fire following an Israeli airstrike that hit a vehicle in Gaza City, Augus",
+          "link": "https://www.jpost.com/middle-east/article-908449",
+          "publishedAt": "2026-09-13T12:15:41.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -49,13 +96,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 18:39",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 19,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -69,7 +116,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -146,7 +193,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 18:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -196,7 +243,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 18:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -221,40 +268,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:45",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Two killed in Gaza City strike, IDF says it targeted car with Hamas terrorists",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/737575' alt='Residents attempt to extinguish a fire following an Israeli airstrike that hit a vehicle in Gaza City, Augus",
-          "link": "https://www.jpost.com/middle-east/article-908449",
-          "publishedAt": "2026-09-13T12:15:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -266,7 +279,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 17:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 18:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
