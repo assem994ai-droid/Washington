@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-13T09:54:51.401Z",
+    "generatedAt": "2026-09-13T11:06:39.393Z",
     "windowHours": 24,
-    "from": "2026-09-12T09:54:51.401Z",
-    "to": "2026-09-13T09:54:51.401Z"
+    "from": "2026-09-12T11:06:39.393Z",
+    "to": "2026-09-13T11:06:39.393Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
+    "items": 9,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 5,
     "contested": 0,
     "echoed": 1,
     "americanItems": 0,
-    "archiveCycles": 672
+    "archiveCycles": 673
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,13 +48,13 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 09:54",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 7,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -68,7 +68,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -99,13 +99,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 09:54",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 4,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -118,7 +118,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -129,20 +129,6 @@
           "excerpt": "توغلت قوة من جيش الاحتلال الإسرائيلي، مؤلفة من ست عربات عسكرية، في قرية عين النورية بريف القنيطرة الشمالي.",
           "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%88%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
           "publishedAt": "2026-09-13T07:29:17.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغل إسرائيلي في كروم مزرعة بيت جن بريف دمشق الغربي وانسحاب لاحق",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، السبت، في كروم مزرعة بيت جن بريف دمشق الغربي، بقوة عسكرية ضمت دبابتين وجرافة وأكثر من 10 عربات عسكرية، وفقاً لمراسل تلفزيون سوري",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D9%83%D8%B1%D9%88%D9%85-%D9%85%D8%B2%D8%B1%D8%B9%D8%A9-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A-%D9%88%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%84%D8%A7%D8%AD%D9%82",
-          "publishedAt": "2026-09-12T10:58:11.000Z",
           "files": [
             "israel"
           ],
@@ -163,7 +149,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 08:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 09:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -201,7 +187,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 08:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 09:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -249,7 +235,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 08:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 09:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
