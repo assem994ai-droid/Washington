@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-13T12:55:27.249Z",
+    "generatedAt": "2026-09-13T13:54:14.793Z",
     "windowHours": 24,
-    "from": "2026-09-12T12:55:27.249Z",
-    "to": "2026-09-13T12:55:27.249Z"
+    "from": "2026-09-12T13:54:14.793Z",
+    "to": "2026-09-13T13:54:14.793Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 9,
+    "items": 10,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 0,
-    "archiveCycles": 676
+    "archiveCycles": 677
   },
   "emptyCircles": [
     "الكونغرس",
@@ -37,8 +37,8 @@
   ],
   "files": [
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
+      "id": "turkey",
+      "label": "الملف التركي",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
@@ -60,12 +60,13 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "تصعيد إسرائيلي جديد في بيت جن.. قصف مدفعي وتوغلات على أطراف البلدة",
-          "excerpt": "توغلت دورية تابعة لقوات الاحتلال الإسرائيلي، الأحد، مؤلفة من عدة آليات عسكرية، توغلت عند المدخل الجنوبي لبلدة بيت جن بالقرب من منطقة باب السد، في ريف دمشق الغرب",
-          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D8%A9",
-          "publishedAt": "2026-09-13T09:49:46.000Z",
+          "title": "من دمشق.. الشيباني وفيدان يعلنان خطوات جديدة لتعزيز الشراكة السورية التركية",
+          "excerpt": "أعلنت سوريا وتركيا خطوات جديدة لتعزيز الشراكة بين البلدين، تشمل تفعيل اللجنة العليا المشتركة، وتوسيع التعاون في قطاعات الطاقة والتجارة والنقل والاستثمار",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%AF%D9%85%D8%B4%D9%82-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D8%A7%D9%86-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
+          "publishedAt": "2026-09-13T13:50:32.000Z",
           "files": [
-            "israel"
+            "turkey",
+            "diplomacy"
           ],
           "seenBefore": false,
           "us": false
@@ -74,12 +75,13 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "توغلات وحواجز.. الاحتلال الإسرائيلي يصعد في ريف القنيطرة",
-          "excerpt": "توغلت قوة من جيش الاحتلال الإسرائيلي، مؤلفة من ست عربات عسكرية، في قرية عين النورية بريف القنيطرة الشمالي.",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%88%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-13T07:29:17.000Z",
+          "title": "بعد لقاء أنقرة الأخير.. فيدان يجري زيارة إلى دمشق",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأن وزير الخارجية التركي، هاكان فيدان، يجري اليوم الأحد زيارة إلى العاصمة السورية دمشق.",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A1-%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%AC%D8%B1%D9%8A-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-09-13T09:37:01.000Z",
           "files": [
-            "israel"
+            "turkey",
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -100,7 +102,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -137,7 +139,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Saudi pipeline attack exposes growing power of Iran-backed militias - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/712166' alt='Members of the Iraqi armed group Kataib Hezbollah attend the funeral of their members, who were killed in an",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/712166' alt='Members of the Iraqi armed group Kataib Hezbollah attend the funeral of their members, who were killed in ",
           "link": "https://www.jpost.com/middle-east/article-908422",
           "publishedAt": "2026-09-12T17:36:12.000Z",
           "files": [],
@@ -147,8 +149,8 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
@@ -158,25 +160,38 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": 4,
       "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "بعد لقاء أنقرة الأخير.. فيدان يجري زيارة إلى دمشق",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بأن وزير الخارجية التركي، هاكان فيدان، يجري اليوم الأحد زيارة إلى العاصمة السورية دمشق.",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A1-%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%AC%D8%B1%D9%8A-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82",
-          "publishedAt": "2026-09-13T09:37:01.000Z",
+          "title": "تصعيد إسرائيلي جديد في بيت جن.. قصف مدفعي وتوغلات على أطراف البلدة",
+          "excerpt": "توغلت دورية تابعة لقوات الاحتلال الإسرائيلي، الأحد، مؤلفة من عدة آليات عسكرية، توغلت عند المدخل الجنوبي لبلدة بيت جن بالقرب من منطقة باب السد، في ريف دمشق الغرب",
+          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D8%A9",
+          "publishedAt": "2026-09-13T09:49:46.000Z",
           "files": [
-            "turkey",
-            "diplomacy"
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغلات وحواجز.. الاحتلال الإسرائيلي يصعد في ريف القنيطرة",
+          "excerpt": "توغلت قوة من جيش الاحتلال الإسرائيلي، مؤلفة من ست عربات عسكرية، في قرية عين النورية بريف القنيطرة الشمالي.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%88%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-13T07:29:17.000Z",
+          "files": [
+            "israel"
           ],
           "seenBefore": true,
           "us": false
@@ -195,7 +210,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -231,7 +246,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -267,7 +282,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 12:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
