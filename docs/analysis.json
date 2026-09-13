@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-12T22:54:32.256Z",
+    "generatedAt": "2026-09-13T04:29:00.173Z",
     "windowHours": 24,
-    "from": "2026-09-11T22:54:32.256Z",
-    "to": "2026-09-12T22:54:32.256Z"
+    "from": "2026-09-12T04:29:00.173Z",
+    "to": "2026-09-13T04:29:00.173Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 11,
-    "files": 6,
-    "withNew": 1,
+    "items": 10,
+    "files": 5,
+    "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 1,
-    "archiveCycles": 665
+    "americanItems": 0,
+    "archiveCycles": 666
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,42 +34,6 @@
   ],
   "files": [
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تحركات للتهدئة في الحسكة وعين العرب والداخلية: اندماج \"قسد\" مستمر",
-          "excerpt": "اجتماعات في الحسكة وعين العرب والداخلية تؤكد استمرار اندماج \"قسد\"",
-          "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D9%87%D8%AF%D8%A6%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9-%D9%88%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%86%D8%AF%D9%85%D8%A7%D8%AC-%D9%82%D8%B3%D8%AF-%D9%85%D8%B3%D8%AA%D9%85%D8%B1",
-          "publishedAt": "2026-09-12T22:36:06.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -85,7 +49,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -145,7 +109,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -184,42 +148,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:46",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "محددات تحويل رفع سوريا من قائمة الدول الراعية للإرهاب إلى فرصة",
-          "excerpt": "بعد رفع سوريا من القائمة الأميركية للدول الراعية للإرهاب، وكذلك رفع العقوبات الأوروبية، تتفكك منظومة قانونية لتسهيل تعامل المؤسسات والشركات الغربية مع سوريا..",
-          "link": "https://www.syria.tv/%D9%85%D8%AD%D8%AF%D8%AF%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%B1%D9%81%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%A5%D9%84%D9%89-%D9%81%D8%B1%D8%B5%D8%A9",
-          "publishedAt": "2026-09-12T04:11:25.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدر واحد",
@@ -231,7 +159,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -270,6 +198,42 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:54",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تحركات للتهدئة في الحسكة وعين العرب والداخلية: اندماج \"قسد\" مستمر",
+          "excerpt": "اجتماعات في الحسكة وعين العرب والداخلية تؤكد استمرار اندماج \"قسد\"",
+          "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D9%87%D8%AF%D8%A6%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9-%D9%88%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%86%D8%AF%D9%85%D8%A7%D8%AC-%D9%82%D8%B3%D8%AF-%D9%85%D8%B3%D8%AA%D9%85%D8%B1",
+          "publishedAt": "2026-09-12T22:36:06.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
@@ -283,7 +247,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-12 22:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
