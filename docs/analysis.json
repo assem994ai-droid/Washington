@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-13T20:54:33.551Z",
+    "generatedAt": "2026-09-13T21:36:00.780Z",
     "windowHours": 24,
-    "from": "2026-09-12T20:54:33.551Z",
-    "to": "2026-09-13T20:54:33.551Z"
+    "from": "2026-09-12T21:36:00.780Z",
+    "to": "2026-09-13T21:36:00.780Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 17,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 0,
-    "archiveCycles": 685
+    "archiveCycles": 686
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,101 +28,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Al Jazeera English",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام الدولي",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 22,
-      "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
-          "excerpt": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated'",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
-          "publishedAt": "2026-09-13T20:33:28.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces make incursions into Damascus countryside, Quneitra",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces made simultaneous incursions into Syria’s Damascus countryside and Quneitra on Sunday afternoon, accompanied by artillery shelling and new military deployments. Sources in Quneitra reported tha",
-          "link": "https://npasyria.com/en/141511/",
-          "publishedAt": "2026-09-13T18:33:10.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israel forces shell Damascus countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) –Israeli forces shelled the western outskirts of Beit Jinn in western Damascus countryside on Sunday, near Bat al-Warda Hill. The Israeli forces fired several artillery shells at the area, according to North Pr",
-          "link": "https://npasyria.com/en/141499/",
-          "publishedAt": "2026-09-13T14:59:01.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تصعيد إسرائيلي جديد في بيت جن.. قصف مدفعي وتوغلات على أطراف البلدة",
-          "excerpt": "توغلت دورية تابعة لقوات الاحتلال الإسرائيلي، الأحد، مؤلفة من عدة آليات عسكرية، توغلت عند المدخل الجنوبي لبلدة بيت جن بالقرب من منطقة باب السد، في ريف دمشق الغرب",
-          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D8%A9",
-          "publishedAt": "2026-09-13T09:49:46.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغلات وحواجز.. الاحتلال الإسرائيلي يصعد في ريف القنيطرة",
-          "excerpt": "توغلت قوة من جيش الاحتلال الإسرائيلي، مؤلفة من ست عربات عسكرية، في قرية عين النورية بريف القنيطرة الشمالي.",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%88%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-13T07:29:17.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -138,14 +43,28 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 20:23",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 24,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تدفقات متزايدة من تركيا.. سوريا ترفع تمريرات مياه الفرات وتحذّر السكان",
+          "excerpt": "حذّرت وزارة الطاقة السورية سكان محافظتي الرقة ودير الزور، خاصةً القاطنين قرب مجرى نهر الفرات، من الاقتراب من النهر أو السباحة فيه..",
+          "link": "https://www.syria.tv/%D8%AA%D8%AF%D9%81%D9%82%D8%A7%D8%AA-%D9%85%D8%AA%D8%B2%D8%A7%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B1%D9%81%D8%B9-%D8%AA%D9%85%D8%B1%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D8%AD%D8%B0%D9%91%D8%B1-%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86",
+          "publishedAt": "2026-09-13T21:25:59.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -239,6 +158,101 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Al Jazeera English",
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 20:54",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 13,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+          "excerpt": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated'",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+          "publishedAt": "2026-09-13T20:33:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces make incursions into Damascus countryside, Quneitra",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces made simultaneous incursions into Syria’s Damascus countryside and Quneitra on Sunday afternoon, accompanied by artillery shelling and new military deployments. Sources in Quneitra reported tha",
+          "link": "https://npasyria.com/en/141511/",
+          "publishedAt": "2026-09-13T18:33:10.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israel forces shell Damascus countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) –Israeli forces shelled the western outskirts of Beit Jinn in western Damascus countryside on Sunday, near Bat al-Warda Hill. The Israeli forces fired several artillery shells at the area, according to North Pr",
+          "link": "https://npasyria.com/en/141499/",
+          "publishedAt": "2026-09-13T14:59:01.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تصعيد إسرائيلي جديد في بيت جن.. قصف مدفعي وتوغلات على أطراف البلدة",
+          "excerpt": "توغلت دورية تابعة لقوات الاحتلال الإسرائيلي، الأحد، مؤلفة من عدة آليات عسكرية، توغلت عند المدخل الجنوبي لبلدة بيت جن بالقرب من منطقة باب السد، في ريف دمشق الغرب",
+          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D8%A9",
+          "publishedAt": "2026-09-13T09:49:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغلات وحواجز.. الاحتلال الإسرائيلي يصعد في ريف القنيطرة",
+          "excerpt": "توغلت قوة من جيش الاحتلال الإسرائيلي، مؤلفة من ست عربات عسكرية، في قرية عين النورية بريف القنيطرة الشمالي.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%88%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-13T07:29:17.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -254,7 +268,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 20:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 20:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -312,7 +326,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 20:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 20:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -348,7 +362,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 20:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-13 20:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
