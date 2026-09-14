@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T12:09:33.970Z",
+    "generatedAt": "2026-09-14T12:31:51.155Z",
     "windowHours": 24,
-    "from": "2026-09-13T12:09:33.970Z",
-    "to": "2026-09-14T12:09:33.970Z"
+    "from": "2026-09-13T12:31:51.155Z",
+    "to": "2026-09-14T12:31:51.155Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 19,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 713
+    "archiveCycles": 714
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
@@ -43,7 +44,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 11:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -173,42 +174,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 11,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني ونائب مساعد وزير الخارجية الأمريكي‏ يبحثان توسيع آفاق الشراكة ‏",
-          "excerpt": "استقبل وزير الخارجية والمغتربين أسعد حسن الشيباني في دمشق، اليوم الإثنين، نائب مساعد وزير الخارجية الأمريكي جيك ماكجي.",
-          "link": "https://sana.sy/syria-and-the-world/2580406/",
-          "publishedAt": "2026-09-14T12:01:00.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -221,7 +186,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 11:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -302,68 +267,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Al-Monitor",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 11:53",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria fuel price hikes trigger widest protests since Assad fall",
-          "excerpt": "<p>By Feras Dalatey , Mahmoud Hasano and Firas Makdesi</p><p>ALEPPO, Syria, Sept 14 (Reuters) - A sharp rise in fuel prices at the weekend has sparked protests across Syria, in the country's most widespread demonstrations since the toppling",
-          "link": "https://www.al-monitor.com/originals/2026/09/syria-fuel-price-hikes-trigger-widest-protests-assad-fall",
-          "publishedAt": "2026-09-14T11:46:31.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ضوابط جديدة للإعلانات على المباني العامة والخاصة في سوريا",
-          "excerpt": "أصدرت المؤسسة العربية للإعلان قراراً جديداً ينظم تركيب اللوحات والوسائل الإعلانية على أسطح وجدران المباني العامة والخاصة في سوريا..",
-          "link": "https://www.syria.tv/%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-14T03:10:06.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Two killed in Gaza City strike, IDF says it targeted car with Hamas terrorists",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4061,w_6240/737575' alt='Residents attempt to extinguish a fire following an Israeli airstrike that hit a vehicle in Gaza City, Aug",
-          "link": "https://www.jpost.com/middle-east/article-908449",
-          "publishedAt": "2026-09-13T12:15:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران مستقلان فأكثر",
@@ -377,7 +280,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 11:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -428,7 +331,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 11:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 12:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -447,6 +350,90 @@
           "files": [
             "sanctions",
             "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Al-Monitor",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 12:09",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria fuel price hikes trigger widest protests since Assad fall",
+          "excerpt": "<p>By Feras Dalatey , Mahmoud Hasano and Firas Makdesi</p><p>ALEPPO, Syria, Sept 14 (Reuters) - A sharp rise in fuel prices at the weekend has sparked protests across Syria, in the country's most widespread demonstrations since the toppling",
+          "link": "https://www.al-monitor.com/originals/2026/09/syria-fuel-price-hikes-trigger-widest-protests-assad-fall",
+          "publishedAt": "2026-09-14T11:46:31.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "ضوابط جديدة للإعلانات على المباني العامة والخاصة في سوريا",
+          "excerpt": "أصدرت المؤسسة العربية للإعلان قراراً جديداً ينظم تركيب اللوحات والوسائل الإعلانية على أسطح وجدران المباني العامة والخاصة في سوريا..",
+          "link": "https://www.syria.tv/%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-14T03:10:06.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 12:09",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 2,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني ونائب مساعد وزير الخارجية الأمريكي‏ يبحثان توسيع آفاق الشراكة ‏",
+          "excerpt": "استقبل وزير الخارجية والمغتربين أسعد حسن الشيباني في دمشق، اليوم الإثنين، نائب مساعد وزير الخارجية الأمريكي جيك ماكجي.",
+          "link": "https://sana.sy/syria-and-the-world/2580406/",
+          "publishedAt": "2026-09-14T12:01:00.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": true
