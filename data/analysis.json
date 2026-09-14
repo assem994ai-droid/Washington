@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T18:43:36.902Z",
+    "generatedAt": "2026-09-14T18:59:16.579Z",
     "windowHours": 24,
-    "from": "2026-09-13T18:43:36.902Z",
-    "to": "2026-09-14T18:43:36.902Z"
+    "from": "2026-09-13T18:59:16.579Z",
+    "to": "2026-09-14T18:59:16.579Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 22,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 2,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 728
+    "archiveCycles": 729
   },
   "emptyCircles": [
     "الكونغرس",
@@ -42,14 +42,29 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 17:20",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 15,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "فيدان: بحثنا في دمشق زيارة أردوغان إلى سوريا ودعم وحدة أراضيها",
+          "excerpt": "قال هاكان فيدان إن مباحثاته في دمشق تناولت زيارة أردوغان المرتقبة، مؤكداً تمسك أنقرة بوحدة سوريا ومواصلة الوقوف إلى جانبها.",
+          "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D8%AD%D8%AB%D9%86%D8%A7-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AF%D8%B9%D9%85-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
+          "publishedAt": "2026-09-14T18:55:19.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -156,26 +171,40 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
         "The National",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "مراكز الفكر",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 17:20",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 25,
       "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Can Hamas be disarmed?",
+          "excerpt": "The post Can Hamas be disarmed? appeared first on FDD.",
+          "link": "https://www.fdd.org/in_the_news/2026/09/14/can-hamas-be-disarmed/",
+          "publishedAt": "2026-09-14T18:47:22.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -251,7 +280,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -331,7 +360,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -382,7 +411,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -419,7 +448,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
