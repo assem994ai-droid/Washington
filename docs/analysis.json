@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T08:32:36.039Z",
+    "generatedAt": "2026-09-14T08:49:25.634Z",
     "windowHours": 24,
-    "from": "2026-09-13T08:32:36.039Z",
-    "to": "2026-09-14T08:32:36.039Z"
+    "from": "2026-09-13T08:49:25.634Z",
+    "to": "2026-09-14T08:49:25.634Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 22,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
-    "echoed": 1,
+    "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 702
+    "archiveCycles": 703
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:32",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 29,
+      "score": 20,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -64,7 +64,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -190,64 +190,25 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أول تجمع اقتصادي سوري أميركي في دمشق بعد رفع العقوبات.. ما المكاسب المتوقعة؟",
-          "excerpt": "انطلقت اليوم الإثنين في العاصمة دمشق، فعاليات اجتماع عدد من المسؤولين والشخصيات الاقتصادية في سوريا، مع وفد اقتصادي من غرفة التجارة الأميركية.",
-          "link": "https://www.syria.tv/%D8%A3%D9%88%D9%84-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
-          "publishedAt": "2026-09-14T08:15:01.000Z",
-          "files": [
-            "sanctions",
-            "economy"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "Middle East Eye"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
-      "echoed": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 15,
+      "score": 11,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -285,20 +246,6 @@
           "excerpt": "أطلقت قوات الاحتلال الإسرائيلي سراح شاب سوري بعد ساعات من احتجازه خلال رعيه الأغنام في ريف القنيطرة الجنوبي..",
           "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8A-%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
           "publishedAt": "2026-09-14T01:02:48.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli forces make incursions into several Syrian areas",
-          "excerpt": "<article data-history-node-id=\"447649\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-make-incursions-several-syrian-areas\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.n",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-make-incursions-several-syrian-areas",
-          "publishedAt": "2026-09-13T23:11:07.000Z",
           "files": [
             "israel"
           ],
@@ -364,7 +311,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -423,6 +370,43 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:32",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أول تجمع اقتصادي سوري أميركي في دمشق بعد رفع العقوبات.. ما المكاسب المتوقعة؟",
+          "excerpt": "انطلقت اليوم الإثنين في العاصمة دمشق، فعاليات اجتماع عدد من المسؤولين والشخصيات الاقتصادية في سوريا، مع وفد اقتصادي من غرفة التجارة الأميركية.",
+          "link": "https://www.syria.tv/%D8%A3%D9%88%D9%84-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
+          "publishedAt": "2026-09-14T08:15:01.000Z",
+          "files": [
+            "sanctions",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -434,7 +418,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -471,7 +455,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 08:32",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
