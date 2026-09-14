@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T19:55:48.438Z",
+    "generatedAt": "2026-09-14T20:50:48.747Z",
     "windowHours": 24,
-    "from": "2026-09-13T19:55:48.438Z",
-    "to": "2026-09-14T19:55:48.438Z"
+    "from": "2026-09-13T20:50:48.747Z",
+    "to": "2026-09-14T20:50:48.747Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 22,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 730
+    "americanItems": 2,
+    "archiveCycles": 731
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,13 +44,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 19:55",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 29,
+      "score": 20,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -63,7 +63,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -201,7 +201,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 19:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -296,7 +296,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 19:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -363,59 +363,6 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Atlantic Council — المجلس الأطلسي",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "مراكز الفكر",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "Atlantic Council — المجلس الأطلسي",
-          "sourceId": "atlantic-council",
-          "circle": "مراكز الفكر",
-          "title": "Three African economies show how China’s slowdown is reshaping trade",
-          "excerpt": "From Angolan oil to Congolese copper, China's economic slowdown is creating new winners and losers across Africa. The post Three African economies show how China’s slowdown is reshaping trade appeared first on Atlantic Council.",
-          "link": "https://www.atlanticcouncil.org/dispatches/three-african-economies-show-how-chinas-slowdown-is-reshaping-trade/",
-          "publishedAt": "2026-09-14T11:00:00.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الخارجية تقيم في دمشق حفل استقبال لوفد اقتصادي أمريكي يضم أكثر من 50 ‌‏شركة",
-          "excerpt": "نظمت إدارة التعاون الدولي في وزارة الخارجية والمغتربين، مساء اليوم الأحد، ‌‏حفل استقبال لوفد اقتصادي أمريكي يزور دمشق، بمشاركة من ممثلي الحكومة ‏السورية من وزارات وهيئات وجهات وطنية وأيضاً رجال أعمال ومستثمرين من ‏سوريا والولايات ‏المتحدة، ",
-          "link": "https://sana.sy/locals/2580087/",
-          "publishedAt": "2026-09-13T20:50:00.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -427,7 +374,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 19:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -464,7 +411,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 19:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -485,6 +432,42 @@
           ],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Atlantic Council — المجلس الأطلسي"
+      ],
+      "circles": [
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 19:55",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "Atlantic Council — المجلس الأطلسي",
+          "sourceId": "atlantic-council",
+          "circle": "مراكز الفكر",
+          "title": "Three African economies show how China’s slowdown is reshaping trade",
+          "excerpt": "From Angolan oil to Congolese copper, China's economic slowdown is creating new winners and losers across Africa. The post Three African economies show how China’s slowdown is reshaping trade appeared first on Atlantic Council.",
+          "link": "https://www.atlanticcouncil.org/dispatches/three-african-economies-show-how-chinas-slowdown-is-reshaping-trade/",
+          "publishedAt": "2026-09-14T11:00:00.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     }
