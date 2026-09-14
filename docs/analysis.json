@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T16:54:58.534Z",
+    "generatedAt": "2026-09-14T17:20:31.583Z",
     "windowHours": 24,
-    "from": "2026-09-13T16:54:58.534Z",
-    "to": "2026-09-14T16:54:58.534Z"
+    "from": "2026-09-13T17:20:31.583Z",
+    "to": "2026-09-14T17:20:31.583Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 23,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 0,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 726
+    "archiveCycles": 727
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,14 +34,14 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
-        "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
+        "Al-Monitor",
         "The National",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -50,8 +50,20 @@
       "stale": false,
       "echoed": true,
       "usItems": 0,
-      "score": 21,
+      "score": 22,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Fuel protests reveal the economic risks threatening Syria’s fragile transition - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1907,w_2976/737696' alt='A protester in Aleppo burns tyres to protest the increase in fuel prices in Syria on the highway between A",
+          "link": "https://www.jpost.com/middle-east/article-908553",
+          "publishedAt": "2026-09-14T17:15:24.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -61,7 +73,7 @@
           "link": "https://www.al-monitor.com/originals/2026/09/russian-convoy-resupplies-syria-coastal-facilities-first-time-moscow-damascus",
           "publishedAt": "2026-09-14T16:46:31.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -69,7 +81,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syria rocked by largest protests since fall of Assad regime after fuel prices surge",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2009,w_2965/737695' alt='Protesters burn tyres and block the road in protest against rising fuel prices on the highway between Alep",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737695' alt='Protesters burn tyres and block the road in protest against rising fuel prices on the highway between Alepp",
           "link": "https://www.jpost.com/middle-east/article-908534",
           "publishedAt": "2026-09-14T14:26:37.000Z",
           "files": [],
@@ -129,7 +141,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -198,7 +210,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Israel would benefit from a stable Syria, but not one under Turkish influence, expert tells ‘Post’",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1312,w_2100/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confe",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confere",
           "link": "https://www.jpost.com/middle-east/article-908523",
           "publishedAt": "2026-09-14T12:59:37.000Z",
           "files": [
@@ -266,7 +278,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -360,7 +372,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -411,7 +423,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -448,7 +460,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
