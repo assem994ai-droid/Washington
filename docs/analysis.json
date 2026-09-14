@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T15:42:56.895Z",
+    "generatedAt": "2026-09-14T16:24:35.607Z",
     "windowHours": 24,
-    "from": "2026-09-13T15:42:56.895Z",
-    "to": "2026-09-14T15:42:56.895Z"
+    "from": "2026-09-13T16:24:35.607Z",
+    "to": "2026-09-14T16:24:35.607Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 22,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 723
+    "archiveCycles": 724
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,25 +32,23 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
-        "سانا — قسم السياسة"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "المصادر الرسمية السورية"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 17,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -113,7 +111,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Israel would benefit from a stable Syria, but not one under Turkish influence, expert tells ‘Post’",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confere",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1312,w_2100/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confe",
           "link": "https://www.jpost.com/middle-east/article-908523",
           "publishedAt": "2026-09-14T12:59:37.000Z",
           "files": [
@@ -180,21 +178,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الرئيس الشرع يبحث مع وزير الخارجية التركي تعزيز العلاقات ومستجدات الأوضاع",
-          "excerpt": "استقبل الرئيس أحمد الشرع في دمشق اليوم الأحد، وزير الخارجية التركي هاكان فيدان، بحضور وزير الخارجية والمغتربين أسعد حسن الشيباني.",
-          "link": "https://sana.sy/presidency/2579774/",
-          "publishedAt": "2026-09-13T16:19:41.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -215,13 +198,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 0,
-      "score": 20,
+      "score": 11,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -256,7 +239,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/09/14/angry-syrians-hit-the-streets-in-protest-over-sharply-rising-fuel-prices/",
           "publishedAt": "2026-09-14T11:26:36.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -286,7 +269,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -380,7 +363,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -431,7 +414,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -468,7 +451,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
