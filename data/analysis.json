@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T13:28:47.242Z",
+    "generatedAt": "2026-09-14T13:44:48.375Z",
     "windowHours": 24,
-    "from": "2026-09-13T13:28:47.242Z",
-    "to": "2026-09-14T13:28:47.242Z"
+    "from": "2026-09-13T13:44:48.375Z",
+    "to": "2026-09-14T13:44:48.375Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 23,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 716
+    "archiveCycles": 717
   },
   "emptyCircles": [
     "الكونغرس",
@@ -51,8 +51,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 33,
+      "score": 34,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "على هامش زيارته لدمشق.. فيدان يلتقي رئيس المجلس التركماني السوري",
+          "excerpt": "فيدان يلتقي رئيس المجلس التركماني السوري",
+          "link": "https://www.syria.tv/%D8%B9%D9%84%D9%89-%D9%87%D8%A7%D9%85%D8%B4-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87-%D9%84%D8%AF%D9%85%D8%B4%D9%82-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%85%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+          "publishedAt": "2026-09-14T13:31:35.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -64,7 +78,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -216,13 +230,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:28",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 11,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -235,7 +249,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -324,7 +338,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -375,7 +389,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -414,7 +428,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -460,7 +474,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 13:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
