@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T16:24:35.607Z",
+    "generatedAt": "2026-09-14T16:41:38.267Z",
     "windowHours": 24,
-    "from": "2026-09-13T16:24:35.607Z",
-    "to": "2026-09-14T16:24:35.607Z"
+    "from": "2026-09-13T16:41:38.267Z",
+    "to": "2026-09-14T16:41:38.267Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 21,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 724
+    "archiveCycles": 725
   },
   "emptyCircles": [
     "الكونغرس",
@@ -42,13 +42,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 16,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -163,21 +163,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Shaibani hosts Fidan in Damascus for bilateral talks",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani received his Turkish counterpart Hakan Fidan in Damascus on Sunday for talks on bilateral ties, regional developments, security, energy, and the economy. The meeting ",
-          "link": "https://npasyria.com/en/141505/",
-          "publishedAt": "2026-09-13T16:30:10.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -198,7 +183,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -269,7 +254,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -363,7 +348,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -414,7 +399,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -451,7 +436,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 16:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
