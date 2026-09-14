@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T15:09:27.333Z",
+    "generatedAt": "2026-09-14T15:27:55.031Z",
     "windowHours": 24,
-    "from": "2026-09-13T15:09:27.333Z",
-    "to": "2026-09-14T15:09:27.333Z"
+    "from": "2026-09-13T15:27:55.031Z",
+    "to": "2026-09-14T15:27:55.031Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 22,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 721
+    "archiveCycles": 722
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,6 +22,7 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -31,27 +32,25 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
-        "Turkish Minute",
         "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
-        "الملف التركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 21,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -120,22 +119,6 @@
           "files": [
             "turkey",
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Turkish foreign minister accuses Israel of seeking to destabilize Syria",
-          "excerpt": "Turkish Foreign Minister Hakan Fidan accused Israel on Sunday of seeking to destabilize Syria through repeated strikes on the country. Fidan made the remarks during a visit to Damascus, where he appeared at a joint news conference with Syri",
-          "link": "https://turkishminute.com/2026/09/14/turkish-foreign-minister-accuses-israel-of-seeking-to-destabilize-syria/",
-          "publishedAt": "2026-09-14T10:17:18.000Z",
-          "files": [
-            "turkey",
-            "israel",
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -212,21 +195,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني وفيدان يبحثان تفعيل اللجنة العليا المشتركة ويشددان على صون سيادة سوريا",
-          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني مع نظيره التركي هاكان فيدان في دمشق اليوم الأحد، سبل تعزيز العلاقات الثنائية وتفعيل اللجنة العليا المشتركة بين البلدين، وعدداً من الملفات ذات الاهتمام المشترك.",
-          "link": "https://sana.sy/politics/2579709/",
-          "publishedAt": "2026-09-13T15:17:27.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -243,7 +211,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -339,7 +307,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -399,7 +367,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -450,7 +418,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -487,7 +455,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 14:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 15:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
