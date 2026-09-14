@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T18:59:16.579Z",
+    "generatedAt": "2026-09-14T19:55:48.438Z",
     "windowHours": 24,
-    "from": "2026-09-13T18:59:16.579Z",
-    "to": "2026-09-14T18:59:16.579Z"
+    "from": "2026-09-13T19:55:48.438Z",
+    "to": "2026-09-14T19:55:48.438Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 23,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 729
+    "archiveCycles": 730
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,13 +32,15 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "سانا — قسم السياسة",
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
+        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
@@ -48,8 +50,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 29,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا وتركيا تبحثان آفاق التعاون في مجالات الإسكان وإعادة ‏الإعمار",
+          "excerpt": "بحث وزير الأشغال العامة والإسكان مصطفى عبد الرزاق مع ‏نائب وزير البيئة والتخطيط العمراني والتغير المناخي التركي ‏عمر بولوت والوفد المرافق، آفاق التعاون المشترك في مجالات ‏الإسكان، وإعادة الإعمار، والتخطيط العمراني‎.‎",
+          "link": "https://sana.sy/syria-and-the-world/2580901/",
+          "publishedAt": "2026-09-14T19:50:33.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -62,7 +78,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -185,13 +201,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 16,
       "items": [
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -202,7 +218,7 @@
           "link": "https://www.fdd.org/in_the_news/2026/09/14/can-hamas-be-disarmed/",
           "publishedAt": "2026-09-14T18:47:22.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -280,7 +296,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -360,7 +376,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -411,7 +427,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -448,7 +464,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 18:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
