@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T17:55:38.273Z",
+    "generatedAt": "2026-09-15T18:24:22.937Z",
     "windowHours": 24,
-    "from": "2026-09-14T17:55:38.273Z",
-    "to": "2026-09-15T17:55:38.273Z"
+    "from": "2026-09-14T18:24:22.937Z",
+    "to": "2026-09-15T18:24:22.937Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
-    "files": 5,
-    "withNew": 0,
+    "items": 21,
+    "files": 7,
+    "withNew": 2,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 770
+    "americanItems": 4,
+    "archiveCycles": 771
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,21 +25,16 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
+        "North Press Agency (English)",
         "The National",
         "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
@@ -47,19 +42,31 @@
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي",
-        "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:46",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 20,
+      "usItems": 2,
+      "score": 39,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian army says it thwarts two drug-smuggling attempts",
+          "excerpt": "QAMISHLI, Syria (North Press) – The Syrian army said it thwarted two attempts to smuggle narcotics from Lebanon into Homs and Damascus countryside. The army said on Tuesday that its forces intercepted shipments containing drugs, crystal met",
+          "link": "https://npasyria.com/en/141579/",
+          "publishedAt": "2026-09-15T17:54:35.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -71,6 +78,18 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. says it destroys two Iranian boats near Hormuz",
+          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. military destroyed two Iranian boats near the Strait of Hormuz after they attempted to seize a U.S. naval drone, U.S. officials said Tuesday. The incident occurred near Kargan port and Larak Island i",
+          "link": "https://npasyria.com/en/141575/",
+          "publishedAt": "2026-09-15T15:15:53.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "Al-Monitor",
@@ -97,6 +116,18 @@
           "us": true
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria&#8217;s Hama to introduce Kurdish language classes in five schools",
+          "excerpt": "HAMA, Syria (North Press) – Hama Education Director Ahmad al-Madloush told North Press on Tuesday that five schools in Hama Governorate, west-central Syria, will currently teach the Kurdish language. “It is no secret that Syria is home to m",
+          "link": "https://npasyria.com/en/141562/",
+          "publishedAt": "2026-09-15T08:54:29.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -104,6 +135,18 @@
           "excerpt": "A strong Syria is beneficial for countries across the Middle East, even as trade routes through the Strait of Hormuz remain blocked, President Ahmad Al Shara said in Dubai on Tuesday.His country has been at the heart of recent regional disc",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/15/syria-great-opportunity-for-everyone-to-benefit-from-al-shara-says-in-dubai/",
           "publishedAt": "2026-09-15T08:48:56.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Russian convoy reaches Tartus after Moscow-Damascus base deal",
+          "excerpt": "QAMISHLI, Syria (North Press) – A four-vessel Russian convoy delivered supplies to Syria’s Tartus port on Sep. 7, marking the first reported Russian resupply operation there since Moscow and Damascus reached an agreement on the future of Ru",
+          "link": "https://npasyria.com/en/141556/",
+          "publishedAt": "2026-09-15T06:23:30.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -153,21 +196,35 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:46",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 18,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "رئيس الوزراء العراقي: العراق ينوع منافذ تصدير النفط عبر تركيا وسوريا إلى أوروبا",
+          "excerpt": "قال الزيدي، خلال مؤتمر صحفي مشترك مع المستشار الألماني فريدريش ميرتس في برلين، إن بغداد تعمل على \"توسيع وتنويع\" منافذ صادراتها النفطية",
+          "link": "https://www.syria.tv/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%88%D8%B9-%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
+          "publishedAt": "2026-09-15T18:18:42.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -228,7 +285,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -278,7 +335,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -304,6 +361,78 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:46",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Mazloum Abdi meets families of prisoners, missing persons in Kobani",
+          "excerpt": "KOBANI, Syria (North Press) – Adviser to the Syrian Presidency Mazloum Abdi on Tuesday met with families of prisoners and missing persons in the northern Syrian city of Kobani, listening to their demands and concerns over the fate of their ",
+          "link": "https://npasyria.com/en/141572/",
+          "publishedAt": "2026-09-15T11:53:42.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:46",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Bill Gates warns governments are unprepared for AI upheaval",
+          "excerpt": "QAMISHLI, Syria (North Press) – Microsoft co-founder Bill Gates warned on Tuesday that governments worldwide are unprepared for the social changes artificial intelligence will bring, as concerns grow over AI-driven job losses, cyberattacks ",
+          "link": "https://npasyria.com/en/141568/",
+          "publishedAt": "2026-09-15T10:20:57.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -315,7 +444,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
