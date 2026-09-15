@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-14T21:50:37.553Z",
+    "generatedAt": "2026-09-15T00:33:25.195Z",
     "windowHours": 24,
-    "from": "2026-09-13T21:50:37.553Z",
-    "to": "2026-09-14T21:50:37.553Z"
+    "from": "2026-09-14T00:33:25.195Z",
+    "to": "2026-09-15T00:33:25.195Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 18,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 733
+    "archiveCycles": 734
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,149 +25,14 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
-  "files": [
+  "errors": [
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:38",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 19,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا وتركيا تبحثان آفاق التعاون في مجالات الإسكان وإعادة ‏الإعمار",
-          "excerpt": "بحث وزير الأشغال العامة والإسكان مصطفى عبد الرزاق مع ‏نائب وزير البيئة والتخطيط العمراني والتغير المناخي التركي ‏عمر بولوت والوفد المرافق، آفاق التعاون المشترك في مجالات ‏الإسكان، وإعادة الإعمار، والتخطيط العمراني‎.‎",
-          "link": "https://sana.sy/syria-and-the-world/2580901/",
-          "publishedAt": "2026-09-14T19:50:33.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "فيدان: بحثنا في دمشق زيارة أردوغان إلى سوريا ودعم وحدة أراضيها",
-          "excerpt": "قال هاكان فيدان إن مباحثاته في دمشق تناولت زيارة أردوغان المرتقبة، مؤكداً تمسك أنقرة بوحدة سوريا ومواصلة الوقوف إلى جانبها.",
-          "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D8%AD%D8%AB%D9%86%D8%A7-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AF%D8%B9%D9%85-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
-          "publishedAt": "2026-09-14T18:55:19.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا في المرتبة الخامسة.. صادرات تركيا لدول الجوار تبلغ 18.2 مليار دولار",
-          "excerpt": "حلّت سوريا في المرتبة الخامسة بين دول الجوار من حيث قيمة الصادرات التركية، إذ بلغت صادرات تركيا إليها مليارا و675 مليونا و429 ألف دولار من كانون الثاني إلى آب",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B1-%D8%AA%D8%A8%D9%84%D8%BA-182-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-          "publishedAt": "2026-09-14T14:43:44.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkish FM Fidan meets Syrian Turkmen Council delegation in Damascus",
-          "excerpt": "QAMISHLI, Syria (North Press) – Turkish Foreign Minister Hakan Fidan met on Monday with a delegation from the Syrian Turkmen Council led by Abdulrahman Mustafa in Damascus. The meeting took place on the sidelines of Fidan’s official visit t",
-          "link": "https://npasyria.com/en/141526/",
-          "publishedAt": "2026-09-14T13:54:04.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "على هامش زيارته لدمشق.. فيدان يلتقي رئيس المجلس التركماني السوري",
-          "excerpt": "فيدان يلتقي رئيس المجلس التركماني السوري",
-          "link": "https://www.syria.tv/%D8%B9%D9%84%D9%89-%D9%87%D8%A7%D9%85%D8%B4-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87-%D9%84%D8%AF%D9%85%D8%B4%D9%82-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%85%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-          "publishedAt": "2026-09-14T13:31:35.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تبدأ تطبيق نموذج الأسرة الحاضنة التركي.. كيف يختلف عن نظام التبني؟",
-          "excerpt": "قالت وزيرة الأسرة التركية إن سوريا بدأت تطبيق نموذج الأسرة الحاضنة للأطفال المتروكين، وهو يختلف عن التبني ببقاء الإشراف القانوني للدولة وإمكان عودة الطفل لأسرته",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D9%8A%D9%81-%D9%8A%D8%AE%D8%AA%D9%84%D9%81-%D8%B9%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%A8%D9%86%D9%8A%D8%9F",
-          "publishedAt": "2026-09-14T13:12:46.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Israel would benefit from a stable Syria, but not one under Turkish influence, expert tells ‘Post’",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confere",
-          "link": "https://www.jpost.com/middle-east/article-908523",
-          "publishedAt": "2026-09-14T12:59:37.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا وتركيا.. من التنسيق إلى شراكة استراتيجية لمواجهة تحديات الداخل والإقليم",
-          "excerpt": "تتجه العلاقات السورية التركية نحو مزيد من التنسيق السياسي والأمني والاقتصادي، لمواجهة تحديات حصر السلاح والتصعيد الإسرائيلي وملفات الإعمار والتجارة والاستثمار.",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A5%D9%84%D9%89-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84-%D9%88%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85",
-          "publishedAt": "2026-09-14T08:24:27.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
+  "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -187,7 +52,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -212,7 +77,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Fuel protests reveal the economic risks threatening Syria’s fragile transition - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1907,w_2976/737696' alt='A protester in Aleppo burns tyres to protest the increase in fuel prices in Syria on the highway between A",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/737696' alt='A protester in Aleppo burns tyres to protest the increase in fuel prices in Syria on the highway between Ale",
           "link": "https://www.jpost.com/middle-east/article-908553",
           "publishedAt": "2026-09-14T17:15:24.000Z",
           "files": [],
@@ -270,25 +135,187 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
+      "id": "turkey",
+      "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 15,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا وتركيا تبحثان آفاق التعاون في مجالات الإسكان وإعادة ‏الإعمار",
+          "excerpt": "بحث وزير الأشغال العامة والإسكان مصطفى عبد الرزاق مع ‏نائب وزير البيئة والتخطيط العمراني والتغير المناخي التركي ‏عمر بولوت والوفد المرافق، آفاق التعاون المشترك في مجالات ‏الإسكان، وإعادة الإعمار، والتخطيط العمراني‎.‎",
+          "link": "https://sana.sy/syria-and-the-world/2580901/",
+          "publishedAt": "2026-09-14T19:50:33.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "فيدان: بحثنا في دمشق زيارة أردوغان إلى سوريا ودعم وحدة أراضيها",
+          "excerpt": "قال هاكان فيدان إن مباحثاته في دمشق تناولت زيارة أردوغان المرتقبة، مؤكداً تمسك أنقرة بوحدة سوريا ومواصلة الوقوف إلى جانبها.",
+          "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D8%AD%D8%AB%D9%86%D8%A7-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AF%D8%B9%D9%85-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
+          "publishedAt": "2026-09-14T18:55:19.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا في المرتبة الخامسة.. صادرات تركيا لدول الجوار تبلغ 18.2 مليار دولار",
+          "excerpt": "حلّت سوريا في المرتبة الخامسة بين دول الجوار من حيث قيمة الصادرات التركية، إذ بلغت صادرات تركيا إليها مليارا و675 مليونا و429 ألف دولار من كانون الثاني إلى آب",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B1-%D8%AA%D8%A8%D9%84%D8%BA-182-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+          "publishedAt": "2026-09-14T14:43:44.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "على هامش زيارته لدمشق.. فيدان يلتقي رئيس المجلس التركماني السوري",
+          "excerpt": "فيدان يلتقي رئيس المجلس التركماني السوري",
+          "link": "https://www.syria.tv/%D8%B9%D9%84%D9%89-%D9%87%D8%A7%D9%85%D8%B4-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87-%D9%84%D8%AF%D9%85%D8%B4%D9%82-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%85%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+          "publishedAt": "2026-09-14T13:31:35.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تبدأ تطبيق نموذج الأسرة الحاضنة التركي.. كيف يختلف عن نظام التبني؟",
+          "excerpt": "قالت وزيرة الأسرة التركية إن سوريا بدأت تطبيق نموذج الأسرة الحاضنة للأطفال المتروكين، وهو يختلف عن التبني ببقاء الإشراف القانوني للدولة وإمكان عودة الطفل لأسرته",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B6%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D9%8A%D9%81-%D9%8A%D8%AE%D8%AA%D9%84%D9%81-%D8%B9%D9%86-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D8%A8%D9%86%D9%8A%D8%9F",
+          "publishedAt": "2026-09-14T13:12:46.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Israel would benefit from a stable Syria, but not one under Turkish influence, expert tells ‘Post’",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confere",
+          "link": "https://www.jpost.com/middle-east/article-908523",
+          "publishedAt": "2026-09-14T12:59:37.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا وتركيا.. من التنسيق إلى شراكة استراتيجية لمواجهة تحديات الداخل والإقليم",
+          "excerpt": "تتجه العلاقات السورية التركية نحو مزيد من التنسيق السياسي والأمني والاقتصادي، لمواجهة تحديات حصر السلاح والتصعيد الإسرائيلي وملفات الإعمار والتجارة والاستثمار.",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A5%D9%84%D9%89-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84-%D9%88%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85",
+          "publishedAt": "2026-09-14T08:24:27.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:50",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أول تجمع اقتصادي سوري أميركي في دمشق بعد رفع العقوبات.. ما المكاسب المتوقعة؟",
+          "excerpt": "انطلقت اليوم الإثنين في العاصمة دمشق، فعاليات اجتماع عدد من المسؤولين والشخصيات الاقتصادية في سوريا، مع وفد اقتصادي من غرفة التجارة الأميركية.",
+          "link": "https://www.syria.tv/%D8%A3%D9%88%D9%84-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
+          "publishedAt": "2026-09-14T08:15:01.000Z",
+          "files": [
+            "sanctions",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:50",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 5,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -319,20 +346,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid homes in Syria’s Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Monday made an incursion into the southern countryside of Quneitra, southern Syria, from the Tel Abu al-Ghaithar gate inside the buffer zone and raided several homes.&#160; Local sources tol",
-          "link": "https://npasyria.com/en/141518/",
-          "publishedAt": "2026-09-14T07:36:34.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -349,43 +362,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:38",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أول تجمع اقتصادي سوري أميركي في دمشق بعد رفع العقوبات.. ما المكاسب المتوقعة؟",
-          "excerpt": "انطلقت اليوم الإثنين في العاصمة دمشق، فعاليات اجتماع عدد من المسؤولين والشخصيات الاقتصادية في سوريا، مع وفد اقتصادي من غرفة التجارة الأميركية.",
-          "link": "https://www.syria.tv/%D8%A3%D9%88%D9%84-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
-          "publishedAt": "2026-09-14T08:15:01.000Z",
-          "files": [
-            "sanctions",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -397,7 +373,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-14 21:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
