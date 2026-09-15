@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T11:07:27.635Z",
+    "generatedAt": "2026-09-15T11:38:19.922Z",
     "windowHours": 24,
-    "from": "2026-09-14T11:07:27.635Z",
-    "to": "2026-09-15T11:07:27.635Z"
+    "from": "2026-09-14T11:38:19.922Z",
+    "to": "2026-09-15T11:38:19.922Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 22,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 754
+    "archiveCycles": 755
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,13 +48,13 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 10:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 30,
+      "score": 29,
       "items": [
         {
           "source": "The Hill — الكونغرس والسياسة الأمريكية",
@@ -175,18 +175,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Angry Syrians protest over sharp rise in fuel prices",
-          "excerpt": "Syrians took to the streets for a second day on Monday to demonstrate against a shock government decision to raise fuel prices by up to 40 per cent, extending the largest protests since the fall of Bashar Al Assad's regime in December 2024.",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/14/angry-syrians-hit-the-streets-in-protest-over-sharply-rising-fuel-prices/",
-          "publishedAt": "2026-09-14T11:26:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -207,7 +195,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 10:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -343,7 +331,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 10:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -380,7 +368,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 10:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -416,7 +404,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 10:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -452,7 +440,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 10:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
