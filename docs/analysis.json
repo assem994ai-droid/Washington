@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T15:22:37.909Z",
+    "generatedAt": "2026-09-15T17:20:00.366Z",
     "windowHours": 24,
-    "from": "2026-09-14T15:22:37.909Z",
-    "to": "2026-09-15T15:22:37.909Z"
+    "from": "2026-09-14T17:20:00.366Z",
+    "to": "2026-09-15T17:20:00.366Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
-    "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "items": 11,
+    "files": 4,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 766
+    "americanItems": 2,
+    "archiveCycles": 767
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,37 +25,40 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "message": "fetch failed"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 7,
+      "independentSources": 5,
       "sources": [
         "North Press Agency (English)",
         "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "The National",
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Jerusalem Post — الشرق الأوسط"
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي",
-        "مراكز الفكر",
-        "الملف الإسرائيلي والتركي"
+        "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 41,
+      "score": 24,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -66,7 +69,7 @@
           "link": "https://npasyria.com/en/141575/",
           "publishedAt": "2026-09-15T15:15:53.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -142,18 +145,6 @@
           "us": false
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"ضرب الطلاب\" و\"تأنيث التعليم\".. مداخلات مثيرة للجدل في البرلمان السوري",
-          "excerpt": "شهدت جلسة استماع وزير التربية والتعليم السوري محمد عبد الرحمن تركو أمام مجلس الشعب مداخلتين لافتتين بشأن أساليب التربية وتركيبة الكوادر التعليمية..",
-          "link": "https://www.syria.tv/%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%88%D8%AA%D8%A3%D9%86%D9%8A%D8%AB-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D8%A7%D8%AA-%D9%85%D8%AB%D9%8A%D8%B1%D8%A9-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-          "publishedAt": "2026-09-15T03:59:17.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
           "sourceId": "fdd",
           "circle": "مراكز الفكر",
@@ -164,42 +155,28 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Fuel protests reveal the economic risks threatening Syria’s fragile transition - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1907,w_2976/737696' alt='A protester in Aleppo burns tyres to protest the increase in fuel prices in Syria on the highway between A",
-          "link": "https://www.jpost.com/middle-east/article-908553",
-          "publishedAt": "2026-09-14T17:15:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 3,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -215,72 +192,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الثلاثاء 15-09-2026",
-          "excerpt": "انخفض سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (15-09-2026)، في حين استقرت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
-          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-15-09-2026",
-          "publishedAt": "2026-09-15T07:23:16.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "فيدان: بحثنا في دمشق زيارة أردوغان إلى سوريا ودعم وحدة أراضيها",
-          "excerpt": "قال هاكان فيدان إن مباحثاته في دمشق تناولت زيارة أردوغان المرتقبة، مؤكداً تمسك أنقرة بوحدة سوريا ومواصلة الوقوف إلى جانبها.",
-          "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D8%AD%D8%AB%D9%86%D8%A7-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AF%D8%B9%D9%85-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
-          "publishedAt": "2026-09-14T18:55:19.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من رفع العقوبات إلى الاستثمار.. ماذا حمل الوفد الاقتصادي الأميركي إلى دمشق؟",
-          "excerpt": "انطلقت أمس في دمشق اجتماعات اقتصادية سورية-أميركية بمشاركة وفد من غرفة التجارة الأميركية يضم 50 شركة وأكثر من 80 مبعوثًا، بعد رفع العقوبات عن سوريا.",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D9%85%D9%84-%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82%D8%9F",
-          "publishedAt": "2026-09-15T06:42:38.000Z",
-          "files": [
-            "sanctions",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -296,7 +207,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -332,7 +243,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -350,42 +261,6 @@
           "publishedAt": "2026-09-15T10:20:57.000Z",
           "files": [
             "congress"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تكاسي فارغة ومواصلات مرهقة.. غلاء المحروقات يضيّق التنقل أمام سكان دمشق",
-          "excerpt": "سيارات أجرة مركونة ومفاوضات مسبقة على أجرة الركوب وأسعار تثقل كاهل المواطنين.. تلفزيون سوريا يرصد حالة الركود في حركة التكاسي وباصات النقل في دمشق.",
-          "link": "https://www.syria.tv/%D8%AA%D9%83%D8%A7%D8%B3%D9%8A-%D9%81%D8%A7%D8%B1%D8%BA%D8%A9-%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA-%D9%85%D8%B1%D9%87%D9%82%D8%A9-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%8A%D8%B6%D9%8A%D9%91%D9%82-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%85%D8%B4%D9%82",
-          "publishedAt": "2026-09-15T03:05:02.000Z",
-          "files": [
-            "economy"
           ],
           "seenBefore": true,
           "us": false
