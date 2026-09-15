@@ -1,24 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T18:40:50.496Z",
+    "generatedAt": "2026-09-15T18:56:30.232Z",
     "windowHours": 24,
-    "from": "2026-09-14T18:40:50.496Z",
-    "to": "2026-09-15T18:40:50.496Z"
+    "from": "2026-09-14T18:56:30.232Z",
+    "to": "2026-09-15T18:56:30.232Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 19,
     "files": 7,
-    "withNew": 1,
-    "stale": 6,
+    "withNew": 0,
+    "stale": 7,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 772
+    "archiveCycles": 773
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "مراكز الفكر",
     "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
@@ -32,40 +33,38 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
         "The National",
         "The Hill — الكونغرس والسياسة الأمريكية",
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الكونغرس والتوازن السياسي الأمريكي",
-        "مراكز الفكر"
+        "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:40",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 39,
+      "score": 26,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "UNRWA overstated progress on institutional changes, preserved terrorism issues, watchdog says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3631,w_5500/621173' alt=' A damaged sign is pictured at the headquarters of UNRWA, following an Israeli raid, amid the Israel-Hamas",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_448,w_632/621173' alt=' A damaged sign is pictured at the headquarters of UNRWA, following an Israeli raid, amid the Israel-Hamas c",
           "link": "https://www.jpost.com/middle-east/article-908700",
           "publishedAt": "2026-09-15T18:31:20.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -175,18 +174,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Can Hamas be disarmed?",
-          "excerpt": "The post Can Hamas be disarmed? appeared first on FDD.",
-          "link": "https://www.fdd.org/in_the_news/2026/09/14/can-hamas-be-disarmed/",
-          "publishedAt": "2026-09-14T18:47:22.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -204,13 +191,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -254,21 +241,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "فيدان: بحثنا في دمشق زيارة أردوغان إلى سوريا ودعم وحدة أراضيها",
-          "excerpt": "قال هاكان فيدان إن مباحثاته في دمشق تناولت زيارة أردوغان المرتقبة، مؤكداً تمسك أنقرة بوحدة سوريا ومواصلة الوقوف إلى جانبها.",
-          "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D8%AD%D8%AB%D9%86%D8%A7-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AF%D8%B9%D9%85-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
-          "publishedAt": "2026-09-14T18:55:19.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -286,7 +258,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -336,7 +308,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -373,7 +345,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -409,7 +381,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -445,7 +417,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 18:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
