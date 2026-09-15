@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T05:59:18.891Z",
+    "generatedAt": "2026-09-15T06:21:20.254Z",
     "windowHours": 24,
-    "from": "2026-09-14T05:59:18.891Z",
-    "to": "2026-09-15T05:59:18.891Z"
+    "from": "2026-09-14T06:21:20.254Z",
+    "to": "2026-09-15T06:21:20.254Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 22,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 744
+    "archiveCycles": 745
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,28 +33,40 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "The National",
         "تلفزيون سوريا",
         "Al Jazeera English",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor",
-        "The National"
+        "Al-Monitor"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "الإعلام الدولي",
         "مراكز الفكر",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:49",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 30,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Saudi-Houthi attacks intensify, TotalEnergies seeks Iraq-Syria pipeline stake and Widow’s Bay wins 14 Emmys",
+          "excerpt": "In today’s episode of Trending Middle East, fighting between Saudi Arabia and the Houthi rebels intensifies, with strikes reported in the kingdom and Yemen.Saudi authorities on Tuesday morning issued shelter warnings across several cities, ",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/15/saudi-houthi-attacks-intensify-totalenergies-seeks-iraq-syria-pipeline-stake-and-widows-bay-wins-14-emmys/",
+          "publishedAt": "2026-09-15T06:09:14.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -158,7 +170,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -295,7 +307,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -359,7 +371,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -398,7 +410,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
