@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T08:27:03.228Z",
+    "generatedAt": "2026-09-15T08:59:08.467Z",
     "windowHours": 24,
-    "from": "2026-09-14T08:27:03.228Z",
-    "to": "2026-09-15T08:27:03.228Z"
+    "from": "2026-09-14T08:59:08.467Z",
+    "to": "2026-09-15T08:59:08.467Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 20,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 750
+    "archiveCycles": 751
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,16 +24,21 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 7,
+      "independentSources": 6,
       "sources": [
-        "North Press Agency (English)",
         "The National",
         "تلفزيون سوريا",
         "Al Jazeera English",
@@ -42,30 +47,30 @@
         "Al-Monitor"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
         "الإعلام الدولي",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:08",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 31,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Russian convoy reaches Tartus after Moscow-Damascus base deal",
-          "excerpt": "QAMISHLI, Syria (North Press) – A four-vessel Russian convoy delivered supplies to Syria’s Tartus port on Sep. 7, marking the first reported Russian resupply operation there since Moscow and Damascus reached an agreement on the future of Ru",
-          "link": "https://npasyria.com/en/141556/",
-          "publishedAt": "2026-09-15T06:23:30.000Z",
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria 'great opportunity' for everyone to benefit from, Al Shara says in Dubai",
+          "excerpt": "Syria is becoming a \"great opportunity\" for other countries in the region, President Ahmed Al Shara said in Dubai on Tuesday, pointing to new trade routes emerging as the Iran war blocks the vital Strait of Hormuz chokepoint.His country has",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/15/syria-great-opportunity-for-everyone-to-benefit-from-al-shara-says-in-dubai/",
+          "publishedAt": "2026-09-15T08:48:56.000Z",
           "files": [],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
@@ -145,7 +150,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syria rocked by largest protests since fall of Assad regime after fuel prices surge",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/737695' alt='Protesters burn tyres and block the road in protest against rising fuel prices on the highway between Aleppo",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2009,w_2965/737695' alt='Protesters burn tyres and block the road in protest against rising fuel prices on the highway between Alep",
           "link": "https://www.jpost.com/middle-east/article-908534",
           "publishedAt": "2026-09-14T14:26:37.000Z",
           "files": [],
@@ -171,11 +176,10 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
@@ -183,13 +187,13 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 19,
+      "score": 15,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -249,20 +253,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkish FM Fidan meets Syrian Turkmen Council delegation in Damascus",
-          "excerpt": "QAMISHLI, Syria (North Press) – Turkish Foreign Minister Hakan Fidan met on Monday with a delegation from the Syrian Turkmen Council led by Abdulrahman Mustafa in Damascus. The meeting took place on the sidelines of Fidan’s official visit t",
-          "link": "https://npasyria.com/en/141526/",
-          "publishedAt": "2026-09-14T13:54:04.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -295,7 +285,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Israel would benefit from a stable Syria, but not one under Turkish influence, expert tells ‘Post’",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confere",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1312,w_2100/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confe",
           "link": "https://www.jpost.com/middle-east/article-908523",
           "publishedAt": "2026-09-14T12:59:37.000Z",
           "files": [
@@ -319,7 +309,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -358,7 +348,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -408,7 +398,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:27",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
