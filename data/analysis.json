@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T08:59:08.467Z",
+    "generatedAt": "2026-09-15T09:17:59.203Z",
     "windowHours": 24,
-    "from": "2026-09-14T08:59:08.467Z",
-    "to": "2026-09-15T08:59:08.467Z"
+    "from": "2026-09-14T09:17:59.203Z",
+    "to": "2026-09-15T09:17:59.203Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 23,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 751
+    "archiveCycles": 752
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,21 +24,16 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
+        "North Press Agency (English)",
         "The National",
         "تلفزيون سوريا",
         "Al Jazeera English",
@@ -47,8 +42,8 @@
         "Al-Monitor"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
         "الإعلام الدولي",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
@@ -59,18 +54,42 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 31,
+      "score": 36,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria&#8217;s Hama to introduce Kurdish language classes in five schools",
+          "excerpt": "HAMA, Syria (North Press) – Hama Education Director Ahmad al-Madloush told North Press on Tuesday that five schools in Hama Governorate, west-central Syria, will currently teach the Kurdish language. “It is no secret that Syria is home to m",
+          "link": "https://npasyria.com/en/141562/",
+          "publishedAt": "2026-09-15T08:54:29.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
-          "title": "Syria 'great opportunity' for everyone to benefit from, Al Shara says in Dubai",
-          "excerpt": "Syria is becoming a \"great opportunity\" for other countries in the region, President Ahmed Al Shara said in Dubai on Tuesday, pointing to new trade routes emerging as the Iran war blocks the vital Strait of Hormuz chokepoint.His country has",
+          "title": "Syria a 'great opportunity' for everyone to benefit, Al Shara says in Dubai",
+          "excerpt": "Syria is becoming a “great opportunity” for other countries in the region, President Ahmad Al Shara said in Dubai on Tuesday, highlighting new emerging trade routes as the Strait of Hormuz remains blocked.His country has been at the heart o",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/15/syria-great-opportunity-for-everyone-to-benefit-from-al-shara-says-in-dubai/",
           "publishedAt": "2026-09-15T08:48:56.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Russian convoy reaches Tartus after Moscow-Damascus base deal",
+          "excerpt": "QAMISHLI, Syria (North Press) – A four-vessel Russian convoy delivered supplies to Syria’s Tartus port on Sep. 7, marking the first reported Russian resupply operation there since Moscow and Damascus reached an agreement on the future of Ru",
+          "link": "https://npasyria.com/en/141556/",
+          "publishedAt": "2026-09-15T06:23:30.000Z",
+          "files": [],
+          "seenBefore": true,
           "us": false
         },
         {
@@ -176,10 +195,11 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
@@ -187,13 +207,13 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 15,
+      "score": 19,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -246,6 +266,20 @@
           "excerpt": "حلّت سوريا في المرتبة الخامسة بين دول الجوار من حيث قيمة الصادرات التركية، إذ بلغت صادرات تركيا إليها مليارا و675 مليونا و429 ألف دولار من كانون الثاني إلى آب",
           "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B1-%D8%AA%D8%A8%D9%84%D8%BA-182-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
           "publishedAt": "2026-09-14T14:43:44.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Turkish FM Fidan meets Syrian Turkmen Council delegation in Damascus",
+          "excerpt": "QAMISHLI, Syria (North Press) – Turkish Foreign Minister Hakan Fidan met on Monday with a delegation from the Syrian Turkmen Council led by Abdulrahman Mustafa in Damascus. The meeting took place on the sidelines of Fidan’s official visit t",
+          "link": "https://npasyria.com/en/141526/",
+          "publishedAt": "2026-09-14T13:54:04.000Z",
           "files": [
             "turkey"
           ],
@@ -309,7 +343,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -348,7 +382,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -398,7 +432,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
