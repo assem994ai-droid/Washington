@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T01:25:50.007Z",
+    "generatedAt": "2026-09-15T03:18:01.626Z",
     "windowHours": 24,
-    "from": "2026-09-14T01:25:50.007Z",
-    "to": "2026-09-15T01:25:50.007Z"
+    "from": "2026-09-14T03:18:01.626Z",
+    "to": "2026-09-15T03:18:01.626Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 737
+    "archiveCycles": 738
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,121 +26,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 6,
-      "sources": [
-        "Al Jazeera English",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor",
-        "The National",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام الدولي",
-        "مراكز الفكر",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 29,
-      "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Russia resupplies military bases in Syria for first time under new deal",
-          "excerpt": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
-          "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
-          "publishedAt": "2026-09-15T00:43:47.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Can Hamas be disarmed?",
-          "excerpt": "The post Can Hamas be disarmed? appeared first on FDD.",
-          "link": "https://www.fdd.org/in_the_news/2026/09/14/can-hamas-be-disarmed/",
-          "publishedAt": "2026-09-14T18:47:22.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Fuel protests reveal the economic risks threatening Syria’s fragile transition - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/737696' alt='A protester in Aleppo burns tyres to protest the increase in fuel prices in Syria on the highway between Ale",
-          "link": "https://www.jpost.com/middle-east/article-908553",
-          "publishedAt": "2026-09-14T17:15:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Russian convoy resupplies Syria coastal facilities for first time since Moscow-Damascus deal",
-          "excerpt": "<p>By Feras Dalatey</p><p>TARTOUS, Syria, Sept 14 (Reuters) - A convoy of Russian naval and cargo vessels delivered supplies last week to coastal facilities long used by Moscow’s military, two sources familiar with the operation said, in th",
-          "link": "https://www.al-monitor.com/originals/2026/09/russian-convoy-resupplies-syria-coastal-facilities-first-time-moscow-damascus",
-          "publishedAt": "2026-09-14T16:46:31.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria rocked by largest protests since fall of Assad regime after fuel prices surge",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2009,w_2965/737695' alt='Protesters burn tyres and block the road in protest against rising fuel prices on the highway between Alep",
-          "link": "https://www.jpost.com/middle-east/article-908534",
-          "publishedAt": "2026-09-14T14:26:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Angry Syrians protest over sharp rise in fuel prices",
-          "excerpt": "Syrians took to the streets for a second day on Monday to demonstrate against a shock government decision to raise fuel prices by up to 40 per cent, extending the largest protests since the fall of Bashar Al Assad's regime in December 2024.",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/14/angry-syrians-hit-the-streets-in-protest-over-sharply-rising-fuel-prices/",
-          "publishedAt": "2026-09-14T11:26:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ضوابط جديدة للإعلانات على المباني العامة والخاصة في سوريا",
-          "excerpt": "أصدرت المؤسسة العربية للإعلان قراراً جديداً ينظم تركيب اللوحات والوسائل الإعلانية على أسطح وجدران المباني العامة والخاصة في سوريا..",
-          "link": "https://www.syria.tv/%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-14T03:10:06.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -158,7 +43,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 01:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 01:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -256,7 +141,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Israel would benefit from a stable Syria, but not one under Turkish influence, expert tells ‘Post’",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confere",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1312,w_2100/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confe",
           "link": "https://www.jpost.com/middle-east/article-908523",
           "publishedAt": "2026-09-14T12:59:37.000Z",
           "files": [
@@ -283,6 +168,159 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 5,
+      "sources": [
+        "Al Jazeera English",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "Jerusalem Post — الشرق الأوسط",
+        "Al-Monitor",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "مراكز الفكر",
+        "الملف الإسرائيلي والتركي",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 01:25",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 16,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Russia resupplies military bases in Syria for first time under new deal",
+          "excerpt": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
+          "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+          "publishedAt": "2026-09-15T00:43:47.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Can Hamas be disarmed?",
+          "excerpt": "The post Can Hamas be disarmed? appeared first on FDD.",
+          "link": "https://www.fdd.org/in_the_news/2026/09/14/can-hamas-be-disarmed/",
+          "publishedAt": "2026-09-14T18:47:22.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Fuel protests reveal the economic risks threatening Syria’s fragile transition - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1907,w_2976/737696' alt='A protester in Aleppo burns tyres to protest the increase in fuel prices in Syria on the highway between A",
+          "link": "https://www.jpost.com/middle-east/article-908553",
+          "publishedAt": "2026-09-14T17:15:24.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Russian convoy resupplies Syria coastal facilities for first time since Moscow-Damascus deal",
+          "excerpt": "<p>By Feras Dalatey</p><p>TARTOUS, Syria, Sept 14 (Reuters) - A convoy of Russian naval and cargo vessels delivered supplies last week to coastal facilities long used by Moscow’s military, two sources familiar with the operation said, in th",
+          "link": "https://www.al-monitor.com/originals/2026/09/russian-convoy-resupplies-syria-coastal-facilities-first-time-moscow-damascus",
+          "publishedAt": "2026-09-14T16:46:31.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syria rocked by largest protests since fall of Assad regime after fuel prices surge",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2009,w_2965/737695' alt='Protesters burn tyres and block the road in protest against rising fuel prices on the highway between Alep",
+          "link": "https://www.jpost.com/middle-east/article-908534",
+          "publishedAt": "2026-09-14T14:26:37.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Angry Syrians protest over sharp rise in fuel prices",
+          "excerpt": "Syrians took to the streets for a second day on Monday to demonstrate against a shock government decision to raise fuel prices by up to 40 per cent, extending the largest protests since the fall of Bashar Al Assad's regime in December 2024.",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/14/angry-syrians-hit-the-streets-in-protest-over-sharply-rising-fuel-prices/",
+          "publishedAt": "2026-09-14T11:26:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "Atlantic Council — المجلس الأطلسي"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "مراكز الفكر"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تكاسي فارغة ومواصلات مرهقة.. غلاء المحروقات يضيّق التنقل أمام سكان دمشق",
+          "excerpt": "سيارات أجرة مركونة ومفاوضات مسبقة على أجرة الركوب وأسعار تثقل كاهل المواطنين.. تلفزيون سوريا يرصد حالة الركود في حركة التكاسي وباصات النقل في دمشق.",
+          "link": "https://www.syria.tv/%D8%AA%D9%83%D8%A7%D8%B3%D9%8A-%D9%81%D8%A7%D8%B1%D8%BA%D8%A9-%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA-%D9%85%D8%B1%D9%87%D9%82%D8%A9-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%8A%D8%B6%D9%8A%D9%91%D9%82-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-09-15T03:05:02.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Atlantic Council — المجلس الأطلسي",
+          "sourceId": "atlantic-council",
+          "circle": "مراكز الفكر",
+          "title": "Three African economies show how China’s slowdown is reshaping trade",
+          "excerpt": "From Angolan oil to Congolese copper, China's economic slowdown is creating new winners and losers across Africa. The post Three African economies show how China’s slowdown is reshaping trade appeared first on Atlantic Council.",
+          "link": "https://www.atlanticcouncil.org/dispatches/three-african-economies-show-how-chinas-slowdown-is-reshaping-trade/",
+          "publishedAt": "2026-09-14T11:00:00.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -295,7 +333,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 01:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 01:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -359,7 +397,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 01:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 01:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -381,42 +419,6 @@
           ],
           "seenBefore": true,
           "us": true
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Atlantic Council — المجلس الأطلسي"
-      ],
-      "circles": [
-        "مراكز الفكر"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 01:08",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Atlantic Council — المجلس الأطلسي",
-          "sourceId": "atlantic-council",
-          "circle": "مراكز الفكر",
-          "title": "Three African economies show how China’s slowdown is reshaping trade",
-          "excerpt": "From Angolan oil to Congolese copper, China's economic slowdown is creating new winners and losers across Africa. The post Three African economies show how China’s slowdown is reshaping trade appeared first on Atlantic Council.",
-          "link": "https://www.atlanticcouncil.org/dispatches/three-african-economies-show-how-chinas-slowdown-is-reshaping-trade/",
-          "publishedAt": "2026-09-14T11:00:00.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     }
