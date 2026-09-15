@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T05:17:15.449Z",
+    "generatedAt": "2026-09-15T05:49:22.178Z",
     "windowHours": 24,
-    "from": "2026-09-14T05:17:15.449Z",
-    "to": "2026-09-15T05:17:15.449Z"
+    "from": "2026-09-14T05:49:22.178Z",
+    "to": "2026-09-15T05:49:22.178Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 19,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 742
+    "archiveCycles": 743
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,7 +24,13 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "other",
@@ -47,7 +53,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -146,11 +152,10 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
@@ -158,13 +163,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 19,
+      "score": 15,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -203,20 +208,6 @@
           "excerpt": "حلّت سوريا في المرتبة الخامسة بين دول الجوار من حيث قيمة الصادرات التركية، إذ بلغت صادرات تركيا إليها مليارا و675 مليونا و429 ألف دولار من كانون الثاني إلى آب",
           "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B1-%D8%AA%D8%A8%D9%84%D8%BA-182-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
           "publishedAt": "2026-09-14T14:43:44.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkish FM Fidan meets Syrian Turkmen Council delegation in Damascus",
-          "excerpt": "QAMISHLI, Syria (North Press) – Turkish Foreign Minister Hakan Fidan met on Monday with a delegation from the Syrian Turkmen Council led by Abdulrahman Mustafa in Damascus. The meeting took place on the sidelines of Fidan’s official visit t",
-          "link": "https://npasyria.com/en/141526/",
-          "publishedAt": "2026-09-14T13:54:04.000Z",
           "files": [
             "turkey"
           ],
@@ -283,25 +274,61 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:17",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أول تجمع اقتصادي سوري أميركي في دمشق بعد رفع العقوبات.. ما المكاسب المتوقعة؟",
+          "excerpt": "انطلقت اليوم الإثنين في العاصمة دمشق، فعاليات اجتماع عدد من المسؤولين والشخصيات الاقتصادية في سوريا، مع وفد اقتصادي من غرفة التجارة الأميركية.",
+          "link": "https://www.syria.tv/%D8%A3%D9%88%D9%84-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
+          "publishedAt": "2026-09-14T08:15:01.000Z",
+          "files": [
+            "sanctions",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 4,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -330,57 +357,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid homes in Syria’s Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Monday made an incursion into the southern countryside of Quneitra, southern Syria, from the Tel Abu al-Ghaithar gate inside the buffer zone and raided several homes.&#160; Local sources tol",
-          "link": "https://npasyria.com/en/141518/",
-          "publishedAt": "2026-09-14T07:36:34.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:00",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أول تجمع اقتصادي سوري أميركي في دمشق بعد رفع العقوبات.. ما المكاسب المتوقعة؟",
-          "excerpt": "انطلقت اليوم الإثنين في العاصمة دمشق، فعاليات اجتماع عدد من المسؤولين والشخصيات الاقتصادية في سوريا، مع وفد اقتصادي من غرفة التجارة الأميركية.",
-          "link": "https://www.syria.tv/%D8%A3%D9%88%D9%84-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
-          "publishedAt": "2026-09-14T08:15:01.000Z",
-          "files": [
-            "sanctions",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -398,7 +374,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 05:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
