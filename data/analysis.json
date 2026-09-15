@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T22:37:05.833Z",
+    "generatedAt": "2026-09-15T23:07:00.718Z",
     "windowHours": 24,
-    "from": "2026-09-14T22:37:05.833Z",
-    "to": "2026-09-15T22:37:05.833Z"
+    "from": "2026-09-14T23:07:00.718Z",
+    "to": "2026-09-15T23:07:00.718Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 25,
     "files": 8,
     "withNew": 1,
     "stale": 7,
     "contested": 0,
     "echoed": 0,
     "americanItems": 7,
-    "archiveCycles": 776
+    "archiveCycles": 777
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,7 +48,7 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 20:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -191,97 +191,44 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 23,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني وروبيو يؤكدان أهمية مواصلة دعم سوريا في مسارات الاستقرار و الاقتصاد",
-          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني في اتصال هاتفي مع نظيره الأميركي ماركو روبيو تعزيز التعاون بين دمشق وواشنطن.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
-          "publishedAt": "2026-09-15T22:31:57.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني وروبيو يبحثان تعزيز العلاقات الثنائية ودعم استقرار ونمو اقتصاد سوريا",
-          "excerpt": "أجرى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الثلاثاء، اتصالاً هاتفياً مع ‏وزير الخارجية الأمريكي ماركو روبيو، بحثا خلاله العلاقات الثنائية بين البلدين، ‏وسبل مواصلة تطويرها وتعزيز التعاون بين سوريا والولايات المتحدة، في إطار الزخم",
-          "link": "https://sana.sy/politics/2581904/",
-          "publishedAt": "2026-09-15T22:30:44.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تكاسي فارغة ومواصلات مرهقة.. غلاء المحروقات يضيّق التنقل أمام سكان دمشق",
-          "excerpt": "سيارات أجرة مركونة ومفاوضات مسبقة على أجرة الركوب وأسعار تثقل كاهل المواطنين.. تلفزيون سوريا يرصد حالة الركود في حركة التكاسي وباصات النقل في دمشق.",
-          "link": "https://www.syria.tv/%D8%AA%D9%83%D8%A7%D8%B3%D9%8A-%D9%81%D8%A7%D8%B1%D8%BA%D8%A9-%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA-%D9%85%D8%B1%D9%87%D9%82%D8%A9-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%8A%D8%B6%D9%8A%D9%91%D9%82-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%85%D8%B4%D9%82",
-          "publishedAt": "2026-09-15T03:05:02.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "Al-Monitor",
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
         "The National"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 20:28",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 10,
+      "score": 23,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria’s Sharaa talks economic ties with UAE leader: What to know",
+          "excerpt": "The UAE is moving to boost trade and investment ties with Syria amid the conflicts in the region and following initial caution in its dealings with Damascus.",
+          "link": "https://www.al-monitor.com/originals/2026/09/syrias-sharaa-talks-economic-ties-uae-leader-what-know",
+          "publishedAt": "2026-09-15T20:17:52.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -327,6 +274,74 @@
       ]
     },
     {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 22:37",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 10,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني وروبيو يؤكدان أهمية مواصلة دعم سوريا في مسارات الاستقرار و الاقتصاد",
+          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني في اتصال هاتفي مع نظيره الأميركي ماركو روبيو تعزيز التعاون بين دمشق وواشنطن.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+          "publishedAt": "2026-09-15T22:31:57.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني وروبيو يبحثان تعزيز العلاقات الثنائية ودعم استقرار ونمو اقتصاد سوريا",
+          "excerpt": "أجرى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الثلاثاء، اتصالاً هاتفياً مع ‏وزير الخارجية الأمريكي ماركو روبيو، بحثا خلاله العلاقات الثنائية بين البلدين، ‏وسبل مواصلة تطويرها وتعزيز التعاون بين سوريا والولايات المتحدة، في إطار الزخم",
+          "link": "https://sana.sy/politics/2581904/",
+          "publishedAt": "2026-09-15T22:30:44.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تكاسي فارغة ومواصلات مرهقة.. غلاء المحروقات يضيّق التنقل أمام سكان دمشق",
+          "excerpt": "سيارات أجرة مركونة ومفاوضات مسبقة على أجرة الركوب وأسعار تثقل كاهل المواطنين.. تلفزيون سوريا يرصد حالة الركود في حركة التكاسي وباصات النقل في دمشق.",
+          "link": "https://www.syria.tv/%D8%AA%D9%83%D8%A7%D8%B3%D9%8A-%D9%81%D8%A7%D8%B1%D8%BA%D8%A9-%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA-%D9%85%D8%B1%D9%87%D9%82%D8%A9-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%8A%D8%B6%D9%8A%D9%91%D9%82-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-09-15T03:05:02.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -340,7 +355,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 20:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -405,7 +420,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 20:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -442,7 +457,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 20:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -478,7 +493,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 20:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -514,7 +529,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 20:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 22:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
