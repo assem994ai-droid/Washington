@@ -1,25 +1,24 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T09:17:59.203Z",
+    "generatedAt": "2026-09-15T10:24:14.924Z",
     "windowHours": 24,
-    "from": "2026-09-14T09:17:59.203Z",
-    "to": "2026-09-15T09:17:59.203Z"
+    "from": "2026-09-14T10:24:14.924Z",
+    "to": "2026-09-15T10:24:14.924Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
-    "files": 5,
-    "withNew": 1,
+    "items": 25,
+    "files": 6,
+    "withNew": 2,
     "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 752
+    "americanItems": 2,
+    "archiveCycles": 753
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
-    "الكونغرس والتوازن السياسي الأمريكي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -31,8 +30,9 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 7,
+      "independentSources": 8,
       "sources": [
+        "The Hill — الكونغرس والسياسة الأمريكية",
         "North Press Agency (English)",
         "The National",
         "تلفزيون سوريا",
@@ -42,6 +42,7 @@
         "Al-Monitor"
       ],
       "circles": [
+        "الكونغرس والتوازن السياسي الأمريكي",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الإعلام الدولي",
@@ -53,9 +54,21 @@
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 36,
+      "usItems": 1,
+      "score": 43,
       "items": [
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "Omar Hossino: Chief counsel and national security adviser, House Republican Policy Committee",
+          "excerpt": "For many in Washington, being sanctioned by America’s adversaries is a badge of honor. Omar Hossino, the national security lead for the House Republican Policy Committee, is viewed as the staffer who has helped members get on those blacklis",
+          "link": "https://thehill.com/the-hill-notable-staffers-2026/6067510-omar-hossino-chief-counsel-national-security-adviser-house-republican-policy-committee/",
+          "publishedAt": "2026-09-15T10:01:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -65,7 +78,7 @@
           "link": "https://npasyria.com/en/141562/",
           "publishedAt": "2026-09-15T08:54:29.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -207,7 +220,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 09:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -319,7 +332,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Israel would benefit from a stable Syria, but not one under Turkish influence, expert tells ‘Post’",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1312,w_2100/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confe",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confer",
           "link": "https://www.jpost.com/middle-east/article-908523",
           "publishedAt": "2026-09-14T12:59:37.000Z",
           "files": [
@@ -327,6 +340,42 @@
             "israel"
           ],
           "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Bill Gates warns governments are unprepared for AI upheaval",
+          "excerpt": "QAMISHLI, Syria (North Press) – Microsoft co-founder Bill Gates warned on Tuesday that governments worldwide are unprepared for the social changes artificial intelligence will bring, as concerns grow over AI-driven job losses, cyberattacks ",
+          "link": "https://npasyria.com/en/141568/",
+          "publishedAt": "2026-09-15T10:20:57.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": false,
           "us": false
         }
       ]
@@ -343,7 +392,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 09:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -382,7 +431,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 09:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -432,7 +481,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 08:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 09:17",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
