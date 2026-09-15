@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T17:20:00.366Z",
+    "generatedAt": "2026-09-15T17:31:11.535Z",
     "windowHours": 24,
-    "from": "2026-09-14T17:20:00.366Z",
-    "to": "2026-09-15T17:20:00.366Z"
+    "from": "2026-09-14T17:31:11.535Z",
+    "to": "2026-09-15T17:31:11.535Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 11,
-    "files": 4,
-    "withNew": 0,
-    "stale": 4,
+    "items": 18,
+    "files": 7,
+    "withNew": 1,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 767
+    "americanItems": 4,
+    "archiveCycles": 768
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,25 +25,20 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "message": "fetch failed"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
         "North Press Agency (English)",
         "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "The National",
+        "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
@@ -52,13 +47,13 @@
         "الكونغرس والتوازن السياسي الأمريكي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 24,
+      "score": 28,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -145,6 +140,18 @@
           "us": false
         },
         {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"ضرب الطلاب\" و\"تأنيث التعليم\".. مداخلات مثيرة للجدل في البرلمان السوري",
+          "excerpt": "شهدت جلسة استماع وزير التربية والتعليم السوري محمد عبد الرحمن تركو أمام مجلس الشعب مداخلتين لافتتين بشأن أساليب التربية وتركيبة الكوادر التعليمية..",
+          "link": "https://www.syria.tv/%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%88%D8%AA%D8%A3%D9%86%D9%8A%D8%AB-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D8%A7%D8%AA-%D9%85%D8%AB%D9%8A%D8%B1%D8%A9-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+          "publishedAt": "2026-09-15T03:59:17.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
           "sourceId": "fdd",
           "circle": "مراكز الفكر",
@@ -159,24 +166,78 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط"
+        "تلفزيون سوريا",
+        "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 19,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الأمم المتحدة: أكثر من 3.5 ملايين لاجئ ونازح عادوا إلى مناطقهم في سوريا",
+          "excerpt": "قال مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) إن أكثر من 3.5 ملايين لاجئ ونازح داخلي عادوا إلى مناطقهم الأصلية في سوريا منذ كانون الأول 2024",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-35-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D9%86%D8%A7%D8%B2%D8%AD-%D8%B9%D8%A7%D8%AF%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-15T17:26:23.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "US officials and business leaders visit Syria in bid to deepen economic ties",
+          "excerpt": "A delegation of US officials and business leaders have arrived in Syria in a bid to deepen Washington's economic ties with Damascus. The US Chamber of Commerce delegation, comprising more than 80 participants, including representatives of 5",
+          "link": "https://www.thenationalnews.com/news/us/2026/09/15/us-officials-and-business-leaders-visit-syria-in-bid-to-deepen-economic-ties/",
+          "publishedAt": "2026-09-15T17:26:22.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Jerusalem Post — الشرق الأوسط",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": 8,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -192,6 +253,72 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سعر الليرة السورية والتركية مقابل الدولار في سوريا يوم الثلاثاء 15-09-2026",
+          "excerpt": "انخفض سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (15-09-2026)، في حين استقرت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
+          "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-15-09-2026",
+          "publishedAt": "2026-09-15T07:23:16.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "فيدان: بحثنا في دمشق زيارة أردوغان إلى سوريا ودعم وحدة أراضيها",
+          "excerpt": "قال هاكان فيدان إن مباحثاته في دمشق تناولت زيارة أردوغان المرتقبة، مؤكداً تمسك أنقرة بوحدة سوريا ومواصلة الوقوف إلى جانبها.",
+          "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D8%AD%D8%AB%D9%86%D8%A7-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AF%D8%B9%D9%85-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
+          "publishedAt": "2026-09-14T18:55:19.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من رفع العقوبات إلى الاستثمار.. ماذا حمل الوفد الاقتصادي الأميركي إلى دمشق؟",
+          "excerpt": "انطلقت أمس في دمشق اجتماعات اقتصادية سورية-أميركية بمشاركة وفد من غرفة التجارة الأميركية يضم 50 شركة وأكثر من 80 مبعوثًا، بعد رفع العقوبات عن سوريا.",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D9%85%D9%84-%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82%D8%9F",
+          "publishedAt": "2026-09-15T06:42:38.000Z",
+          "files": [
+            "sanctions",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": true
         }
       ]
     },
@@ -207,7 +334,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -243,7 +370,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -261,6 +388,42 @@
           "publishedAt": "2026-09-15T10:20:57.000Z",
           "files": [
             "congress"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تكاسي فارغة ومواصلات مرهقة.. غلاء المحروقات يضيّق التنقل أمام سكان دمشق",
+          "excerpt": "سيارات أجرة مركونة ومفاوضات مسبقة على أجرة الركوب وأسعار تثقل كاهل المواطنين.. تلفزيون سوريا يرصد حالة الركود في حركة التكاسي وباصات النقل في دمشق.",
+          "link": "https://www.syria.tv/%D8%AA%D9%83%D8%A7%D8%B3%D9%8A-%D9%81%D8%A7%D8%B1%D8%BA%D8%A9-%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA-%D9%85%D8%B1%D9%87%D9%82%D8%A9-%D8%BA%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D9%8A%D8%B6%D9%8A%D9%91%D9%82-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-09-15T03:05:02.000Z",
+          "files": [
+            "economy"
           ],
           "seenBefore": true,
           "us": false
