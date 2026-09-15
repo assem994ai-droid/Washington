@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T14:52:22.923Z",
+    "generatedAt": "2026-09-15T15:22:37.909Z",
     "windowHours": 24,
-    "from": "2026-09-14T14:52:22.923Z",
-    "to": "2026-09-15T14:52:22.923Z"
+    "from": "2026-09-14T15:22:37.909Z",
+    "to": "2026-09-15T15:22:37.909Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 17,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 765
+    "americanItems": 3,
+    "archiveCycles": 766
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الإعلام الدولي",
+    "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -33,29 +34,41 @@
       "contested": false,
       "independentSources": 7,
       "sources": [
+        "North Press Agency (English)",
         "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
-        "North Press Agency (English)",
         "The National",
         "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي",
-        "الإعلام السوري المستقل",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:39",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 28,
+      "usItems": 2,
+      "score": 41,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. says it destroys two Iranian boats near Hormuz",
+          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. military destroyed two Iranian boats near the Strait of Hormuz after they attempted to seize a U.S. naval drone, U.S. officials said Tuesday. The incident occurred near Kargan port and Larak Island i",
+          "link": "https://npasyria.com/en/141575/",
+          "publishedAt": "2026-09-15T15:15:53.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -157,7 +170,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Fuel protests reveal the economic risks threatening Syria’s fragile transition - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/737696' alt='A protester in Aleppo burns tyres to protest the increase in fuel prices in Syria on the highway between Ale",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1907,w_2976/737696' alt='A protester in Aleppo burns tyres to protest the increase in fuel prices in Syria on the highway between A",
           "link": "https://www.jpost.com/middle-east/article-908553",
           "publishedAt": "2026-09-14T17:15:24.000Z",
           "files": [],
@@ -171,31 +184,29 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 8,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syria is continuing to strengthen ties with Turkey, causing concern in Israel - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/737871' alt='Turkish President Recep Tayyip Erdogan (R) amd Syrian President Ahmed Shara (L) attend the official opening ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1414,w_2000/737871' alt='Turkish President Recep Tayyip Erdogan (R) amd Syrian President Ahmed Shara (L) attend the official openin",
           "link": "https://www.jpost.com/middle-east/article-908671",
           "publishedAt": "2026-09-15T14:13:04.000Z",
           "files": [
@@ -213,20 +224,6 @@
           "excerpt": "انخفض سعر صرف الليرة السورية مقابل الدولار الأميركي في تداولات اليوم الثلاثاء (15-09-2026)، في حين استقرت أسعار الذهب في سوريا، بحسب موقع الليرة اليوم.",
           "link": "https://www.syria.tv/%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-15-09-2026",
           "publishedAt": "2026-09-15T07:23:16.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا وتركيا تبحثان آفاق التعاون في مجالات الإسكان وإعادة ‏الإعمار",
-          "excerpt": "بحث وزير الأشغال العامة والإسكان مصطفى عبد الرزاق مع ‏نائب وزير البيئة والتخطيط العمراني والتغير المناخي التركي ‏عمر بولوت والوفد المرافق، آفاق التعاون المشترك في مجالات ‏الإسكان، وإعادة الإعمار، والتخطيط العمراني‎.‎",
-          "link": "https://sana.sy/syria-and-the-world/2580901/",
-          "publishedAt": "2026-09-14T19:50:33.000Z",
           "files": [
             "turkey"
           ],
@@ -262,7 +259,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -299,7 +296,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -335,7 +332,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -371,7 +368,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 14:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
