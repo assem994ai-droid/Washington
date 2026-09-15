@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T17:31:11.535Z",
+    "generatedAt": "2026-09-15T17:46:26.350Z",
     "windowHours": 24,
-    "from": "2026-09-14T17:31:11.535Z",
-    "to": "2026-09-15T17:31:11.535Z"
+    "from": "2026-09-14T17:46:26.350Z",
+    "to": "2026-09-15T17:46:26.350Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 19,
     "files": 7,
     "withNew": 1,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 768
+    "archiveCycles": 769
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,27 +34,39 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "The National",
         "North Press Agency (English)",
         "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
-        "The National",
         "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:20",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 28,
+      "score": 38,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "President Sheikh Mohamed and Syria's Ahmad Al Shara discuss economic ties in Abu Dhabi",
+          "excerpt": "President Sheikh Mohamed met Syrian President Ahmad Al Shara in Abu Dhabi on Tuesday to discuss strengthening bilateral ties.The meeting took place during Mr Al Shara's working visit to the UAE, where he participated in the 24th Arab Media ",
+          "link": "https://www.thenationalnews.com/news/uae/2026/09/15/president-sheikh-mohamed-and-syrias-ahmad-al-shara-discuss-economic-ties-in-abu-dhabi/",
+          "publishedAt": "2026-09-15T17:28:08.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -166,58 +178,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 19,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الأمم المتحدة: أكثر من 3.5 ملايين لاجئ ونازح عادوا إلى مناطقهم في سوريا",
-          "excerpt": "قال مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) إن أكثر من 3.5 ملايين لاجئ ونازح داخلي عادوا إلى مناطقهم الأصلية في سوريا منذ كانون الأول 2024",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-35-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D9%86%D8%A7%D8%B2%D8%AD-%D8%B9%D8%A7%D8%AF%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-15T17:26:23.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US officials and business leaders visit Syria in bid to deepen economic ties",
-          "excerpt": "A delegation of US officials and business leaders have arrived in Syria in a bid to deepen Washington's economic ties with Damascus. The US Chamber of Commerce delegation, comprising more than 80 participants, including representatives of 5",
-          "link": "https://www.thenationalnews.com/news/us/2026/09/15/us-officials-and-business-leaders-visit-syria-in-bid-to-deepen-economic-ties/",
-          "publishedAt": "2026-09-15T17:26:22.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -231,7 +191,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -286,6 +246,58 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:31",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الأمم المتحدة: أكثر من 3.5 ملايين لاجئ ونازح عادوا إلى مناطقهم في سوريا",
+          "excerpt": "قال مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) إن أكثر من 3.5 ملايين لاجئ ونازح داخلي عادوا إلى مناطقهم الأصلية في سوريا منذ كانون الأول 2024",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-35-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D9%86%D8%A7%D8%B2%D8%AD-%D8%B9%D8%A7%D8%AF%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-15T17:26:23.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "US officials and business leaders visit Syria in bid to deepen economic ties",
+          "excerpt": "A delegation of US officials and business leaders have arrived in Syria in a bid to deepen Washington's economic ties with Damascus. The US Chamber of Commerce delegation, comprising more than 80 participants, including representatives of 5",
+          "link": "https://www.thenationalnews.com/news/us/2026/09/15/us-officials-and-business-leaders-visit-syria-in-bid-to-deepen-economic-ties/",
+          "publishedAt": "2026-09-15T17:26:22.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -297,7 +309,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -334,7 +346,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -370,7 +382,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -406,7 +418,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 17:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
