@@ -1,24 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-15T11:57:20.766Z",
+    "generatedAt": "2026-09-15T12:35:19.252Z",
     "windowHours": 24,
-    "from": "2026-09-14T11:57:20.766Z",
-    "to": "2026-09-15T11:57:20.766Z"
+    "from": "2026-09-14T12:35:19.252Z",
+    "to": "2026-09-15T12:35:19.252Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 21,
     "files": 7,
-    "withNew": 1,
-    "stale": 6,
+    "withNew": 0,
+    "stale": 7,
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 756
+    "archiveCycles": 757
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -30,13 +31,12 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 7,
+      "independentSources": 6,
       "sources": [
         "The Hill — الكونغرس والسياسة الأمريكية",
         "North Press Agency (English)",
         "The National",
         "تلفزيون سوريا",
-        "Al Jazeera English",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط"
       ],
@@ -44,17 +44,16 @@
         "الكونغرس والتوازن السياسي الأمريكي",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الإعلام الدولي",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 29,
+      "score": 25,
       "items": [
         {
           "source": "The Hill — الكونغرس والسياسة الأمريكية",
@@ -129,18 +128,6 @@
           "us": false
         },
         {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Russia resupplies military bases in Syria for first time under new deal",
-          "excerpt": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
-          "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
-          "publishedAt": "2026-09-15T00:43:47.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
           "sourceId": "fdd",
           "circle": "مراكز الفكر",
@@ -194,7 +181,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -305,42 +292,6 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Mazloum Abdi meets families of prisoners, missing persons in Kobani",
-          "excerpt": "KOBANI, Syria (North Press) – Adviser to the Syrian Presidency Mazloum Abdi on Tuesday met with families of prisoners and missing persons in the northern Syrian city of Kobani, listening to their demands and concerns over the fate of their ",
-          "link": "https://npasyria.com/en/141572/",
-          "publishedAt": "2026-09-15T11:53:42.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -352,7 +303,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -378,6 +329,42 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:57",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Mazloum Abdi meets families of prisoners, missing persons in Kobani",
+          "excerpt": "KOBANI, Syria (North Press) – Adviser to the Syrian Presidency Mazloum Abdi on Tuesday met with families of prisoners and missing persons in the northern Syrian city of Kobani, listening to their demands and concerns over the fate of their ",
+          "link": "https://npasyria.com/en/141572/",
+          "publishedAt": "2026-09-15T11:53:42.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
       "verification": "مصدر واحد",
@@ -389,7 +376,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -425,7 +412,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -461,7 +448,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-15 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
