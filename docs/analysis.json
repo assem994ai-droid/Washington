@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T06:38:32.622Z",
+    "generatedAt": "2026-09-16T06:53:43.715Z",
     "windowHours": 24,
-    "from": "2026-09-15T06:38:32.622Z",
-    "to": "2026-09-16T06:38:32.622Z"
+    "from": "2026-09-15T06:53:43.715Z",
+    "to": "2026-09-16T06:53:43.715Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 23,
     "files": 8,
-    "withNew": 1,
-    "stale": 7,
+    "withNew": 0,
+    "stale": 8,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 9,
-    "archiveCycles": 786
+    "americanItems": 8,
+    "archiveCycles": 787
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:38",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 33,
+      "score": 24,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -62,7 +62,7 @@
           "link": "https://npasyria.com/en/141590/",
           "publishedAt": "2026-09-16T06:19:55.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -168,7 +168,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -235,59 +235,6 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Federal Register — السجل الفيدرالي الأمريكي",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإدارة التنفيذية الأمريكية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:18",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 13,
-      "items": [
-        {
-          "source": "Federal Register — السجل الفيدرالي الأمريكي",
-          "sourceId": "federal-register",
-          "circle": "الإدارة التنفيذية الأمريكية",
-          "title": "Waiver of Sanctions on Syria Under the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991",
-          "excerpt": "",
-          "link": "https://www.federalregister.gov/documents/2026/09/16/2026-18918/waiver-of-sanctions-on-syria-under-the-chemical-and-biological-weapons-control-and-warfare",
-          "publishedAt": "2026-09-16T00:00:00.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من رفع العقوبات إلى الاستثمار.. ماذا حمل الوفد الاقتصادي الأميركي إلى دمشق؟",
-          "excerpt": "انطلقت أمس في دمشق اجتماعات اقتصادية سورية-أميركية بمشاركة وفد من غرفة التجارة الأميركية يضم 50 شركة وأكثر من 80 مبعوثًا، بعد رفع العقوبات عن سوريا.",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D9%85%D9%84-%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A5%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82%D8%9F",
-          "publishedAt": "2026-09-15T06:42:38.000Z",
-          "files": [
-            "sanctions",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران مستقلان فأكثر",
@@ -301,7 +248,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,7 +302,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -420,7 +367,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -459,6 +406,42 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Federal Register — السجل الفيدرالي الأمريكي"
+      ],
+      "circles": [
+        "الإدارة التنفيذية الأمريكية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:38",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "Federal Register — السجل الفيدرالي الأمريكي",
+          "sourceId": "federal-register",
+          "circle": "الإدارة التنفيذية الأمريكية",
+          "title": "Waiver of Sanctions on Syria Under the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991",
+          "excerpt": "",
+          "link": "https://www.federalregister.gov/documents/2026/09/16/2026-18918/waiver-of-sanctions-on-syria-under-the-chemical-and-biological-weapons-control-and-warfare",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدر واحد",
@@ -470,7 +453,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:18",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -520,7 +503,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 06:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
