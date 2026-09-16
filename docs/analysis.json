@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T11:22:58.999Z",
+    "generatedAt": "2026-09-16T11:39:32.283Z",
     "windowHours": 24,
-    "from": "2026-09-15T11:22:58.999Z",
-    "to": "2026-09-16T11:22:58.999Z"
+    "from": "2026-09-15T11:39:32.283Z",
+    "to": "2026-09-16T11:39:32.283Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 7,
-    "withNew": 0,
+    "items": 25,
+    "files": 8,
+    "withNew": 1,
     "stale": 7,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 798
+    "americanItems": 8,
+    "archiveCycles": 799
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,14 +25,120 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "The National",
+        "North Press Agency (English)",
+        "سانا — قسم السياسة",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 3,
+      "score": 32,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria's first Art Week seeks to revive cultural scene after years of war",
+          "excerpt": "Syria’s first Art Week has brought together 47 Syrian artists who are seeking to revive a cultural landscape shaped by years of war and upheaval.The week-long event in Damascus, founded and curated by Line Kouwatli, features artists mainly ",
+          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/16/syrias-first-art-week-seeks-to-revive-cultural-scene-after-years-of-war/",
+          "publishedAt": "2026-09-16T11:34:46.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S., Syria discuss regional security, minority integration",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Secretary of State Marco Rubio spoke by phone with Syrian Foreign Minister and Expatriates Asaad al-Shaibani on Tuesday to discuss regional security and growing cooperation between Washington and Damascu",
+          "link": "https://npasyria.com/en/141590/",
+          "publishedAt": "2026-09-16T06:19:55.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "وفد من وزارة الصحة يبحث في الدوحة أولويات إعادة بناء النظام الصحي في سوريا",
+          "excerpt": "شارك وفد من وزارة الصحة في ورشة عمل متخصصة بعنوان \"إعادة بناء النظام الصحي في سوريا\"، أُقيمت في العاصمة القطرية الدوحة، بتنظيم من الجمعية الطبية السورية الأمريكية (SAMS)، وباستضافة مركز دراسات النزاع والعمل الإنساني.",
+          "link": "https://sana.sy/syria-and-the-world/2581750/",
+          "publishedAt": "2026-09-15T20:14:59.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "UNRWA overstated progress on institutional changes, preserved terrorism issues, watchdog says",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3631,w_5500/621173' alt=' A damaged sign is pictured at the headquarters of UNRWA, following an Israeli raid, amid the Israel-Hamas",
+          "link": "https://www.jpost.com/middle-east/article-908700",
+          "publishedAt": "2026-09-15T18:31:20.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian army says it thwarts two drug-smuggling attempts",
+          "excerpt": "QAMISHLI, Syria (North Press) – The Syrian army said it thwarted two attempts to smuggle narcotics from Lebanon into Homs and Damascus countryside. The army said on Tuesday that its forces intercepted shipments containing drugs, crystal met",
+          "link": "https://npasyria.com/en/141579/",
+          "publishedAt": "2026-09-15T17:54:35.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "President Sheikh Mohamed and Syria's Ahmad Al Shara discuss economic ties in Abu Dhabi",
+          "excerpt": "President Sheikh Mohamed met Syrian President Ahmad Al Shara in Abu Dhabi on Tuesday to discuss strengthening bilateral ties.The meeting took place during Mr Al Shara's working visit to the UAE, where he participated in the 24th Arab Media ",
+          "link": "https://www.thenationalnews.com/news/uae/2026/09/15/president-sheikh-mohamed-and-syrias-ahmad-al-shara-discuss-economic-ties-in-abu-dhabi/",
+          "publishedAt": "2026-09-15T17:28:08.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. says it destroys two Iranian boats near Hormuz",
+          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. military destroyed two Iranian boats near the Strait of Hormuz after they attempted to seize a U.S. naval drone, U.S. officials said Tuesday. The incident occurred near Kargan port and Larak Island i",
+          "link": "https://npasyria.com/en/141575/",
+          "publishedAt": "2026-09-15T15:15:53.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
@@ -50,7 +156,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -62,7 +168,7 @@
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
-          "title": "Rotana in talks to re-enter Syria and confirms no job cuts despite war",
+          "title": "Rotana Hotels in talks to re-enter Syria and confirms no job cuts despite war",
           "excerpt": "Hotel operator Rotana is in talks to re-enter Syria as the country seeks to reintegrate with the wider global economy. “We would love to be back in Syria. We want to be back,” Rotana’s chief executive Philip Barnes said in an interview with",
           "link": "https://www.thenationalnews.com/business/economy/2026/09/16/rotana-in-talks-to-re-enter-syria-and-confirms-no-job-cuts-despite-war/",
           "publishedAt": "2026-09-16T10:49:34.000Z",
@@ -145,68 +251,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "Jerusalem Post — الشرق الأوسط",
-        "The National"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 10,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "وفد من وزارة الصحة يبحث في الدوحة أولويات إعادة بناء النظام الصحي في سوريا",
-          "excerpt": "شارك وفد من وزارة الصحة في ورشة عمل متخصصة بعنوان \"إعادة بناء النظام الصحي في سوريا\"، أُقيمت في العاصمة القطرية الدوحة، بتنظيم من الجمعية الطبية السورية الأمريكية (SAMS)، وباستضافة مركز دراسات النزاع والعمل الإنساني.",
-          "link": "https://sana.sy/syria-and-the-world/2581750/",
-          "publishedAt": "2026-09-15T20:14:59.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "UNRWA overstated progress on institutional changes, preserved terrorism issues, watchdog says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3631,w_5500/621173' alt=' A damaged sign is pictured at the headquarters of UNRWA, following an Israeli raid, amid the Israel-Hamas",
-          "link": "https://www.jpost.com/middle-east/article-908700",
-          "publishedAt": "2026-09-15T18:31:20.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "President Sheikh Mohamed and Syria's Ahmad Al Shara discuss economic ties in Abu Dhabi",
-          "excerpt": "President Sheikh Mohamed met Syrian President Ahmad Al Shara in Abu Dhabi on Tuesday to discuss strengthening bilateral ties.The meeting took place during Mr Al Shara's working visit to the UAE, where he participated in the 24th Arab Media ",
-          "link": "https://www.thenationalnews.com/news/uae/2026/09/15/president-sheikh-mohamed-and-syrias-ahmad-al-shara-discuss-economic-ties-in-abu-dhabi/",
-          "publishedAt": "2026-09-15T17:28:08.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران مستقلان فأكثر",
@@ -220,7 +264,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -274,7 +318,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -329,61 +373,40 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Federal Register — السجل الفيدرالي الأمريكي"
-      ],
-      "circles": [
-        "الإدارة التنفيذية الأمريكية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "Federal Register — السجل الفيدرالي الأمريكي",
-          "sourceId": "federal-register",
-          "circle": "الإدارة التنفيذية الأمريكية",
-          "title": "Waiver of Sanctions on Syria Under the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991",
-          "excerpt": "",
-          "link": "https://www.federalregister.gov/documents/2026/09/16/2026-18918/waiver-of-sanctions-on-syria-under-the-chemical-and-biological-weapons-control-and-warfare",
-          "publishedAt": "2026-09-16T00:00:00.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 4,
+      "score": 8,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces raid village, seize residents’ phones in Syria&#8217;s Daraa",
+          "excerpt": "DAMASCUS, Syria (North Press) – Israeli forces on Wednesday entered a village in the countryside of Daraa, southern Syria, and raided homes amid drone flights over the area. Local sources in Daraa countryside told North Press that an Israel",
+          "link": "https://npasyria.com/en/141599/",
+          "publishedAt": "2026-09-16T07:52:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -417,22 +440,23 @@
     {
       "id": "sdf",
       "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": 7,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -447,6 +471,92 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian transitional government releases 49 SDF fighters in Hasakah",
+          "excerpt": "HASAKAH, Syria (North Press) – The Syrian transitional government on Wednesday released 49 fighters of the Syrian Democratic Forces (SDF) after their names were previously included on a list of individuals slated for release. A security sou",
+          "link": "https://npasyria.com/en/141596/",
+          "publishedAt": "2026-09-16T07:14:35.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Congressman speaks with Abdi, Ahmad on Syria integration",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Congressman Abraham (Abe) Hamadeh spoke by phone with Adviser to the Syrian Presidency Mazloum Abdi and Deputy of the Syrian People’s Council Ilham Ahmad, and congratulated them on their integration into",
+          "link": "https://npasyria.com/en/141587/",
+          "publishedAt": "2026-09-16T05:44:23.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Federal Register — السجل الفيدرالي الأمريكي"
+      ],
+      "circles": [
+        "الإدارة التنفيذية الأمريكية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:22",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "Federal Register — السجل الفيدرالي الأمريكي",
+          "sourceId": "federal-register",
+          "circle": "الإدارة التنفيذية الأمريكية",
+          "title": "Waiver of Sanctions on Syria Under the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991",
+          "excerpt": "",
+          "link": "https://www.federalregister.gov/documents/2026/09/16/2026-18918/waiver-of-sanctions-on-syria-under-the-chemical-and-biological-weapons-control-and-warfare",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
         }
       ]
     }
