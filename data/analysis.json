@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T11:07:24.209Z",
+    "generatedAt": "2026-09-16T11:22:58.999Z",
     "windowHours": 24,
-    "from": "2026-09-15T11:07:24.209Z",
-    "to": "2026-09-16T11:07:24.209Z"
+    "from": "2026-09-15T11:22:58.999Z",
+    "to": "2026-09-16T11:22:58.999Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
-    "files": 8,
-    "withNew": 1,
+    "items": 18,
+    "files": 7,
+    "withNew": 0,
     "stale": 7,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 8,
-    "archiveCycles": 797
+    "americanItems": 5,
+    "archiveCycles": 798
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,7 +25,13 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "diplomacy",
@@ -44,13 +50,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 25,
+      "score": 16,
       "items": [
         {
           "source": "The National",
@@ -63,7 +69,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -143,39 +149,25 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
-        "North Press Agency (English)",
         "سانا — قسم السياسة",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 3,
-      "score": 22,
+      "usItems": 1,
+      "score": 10,
       "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S., Syria discuss regional security, minority integration",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Secretary of State Marco Rubio spoke by phone with Syrian Foreign Minister and Expatriates Asaad al-Shaibani on Tuesday to discuss regional security and growing cooperation between Washington and Damascu",
-          "link": "https://npasyria.com/en/141590/",
-          "publishedAt": "2026-09-16T06:19:55.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -201,18 +193,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian army says it thwarts two drug-smuggling attempts",
-          "excerpt": "QAMISHLI, Syria (North Press) – The Syrian army said it thwarted two attempts to smuggle narcotics from Lebanon into Homs and Damascus countryside. The army said on Tuesday that its forces intercepted shipments containing drugs, crystal met",
-          "link": "https://npasyria.com/en/141579/",
-          "publishedAt": "2026-09-15T17:54:35.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -223,18 +203,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. says it destroys two Iranian boats near Hormuz",
-          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. military destroyed two Iranian boats near the Strait of Hormuz after they attempted to seize a U.S. naval drone, U.S. officials said Tuesday. The incident occurred near Kargan port and Larak Island i",
-          "link": "https://npasyria.com/en/141575/",
-          "publishedAt": "2026-09-15T15:15:53.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -252,7 +220,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -306,7 +274,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -361,40 +329,61 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Federal Register — السجل الفيدرالي الأمريكي"
+      ],
+      "circles": [
+        "الإدارة التنفيذية الأمريكية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "Federal Register — السجل الفيدرالي الأمريكي",
+          "sourceId": "federal-register",
+          "circle": "الإدارة التنفيذية الأمريكية",
+          "title": "Waiver of Sanctions on Syria Under the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991",
+          "excerpt": "",
+          "link": "https://www.federalregister.gov/documents/2026/09/16/2026-18918/waiver-of-sanctions-on-syria-under-the-chemical-and-biological-weapons-control-and-warfare",
+          "publishedAt": "2026-09-16T00:00:00.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 4,
       "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid village, seize residents’ phones in Syria&#8217;s Daraa",
-          "excerpt": "DAMASCUS, Syria (North Press) – Israeli forces on Wednesday entered a village in the countryside of Daraa, southern Syria, and raided homes amid drone flights over the area. Local sources in Daraa countryside told North Press that an Israel",
-          "link": "https://npasyria.com/en/141599/",
-          "publishedAt": "2026-09-16T07:52:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -428,23 +417,22 @@
     {
       "id": "sdf",
       "label": "ملف اندماج قسد",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 11:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -459,106 +447,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian transitional government releases 49 SDF fighters in Hasakah",
-          "excerpt": "HASAKAH, Syria (North Press) – The Syrian transitional government on Wednesday released 49 fighters of the Syrian Democratic Forces (SDF) after their names were previously included on a list of individuals slated for release. A security sou",
-          "link": "https://npasyria.com/en/141596/",
-          "publishedAt": "2026-09-16T07:14:35.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Mazloum Abdi meets families of prisoners, missing persons in Kobani",
-          "excerpt": "KOBANI, Syria (North Press) – Adviser to the Syrian Presidency Mazloum Abdi on Tuesday met with families of prisoners and missing persons in the northern Syrian city of Kobani, listening to their demands and concerns over the fate of their ",
-          "link": "https://npasyria.com/en/141572/",
-          "publishedAt": "2026-09-15T11:53:42.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Congressman speaks with Abdi, Ahmad on Syria integration",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Congressman Abraham (Abe) Hamadeh spoke by phone with Adviser to the Syrian Presidency Mazloum Abdi and Deputy of the Syrian People’s Council Ilham Ahmad, and congratulated them on their integration into",
-          "link": "https://npasyria.com/en/141587/",
-          "publishedAt": "2026-09-16T05:44:23.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Federal Register — السجل الفيدرالي الأمريكي"
-      ],
-      "circles": [
-        "الإدارة التنفيذية الأمريكية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "Federal Register — السجل الفيدرالي الأمريكي",
-          "sourceId": "federal-register",
-          "circle": "الإدارة التنفيذية الأمريكية",
-          "title": "Waiver of Sanctions on Syria Under the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991",
-          "excerpt": "",
-          "link": "https://www.federalregister.gov/documents/2026/09/16/2026-18918/waiver-of-sanctions-on-syria-under-the-chemical-and-biological-weapons-control-and-warfare",
-          "publishedAt": "2026-09-16T00:00:00.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     }
