@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T17:55:42.256Z",
+    "generatedAt": "2026-09-16T18:26:52.411Z",
     "windowHours": 24,
-    "from": "2026-09-15T17:55:42.256Z",
-    "to": "2026-09-16T17:55:42.256Z"
+    "from": "2026-09-15T18:26:52.411Z",
+    "to": "2026-09-16T18:26:52.411Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 22,
     "files": 7,
     "withNew": 1,
     "stale": 6,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 5,
-    "archiveCycles": 816
+    "americanItems": 4,
+    "archiveCycles": 817
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:55",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
-      "usItems": 2,
-      "score": 38,
+      "usItems": 1,
+      "score": 25,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -64,7 +64,7 @@
           "link": "https://www.jpost.com/middle-east/article-908808",
           "publishedAt": "2026-09-16T17:49:11.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -140,18 +140,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S., Syria discuss regional security, minority integration",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Secretary of State Marco Rubio spoke by phone with Syrian Foreign Minister and Expatriates Asaad al-Shaibani on Tuesday to discuss regional security and growing cooperation between Washington and Damascu",
-          "link": "https://npasyria.com/en/141590/",
-          "publishedAt": "2026-09-16T06:19:55.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
@@ -178,60 +166,6 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:32",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 9,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني وروبيو يؤكدان أهمية مواصلة دعم سوريا في مسارات الاستقرار والاقتصاد",
-          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني في اتصال هاتفي مع نظيره الأميركي ماركو روبيو تعزيز التعاون بين دمشق وواشنطن.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
-          "publishedAt": "2026-09-15T22:31:57.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني وروبيو يبحثان تعزيز العلاقات الثنائية ودعم استقرار ونمو اقتصاد سوريا",
-          "excerpt": "أجرى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الثلاثاء، اتصالاً هاتفياً مع ‏وزير الخارجية الأمريكي ماركو روبيو، بحثا خلاله العلاقات الثنائية بين البلدين، ‏وسبل مواصلة تطويرها وتعزيز التعاون بين سوريا والولايات المتحدة، في إطار الزخم",
-          "link": "https://sana.sy/politics/2581904/",
-          "publishedAt": "2026-09-15T22:30:44.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -244,14 +178,29 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:32",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 18,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UNDOF delegation visits southern Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – A delegation from the United Nations Disengagement Observer Force (UNDOF) visited on Wednesday Sida al-Jolan village and its farms in southern Quneitra. The delegation discussed several demands related to the",
+          "link": "https://npasyria.com/en/141626/",
+          "publishedAt": "2026-09-16T18:21:54.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -297,6 +246,60 @@
       ]
     },
     {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:55",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 9,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني وروبيو يؤكدان أهمية مواصلة دعم سوريا في مسارات الاستقرار والاقتصاد",
+          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني في اتصال هاتفي مع نظيره الأميركي ماركو روبيو تعزيز التعاون بين دمشق وواشنطن.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D9%8A%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+          "publishedAt": "2026-09-15T22:31:57.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني وروبيو يبحثان تعزيز العلاقات الثنائية ودعم استقرار ونمو اقتصاد سوريا",
+          "excerpt": "أجرى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الثلاثاء، اتصالاً هاتفياً مع ‏وزير الخارجية الأمريكي ماركو روبيو، بحثا خلاله العلاقات الثنائية بين البلدين، ‏وسبل مواصلة تطويرها وتعزيز التعاون بين سوريا والولايات المتحدة، في إطار الزخم",
+          "link": "https://sana.sy/politics/2581904/",
+          "publishedAt": "2026-09-15T22:30:44.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدران مستقلان فأكثر",
@@ -309,7 +312,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -359,7 +362,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -397,7 +400,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -461,13 +464,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:32",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 4,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -480,20 +483,6 @@
           "files": [
             "turkey",
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "رئيس الوزراء العراقي: العراق ينوع منافذ تصدير النفط عبر تركيا وسوريا إلى أوروبا",
-          "excerpt": "قال الزيدي، خلال مؤتمر صحفي مشترك مع المستشار الألماني فريدريش ميرتس في برلين، إن بغداد تعمل على \"توسيع وتنويع\" منافذ صادراتها النفطية",
-          "link": "https://www.syria.tv/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%88%D8%B9-%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
-          "publishedAt": "2026-09-15T18:18:42.000Z",
-          "files": [
-            "turkey"
           ],
           "seenBefore": true,
           "us": false
