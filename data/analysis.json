@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T10:51:31.675Z",
+    "generatedAt": "2026-09-16T11:07:24.209Z",
     "windowHours": 24,
-    "from": "2026-09-15T10:51:31.675Z",
-    "to": "2026-09-16T10:51:31.675Z"
+    "from": "2026-09-15T11:07:24.209Z",
+    "to": "2026-09-16T11:07:24.209Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 25,
     "files": 8,
-    "withNew": 0,
-    "stale": 8,
+    "withNew": 1,
+    "stale": 7,
     "contested": 0,
     "echoed": 0,
     "americanItems": 8,
-    "archiveCycles": 796
+    "archiveCycles": 797
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,6 +27,117 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "The National",
+        "Al-Monitor",
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 25,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Rotana in talks to re-enter Syria and confirms no job cuts despite war",
+          "excerpt": "Hotel operator Rotana is in talks to re-enter Syria as the country seeks to reintegrate with the wider global economy. “We would love to be back in Syria. We want to be back,” Rotana’s chief executive Philip Barnes said in an interview with",
+          "link": "https://www.thenationalnews.com/business/economy/2026/09/16/rotana-in-talks-to-re-enter-syria-and-confirms-no-job-cuts-despite-war/",
+          "publishedAt": "2026-09-16T10:49:34.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Houthis condemned for Makkah attack, UAE and Syria hold talks and ransomware activity rises across region",
+          "excerpt": "In today's episode of Trending Middle East, Saudi Arabia has warned that the security of Makkah is a “red line” after the kingdom's air defences destroyed a Houthi drone south of the holy city. The Organisation of Islamic Co-operation conde",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/16/houthis-condemned-for-makkah-attack-uae-and-syria-hold-talks-and-ransomware-activity-rises-across-region/",
+          "publishedAt": "2026-09-16T07:07:17.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria’s Sharaa talks economic ties with UAE leader: What to know",
+          "excerpt": "The UAE is moving to boost trade and investment ties with Syria amid the conflicts in the region and following initial caution in its dealings with Damascus.",
+          "link": "https://www.al-monitor.com/originals/2026/09/syrias-sharaa-talks-economic-ties-uae-leader-what-know",
+          "publishedAt": "2026-09-15T20:17:52.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية بلجيكية لدعم مسار العدالة الانتقالية والتعافي",
+          "excerpt": "بحث رئيس الهيئة الوطنية للعدالة الانتقالية عبد الباسط عبد اللطيف مع المدير الإقليمي لمنطقة الشرق الأوسط في الوكالة البلجيكية للتعاون الدولي باتريك غوديسار، والمستشار الاستراتيجي لمنطقة الشرق الأوسط في الوكالة محمد الروابدة، سبل تعزيز التعاو",
+          "link": "https://sana.sy/syria-and-the-world/2581732/",
+          "publishedAt": "2026-09-15T19:54:10.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الأمم المتحدة: أكثر من 3.5 ملايين لاجئ ونازح عادوا إلى مناطقهم في سوريا",
+          "excerpt": "قال مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) إن أكثر من 3.5 ملايين لاجئ ونازح داخلي عادوا إلى مناطقهم الأصلية في سوريا منذ كانون الأول 2024",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-35-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D9%86%D8%A7%D8%B2%D8%AD-%D8%B9%D8%A7%D8%AF%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-15T17:26:23.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "US officials and business leaders visit Syria in bid to deepen economic ties",
+          "excerpt": "A delegation of US officials and business leaders have arrived in Syria in a bid to deepen Washington's economic ties with Damascus. The US Chamber of Commerce delegation, comprising more than 80 participants, including representatives of 5",
+          "link": "https://www.thenationalnews.com/news/us/2026/09/15/us-officials-and-business-leaders-visit-syria-in-bid-to-deepen-economic-ties/",
+          "publishedAt": "2026-09-15T17:26:22.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -45,7 +156,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -128,103 +239,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "The National",
-        "Al-Monitor",
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:39",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Houthis condemned for Makkah attack, UAE and Syria hold talks and ransomware activity rises across region",
-          "excerpt": "In today's episode of Trending Middle East, Saudi Arabia has warned that the security of Makkah is a “red line” after the kingdom's air defences destroyed a Houthi drone south of the holy city. The Organisation of Islamic Co-operation conde",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/16/houthis-condemned-for-makkah-attack-uae-and-syria-hold-talks-and-ransomware-activity-rises-across-region/",
-          "publishedAt": "2026-09-16T07:07:17.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria’s Sharaa talks economic ties with UAE leader: What to know",
-          "excerpt": "The UAE is moving to boost trade and investment ties with Syria amid the conflicts in the region and following initial caution in its dealings with Damascus.",
-          "link": "https://www.al-monitor.com/originals/2026/09/syrias-sharaa-talks-economic-ties-uae-leader-what-know",
-          "publishedAt": "2026-09-15T20:17:52.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية بلجيكية لدعم مسار العدالة الانتقالية والتعافي",
-          "excerpt": "بحث رئيس الهيئة الوطنية للعدالة الانتقالية عبد الباسط عبد اللطيف مع المدير الإقليمي لمنطقة الشرق الأوسط في الوكالة البلجيكية للتعاون الدولي باتريك غوديسار، والمستشار الاستراتيجي لمنطقة الشرق الأوسط في الوكالة محمد الروابدة، سبل تعزيز التعاو",
-          "link": "https://sana.sy/syria-and-the-world/2581732/",
-          "publishedAt": "2026-09-15T19:54:10.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الأمم المتحدة: أكثر من 3.5 ملايين لاجئ ونازح عادوا إلى مناطقهم في سوريا",
-          "excerpt": "قال مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) إن أكثر من 3.5 ملايين لاجئ ونازح داخلي عادوا إلى مناطقهم الأصلية في سوريا منذ كانون الأول 2024",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-35-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D9%86%D8%A7%D8%B2%D8%AD-%D8%B9%D8%A7%D8%AF%D9%88%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D9%86%D8%A7%D8%B7%D9%82%D9%87%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-15T17:26:23.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US officials and business leaders visit Syria in bid to deepen economic ties",
-          "excerpt": "A delegation of US officials and business leaders have arrived in Syria in a bid to deepen Washington's economic ties with Damascus. The US Chamber of Commerce delegation, comprising more than 80 participants, including representatives of 5",
-          "link": "https://www.thenationalnews.com/news/us/2026/09/15/us-officials-and-business-leaders-visit-syria-in-bid-to-deepen-economic-ties/",
-          "publishedAt": "2026-09-15T17:26:22.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران مستقلان فأكثر",
@@ -238,7 +252,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -292,7 +306,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -359,7 +373,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -424,7 +438,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -488,7 +502,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -524,7 +538,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 10:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
