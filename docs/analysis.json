@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T19:37:00.387Z",
+    "generatedAt": "2026-09-16T19:45:42.548Z",
     "windowHours": 24,
-    "from": "2026-09-15T19:37:00.387Z",
-    "to": "2026-09-16T19:37:00.387Z"
+    "from": "2026-09-15T19:45:42.548Z",
+    "to": "2026-09-16T19:45:42.548Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 18,
     "files": 7,
-    "withNew": 0,
-    "stale": 7,
+    "withNew": 1,
+    "stale": 6,
     "contested": 0,
     "echoed": 1,
     "americanItems": 4,
-    "archiveCycles": 820
+    "archiveCycles": 821
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,19 +25,24 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
         "تلفزيون سوريا",
-        "North Press Agency (English)",
         "The National",
         "سانا — قسم السياسة"
       ],
@@ -47,13 +52,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 1,
-      "score": 24,
+      "score": 20,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -116,18 +121,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian parliament abolishes Terrorism Court established under Bashar Assad",
-          "excerpt": "DAMASCUS, Syria (North Press) – A member of Syria’s People’s Assembly on Wednesday said the country’s Terrorism Court and all legal effects stemming from its rulings were abolished following a vote by the assembly. Mohammed Sido, a lawmaker",
-          "link": "https://npasyria.com/en/141616/",
-          "publishedAt": "2026-09-16T12:35:18.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -156,51 +149,35 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:08",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 14,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "UNDOF delegation visits southern Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – A delegation from the United Nations Disengagement Observer Force (UNDOF) visited on Wednesday Sida al-Jolan village and its farms in southern Quneitra. The delegation discussed several demands related to the",
-          "link": "https://npasyria.com/en/141626/",
-          "publishedAt": "2026-09-16T18:21:54.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid village, seize residents’ phones in Syria&#8217;s Daraa",
-          "excerpt": "DAMASCUS, Syria (North Press) – Israeli forces on Wednesday entered a village in the countryside of Daraa, southern Syria, and raided homes amid drone flights over the area. Local sources in Daraa countryside told North Press that an Israel",
-          "link": "https://npasyria.com/en/141599/",
-          "publishedAt": "2026-09-16T07:52:52.000Z",
+          "title": "قذائف مدفعية على بيت جن.. الاحتلال يجدد اعتداءاته في ريف دمشق",
+          "excerpt": "أطلقت قوات الاحتلال الإسرائيلي أربع قذائف مدفعية على أطراف بلدة بيت جن بريف دمشق الغربي، من دون ورود معلومات عن إصابات.",
+          "link": "https://www.syria.tv/%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-09-16T19:44:04.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
@@ -247,7 +224,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -288,57 +265,6 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:08",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الإفراج عن دفعة جديدة من منتسبي \"قسد\" لدى الحكومة السورية",
-          "excerpt": "أطلقت الحكومة السورية، الأربعاء، سراح 49 موقوفاً من منتسبي \"قوات سوريا الديمقراطية - قسد\"، بعد أشهر من توقف عمليات الإفراج.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D9%85%D9%86%D8%AA%D8%B3%D8%A8%D9%8A-%D9%82%D8%B3%D8%AF-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-09-16T07:43:23.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian transitional government releases 49 SDF fighters in Hasakah",
-          "excerpt": "HASAKAH, Syria (North Press) – The Syrian transitional government on Wednesday released 49 fighters of the Syrian Democratic Forces (SDF) after their names were previously included on a list of individuals slated for release. A security sou",
-          "link": "https://npasyria.com/en/141596/",
-          "publishedAt": "2026-09-16T07:14:35.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -350,7 +276,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -388,7 +314,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -452,7 +378,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -471,6 +397,42 @@
           "files": [
             "turkey",
             "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:37",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الإفراج عن دفعة جديدة من منتسبي \"قسد\" لدى الحكومة السورية",
+          "excerpt": "أطلقت الحكومة السورية، الأربعاء، سراح 49 موقوفاً من منتسبي \"قوات سوريا الديمقراطية - قسد\"، بعد أشهر من توقف عمليات الإفراج.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D9%85%D9%86%D8%AA%D8%B3%D8%A8%D9%8A-%D9%82%D8%B3%D8%AF-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-09-16T07:43:23.000Z",
+          "files": [
+            "sdf"
           ],
           "seenBefore": true,
           "us": false
