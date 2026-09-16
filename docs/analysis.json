@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T19:54:02.794Z",
+    "generatedAt": "2026-09-16T20:07:52.987Z",
     "windowHours": 24,
-    "from": "2026-09-15T19:54:02.794Z",
-    "to": "2026-09-16T19:54:02.794Z"
+    "from": "2026-09-15T20:07:52.987Z",
+    "to": "2026-09-16T20:07:52.987Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 20,
     "files": 7,
     "withNew": 0,
     "stale": 7,
     "contested": 0,
     "echoed": 1,
     "americanItems": 4,
-    "archiveCycles": 822
+    "archiveCycles": 823
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,7 +47,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -166,13 +166,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 10,
+      "score": 9,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -230,20 +230,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد أكثر من عام على اختطافه.. الاحتلال يفرج عن شاب من ريف القنيطرة",
-          "excerpt": "أفرجت قوات الاحتلال الإسرائيلي عن شاب من قرية رويحينة بريف القنيطرة الأوسط، بعد أكثر من عام على اختطافه، وفق مراسل تلفزيون سوريا.",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%B9%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81%D9%87-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-15T19:54:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -261,7 +247,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -314,7 +300,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -364,7 +350,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -389,26 +375,61 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "The National",
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:45",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 4,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هاكان فيدان: إسرائيل التهديد الأكبر لاستقرار سوريا",
+          "excerpt": "فيدان: إسرائيل أكبر تهديد لاستقرار سوريا واندماج قسد أولوية.. ما مستقبل المرحلة المقبلة؟",
+          "link": "https://www.syria.tv/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-16T10:02:41.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "The National"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:54",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 0,
       "items": [
         {
           "source": "The National",
@@ -434,57 +455,6 @@
           "publishedAt": "2026-09-16T07:07:17.000Z",
           "files": [
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية بلجيكية لدعم مسار العدالة الانتقالية والتعافي",
-          "excerpt": "بحث رئيس الهيئة الوطنية للعدالة الانتقالية عبد الباسط عبد اللطيف مع المدير الإقليمي لمنطقة الشرق الأوسط في الوكالة البلجيكية للتعاون الدولي باتريك غوديسار، والمستشار الاستراتيجي لمنطقة الشرق الأوسط في الوكالة محمد الروابدة، سبل تعزيز التعاو",
-          "link": "https://sana.sy/syria-and-the-world/2581732/",
-          "publishedAt": "2026-09-15T19:54:10.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 19:45",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "هاكان فيدان: إسرائيل التهديد الأكبر لاستقرار سوريا",
-          "excerpt": "فيدان: إسرائيل أكبر تهديد لاستقرار سوريا واندماج قسد أولوية.. ما مستقبل المرحلة المقبلة؟",
-          "link": "https://www.syria.tv/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-16T10:02:41.000Z",
-          "files": [
-            "turkey",
-            "israel"
           ],
           "seenBefore": true,
           "us": false
