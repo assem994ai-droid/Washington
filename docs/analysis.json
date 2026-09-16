@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T17:19:55.091Z",
+    "generatedAt": "2026-09-16T17:32:21.297Z",
     "windowHours": 24,
-    "from": "2026-09-15T17:19:55.091Z",
-    "to": "2026-09-16T17:19:55.091Z"
+    "from": "2026-09-15T17:32:21.297Z",
+    "to": "2026-09-16T17:32:21.297Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 22,
     "files": 7,
     "withNew": 0,
     "stale": 7,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 6,
-    "archiveCycles": 814
+    "americanItems": 5,
+    "archiveCycles": 815
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 29,
+      "score": 28,
       "items": [
         {
           "source": "Al-Monitor",
@@ -162,18 +162,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "President Sheikh Mohamed and Syria's Ahmad Al Shara discuss economic ties in Abu Dhabi",
-          "excerpt": "President Sheikh Mohamed met Syrian President Ahmad Al Shara in Abu Dhabi on Tuesday to discuss strengthening bilateral ties.The meeting took place during Mr Al Shara's working visit to the UAE, where he participated in the 24th Arab Media ",
-          "link": "https://www.thenationalnews.com/news/uae/2026/09/15/president-sheikh-mohamed-and-syrias-ahmad-al-shara-discuss-economic-ties-in-abu-dhabi/",
-          "publishedAt": "2026-09-15T17:28:08.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -191,7 +179,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -232,86 +220,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "The National",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:06",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 8,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Rotana Hotels in talks to re-enter Syria and confirms no job cuts despite war",
-          "excerpt": "Hotel operator Rotana is in talks to re-enter Syria as the country seeks to reintegrate with the wider global economy. “We would love to be back in Syria. We want to be back,” Rotana’s chief executive Philip Barnes said in an interview with",
-          "link": "https://www.thenationalnews.com/business/economy/2026/09/16/rotana-in-talks-to-re-enter-syria-and-confirms-no-job-cuts-despite-war/",
-          "publishedAt": "2026-09-16T10:49:34.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Houthis condemned for Makkah attack, UAE and Syria hold talks and ransomware activity rises across region",
-          "excerpt": "In today's episode of Trending Middle East, Saudi Arabia has warned that the security of Makkah is a “red line” after the kingdom's air defences destroyed a Houthi drone south of the holy city. The Organisation of Islamic Co-operation conde",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/16/houthis-condemned-for-makkah-attack-uae-and-syria-hold-talks-and-ransomware-activity-rises-across-region/",
-          "publishedAt": "2026-09-16T07:07:17.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية بلجيكية لدعم مسار العدالة الانتقالية والتعافي",
-          "excerpt": "بحث رئيس الهيئة الوطنية للعدالة الانتقالية عبد الباسط عبد اللطيف مع المدير الإقليمي لمنطقة الشرق الأوسط في الوكالة البلجيكية للتعاون الدولي باتريك غوديسار، والمستشار الاستراتيجي لمنطقة الشرق الأوسط في الوكالة محمد الروابدة، سبل تعزيز التعاو",
-          "link": "https://sana.sy/syria-and-the-world/2581732/",
-          "publishedAt": "2026-09-15T19:54:10.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US officials and business leaders visit Syria in bid to deepen economic ties",
-          "excerpt": "A delegation of US officials and business leaders have arrived in Syria in a bid to deepen Washington's economic ties with Damascus. The US Chamber of Commerce delegation, comprising more than 80 participants, including representatives of 5",
-          "link": "https://www.thenationalnews.com/news/us/2026/09/15/us-officials-and-business-leaders-visit-syria-in-bid-to-deepen-economic-ties/",
-          "publishedAt": "2026-09-15T17:26:22.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -324,7 +232,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -389,7 +297,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -439,7 +347,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -464,6 +372,72 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "The National",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:19",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 4,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Rotana Hotels in talks to re-enter Syria and confirms no job cuts despite war",
+          "excerpt": "Hotel operator Rotana is in talks to re-enter Syria as the country seeks to reintegrate with the wider global economy. “We would love to be back in Syria. We want to be back,” Rotana’s chief executive Philip Barnes said in an interview with",
+          "link": "https://www.thenationalnews.com/business/economy/2026/09/16/rotana-in-talks-to-re-enter-syria-and-confirms-no-job-cuts-despite-war/",
+          "publishedAt": "2026-09-16T10:49:34.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Houthis condemned for Makkah attack, UAE and Syria hold talks and ransomware activity rises across region",
+          "excerpt": "In today's episode of Trending Middle East, Saudi Arabia has warned that the security of Makkah is a “red line” after the kingdom's air defences destroyed a Houthi drone south of the holy city. The Organisation of Islamic Co-operation conde",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/16/houthis-condemned-for-makkah-attack-uae-and-syria-hold-talks-and-ransomware-activity-rises-across-region/",
+          "publishedAt": "2026-09-16T07:07:17.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية بلجيكية لدعم مسار العدالة الانتقالية والتعافي",
+          "excerpt": "بحث رئيس الهيئة الوطنية للعدالة الانتقالية عبد الباسط عبد اللطيف مع المدير الإقليمي لمنطقة الشرق الأوسط في الوكالة البلجيكية للتعاون الدولي باتريك غوديسار، والمستشار الاستراتيجي لمنطقة الشرق الأوسط في الوكالة محمد الروابدة، سبل تعزيز التعاو",
+          "link": "https://sana.sy/syria-and-the-world/2581732/",
+          "publishedAt": "2026-09-15T19:54:10.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -475,7 +449,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 17:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
