@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-16T14:24:33.291Z",
+    "generatedAt": "2026-09-16T15:07:31.677Z",
     "windowHours": 24,
-    "from": "2026-09-15T14:24:33.291Z",
-    "to": "2026-09-16T14:24:33.291Z"
+    "from": "2026-09-15T15:07:31.677Z",
+    "to": "2026-09-16T15:07:31.677Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 25,
     "files": 8,
     "withNew": 0,
     "stale": 8,
     "contested": 0,
     "echoed": 0,
     "americanItems": 7,
-    "archiveCycles": 807
+    "archiveCycles": 808
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,7 +46,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -169,10 +169,9 @@
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "The National",
-        "Al-Monitor",
         "سانا — قسم السياسة",
         "تلفزيون سوريا"
       ],
@@ -181,13 +180,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 16,
+      "score": 12,
       "items": [
         {
           "source": "The National",
@@ -211,20 +210,6 @@
           "excerpt": "In today's episode of Trending Middle East, Saudi Arabia has warned that the security of Makkah is a “red line” after the kingdom's air defences destroyed a Houthi drone south of the holy city. The Organisation of Islamic Co-operation conde",
           "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/16/houthis-condemned-for-makkah-attack-uae-and-syria-hold-talks-and-ransomware-activity-rises-across-region/",
           "publishedAt": "2026-09-16T07:07:17.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria’s Sharaa talks economic ties with UAE leader: What to know",
-          "excerpt": "The UAE is moving to boost trade and investment ties with Syria amid the conflicts in the region and following initial caution in its dealings with Damascus.",
-          "link": "https://www.al-monitor.com/originals/2026/09/syrias-sharaa-talks-economic-ties-uae-leader-what-know",
-          "publishedAt": "2026-09-15T20:17:52.000Z",
           "files": [
             "diplomacy"
           ],
@@ -289,7 +274,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -342,7 +327,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -407,7 +392,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -457,7 +442,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -493,7 +478,7 @@
       "circles": [
         "الإدارة التنفيذية الأمريكية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -529,7 +514,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
