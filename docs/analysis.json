@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T12:51:53.603Z",
+    "generatedAt": "2026-09-17T13:08:36.873Z",
     "windowHours": 24,
-    "from": "2026-09-16T12:51:53.603Z",
-    "to": "2026-09-17T12:51:53.603Z"
+    "from": "2026-09-16T13:08:36.873Z",
+    "to": "2026-09-17T13:08:36.873Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
+    "items": 10,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 1,
     "echoed": 1,
-    "americanItems": 3,
-    "archiveCycles": 855
+    "americanItems": 2,
+    "archiveCycles": 856
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,10 +23,15 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
       "id": "other",
@@ -36,22 +41,23 @@
       "independentSources": 4,
       "sources": [
         "The National",
-        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
+        "Jerusalem Post — الشرق الأوسط",
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "الملف الإسرائيلي والتركي",
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
-      "usItems": 1,
-      "score": 18,
+      "usItems": 0,
+      "score": 14,
       "items": [
         {
           "source": "The National",
@@ -64,18 +70,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Former Syrian prison official faces sentencing in U.S. torture case",
-          "excerpt": "QAMISHLI, Syria (North Press) – A former Syrian military official convicted of torturing prisoners at Adra Prison during Bashar al-Assad’s rule is due to be sentenced in a U.S. federal court in Los Angeles on Thursday, potentially facing de",
-          "link": "https://npasyria.com/en/141647/",
-          "publishedAt": "2026-09-17T10:13:06.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         },
         {
           "source": "تلفزيون سوريا",
@@ -102,13 +96,13 @@
           "us": false
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "فضل عبد الغني: إلغاء محكمة الإرهاب لا يمحو أحكامها تلقائيا.. ما الاختبار القادم؟",
-          "excerpt": "اعتبر مدير الشبكة السورية لحقوق الإنسان، فضل عبد الغني، أن تصويت مجلس الشعب السوري على إلغاء القانون رقم 22 لعام 2012، الذي أُحدثت بموجبه محكمة قضايا الإرهاب، ي",
-          "link": "https://www.syria.tv/%D9%81%D8%B6%D9%84-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%84%D8%A7-%D9%8A%D9%85%D8%AD%D9%88-%D8%A3%D8%AD%D9%83%D8%A7%D9%85%D9%87%D8%A7-%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%9F",
-          "publishedAt": "2026-09-16T13:06:21.000Z",
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF kills Hamas Nukhba commander who helped abduct Tank 3 crew on Oct. 7",
+          "excerpt": "Jihad Samih Mahmoud Ismail took part in the battle in which Shaked Dahan was killed and Omer Neutra, Oz Daniel and Nimrod Cohen were abducted, IDF says",
+          "link": "https://www.ynetnews.com/article/bjdd0700fzg",
+          "publishedAt": "2026-09-16T15:00:29.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -120,23 +114,22 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 11,
+      "score": 7,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -165,21 +158,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UNDOF delegation visits southern Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – A delegation from the United Nations Disengagement Observer Force (UNDOF) visited on Wednesday Sida al-Jolan village and its farms in southern Quneitra. The delegation discussed several demands related to the",
-          "link": "https://npasyria.com/en/141626/",
-          "publishedAt": "2026-09-16T18:21:54.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -195,7 +173,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -231,7 +209,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -282,7 +260,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
