@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T10:43:58.618Z",
+    "generatedAt": "2026-09-17T10:56:04.729Z",
     "windowHours": 24,
-    "from": "2026-09-16T10:43:58.618Z",
-    "to": "2026-09-17T10:43:58.618Z"
+    "from": "2026-09-16T10:56:04.729Z",
+    "to": "2026-09-17T10:56:04.729Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 17,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 847
+    "archiveCycles": 848
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,13 +46,13 @@
         "الملف الإسرائيلي والتركي",
         "الملف الإسرائيلي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:43",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 1,
-      "score": 35,
+      "score": 26,
       "items": [
         {
           "source": "The National",
@@ -63,7 +63,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/09/17/syria-abolishes-assad-era-terrorism-court-and-voids-rulings/",
           "publishedAt": "2026-09-17T10:28:12.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -191,7 +191,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:29",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -256,7 +256,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:29",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -281,58 +281,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "The National"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:29",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
-          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
-          "link": "https://sana.sy/politics/2582797/",
-          "publishedAt": "2026-09-16T21:34:06.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Rotana Hotels in talks to re-enter Syria and confirms no job cuts despite war",
-          "excerpt": "Hotel operator Rotana is in talks to re-enter Syria as the country seeks to reintegrate with the wider global economy. “We would love to be back in Syria. We want to be back,” Rotana’s chief executive Philip Barnes said in an interview with",
-          "link": "https://www.thenationalnews.com/business/economy/2026/09/16/rotana-in-talks-to-re-enter-syria-and-confirms-no-job-cuts-despite-war/",
-          "publishedAt": "2026-09-16T10:49:34.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -344,7 +292,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:29",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -380,6 +328,42 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:43",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 2,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
+          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
+          "link": "https://sana.sy/politics/2582797/",
+          "publishedAt": "2026-09-16T21:34:06.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
         }
       ]
     }
