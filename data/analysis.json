@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T13:08:36.873Z",
+    "generatedAt": "2026-09-17T13:24:38.007Z",
     "windowHours": 24,
-    "from": "2026-09-16T13:08:36.873Z",
-    "to": "2026-09-17T13:08:36.873Z"
+    "from": "2026-09-16T13:24:38.007Z",
+    "to": "2026-09-17T13:24:38.007Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
+    "items": 11,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 1,
     "echoed": 1,
-    "americanItems": 2,
-    "archiveCycles": 856
+    "americanItems": 3,
+    "archiveCycles": 857
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,15 +23,10 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "The operation was aborted due to timeout"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
@@ -41,23 +36,22 @@
       "independentSources": 4,
       "sources": [
         "The National",
+        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "Ynet News (English)"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الملف الإسرائيلي"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
-      "usItems": 0,
-      "score": 14,
+      "usItems": 1,
+      "score": 17,
       "items": [
         {
           "source": "The National",
@@ -70,6 +64,18 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Former Syrian prison official faces sentencing in U.S. torture case",
+          "excerpt": "QAMISHLI, Syria (North Press) – A former Syrian military official convicted of torturing prisoners at Adra Prison during Bashar al-Assad’s rule is due to be sentenced in a U.S. federal court in Los Angeles on Thursday, potentially facing de",
+          "link": "https://npasyria.com/en/141647/",
+          "publishedAt": "2026-09-17T10:13:06.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "تلفزيون سوريا",
@@ -94,18 +100,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills Hamas Nukhba commander who helped abduct Tank 3 crew on Oct. 7",
-          "excerpt": "Jihad Samih Mahmoud Ismail took part in the battle in which Shaked Dahan was killed and Omer Neutra, Oz Daniel and Nimrod Cohen were abducted, IDF says",
-          "link": "https://www.ynetnews.com/article/bjdd0700fzg",
-          "publishedAt": "2026-09-16T15:00:29.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -114,22 +108,23 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 11,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -158,6 +153,21 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UNDOF delegation visits southern Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – A delegation from the United Nations Disengagement Observer Force (UNDOF) visited on Wednesday Sida al-Jolan village and its farms in southern Quneitra. The delegation discussed several demands related to the",
+          "link": "https://npasyria.com/en/141626/",
+          "publishedAt": "2026-09-16T18:21:54.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -173,7 +183,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -209,7 +219,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -260,7 +270,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 12:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
