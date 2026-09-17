@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T07:09:10.460Z",
+    "generatedAt": "2026-09-17T07:25:44.184Z",
     "windowHours": 24,
-    "from": "2026-09-16T07:09:10.460Z",
-    "to": "2026-09-17T07:09:10.460Z"
+    "from": "2026-09-16T07:25:44.184Z",
+    "to": "2026-09-17T07:25:44.184Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 15,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 835
+    "archiveCycles": 836
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,7 +45,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 07:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -140,7 +140,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 07:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -194,57 +194,6 @@
       ]
     },
     {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الإفراج عن دفعة جديدة من منتسبي \"قسد\" لدى الحكومة السورية",
-          "excerpt": "أطلقت الحكومة السورية، الأربعاء، سراح 49 موقوفاً من منتسبي \"قوات سوريا الديمقراطية - قسد\"، بعد أشهر من توقف عمليات الإفراج.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D9%85%D9%86%D8%AA%D8%B3%D8%A8%D9%8A-%D9%82%D8%B3%D8%AF-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-09-16T07:43:23.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian transitional government releases 49 SDF fighters in Hasakah",
-          "excerpt": "HASAKAH, Syria (North Press) – The Syrian transitional government on Wednesday released 49 fighters of the Syrian Democratic Forces (SDF) after their names were previously included on a list of individuals slated for release. A security sou",
-          "link": "https://npasyria.com/en/141596/",
-          "publishedAt": "2026-09-16T07:14:35.000Z",
-          "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -256,7 +205,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 07:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -294,7 +243,7 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 07:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -344,7 +293,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 07:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -378,6 +327,42 @@
           "files": [
             "turkey",
             "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 07:09",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الإفراج عن دفعة جديدة من منتسبي \"قسد\" لدى الحكومة السورية",
+          "excerpt": "أطلقت الحكومة السورية، الأربعاء، سراح 49 موقوفاً من منتسبي \"قوات سوريا الديمقراطية - قسد\"، بعد أشهر من توقف عمليات الإفراج.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%AF%D9%81%D8%B9%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D9%85%D9%86%D8%AA%D8%B3%D8%A8%D9%8A-%D9%82%D8%B3%D8%AF-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-09-16T07:43:23.000Z",
+          "files": [
+            "sdf"
           ],
           "seenBefore": true,
           "us": false
