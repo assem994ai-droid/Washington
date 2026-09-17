@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T09:47:54.769Z",
+    "generatedAt": "2026-09-17T09:57:13.530Z",
     "windowHours": 24,
-    "from": "2026-09-16T09:47:54.769Z",
-    "to": "2026-09-17T09:47:54.769Z"
+    "from": "2026-09-16T09:57:13.530Z",
+    "to": "2026-09-17T09:57:13.530Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 15,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 843
+    "archiveCycles": 844
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,27 +33,25 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
-        "Ynet News (English)",
         "North Press Agency (English)",
         "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
-        "الملف الإسرائيلي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 17,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -74,18 +73,6 @@
           "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/738062' alt='Syrian President Ahmed al-Sharaa attends a meeting with his foreign minister and the leader of the Kurdish",
           "link": "https://www.jpost.com/middle-east/article-908808",
           "publishedAt": "2026-09-16T17:49:11.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills Hamas Nukhba commander who helped abduct Tank 3 crew on Oct. 7",
-          "excerpt": "Jihad Samih Mahmoud Ismail took part in the battle in which Shaked Dahan was killed and Omer Neutra, Oz Daniel and Nimrod Cohen were abducted, IDF says",
-          "link": "https://www.ynetnews.com/article/bjdd0700fzg",
-          "publishedAt": "2026-09-16T15:00:29.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -153,72 +140,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 14,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "منحة دراسية لطلاب الماجستير من جامعة دمشق إلى تركيا",
-          "excerpt": "أعلنت جامعة دمشق عن تقديم منحة جزئية لمدة فصل دراسي واحد لطلاب الماجستير الأكاديمي في اختصاصي الهندسة المعمارية والسياحة، وذلك ضمن مشروع الحراك الأكاديمي",
-          "link": "https://www.syria.tv/%D9%85%D9%86%D8%AD%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1-%D9%85%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AF%D9%85%D8%B4%D9%82-%D8%A5%D9%84%D9%89-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-17T09:44:38.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا وتركيا تبحثان إزالة عوائق الاستثمار وتعزيز التبادل التجاري",
-          "excerpt": "بحث رئيس اتحاد غرف التجارة السورية علاء العلي مع السفير التركي في دمشق نوح يلماز، سبل تطوير العلاقات التجارية بين سوريا وتركيا..",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
-          "publishedAt": "2026-09-17T03:06:44.000Z",
-          "files": [
-            "turkey",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "هاكان فيدان: إسرائيل التهديد الأكبر لاستقرار سوريا",
-          "excerpt": "فيدان: إسرائيل أكبر تهديد لاستقرار سوريا واندماج قسد أولوية.. ما مستقبل المرحلة المقبلة؟",
-          "link": "https://www.syria.tv/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-16T10:02:41.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -231,7 +152,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -282,7 +203,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -320,7 +241,7 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -352,6 +273,72 @@
           "publishedAt": "2026-09-16T10:49:34.000Z",
           "files": [
             "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:47",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 5,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "منحة دراسية لطلاب الماجستير من جامعة دمشق إلى تركيا",
+          "excerpt": "أعلنت جامعة دمشق عن تقديم منحة جزئية لمدة فصل دراسي واحد لطلاب الماجستير الأكاديمي في اختصاصي الهندسة المعمارية والسياحة، وذلك ضمن مشروع الحراك الأكاديمي",
+          "link": "https://www.syria.tv/%D9%85%D9%86%D8%AD%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1-%D9%85%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AF%D9%85%D8%B4%D9%82-%D8%A5%D9%84%D9%89-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-17T09:44:38.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا وتركيا تبحثان إزالة عوائق الاستثمار وتعزيز التبادل التجاري",
+          "excerpt": "بحث رئيس اتحاد غرف التجارة السورية علاء العلي مع السفير التركي في دمشق نوح يلماز، سبل تطوير العلاقات التجارية بين سوريا وتركيا..",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
+          "publishedAt": "2026-09-17T03:06:44.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هاكان فيدان: إسرائيل التهديد الأكبر لاستقرار سوريا",
+          "excerpt": "فيدان: إسرائيل أكبر تهديد لاستقرار سوريا واندماج قسد أولوية.. ما مستقبل المرحلة المقبلة؟",
+          "link": "https://www.syria.tv/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-16T10:02:41.000Z",
+          "files": [
+            "turkey",
+            "israel"
           ],
           "seenBefore": true,
           "us": false
