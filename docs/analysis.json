@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T00:30:29.593Z",
+    "generatedAt": "2026-09-17T03:07:17.529Z",
     "windowHours": 24,
-    "from": "2026-09-16T00:30:29.593Z",
-    "to": "2026-09-17T00:30:29.593Z"
+    "from": "2026-09-16T03:07:17.529Z",
+    "to": "2026-09-17T03:07:17.529Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 20,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 830
+    "archiveCycles": 831
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,7 +47,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -154,6 +154,58 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 13,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا وتركيا تبحثان إزالة عوائق الاستثمار وتعزيز التبادل التجاري",
+          "excerpt": "بحث رئيس اتحاد غرف التجارة السورية علاء العلي مع السفير التركي في دمشق نوح يلماز، سبل تطوير العلاقات التجارية بين سوريا وتركيا..",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
+          "publishedAt": "2026-09-17T03:06:44.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هاكان فيدان: إسرائيل التهديد الأكبر لاستقرار سوريا",
+          "excerpt": "فيدان: إسرائيل أكبر تهديد لاستقرار سوريا واندماج قسد أولوية.. ما مستقبل المرحلة المقبلة؟",
+          "link": "https://www.syria.tv/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-16T10:02:41.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -166,7 +218,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -247,7 +299,7 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -312,7 +364,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -362,7 +414,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 23:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -383,43 +435,6 @@
           ],
           "seenBefore": true,
           "us": true
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-16 23:53",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "هاكان فيدان: إسرائيل التهديد الأكبر لاستقرار سوريا",
-          "excerpt": "فيدان: إسرائيل أكبر تهديد لاستقرار سوريا واندماج قسد أولوية.. ما مستقبل المرحلة المقبلة؟",
-          "link": "https://www.syria.tv/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-16T10:02:41.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     }
