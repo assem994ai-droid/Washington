@@ -1,77 +1,58 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T04:52:14.143Z",
+    "generatedAt": "2026-09-17T05:07:13.254Z",
     "windowHours": 24,
-    "from": "2026-09-16T04:52:14.143Z",
-    "to": "2026-09-17T04:52:14.143Z"
+    "from": "2026-09-16T05:07:13.254Z",
+    "to": "2026-09-17T05:07:13.254Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 18,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 832
+    "archiveCycles": 833
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "Federal Register — السجل الفيدرالي الأمريكي",
-      "sourceId": "federal-register",
-      "message": "الخادم ردّ برمز 500"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
-        "Al Jazeera English",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "The National"
       ],
       "circles": [
-        "الإعلام الدولي",
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 04:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 13,
       "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
-          "excerpt": "Discontent is testing President Ahmed al-Sharaa's ability to unify a country emerging from 14 years of conflict.",
-          "link": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
-          "publishedAt": "2026-09-16T20:08:50.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -159,7 +140,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 04:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -240,7 +221,7 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 04:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -305,7 +286,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 04:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,7 +336,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 04:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -391,7 +372,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 04:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
