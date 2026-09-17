@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T15:38:02.904Z",
+    "generatedAt": "2026-09-17T15:50:14.330Z",
     "windowHours": 24,
-    "from": "2026-09-16T15:38:02.904Z",
-    "to": "2026-09-17T15:38:02.904Z"
+    "from": "2026-09-16T15:50:14.330Z",
+    "to": "2026-09-17T15:50:14.330Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 13,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 864
+    "archiveCycles": 865
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,9 +31,8 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
-        "Al-Monitor",
         "The National",
         "North Press Agency (English)",
         "تلفزيون سوريا",
@@ -44,26 +43,14 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 1,
-      "score": 21,
+      "score": 17,
       "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian singer Assala returns to Damascus stage after 15-year exile",
-          "excerpt": "The Syrian star, one of the Arab world’s most famous artists, had been in self-exile since 2011 after she openly supported the uprising against the since-ousted Assad government.",
-          "link": "https://www.al-monitor.com/originals/2026/09/syrian-singer-assala-returns-damascus-stage-after-15-year-exile",
-          "publishedAt": "2026-09-17T10:56:17.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -115,58 +102,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "التقارير الرسمية الدورية",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Security Council, 10225th Meeting (AM) Syria",
-          "excerpt": "",
-          "link": "https://press.un.org/en/blog/sc16456",
-          "publishedAt": "2026-09-16T21:34:28.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
-          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
-          "link": "https://sana.sy/politics/2582797/",
-          "publishedAt": "2026-09-16T21:34:06.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -181,7 +116,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -248,7 +183,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -314,7 +249,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -332,6 +267,58 @@
           "publishedAt": "2026-09-16T22:20:19.000Z",
           "files": [
             "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "التقارير الرسمية الدورية",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 15:38",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "Security Council, 10225th Meeting (AM) Syria",
+          "excerpt": "",
+          "link": "https://press.un.org/en/blog/sc16456",
+          "publishedAt": "2026-09-16T21:34:28.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
+          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
+          "link": "https://sana.sy/politics/2582797/",
+          "publishedAt": "2026-09-16T21:34:06.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": true
