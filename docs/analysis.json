@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T20:46:41.522Z",
+    "generatedAt": "2026-09-17T21:36:01.555Z",
     "windowHours": 24,
-    "from": "2026-09-16T20:46:41.522Z",
-    "to": "2026-09-17T20:46:41.522Z"
+    "from": "2026-09-16T21:36:01.555Z",
+    "to": "2026-09-17T21:36:01.555Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 15,
+    "items": 13,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 873
+    "americanItems": 2,
+    "archiveCycles": 874
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
+    "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -44,13 +45,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:46",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 30,
+      "score": 21,
       "items": [
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -61,7 +62,7 @@
           "link": "https://www.fdd.org/analysis/2026/09/17/syrias-military-is-rebuilding-but-foreign-influence-may-slow-security-progress/",
           "publishedAt": "2026-09-17T20:45:38.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -130,7 +131,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -198,7 +199,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -253,72 +254,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:23",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 7,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية أممية لدعم العودة الطوعية والآمنة للسوريين",
-          "excerpt": "بحث رئيس الهيئة العامة للمنافذ والجمارك قتيبة بدوي مع رئيس مكتب المفوضية السامية للأمم المتحدة لشؤون اللاجئين (UNHCR) في سوريا كيفين جيمس ألين والوفد المرافق له سبل تعزيز التعاون المشترك ودعم العودة الطوعية والآمنة والكريمة للاجئين والنازحي",
-          "link": "https://sana.sy/politics/2583489/",
-          "publishedAt": "2026-09-17T18:34:45.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Security Council, 10225th Meeting (AM) Syria",
-          "excerpt": "",
-          "link": "https://press.un.org/en/blog/sc16456",
-          "publishedAt": "2026-09-16T21:34:28.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
-          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
-          "link": "https://sana.sy/politics/2582797/",
-          "publishedAt": "2026-09-16T21:34:06.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -330,7 +265,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -351,6 +286,42 @@
           ],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 20:46",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية أممية لدعم العودة الطوعية والآمنة للسوريين",
+          "excerpt": "بحث رئيس الهيئة العامة للمنافذ والجمارك قتيبة بدوي مع رئيس مكتب المفوضية السامية للأمم المتحدة لشؤون اللاجئين (UNHCR) في سوريا كيفين جيمس ألين والوفد المرافق له سبل تعزيز التعاون المشترك ودعم العودة الطوعية والآمنة والكريمة للاجئين والنازحي",
+          "link": "https://sana.sy/politics/2583489/",
+          "publishedAt": "2026-09-17T18:34:45.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     }
