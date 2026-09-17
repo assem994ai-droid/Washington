@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T19:45:37.259Z",
+    "generatedAt": "2026-09-17T20:23:22.498Z",
     "windowHours": 24,
-    "from": "2026-09-16T19:45:37.259Z",
-    "to": "2026-09-17T19:45:37.259Z"
+    "from": "2026-09-16T20:23:22.498Z",
+    "to": "2026-09-17T20:23:22.498Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
+    "items": 14,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 871
+    "archiveCycles": 872
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,24 +30,38 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "سانا — قسم السياسة",
         "The National",
         "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "المصادر الرسمية السورية",
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:44",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 13,
+      "score": 26,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي: سوريا ماضية في الحلول الدبلوماسية ولن تقبل الاحتلال أو التنازل عن حقوق شعبها",
+          "excerpt": "كلمة مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي خلال جلسة لمجلس الأمن حول الوضع في سوريا",
+          "link": "https://sana.sy/video/2583445/",
+          "publishedAt": "2026-09-17T17:31:11.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -102,7 +116,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 19:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -170,7 +184,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 19:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -238,7 +252,7 @@
         "المصادر الرسمية السورية",
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 19:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -302,7 +316,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 19:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
