@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T11:57:57.434Z",
+    "generatedAt": "2026-09-17T12:36:25.843Z",
     "windowHours": 24,
-    "from": "2026-09-16T11:57:57.434Z",
-    "to": "2026-09-17T11:57:57.434Z"
+    "from": "2026-09-16T12:36:25.843Z",
+    "to": "2026-09-17T12:36:25.843Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 14,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 1,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 853
+    "archiveCycles": 854
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,27 +33,25 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "The National",
         "North Press Agency (English)",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "Ynet News (English)"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الملف الإسرائيلي"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 1,
-      "score": 25,
+      "score": 20,
       "items": [
         {
           "source": "The National",
@@ -103,18 +102,6 @@
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills Hamas Nukhba commander who helped abduct Tank 3 crew on Oct. 7",
-          "excerpt": "Jihad Samih Mahmoud Ismail took part in the battle in which Shaked Dahan was killed and Omer Neutra, Oz Daniel and Nimrod Cohen were abducted, IDF says",
-          "link": "https://www.ynetnews.com/article/bjdd0700fzg",
-          "publishedAt": "2026-09-16T15:00:29.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -149,18 +136,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian parliament abolishes Terrorism Court established under Bashar Assad",
-          "excerpt": "DAMASCUS, Syria (North Press) – A member of Syria’s People’s Assembly on Wednesday said the country’s Terrorism Court and all legal effects stemming from its rulings were abolished following a vote by the assembly. Mohammed Sido, a lawmaker",
-          "link": "https://npasyria.com/en/141616/",
-          "publishedAt": "2026-09-16T12:35:18.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -179,7 +154,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -244,7 +219,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -280,7 +255,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -331,7 +306,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 11:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
