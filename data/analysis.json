@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T14:08:08.924Z",
+    "generatedAt": "2026-09-17T14:39:07.791Z",
     "windowHours": 24,
-    "from": "2026-09-16T14:08:08.924Z",
-    "to": "2026-09-17T14:08:08.924Z"
+    "from": "2026-09-16T14:39:07.791Z",
+    "to": "2026-09-17T14:39:07.791Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
+    "items": 11,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 860
+    "archiveCycles": 861
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,7 +22,8 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [
     {
@@ -37,27 +38,25 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Al-Monitor",
         "The National",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "Ynet News (English)"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الملف الإسرائيلي"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 14:08",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 0,
-      "score": 27,
+      "score": 14,
       "items": [
         {
           "source": "Al-Monitor",
@@ -68,7 +67,7 @@
           "link": "https://www.al-monitor.com/originals/2026/09/syrian-singer-assala-returns-damascus-stage-after-15-year-exile",
           "publishedAt": "2026-09-17T10:56:17.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -106,18 +105,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills Hamas Nukhba commander who helped abduct Tank 3 crew on Oct. 7",
-          "excerpt": "Jihad Samih Mahmoud Ismail took part in the battle in which Shaked Dahan was killed and Omer Neutra, Oz Daniel and Nimrod Cohen were abducted, IDF says",
-          "link": "https://www.ynetnews.com/article/bjdd0700fzg",
-          "publishedAt": "2026-09-16T15:00:29.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -135,7 +122,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 14:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -203,7 +190,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 14:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -253,7 +240,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 14:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -289,7 +276,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 13:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 14:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
