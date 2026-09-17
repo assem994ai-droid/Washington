@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T03:07:17.529Z",
+    "generatedAt": "2026-09-17T04:52:14.143Z",
     "windowHours": 24,
-    "from": "2026-09-16T03:07:17.529Z",
-    "to": "2026-09-17T03:07:17.529Z"
+    "from": "2026-09-16T04:52:14.143Z",
+    "to": "2026-09-17T04:52:14.143Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 19,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
-    "echoed": 1,
+    "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 831
+    "archiveCycles": 832
   },
   "emptyCircles": [
     "الكونغرس",
@@ -25,18 +25,23 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Federal Register — السجل الفيدرالي الأمريكي",
+      "sourceId": "federal-register",
+      "message": "الخادم ردّ برمز 500"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "Al Jazeera English",
         "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor",
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "The National"
@@ -44,16 +49,16 @@
       "circles": [
         "الإعلام الدولي",
         "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
-      "echoed": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 17,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -75,18 +80,6 @@
           "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/738062' alt='Syrian President Ahmed al-Sharaa attends a meeting with his foreign minister and the leader of the Kurdish",
           "link": "https://www.jpost.com/middle-east/article-908808",
           "publishedAt": "2026-09-16T17:49:11.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria parliament votes to abolish Assad-era terrorism court, nullify rulings",
-          "excerpt": "<p>DAMASCUS, Sept 16 - Syria's parliament voted on Wednesday to abolish an Assad-era terrorism court and nullify the legal effects of its rulings, state-run Al-Ikhbariya TV reported, in one of the first significant legislative moves by the ",
-          "link": "https://www.al-monitor.com/originals/2026/09/syria-parliament-votes-abolish-assad-era-terrorism-court-nullify-rulings",
-          "publishedAt": "2026-09-16T15:46:36.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -154,58 +147,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 13,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا وتركيا تبحثان إزالة عوائق الاستثمار وتعزيز التبادل التجاري",
-          "excerpt": "بحث رئيس اتحاد غرف التجارة السورية علاء العلي مع السفير التركي في دمشق نوح يلماز، سبل تطوير العلاقات التجارية بين سوريا وتركيا..",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
-          "publishedAt": "2026-09-17T03:06:44.000Z",
-          "files": [
-            "turkey",
-            "economy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "هاكان فيدان: إسرائيل التهديد الأكبر لاستقرار سوريا",
-          "excerpt": "فيدان: إسرائيل أكبر تهديد لاستقرار سوريا واندماج قسد أولوية.. ما مستقبل المرحلة المقبلة؟",
-          "link": "https://www.syria.tv/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-16T10:02:41.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -218,7 +159,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -299,7 +240,7 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -364,7 +305,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -414,7 +355,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 00:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -435,6 +376,58 @@
           ],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 03:07",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 4,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا وتركيا تبحثان إزالة عوائق الاستثمار وتعزيز التبادل التجاري",
+          "excerpt": "بحث رئيس اتحاد غرف التجارة السورية علاء العلي مع السفير التركي في دمشق نوح يلماز، سبل تطوير العلاقات التجارية بين سوريا وتركيا..",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B9%D9%88%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
+          "publishedAt": "2026-09-17T03:06:44.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هاكان فيدان: إسرائيل التهديد الأكبر لاستقرار سوريا",
+          "excerpt": "فيدان: إسرائيل أكبر تهديد لاستقرار سوريا واندماج قسد أولوية.. ما مستقبل المرحلة المقبلة؟",
+          "link": "https://www.syria.tv/%D9%87%D8%A7%D9%83%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-16T10:02:41.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     }
