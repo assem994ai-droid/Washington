@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T10:11:14.107Z",
+    "generatedAt": "2026-09-17T10:29:43.036Z",
     "windowHours": 24,
-    "from": "2026-09-16T10:11:14.107Z",
-    "to": "2026-09-17T10:11:14.107Z"
+    "from": "2026-09-16T10:29:43.036Z",
+    "to": "2026-09-17T10:29:43.036Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 15,
+    "items": 17,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 2,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 845
+    "americanItems": 3,
+    "archiveCycles": 846
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,10 +34,10 @@
       "contested": true,
       "independentSources": 5,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Ynet News (English)",
-        "North Press Agency (English)",
         "The National"
       ],
       "circles": [
@@ -46,14 +46,26 @@
         "الملف الإسرائيلي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:57",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 21,
+      "usItems": 1,
+      "score": 34,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Former Syrian prison official faces sentencing in U.S. torture case",
+          "excerpt": "QAMISHLI, Syria (North Press) – A former Syrian military official convicted of torturing prisoners at Adra Prison during Bashar al-Assad’s rule is due to be sentenced in a U.S. federal court in Los Angeles on Thursday, potentially facing de",
+          "link": "https://npasyria.com/en/141647/",
+          "publishedAt": "2026-09-17T10:13:06.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -157,22 +169,38 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "North Press Agency (English)"
       ],
       "circles": [
+        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:57",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 20,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Israel killing Hamas officials will not lead to group's elimination, BoP source tells 'Post'",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/737575' alt='Residents attempt to extinguish a fire following an Israeli airstrike that hit a vehicle in Gaza City, Augus",
+          "link": "https://www.jpost.com/middle-east/article-908870",
+          "publishedAt": "2026-09-17T10:26:34.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -216,7 +244,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -254,7 +282,7 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -304,7 +332,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 09:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 10:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
