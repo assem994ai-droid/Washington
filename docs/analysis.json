@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T06:30:29.553Z",
+    "generatedAt": "2026-09-17T07:09:10.460Z",
     "windowHours": 24,
-    "from": "2026-09-16T06:30:29.553Z",
-    "to": "2026-09-17T06:30:29.553Z"
+    "from": "2026-09-16T07:09:10.460Z",
+    "to": "2026-09-17T07:09:10.460Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 16,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 834
+    "archiveCycles": 835
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,7 +45,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 05:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -140,7 +140,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 05:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -194,72 +194,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "The National"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 05:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 7,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
-          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
-          "link": "https://sana.sy/politics/2582797/",
-          "publishedAt": "2026-09-16T21:34:06.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Rotana Hotels in talks to re-enter Syria and confirms no job cuts despite war",
-          "excerpt": "Hotel operator Rotana is in talks to re-enter Syria as the country seeks to reintegrate with the wider global economy. “We would love to be back in Syria. We want to be back,” Rotana’s chief executive Philip Barnes said in an interview with",
-          "link": "https://www.thenationalnews.com/business/economy/2026/09/16/rotana-in-talks-to-re-enter-syria-and-confirms-no-job-cuts-despite-war/",
-          "publishedAt": "2026-09-16T10:49:34.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Houthis condemned for Makkah attack, UAE and Syria hold talks and ransomware activity rises across region",
-          "excerpt": "In today's episode of Trending Middle East, Saudi Arabia has warned that the security of Makkah is a “red line” after the kingdom's air defences destroyed a Houthi drone south of the holy city. The Organisation of Islamic Co-operation conde",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/16/houthis-condemned-for-makkah-attack-uae-and-syria-hold-talks-and-ransomware-activity-rises-across-region/",
-          "publishedAt": "2026-09-16T07:07:17.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدران مستقلان فأكثر",
@@ -272,7 +206,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 05:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -322,7 +256,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 05:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -347,6 +281,58 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "The National"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
+          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
+          "link": "https://sana.sy/politics/2582797/",
+          "publishedAt": "2026-09-16T21:34:06.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Rotana Hotels in talks to re-enter Syria and confirms no job cuts despite war",
+          "excerpt": "Hotel operator Rotana is in talks to re-enter Syria as the country seeks to reintegrate with the wider global economy. “We would love to be back in Syria. We want to be back,” Rotana’s chief executive Philip Barnes said in an interview with",
+          "link": "https://www.thenationalnews.com/business/economy/2026/09/16/rotana-in-talks-to-re-enter-syria-and-confirms-no-job-cuts-despite-war/",
+          "publishedAt": "2026-09-16T10:49:34.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -358,7 +344,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 05:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 06:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
