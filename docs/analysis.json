@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-17T18:28:14.033Z",
+    "generatedAt": "2026-09-17T18:44:17.389Z",
     "windowHours": 24,
-    "from": "2026-09-16T18:28:14.033Z",
-    "to": "2026-09-17T18:28:14.033Z"
+    "from": "2026-09-16T18:44:17.389Z",
+    "to": "2026-09-17T18:44:17.389Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
+    "items": 14,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 869
+    "americanItems": 3,
+    "archiveCycles": 870
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,14 +23,135 @@
     "الإعلام الدولي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "التقارير الرسمية الدورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 16,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية أممية لدعم العودة الطوعية والآمنة للسوريين",
+          "excerpt": "بحث رئيس الهيئة العامة للمنافذ والجمارك قتيبة بدوي مع رئيس مكتب المفوضية السامية للأمم المتحدة لشؤون اللاجئين (UNHCR) في سوريا كيفين جيمس ألين والوفد المرافق له سبل تعزيز التعاون المشترك ودعم العودة الطوعية والآمنة والكريمة للاجئين والنازحي",
+          "link": "https://sana.sy/politics/2583489/",
+          "publishedAt": "2026-09-17T18:34:45.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "Security Council, 10225th Meeting (AM) Syria",
+          "excerpt": "",
+          "link": "https://press.un.org/en/blog/sc16456",
+          "publishedAt": "2026-09-16T21:34:28.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
+          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
+          "link": "https://sana.sy/politics/2582797/",
+          "publishedAt": "2026-09-16T21:34:06.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
+      "sources": [
+        "The National",
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:28",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 13,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria abolishes Assad-era 'terrorism' court and voids rulings",
+          "excerpt": "Syria's parliament has voted to abolish an antiterrorism court that was used to prosecute thousands of people, including peaceful activists, ⁠under the regime of ousted president Bashar Al Assad.The decision sets aside the rulings of the co",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/17/syria-abolishes-assad-era-terrorism-court-and-voids-rulings/",
+          "publishedAt": "2026-09-17T10:28:12.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Former Syrian prison official faces sentencing in U.S. torture case",
+          "excerpt": "QAMISHLI, Syria (North Press) – A former Syrian military official convicted of torturing prisoners at Adra Prison during Bashar al-Assad’s rule is due to be sentenced in a U.S. federal court in Los Angeles on Thursday, potentially facing de",
+          "link": "https://npasyria.com/en/141647/",
+          "publishedAt": "2026-09-17T10:13:06.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "3 قتلى من الأمن الداخلي باشتباكات مع مطلوبين وفرض حظر تجوال في الصنمين بريف درعا",
+          "excerpt": "قُتل ثلاثة عناصر من قوى الأمن الداخلي وأصيب آخرون، فجر اليوم الخميس، خلال تنفيذ مهمة أمنية لإلقاء القبض على أحد المطلوبين في مدينة الصنمين بريف درعا الشمالي.",
+          "link": "https://www.syria.tv/3-%D9%82%D8%AA%D9%84%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A8%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B9-%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D9%88%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%86%D9%85%D9%8A%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-17T08:37:50.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -47,7 +168,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -129,7 +250,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -184,54 +305,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "The National",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:10",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 6,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria abolishes Assad-era 'terrorism' court and voids rulings",
-          "excerpt": "Syria's parliament has voted to abolish an antiterrorism court that was used to prosecute thousands of people, including peaceful activists, ⁠under the regime of ousted president Bashar Al Assad.The decision sets aside the rulings of the co",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/17/syria-abolishes-assad-era-terrorism-court-and-voids-rulings/",
-          "publishedAt": "2026-09-17T10:28:12.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "3 قتلى من الأمن الداخلي باشتباكات مع مطلوبين وفرض حظر تجوال في الصنمين بريف درعا",
-          "excerpt": "قُتل ثلاثة عناصر من قوى الأمن الداخلي وأصيب آخرون، فجر اليوم الخميس، خلال تنفيذ مهمة أمنية لإلقاء القبض على أحد المطلوبين في مدينة الصنمين بريف درعا الشمالي.",
-          "link": "https://www.syria.tv/3-%D9%82%D8%AA%D9%84%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A8%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B9-%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D9%88%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%86%D9%85%D9%8A%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-17T08:37:50.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -243,7 +316,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -261,58 +334,6 @@
           "publishedAt": "2026-09-16T22:20:19.000Z",
           "files": [
             "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "التقارير الرسمية الدورية",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-17 18:10",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Security Council, 10225th Meeting (AM) Syria",
-          "excerpt": "",
-          "link": "https://press.un.org/en/blog/sc16456",
-          "publishedAt": "2026-09-16T21:34:28.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مديرإدارة الشؤون الأمريكية بوزارة الخارجية: سوريا وأمريكا تدخلان مرحلة شراكة حقيقية",
-          "excerpt": "أكد مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين سعد بارود أن سوريا والولايات المتحدة الأمريكية ‏تدخلان مرحلة جديدة من الشراكة الحقيقية، مشيراً إلى أن الاتصال الأخير بين وزيري الخارجية تناول الأبعاد السياسية ‏والأمنية والاقتصادي",
-          "link": "https://sana.sy/politics/2582797/",
-          "publishedAt": "2026-09-16T21:34:06.000Z",
-          "files": [
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": true
