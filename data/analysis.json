@@ -1,34 +1,40 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T06:28:23.213Z",
+    "generatedAt": "2026-09-18T06:45:16.421Z",
     "windowHours": 24,
-    "from": "2026-09-17T06:28:23.213Z",
-    "to": "2026-09-18T06:28:23.213Z"
+    "from": "2026-09-17T06:45:16.421Z",
+    "to": "2026-09-18T06:45:16.421Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 15,
     "files": 5,
     "withNew": 0,
     "stale": 5,
-    "contested": 1,
+    "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 897
+    "archiveCycles": 898
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 8,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 7,
       "sources": [
         "The National",
         "Al Jazeera English",
@@ -36,8 +42,7 @@
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "سانا — قسم السياسة",
         "Ynet News (English)",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام المتخصص",
@@ -47,13 +52,13 @@
         "الملف الإسرائيلي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 06:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 37,
+      "score": 30,
       "items": [
         {
           "source": "The National",
@@ -150,18 +155,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "3 قتلى من الأمن الداخلي باشتباكات مع مطلوبين وفرض حظر تجوال في الصنمين بريف درعا",
-          "excerpt": "قُتل ثلاثة عناصر من قوى الأمن الداخلي وأصيب آخرون، فجر اليوم الخميس، خلال تنفيذ مهمة أمنية لإلقاء القبض على أحد المطلوبين في مدينة الصنمين بريف درعا الشمالي.",
-          "link": "https://www.syria.tv/3-%D9%82%D8%AA%D9%84%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A8%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B9-%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D9%88%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%86%D9%85%D9%8A%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-17T08:37:50.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -170,28 +163,26 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Al Jazeera English",
         "Al-Monitor",
-        "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام الدولي",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 06:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 15,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -217,36 +208,6 @@
           "publishedAt": "2026-09-18T01:30:34.000Z",
           "files": [
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مباحثات سورية ـ سويدية حول عوة اللاجئين والاعتداءات الإسرائيلية",
-          "excerpt": "مستشار الشؤون الأوروبية في وزارة الخارجية السورية يبحث مع سفيرة السويد عودة اللاجئين",
-          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%80-%D8%B3%D9%88%D9%8A%D8%AF%D9%8A%D8%A9-%D8%AD%D9%88%D9%84-%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-09-17T21:48:19.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "السويداء والانتهاكات الإسرائيلية ودعم الاستقرار.. مجلس الأمن يبحث تطورات سوريا",
-          "excerpt": "بحث مجلس الأمن الدولي تطورات الأوضاع في سوريا، الخميس مع تركيز على الوضع الأمني والإنساني في البلاد، ولا سيما في محافظة السويداء، إلى جانب استمرار الانتهاكات ال",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-17T18:02:46.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -285,24 +246,22 @@
     {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا"
+        "Turkish Minute"
       ],
       "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل"
+        "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 06:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 3,
       "items": [
         {
           "source": "Turkish Minute",
@@ -315,20 +274,6 @@
           "files": [
             "turkey",
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "منحة دراسية لطلاب الماجستير من جامعة دمشق إلى تركيا",
-          "excerpt": "أعلنت جامعة دمشق عن تقديم منحة جزئية لمدة فصل دراسي واحد لطلاب الماجستير الأكاديمي في اختصاصي الهندسة المعمارية والسياحة، وذلك ضمن مشروع الحراك الأكاديمي",
-          "link": "https://www.syria.tv/%D9%85%D9%86%D8%AD%D8%A9-%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1-%D9%85%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AF%D9%85%D8%B4%D9%82-%D8%A5%D9%84%D9%89-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-17T09:44:38.000Z",
-          "files": [
-            "turkey"
           ],
           "seenBefore": true,
           "us": false
@@ -347,7 +292,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 06:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -384,7 +329,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 06:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
