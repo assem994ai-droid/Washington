@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T12:44:09.843Z",
+    "generatedAt": "2026-09-18T12:56:41.049Z",
     "windowHours": 24,
-    "from": "2026-09-17T12:44:09.843Z",
-    "to": "2026-09-18T12:44:09.843Z"
+    "from": "2026-09-17T12:56:41.049Z",
+    "to": "2026-09-18T12:56:41.049Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
-    "files": 6,
-    "withNew": 1,
+    "items": 16,
+    "files": 5,
+    "withNew": 0,
     "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 914
+    "archiveCycles": 915
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -44,13 +45,13 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 32,
+      "score": 23,
       "items": [
         {
           "source": "Al-Monitor",
@@ -61,7 +62,7 @@
           "link": "https://www.al-monitor.com/originals/2026/09/anti-assad-music-star-makes-triumphant-return-syria",
           "publishedAt": "2026-09-18T12:30:30.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -156,7 +157,7 @@
         "الإعلام المتخصص",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 11:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -255,43 +256,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Turkish Minute"
-      ],
-      "circles": [
-        "الملف التركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 11:55",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Israeli defense minister suggests Turkey take in Hamas members from Gaza",
-          "excerpt": "Israeli Defense Minister Israel Katz suggested on Thursday that Turkey take in Hamas members from Gaza as he called for the full-scale removal of the war-torn territory’s 2 million people. The comments by Katz, who is known for his outspoke",
-          "link": "https://turkishminute.com/2026/09/17/israeli-defense-minister-suggests-turkey-take-in-hamas-members-from-gaza/",
-          "publishedAt": "2026-09-17T13:40:40.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -303,7 +267,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 11:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -339,7 +303,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 11:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -376,7 +340,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 11:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
