@@ -1,26 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T03:07:41.674Z",
+    "generatedAt": "2026-09-18T03:49:04.674Z",
     "windowHours": 24,
-    "from": "2026-09-17T03:07:41.674Z",
-    "to": "2026-09-18T03:07:41.674Z"
+    "from": "2026-09-17T03:49:04.674Z",
+    "to": "2026-09-18T03:49:04.674Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 19,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 889
+    "americanItems": 3,
+    "archiveCycles": 890
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
-    "الكونغرس والتوازن السياسي الأمريكي",
-    "الملف الإسرائيلي"
+    "الكونغرس والتوازن السياسي الأمريكي"
   ],
   "errors": [],
   "files": [
@@ -29,31 +28,45 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 7,
+      "independentSources": 8,
       "sources": [
+        "تلفزيون سوريا",
         "Al Jazeera English",
         "Al-Monitor",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "سانا — قسم السياسة",
+        "Ynet News (English)",
         "The National",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
+        "North Press Agency (English)"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الإعلام الدولي",
         "الإعلام المتخصص",
         "مراكز الفكر",
         "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 02:55",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 32,
+      "usItems": 3,
+      "score": 49,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خمسون شركة أميركية في دمشق.. من يستكشف السوق ومن يستعد للدخول؟",
+          "excerpt": "لم يكن اجتماع رجال الأعمال السوريين والأميركيين الذي عقد في دمشق يومي 14 و15 أيلول مجرد محطة جديدة في مسار الانفتاح الاقتصادي بعد رفع العقوبات",
+          "link": "https://www.syria.tv/%D8%AE%D9%85%D8%B3%D9%88%D9%86-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D9%85%D9%86-%D9%8A%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D9%88%D9%85%D9%86-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%84%D8%AF%D8%AE%D9%88%D9%84%D8%9F",
+          "publishedAt": "2026-09-18T03:46:55.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Al Jazeera English",
           "sourceId": "aljazeera-en",
@@ -98,6 +111,18 @@
           "excerpt": "كلمة مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي خلال جلسة لمجلس الأمن حول الوضع في سوريا",
           "link": "https://sana.sy/video/2583445/",
           "publishedAt": "2026-09-17T17:31:11.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Burning tires, empty pumps: $100 oil sparks global unrest as Iran war drags on",
+          "excerpt": "From mass protests in Syria and fishermen blocking French fuel depots to shortages across Asia, governments face a growing choice between passing soaring energy costs to consumers or taking on more debt to shield them",
+          "link": "https://www.ynetnews.com/article/hkyfgrtfme",
+          "publishedAt": "2026-09-17T10:49:20.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -160,7 +185,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 02:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -271,7 +296,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 02:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -322,7 +347,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 02:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -359,7 +384,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 02:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
