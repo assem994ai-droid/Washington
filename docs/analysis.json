@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T08:50:53.448Z",
+    "generatedAt": "2026-09-18T09:06:50.441Z",
     "windowHours": 24,
-    "from": "2026-09-17T08:50:53.448Z",
-    "to": "2026-09-18T08:50:53.448Z"
+    "from": "2026-09-17T09:06:50.441Z",
+    "to": "2026-09-18T09:06:50.441Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 904
+    "archiveCycles": 905
   },
   "emptyCircles": [
     "الكونغرس",
@@ -62,7 +62,7 @@
           "link": "https://npasyria.com/en/141679/",
           "publishedAt": "2026-09-18T08:49:14.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -81,12 +81,12 @@
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
-          "title": "Assala returns to Syrian stage for first time in more than 15 years",
-          "excerpt": "Syrian singer Assala Nasri has performed in Damascus for the first time in more than 15 years, marking a symbolic and emotional homecoming after her outspoken opposition to former president Bashar Al Assad kept her away from the country.Tho",
-          "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/assala-returns-to-syrian-stage-for-first-time-in-more-than-15-years/",
+          "title": "Assala returns to Syrian stage for first time in more than 16 years",
+          "excerpt": "Syrian singer Assala Nasri has performed in Damascus for the first time in more than 16 years, marking a symbolic and emotional homecoming after her outspoken opposition to former president Bashar Al Assad kept her away from the country.Tho",
+          "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/assala-returns-to-syrian-stage-for-first-time-in-more-than-16-years/",
           "publishedAt": "2026-09-18T05:44:00.000Z",
           "files": [],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
@@ -183,7 +183,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -294,7 +294,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -345,7 +345,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -382,7 +382,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
