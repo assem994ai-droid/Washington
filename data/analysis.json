@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T12:56:41.049Z",
+    "generatedAt": "2026-09-18T13:09:44.037Z",
     "windowHours": 24,
-    "from": "2026-09-17T12:56:41.049Z",
-    "to": "2026-09-18T12:56:41.049Z"
+    "from": "2026-09-17T13:09:44.037Z",
+    "to": "2026-09-18T13:09:44.037Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 17,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 915
+    "archiveCycles": 916
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,9 +33,9 @@
       "contested": false,
       "independentSources": 5,
       "sources": [
+        "The National",
         "Al-Monitor",
         "North Press Agency (English)",
-        "The National",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "سانا — قسم السياسة"
       ],
@@ -45,14 +45,26 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 23,
+      "score": 33,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "How Assala Nasri's new album maps Syria's 14 governorates through song",
+          "excerpt": "Assala Nasri’s return to Damascus this week was never going to be just another concert.The Syrian singer, mononymously known as Assala, performed in the capital on Thursday for the first time since 2010; she had remained away since publicly",
+          "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/how-assala-nasris-new-album-maps-syrias-14-governorates-through-song/",
+          "publishedAt": "2026-09-18T13:07:17.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -157,7 +169,7 @@
         "الإعلام المتخصص",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -267,7 +279,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -303,7 +315,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -340,7 +352,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
