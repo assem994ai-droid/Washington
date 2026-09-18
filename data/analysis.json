@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T18:11:07.920Z",
+    "generatedAt": "2026-09-18T18:46:31.839Z",
     "windowHours": 24,
-    "from": "2026-09-17T18:11:07.920Z",
-    "to": "2026-09-18T18:11:07.920Z"
+    "from": "2026-09-17T18:46:31.839Z",
+    "to": "2026-09-18T18:46:31.839Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 19,
-    "files": 6,
+    "files": 5,
     "withNew": 1,
-    "stale": 5,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 928
+    "archiveCycles": 929
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
+    "المصادر الرسمية السورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
@@ -33,14 +34,14 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "North Press Agency (English)",
         "The National",
         "Al-Monitor",
-        "North Press Agency (English)",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
         "مراكز الفكر"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -49,8 +50,20 @@
       "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 27,
+      "score": 28,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "War remnant explosion kills one, injures another in Damascus Countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – One person was killed and another injured on Friday after a war remnant exploded at the Nursing School in the city of Darayya, in Damascus countryside. The Civil Defense said in official posts that its teams ",
+          "link": "https://npasyria.com/en/141698/",
+          "publishedAt": "2026-09-18T18:33:33.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -60,7 +73,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/09/18/damascus-hosts-art-week-syria/",
           "publishedAt": "2026-09-18T18:02:00.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -164,7 +177,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 17:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -261,7 +274,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 17:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -325,7 +338,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 17:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -361,7 +374,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 17:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -379,42 +392,6 @@
           "publishedAt": "2026-09-17T21:35:39.000Z",
           "files": [
             "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 17:56",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية أممية لدعم العودة الطوعية والآمنة للسوريين",
-          "excerpt": "بحث رئيس الهيئة العامة للمنافذ والجمارك قتيبة بدوي مع رئيس مكتب المفوضية السامية للأمم المتحدة لشؤون اللاجئين (UNHCR) في سوريا كيفين جيمس ألين والوفد المرافق له سبل تعزيز التعاون المشترك ودعم العودة الطوعية والآمنة والكريمة للاجئين والنازحي",
-          "link": "https://sana.sy/politics/2583489/",
-          "publishedAt": "2026-09-17T18:34:45.000Z",
-          "files": [
             "diplomacy"
           ],
           "seenBefore": true,
