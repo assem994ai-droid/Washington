@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T03:57:33.377Z",
+    "generatedAt": "2026-09-18T04:12:06.232Z",
     "windowHours": 24,
-    "from": "2026-09-17T03:57:33.377Z",
-    "to": "2026-09-18T03:57:33.377Z"
+    "from": "2026-09-17T04:12:06.232Z",
+    "to": "2026-09-18T04:12:06.232Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 17,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 891
+    "americanItems": 2,
+    "archiveCycles": 892
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,26 +22,21 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
         "Al Jazeera English",
         "Al-Monitor",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "سانا — قسم السياسة",
         "The National",
+        "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
@@ -51,13 +46,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 25,
+      "usItems": 2,
+      "score": 32,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -120,6 +115,18 @@
           "us": false
         },
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Former Syrian prison official faces sentencing in U.S. torture case",
+          "excerpt": "QAMISHLI, Syria (North Press) – A former Syrian military official convicted of torturing prisoners at Adra Prison during Bashar al-Assad’s rule is due to be sentenced in a U.S. federal court in Los Angeles on Thursday, potentially facing de",
+          "link": "https://npasyria.com/en/141647/",
+          "publishedAt": "2026-09-17T10:13:06.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -153,7 +160,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -264,7 +271,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -315,7 +322,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -352,7 +359,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 03:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
