@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T13:09:44.037Z",
+    "generatedAt": "2026-09-18T13:23:52.229Z",
     "windowHours": 24,
-    "from": "2026-09-17T13:09:44.037Z",
-    "to": "2026-09-18T13:09:44.037Z"
+    "from": "2026-09-17T13:23:52.229Z",
+    "to": "2026-09-18T13:23:52.229Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
-    "files": 5,
+    "items": 18,
+    "files": 6,
     "withNew": 1,
-    "stale": 4,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 916
+    "archiveCycles": 917
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 13:09",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 33,
+      "score": 24,
       "items": [
         {
           "source": "The National",
@@ -62,7 +62,7 @@
           "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/how-assala-nasris-new-album-maps-syrias-14-governorates-through-song/",
           "publishedAt": "2026-09-18T13:07:17.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -169,7 +169,7 @@
         "الإعلام المتخصص",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -268,6 +268,42 @@
       ]
     },
     {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN voices concern over killing of former SDF fighter",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United Nations on Thursday expressed concern over the kidnapping and killing of a former fighter with the Syrian Democratic Forces (SDF), saying the incident sparked protests in several Kurdish-majority t",
+          "link": "https://npasyria.com/en/141685/",
+          "publishedAt": "2026-09-18T13:19:21.000Z",
+          "files": [
+            "sdf"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -279,7 +315,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -315,7 +351,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -352,7 +388,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 12:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 13:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
