@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T20:37:05.165Z",
+    "generatedAt": "2026-09-18T20:47:01.635Z",
     "windowHours": 24,
-    "from": "2026-09-17T20:37:05.165Z",
-    "to": "2026-09-18T20:37:05.165Z"
+    "from": "2026-09-17T20:47:01.635Z",
+    "to": "2026-09-18T20:47:01.635Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 19,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 930
+    "archiveCycles": 931
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "مراكز الفكر",
     "المصادر الرسمية السورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -31,27 +32,25 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Al Jazeera English",
         "North Press Agency (English)",
         "The National",
-        "Al-Monitor",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "Al-Monitor"
       ],
       "circles": [
         "الإعلام الدولي",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "مراكز الفكر"
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 32,
+      "score": 19,
       "items": [
         {
           "source": "Al Jazeera English",
@@ -62,7 +61,7 @@
           "link": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
           "publishedAt": "2026-09-18T20:20:23.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -160,18 +159,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Syria’s military is rebuilding, but foreign influence may slow security progress",
-          "excerpt": "Foreign influence in the Syrian military, chiefly Turkish and Russian, combined with the continued presence of extremist elements within its ranks, will constrain Damascus’s ability to take steps consistent... The post Syria’s military is r",
-          "link": "https://www.fdd.org/analysis/2026/09/17/syrias-military-is-rebuilding-but-foreign-influence-may-slow-security-progress/",
-          "publishedAt": "2026-09-17T20:45:38.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -190,7 +177,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 18:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -287,7 +274,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 18:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -351,7 +338,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 18:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -387,7 +374,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 18:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
