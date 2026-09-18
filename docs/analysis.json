@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T08:39:16.304Z",
+    "generatedAt": "2026-09-18T08:50:53.448Z",
     "windowHours": 24,
-    "from": "2026-09-17T08:39:16.304Z",
-    "to": "2026-09-18T08:39:16.304Z"
+    "from": "2026-09-17T08:50:53.448Z",
+    "to": "2026-09-18T08:50:53.448Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 19,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 903
+    "americanItems": 3,
+    "archiveCycles": 904
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,28 +31,40 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "North Press Agency (English)",
         "The National",
         "Al Jazeera English",
         "Al-Monitor",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "سانا — قسم السياسة"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الإعلام الدولي",
         "مراكز الفكر",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:23",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 27,
+      "usItems": 3,
+      "score": 40,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. court sentences Former Assad-era prison chief to 60 years",
+          "excerpt": "QAMISHLI, Syria (North Press) – A U.S. federal court in Los Angeles sentenced former Syrian government official Samir Ousman Alsheikh to 60 years in prison on Thursday after a jury convicted him of torturing prisoners at Adra Prison near Da",
+          "link": "https://npasyria.com/en/141679/",
+          "publishedAt": "2026-09-18T08:49:14.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -171,7 +183,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -282,7 +294,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -333,7 +345,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -370,7 +382,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
