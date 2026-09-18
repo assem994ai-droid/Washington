@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T20:47:01.635Z",
+    "generatedAt": "2026-09-18T21:36:20.200Z",
     "windowHours": 24,
-    "from": "2026-09-17T20:47:01.635Z",
-    "to": "2026-09-18T20:47:01.635Z"
+    "from": "2026-09-17T21:36:20.200Z",
+    "to": "2026-09-18T21:36:20.200Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
-    "files": 5,
+    "items": 18,
+    "files": 4,
     "withNew": 0,
-    "stale": 5,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 931
+    "archiveCycles": 932
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,6 +22,7 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "المصادر الرسمية السورية",
+    "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
@@ -44,7 +45,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -177,7 +178,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -274,7 +275,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -338,7 +339,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -356,43 +357,6 @@
           "publishedAt": "2026-09-18T13:19:21.000Z",
           "files": [
             "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 20:37",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Security Council Hears Call for Merit-Based Appointments as Syria Seeks Shift from Relief Aid to Reconstruction, Growth",
-          "excerpt": "While hailing the Syrian Government’s progress in institutional, integration and military sector reforms, and the return of millions of refugees and displaced, briefers warned the Security Council today that dire economic conditions and sec",
-          "link": "https://press.un.org/en/2026/sc16456.doc.htm",
-          "publishedAt": "2026-09-17T21:35:39.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
