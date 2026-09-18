@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T15:38:06.864Z",
+    "generatedAt": "2026-09-18T15:49:15.885Z",
     "windowHours": 24,
-    "from": "2026-09-17T15:38:06.864Z",
-    "to": "2026-09-18T15:38:06.864Z"
+    "from": "2026-09-17T15:49:15.885Z",
+    "to": "2026-09-18T15:49:15.885Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 21,
     "files": 6,
     "withNew": 0,
     "stale": 6,
-    "contested": 0,
+    "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 922
+    "archiveCycles": 923
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,13 +24,7 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
@@ -51,7 +45,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -174,25 +168,41 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 11,
+      "score": 18,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يقصف محيط بيت جن وأطراف الحميدية ويفرج عن راعٍ اعتقله في ريف درعا",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الجمعة، تلة باط الوردة في محيط بلدة بيت جن بريف دمشق، بعدة قذائف مدفعية، وفق \"تجمع أحرار حوران\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8D-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-18T15:15:44.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -209,6 +219,20 @@
           "us": false
         },
         {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تتوغل في وادي الرقاد بريف درعا وتختطف راعياً",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، فجر الجمعة، في منطقة وادي الرقاد بريف درعا الغربي جنوبي سوريا، مستخدمة تسع آليات عسكرية، واختطفت راعياً خلال التوغل..",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AE%D8%AA%D8%B7%D9%81-%D8%B1%D8%A7%D8%B9%D9%8A%D8%A7%D9%8B",
+          "publishedAt": "2026-09-18T10:06:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
           "circle": "الإعلام المتخصص",
@@ -218,6 +242,36 @@
           "publishedAt": "2026-09-18T01:30:34.000Z",
           "files": [
             "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية ـ سويدية حول عوة اللاجئين والاعتداءات الإسرائيلية",
+          "excerpt": "مستشار الشؤون الأوروبية في وزارة الخارجية السورية يبحث مع سفيرة السويد عودة اللاجئين",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%80-%D8%B3%D9%88%D9%8A%D8%AF%D9%8A%D8%A9-%D8%AD%D9%88%D9%84-%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
+          "publishedAt": "2026-09-17T21:48:19.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "السويداء والانتهاكات الإسرائيلية ودعم الاستقرار.. مجلس الأمن يبحث تطورات سوريا",
+          "excerpt": "بحث مجلس الأمن الدولي تطورات الأوضاع في سوريا، الخميس مع تركيز على الوضع الأمني والإنساني في البلاد، ولا سيما في محافظة السويداء، إلى جانب استمرار الانتهاكات ال",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-17T18:02:46.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -240,6 +294,57 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:38",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 6,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Lebanon indicts 14 over alleged plot to attack Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Lebanon’s Military Court has charged 14 people, including a Hezbollah member and a former Syrian intelligence officer who served under former President Bashar al-Assad, over alleged plans to carry out attacks",
+          "link": "https://npasyria.com/en/141688/",
+          "publishedAt": "2026-09-18T13:54:05.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بينهم عنصر بـ\"حزب الله\".. ادعاء لبناني على 14 شخصا بتهمة التخطيط لهجمات في سوريا",
+          "excerpt": "جاء الادعاء بعد توقيف السلطات اللبنانية، مطلع أيلول/سبتمبر الجاري، خمسة أشخاص، بينهم سوريون، للاشتباه في التخطيط لتنفيذ هجمات ضد قوات السلطات السورية الجديدة",
+          "link": "https://www.syria.tv/%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B9%D9%86%D8%B5%D8%B1-%D8%A8%D9%80%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%D8%A1-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-14-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-18T09:30:13.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -251,7 +356,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -276,42 +381,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:21",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Lebanon indicts 14 over alleged plot to attack Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Lebanon’s Military Court has charged 14 people, including a Hezbollah member and a former Syrian intelligence officer who served under former President Bashar al-Assad, over alleged plans to carry out attacks",
-          "link": "https://npasyria.com/en/141688/",
-          "publishedAt": "2026-09-18T13:54:05.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -323,7 +392,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -360,7 +429,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:21",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 15:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
