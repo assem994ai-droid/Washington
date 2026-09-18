@@ -1,26 +1,28 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T00:47:35.694Z",
+    "generatedAt": "2026-09-18T00:57:56.159Z",
     "windowHours": 24,
-    "from": "2026-09-17T00:47:35.694Z",
-    "to": "2026-09-18T00:47:35.694Z"
+    "from": "2026-09-17T00:57:56.159Z",
+    "to": "2026-09-18T00:57:56.159Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
-    "files": 5,
-    "withNew": 1,
+    "items": 14,
+    "files": 4,
+    "withNew": 0,
     "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 880
+    "archiveCycles": 881
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام الدولي"
+    "الإعلام الدولي",
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -29,12 +31,11 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 7,
+      "independentSources": 6,
       "sources": [
         "Al-Monitor",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "سانا — قسم السياسة",
-        "Ynet News (English)",
         "The National",
         "North Press Agency (English)",
         "تلفزيون سوريا"
@@ -43,16 +44,15 @@
         "الإعلام المتخصص",
         "مراكز الفكر",
         "المصادر الرسمية السورية",
-        "الملف الإسرائيلي",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:47",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 45,
+      "score": 28,
       "items": [
         {
           "source": "Al-Monitor",
@@ -63,7 +63,7 @@
           "link": "https://www.al-monitor.com/originals/2026/09/assad-era-syrian-official-jailed-60-years-us-court",
           "publishedAt": "2026-09-18T00:46:30.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -88,18 +88,6 @@
           "publishedAt": "2026-09-17T17:31:11.000Z",
           "files": [],
           "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Burning tires, empty pumps: $100 oil sparks global unrest as Iran war drags on",
-          "excerpt": "From mass protests in Syria and fishermen blocking French fuel depots to shortages across Asia, governments face a growing choice between passing soaring energy costs to consumers or taking on more debt to shield them",
-          "link": "https://www.ynetnews.com/article/hkyfgrtfme",
-          "publishedAt": "2026-09-17T10:49:20.000Z",
-          "files": [],
-          "seenBefore": false,
           "us": false
         },
         {
@@ -156,7 +144,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:29",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -239,7 +227,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:29",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -294,43 +282,6 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:29",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Security Council Hears Call for Merit-Based Appointments as Syria Seeks Shift from Relief Aid to Reconstruction, Growth",
-          "excerpt": "While hailing the Syrian Government’s progress in institutional, integration and military sector reforms, and the return of millions of refugees and displaced, briefers warned the Security Council today that dire economic conditions and sec",
-          "link": "https://press.un.org/en/2026/sc16456.doc.htm",
-          "publishedAt": "2026-09-17T21:35:39.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -342,7 +293,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:29",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
