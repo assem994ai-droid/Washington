@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T08:07:24.302Z",
+    "generatedAt": "2026-09-18T08:23:37.004Z",
     "windowHours": 24,
-    "from": "2026-09-17T08:07:24.302Z",
-    "to": "2026-09-18T08:07:24.302Z"
+    "from": "2026-09-17T08:23:37.004Z",
+    "to": "2026-09-18T08:23:37.004Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 19,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 901
+    "archiveCycles": 902
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,14 +46,26 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 07:54",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 33,
+      "score": 43,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Dubai Parks and Resorts theme parks to reopen after six-month closure",
+          "excerpt": "The theme parks at Dubai Parks and Resorts will reopen on October 7, after being closed for more than six months.The destination – which brings together Motiongate Dubai, Real Madrid World, Legoland Dubai Resort and The World of Riverland –",
+          "link": "https://www.thenationalnews.com/lifestyle/2026/09/18/dubai-parks-and-resorts-theme-parks-to-reopen-after-six-month-closure/",
+          "publishedAt": "2026-09-18T08:03:09.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -172,7 +184,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 07:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -283,7 +295,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 07:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -334,7 +346,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 07:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -371,7 +383,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 07:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
