@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T05:20:09.861Z",
+    "generatedAt": "2026-09-18T05:54:56.426Z",
     "windowHours": 24,
-    "from": "2026-09-17T05:20:09.861Z",
-    "to": "2026-09-18T05:20:09.861Z"
+    "from": "2026-09-17T05:54:56.426Z",
+    "to": "2026-09-18T05:54:56.426Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 18,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 895
+    "archiveCycles": 896
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
-    "الكونغرس والتوازن السياسي الأمريكي"
+    "الكونغرس والتوازن السياسي الأمريكي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -28,33 +29,43 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 8,
+      "independentSources": 7,
       "sources": [
+        "The National",
         "Al Jazeera English",
         "Al-Monitor",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "سانا — قسم السياسة",
-        "Ynet News (English)",
-        "The National",
         "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام الدولي",
         "الإعلام المتخصص",
+        "الإعلام الدولي",
         "مراكز الفكر",
         "المصادر الرسمية السورية",
-        "الملف الإسرائيلي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:06",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 36,
+      "score": 42,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Assala returns to Syrian stage for first time in more than 15 years",
+          "excerpt": "Syrian singer Assala Nasri has performed in Damascus for the first time in more than 15 years, marking a symbolic homecoming after her outspoken opposition to former president Bashar Al Assad kept her away from the country.Thousands attende",
+          "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/assala-returns-to-syrian-stage-for-first-time-in-more-than-15-years/",
+          "publishedAt": "2026-09-18T05:44:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al Jazeera English",
           "sourceId": "aljazeera-en",
@@ -99,18 +110,6 @@
           "excerpt": "كلمة مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي خلال جلسة لمجلس الأمن حول الوضع في سوريا",
           "link": "https://sana.sy/video/2583445/",
           "publishedAt": "2026-09-17T17:31:11.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Burning tires, empty pumps: $100 oil sparks global unrest as Iran war drags on",
-          "excerpt": "From mass protests in Syria and fishermen blocking French fuel depots to shortages across Asia, governments face a growing choice between passing soaring energy costs to consumers or taking on more debt to shield them",
-          "link": "https://www.ynetnews.com/article/hkyfgrtfme",
-          "publishedAt": "2026-09-17T10:49:20.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -173,7 +172,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -284,7 +283,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -335,7 +334,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -372,7 +371,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 05:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
