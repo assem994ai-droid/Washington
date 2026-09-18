@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T09:06:50.441Z",
+    "generatedAt": "2026-09-18T09:22:07.644Z",
     "windowHours": 24,
-    "from": "2026-09-17T09:06:50.441Z",
-    "to": "2026-09-18T09:06:50.441Z"
+    "from": "2026-09-17T09:22:07.644Z",
+    "to": "2026-09-18T09:22:07.644Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 18,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 905
+    "archiveCycles": 906
   },
   "emptyCircles": [
     "الكونغرس",
@@ -29,11 +29,10 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "North Press Agency (English)",
         "The National",
-        "Al Jazeera English",
         "Al-Monitor",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "سانا — قسم السياسة"
@@ -41,17 +40,16 @@
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الإعلام الدولي",
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 09:06",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 40,
+      "score": 27,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -85,18 +83,6 @@
           "excerpt": "Syrian singer Assala Nasri has performed in Damascus for the first time in more than 16 years, marking a symbolic and emotional homecoming after her outspoken opposition to former president Bashar Al Assad kept her away from the country.Tho",
           "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/assala-returns-to-syrian-stage-for-first-time-in-more-than-16-years/",
           "publishedAt": "2026-09-18T05:44:00.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Former Assad officer sentenced to 60 years in US for torture",
-          "excerpt": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad's regime.",
-          "link": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
-          "publishedAt": "2026-09-18T01:15:25.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -183,7 +169,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 09:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -294,7 +280,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 09:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -345,7 +331,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 09:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -382,7 +368,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 08:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 09:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
