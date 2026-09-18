@@ -1,27 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-18T00:29:58.368Z",
+    "generatedAt": "2026-09-18T00:47:35.694Z",
     "windowHours": 24,
-    "from": "2026-09-17T00:29:58.368Z",
-    "to": "2026-09-18T00:29:58.368Z"
+    "from": "2026-09-17T00:47:35.694Z",
+    "to": "2026-09-18T00:47:35.694Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 16,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 879
+    "americanItems": 2,
+    "archiveCycles": 880
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام الدولي",
-    "الملف الإسرائيلي"
+    "الإعلام الدولي"
   ],
   "errors": [],
   "files": [
@@ -30,28 +29,43 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 7,
       "sources": [
+        "Al-Monitor",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "سانا — قسم السياسة",
+        "Ynet News (English)",
         "The National",
         "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "مراكز الفكر",
         "المصادر الرسمية السورية",
-        "الإعلام المتخصص",
+        "الملف الإسرائيلي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:09",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 21,
+      "usItems": 2,
+      "score": 45,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Assad-era Syrian official jailed for 60 years by US court",
+          "excerpt": "<p>By Kanishka Singh</p><p>WASHINGTON, Sept 17 (Reuters) - A former Syrian government official who ​headed the Damascus Central Prison under ousted PresidentBashar al-Assad and was convicted of ‌torture by a US federal jury has been sentenc",
+          "link": "https://www.al-monitor.com/originals/2026/09/assad-era-syrian-official-jailed-60-years-us-court",
+          "publishedAt": "2026-09-18T00:46:30.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
           "sourceId": "fdd",
@@ -74,6 +88,18 @@
           "publishedAt": "2026-09-17T17:31:11.000Z",
           "files": [],
           "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Burning tires, empty pumps: $100 oil sparks global unrest as Iran war drags on",
+          "excerpt": "From mass protests in Syria and fishermen blocking French fuel depots to shortages across Asia, governments face a growing choice between passing soaring energy costs to consumers or taking on more debt to shield them",
+          "link": "https://www.ynetnews.com/article/hkyfgrtfme",
+          "publishedAt": "2026-09-17T10:49:20.000Z",
+          "files": [],
+          "seenBefore": false,
           "us": false
         },
         {
@@ -130,7 +156,7 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -213,7 +239,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -279,7 +305,7 @@
       "circles": [
         "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -316,7 +342,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-18 00:29",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
