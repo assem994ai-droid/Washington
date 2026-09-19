@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-19T14:31:49.854Z",
+    "generatedAt": "2026-09-19T15:19:52.548Z",
     "windowHours": 24,
-    "from": "2026-09-18T14:31:49.854Z",
-    "to": "2026-09-19T14:31:49.854Z"
+    "from": "2026-09-18T15:19:52.548Z",
+    "to": "2026-09-19T15:19:52.548Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 7,
-    "files": 4,
+    "items": 6,
+    "files": 3,
     "withNew": 0,
-    "stale": 4,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 951
+    "archiveCycles": 952
   },
   "emptyCircles": [
     "الكونغرس",
@@ -50,7 +50,7 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 13:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 14:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -120,7 +120,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 13:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 14:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -146,42 +146,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 13:35",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يقصف محيط بيت جن وأطراف الحميدية ويفرج عن راعٍ اعتقله في ريف درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الجمعة، تلة باط الوردة في محيط بلدة بيت جن بريف دمشق، بعدة قذائف مدفعية، وفق \"تجمع أحرار حوران\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8D-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-18T15:15:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -193,7 +157,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 13:35",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 14:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
