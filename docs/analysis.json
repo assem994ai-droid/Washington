@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-19T05:45:00.571Z",
+    "generatedAt": "2026-09-19T06:26:37.592Z",
     "windowHours": 24,
-    "from": "2026-09-18T05:45:00.571Z",
-    "to": "2026-09-19T05:45:00.571Z"
+    "from": "2026-09-18T06:26:37.592Z",
+    "to": "2026-09-19T06:26:37.592Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 19,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 936
+    "archiveCycles": 937
   },
   "emptyCircles": [
     "الكونغرس",
@@ -35,15 +35,15 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "The National",
         "North Press Agency (English)",
         "The Hill — الكونغرس والسياسة الأمريكية",
-        "The National",
         "Al-Monitor"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الكونغرس والتوازن السياسي الأمريكي",
-        "الإعلام المتخصص"
+        "الكونغرس والتوازن السياسي الأمريكي"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -51,8 +51,20 @@
       "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 31,
+      "score": 32,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria arrests five Assad-era air force officers over strikes on civilians",
+          "excerpt": "Syrian security forces arrested five former air force officers accused of planning and carrying out strikes that resulted in civilian casualties and the destruction of residential areas under the former regime led by Bashar Al Assad. The fo",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/19/syria-arrests-five-assad-era-air-force-officers-over-strikes-on-civilians/",
+          "publishedAt": "2026-09-19T06:09:12.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -62,7 +74,7 @@
           "link": "https://npasyria.com/en/141701/",
           "publishedAt": "2026-09-19T05:34:41.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -178,7 +190,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 03:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 05:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -260,7 +272,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 03:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 05:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -324,7 +336,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 03:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 05:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -361,7 +373,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 03:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 05:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
