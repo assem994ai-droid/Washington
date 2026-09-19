@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-19T11:44:26.063Z",
+    "generatedAt": "2026-09-19T11:53:36.827Z",
     "windowHours": 24,
-    "from": "2026-09-18T11:44:26.063Z",
-    "to": "2026-09-19T11:44:26.063Z"
+    "from": "2026-09-18T11:53:36.827Z",
+    "to": "2026-09-19T11:53:36.827Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
-    "files": 5,
+    "items": 7,
+    "files": 2,
     "withNew": 0,
-    "stale": 5,
+    "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 946
+    "archiveCycles": 947
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,12 +24,18 @@
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
     "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف الإسرائيلي",
+    "الإعلام السوري المستقل"
   ],
   "errors": [
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
+      "message": "الخادم ردّ برمز 403"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
       "message": "الخادم ردّ برمز 403"
     }
   ],
@@ -51,7 +57,7 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -134,115 +140,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قراءة في تسريبات العرض الإسرائيلي حول تقاسم النفوذ مع تركيا في سوريا",
-          "excerpt": "سرّبت، قبل عدة أيام، صحف مقربة من الحكومة التركية تفاصيل عرض تقدمت به إسرائيل إلى تركيا، يتضمن تسوية في سوريا تقوم على تقاسم النفوذ..",
-          "link": "https://www.syria.tv/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AD%D9%88%D9%84-%D8%AA%D9%82%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-19T03:47:51.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يقصف محيط بيت جن وأطراف الحميدية ويفرج عن راعٍ اعتقله في ريف درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الجمعة، تلة باط الوردة في محيط بلدة بيت جن بريف دمشق، بعدة قذائف مدفعية، وفق \"تجمع أحرار حوران\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8D-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-18T15:15:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد طرحه في مجلس الأمن.. أي مسار ينتظر ملف السويداء؟",
-          "excerpt": "عاد ملف السويداء إلى واجهة النقاش السياسي والدولي، مع تناوله في جلسة مجلس الأمن الأخيرة بشأن سوريا.",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B7%D8%B1%D8%AD%D9%87-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A3%D9%8A-%D9%85%D8%B3%D8%A7%D8%B1-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1%D8%9F",
-          "publishedAt": "2026-09-19T08:53:03.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -254,7 +151,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
