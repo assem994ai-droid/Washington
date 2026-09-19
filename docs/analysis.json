@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-19T12:08:23.313Z",
+    "generatedAt": "2026-09-19T13:21:04.419Z",
     "windowHours": 24,
-    "from": "2026-09-18T12:08:23.313Z",
-    "to": "2026-09-19T12:08:23.313Z"
+    "from": "2026-09-18T13:21:04.419Z",
+    "to": "2026-09-19T13:21:04.419Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 9,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 948
+    "americanItems": 1,
+    "archiveCycles": 949
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,34 +26,38 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)",
         "The National",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "Al-Monitor"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 12:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 25,
+      "usItems": 1,
+      "score": 15,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -68,18 +72,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S., Denmark reach Greenland security deal amid Trump takeover push",
-          "excerpt": "QAMISHLI, Syria (North Press) – The United States, Denmark and Greenland reached an agreement that would give Washington expanded security and military access to Greenland while keeping the Arctic territory under Danish sovereignty, U.S. Pr",
-          "link": "https://npasyria.com/en/141711/",
-          "publishedAt": "2026-09-19T07:57:57.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -87,18 +79,6 @@
           "excerpt": "Syrian security forces arrested five former air force officers accused of planning and carrying out strikes that resulted in civilian casualties and the destruction of residential areas under the regime of former president Bashar Al Assad. ",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/19/syria-arrests-five-assad-era-air-force-officers-over-strikes-on-civilians/",
           "publishedAt": "2026-09-19T06:09:12.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria detains 5 former regime air force officers in Tartus",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian security forces detained five senior former regime air force officers in Tartus Governorate, western Syria, over alleged involvement in planning and carrying out airstrikes against populated areas, a s",
-          "link": "https://npasyria.com/en/141701/",
-          "publishedAt": "2026-09-19T05:34:41.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -114,18 +94,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "War remnant explosion kills one, injures another in Damascus Countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – One person was killed and another injured on Friday after a war remnant exploded at the Nursing School in the city of Darayya, in Damascus countryside. The Civil Defense said in official posts that its teams ",
-          "link": "https://npasyria.com/en/141698/",
-          "publishedAt": "2026-09-18T18:33:33.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         },
         {
           "source": "The National",
@@ -150,69 +118,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "How Assala Nasri's new album maps Syria's 14 governorates through song",
-          "excerpt": "Assala Nasri’s return to Damascus this week was never going to be just another concert.The Syrian singer, mononymously known as Assala, performed in the capital on Thursday for the first time since 2010; she had remained away since publicly",
-          "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/09/18/how-assala-nasris-new-album-maps-syrias-14-governorates-through-song/",
-          "publishedAt": "2026-09-18T13:07:17.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:44",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces enter western Daraa, shell Damascus countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – An Israeli military force entered Wadi al-Raqad in western Daraa countryside on Friday, while Israeli forces shelled the outskirts of Beit Jinn in western Damascus countryside, according to local sources. The",
-          "link": "https://npasyria.com/en/141694/",
-          "publishedAt": "2026-09-18T16:01:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يقصف محيط بيت جن وأطراف الحميدية ويفرج عن راعٍ اعتقله في ريف درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الجمعة، تلة باط الوردة في محيط بلدة بيت جن بريف دمشق، بعدة قذائف مدفعية، وفق \"تجمع أحرار حوران\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8D-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-18T15:15:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -228,7 +133,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 12:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -254,6 +159,42 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 12:08",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يقصف محيط بيت جن وأطراف الحميدية ويفرج عن راعٍ اعتقله في ريف درعا",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الجمعة، تلة باط الوردة في محيط بلدة بيت جن بريف دمشق، بعدة قذائف مدفعية، وفق \"تجمع أحرار حوران\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8D-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-18T15:15:44.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -265,7 +206,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 12:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -301,7 +242,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 12:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
