@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-19T10:10:05.549Z",
+    "generatedAt": "2026-09-19T11:30:21.478Z",
     "windowHours": 24,
-    "from": "2026-09-18T10:10:05.549Z",
-    "to": "2026-09-19T10:10:05.549Z"
+    "from": "2026-09-18T11:30:21.478Z",
+    "to": "2026-09-19T11:30:21.478Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
+    "items": 11,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 944
+    "archiveCycles": 945
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,7 +30,7 @@
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
-      "message": "fetch failed"
+      "message": "الخادم ردّ برمز 403"
     }
   ],
   "files": [
@@ -51,13 +51,13 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 09:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 17,
+      "score": 16,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -130,18 +130,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Anti-Assad music star makes triumphant return to Syria",
-          "excerpt": "<p>Syrian singer Assala Nasri has made a triumphant return to Damascus with a sold-out concert following 15 years of exile due to her opposition to ousted ruler Bashar al-Assad.</p> <p>Thousands of fans welcomed the 57-year-old, known monon",
-          "link": "https://www.al-monitor.com/originals/2026/09/anti-assad-music-star-makes-triumphant-return-syria",
-          "publishedAt": "2026-09-18T12:30:30.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -159,7 +147,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 09:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -210,7 +198,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 09:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -247,7 +235,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 09:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -283,7 +271,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 09:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
