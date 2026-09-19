@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-19T20:53:41.611Z",
+    "generatedAt": "2026-09-19T21:43:56.827Z",
     "windowHours": 24,
-    "from": "2026-09-18T20:53:41.611Z",
-    "to": "2026-09-19T20:53:41.611Z"
+    "from": "2026-09-18T21:43:56.827Z",
+    "to": "2026-09-19T21:43:56.827Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 8,
+    "items": 9,
     "files": 4,
     "withNew": 1,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 956
+    "archiveCycles": 957
   },
   "emptyCircles": [
     "الكونغرس",
@@ -38,14 +38,15 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "Middle East Eye",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -53,8 +54,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 20,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Hamas says it’s in contact with mediators over escalated Israeli killings in Gaza",
+          "excerpt": "<article data-history-node-id=\"447983\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-its-contact-mediators-over-escalated-israeli-killings-gaza\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://w",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-its-contact-mediators-over-escalated-israeli-killings-gaza",
+          "publishedAt": "2026-09-19T21:36:39.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -66,7 +81,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -101,7 +116,7 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 20:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 20:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -161,7 +176,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 20:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 20:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -211,7 +226,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 20:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 20:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
