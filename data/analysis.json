@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-19T11:30:21.478Z",
+    "generatedAt": "2026-09-19T11:44:26.063Z",
     "windowHours": 24,
-    "from": "2026-09-18T11:30:21.478Z",
-    "to": "2026-09-19T11:30:21.478Z"
+    "from": "2026-09-18T11:44:26.063Z",
+    "to": "2026-09-19T11:44:26.063Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 11,
+    "items": 10,
     "files": 5,
     "withNew": 0,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 945
+    "archiveCycles": 946
   },
   "emptyCircles": [
     "الكونغرس",
@@ -51,7 +51,7 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -134,59 +134,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يقصف محيط بيت جن وأطراف الحميدية ويفرج عن راعٍ اعتقله في ريف درعا",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الجمعة، تلة باط الوردة في محيط بلدة بيت جن بريف دمشق، بعدة قذائف مدفعية، وفق \"تجمع أحرار حوران\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8D-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-18T15:15:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Sharaa secretly building up Syrian military, raising red flags in Israeli security community",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2124,w_3186/735931' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in ",
-          "link": "https://www.jpost.com/middle-east/article-909037",
-          "publishedAt": "2026-09-18T11:33:00.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -198,7 +145,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -224,6 +171,42 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يقصف محيط بيت جن وأطراف الحميدية ويفرج عن راعٍ اعتقله في ريف درعا",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الجمعة، تلة باط الوردة في محيط بلدة بيت جن بريف دمشق، بعدة قذائف مدفعية، وفق \"تجمع أحرار حوران\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%88%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8D-%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-18T15:15:44.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -235,7 +218,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -271,7 +254,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 10:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 11:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
