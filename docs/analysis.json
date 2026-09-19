@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-19T15:19:52.548Z",
+    "generatedAt": "2026-09-19T18:08:13.652Z",
     "windowHours": 24,
-    "from": "2026-09-18T15:19:52.548Z",
-    "to": "2026-09-19T15:19:52.548Z"
+    "from": "2026-09-18T18:08:13.652Z",
+    "to": "2026-09-19T18:08:13.652Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 6,
+    "items": 5,
     "files": 3,
     "withNew": 0,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 952
+    "archiveCycles": 953
   },
   "emptyCircles": [
     "الكونغرس",
@@ -50,13 +50,13 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 14:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 15:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 11,
+      "score": 10,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -93,18 +93,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Damascus hosts Art Week Syria",
-          "excerpt": "",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/18/damascus-hosts-art-week-syria/",
-          "publishedAt": "2026-09-18T18:02:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -120,7 +108,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 14:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 15:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -157,7 +145,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 14:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-19 15:19",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
