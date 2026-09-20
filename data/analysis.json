@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-20T16:06:56.707Z",
+    "generatedAt": "2026-09-20T18:23:27.363Z",
     "windowHours": 24,
-    "from": "2026-09-19T16:06:56.707Z",
-    "to": "2026-09-20T16:06:56.707Z"
+    "from": "2026-09-19T18:23:27.363Z",
+    "to": "2026-09-20T18:23:27.363Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 15,
     "files": 5,
     "withNew": 1,
     "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 974
+    "americanItems": 3,
+    "archiveCycles": 975
   },
   "emptyCircles": [
     "الكونغرس",
@@ -41,21 +41,33 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 19,
+      "usItems": 3,
+      "score": 23,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "حظر دخول السوريين إلى أميركا.. عائلات مشتتة ومسارات دراسة وعمل معلقة",
+          "excerpt": "منذ فرض الولايات المتحدة قيوداً على دخول السوريين وتعليق إصدار التأشيرات لهم، تسعى منال، المقيمة في سوريا، وخطيبها أنور، المقيم في الولايات المتحدة، عبر المسارا",
+          "link": "https://www.syria.tv/%D8%AD%D8%B8%D8%B1-%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%AA%D8%A9-%D9%88%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%88%D8%B9%D9%85%D9%84-%D9%85%D8%B9%D9%84%D9%82%D8%A9",
+          "publishedAt": "2026-09-20T18:16:35.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -65,7 +77,7 @@
           "link": "https://www.jpost.com/middle-east/article-909188",
           "publishedAt": "2026-09-20T15:55:18.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -110,7 +122,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 15:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 16:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -244,7 +256,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 15:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 16:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -282,7 +294,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 15:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 16:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -319,7 +331,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 15:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 16:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
