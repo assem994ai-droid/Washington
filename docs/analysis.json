@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-20T09:45:55.030Z",
+    "generatedAt": "2026-09-20T10:36:41.218Z",
     "windowHours": 24,
-    "from": "2026-09-19T09:45:55.030Z",
-    "to": "2026-09-20T09:45:55.030Z"
+    "from": "2026-09-19T10:36:41.218Z",
+    "to": "2026-09-20T10:36:41.218Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
+    "items": 11,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 969
+    "archiveCycles": 970
   },
   "emptyCircles": [
     "الكونغرس",
@@ -41,24 +41,38 @@
       "contested": true,
       "independentSources": 4,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط",
         "Middle East Eye",
         "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 08:56",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 19,
+      "score": 29,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل في وادي الرقاد بريف درعا",
+          "excerpt": "توغلت قوات الاحتلال إسرائيلي، الأحد، بدبابتين وسيارتين في منطقة وادي الرقاد بريف محافظة درعا جنوبي سوريا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-20T10:35:57.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -143,7 +157,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 08:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 09:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -189,7 +203,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 08:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 09:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -227,7 +241,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 08:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 09:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -264,7 +278,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 08:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-20 09:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
