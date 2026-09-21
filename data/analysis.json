@@ -1,27 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-21T10:41:40.411Z",
+    "generatedAt": "2026-09-21T10:54:13.283Z",
     "windowHours": 24,
-    "from": "2026-09-20T10:41:40.411Z",
-    "to": "2026-09-21T10:41:40.411Z"
+    "from": "2026-09-20T10:54:13.283Z",
+    "to": "2026-09-21T10:54:13.283Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 9,
+    "items": 10,
     "files": 3,
-    "withNew": 0,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 2,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 988
+    "archiveCycles": 989
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام المتخصص",
     "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
@@ -41,23 +40,37 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "Al-Monitor",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 07:48",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 7,
+      "score": 20,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian ammunition depot explodes in fourth such blast this month",
+          "excerpt": "<p>ALEPPO, Syria, Sept 21 (Reuters) - A series of explosions tore through an army weapons depot in northern Syria early on Monday,the fourth such incident this month, wounding several people and sending villagers scattering.</p><p>The blast",
+          "link": "https://www.al-monitor.com/originals/2026/09/syrian-ammunition-depot-explodes-fourth-such-blast-month",
+          "publishedAt": "2026-09-21T10:46:31.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -108,7 +121,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 07:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 10:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -186,7 +199,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 07:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 10:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
