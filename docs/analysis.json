@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-21T15:37:12.757Z",
+    "generatedAt": "2026-09-21T15:57:20.262Z",
     "windowHours": 24,
-    "from": "2026-09-20T15:37:12.757Z",
-    "to": "2026-09-21T15:37:12.757Z"
+    "from": "2026-09-20T15:57:20.262Z",
+    "to": "2026-09-21T15:57:20.262Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 8,
+    "items": 7,
     "files": 3,
-    "withNew": 1,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 993
+    "archiveCycles": 994
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
@@ -39,26 +40,24 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "Atlantic Council — المجلس الأطلسي",
         "Al-Monitor",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "مراكز الفكر",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 15:37",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 27,
+      "score": 14,
       "items": [
         {
           "source": "Atlantic Council — المجلس الأطلسي",
@@ -69,7 +68,7 @@
           "link": "https://www.atlanticcouncil.org/blogs/menasource/the-syria-policy-the-us-got-wrong-and-the-bittersweet-moment-washington-finally-got-right/",
           "publishedAt": "2026-09-21T15:34:07.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -107,18 +106,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Russia or the US? Post-Assad Syria tries to keep both powers in play - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/738566' alt='A Syrian rebel fighter (C) looks on as he stands at an inspection checkpoint for incoming vehicles before ",
-          "link": "https://www.jpost.com/middle-east/article-909188",
-          "publishedAt": "2026-09-20T15:55:18.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -134,7 +121,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 15:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -170,7 +157,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 15:37",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
