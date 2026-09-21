@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-21T15:57:20.262Z",
+    "generatedAt": "2026-09-21T17:45:45.436Z",
     "windowHours": 24,
-    "from": "2026-09-20T15:57:20.262Z",
-    "to": "2026-09-21T15:57:20.262Z"
+    "from": "2026-09-20T17:45:45.436Z",
+    "to": "2026-09-21T17:45:45.436Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 7,
+    "items": 8,
     "files": 3,
-    "withNew": 0,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 2,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 994
+    "archiveCycles": 995
   },
   "emptyCircles": [
     "الكونغرس",
@@ -51,7 +51,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 15:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 15:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -121,14 +121,28 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 15:37",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": 13,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اقتادته إلى الأراضي المحتلة.. قوات إسرائيلية تحتجز راعياً في ريف القنيطرة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي احتجزت راعي أغنام غربي بلدة صيدا الجولان في ريف القنيطرة الجنوبي..",
+          "link": "https://www.syria.tv/%D8%A7%D9%82%D8%AA%D8%A7%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9-%D9%82%D9%88%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B1%D8%A7%D8%B9%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-21T17:44:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -157,7 +171,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 15:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 15:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
