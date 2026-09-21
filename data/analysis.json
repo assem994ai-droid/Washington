@@ -1,26 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-21T13:22:18.302Z",
+    "generatedAt": "2026-09-21T15:37:12.757Z",
     "windowHours": 24,
-    "from": "2026-09-20T13:22:18.302Z",
-    "to": "2026-09-21T13:22:18.302Z"
+    "from": "2026-09-20T15:37:12.757Z",
+    "to": "2026-09-21T15:37:12.757Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 9,
+    "items": 8,
     "files": 3,
-    "withNew": 0,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 2,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 992
+    "americanItems": 2,
+    "archiveCycles": 993
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "مراكز الفكر",
     "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
@@ -40,25 +39,39 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "Atlantic Council — المجلس الأطلسي",
         "Al-Monitor",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
+        "مراكز الفكر",
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:07",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 11,
+      "usItems": 2,
+      "score": 27,
       "items": [
+        {
+          "source": "Atlantic Council — المجلس الأطلسي",
+          "sourceId": "atlantic-council",
+          "circle": "مراكز الفكر",
+          "title": "The Syria policy the US got wrong—and the bittersweet moment Washington finally got right",
+          "excerpt": "A former State Department official dissects how the US helped defeat ISIS but didn't protect the Syrian people. The post The Syria policy the US got wrong—and the bittersweet moment Washington finally got right appeared first on Atlantic Co",
+          "link": "https://www.atlanticcouncil.org/blogs/menasource/the-syria-policy-the-us-got-wrong-and-the-bittersweet-moment-washington-finally-got-right/",
+          "publishedAt": "2026-09-21T15:34:07.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -121,13 +134,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 5,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -137,34 +150,6 @@
           "excerpt": "شهد ريف درعا الغربي، فجر الاثنين، استهدافات إسرائيلية متكررة، تنوعت بين إطلاق القنابل المضيئة والنيران من أسلحة ثقيلة والقصف المدفعي،",
           "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D9%88%D9%82%D9%86%D8%A7%D8%A8%D9%84-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D8%AA%D9%83%D8%B1%D8%B1%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
           "publishedAt": "2026-09-21T05:55:55.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يصعّد تحركاته جنوبي سوريا ويقصف الرفيد بريف القنيطرة",
-          "excerpt": "قصفت قوات الاحتلال الإسرائيلي بلدة الرفيد في ريف القنيطرة الجنوبي بأربع قذائف مدفعية، ضمن سلسلة من عمليات القصف والتوغل التي شهدها الجنوب السوري..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B5%D8%B9%D9%91%D8%AF-%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA%D9%87-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-20T15:31:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وفاة طفل غرقاً في سد سحم الجولان بريف درعا",
-          "excerpt": "توفي طفل يبلغ من العمر 10 سنوات غرقاً في مياه سد بلدة سحم الجولان بريف درعا الغربي، قبل أن تتمكن الفرق المختصة من انتشال جثمانه..",
-          "link": "https://www.syria.tv/%D9%88%D9%81%D8%A7%D8%A9-%D8%B7%D9%81%D9%84-%D8%BA%D8%B1%D9%82%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B3%D8%AF-%D8%B3%D8%AD%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-20T15:23:46.000Z",
           "files": [
             "israel"
           ],
@@ -185,7 +170,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
