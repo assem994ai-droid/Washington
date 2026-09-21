@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-21T13:07:25.855Z",
+    "generatedAt": "2026-09-21T13:22:18.302Z",
     "windowHours": 24,
-    "from": "2026-09-20T13:07:25.855Z",
-    "to": "2026-09-21T13:07:25.855Z"
+    "from": "2026-09-20T13:22:18.302Z",
+    "to": "2026-09-21T13:22:18.302Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
+    "items": 9,
     "files": 3,
     "withNew": 0,
     "stale": 3,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 991
+    "archiveCycles": 992
   },
   "emptyCircles": [
     "الكونغرس",
@@ -51,7 +51,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 12:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -121,13 +121,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 10:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 6,
+      "score": 5,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -170,20 +170,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يفجر مواقع تابعة للنظام المخلوع قرب جبل الشيخ",
-          "excerpt": "الاحتلال الإسرائيلي يفجر مواقع تابعة للنظام المخلوع في قرية جندل بريف دمشق",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%AC%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D9%82%D8%B1%D8%A8-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE",
-          "publishedAt": "2026-09-20T13:14:07.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -199,7 +185,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 10:54",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 13:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
