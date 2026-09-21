@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-21T06:20:23.375Z",
+    "generatedAt": "2026-09-21T06:59:37.663Z",
     "windowHours": 24,
-    "from": "2026-09-20T06:20:23.375Z",
-    "to": "2026-09-21T06:20:23.375Z"
+    "from": "2026-09-20T06:59:37.663Z",
+    "to": "2026-09-21T06:59:37.663Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
-    "files": 4,
+    "items": 11,
+    "files": 3,
     "withNew": 0,
-    "stale": 4,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 985
+    "archiveCycles": 986
   },
   "emptyCircles": [
     "الكونغرس",
@@ -50,7 +50,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 05:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 06:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -120,7 +120,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 05:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 06:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -212,7 +212,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 05:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 06:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -244,44 +244,6 @@
           "publishedAt": "2026-09-20T20:13:59.000Z",
           "files": [
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 05:58",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "فيدان: إسرائيل تحاول جعل سوريا ساحة تنفرد بها والتفاهم مع قسد يتقدم",
-          "excerpt": "أكد وزير الخارجية التركي، هاكان فيدان، أن إسرائيل تحاول جعل الساحة السورية مكاناً للتفرد بنفوذها، مشيراً في الوقت ذاته إلى أن التفاهم مع (قسد) يشهد تقدماً.",
-          "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%AC%D8%B9%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B3%D8%A7%D8%AD%D8%A9-%D8%AA%D9%86%D9%81%D8%B1%D8%AF-%D8%A8%D9%87%D8%A7-%D9%88%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%D8%B9-%D9%82%D8%B3%D8%AF-%D9%8A%D8%AA%D9%82%D8%AF%D9%85",
-          "publishedAt": "2026-09-20T06:53:50.000Z",
-          "files": [
-            "sdf",
-            "turkey",
-            "israel"
           ],
           "seenBefore": true,
           "us": false
