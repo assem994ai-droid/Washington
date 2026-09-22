@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T20:48:48.630Z",
+    "generatedAt": "2026-09-22T21:09:55.410Z",
     "windowHours": 24,
-    "from": "2026-09-21T20:48:48.630Z",
-    "to": "2026-09-22T20:48:48.630Z"
+    "from": "2026-09-21T21:09:55.410Z",
+    "to": "2026-09-22T21:09:55.410Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 26,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 9,
-    "archiveCycles": 1037
+    "americanItems": 10,
+    "archiveCycles": 1038
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,30 +33,45 @@
       "contested": false,
       "independentSources": 7,
       "sources": [
+        "The Hill — الكونغرس والسياسة الأمريكية",
         "Al Jazeera English",
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "Middle East Eye",
-        "The Hill — الكونغرس والسياسة الأمريكية",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
+        "الكونغرس والتوازن السياسي الأمريكي",
         "الإعلام الدولي",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الإعلام المتخصص",
-        "الكونغرس والتوازن السياسي الأمريكي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:37",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 33,
+      "usItems": 2,
+      "score": 46,
       "items": [
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "Netanyahu accuses Mamdani of &#8216;supporting&#8217; Hamas ahead of UN visit: &#8216;Shame on you&#8217;",
+          "excerpt": "Israeli Prime Minister Benjamin Netanyahu on Tuesday accused New York City Mayor Zohran Mamdani (D) of &#8220;supporting&#8221; the terror group Hamas ahead of visiting the United Nations General Assembly in the city. &#8220;Shame on you, M",
+          "link": "https://thehill.com/policy/international/6104970-netanyahu-accuses-mamdani-hamas/",
+          "publishedAt": "2026-09-22T21:01:01.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Al Jazeera English",
           "sourceId": "aljazeera-en",
@@ -215,7 +230,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -301,7 +316,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -385,7 +400,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -450,7 +465,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -487,7 +502,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 20:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
