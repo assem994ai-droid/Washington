@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T11:41:07.827Z",
+    "generatedAt": "2026-09-22T12:28:17.584Z",
     "windowHours": 24,
-    "from": "2026-09-21T11:41:07.827Z",
-    "to": "2026-09-22T11:41:07.827Z"
+    "from": "2026-09-21T12:28:17.584Z",
+    "to": "2026-09-22T12:28:17.584Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 21,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 9,
-    "archiveCycles": 1015
+    "americanItems": 10,
+    "archiveCycles": 1016
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,6 +28,90 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 4,
+      "score": 33,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "لقاءات في نيويورك.. الشرع يناقش مع أعضاء بالكونغرس مستقبل العلاقات بين البلدين",
+          "excerpt": "بحث الرئيس أحمد الشرع في نيويورك، مع عدد من أعضاء الكونغرس الأميركي، العلاقات الثنائية بين سوريا والولايات المتحدة، إلى جانب ..",
+          "link": "https://www.syria.tv/%D9%84%D9%82%D8%A7%D8%A1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D9%85%D8%B9-%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%84%D8%AF%D9%8A%D9%86",
+          "publishedAt": "2026-09-22T12:22:21.000Z",
+          "files": [
+            "congress",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الرئيس الشرع يبحث مع أعضاء بالكونغرس الأمريكي العلاقات الثنائية والأوضاع ‏في سوريا",
+          "excerpt": "بحث الرئيس أحمد الشرع في نيويورك اليوم الثلاثاء، مع عدد من أعضاء الكونغرس ‏الأمريكي، العلاقات الثنائية بين سوريا والولايات المتحدة، والأوضاع في سوريا، إضافة ‏إلى المستجدات الإقليمية والدولية.",
+          "link": "https://sana.sy/syria-and-the-world/2586684/",
+          "publishedAt": "2026-09-22T09:24:25.000Z",
+          "files": [
+            "congress",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "عضو بالكونغرس الأميركي يدعو الاحتلال إلى وقف غاراته على سوريا",
+          "excerpt": "دعا عضو الكونغرس الأميركي جو ويلسون الاحتلال الإسرائيلي إلى وقف غاراته الجوية على سوريا، مؤكداً رفضه استمرار هذه الهجمات، ومشيداً بالجهود الرامية ..",
+          "link": "https://www.syria.tv/%D8%B9%D8%B6%D9%88-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A5%D9%84%D9%89-%D9%88%D9%82%D9%81-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%B9%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-22T08:52:43.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. congressman urges Israel to halt airstrikes on Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Rep. Joe Wilson on Monday called on Israel to end its airstrikes on Syria, saying the attacks should not be carried out and expressing support for U.S. efforts to give Syria an opportunity to achieve sta",
+          "link": "https://npasyria.com/en/141803/",
+          "publishedAt": "2026-09-22T06:39:50.000Z",
+          "files": [
+            "congress",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -47,7 +131,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 09:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 11:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -108,7 +192,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syria grows increasingly concerned about suspicious explosions near Aleppo",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3193,w_4789/731266' alt='An explosion takes place in an area controlled by Israel in southern Lebanon, as seen from the edge of Zaw",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731266' alt='An explosion takes place in an area controlled by Israel in southern Lebanon, as seen from the edge of Zawt",
           "link": "https://www.jpost.com/middle-east/article-909204",
           "publishedAt": "2026-09-21T20:32:47.000Z",
           "files": [],
@@ -130,75 +214,6 @@
       ]
     },
     {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 09:37",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 3,
-      "score": 20,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الرئيس الشرع يبحث مع أعضاء بالكونغرس الأمريكي العلاقات الثنائية والأوضاع ‏في سوريا",
-          "excerpt": "بحث الرئيس أحمد الشرع في نيويورك اليوم الثلاثاء، مع عدد من أعضاء الكونغرس ‏الأمريكي، العلاقات الثنائية بين سوريا والولايات المتحدة، والأوضاع في سوريا، إضافة ‏إلى المستجدات الإقليمية والدولية.",
-          "link": "https://sana.sy/syria-and-the-world/2586684/",
-          "publishedAt": "2026-09-22T09:24:25.000Z",
-          "files": [
-            "congress",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عضو بالكونغرس الأميركي يدعو الاحتلال إلى وقف غاراته على سوريا",
-          "excerpt": "دعا عضو الكونغرس الأميركي جو ويلسون الاحتلال الإسرائيلي إلى وقف غاراته الجوية على سوريا، مؤكداً رفضه استمرار هذه الهجمات، ومشيداً بالجهود الرامية ..",
-          "link": "https://www.syria.tv/%D8%B9%D8%B6%D9%88-%D8%A8%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A5%D9%84%D9%89-%D9%88%D9%82%D9%81-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%B9%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-22T08:52:43.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. congressman urges Israel to halt airstrikes on Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Rep. Joe Wilson on Monday called on Israel to end its airstrikes on Syria, saying the attacks should not be carried out and expressing support for U.S. efforts to give Syria an opportunity to achieve sta",
-          "link": "https://npasyria.com/en/141803/",
-          "publishedAt": "2026-09-22T06:39:50.000Z",
-          "files": [
-            "congress",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -212,7 +227,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 09:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 11:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -291,7 +306,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 09:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 11:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -369,7 +384,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 09:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 11:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -420,7 +435,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 09:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 11:41",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
