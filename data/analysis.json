@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T06:09:19.037Z",
+    "generatedAt": "2026-09-22T06:28:55.163Z",
     "windowHours": 24,
-    "from": "2026-09-21T06:09:19.037Z",
-    "to": "2026-09-22T06:09:19.037Z"
+    "from": "2026-09-21T06:28:55.163Z",
+    "to": "2026-09-22T06:28:55.163Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 9,
+    "items": 10,
     "files": 4,
-    "withNew": 0,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 1005
+    "archiveCycles": 1006
   },
   "emptyCircles": [
     "الكونغرس",
@@ -36,6 +36,56 @@
   ],
   "files": [
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 13,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تستهدف بالقذائف أطراف قرى في درعا وتتوغل بريف القنيطرة",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، فجر اليوم الثلاثاء، أطراف ثلاث قرى في ريف درعا الغربي، فيما أعقب ذلك توغل جديد في ريف القنيطرة.",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D9%82%D8%B1%D9%89-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-22T06:21:16.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اقتادته إلى الأراضي المحتلة.. قوات إسرائيلية تحتجز راعياً في ريف القنيطرة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي احتجزت راعي أغنام غربي بلدة صيدا الجولان في ريف القنيطرة الجنوبي..",
+          "link": "https://www.syria.tv/%D8%A7%D9%82%D8%AA%D8%A7%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9-%D9%82%D9%88%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B1%D8%A7%D8%B9%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-21T17:44:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -51,7 +101,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 05:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 06:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -109,7 +159,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 05:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 06:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -160,7 +210,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 05:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 06:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -209,42 +259,6 @@
           ],
           "seenBefore": true,
           "us": true
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 05:28",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اقتادته إلى الأراضي المحتلة.. قوات إسرائيلية تحتجز راعياً في ريف القنيطرة",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي احتجزت راعي أغنام غربي بلدة صيدا الجولان في ريف القنيطرة الجنوبي..",
-          "link": "https://www.syria.tv/%D8%A7%D9%82%D8%AA%D8%A7%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9-%D9%82%D9%88%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B1%D8%A7%D8%B9%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-21T17:44:40.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     }
