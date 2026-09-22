@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T03:12:27.933Z",
+    "generatedAt": "2026-09-22T04:22:08.967Z",
     "windowHours": 24,
-    "from": "2026-09-21T03:12:27.933Z",
-    "to": "2026-09-22T03:12:27.933Z"
+    "from": "2026-09-21T04:22:08.967Z",
+    "to": "2026-09-22T04:22:08.967Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
+    "items": 9,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
-    "contested": 1,
+    "withNew": 0,
+    "stale": 4,
+    "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 1002
+    "archiveCycles": 1003
   },
   "emptyCircles": [
     "الكونغرس",
@@ -51,13 +51,13 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 03:12",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 19,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -68,7 +68,7 @@
           "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86%D9%87-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
           "publishedAt": "2026-09-22T03:04:50.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -76,7 +76,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syria grows increasingly concerned about suspicious explosions near Aleppo",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3193,w_4789/731266' alt='An explosion takes place in an area controlled by Israel in southern Lebanon, as seen from the edge of Zaw",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/731266' alt='An explosion takes place in an area controlled by Israel in southern Lebanon, as seen from the edge of Zawta",
           "link": "https://www.jpost.com/middle-east/article-909204",
           "publishedAt": "2026-09-21T20:32:47.000Z",
           "files": [],
@@ -100,8 +100,8 @@
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
+      "verification": "مصدر واحد",
+      "contested": false,
       "independentSources": 1,
       "sources": [
         "تلفزيون سوريا"
@@ -109,13 +109,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 03:12",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 17,
+      "score": 4,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -128,7 +128,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -158,20 +158,6 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "رجعت أصالة على الشام والشرع على المزّة",
-          "excerpt": "يروي عاطف نعنوع، مؤسس \"فريق ملهم التطوعي\" ومديره التنفيذي، قصة طريفة عن بداية علاقته بالجولاني. فيقول إنه كان ينوي إجراء بث..",
-          "link": "https://www.syria.tv/%D8%B1%D8%AC%D8%B9%D8%AA-%D8%A3%D8%B5%D8%A7%D9%84%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B2%D9%91%D8%A9",
-          "publishedAt": "2026-09-21T04:07:56.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -187,7 +173,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 21:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 03:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -237,7 +223,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-21 21:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 03:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
