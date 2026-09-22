@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T07:15:12.522Z",
+    "generatedAt": "2026-09-22T07:29:29.240Z",
     "windowHours": 24,
-    "from": "2026-09-21T07:15:12.522Z",
-    "to": "2026-09-22T07:15:12.522Z"
+    "from": "2026-09-21T07:29:29.240Z",
+    "to": "2026-09-22T07:29:29.240Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 17,
-    "files": 5,
+    "files": 6,
     "withNew": 1,
-    "stale": 4,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 1009
+    "americanItems": 5,
+    "archiveCycles": 1010
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,113 +28,6 @@
   ],
   "errors": [],
   "files": [
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 20,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces shell villages in Syria&#8217;s Daraa for second time",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday evening shelled the outskirts of villages in the Yarmouk Basin area of western Daraa, southern Syria, with heavy artillery, marking the second shelling in one day, sources said on Tuesda",
-          "link": "https://npasyria.com/en/141806/",
-          "publishedAt": "2026-09-22T07:06:34.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تستهدف بالقذائف أطراف قرى في درعا وتتوغل بريف القنيطرة",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، فجر اليوم الثلاثاء، أطراف ثلاث قرى في ريف درعا الغربي، فيما أعقب ذلك توغل جديد في ريف القنيطرة.",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D9%82%D8%B1%D9%89-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-22T06:21:16.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اقتادته إلى الأراضي المحتلة.. قوات إسرائيلية تحتجز راعياً في ريف القنيطرة",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي احتجزت راعي أغنام غربي بلدة صيدا الجولان في ريف القنيطرة الجنوبي..",
-          "link": "https://www.syria.tv/%D8%A7%D9%82%D8%AA%D8%A7%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9-%D9%82%D9%88%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B1%D8%A7%D8%B9%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-21T17:44:40.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces detain person in Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces detained on Monday a shepherd in Saida al-Hanout village in Quneitra countryside, according to North Press sources. An Israeli military patrol detained the man while he was grazing sheep in the",
-          "link": "https://npasyria.com/en/141794/",
-          "publishedAt": "2026-09-21T17:28:49.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli shelling kills livestock in Syria’s Daraa countryside",
-          "excerpt": "The post Israeli shelling kills livestock in Syria’s Daraa countryside appeared first on North press agency.",
-          "link": "https://npasyria.com/en/141784/",
-          "publishedAt": "2026-09-21T11:33:28.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces shell countryside of Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces early Monday shelled Wadi Abdeen, Wadi al-Raqqad and the outskirts of Jamla village in the Yarmouk Basin area of western Daraa, southern Syria. Local sources told North Press that Israeli forces f",
-          "link": "https://npasyria.com/en/141778/",
-          "publishedAt": "2026-09-21T07:20:31.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -152,7 +45,7 @@
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 06:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 07:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -211,6 +104,43 @@
       ]
     },
     {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 11,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الرئيس الشرع يلتقي الجالية السورية في نيويورك ويؤكد دورهم في إعادة الإعمار",
+          "excerpt": "التقى الرئيس السوري أحمد الشرع، وفداً من أبناء الجالية السورية المقيمة في الولايات المتحدة",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%AF%D9%88%D8%B1%D9%87%D9%85-%D9%81%D9%8A-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%85%D8%A7%D8%B1",
+          "publishedAt": "2026-09-22T07:22:53.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -224,7 +154,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 06:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 07:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -239,7 +169,7 @@
           "title": "الرئيس الشرع يلتقي وفداً من الجالية السورية في الولايات المتحدة",
           "excerpt": "التقى الرئيس أحمد الشرع وفداً من الجالية السورية في الولايات المتحدة الأمريكية، ‏في مستهل زيارته إلى نيويورك للمشاركة في أعمال الدورة الـ81 للجمعية العامة للأمم ‏المتحدة، بحضور وزير الخارجية والمغتربين أسعد حسن الشيباني، ووزير الطوارئ ‏وإدا",
           "link": "https://sana.sy/politics/2586586/",
-          "publishedAt": "2026-09-22T06:44:28.000Z",
+          "publishedAt": "2026-09-22T07:10:00.000Z",
           "files": [
             "diplomacy"
           ],
@@ -291,6 +221,99 @@
       ]
     },
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 07:15",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 10,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces shell villages in Syria&#8217;s Daraa for second time",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday evening shelled the outskirts of villages in the Yarmouk Basin area of western Daraa, southern Syria, with heavy artillery, marking the second shelling in one day, sources said on Tuesda",
+          "link": "https://npasyria.com/en/141806/",
+          "publishedAt": "2026-09-22T07:06:34.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تستهدف بالقذائف أطراف قرى في درعا وتتوغل بريف القنيطرة",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، فجر اليوم الثلاثاء، أطراف ثلاث قرى في ريف درعا الغربي، فيما أعقب ذلك توغل جديد في ريف القنيطرة.",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D9%82%D8%B1%D9%89-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-22T06:21:16.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اقتادته إلى الأراضي المحتلة.. قوات إسرائيلية تحتجز راعياً في ريف القنيطرة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي احتجزت راعي أغنام غربي بلدة صيدا الجولان في ريف القنيطرة الجنوبي..",
+          "link": "https://www.syria.tv/%D8%A7%D9%82%D8%AA%D8%A7%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9-%D9%82%D9%88%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B1%D8%A7%D8%B9%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-21T17:44:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces detain person in Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces detained on Monday a shepherd in Saida al-Hanout village in Quneitra countryside, according to North Press sources. An Israeli military patrol detained the man while he was grazing sheep in the",
+          "link": "https://npasyria.com/en/141794/",
+          "publishedAt": "2026-09-21T17:28:49.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli shelling kills livestock in Syria’s Daraa countryside",
+          "excerpt": "The post Israeli shelling kills livestock in Syria’s Daraa countryside appeared first on North press agency.",
+          "link": "https://npasyria.com/en/141784/",
+          "publishedAt": "2026-09-21T11:33:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
       "verification": "مصدر واحد",
@@ -302,7 +325,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 06:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 07:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -339,7 +362,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 06:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 07:15",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
