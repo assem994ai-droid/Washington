@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T18:55:58.447Z",
+    "generatedAt": "2026-09-22T19:07:37.888Z",
     "windowHours": 24,
-    "from": "2026-09-21T18:55:58.447Z",
-    "to": "2026-09-22T18:55:58.447Z"
+    "from": "2026-09-21T19:07:37.888Z",
+    "to": "2026-09-22T19:07:37.888Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 26,
     "files": 6,
     "withNew": 1,
     "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 11,
-    "archiveCycles": 1031
+    "archiveCycles": 1032
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,147 +27,48 @@
   "errors": [],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 5,
-      "sources": [
-        "North Press Agency (English)",
-        "The National",
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:41",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 4,
-      "score": 29,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump at UN calls Iran “Number One Sponsor of Terror”",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump called on Tuesday Iran “the number one sponsor of terror” during his address to the UN General Assembly in New York. “There is no better example of a danger that is allowed to gath",
-          "link": "https://npasyria.com/en/141809/",
-          "publishedAt": "2026-09-22T15:57:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Spain endorses extradition process of jailed US donor accused of financing Hamas",
-          "excerpt": "The Spanish government on Tuesday authorised the first step of the extradition process of a US citizen currently imprisoned in Madrid and wanted by Washington for allegedly financing Hamas.The US government accuses James Cox Chambers Jr, 41",
-          "link": "https://www.thenationalnews.com/news/europe/2026/09/22/spain-endorses-extradition-process-of-jailed-us-donor-accused-of-financing-hamas/",
-          "publishedAt": "2026-09-22T14:26:23.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "بين زيارتَي نيويورك (2025 &#8211; 2026).. ماذا حققت ‏الدبلوماسية السورية؟",
-          "excerpt": "الوصف: عام بين زيارتَي الرئيس الشرع إلى نيويورك، شهد اتساع ‏العلاقات الدولية ‏وعودة السفارات واستكمال رفع العقوبات والقيود ‏عن سوريا‎",
-          "link": "https://sana.sy/politics/2586634/",
-          "publishedAt": "2026-09-22T08:35:52.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "ويلسون: استقرار سوريا وازدهارها يعودان بالفائدة على دول المنطقة",
-          "excerpt": "أكد عضو الكونغرس الأمريكي جو ويلسون، أن منح سوريا بعد تحريرها في كانون ‏الأول عام 2024، فرصة لتحقيق الاستقرار والازدهار، سيعود بالفائدة على جميع دول ‏المنطقة.‏",
-          "link": "https://sana.sy/politics/2586650/",
-          "publishedAt": "2026-09-22T06:44:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "World leaders gather at UN as wars test global diplomacy",
-          "excerpt": "QAMISHLI, Syria (North Press) – More than 100 world leaders are gathering in New York this week for the 81st United Nations General Assembly, as wars in the Middle East and Ukraine, energy market disruptions and growing geopolitical divisio",
-          "link": "https://npasyria.com/en/141800/",
-          "publishedAt": "2026-09-22T05:57:51.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من الإخفاء إلى التدمير المتحقق منه: مرحلة جديدة في ملف الأسلحة الكيميائية السوري",
-          "excerpt": "تحققت منظمة حظر الأسلحة الكيميائية (OPCW) في آب/ أغسطس 2026 من التدمير النهائي لاثنتين وأربعين قنبلة جوية سورية، في أول عملية تدمير لذخائر كيميائية سورية تتحقق.",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86%D9%87-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-          "publishedAt": "2026-09-22T03:04:50.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria grows increasingly concerned about suspicious explosions near Aleppo",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3193,w_4789/731266' alt='An explosion takes place in an area controlled by Israel in southern Lebanon, as seen from the edge of Zaw",
-          "link": "https://www.jpost.com/middle-east/article-909204",
-          "publishedAt": "2026-09-21T20:32:47.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "Middle East Eye",
         "North Press Agency (English)",
         "The Hill — الكونغرس والسياسة الأمريكية",
-        "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:41",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 27,
+      "score": 37,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أصوات انفجارات وحريق في الجولان السوري المحتل.. ما القصة؟",
+          "excerpt": "اندلع حريق داخل أراضي الجولان السوري المحتل بالتزامن مع سماع أصوات انفجارات في المنطقة..",
+          "link": "https://www.syria.tv/%D8%A3%D8%B5%D9%88%D8%A7%D8%AA-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84-%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9%D8%9F",
+          "publishedAt": "2026-09-22T19:01:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -270,6 +171,119 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 5,
+      "sources": [
+        "North Press Agency (English)",
+        "The National",
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:55",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 4,
+      "score": 29,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump at UN calls Iran “Number One Sponsor of Terror”",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump called on Tuesday Iran “the number one sponsor of terror” during his address to the UN General Assembly in New York. “There is no better example of a danger that is allowed to gath",
+          "link": "https://npasyria.com/en/141809/",
+          "publishedAt": "2026-09-22T15:57:24.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Spain endorses extradition process of jailed US donor accused of financing Hamas",
+          "excerpt": "The Spanish government on Tuesday authorised the first step of the extradition process of a US citizen currently imprisoned in Madrid and wanted by Washington for allegedly financing Hamas.The US government accuses James Cox Chambers Jr, 41",
+          "link": "https://www.thenationalnews.com/news/europe/2026/09/22/spain-endorses-extradition-process-of-jailed-us-donor-accused-of-financing-hamas/",
+          "publishedAt": "2026-09-22T14:26:23.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "بين زيارتَي نيويورك (2025 &#8211; 2026).. ماذا حققت ‏الدبلوماسية السورية؟",
+          "excerpt": "الوصف: عام بين زيارتَي الرئيس الشرع إلى نيويورك، شهد اتساع ‏العلاقات الدولية ‏وعودة السفارات واستكمال رفع العقوبات والقيود ‏عن سوريا‎",
+          "link": "https://sana.sy/politics/2586634/",
+          "publishedAt": "2026-09-22T08:35:52.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "ويلسون: استقرار سوريا وازدهارها يعودان بالفائدة على دول المنطقة",
+          "excerpt": "أكد عضو الكونغرس الأمريكي جو ويلسون، أن منح سوريا بعد تحريرها في كانون ‏الأول عام 2024، فرصة لتحقيق الاستقرار والازدهار، سيعود بالفائدة على جميع دول ‏المنطقة.‏",
+          "link": "https://sana.sy/politics/2586650/",
+          "publishedAt": "2026-09-22T06:44:00.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "World leaders gather at UN as wars test global diplomacy",
+          "excerpt": "QAMISHLI, Syria (North Press) – More than 100 world leaders are gathering in New York this week for the 81st United Nations General Assembly, as wars in the Middle East and Ukraine, energy market disruptions and growing geopolitical divisio",
+          "link": "https://npasyria.com/en/141800/",
+          "publishedAt": "2026-09-22T05:57:51.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من الإخفاء إلى التدمير المتحقق منه: مرحلة جديدة في ملف الأسلحة الكيميائية السوري",
+          "excerpt": "تحققت منظمة حظر الأسلحة الكيميائية (OPCW) في آب/ أغسطس 2026 من التدمير النهائي لاثنتين وأربعين قنبلة جوية سورية، في أول عملية تدمير لذخائر كيميائية سورية تتحقق.",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86%D9%87-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+          "publishedAt": "2026-09-22T03:04:50.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syria grows increasingly concerned about suspicious explosions near Aleppo",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3193,w_4789/731266' alt='An explosion takes place in an area controlled by Israel in southern Lebanon, as seen from the edge of Zaw",
+          "link": "https://www.jpost.com/middle-east/article-909204",
+          "publishedAt": "2026-09-21T20:32:47.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
       "verification": "مصدران مستقلان فأكثر",
@@ -284,7 +298,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -354,58 +368,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "أردوغان: سوريا تخطو خطوات ملموسة نحو الاستقرار.. وسندعم شعبها الشقيق",
-          "excerpt": "أكد الرئيس التركي رجب طيب أردوغان اليوم الثلاثاء، أن سوريا تخطو خطوات ملموسة نحو ‏الاستقرار والتحول إلى دولة آمنة.",
-          "link": "https://sana.sy/politics/2587126/",
-          "publishedAt": "2026-09-22T18:44:53.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"التكايا والسرايا\".. ماذا يعني مقام ابن عربي في دمشق للسياسة التركية؟",
-          "excerpt": "تمثل زيارة وزير الخارجية التركي هاكان فيدان لضريح محيي الدين بن عربي بسفح قاسيون الأولى لمسؤول تركي بهذا المستوى منذ قيام الجمهورية التركية الحديثة",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9%D9%86%D9%8A-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%A8%D9%86-%D8%B9%D8%B1%D8%A8%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9%D8%9F",
-          "publishedAt": "2026-09-22T05:28:35.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -419,7 +381,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -486,6 +448,58 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:55",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 7,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "أردوغان: سوريا تخطو خطوات ملموسة نحو الاستقرار.. وسندعم شعبها الشقيق",
+          "excerpt": "أكد الرئيس التركي رجب طيب أردوغان اليوم الثلاثاء، أن سوريا تخطو خطوات ملموسة نحو ‏الاستقرار والتحول إلى دولة آمنة.",
+          "link": "https://sana.sy/politics/2587126/",
+          "publishedAt": "2026-09-22T18:44:53.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"التكايا والسرايا\".. ماذا يعني مقام ابن عربي في دمشق للسياسة التركية؟",
+          "excerpt": "تمثل زيارة وزير الخارجية التركي هاكان فيدان لضريح محيي الدين بن عربي بسفح قاسيون الأولى لمسؤول تركي بهذا المستوى منذ قيام الجمهورية التركية الحديثة",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9%D9%86%D9%8A-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%A8%D9%86-%D8%B9%D8%B1%D8%A8%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9%D8%9F",
+          "publishedAt": "2026-09-22T05:28:35.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -497,7 +511,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 18:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
