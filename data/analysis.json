@@ -1,25 +1,24 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T19:35:58.286Z",
+    "generatedAt": "2026-09-22T19:46:26.675Z",
     "windowHours": 24,
-    "from": "2026-09-21T19:35:58.286Z",
-    "to": "2026-09-22T19:35:58.286Z"
+    "from": "2026-09-21T19:46:26.675Z",
+    "to": "2026-09-22T19:46:26.675Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 28,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 10,
-    "archiveCycles": 1034
+    "archiveCycles": 1035
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
-    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -31,8 +30,9 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
+        "Al Jazeera English",
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
@@ -41,20 +41,35 @@
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
+        "الإعلام الدولي",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 29,
+      "score": 42,
       "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Qatar denounces Israeli aggression across the region",
+          "excerpt": "Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
+          "publishedAt": "2026-09-22T19:29:03.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -203,7 +218,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -300,7 +315,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -383,7 +398,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -450,7 +465,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -528,7 +543,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:35",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
