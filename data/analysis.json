@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T17:36:36.896Z",
+    "generatedAt": "2026-09-22T17:45:34.758Z",
     "windowHours": 24,
-    "from": "2026-09-21T17:36:36.896Z",
-    "to": "2026-09-22T17:36:36.896Z"
+    "from": "2026-09-21T17:45:34.758Z",
+    "to": "2026-09-22T17:45:34.758Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 26,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 12,
-    "archiveCycles": 1026
+    "archiveCycles": 1027
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,6 +26,136 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 6,
+      "sources": [
+        "Middle East Eye",
+        "North Press Agency (English)",
+        "The Hill — الكونغرس والسياسة الأمريكية",
+        "Al-Monitor",
+        "تلفزيون سوريا",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "الكونغرس والتوازن السياسي الأمريكي",
+        "مراكز الفكر"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 36,
+      "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Qatar's emir condemns Israeli attacks in Syria, Lebanon and Palestine",
+          "excerpt": "<article data-history-node-id=\"448124\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/qatars-emir-condemns-israeli-attacks-syria-lebanon-and-palestine\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatars-emir-condemns-israeli-attacks-syria-lebanon-and-palestine",
+          "publishedAt": "2026-09-22T17:42:12.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter Syria’s Quneitra countryside with 3 military vehicles",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered Saida al-Golan in southern Quneitra, south Syria on Tuesday, with three military vehicles and set up a temporary checkpoint to inspect passersby. Local sources told North Press that Isr",
+          "link": "https://npasyria.com/en/141813/",
+          "publishedAt": "2026-09-22T17:10:42.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "Netanyahu may have ignored a dire warning. Israel ignores the deeper threat.",
+          "excerpt": "Israel risks drifting back into an Oct. 6 reality: a contained, managed Hamas quietly rebuilding behind a calm facade, primed to explode again.",
+          "link": "https://thehill.com/opinion/international/6102436-israel-hamas-conflict-management/",
+          "publishedAt": "2026-09-22T15:30:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Netanyahu says will 'tell the truth' on Israel's actions at United Nations",
+          "excerpt": "<p>JERUSALEM, Sept 22 (Reuters) - Israeli Prime Minister Benjamin Netanyahu said on Tuesday he would use his speech at the United Nations this week to defend Israel's military actions against the Palestinians, while accusing New York City M",
+          "link": "https://www.al-monitor.com/originals/2026/09/netanyahu-says-will-tell-truth-israels-actions-united-nations",
+          "publishedAt": "2026-09-22T13:46:39.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces shell villages in Syria&#8217;s Daraa for second time",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday evening shelled the outskirts of villages in the Yarmouk Basin area of western Daraa, southern Syria, with heavy artillery, marking the second shelling in one day, sources said on Tuesda",
+          "link": "https://npasyria.com/en/141806/",
+          "publishedAt": "2026-09-22T07:06:34.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تستهدف بالقذائف أطراف قرى في درعا وتتوغل بريف القنيطرة",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، فجر اليوم الثلاثاء، أطراف ثلاث قرى في ريف درعا الغربي، وأعقب ذلك توغل جديد في ريف القنيطرة.",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D9%82%D8%B1%D9%89-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-22T06:21:16.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Journalist admits: Anti-Israel narrative driving protests is based on Hamas lies",
+          "excerpt": "Journalist Motaz Azaiza’s new revelations exposing “SMART,” a Hamas-controlled group of reporters used to manage the media narrative about Gaza, reveal uncomfortable but important truths about nearly... The post Journalist admits: Anti-Isra",
+          "link": "https://www.fdd.org/analysis/2026/09/21/journalist-admits-anti-israel-narrative-driving-protests-is-based-on-hamas-lies/",
+          "publishedAt": "2026-09-22T00:44:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -45,7 +175,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -140,134 +270,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 5,
-      "sources": [
-        "North Press Agency (English)",
-        "The Hill — الكونغرس والسياسة الأمريكية",
-        "Al-Monitor",
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الكونغرس والتوازن السياسي الأمريكي",
-        "الإعلام المتخصص",
-        "مراكز الفكر"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:20",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 24,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces enter Syria’s Quneitra countryside with 3 military vehicles",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered Saida al-Golan in southern Quneitra, south Syria on Tuesday, with three military vehicles and set up a temporary checkpoint to inspect passersby. Local sources told North Press that Isr",
-          "link": "https://npasyria.com/en/141813/",
-          "publishedAt": "2026-09-22T17:10:42.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The Hill — الكونغرس والسياسة الأمريكية",
-          "sourceId": "thehill",
-          "circle": "الكونغرس والتوازن السياسي الأمريكي",
-          "title": "Netanyahu may have ignored a dire warning. Israel ignores the deeper threat.",
-          "excerpt": "Israel risks drifting back into an Oct. 6 reality: a contained, managed Hamas quietly rebuilding behind a calm facade, primed to explode again.",
-          "link": "https://thehill.com/opinion/international/6102436-israel-hamas-conflict-management/",
-          "publishedAt": "2026-09-22T15:30:00.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Netanyahu says will 'tell the truth' on Israel's actions at United Nations",
-          "excerpt": "<p>JERUSALEM, Sept 22 (Reuters) - Israeli Prime Minister Benjamin Netanyahu said on Tuesday he would use his speech at the United Nations this week to defend Israel's military actions against the Palestinians, while accusing New York City M",
-          "link": "https://www.al-monitor.com/originals/2026/09/netanyahu-says-will-tell-truth-israels-actions-united-nations",
-          "publishedAt": "2026-09-22T13:46:39.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces shell villages in Syria&#8217;s Daraa for second time",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday evening shelled the outskirts of villages in the Yarmouk Basin area of western Daraa, southern Syria, with heavy artillery, marking the second shelling in one day, sources said on Tuesda",
-          "link": "https://npasyria.com/en/141806/",
-          "publishedAt": "2026-09-22T07:06:34.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تستهدف بالقذائف أطراف قرى في درعا وتتوغل بريف القنيطرة",
-          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، فجر اليوم الثلاثاء، أطراف ثلاث قرى في ريف درعا الغربي، وأعقب ذلك توغل جديد في ريف القنيطرة.",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D9%82%D8%B1%D9%89-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-22T06:21:16.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Journalist admits: Anti-Israel narrative driving protests is based on Hamas lies",
-          "excerpt": "Journalist Motaz Azaiza’s new revelations exposing “SMART,” a Hamas-controlled group of reporters used to manage the media narrative about Gaza, reveal uncomfortable but important truths about nearly... The post Journalist admits: Anti-Isra",
-          "link": "https://www.fdd.org/analysis/2026/09/21/journalist-admits-anti-israel-narrative-driving-protests-is-based-on-hamas-lies/",
-          "publishedAt": "2026-09-22T00:44:00.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اقتادته إلى الأراضي المحتلة.. قوات إسرائيلية تحتجز راعياً في ريف القنيطرة",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي احتجزت راعي أغنام غربي بلدة صيدا الجولان في ريف القنيطرة الجنوبي..",
-          "link": "https://www.syria.tv/%D8%A7%D9%82%D8%AA%D8%A7%D8%AF%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9-%D9%82%D9%88%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA%D8%AC%D8%B2-%D8%B1%D8%A7%D8%B9%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-21T17:44:40.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
       "verification": "مصدران مستقلان فأكثر",
@@ -282,7 +284,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -365,7 +367,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -457,7 +459,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -508,7 +510,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 17:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
