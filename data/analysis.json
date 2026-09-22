@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-22T19:20:33.688Z",
+    "generatedAt": "2026-09-22T19:35:58.286Z",
     "windowHours": 24,
-    "from": "2026-09-21T19:20:33.688Z",
-    "to": "2026-09-22T19:20:33.688Z"
+    "from": "2026-09-21T19:35:58.286Z",
+    "to": "2026-09-22T19:35:58.286Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
+    "items": 27,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 11,
-    "archiveCycles": 1033
+    "americanItems": 10,
+    "archiveCycles": 1034
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "الكونغرس والتوازن السياسي الأمريكي",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 38,
+      "score": 29,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -66,7 +66,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -203,13 +203,13 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 4,
-      "score": 29,
+      "usItems": 3,
+      "score": 25,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -243,18 +243,6 @@
           "excerpt": "الوصف: عام بين زيارتَي الرئيس الشرع إلى نيويورك، شهد اتساع ‏العلاقات الدولية ‏وعودة السفارات واستكمال رفع العقوبات والقيود ‏عن سوريا‎",
           "link": "https://sana.sy/politics/2586634/",
           "publishedAt": "2026-09-22T08:35:52.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "ويلسون: استقرار سوريا وازدهارها يعودان بالفائدة على دول المنطقة",
-          "excerpt": "أكد عضو الكونغرس الأمريكي جو ويلسون، أن منح سوريا بعد تحريرها في كانون ‏الأول عام 2024، فرصة لتحقيق الاستقرار والازدهار، سيعود بالفائدة على جميع دول ‏المنطقة.‏",
-          "link": "https://sana.sy/politics/2586650/",
-          "publishedAt": "2026-09-22T06:44:00.000Z",
           "files": [],
           "seenBefore": true,
           "us": true
@@ -312,7 +300,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -395,13 +383,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -415,7 +403,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -462,7 +450,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -540,7 +528,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-22 19:20",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
