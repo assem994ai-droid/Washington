@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T20:07:43.356Z",
+    "generatedAt": "2026-09-23T20:22:57.430Z",
     "windowHours": 24,
-    "from": "2026-09-22T20:07:43.356Z",
-    "to": "2026-09-23T20:07:43.356Z"
+    "from": "2026-09-22T20:22:57.430Z",
+    "to": "2026-09-23T20:22:57.430Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 29,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 1,
     "echoed": 1,
     "americanItems": 1,
-    "archiveCycles": 1087
+    "archiveCycles": 1088
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "مراكز الفكر",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
@@ -30,12 +31,11 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 7,
+      "independentSources": 6,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Middle East Eye",
-        "North Press Agency (English)",
-        "Al Jazeera English",
         "The National",
         "Jerusalem Post — الشرق الأوسط",
         "The Hill — الكونغرس والسياسة الأمريكية"
@@ -43,18 +43,31 @@
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الإعلام الدولي",
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 19:12",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": true,
       "usItems": 1,
-      "score": 38,
+      "score": 44,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Katz says Golan Heights Part of Israel “Forever”",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli Defense Minister Israel Katz said on Wednesday that the Golan Heights is under Israeli sovereignty and will remain an integral part of Israel, while ruling out a withdrawal from Mount Hermon and the s",
+          "link": "https://npasyria.com/en/141860/",
+          "publishedAt": "2026-09-23T20:09:34.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -124,21 +137,6 @@
           "publishedAt": "2026-09-23T17:44:53.000Z",
           "files": [
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Syria’s al-Sharaa urges Israeli withdrawal in UN General Assembly speech",
-          "excerpt": "President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.",
-          "link": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
-          "publishedAt": "2026-09-23T16:44:01.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -292,7 +290,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 19:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -374,7 +372,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 19:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -446,7 +444,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 19:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -512,7 +510,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 19:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -564,7 +562,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 19:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
