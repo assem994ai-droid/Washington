@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T15:52:04.273Z",
+    "generatedAt": "2026-09-23T16:07:39.101Z",
     "windowHours": 24,
-    "from": "2026-09-22T15:52:04.273Z",
-    "to": "2026-09-23T15:52:04.273Z"
+    "from": "2026-09-22T16:07:39.101Z",
+    "to": "2026-09-23T16:07:39.101Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 36,
+    "items": 35,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 1,
     "americanItems": 6,
-    "archiveCycles": 1076
+    "archiveCycles": 1077
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,13 +48,13 @@
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 2,
-      "score": 46,
+      "score": 45,
       "items": [
         {
           "source": "The National",
@@ -203,20 +203,6 @@
           "us": false
         },
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Four killed in Gaza in strikes, Israel says it killed a Hamas finance chief",
-          "excerpt": "<p>CAIRO, Sept 23 (Reuters) - Israeli airstrikes killed at least four Palestinians in the Gaza Strip on Wednesday, local health officials said, and Israel said one of the attacks targeted a Hamas finance chief.</p><p>Medics said two of the ",
-          "link": "https://www.al-monitor.com/originals/2026/09/four-killed-gaza-strikes-israel-says-it-killed-hamas-finance-chief",
-          "publishedAt": "2026-09-23T09:46:35.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -322,7 +308,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -337,7 +323,7 @@
           "title": "الرئيس الشرع أمام الجمعية العامة: سوريا طوت ‏صفحة ‏الحرب وبدأت رحلة التعافي ‏",
           "excerpt": "أكد الرئيس أحمد الشرع أن سوريا طوت صفحة ‏الحرب ‏والعزلة، وبدأت رحلة التعافي والنهوض، ‏مشيراً إلى ‏توحيد البلاد وحصر السلاح، وإعادة بناء ‏مؤسسات الأمن ‏والجيش، ورفع العقوبات والقيود، ‏واستعادة سوريا ‏مكانتها بين الأمم والدول‎.‎",
           "link": "https://sana.sy/presidency/2587824/",
-          "publishedAt": "2026-09-23T14:05:49.000Z",
+          "publishedAt": "2026-09-23T15:50:00.000Z",
           "files": [
             "diplomacy"
           ],
@@ -446,7 +432,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -546,7 +532,7 @@
         "الإعلام الدولي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -616,7 +602,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -668,7 +654,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:52",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
