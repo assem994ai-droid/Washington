@@ -1,24 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T20:47:43.642Z",
+    "generatedAt": "2026-09-23T21:08:49.074Z",
     "windowHours": 24,
-    "from": "2026-09-22T20:47:43.642Z",
-    "to": "2026-09-23T20:47:43.642Z"
+    "from": "2026-09-22T21:08:49.074Z",
+    "to": "2026-09-23T21:08:49.074Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 29,
+    "items": 28,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 2,
-    "archiveCycles": 1089
+    "americanItems": 1,
+    "archiveCycles": 1090
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
@@ -31,28 +32,26 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "Middle East Eye",
         "The National",
-        "Jerusalem Post — الشرق الأوسط",
-        "The Hill — الكونغرس والسياسة الأمريكية"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي",
-        "الكونغرس والتوازن السياسي الأمريكي"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
-      "usItems": 1,
-      "score": 35,
+      "usItems": 0,
+      "score": 28,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -256,21 +255,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The Hill — الكونغرس والسياسة الأمريكية",
-          "sourceId": "thehill",
-          "circle": "الكونغرس والتوازن السياسي الأمريكي",
-          "title": "Netanyahu accuses Mamdani of &#8216;supporting&#8217; Hamas ahead of UN visit: &#8216;Shame on you&#8217;",
-          "excerpt": "Israeli Prime Minister Benjamin Netanyahu on Tuesday accused New York City Mayor Zohran Mamdani (D) of &#8220;supporting&#8221; the terror group Hamas ahead of visiting the United Nations General Assembly in the city. &#8220;Shame on you, M",
-          "link": "https://thehill.com/policy/international/6104970-netanyahu-accuses-mamdani-hamas/",
-          "publishedAt": "2026-09-22T21:01:01.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -290,13 +274,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:47",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 20,
+      "score": 11,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -309,7 +293,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -372,7 +356,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -444,7 +428,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -510,7 +494,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -562,7 +546,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 20:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
