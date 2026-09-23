@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T06:36:23.927Z",
+    "generatedAt": "2026-09-23T06:51:48.216Z",
     "windowHours": 24,
-    "from": "2026-09-22T06:36:23.927Z",
-    "to": "2026-09-23T06:36:23.927Z"
+    "from": "2026-09-22T06:51:48.216Z",
+    "to": "2026-09-23T06:51:48.216Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 22,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 11,
-    "archiveCycles": 1048
+    "americanItems": 10,
+    "archiveCycles": 1049
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,7 +46,7 @@
         "الكونغرس والتوازن السياسي الأمريكي",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -202,7 +202,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -285,23 +285,22 @@
     {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 3,
-      "score": 17,
+      "usItems": 2,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -331,21 +330,6 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. congressman urges Israel to halt airstrikes on Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Rep. Joe Wilson on Monday called on Israel to end its airstrikes on Syria, saying the attacks should not be carried out and expressing support for U.S. efforts to give Syria an opportunity to achieve sta",
-          "link": "https://npasyria.com/en/141803/",
-          "publishedAt": "2026-09-22T06:39:50.000Z",
-          "files": [
-            "congress",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -363,7 +347,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -411,7 +395,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -464,7 +448,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:15",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 06:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
