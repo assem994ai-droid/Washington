@@ -1,28 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T14:23:38.745Z",
+    "generatedAt": "2026-09-23T14:39:51.778Z",
     "windowHours": 24,
-    "from": "2026-09-22T14:23:38.745Z",
-    "to": "2026-09-23T14:23:38.745Z"
+    "from": "2026-09-22T14:39:51.778Z",
+    "to": "2026-09-23T14:39:51.778Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 36,
+    "items": 38,
     "files": 7,
-    "withNew": 0,
-    "stale": 7,
+    "withNew": 2,
+    "stale": 5,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 10,
-    "archiveCycles": 1070
+    "americanItems": 8,
+    "archiveCycles": 1071
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "مراكز الفكر",
-    "الملف الإسرائيلي والتركي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -32,13 +30,14 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 7,
+      "independentSources": 8,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Al-Monitor",
         "Middle East Eye",
         "Al Jazeera English",
-        "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط",
         "The National",
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
@@ -46,16 +45,32 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الإعلام الدولي",
+        "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:07",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": true,
       "usItems": 3,
-      "score": 44,
+      "score": 59,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Sharaa reaffirms Syria’s claim to Golan at UN",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian President Ahmad al-Sharaa said on Wednesday that the Golan Heights will remain Syrian territory, rejecting Israel’s annexation measures during his address to the UN General Assembly. “The Golan will re",
+          "link": "https://npasyria.com/en/141847/",
+          "publishedAt": "2026-09-23T14:37:04.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -145,6 +160,20 @@
           "us": false
         },
         {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "King Abdullah’s UNGA warnings on Israel’s actions in Syria reflect wider regional shift - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2309,w_3463/738761' alt='Jordan's King Abdullah II addresses the 81st United Nations General Assembly at UN headquarters in New Yor",
+          "link": "https://www.jpost.com/middle-east/article-909391",
+          "publishedAt": "2026-09-23T09:56:08.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
           "circle": "الإعلام المتخصص",
@@ -195,6 +224,21 @@
           "excerpt": "قال الرئيس أحمد الشرع إن سوريا تعمل على تعزيز مؤسسات الدولة واحترام القانون خلال مرحلة انتقالية مدتها خمس سنوات،",
           "link": "https://www.syria.tv/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%88%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D8%A7-%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B7%D9%84%D8%B3%D9%8A",
           "publishedAt": "2026-09-23T03:18:49.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Sharaa: October 7 cannot dictate Israel's Syria policy, talks reached 90% agreement",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2293,w_3440/738826' alt='Syria's President Ahmed al-Sharaa attends the 81st United Nations General Assembly at UN headquarters in N",
+          "link": "https://www.jpost.com/middle-east/article-909365",
+          "publishedAt": "2026-09-23T02:26:09.000Z",
           "files": [
             "israel",
             "diplomacy"
@@ -293,7 +337,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -416,113 +460,44 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Al Jazeera English",
-        "North Press Agency (English)",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام الدولي",
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 3,
-      "score": 18,
-      "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
-          "excerpt": "Second day of UN General Assembly kicks off with speeches from world leaders, including from Syria, Iran and Ukraine.",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
-          "publishedAt": "2026-09-23T12:00:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Rehabilitation work begins at Mezzeh airport in Damascus",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s General Civil Aviation Authority on Wednesday announced the start of preliminary rehabilitation work at Mezzeh Airport, with the aim of “reclassifying it from a facility with military use into a limit",
-          "link": "https://npasyria.com/en/141840/",
-          "publishedAt": "2026-09-23T11:02:26.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Al Shara and Al Zaidi hold first meeting as Syria and Iraq look to turn page",
-          "excerpt": "Syrian President Ahmad Al Shara and Iraqi Prime Minister Ali Al Zaidi have held their first meeting at the UN General Assembly in New York, as Baghdad and Damascus reset ties. The relationship between the two countries has shifted, particul",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/23/al-shara-and-al-zaidi-hold-first-meeting-as-syria-and-iraq-look-to-turn-page/",
-          "publishedAt": "2026-09-23T07:10:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump at UN calls Iran “Number One Sponsor of Terror”",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump called on Tuesday Iran “the number one sponsor of terror” during his address to the UN General Assembly in New York. “There is no better example of a danger that is allowed to gath",
-          "link": "https://npasyria.com/en/141809/",
-          "publishedAt": "2026-09-22T15:57:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Spain endorses extradition process of jailed US donor accused of financing Hamas",
-          "excerpt": "The Spanish government on Tuesday authorised the first step of the extradition process of a US citizen currently imprisoned in Madrid and wanted by Washington for allegedly financing Hamas.The US government accuses James Cox Chambers Jr, 41",
-          "link": "https://www.thenationalnews.com/news/europe/2026/09/22/spain-endorses-extradition-process-of-jailed-us-donor-accused-of-financing-hamas/",
-          "publishedAt": "2026-09-22T14:26:23.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "Turkish Minute",
         "تلفزيون سوريا",
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "الملف التركي",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:07",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 22,
       "items": [
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Syria’s al-Al-Sharaa seeks legal status for Turkish military presence",
+          "excerpt": "Syrian President Ahmed al-Sharaa said Damascus is working to formally authorize Turkey’s remaining military presence in Syria through parliament, while predicting the country would soon no longer need foreign troops. Speaking at an Atlantic",
+          "link": "https://turkishminute.com/2026/09/23/syrias-al-al-sharaa-seeks-legal-status-for-turkish-military-presence/",
+          "publishedAt": "2026-09-23T14:38:12.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -585,6 +560,68 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Al Jazeera English",
+        "North Press Agency (English)",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 10,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
+          "excerpt": "Second day of UN General Assembly kicks off with speeches from world leaders, including from Syria, Iran and Ukraine.",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Rehabilitation work begins at Mezzeh airport in Damascus",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s General Civil Aviation Authority on Wednesday announced the start of preliminary rehabilitation work at Mezzeh Airport, with the aim of “reclassifying it from a facility with military use into a limit",
+          "link": "https://npasyria.com/en/141840/",
+          "publishedAt": "2026-09-23T11:02:26.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Al Shara and Al Zaidi hold first meeting as Syria and Iraq look to turn page",
+          "excerpt": "Syrian President Ahmad Al Shara and Iraqi Prime Minister Ali Al Zaidi have held their first meeting at the UN General Assembly in New York, as Baghdad and Damascus reset ties. The relationship between the two countries has shifted, particul",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/23/al-shara-and-al-zaidi-hold-first-meeting-as-syria-and-iraq-look-to-turn-page/",
+          "publishedAt": "2026-09-23T07:10:37.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -596,7 +633,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -648,7 +685,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -685,7 +722,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
