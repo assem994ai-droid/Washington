@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T14:39:51.778Z",
+    "generatedAt": "2026-09-23T14:53:33.289Z",
     "windowHours": 24,
-    "from": "2026-09-22T14:39:51.778Z",
-    "to": "2026-09-23T14:39:51.778Z"
+    "from": "2026-09-22T14:53:33.289Z",
+    "to": "2026-09-23T14:53:33.289Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 38,
+    "items": 39,
     "files": 7,
-    "withNew": 2,
-    "stale": 5,
+    "withNew": 1,
+    "stale": 6,
     "contested": 0,
     "echoed": 1,
     "americanItems": 8,
-    "archiveCycles": 1071
+    "archiveCycles": 1072
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,18 +33,18 @@
       "independentSources": 8,
       "sources": [
         "North Press Agency (English)",
+        "Al Jazeera English",
         "تلفزيون سوريا",
         "Al-Monitor",
         "Middle East Eye",
-        "Al Jazeera English",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
         "الإعلام الدولي",
+        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
@@ -54,7 +54,7 @@
       "stale": false,
       "echoed": true,
       "usItems": 3,
-      "score": 59,
+      "score": 60,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -64,6 +64,21 @@
           "excerpt": "QAMISHLI, Syria (North Press) – Syrian President Ahmad al-Sharaa said on Wednesday that the Golan Heights will remain Syrian territory, rejecting Israel’s annexation measures during his address to the UN General Assembly. “The Golan will re",
           "link": "https://npasyria.com/en/141847/",
           "publishedAt": "2026-09-23T14:37:04.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Al-Sharaa: Occupied Golan Heights to ‘remain Syrian territory’",
+          "excerpt": "Syrian President Ahmed al-Sharaa demanded the withdrawal of Israeli forces from Syrian territory.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/al-sharaa-occupied-golan-heights-to-remain-syrian?traffic_source=rss",
+          "publishedAt": "2026-09-23T14:33:40.000Z",
           "files": [
             "israel",
             "diplomacy"
@@ -337,7 +352,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -475,13 +490,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:39",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 13,
       "items": [
         {
           "source": "Turkish Minute",
@@ -495,7 +510,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -575,7 +590,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -633,7 +648,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -685,7 +700,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -722,7 +737,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 14:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
