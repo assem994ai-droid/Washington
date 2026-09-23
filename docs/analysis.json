@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T10:50:57.003Z",
+    "generatedAt": "2026-09-23T11:06:53.566Z",
     "windowHours": 24,
-    "from": "2026-09-22T10:50:57.003Z",
-    "to": "2026-09-23T10:50:57.003Z"
+    "from": "2026-09-22T11:06:53.566Z",
+    "to": "2026-09-23T11:06:53.566Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 26,
     "files": 7,
     "withNew": 1,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 8,
-    "archiveCycles": 1058
+    "archiveCycles": 1059
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,7 +47,7 @@
         "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -219,7 +219,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -328,87 +328,45 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث مع نظيريه السعودي والتركي تعزيز التعاون والمستجدات الإقليمية",
-          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الأربعاء وزير خارجية ‏المملكة العربية السعودية فيصل بن فرحان، ووزير خارجية جمهورية تركيا هاكان ‏فيدان، وذلك على هامش مشاركته في أعمال الدورة الـ81 للجمعية العامة للأمم ‏المتحدة في نيويو",
-          "link": "https://sana.sy/politics/2587659/",
-          "publishedAt": "2026-09-23T10:43:46.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بالتزامن مع زيارة الشرع لنيويورك.. أردوغان يجدد دعم بلاده لسوريا",
-          "excerpt": "قال الرئيس التركي رجب طيب أردوغان إن سوريا ينبغي أن تنعم بالسلام بعيداً عن التدخلات والاستفزازات الخارجية..",
-          "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%84%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%85-%D8%A8%D9%84%D8%A7%D8%AF%D9%87-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-22T19:10:03.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "The National",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "The National"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:38",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 10,
+      "score": 20,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Rehabilitation work begins at Mezzeh airport in Damascus",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s General Civil Aviation Authority on Wednesday announced the start of preliminary rehabilitation work at Mezzeh Airport, with the aim of “reclassifying it from a facility with military use into a limit",
+          "link": "https://npasyria.com/en/141840/",
+          "publishedAt": "2026-09-23T11:02:26.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
           "title": "Al Shara and Al Zaidi hold first meeting as Syria and Iraq look to turn page",
-          "excerpt": "Syrian President Ahmad Al Shara and Iraqi Prime Minister Ali Al Zaidi held their first meeting at the UN General Assembly in New York, as Baghdad and Damascus reset ties. The relationship between the two countries has shifted, particularly ",
+          "excerpt": "Syrian President Ahmad Al Shara and Iraqi Prime Minister Ali Al Zaidi have held their first meeting at the UN General Assembly in New York, as Baghdad and Damascus reset ties. The relationship between the two countries has shifted, particul",
           "link": "https://www.thenationalnews.com/news/mena/2026/09/23/al-shara-and-al-zaidi-hold-first-meeting-as-syria-and-iraq-look-to-turn-page/",
           "publishedAt": "2026-09-23T07:10:37.000Z",
           "files": [],
@@ -442,6 +400,60 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 7,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني يبحث مع نظيريه السعودي والتركي تعزيز التعاون والمستجدات الإقليمية",
+          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الأربعاء وزير خارجية ‏المملكة العربية السعودية فيصل بن فرحان، ووزير خارجية جمهورية تركيا هاكان ‏فيدان، وذلك على هامش مشاركته في أعمال الدورة الـ81 للجمعية العامة للأمم ‏المتحدة في نيويو",
+          "link": "https://sana.sy/politics/2587659/",
+          "publishedAt": "2026-09-23T10:43:46.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بالتزامن مع زيارة الشرع لنيويورك.. أردوغان يجدد دعم بلاده لسوريا",
+          "excerpt": "قال الرئيس التركي رجب طيب أردوغان إن سوريا ينبغي أن تنعم بالسلام بعيداً عن التدخلات والاستفزازات الخارجية..",
+          "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%84%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%85-%D8%A8%D9%84%D8%A7%D8%AF%D9%87-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-22T19:10:03.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
       "verification": "مصدر واحد",
@@ -453,7 +465,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -490,7 +502,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -527,7 +539,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
