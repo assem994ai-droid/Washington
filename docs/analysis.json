@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T11:38:36.069Z",
+    "generatedAt": "2026-09-23T11:50:00.749Z",
     "windowHours": 24,
-    "from": "2026-09-22T11:38:36.069Z",
-    "to": "2026-09-23T11:38:36.069Z"
+    "from": "2026-09-22T11:50:00.749Z",
+    "to": "2026-09-23T11:50:00.749Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
+    "items": 29,
     "files": 8,
-    "withNew": 2,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 7,
     "contested": 0,
     "echoed": 0,
     "americanItems": 8,
-    "archiveCycles": 1060
+    "archiveCycles": 1061
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,11 +34,11 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
         "Middle East Eye",
-        "تلفزيون سوريا",
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
@@ -53,8 +53,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 43,
+      "score": 44,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد توغلها جنوبي القنيطرة.. إسرائيل تفرج عن راعي أغنام وتقصف ريف درعا",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي أطلقت سراح راعي أغنام كانت قد احتجزته مساء الثلاثاء..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%88%D8%BA%D9%84%D9%87%D8%A7-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B1%D8%A7%D8%B9%D9%8A-%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D9%88%D8%AA%D9%82%D8%B5%D9%81-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-23T11:40:53.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -66,7 +80,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -233,7 +247,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,7 +369,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -414,43 +428,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وفد وزاري سوري في بعبدا.. مباحثات مع عون لتوسيع التعاون بين سوريا ولبنان",
-          "excerpt": "استقبل الرئيس اللبناني جوزيف عون وفداً وزارياً سورياً في قصر بعبدا، حيث بحث الجانبان آفاق التعاون بين سوريا ولبنان..",
-          "link": "https://www.syria.tv/%D9%88%D9%81%D8%AF-%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A8%D8%B9%D8%A8%D8%AF%D8%A7-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B9%D9%88%D9%86-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86",
-          "publishedAt": "2026-09-23T11:28:24.000Z",
-          "files": [
-            "lebanon",
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -464,7 +441,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -516,7 +493,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -553,7 +530,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -579,6 +556,43 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:38",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وفد وزاري سوري في بعبدا.. مباحثات مع عون لتوسيع التعاون بين سوريا ولبنان",
+          "excerpt": "استقبل الرئيس اللبناني جوزيف عون وفداً وزارياً سورياً في قصر بعبدا، حيث بحث الجانبان آفاق التعاون بين سوريا ولبنان..",
+          "link": "https://www.syria.tv/%D9%88%D9%81%D8%AF-%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A8%D8%B9%D8%A8%D8%AF%D8%A7-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B9%D9%88%D9%86-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+          "publishedAt": "2026-09-23T11:28:24.000Z",
+          "files": [
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -590,7 +604,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
