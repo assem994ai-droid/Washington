@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T11:06:53.566Z",
+    "generatedAt": "2026-09-23T11:38:36.069Z",
     "windowHours": 24,
-    "from": "2026-09-22T11:06:53.566Z",
-    "to": "2026-09-23T11:06:53.566Z"
+    "from": "2026-09-22T11:38:36.069Z",
+    "to": "2026-09-23T11:38:36.069Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
-    "files": 7,
-    "withNew": 1,
+    "items": 28,
+    "files": 8,
+    "withNew": 2,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 8,
-    "archiveCycles": 1059
+    "archiveCycles": 1060
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,27 +34,41 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
         "Middle East Eye",
         "تلفزيون سوريا",
-        "The Hill — الكونغرس والسياسة الأمريكية",
-        "North Press Agency (English)"
+        "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 33,
+      "score": 43,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces return 14 Israelis after Syria border crossing",
+          "excerpt": "QUNEITRA, Syria (North Press) – The Israeli military on Tuesday said 14 Israelis crossed the border into Syrian territory before its forces returned them to the Israeli side and handed them over to police. Israeli media reported that the gr",
+          "link": "https://npasyria.com/en/141843/",
+          "publishedAt": "2026-09-23T11:34:13.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -219,7 +233,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -341,13 +355,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 20,
+      "score": 11,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -358,7 +372,7 @@
           "link": "https://npasyria.com/en/141840/",
           "publishedAt": "2026-09-23T11:02:26.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -400,6 +414,43 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وفد وزاري سوري في بعبدا.. مباحثات مع عون لتوسيع التعاون بين سوريا ولبنان",
+          "excerpt": "استقبل الرئيس اللبناني جوزيف عون وفداً وزارياً سورياً في قصر بعبدا، حيث بحث الجانبان آفاق التعاون بين سوريا ولبنان..",
+          "link": "https://www.syria.tv/%D9%88%D9%81%D8%AF-%D9%88%D8%B2%D8%A7%D8%B1%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A8%D8%B9%D8%A8%D8%AF%D8%A7-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B9%D9%88%D9%86-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+          "publishedAt": "2026-09-23T11:28:24.000Z",
+          "files": [
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -413,7 +464,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -465,7 +516,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -502,7 +553,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -539,7 +590,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 10:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 11:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
