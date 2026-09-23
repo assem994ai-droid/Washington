@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T13:08:46.776Z",
+    "generatedAt": "2026-09-23T13:25:09.809Z",
     "windowHours": 24,
-    "from": "2026-09-22T13:08:46.776Z",
-    "to": "2026-09-23T13:08:46.776Z"
+    "from": "2026-09-22T13:25:09.809Z",
+    "to": "2026-09-23T13:25:09.809Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 32,
+    "items": 33,
     "files": 7,
     "withNew": 1,
     "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 7,
-    "archiveCycles": 1065
+    "archiveCycles": 1066
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,27 +33,42 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "Middle East Eye",
         "تلفزيون سوريا",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
-        "Middle East Eye",
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 12:52",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 35,
+      "score": 45,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria’s Sharaa says Golan Heights will remain Syrian",
+          "excerpt": "<article data-history-node-id=\"448184\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/syrias-sharaa-says-golan-heights-will-remain-syrian\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.n",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syrias-sharaa-says-golan-heights-will-remain-syrian",
+          "publishedAt": "2026-09-23T13:22:38.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -246,7 +261,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 12:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,89 +370,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 18,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "منفذ القامشلي-نصيبين.. سوريا تبدأ إنشاء المعبر السابع مع تركيا",
-          "excerpt": "أعلن رئيس الهيئة العامة للمنافذ والجمارك، قتيبة بدوي، بدء العمل رسمياً على إنشاء منفذ القامشلي - نصيبين الحدودي..",
-          "link": "https://www.syria.tv/%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-23T12:58:36.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "لقاء ثلاثي في نيويورك.. سوريا والسعودية وتركيا تبحث تعزيز التعاون الاقتصادي",
-          "excerpt": "عقد وزير الخارجية والمغتربين السوري أسعد حسن الشيباني اجتماعاً ثلاثياً مع نظيريه السعودي الأمير فيصل بن فرحان والتركي هاكان فيدان..",
-          "link": "https://www.syria.tv/%D9%84%D9%82%D8%A7%D8%A1-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A",
-          "publishedAt": "2026-09-23T12:33:35.000Z",
-          "files": [
-            "turkey",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث مع نظيريه السعودي والتركي تعزيز التعاون والمستجدات الإقليمية",
-          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الأربعاء وزير خارجية ‏المملكة العربية السعودية فيصل بن فرحان، ووزير خارجية جمهورية تركيا هاكان ‏فيدان، وذلك على هامش مشاركته في أعمال الدورة الـ81 للجمعية العامة للأمم ‏المتحدة في نيويو",
-          "link": "https://sana.sy/politics/2587659/",
-          "publishedAt": "2026-09-23T10:43:46.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بالتزامن مع زيارة الشرع لنيويورك.. أردوغان يجدد دعم بلاده لسوريا",
-          "excerpt": "قال الرئيس التركي رجب طيب أردوغان إن سوريا ينبغي أن تنعم بالسلام بعيداً عن التدخلات والاستفزازات الخارجية..",
-          "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%84%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%85-%D8%A8%D9%84%D8%A7%D8%AF%D9%87-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-22T19:10:03.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -453,7 +385,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 12:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -524,6 +456,89 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 13:08",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 9,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "منفذ القامشلي-نصيبين.. سوريا تبدأ إنشاء المعبر السابع مع تركيا",
+          "excerpt": "أعلن رئيس الهيئة العامة للمنافذ والجمارك، قتيبة بدوي، بدء العمل رسمياً على إنشاء منفذ القامشلي - نصيبين الحدودي..",
+          "link": "https://www.syria.tv/%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-23T12:58:36.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "لقاء ثلاثي في نيويورك.. سوريا والسعودية وتركيا تبحث تعزيز التعاون الاقتصادي",
+          "excerpt": "عقد وزير الخارجية والمغتربين السوري أسعد حسن الشيباني اجتماعاً ثلاثياً مع نظيريه السعودي الأمير فيصل بن فرحان والتركي هاكان فيدان..",
+          "link": "https://www.syria.tv/%D9%84%D9%82%D8%A7%D8%A1-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A",
+          "publishedAt": "2026-09-23T12:33:35.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني يبحث مع نظيريه السعودي والتركي تعزيز التعاون والمستجدات الإقليمية",
+          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الأربعاء وزير خارجية ‏المملكة العربية السعودية فيصل بن فرحان، ووزير خارجية جمهورية تركيا هاكان ‏فيدان، وذلك على هامش مشاركته في أعمال الدورة الـ81 للجمعية العامة للأمم ‏المتحدة في نيويو",
+          "link": "https://sana.sy/politics/2587659/",
+          "publishedAt": "2026-09-23T10:43:46.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بالتزامن مع زيارة الشرع لنيويورك.. أردوغان يجدد دعم بلاده لسوريا",
+          "excerpt": "قال الرئيس التركي رجب طيب أردوغان إن سوريا ينبغي أن تنعم بالسلام بعيداً عن التدخلات والاستفزازات الخارجية..",
+          "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%84%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%85-%D8%A8%D9%84%D8%A7%D8%AF%D9%87-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-22T19:10:03.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -535,7 +550,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 12:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -587,7 +602,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 12:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -624,7 +639,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 12:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
