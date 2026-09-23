@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T09:07:04.259Z",
+    "generatedAt": "2026-09-23T09:51:14.584Z",
     "windowHours": 24,
-    "from": "2026-09-22T09:07:04.259Z",
-    "to": "2026-09-23T09:07:04.259Z"
+    "from": "2026-09-22T09:51:14.584Z",
+    "to": "2026-09-23T09:51:14.584Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 24,
     "files": 6,
-    "withNew": 0,
-    "stale": 6,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 8,
-    "archiveCycles": 1053
+    "archiveCycles": 1054
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,8 +32,9 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
+        "Al-Monitor",
         "Middle East Eye",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
@@ -48,14 +49,28 @@
         "الكونغرس والتوازن السياسي الأمريكي",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:39",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 32,
+      "score": 45,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Two killed in Gaza in strike Israel says targeted a Hamas finance chief",
+          "excerpt": "<p>CAIRO, Sept 23 (Reuters) - An Israeli airstrike killed at least two Palestinians in the Gaza Strip on Wednesday, local health officials said, and Israel said the strike targeted a Hamas finance chief.</p><p>Medics said the two men, Osama",
+          "link": "https://www.al-monitor.com/originals/2026/09/two-killed-gaza-strike-israel-says-targeted-hamas-finance-chief",
+          "publishedAt": "2026-09-23T09:46:35.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -206,7 +221,7 @@
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 09:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -328,7 +343,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 09:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -388,7 +403,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 09:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -439,7 +454,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 09:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -476,7 +491,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 09:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
