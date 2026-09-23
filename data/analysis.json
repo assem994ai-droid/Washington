@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T22:36:48.761Z",
+    "generatedAt": "2026-09-23T23:28:39.478Z",
     "windowHours": 24,
-    "from": "2026-09-22T22:36:48.761Z",
-    "to": "2026-09-23T22:36:48.761Z"
+    "from": "2026-09-22T23:28:39.478Z",
+    "to": "2026-09-23T23:28:39.478Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 26,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 0,
-    "echoed": 1,
+    "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1091
+    "archiveCycles": 1092
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,7 +30,7 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 5,
       "sources": [
@@ -45,13 +45,13 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 21:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
-      "echoed": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 28,
+      "score": 27,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -104,21 +104,6 @@
           "excerpt": "<article data-history-node-id=\"448198\" about=\"https://www.middleeasteye.net/news/sharaa-says-israeli-attacks-syria-odds-joy-global-community-towards-his-country\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/ne",
           "link": "https://www.middleeasteye.net/news/sharaa-says-israeli-attacks-syria-odds-joy-global-community-towards-his-country",
           "publishedAt": "2026-09-23T18:45:18.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel’s UN envoy, defence minister reassert claim to Golan after al-Sharaa speech",
-          "excerpt": "<article data-history-node-id=\"448203\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israels-un-envoy-reasserts-claim-golan-after-al-sharaa-speech\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-un-envoy-reasserts-claim-golan-after-al-sharaa-speech",
-          "publishedAt": "2026-09-23T18:04:29.000Z",
           "files": [
             "israel",
             "diplomacy"
@@ -274,7 +259,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 21:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -354,7 +339,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 21:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -422,7 +407,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 21:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -480,7 +465,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 21:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -532,7 +517,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 21:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 22:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
