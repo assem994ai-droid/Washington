@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T15:39:45.427Z",
+    "generatedAt": "2026-09-23T15:52:04.273Z",
     "windowHours": 24,
-    "from": "2026-09-22T15:39:45.427Z",
-    "to": "2026-09-23T15:39:45.427Z"
+    "from": "2026-09-22T15:52:04.273Z",
+    "to": "2026-09-23T15:52:04.273Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 38,
-    "files": 7,
-    "withNew": 1,
+    "items": 36,
+    "files": 6,
+    "withNew": 0,
     "stale": 6,
     "contested": 0,
     "echoed": 1,
     "americanItems": 6,
-    "archiveCycles": 1075
+    "archiveCycles": 1076
   },
   "emptyCircles": [
     "الكونغرس",
@@ -48,13 +48,13 @@
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 2,
-      "score": 47,
+      "score": 46,
       "items": [
         {
           "source": "The National",
@@ -231,21 +231,6 @@
           "us": false
         },
         {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "No peace with Israel 'if rights of Syrians are usurped', Sharaa says",
-          "excerpt": "<article data-history-node-id=\"448151\" about=\"https://www.middleeasteye.net/news/syria-president-no-peace-with-israel-if-rights-are-usurped\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/syria-president-no",
-          "link": "https://www.middleeasteye.net/news/syria-president-no-peace-with-israel-if-rights-are-usurped",
-          "publishedAt": "2026-09-23T07:15:59.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -337,7 +322,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -446,80 +431,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "North Press Agency (English)",
-        "Al Jazeera English",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام الدولي",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 20,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria begins work on Qamishli-Nusaybin border crossing",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria began on Wednesday construction of the Qamishli-Nusaybin border crossing with Turkey, according to the head of the General Authority for Border Crossings and Customs. Qutaiba Badawi said in a Facebook p",
-          "link": "https://npasyria.com/en/141850/",
-          "publishedAt": "2026-09-23T15:26:57.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
-          "excerpt": "Second day of UN General Assembly kicks off with speeches from world leaders, including from Syria, Iran and Ukraine.",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
-          "publishedAt": "2026-09-23T12:00:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Rehabilitation work begins at Mezzeh airport in Damascus",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s General Civil Aviation Authority on Wednesday announced the start of preliminary rehabilitation work at Mezzeh Airport, with the aim of “reclassifying it from a facility with military use into a limit",
-          "link": "https://npasyria.com/en/141840/",
-          "publishedAt": "2026-09-23T11:02:26.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Al Shara and Al Zaidi hold first meeting as Syria and Iraq look to turn page",
-          "excerpt": "Syrian President Ahmad Al Shara and Iraqi Prime Minister Ali Al Zaidi have held their first meeting at the UN General Assembly in New York, as Baghdad and Damascus reset ties. The relationship between the two countries has shifted, particul",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/23/al-shara-and-al-zaidi-hold-first-meeting-as-syria-and-iraq-look-to-turn-page/",
-          "publishedAt": "2026-09-23T07:10:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -535,7 +446,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -620,6 +531,80 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "North Press Agency (English)",
+        "Al Jazeera English",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام الدولي",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 11,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria begins work on Qamishli-Nusaybin border crossing",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria began on Wednesday construction of the Qamishli-Nusaybin border crossing with Turkey, according to the head of the General Authority for Border Crossings and Customs. Qutaiba Badawi said in a Facebook p",
+          "link": "https://npasyria.com/en/141850/",
+          "publishedAt": "2026-09-23T15:26:57.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
+          "excerpt": "Second day of UN General Assembly kicks off with speeches from world leaders, including from Syria, Iran and Ukraine.",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Rehabilitation work begins at Mezzeh airport in Damascus",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s General Civil Aviation Authority on Wednesday announced the start of preliminary rehabilitation work at Mezzeh Airport, with the aim of “reclassifying it from a facility with military use into a limit",
+          "link": "https://npasyria.com/en/141840/",
+          "publishedAt": "2026-09-23T11:02:26.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Al Shara and Al Zaidi hold first meeting as Syria and Iraq look to turn page",
+          "excerpt": "Syrian President Ahmad Al Shara and Iraqi Prime Minister Ali Al Zaidi have held their first meeting at the UN General Assembly in New York, as Baghdad and Damascus reset ties. The relationship between the two countries has shifted, particul",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/23/al-shara-and-al-zaidi-hold-first-meeting-as-syria-and-iraq-look-to-turn-page/",
+          "publishedAt": "2026-09-23T07:10:37.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -631,7 +616,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -683,7 +668,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:22",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -702,42 +687,6 @@
           "files": [
             "lebanon",
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Al-Monitor"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 15:22",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "With reconstruction stalled, Gazans shelter in buildings at risk of collapse",
-          "excerpt": "<p>In her Gaza City apartment, Heba Arafat walks uphill across a living room slanted at a steep angle after Israeli airstrikes caused the building's foundations to collapse, leaving the entire structure tilted.</p> <p>Like thousands of peop",
-          "link": "https://www.al-monitor.com/originals/2026/09/reconstruction-stalled-gazans-shelter-buildings-risk-collapse",
-          "publishedAt": "2026-09-23T03:30:25.000Z",
-          "files": [
-            "economy"
           ],
           "seenBefore": true,
           "us": false
