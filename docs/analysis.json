@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T07:23:26.483Z",
+    "generatedAt": "2026-09-23T07:39:10.028Z",
     "windowHours": 24,
-    "from": "2026-09-22T07:23:26.483Z",
-    "to": "2026-09-23T07:23:26.483Z"
+    "from": "2026-09-22T07:39:10.028Z",
+    "to": "2026-09-23T07:39:10.028Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 24,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
     "americanItems": 9,
-    "archiveCycles": 1051
+    "archiveCycles": 1052
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,6 +27,132 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 5,
+      "sources": [
+        "North Press Agency (English)",
+        "The National",
+        "سانا — قسم السياسة",
+        "Al-Monitor",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 3,
+      "score": 39,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Sharaa says Syria seeks end to foreign military bases",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syrian President Ahmad al-Sharaa said on Tuesday that Damascus is seeking to end the presence of foreign military bases in Syria and is negotiating with Turkey over a legal framework governing its military pr",
+          "link": "https://npasyria.com/en/141829/",
+          "publishedAt": "2026-09-23T07:32:46.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Sharaa says Syrian Kurds have right to cultural, linguistic rights",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syrian Transitional President Ahmad al-Sharaa on Tuesday said Kurds living in Syria have the right to recognition of their cultural and linguistic rights. Al-Sharaa and his accompanying delegation earlier arr",
+          "link": "https://npasyria.com/en/141826/",
+          "publishedAt": "2026-09-23T07:25:44.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "US-Iran talks resume, Syrian President considers election and digital dirham symbol adopted",
+          "excerpt": "Today on Trending Middle East, both Iran and the US have confirmed they held talks through mediators during the UN General Assembly. This marks the first known negotiation between both sides since an interim agreement broke down in July. Al",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/23/us-iran-talks-resume-syrian-president-considers-election-and-digital-dirham-symbol-adopted/",
+          "publishedAt": "2026-09-23T05:51:04.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الرئيس الشرع يشارك في اجتماع عقده الرئيس الأمريكي مع عدد من قادة الدول",
+          "excerpt": "شارك الرئيس أحمد الشرع اليوم الثلاثاء، في اجتماع عقده رئيس الولايات المتحدة الأمريكية دونالد ترامب مع عدد من قادة الدول العربية والإسلامية، وذلك على هامش أعمال الدورة الحادية والثمانين للجمعية العامة للأمم المتحدة في نيويورك.",
+          "link": "https://sana.sy/presidency/2587334/",
+          "publishedAt": "2026-09-22T21:25:07.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الرئيس الشرع يلتقي توماس باراك على هامش أعمال الجمعية العامة للأمم المتحدة",
+          "excerpt": "التقى الرئيس أحمد الشرع اليوم الثلاثاء، المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس باراك، بحضور وزير الخارجية والمغتربين أسعد حسن الشيباني، وذلك على هامش أعمال الجمعية العامة للأمم المتحدة في نيويورك.",
+          "link": "https://sana.sy/presidency/2587325/",
+          "publishedAt": "2026-09-22T21:13:03.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Trump tells Middle East leaders US-Iran talks have ‘momentum’",
+          "excerpt": "Trump hosted top officials from the Gulf Cooperation Council states, Turkey, Syria, Lebanon, Jordan and Iraq on the sidelines of UN General Assembly.",
+          "link": "https://www.al-monitor.com/originals/2026/09/trump-tells-middle-east-leaders-us-iran-talks-have-momentum",
+          "publishedAt": "2026-09-22T20:15:41.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشرع يصل مقر الأمم المتحدة في نيويورك ويلتقي غوتيريش",
+          "excerpt": "وصل الرئيس السوري أحمد الشرع، الثلاثاء، إلى مقر الأمم المتحدة في نيويورك، وكان في استقباله الأمين العام للأمم المتحدة أنطونيو غوتيريش..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%B5%D9%84-%D9%85%D9%82%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%88%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%BA%D9%88%D8%AA%D9%8A%D8%B1%D9%8A%D8%B4",
+          "publishedAt": "2026-09-22T16:49:41.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -48,13 +174,13 @@
         "الكونغرس والتوازن السياسي الأمريكي",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:23",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 41,
+      "score": 32,
       "items": [
         {
           "source": "Middle East Eye",
@@ -68,7 +194,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -189,103 +315,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "The National",
-        "سانا — قسم السياسة",
-        "Al-Monitor",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:08",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 3,
-      "score": 21,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US-Iran talks resume, Syrian President considers election and digital dirham symbol adopted",
-          "excerpt": "Today on Trending Middle East, both Iran and the US have confirmed they held talks through mediators during the UN General Assembly. This marks the first known negotiation between both sides since an interim agreement broke down in July. Al",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/23/us-iran-talks-resume-syrian-president-considers-election-and-digital-dirham-symbol-adopted/",
-          "publishedAt": "2026-09-23T05:51:04.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الرئيس الشرع يشارك في اجتماع عقده الرئيس الأمريكي مع عدد من قادة الدول",
-          "excerpt": "شارك الرئيس أحمد الشرع اليوم الثلاثاء، في اجتماع عقده رئيس الولايات المتحدة الأمريكية دونالد ترامب مع عدد من قادة الدول العربية والإسلامية، وذلك على هامش أعمال الدورة الحادية والثمانين للجمعية العامة للأمم المتحدة في نيويورك.",
-          "link": "https://sana.sy/presidency/2587334/",
-          "publishedAt": "2026-09-22T21:25:07.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الرئيس الشرع يلتقي توماس باراك على هامش أعمال الجمعية العامة للأمم المتحدة",
-          "excerpt": "التقى الرئيس أحمد الشرع اليوم الثلاثاء، المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس باراك، بحضور وزير الخارجية والمغتربين أسعد حسن الشيباني، وذلك على هامش أعمال الجمعية العامة للأمم المتحدة في نيويورك.",
-          "link": "https://sana.sy/presidency/2587325/",
-          "publishedAt": "2026-09-22T21:13:03.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Trump tells Middle East leaders US-Iran talks have ‘momentum’",
-          "excerpt": "Trump hosted top officials from the Gulf Cooperation Council states, Turkey, Syria, Lebanon, Jordan and Iraq on the sidelines of UN General Assembly.",
-          "link": "https://www.al-monitor.com/originals/2026/09/trump-tells-middle-east-leaders-us-iran-talks-have-momentum",
-          "publishedAt": "2026-09-22T20:15:41.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشرع يصل مقر الأمم المتحدة في نيويورك ويلتقي غوتيريش",
-          "excerpt": "وصل الرئيس السوري أحمد الشرع، الثلاثاء، إلى مقر الأمم المتحدة في نيويورك، وكان في استقباله الأمين العام للأمم المتحدة أنطونيو غوتيريش..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%B5%D9%84-%D9%85%D9%82%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%88%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D8%BA%D9%88%D8%AA%D9%8A%D8%B1%D9%8A%D8%B4",
-          "publishedAt": "2026-09-22T16:49:41.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -299,13 +328,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:23",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 19,
+      "score": 10,
       "items": [
         {
           "source": "The National",
@@ -316,7 +345,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/09/23/al-shara-and-al-zaidi-hold-first-meeting-as-syria-and-iraq-look-to-turn-page/",
           "publishedAt": "2026-09-23T07:10:37.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -357,7 +386,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -410,7 +439,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -461,7 +490,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:08",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 07:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
