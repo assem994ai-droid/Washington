@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-23T02:38:39.031Z",
+    "generatedAt": "2026-09-23T03:13:40.627Z",
     "windowHours": 24,
-    "from": "2026-09-22T02:38:39.031Z",
-    "to": "2026-09-23T02:38:39.031Z"
+    "from": "2026-09-22T03:13:40.627Z",
+    "to": "2026-09-23T03:13:40.627Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
+    "items": 24,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
     "americanItems": 11,
-    "archiveCycles": 1042
+    "archiveCycles": 1043
   },
   "emptyCircles": [
     "الكونغرس",
@@ -47,13 +47,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 02:38",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 42,
+      "score": 33,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -67,7 +67,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -215,13 +215,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 00:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 02:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 18,
+      "score": 17,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -278,20 +278,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "رائد الصالح: سنطرح في الأمم المتحدة رؤية \"سوريا دون مخيمات\" ودعم العودة الآمنة",
-          "excerpt": "أعلن وزير الطوارئ رائد الصالح أن الوفد السوري سيطرح في الأمم المتحدة رؤية لإنهاء ملف المخيمات، ودعم عودة السوريين الآمنة والطوعية والمستدامة إلى مناطقهم.",
-          "link": "https://www.syria.tv/%D8%B1%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%B3%D9%86%D8%B7%D8%B1%D8%AD%C2%A0%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%C2%A0%D8%B1%D8%A4%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AF%D9%88%D9%86%C2%A0%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D9%88%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9%C2%A0%D8%A7%D9%84%D8%A2%D9%85%D9%86%D8%A9",
-          "publishedAt": "2026-09-22T03:03:09.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -308,7 +294,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 00:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 02:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -367,23 +353,22 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "North Press Agency (English)",
-        "The National",
-        "تلفزيون سوريا"
+        "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 00:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 02:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 14,
+      "score": 10,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -420,18 +405,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من الإخفاء إلى التدمير المتحقق منه: مرحلة جديدة في ملف الأسلحة الكيميائية السوري",
-          "excerpt": "تحققت منظمة حظر الأسلحة الكيميائية (OPCW) في آب/ أغسطس 2026 من التدمير النهائي لاثنتين وأربعين قنبلة جوية سورية، في أول عملية تدمير لذخائر كيميائية سورية تتحقق.",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86%D9%87-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-          "publishedAt": "2026-09-22T03:04:50.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -449,7 +422,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 00:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 02:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -514,7 +487,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 00:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-23 02:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
