@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T01:06:47.708Z",
+    "generatedAt": "2026-09-24T01:20:50.112Z",
     "windowHours": 24,
-    "from": "2026-09-23T01:06:47.708Z",
-    "to": "2026-09-24T01:06:47.708Z"
+    "from": "2026-09-23T01:20:50.112Z",
+    "to": "2026-09-24T01:20:50.112Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,7 +14,7 @@
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1096
+    "archiveCycles": 1097
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,15 +28,138 @@
   "errors": [],
   "files": [
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "The National"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 2,
+      "score": 26,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تعرض رؤيتها لإنهاء المخيمات والأمم المتحدة تؤكد دعم التعافي والعودة الآمنة",
+          "excerpt": "أكد وزير الطوارئ وإدارة الكوارث رائد الصالح أن عودة النازحين لا تعني نقلهم من الخيام إلى ‏قراهم فحسب، بل تمكينهم من العيش في مكان يوفر الكرامة والاستقرار، مشدداً على أن العودة ‏يجب أن تكون طوعية وآمنة وكريمة ومستدامة‎.‎",
+          "link": "https://sana.sy/syria-and-the-world/2588474/",
+          "publishedAt": "2026-09-24T01:15:56.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "البعثة الدائمة لسوريا لدى الأمم المتحدة تنظم ندوة حول &#8220;سوريا بلا مخيمات&#8221;‏",
+          "excerpt": "‏ نظّمت البعثةُ الدائمة للجمهورية العربية السورية لدى الأمم المتحدة، اليوم الأربعاء، ندوةً ‏رفيعة المستوى بعنوان \"الاستقرار الإقليمي والأمن والعودة المستدامة: حتمية سوريا بلا ‏مخيمات\". ‏",
+          "link": "https://sana.sy/syria-and-the-world/2588463/",
+          "publishedAt": "2026-09-24T00:53:37.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الخارجية تناقش فرص تمويل التعافي والتنمية بلقاء ينظمه مجلس الأعمال السوري ‏الأمريكي",
+          "excerpt": "شاركت إدارة التعاون الدولي في وزارة الخارجية والمغتربين، اليوم الأربعاء، في طاولة ‏مستديرة نظمها مجلس الأعمال السوري–الأمريكي (‏USSYBC‏)، بمشاركة ممثلين عن ‏مؤسسات مالية وتنموية وخيرية واستشارية دولية.‏",
+          "link": "https://sana.sy/politics/2588445/",
+          "publishedAt": "2026-09-24T00:41:08.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الوزير الشيباني يلتقي المبعوث ‏الأمريكي الخاص لمكافحة معاداة السامية‏ في نيويورك",
+          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني، اليوم الأربعاء، المبعوث ‏الأمريكي ‏الخاص لمكافحة معاداة السامية الحاخام يهودا كابلون، ‏وذلك على هامش أعمال الدورة ‏الحادية والثمانين للجمعية العامة ‏للأمم المتحدة في نيويورك.‏",
+          "link": "https://sana.sy/syria-and-the-world/2588373/",
+          "publishedAt": "2026-09-23T20:47:17.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Sharaa says Syria seeks end to foreign military bases",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syrian President Ahmad al-Sharaa said on Tuesday that Damascus is seeking to end the presence of foreign military bases in Syria and is negotiating with Turkey over a legal framework governing its military pr",
+          "link": "https://npasyria.com/en/141829/",
+          "publishedAt": "2026-09-23T07:32:46.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Sharaa says Syrian Kurds have right to cultural, linguistic rights",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syrian Transitional President Ahmad al-Sharaa on Tuesday said Kurds living in Syria have the right to recognition of their cultural and linguistic rights. Al-Sharaa and his accompanying delegation earlier arr",
+          "link": "https://npasyria.com/en/141826/",
+          "publishedAt": "2026-09-23T07:25:44.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "US-Iran talks resume, Syrian President considers election and digital dirham symbol adopted",
+          "excerpt": "Today on Trending Middle East, both Iran and the US have confirmed they held talks through mediators during the UN General Assembly. This marks the first known negotiation between both sides since an interim agreement broke down in July. Al",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/23/us-iran-talks-resume-syrian-president-considers-election-and-digital-dirham-symbol-adopted/",
+          "publishedAt": "2026-09-23T05:51:04.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "North Press Agency (English)",
         "تلفزيون سوريا",
-        "Middle East Eye",
         "The National",
         "Jerusalem Post — الشرق الأوسط"
       ],
@@ -45,13 +168,13 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 00:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 22,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -77,21 +200,6 @@
           "publishedAt": "2026-09-23T19:05:28.000Z",
           "files": [
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Sharaa says Israeli attacks on Syria at odds with 'joy' of global community towards his country",
-          "excerpt": "<article data-history-node-id=\"448205\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/sharaa-says-israeli-attacks-syria-odds-joy-global-community-towards-his\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https:/",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sharaa-says-israeli-attacks-syria-odds-joy-global-community-towards-his",
-          "publishedAt": "2026-09-23T18:49:30.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -229,116 +337,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "The National"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 25,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "البعثة الدائمة لسوريا لدى الأمم المتحدة تنظم ندوة حول &#8220;سوريا بلا مخيمات&#8221;‏",
-          "excerpt": "‏ نظّمت البعثةُ الدائمة للجمهورية العربية السورية لدى الأمم المتحدة، اليوم الأربعاء، ندوةً ‏رفيعة المستوى بعنوان \"الاستقرار الإقليمي والأمن والعودة المستدامة: حتمية سوريا بلا ‏مخيمات\". ‏",
-          "link": "https://sana.sy/syria-and-the-world/2588463/",
-          "publishedAt": "2026-09-24T00:53:37.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الخارجية تناقش فرص تمويل التعافي والتنمية بلقاء ينظمه مجلس الأعمال السوري ‏الأمريكي",
-          "excerpt": "شاركت إدارة التعاون الدولي في وزارة الخارجية والمغتربين، اليوم الأربعاء، في طاولة ‏مستديرة نظمها مجلس الأعمال السوري–الأمريكي (‏USSYBC‏)، بمشاركة ممثلين عن ‏مؤسسات مالية وتنموية وخيرية واستشارية دولية.‏",
-          "link": "https://sana.sy/politics/2588445/",
-          "publishedAt": "2026-09-24T00:41:08.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الوزير الشيباني يلتقي المبعوث ‏الأمريكي الخاص لمكافحة معاداة السامية‏ في نيويورك",
-          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني، اليوم الأربعاء، المبعوث ‏الأمريكي ‏الخاص لمكافحة معاداة السامية الحاخام يهودا كابلون، ‏وذلك على هامش أعمال الدورة ‏الحادية والثمانين للجمعية العامة ‏للأمم المتحدة في نيويورك.‏",
-          "link": "https://sana.sy/syria-and-the-world/2588373/",
-          "publishedAt": "2026-09-23T20:47:17.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Al-Sharaa says Syria seeks end to foreign military bases",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syrian President Ahmad al-Sharaa said on Tuesday that Damascus is seeking to end the presence of foreign military bases in Syria and is negotiating with Turkey over a legal framework governing its military pr",
-          "link": "https://npasyria.com/en/141829/",
-          "publishedAt": "2026-09-23T07:32:46.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Al-Sharaa says Syrian Kurds have right to cultural, linguistic rights",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syrian Transitional President Ahmad al-Sharaa on Tuesday said Kurds living in Syria have the right to recognition of their cultural and linguistic rights. Al-Sharaa and his accompanying delegation earlier arr",
-          "link": "https://npasyria.com/en/141826/",
-          "publishedAt": "2026-09-23T07:25:44.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US-Iran talks resume, Syrian President considers election and digital dirham symbol adopted",
-          "excerpt": "Today on Trending Middle East, both Iran and the US have confirmed they held talks through mediators during the UN General Assembly. This marks the first known negotiation between both sides since an interim agreement broke down in July. Al",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/23/us-iran-talks-resume-syrian-president-considers-election-and-digital-dirham-symbol-adopted/",
-          "publishedAt": "2026-09-23T05:51:04.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -353,7 +351,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 00:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -425,7 +423,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 00:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -491,7 +489,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 00:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -543,7 +541,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 00:51",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 01:06",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
