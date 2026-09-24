@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T15:12:57.898Z",
+    "generatedAt": "2026-09-24T15:57:20.797Z",
     "windowHours": 24,
-    "from": "2026-09-23T15:12:57.898Z",
-    "to": "2026-09-24T15:12:57.898Z"
+    "from": "2026-09-23T15:57:20.797Z",
+    "to": "2026-09-24T15:57:20.797Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
-    "files": 6,
-    "withNew": 0,
+    "items": 25,
+    "files": 7,
+    "withNew": 1,
     "stale": 6,
     "contested": 1,
     "echoed": 1,
-    "americanItems": 7,
-    "archiveCycles": 1128
+    "americanItems": 8,
+    "archiveCycles": 1129
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,8 +23,7 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
   "errors": [],
   "files": [
@@ -33,27 +32,29 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
         "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 5,
-      "score": 32,
+      "score": 37,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -72,7 +73,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Hamas 'ready' to move forward with Board of Peace ceasefire roadmap for Gaza, terror group says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3324,w_5900/703090' alt='World leaders gather during a charter announcement for US President Donald Trump's Board of Peace, in Davo",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/703090' alt='World leaders gather during a charter announcement for US President Donald Trump's Board of Peace, in Davos,",
           "link": "https://www.jpost.com/middle-east/article-909561",
           "publishedAt": "2026-09-24T12:23:45.000Z",
           "files": [],
@@ -116,6 +117,18 @@
           "us": true
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF probe: Paga troops never drilled for large-scale assault before 18 were killed",
+          "excerpt": "Ten-month inquiry finds Golani troops lacked training, equipment and prepared defenses for a large-scale assault; commanders were killed early and air support was often ineffective, while soldiers fought for hours until rescue forces arrive",
+          "link": "https://www.ynetnews.com/article/syap00mm9mx",
+          "publishedAt": "2026-09-24T04:42:34.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -138,6 +151,54 @@
           "files": [],
           "seenBefore": true,
           "us": true
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Gaza Board of Peace unveils $2.45B rebuilding push: ‘Hamas ready to disarm’",
+          "excerpt": "Tony Blair says Hamas has agreed to dismantle tunnels, weapons stockpiles and arms factories; officials unveil 66 projects, a Kosovo disarmament team and a $2.45 billion six-month rebuilding plan, while talks with Israel remain difficult am",
+          "link": "https://www.ynetnews.com/article/h12nmyzczx",
+          "publishedAt": "2026-09-23T16:55:47.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الخزانة الأميركية تلغي الترخيص العام الخاص بسوريا بعد رفعها من قائمة الإرهاب",
+          "excerpt": "أعلن مكتب مراقبة الأصول الأجنبية (OFAC)، الخميس، التابع لوزارة الخزانة الأميركية عن إصدار قاعدة نهائية تقضي بتعديل لوائح عقوبات حكومات قائمة الإرهاب",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%84%D8%BA%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9%D9%87%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+          "publishedAt": "2026-09-24T15:50:31.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false,
+          "us": true
         }
       ]
     },
@@ -156,7 +217,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -223,7 +284,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -302,7 +363,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -385,23 +446,39 @@
     {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "Ynet News (English)",
         "The National"
       ],
       "circles": [
+        "الملف الإسرائيلي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": 7,
       "items": [
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF says it killed Hamas finance chief who moved over 1 billion shekels during war",
+          "excerpt": "Muhammad Abu Alwan was targeted in a vehicle in Khan Younis; military says he funded Hamas operations for a decade and recently worked to rebuild the terror group’s capabilities in violation of the ceasefire",
+          "link": "https://www.ynetnews.com/article/h1rbb4mqfe",
+          "publishedAt": "2026-09-24T05:26:46.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -430,7 +507,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
