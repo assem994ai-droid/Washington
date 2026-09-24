@@ -1,28 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T08:25:04.296Z",
+    "generatedAt": "2026-09-24T08:40:05.148Z",
     "windowHours": 24,
-    "from": "2026-09-23T08:25:04.296Z",
-    "to": "2026-09-24T08:25:04.296Z"
+    "from": "2026-09-23T08:40:05.148Z",
+    "to": "2026-09-24T08:40:05.148Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 30,
+    "items": 36,
     "files": 8,
     "withNew": 1,
     "stale": 7,
     "contested": 1,
     "echoed": 1,
     "americanItems": 5,
-    "archiveCycles": 1110
+    "archiveCycles": 1111
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "التقارير الرسمية الدورية",
-    "الملف الإسرائيلي"
+    "التقارير الرسمية الدورية"
   ],
   "errors": [],
   "files": [
@@ -49,8 +48,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 30,
+      "score": 31,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "دورية للاحتلال تعتدي على راعي وتدهس أغنامه جنوبي القنيطرة",
+          "excerpt": "قالت مصادر محلية إن الدورية، التي ضمت سبع سيارات، أقدمت على ضرب الراعي في أثناء وجوده في المنطقة، كما دهست رأسين من الأغنام خلال تحركها",
+          "link": "https://www.syria.tv/%D8%AF%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B9%D8%AA%D8%AF%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%AF%D9%87%D8%B3-%D8%A3%D8%BA%D9%86%D8%A7%D9%85%D9%87-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-24T08:38:32.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -62,7 +75,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -200,25 +213,27 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
         "سانا — قسم السياسة",
         "North Press Agency (English)",
         "Al Jazeera English",
+        "Ynet News (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الإعلام الدولي"
+        "الإعلام الدولي",
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 3,
-      "score": 23,
+      "score": 30,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -257,6 +272,18 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF probe: Paga troops never drilled for large-scale assault before 18 were killed",
+          "excerpt": "Ten-month inquiry finds Golani troops lacked training, equipment and prepared defenses for a large-scale assault; commanders were killed early and air support was often ineffective, while soldiers fought for hours until rescue forces arrive",
+          "link": "https://www.ynetnews.com/article/syap00mm9mx",
+          "publishedAt": "2026-09-24T04:42:34.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -281,6 +308,30 @@
           "us": true
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Gaza Board of Peace unveils $2.45B rebuilding push: ‘Hamas ready to disarm’",
+          "excerpt": "Tony Blair says Hamas has agreed to dismantle tunnels, weapons stockpiles and arms factories; officials unveil 66 projects, a Kosovo disarmament team and a $2.45 billion six-month rebuilding plan, while talks with Israel remain difficult am",
+          "link": "https://www.ynetnews.com/article/h12nmyzczx",
+          "publishedAt": "2026-09-23T16:55:47.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "‘Everything we prepared for happened’: When IDF medics became casualties deep inside Syria",
+          "excerpt": "Five troops were wounded 24 miles inside Syria — all members of the medical team meant to treat casualties; months of planning helped IDF rescuers evacuate them to an Israeli hospital",
+          "link": "https://www.ynetnews.com/magazine/article/b1b3svzqmx",
+          "publishedAt": "2026-09-23T15:49:21.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
@@ -303,6 +354,87 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF kills Hamas finance chief in southern Gaza",
+          "excerpt": "Prime minister and defense minister say IDF killed Mohammed Abu Alwan, head of Hamas’ finance department; no further operational details were provided",
+          "link": "https://www.ynetnews.com/article/bycnbgwcml",
+          "publishedAt": "2026-09-23T09:05:06.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Al Jazeera English",
+        "Ynet News (English)",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الملف الإسرائيلي",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 11,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Gaza $2.45 billion reconstruction plan. Who decides its future?",
+          "excerpt": "Gaza’s $2.45bn recovery plan spans housing, health and 4G, but Israeli pullout and Hamas’s disarmament remain unclear.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/gaza-2-45-billion-reconstruction-plan-who-decides-its-future?traffic_source=rss",
+          "publishedAt": "2026-09-24T06:09:05.000Z",
+          "files": [
+            "congress",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF says it killed Hamas finance chief who moved over 1 billion shekels during war",
+          "excerpt": "Muhammad Abu Alwan was targeted in a vehicle in Khan Younis; military says he funded Hamas operations for a decade and recently worked to rebuild the terror group’s capabilities in violation of the ceasefire",
+          "link": "https://www.ynetnews.com/article/h1rbb4mqfe",
+          "publishedAt": "2026-09-24T05:26:46.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iran proposes ceasefire road map, $2.45 billion pledged for Gaza, and Syria tourism doubles",
+          "excerpt": "Today on Trending Middle East, Iran has presented the US with a proposed road map to end the war. Sources told The National that it includes a region-wide ceasefire of up to 60 days, the gradual reopening of the Strait of Hormuz and an end ",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/24/iran-proposes-ceasefire-road-map-245-billion-pledged-for-gaza-and-syria-tourism-doubles/",
+          "publishedAt": "2026-09-24T05:26:08.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
@@ -320,7 +452,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -400,7 +532,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -455,59 +587,6 @@
       ]
     },
     {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Al Jazeera English",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام الدولي",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Gaza $2.45 billion reconstruction plan. Who decides its future?",
-          "excerpt": "Gaza’s $2.45bn recovery plan spans housing, health and 4G, but Israeli pullout and Hamas’s disarmament remain unclear.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/gaza-2-45-billion-reconstruction-plan-who-decides-its-future?traffic_source=rss",
-          "publishedAt": "2026-09-24T06:09:05.000Z",
-          "files": [
-            "congress",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iran proposes ceasefire road map, $2.45 billion pledged for Gaza, and Syria tourism doubles",
-          "excerpt": "Today on Trending Middle East, Iran has presented the US with a proposed road map to end the war. Sources told The National that it includes a region-wide ceasefire of up to 60 days, the gradual reopening of the Strait of Hormuz and an end ",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/24/iran-proposes-ceasefire-road-map-245-billion-pledged-for-gaza-and-syria-tourism-doubles/",
-          "publishedAt": "2026-09-24T05:26:08.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -519,7 +598,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -571,7 +650,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -607,7 +686,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
