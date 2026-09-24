@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T15:57:20.797Z",
+    "generatedAt": "2026-09-24T16:12:15.166Z",
     "windowHours": 24,
-    "from": "2026-09-23T15:57:20.797Z",
-    "to": "2026-09-24T15:57:20.797Z"
+    "from": "2026-09-23T16:12:15.166Z",
+    "to": "2026-09-24T16:12:15.166Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 22,
     "files": 7,
-    "withNew": 1,
-    "stale": 6,
+    "withNew": 0,
+    "stale": 7,
     "contested": 1,
     "echoed": 1,
     "americanItems": 8,
-    "archiveCycles": 1129
+    "archiveCycles": 1130
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,29 +33,27 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Ynet News (English)"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 5,
-      "score": 37,
+      "score": 32,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -117,18 +116,6 @@
           "us": true
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF probe: Paga troops never drilled for large-scale assault before 18 were killed",
-          "excerpt": "Ten-month inquiry finds Golani troops lacked training, equipment and prepared defenses for a large-scale assault; commanders were killed early and air support was often ineffective, while soldiers fought for hours until rescue forces arrive",
-          "link": "https://www.ynetnews.com/article/syap00mm9mx",
-          "publishedAt": "2026-09-24T04:42:34.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -151,54 +138,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Gaza Board of Peace unveils $2.45B rebuilding push: ‘Hamas ready to disarm’",
-          "excerpt": "Tony Blair says Hamas has agreed to dismantle tunnels, weapons stockpiles and arms factories; officials unveil 66 projects, a Kosovo disarmament team and a $2.45 billion six-month rebuilding plan, while talks with Israel remain difficult am",
-          "link": "https://www.ynetnews.com/article/h12nmyzczx",
-          "publishedAt": "2026-09-23T16:55:47.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الخزانة الأميركية تلغي الترخيص العام الخاص بسوريا بعد رفعها من قائمة الإرهاب",
-          "excerpt": "أعلن مكتب مراقبة الأصول الأجنبية (OFAC)، الخميس، التابع لوزارة الخزانة الأميركية عن إصدار قاعدة نهائية تقضي بتعديل لوائح عقوبات حكومات قائمة الإرهاب",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%84%D8%BA%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9%D9%87%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
-          "publishedAt": "2026-09-24T15:50:31.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
         }
       ]
     },
@@ -217,7 +156,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -284,7 +223,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -363,7 +302,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -444,41 +383,61 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:57",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الخزانة الأميركية تلغي الترخيص العام الخاص بسوريا بعد رفعها من قائمة الإرهاب",
+          "excerpt": "أعلن مكتب مراقبة الأصول الأجنبية (OFAC)، الخميس، التابع لوزارة الخزانة الأميركية عن إصدار قاعدة نهائية تقضي بتعديل لوائح عقوبات حكومات قائمة الإرهاب",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%84%D8%BA%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B1%D9%81%D8%B9%D9%87%D8%A7-%D9%85%D9%86-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+          "publishedAt": "2026-09-24T15:50:31.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "Ynet News (English)",
         "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 3,
       "items": [
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF says it killed Hamas finance chief who moved over 1 billion shekels during war",
-          "excerpt": "Muhammad Abu Alwan was targeted in a vehicle in Khan Younis; military says he funded Hamas operations for a decade and recently worked to rebuild the terror group’s capabilities in violation of the ceasefire",
-          "link": "https://www.ynetnews.com/article/h1rbb4mqfe",
-          "publishedAt": "2026-09-24T05:26:46.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -507,7 +466,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:12",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 15:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
