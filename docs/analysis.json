@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T14:57:38.632Z",
+    "generatedAt": "2026-09-24T15:12:57.898Z",
     "windowHours": 24,
-    "from": "2026-09-23T14:57:38.632Z",
-    "to": "2026-09-24T14:57:38.632Z"
+    "from": "2026-09-23T15:12:57.898Z",
+    "to": "2026-09-24T15:12:57.898Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 25,
+    "items": 21,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 0,
+    "stale": 6,
     "contested": 1,
     "echoed": 1,
     "americanItems": 7,
-    "archiveCycles": 1127
+    "archiveCycles": 1128
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,29 +33,27 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Ynet News (English)"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 5,
-      "score": 47,
+      "score": 32,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -65,7 +64,7 @@
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF%D9%87%D8%A7",
           "publishedAt": "2026-09-24T14:46:01.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -117,18 +116,6 @@
           "us": true
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF probe: Paga troops never drilled for large-scale assault before 18 were killed",
-          "excerpt": "Ten-month inquiry finds Golani troops lacked training, equipment and prepared defenses for a large-scale assault; commanders were killed early and air support was often ineffective, while soldiers fought for hours until rescue forces arrive",
-          "link": "https://www.ynetnews.com/article/syap00mm9mx",
-          "publishedAt": "2026-09-24T04:42:34.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -151,30 +138,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Gaza Board of Peace unveils $2.45B rebuilding push: ‘Hamas ready to disarm’",
-          "excerpt": "Tony Blair says Hamas has agreed to dismantle tunnels, weapons stockpiles and arms factories; officials unveil 66 projects, a Kosovo disarmament team and a $2.45 billion six-month rebuilding plan, while talks with Israel remain difficult am",
-          "link": "https://www.ynetnews.com/article/h12nmyzczx",
-          "publishedAt": "2026-09-23T16:55:47.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "‘Everything we prepared for happened’: When IDF medics became casualties deep inside Syria",
-          "excerpt": "Five troops were wounded 24 miles inside Syria — all members of the medical team meant to treat casualties; months of planning helped IDF rescuers evacuate them to an Israeli hospital",
-          "link": "https://www.ynetnews.com/magazine/article/b1b3svzqmx",
-          "publishedAt": "2026-09-23T15:49:21.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -193,7 +156,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -260,7 +223,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -339,7 +302,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -422,39 +385,23 @@
     {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "Ynet News (English)",
         "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 3,
       "items": [
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF says it killed Hamas finance chief who moved over 1 billion shekels during war",
-          "excerpt": "Muhammad Abu Alwan was targeted in a vehicle in Khan Younis; military says he funded Hamas operations for a decade and recently worked to rebuild the terror group’s capabilities in violation of the ceasefire",
-          "link": "https://www.ynetnews.com/article/h1rbb4mqfe",
-          "publishedAt": "2026-09-24T05:26:46.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -483,7 +430,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 14:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
