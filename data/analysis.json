@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T10:38:58.398Z",
+    "generatedAt": "2026-09-24T10:51:00.522Z",
     "windowHours": 24,
-    "from": "2026-09-23T10:38:58.398Z",
-    "to": "2026-09-24T10:38:58.398Z"
+    "from": "2026-09-23T10:51:00.522Z",
+    "to": "2026-09-24T10:51:00.522Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 34,
+    "items": 35,
     "files": 8,
-    "withNew": 0,
-    "stale": 8,
+    "withNew": 1,
+    "stale": 7,
     "contested": 1,
     "echoed": 1,
-    "americanItems": 5,
-    "archiveCycles": 1115
+    "americanItems": 6,
+    "archiveCycles": 1116
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,8 +31,9 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
+        "The National",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
         "Al Jazeera English",
@@ -40,19 +41,32 @@
         "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
         "الإعلام الدولي",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:06",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": true,
-      "usItems": 3,
-      "score": 28,
+      "usItems": 4,
+      "score": 44,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "US returns ancient looted treasures to Syria",
+          "excerpt": "US authorities have returned to Syria “extraordinary” Roman mosaics and other looted treasures seized from a suspected Lebanese trafficker and a renowned American collector, the Manhattan District Attorney's Office has said.Some of the piec",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/24/syria-palmyra/",
+          "publishedAt": "2026-09-24T10:43:23.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -178,7 +192,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -360,7 +374,7 @@
         "الملف الإسرائيلي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -427,7 +441,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -507,7 +521,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -587,7 +601,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -624,7 +638,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -660,7 +674,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:06",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 10:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
