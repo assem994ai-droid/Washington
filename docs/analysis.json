@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T08:40:05.148Z",
+    "generatedAt": "2026-09-24T09:07:47.722Z",
     "windowHours": 24,
-    "from": "2026-09-23T08:40:05.148Z",
-    "to": "2026-09-24T08:40:05.148Z"
+    "from": "2026-09-23T09:07:47.722Z",
+    "to": "2026-09-24T09:07:47.722Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 36,
     "files": 8,
-    "withNew": 1,
-    "stale": 7,
+    "withNew": 2,
+    "stale": 6,
     "contested": 1,
     "echoed": 1,
     "americanItems": 5,
-    "archiveCycles": 1111
+    "archiveCycles": 1112
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,8 +32,8 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
-        "تلفزيون سوريا",
         "North Press Agency (English)",
+        "تلفزيون سوريا",
         "The National",
         "Jerusalem Post — الشرق الأوسط"
       ],
@@ -48,8 +48,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 31,
+      "score": 32,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter Syria’s Daraa, Quneitra countryside",
+          "excerpt": "DAMASCUS, Syria (North Press) – Israeli forces on Thursday opened fire on agricultural land in Wadi al-Raqad in the western countryside of Daraa, southern Syria, after entering the area from the Kafr Lama border gate. Local sources told Nor",
+          "link": "https://npasyria.com/en/141873/",
+          "publishedAt": "2026-09-24T09:01:33.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -61,7 +75,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -227,13 +241,13 @@
         "الإعلام الدولي",
         "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 3,
-      "score": 30,
+      "score": 28,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -342,28 +356,86 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "Turkish Minute"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف التركي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 18,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "شعر بها سكان دير الزور.. هزة أرضية تضرب شانلي أورفا التركية",
+          "excerpt": "ذكرت وسائل إعلام تركية محلية أن هزة أرضية بلغت قوتها الأولية 5.3 درجات ضربت منطقة شانلي أورفا عند الساعة 10:40 صباحا بالتوقيت المحلي",
+          "link": "https://www.syria.tv/%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%B4%D8%A7%D9%86%D9%84%D9%8A-%D8%A3%D9%88%D8%B1%D9%81%D8%A7-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
+          "publishedAt": "2026-09-24T08:59:34.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Rehabilitation work begins at Mezzeh airport in Damascus",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s General Civil Aviation Authority on Wednesday announced the start of preliminary rehabilitation work at Mezzeh Airport, with the aim of “reclassifying it from a facility with military use into a limit",
-          "link": "https://npasyria.com/en/141840/",
-          "publishedAt": "2026-09-23T11:02:26.000Z",
-          "files": [],
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Syria’s al-Al-Sharaa seeks legal status for Turkish military presence",
+          "excerpt": "Syrian President Ahmed al-Sharaa said Damascus is working to formally authorize Turkey’s remaining military presence in Syria through parliament, while predicting the country would soon no longer need foreign troops. Speaking at an Atlantic",
+          "link": "https://turkishminute.com/2026/09/23/syrias-al-al-sharaa-seeks-legal-status-for-turkish-military-presence/",
+          "publishedAt": "2026-09-23T14:38:12.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
           "seenBefore": true,
           "us": false
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF kills Hamas finance chief in southern Gaza",
-          "excerpt": "Prime minister and defense minister say IDF killed Mohammed Abu Alwan, head of Hamas’ finance department; no further operational details were provided",
-          "link": "https://www.ynetnews.com/article/bycnbgwcml",
-          "publishedAt": "2026-09-23T09:05:06.000Z",
-          "files": [],
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "منفذ القامشلي-نصيبين.. سوريا تبدأ إنشاء المعبر السابع مع تركيا",
+          "excerpt": "أعلن رئيس الهيئة العامة للمنافذ والجمارك، قتيبة بدوي، بدء العمل رسمياً على إنشاء منفذ القامشلي - نصيبين الحدودي..",
+          "link": "https://www.syria.tv/%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-23T12:58:36.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "لقاء ثلاثي في نيويورك.. سوريا والسعودية وتركيا تبحث تعزيز التعاون الاقتصادي",
+          "excerpt": "عقد وزير الخارجية والمغتربين السوري أسعد حسن الشيباني اجتماعاً ثلاثياً مع نظيريه السعودي الأمير فيصل بن فرحان والتركي هاكان فيدان..",
+          "link": "https://www.syria.tv/%D9%84%D9%82%D8%A7%D8%A1-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A",
+          "publishedAt": "2026-09-23T12:33:35.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -385,7 +457,7 @@
         "الملف الإسرائيلي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -452,7 +524,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -519,74 +591,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Syria’s al-Al-Sharaa seeks legal status for Turkish military presence",
-          "excerpt": "Syrian President Ahmed al-Sharaa said Damascus is working to formally authorize Turkey’s remaining military presence in Syria through parliament, while predicting the country would soon no longer need foreign troops. Speaking at an Atlantic",
-          "link": "https://turkishminute.com/2026/09/23/syrias-al-al-sharaa-seeks-legal-status-for-turkish-military-presence/",
-          "publishedAt": "2026-09-23T14:38:12.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "منفذ القامشلي-نصيبين.. سوريا تبدأ إنشاء المعبر السابع مع تركيا",
-          "excerpt": "أعلن رئيس الهيئة العامة للمنافذ والجمارك، قتيبة بدوي، بدء العمل رسمياً على إنشاء منفذ القامشلي - نصيبين الحدودي..",
-          "link": "https://www.syria.tv/%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-23T12:58:36.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "لقاء ثلاثي في نيويورك.. سوريا والسعودية وتركيا تبحث تعزيز التعاون الاقتصادي",
-          "excerpt": "عقد وزير الخارجية والمغتربين السوري أسعد حسن الشيباني اجتماعاً ثلاثياً مع نظيريه السعودي الأمير فيصل بن فرحان والتركي هاكان فيدان..",
-          "link": "https://www.syria.tv/%D9%84%D9%82%D8%A7%D8%A1-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A",
-          "publishedAt": "2026-09-23T12:33:35.000Z",
-          "files": [
-            "turkey",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -598,7 +602,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -650,7 +654,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -686,7 +690,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 08:40",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
