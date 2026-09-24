@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T05:58:00.437Z",
+    "generatedAt": "2026-09-24T06:37:28.747Z",
     "windowHours": 24,
-    "from": "2026-09-23T05:58:00.437Z",
-    "to": "2026-09-24T05:58:00.437Z"
+    "from": "2026-09-23T06:37:28.747Z",
+    "to": "2026-09-24T06:37:28.747Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 29,
+    "items": 30,
     "files": 8,
-    "withNew": 0,
-    "stale": 8,
+    "withNew": 1,
+    "stale": 7,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 1104
+    "archiveCycles": 1105
   },
   "emptyCircles": [
     "الكونغرس",
@@ -43,7 +43,7 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -196,7 +196,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -291,6 +291,59 @@
       ]
     },
     {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Al Jazeera English",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 16,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Gaza $2.45 billion reconstruction plan. Who decides its future?",
+          "excerpt": "Gaza’s $2.45bn recovery plan spans housing, health and 4G, but Israeli pullout and Hamas’s disarmament remain unclear.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/gaza-2-45-billion-reconstruction-plan-who-decides-its-future?traffic_source=rss",
+          "publishedAt": "2026-09-24T06:09:05.000Z",
+          "files": [
+            "congress",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iran proposes ceasefire road map, $2.45 billion pledged for Gaza, and Syria tourism doubles",
+          "excerpt": "Today on Trending Middle East, Iran has presented the US with a proposed road map to end the war. Sources told The National that it includes a region-wide ceasefire of up to 60 days, the gradual reopening of the Strait of Hormuz and an end ",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/24/iran-proposes-ceasefire-road-map-245-billion-pledged-for-gaza-and-syria-tourism-doubles/",
+          "publishedAt": "2026-09-24T05:26:08.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -307,7 +360,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -403,7 +456,7 @@
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -469,7 +522,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -510,42 +563,6 @@
       ]
     },
     {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:49",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iran proposes ceasefire road map, $2.45 billion pledged for Gaza, and Syria tourism doubles",
-          "excerpt": "Today on Trending Middle East, Iran has presented the US with a proposed road map to end the war. Sources told The National that it includes a region-wide ceasefire of up to 60 days, the gradual reopening of the Strait of Hormuz and an end ",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/24/iran-proposes-ceasefire-road-map-245-billion-pledged-for-gaza-and-syria-tourism-doubles/",
-          "publishedAt": "2026-09-24T05:26:08.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -557,7 +574,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -593,7 +610,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:49",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 05:58",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
