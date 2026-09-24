@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T17:28:21.838Z",
+    "generatedAt": "2026-09-24T20:40:29.550Z",
     "windowHours": 24,
-    "from": "2026-09-23T17:28:21.838Z",
-    "to": "2026-09-24T17:28:21.838Z"
+    "from": "2026-09-23T20:40:29.550Z",
+    "to": "2026-09-24T20:40:29.550Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
-    "files": 8,
-    "withNew": 1,
-    "stale": 7,
+    "items": 25,
+    "files": 7,
+    "withNew": 3,
+    "stale": 4,
     "contested": 1,
     "echoed": 1,
     "americanItems": 8,
-    "archiveCycles": 1134
+    "archiveCycles": 1135
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,28 +33,77 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "The National",
         "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "Al-Monitor",
+        "Jerusalem Post — الشرق الأوسط",
+        "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
+        "المصادر الرسمية السورية",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 16:58",
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 4,
+      "stale": false,
       "echoed": true,
-      "usItems": 5,
-      "score": 32,
+      "usItems": 6,
+      "score": 62,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "براك: تعاون سوري أميركي جديد يرسم ملامح مرحلة مختلفة",
+          "excerpt": "قال المبعوث الأميركي الخاص إلى سوريا والعراق، توم براك، الخميس، إن مستوى التعاون الذي تشهده سوريا يمثل بداية لمسار جديد في العلاقات السورية الأميركية",
+          "link": "https://www.syria.tv/%D8%A8%D8%B1%D8%A7%D9%83-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9",
+          "publishedAt": "2026-09-24T19:19:07.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "باراك: سوريا بعد أقل من عامين أصبحت نموذجاً يحتذى به",
+          "excerpt": "أكد المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية ‌‏‌‏إلى سوريا والعراق توماس باراك اليوم الخميس، أن سوريا بعد أقل من عامين على سقوط النظام البائد، أصبحت نموذجاً يحتذى به.",
+          "link": "https://sana.sy/politics/2589255/",
+          "publishedAt": "2026-09-24T18:51:35.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Around 80 countries call for reopening of Hormuz",
+          "excerpt": "QAMiSHLI, Syria (North Press) – Around 80 countries called on Thursday for the urgent reopening of the Strait of Hormuz, warning that disruptions to navigation threaten global trade and energy security. Bahraini Foreign Minister Abdullatif ",
+          "link": "https://npasyria.com/en/141910/",
+          "publishedAt": "2026-09-24T18:40:05.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Gaza suffers world's worst ever economic crisis: UN",
+          "excerpt": "<p>Gaza is suffering the world's worst economic crisis ever recorded, with nine in 10 businesses destroyed and hundreds of thousands of people unemployed, a top UN development agency warned on Thursday.</p> <p>Israel's military offensive sp",
+          "link": "https://www.al-monitor.com/originals/2026/09/gaza-suffers-worlds-worst-ever-economic-crisis-un",
+          "publishedAt": "2026-09-24T17:30:24.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -104,18 +153,6 @@
           "us": true
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. returns 36 antiquities worth more than $5 million to Syria",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syrian Ministry of Foreign Affairs and Expatriates on Thursday announced that U.S. authorities had returned a collection of seized antiquities to Syria after thwarting efforts to smuggle them in previous year",
-          "link": "https://npasyria.com/en/141866/",
-          "publishedAt": "2026-09-24T07:09:57.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -146,12 +183,14 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "سانا — قسم السياسة",
         "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -160,8 +199,23 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 23,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "العراق يدين الاعتداءات الإسرائيلية على سوريا ولبنان ويؤكد ضرورة احترام سيادتهما",
+          "excerpt": "أكد وزير الخارجية العراقي فؤاد حسين، اليوم الخميس، رفض العراق وإدانته للاعتداءات الإسرائيلية المتواصلة على سوريا ولبنان، مشدداً على ضرورة احترام سيادة الدول وسلامة أراضيها، والالتزام بقواعد القانون الدولي وميثاق الأمم المتحدة.",
+          "link": "https://sana.sy/politics/2589251/",
+          "publishedAt": "2026-09-24T18:47:04.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -173,7 +227,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -231,20 +285,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وزير دفاع جيش الاحتلال: إسرائيل لن تنسحب من المنطقة العازلة في سوريا",
-          "excerpt": "قال وزير دفاع جيش الاحتلال الإسرائيلي يسرائيل كاتس إن إسرائيل لن تنسحب من جبل الشيخ والمنطقة العازلة التي تحتلها داخل الأراضي السورية، وذلك ردا على تأكيد الرئيس",
-          "link": "https://www.syria.tv/%D9%88%D8%B2%D9%8A%D8%B1-%D8%AF%D9%81%D8%A7%D8%B9-%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D9%86-%D8%AA%D9%86%D8%B3%D8%AD%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D8%B2%D9%84%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-23T19:05:28.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -262,7 +302,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 16:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -301,6 +341,56 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية في بروكسل حول حوكمة القطاع الأمني ودعم مسار الإصلاح",
+          "excerpt": "شارك مدير إدارة التخطيط والتنظيم في وزارة الداخلية السورية، علاء الدين الدروبي، في جلسة دولية بالعاصمة البلجيكية بروكسل، تناولت دور حوكمة قطاع الأمن في تعزيز ..",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%84-%D8%AD%D9%88%D9%84-%D8%AD%D9%88%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D9%88%D8%AF%D8%B9%D9%85-%D9%85%D8%B3%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D8%B5%D9%84%D8%A7%D8%AD",
+          "publishedAt": "2026-09-24T19:50:02.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية – أردنية لتعزيز التعاون في قطاعي النفط والغاز",
+          "excerpt": "بحث الرئيس التنفيذي للشركة السورية للبترول يوسف قبلاوي، أمس الأربعاء 23 أيلول، مع وفد أردني في دمشق، سبل تطوير التعاون المشترك في قطاعي النفط والغاز.",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%E2%80%93-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2",
+          "publishedAt": "2026-09-24T01:31:13.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -315,7 +405,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 16:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -369,72 +459,6 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 16:58",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مباحثات سورية – أردنية لتعزيز التعاون في قطاعي النفط والغاز",
-          "excerpt": "بحث الرئيس التنفيذي للشركة السورية للبترول يوسف قبلاوي، أمس الأربعاء 23 أيلول، مع وفد أردني في دمشق، سبل تطوير التعاون المشترك في قطاعي النفط والغاز.",
-          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%E2%80%93-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2",
-          "publishedAt": "2026-09-24T01:31:13.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تعرض رؤيتها لإنهاء المخيمات والأمم المتحدة تؤكد دعم التعافي والعودة الآمنة",
-          "excerpt": "أكد وزير الطوارئ وإدارة الكوارث رائد الصالح أن عودة النازحين لا تعني نقلهم من الخيام إلى ‏قراهم فحسب، بل تمكينهم من العيش في مكان يوفر الكرامة والاستقرار، مشدداً على أن العودة ‏يجب أن تكون طوعية وآمنة وكريمة ومستدامة‎.‎",
-          "link": "https://sana.sy/syria-and-the-world/2588474/",
-          "publishedAt": "2026-09-24T01:15:56.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "البعثة الدائمة لسوريا لدى الأمم المتحدة تنظم ندوة حول &#8220;سوريا بلا مخيمات&#8221;‏",
-          "excerpt": "‏ نظّمت البعثةُ الدائمة للجمهورية العربية السورية لدى الأمم المتحدة، اليوم الأربعاء، ندوةً ‏رفيعة المستوى بعنوان \"الاستقرار الإقليمي والأمن والعودة المستدامة: حتمية سوريا بلا ‏مخيمات\". ‏",
-          "link": "https://sana.sy/syria-and-the-world/2588463/",
-          "publishedAt": "2026-09-24T00:53:37.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
       "verification": "مصدر واحد",
@@ -446,7 +470,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 16:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -471,42 +495,6 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 16:58",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 2,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump welcomes Xi to Washington as U.S.-China trade truce extended",
-          "excerpt": "QAMISHLI, Syria (North Press) – Chinese President Xi Jinping arrived in Washington on Wednesday for a three-day state visit, receiving a rare planeside welcome from U.S. President Donald Trump as Washington and Beijing agreed to extend thei",
-          "link": "https://npasyria.com/en/141863/",
-          "publishedAt": "2026-09-24T05:46:10.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -518,7 +506,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 16:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 17:28",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
