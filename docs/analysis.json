@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T13:08:10.691Z",
+    "generatedAt": "2026-09-24T13:24:50.385Z",
     "windowHours": 24,
-    "from": "2026-09-23T13:08:10.691Z",
-    "to": "2026-09-24T13:08:10.691Z"
+    "from": "2026-09-23T13:24:50.385Z",
+    "to": "2026-09-24T13:24:50.385Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 30,
+    "items": 23,
     "files": 6,
     "withNew": 0,
     "stale": 6,
     "contested": 1,
     "echoed": 1,
     "americanItems": 7,
-    "archiveCycles": 1123
+    "archiveCycles": 1124
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,7 +22,8 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية"
+    "التقارير الرسمية الدورية",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -31,29 +32,27 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
         "The National",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
-        "Ynet News (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
         "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 12:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": true,
       "usItems": 5,
-      "score": 38,
+      "score": 31,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -104,18 +103,6 @@
           "us": true
         },
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF probe: Paga troops never drilled for large-scale assault before 18 were killed",
-          "excerpt": "Ten-month inquiry finds Golani troops lacked training, equipment and prepared defenses for a large-scale assault; commanders were killed early and air support was often ineffective, while soldiers fought for hours until rescue forces arrive",
-          "link": "https://www.ynetnews.com/article/syap00mm9mx",
-          "publishedAt": "2026-09-24T04:42:34.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -138,28 +125,46 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "Turkish Minute"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "الملف التركي"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:08",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 15,
+      "items": [
         {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Gaza Board of Peace unveils $2.45B rebuilding push: ‘Hamas ready to disarm’",
-          "excerpt": "Tony Blair says Hamas has agreed to dismantle tunnels, weapons stockpiles and arms factories; officials unveil 66 projects, a Kosovo disarmament team and a $2.45 billion six-month rebuilding plan, while talks with Israel remain difficult am",
-          "link": "https://www.ynetnews.com/article/h12nmyzczx",
-          "publishedAt": "2026-09-23T16:55:47.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "‘Everything we prepared for happened’: When IDF medics became casualties deep inside Syria",
-          "excerpt": "Five troops were wounded 24 miles inside Syria — all members of the medical team meant to treat casualties; months of planning helped IDF rescuers evacuate them to an Israeli hospital",
-          "link": "https://www.ynetnews.com/magazine/article/b1b3svzqmx",
-          "publishedAt": "2026-09-23T15:49:21.000Z",
-          "files": [],
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الدفاع التركية: الاعتداءات الإسرائيلية على دول المنطقة تقوض الاستقرار الإقليمي",
+          "excerpt": "أكدت وزارة الدفاع التركية، اليوم الخميس، أن الاعتداءات المتواصلة التي تشنها إسرائيل ‏على دول المنطقة، ومن بينها سوريا، تشكل انتهاكاً للقانون الدولي وتقوض الاستقرار ‏في المنطقة.‏",
+          "link": "https://sana.sy/syria-and-the-world/2588893/",
+          "publishedAt": "2026-09-24T11:13:13.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
           "seenBefore": true,
           "us": false
         },
@@ -167,11 +172,42 @@
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "Syria begins work on Qamishli-Nusaybin border crossing",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria began on Wednesday construction of the Qamishli-Nusaybin border crossing with Turkey, according to the head of the General Authority for Border Crossings and Customs. Qutaiba Badawi said in a Facebook p",
-          "link": "https://npasyria.com/en/141850/",
-          "publishedAt": "2026-09-23T15:26:57.000Z",
-          "files": [],
+          "title": "Turkey to gradually hand over Bashiqa base to Iraq",
+          "excerpt": "QAMISHLI, Syria (North Press) – Turkey agreed to gradually withdraw its forces from the Bashiqa-Zelikan military base in northern Iraq and transfer control of the facility to the Iraqi federal government, following talks between Turkish Pre",
+          "link": "https://npasyria.com/en/141876/",
+          "publishedAt": "2026-09-24T11:02:59.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "شعر بها سكان دير الزور.. هزة أرضية تضرب شانلي أورفا التركية",
+          "excerpt": "ذكرت وسائل إعلام تركية محلية أن هزة أرضية بلغت قوتها الأولية 5.3 درجات ضربت منطقة شانلي أورفا عند الساعة 10:40 صباحا بالتوقيت المحلي",
+          "link": "https://www.syria.tv/%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%B4%D8%A7%D9%86%D9%84%D9%8A-%D8%A3%D9%88%D8%B1%D9%81%D8%A7-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
+          "publishedAt": "2026-09-24T08:59:34.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Syria’s al-Al-Sharaa seeks legal status for Turkish military presence",
+          "excerpt": "Syrian President Ahmed al-Sharaa said Damascus is working to formally authorize Turkey’s remaining military presence in Syria through parliament, while predicting the country would soon no longer need foreign troops. Speaking at an Atlantic",
+          "link": "https://turkishminute.com/2026/09/23/syrias-al-al-sharaa-seeks-legal-status-for-turkish-military-presence/",
+          "publishedAt": "2026-09-23T14:38:12.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -192,13 +228,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 12:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 15,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -271,20 +307,6 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli army reports three-month operation in southern Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – The Israeli army said on Wednesday that its forces completed a three-month operation in southern Syria, during which they seized weapons and destroyed infrastructure. In a statement, the army said its forces ",
-          "link": "https://npasyria.com/en/141854/",
-          "publishedAt": "2026-09-23T17:44:53.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -294,21 +316,6 @@
           "publishedAt": "2026-09-23T14:54:29.000Z",
           "files": [
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Al-Sharaa reaffirms Syria’s claim to Golan at UN",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian President Ahmad al-Sharaa said on Wednesday that the Golan Heights will remain Syrian territory, rejecting Israel’s annexation measures during his address to the UN General Assembly. “The Golan will re",
-          "link": "https://npasyria.com/en/141847/",
-          "publishedAt": "2026-09-23T14:37:04.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -331,91 +338,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Turkish Minute"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف التركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 12:39",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 15,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الدفاع التركية: الاعتداءات الإسرائيلية على دول المنطقة تقوض الاستقرار الإقليمي",
-          "excerpt": "أكدت وزارة الدفاع التركية، اليوم الخميس، أن الاعتداءات المتواصلة التي تشنها إسرائيل ‏على دول المنطقة، ومن بينها سوريا، تشكل انتهاكاً للقانون الدولي وتقوض الاستقرار ‏في المنطقة.‏",
-          "link": "https://sana.sy/syria-and-the-world/2588893/",
-          "publishedAt": "2026-09-24T11:13:13.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkey to gradually hand over Bashiqa base to Iraq",
-          "excerpt": "QAMISHLI, Syria (North Press) – Turkey agreed to gradually withdraw its forces from the Bashiqa-Zelikan military base in northern Iraq and transfer control of the facility to the Iraqi federal government, following talks between Turkish Pre",
-          "link": "https://npasyria.com/en/141876/",
-          "publishedAt": "2026-09-24T11:02:59.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "شعر بها سكان دير الزور.. هزة أرضية تضرب شانلي أورفا التركية",
-          "excerpt": "ذكرت وسائل إعلام تركية محلية أن هزة أرضية بلغت قوتها الأولية 5.3 درجات ضربت منطقة شانلي أورفا عند الساعة 10:40 صباحا بالتوقيت المحلي",
-          "link": "https://www.syria.tv/%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%B4%D8%A7%D9%86%D9%84%D9%8A-%D8%A3%D9%88%D8%B1%D9%81%D8%A7-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
-          "publishedAt": "2026-09-24T08:59:34.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Syria’s al-Al-Sharaa seeks legal status for Turkish military presence",
-          "excerpt": "Syrian President Ahmed al-Sharaa said Damascus is working to formally authorize Turkey’s remaining military presence in Syria through parliament, while predicting the country would soon no longer need foreign troops. Speaking at an Atlantic",
-          "link": "https://turkishminute.com/2026/09/23/syrias-al-al-sharaa-seeks-legal-status-for-turkish-military-presence/",
-          "publishedAt": "2026-09-23T14:38:12.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -429,7 +351,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 12:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -498,39 +420,23 @@
     {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "Ynet News (English)",
         "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 12:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 3,
       "items": [
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "IDF says it killed Hamas finance chief who moved over 1 billion shekels during war",
-          "excerpt": "Muhammad Abu Alwan was targeted in a vehicle in Khan Younis; military says he funded Hamas operations for a decade and recently worked to rebuild the terror group’s capabilities in violation of the ceasefire",
-          "link": "https://www.ynetnews.com/article/h1rbb4mqfe",
-          "publishedAt": "2026-09-24T05:26:46.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -559,7 +465,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 12:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 13:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
