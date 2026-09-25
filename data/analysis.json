@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-25T07:00:40.483Z",
+    "generatedAt": "2026-09-25T12:43:32.329Z",
     "windowHours": 24,
-    "from": "2026-09-24T07:00:40.483Z",
-    "to": "2026-09-25T07:00:40.483Z"
+    "from": "2026-09-24T12:43:32.329Z",
+    "to": "2026-09-25T12:43:32.329Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
+    "items": 23,
     "files": 7,
-    "withNew": 5,
-    "stale": 2,
-    "contested": 1,
+    "withNew": 3,
+    "stale": 4,
+    "contested": 0,
     "echoed": 0,
-    "americanItems": 8,
-    "archiveCycles": 1138
+    "americanItems": 6,
+    "archiveCycles": 1139
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,285 +23,72 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Turkish Minute",
+      "sourceId": "turkishminute",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
-        "سانا — قسم السياسة",
+        "Middle East Eye",
+        "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
-        "The National",
-        "North Press Agency (English)",
-        "Al-Monitor",
-        "Jerusalem Post — الشرق الأوسط"
+        "سانا — قسم السياسة",
+        "North Press Agency (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي"
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
-      "usItems": 5,
-      "score": 55,
+      "usItems": 0,
+      "score": 33,
       "items": [
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "نائب أمريكي: بناء الجسور بين سوريا وأمريكا خطوة مهمة للشعب السوري",
-          "excerpt": "أكد عضو مجلس النواب الأمريكي مارلين ستوتزمان اليوم الخميس أهمية مواصلة بناء الجسور بين سوريا والولايات المتحدة، والاستمرار في التقدم المحرز في العلاقات بين البلدين، مشيراً إلى أن ذلك يمثل خطوات مهمة للشعب السوري.",
-          "link": "https://sana.sy/politics/2589428/",
-          "publishedAt": "2026-09-25T03:43:00.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الجنوب السوري.. من هذيان التهديدات إلى صراع الإرادات",
-          "excerpt": "إذ قدر للمتابع أن يدقق في تأكيد الرئيس أحمد الشرع من نيويورك بقاء الجولان السوري المحتل في الأجندة الوطنية..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D9%86-%D9%87%D8%B0%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA",
-          "publishedAt": "2026-09-25T03:17:52.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
+          "source": "Middle East Eye",
+          "sourceId": "mee",
           "circle": "الإعلام المتخصص",
-          "title": "Syrian theatres, museums and cultural spaces reopening and being restored in 2026",
-          "excerpt": "Al Hamra Theatre reopened in Damascus this month following a nearly nine-month rehabilitation, the latest Syrian cultural venue to return after years of closure, deterioration or disruption during the civil war.First opened in 1960 as part ",
-          "link": "https://www.thenationalnews.com/arts-culture/2026/09/25/syrian-theatres-museums-and-cultural-spaces-reopening-and-being-restored-in-2026/",
-          "publishedAt": "2026-09-25T03:08:00.000Z",
-          "files": [],
+          "title": "Israel quietly lifts block on night flights at Syria's airports",
+          "excerpt": "<article data-history-node-id=\"448310\" about=\"https://www.middleeasteye.net/news/israel-quietly-lifts-block-night-flights-syrias-airports\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/israel-quietly-lifts",
+          "link": "https://www.middleeasteye.net/news/israel-quietly-lifts-block-night-flights-syrias-airports",
+          "publishedAt": "2026-09-25T12:27:09.000Z",
+          "files": [
+            "israel"
+          ],
           "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "براك: تعاون سوري أميركي جديد يرسم ملامح مرحلة مختلفة",
-          "excerpt": "قال المبعوث الأميركي الخاص إلى سوريا والعراق، توم براك، الخميس، إن مستوى التعاون الذي تشهده سوريا يمثل بداية لمسار جديد في العلاقات السورية الأميركية",
-          "link": "https://www.syria.tv/%D8%A8%D8%B1%D8%A7%D9%83-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9",
-          "publishedAt": "2026-09-24T19:19:07.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "باراك: سوريا بعد أقل من عامين أصبحت نموذجاً يحتذى به",
-          "excerpt": "أكد المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية ‌‏‌‏إلى سوريا والعراق توماس باراك اليوم الخميس، أن سوريا بعد أقل من عامين على سقوط النظام البائد، أصبحت نموذجاً يحتذى به.",
-          "link": "https://sana.sy/politics/2589255/",
-          "publishedAt": "2026-09-24T18:51:35.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Around 80 countries call for reopening of Hormuz",
-          "excerpt": "QAMiSHLI, Syria (North Press) – Around 80 countries called on Thursday for the urgent reopening of the Strait of Hormuz, warning that disruptions to navigation threaten global trade and energy security. Bahraini Foreign Minister Abdullatif ",
-          "link": "https://npasyria.com/en/141910/",
-          "publishedAt": "2026-09-24T18:40:05.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Gaza suffers world's worst ever economic crisis: UN",
-          "excerpt": "<p>Gaza is suffering the world's worst economic crisis ever recorded, with nine in 10 businesses destroyed and hundreds of thousands of people unemployed, a top UN development agency warned on Thursday.</p> <p>Israel's military offensive sp",
-          "link": "https://www.al-monitor.com/originals/2026/09/gaza-suffers-worlds-worst-ever-economic-crisis-un",
-          "publishedAt": "2026-09-24T17:30:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الحرب على إيران تعيد سوريا إلى خريطة المشاريع التجارية في المنطقة وما بعدها",
-          "excerpt": "الحرب على إيران تعيد سوريا إلى خريطة المشاريع التجارية في المنطقة والشمال الإفريقي",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF%D9%87%D8%A7",
-          "publishedAt": "2026-09-24T14:46:01.000Z",
-          "files": [],
-          "seenBefore": true,
           "us": false
         },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
-          "title": "Hamas 'ready' to move forward with Board of Peace ceasefire roadmap for Gaza, terror group says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3324,w_5900/703090' alt='World leaders gather during a charter announcement for US President Donald Trump's Board of Peace, in Davo",
-          "link": "https://www.jpost.com/middle-east/article-909561",
-          "publishedAt": "2026-09-24T12:23:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US returns ancient looted treasures to Syria",
-          "excerpt": "US authorities have returned to Syria “extraordinary” Roman mosaics and other looted treasures seized from a suspected Lebanese trafficker and a renowned American collector, the Manhattan District Attorney's Office has said.Some of the piec",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/24/syria-palmyra/",
-          "publishedAt": "2026-09-24T10:43:23.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 5,
-      "sources": [
-        "Turkish Minute",
-        "Al-Monitor",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الملف التركي",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 34,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Netanyahu calls Erdoğan a ‘tyrant’ at UN, Ankara rejects accusations",
-          "excerpt": "Turkey on Friday rejected Israeli Prime Minister Benjamin Netanyahu’s “baseless accusations” after he called President Recep Tayyip Erdoğan a “tyrant” and accused Ankara of harboring Hamas leaders. Netanyahu’s address to the UN General Asse",
-          "link": "https://turkishminute.com/2026/09/25/netanyahu-calls-erdogan-a-tyrant-at-un-ankara-rejects-accusations/",
-          "publishedAt": "2026-09-25T06:06:29.000Z",
+          "title": "Qatar criticizes Israel democracy, promotes own advancing social rights during UN General Assembly",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/739266' alt='Emir of Qatar Tamim bin Hamad al Thani speaks during the 81st session of the United Nations (UN) General As",
+          "link": "https://www.jpost.com/middle-east/article-909674",
+          "publishedAt": "2026-09-25T10:23:46.000Z",
           "files": [
-            "turkey",
             "israel"
           ],
           "seenBefore": false,
           "us": false
         },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN",
-          "excerpt": "Israeli Prime Minister Benjamin Netanyahu dismissed Syrian President Ahmed al-Sharaa's statement that the Golan Heights will “remain Syrian territory,\" while praising US President Donald Trump, whom he did not meet on the trip.",
-          "link": "https://www.al-monitor.com/originals/2026/09/delegates-walk-out-netanyahu-touts-iran-war-slams-qatar-and-turkey-un",
-          "publishedAt": "2026-09-24T19:14:26.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الدفاع التركية: الاعتداءات الإسرائيلية على دول المنطقة تقوض الاستقرار الإقليمي",
-          "excerpt": "أكدت وزارة الدفاع التركية، اليوم الخميس، أن الاعتداءات المتواصلة التي تشنها إسرائيل ‏على دول المنطقة، ومن بينها سوريا، تشكل انتهاكاً للقانون الدولي وتقوض الاستقرار ‏في المنطقة.‏",
-          "link": "https://sana.sy/syria-and-the-world/2588893/",
-          "publishedAt": "2026-09-24T11:13:13.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkey to gradually hand over Bashiqa base to Iraq",
-          "excerpt": "QAMISHLI, Syria (North Press) – Turkey agreed to gradually withdraw its forces from the Bashiqa-Zelikan military base in northern Iraq and transfer control of the facility to the Iraqi federal government, following talks between Turkish Pre",
-          "link": "https://npasyria.com/en/141876/",
-          "publishedAt": "2026-09-24T11:02:59.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "شعر بها سكان دير الزور.. هزة أرضية تضرب شانلي أورفا التركية",
-          "excerpt": "ذكرت وسائل إعلام تركية محلية أن هزة أرضية بلغت قوتها الأولية 5.3 درجات ضربت منطقة شانلي أورفا عند الساعة 10:40 صباحا بالتوقيت المحلي",
-          "link": "https://www.syria.tv/%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%B3%D9%83%D8%A7%D9%86-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%B4%D8%A7%D9%86%D9%84%D9%8A-%D8%A3%D9%88%D8%B1%D9%81%D8%A7-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
-          "publishedAt": "2026-09-24T08:59:34.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 24,
-      "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -314,7 +101,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -359,18 +146,135 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Al-Monitor"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 27,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد صورة جمعتهما.. رسالة الشامي إلى النجمة التركية هاديسا تثير الجدل",
+          "excerpt": "أثار المغني السوري عبد الرحمن فواز، المعروف باسم \"الشامي\"، تفاعلاً واسعاً على مواقع التواصل الاجتماعي، بعدما نشر صورة جمعته بالمغنية التركية هاديسا..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9-%D8%AC%D9%85%D8%B9%D8%AA%D9%87%D9%85%D8%A7-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%87%D8%A7%D8%AF%D9%8A%D8%B3%D8%A7-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84",
+          "publishedAt": "2026-09-25T12:05:49.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces enter Syria’s Daraa, Quneitra countryside",
-          "excerpt": "DAMASCUS, Syria (North Press) – Israeli forces on Thursday opened fire on agricultural land in Wadi al-Raqad in the western countryside of Daraa, southern Syria, after entering the area from the Kafr Lama border gate. Local sources told Nor",
-          "link": "https://npasyria.com/en/141873/",
-          "publishedAt": "2026-09-24T09:01:33.000Z",
+          "title": "Saudi, Turkey, Pakistan chiefs of staff plan urgent meeting",
+          "excerpt": "QAMISHLI, Syria (North Press) – The chiefs of staff of Saudi Arabia, Turkey and Pakistan are preparing for an urgent meeting to discuss ways to support Riyadh under the Makkah Joint Defense Agreement, Saudi authorities said Friday. The Saud",
+          "link": "https://npasyria.com/en/141913/",
+          "publishedAt": "2026-09-25T08:14:19.000Z",
           "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Delegates walk out as Netanyahu touts Iran war, slams Qatar and Turkey at UN",
+          "excerpt": "Israeli Prime Minister Benjamin Netanyahu dismissed Syrian President Ahmed al-Sharaa's statement that the Golan Heights will \"remain Syrian territory,\" while praising US President Donald Trump, whom he did not meet on the trip.",
+          "link": "https://www.al-monitor.com/originals/2026/09/delegates-walk-out-netanyahu-touts-iran-war-slams-qatar-and-turkey-un",
+          "publishedAt": "2026-09-24T19:14:26.000Z",
+          "files": [
+            "turkey",
             "israel"
           ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا",
+        "The National",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 07:00",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 3,
+      "score": 23,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "نائب أمريكي: بناء الجسور بين سوريا وأمريكا خطوة مهمة للشعب السوري",
+          "excerpt": "أكد عضو مجلس النواب الأمريكي مارلين ستوتزمان اليوم الخميس أهمية مواصلة بناء الجسور بين سوريا والولايات المتحدة، والاستمرار في التقدم المحرز في العلاقات بين البلدين، مشيراً إلى أن ذلك يمثل خطوات مهمة للشعب السوري.",
+          "link": "https://sana.sy/politics/2589428/",
+          "publishedAt": "2026-09-25T03:43:00.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الجنوب السوري.. من هذيان التهديدات إلى صراع الإرادات",
+          "excerpt": "إذ قدر للمتابع أن يدقق في تأكيد الرئيس أحمد الشرع من نيويورك بقاء الجولان السوري المحتل في الأجندة الوطنية..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D9%86-%D9%87%D8%B0%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA",
+          "publishedAt": "2026-09-25T03:17:52.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian theatres, museums and cultural spaces reopening and being restored in 2026",
+          "excerpt": "Al Hamra Theatre reopened in Damascus this month following a nearly nine-month rehabilitation, the latest Syrian cultural venue to return after years of closure, deterioration or disruption during the civil war.First opened in 1960 as part ",
+          "link": "https://www.thenationalnews.com/arts-culture/2026/09/25/syrian-theatres-museums-and-cultural-spaces-reopening-and-being-restored-in-2026/",
+          "publishedAt": "2026-09-25T03:08:00.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         },
@@ -378,13 +282,35 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "دورية للاحتلال تعتدي على راعي وتدهس أغنامه جنوبي القنيطرة",
-          "excerpt": "قالت مصادر محلية إن الدورية، التي ضمت سبع سيارات، أقدمت على ضرب الراعي في أثناء وجوده في المنطقة، كما دهست رأسين من الأغنام خلال تحركها",
-          "link": "https://www.syria.tv/%D8%AF%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B9%D8%AA%D8%AF%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%AF%D9%87%D8%B3-%D8%A3%D8%BA%D9%86%D8%A7%D9%85%D9%87-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-24T08:38:32.000Z",
-          "files": [
-            "israel"
-          ],
+          "title": "براك: تعاون سوري أميركي جديد يرسم ملامح مرحلة مختلفة",
+          "excerpt": "قال المبعوث الأميركي الخاص إلى سوريا والعراق، توم براك، الخميس، إن مستوى التعاون الذي تشهده سوريا يمثل بداية لمسار جديد في العلاقات السورية الأميركية",
+          "link": "https://www.syria.tv/%D8%A8%D8%B1%D8%A7%D9%83-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9",
+          "publishedAt": "2026-09-24T19:19:07.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "باراك: سوريا بعد أقل من عامين أصبحت نموذجاً يحتذى به",
+          "excerpt": "أكد المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية ‌‏‌‏إلى سوريا والعراق توماس باراك اليوم الخميس، أن سوريا بعد أقل من عامين على سقوط النظام البائد، أصبحت نموذجاً يحتذى به.",
+          "link": "https://sana.sy/politics/2589255/",
+          "publishedAt": "2026-09-24T18:51:35.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Around 80 countries call for reopening of Hormuz",
+          "excerpt": "QAMiSHLI, Syria (North Press) – Around 80 countries called on Thursday for the urgent reopening of the Strait of Hormuz, warning that disruptions to navigation threaten global trade and energy security. Bahraini Foreign Minister Abdullatif ",
+          "link": "https://npasyria.com/en/141910/",
+          "publishedAt": "2026-09-24T18:40:05.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         },
@@ -392,13 +318,11 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "إلى يسرائيل كاتس: \"إلى الأبد\" لا تصنع ملكية",
-          "excerpt": "حين قال الرئيس أحمد الشرع من على منبر الأمم المتحدة إن الجولان سيبقى أرضاً سورية، لم يكن يعلن موقفاً جديداً، ولا يخترع رواية سورية في مواجهة رواية إسرائيلية..",
-          "link": "https://www.syria.tv/%D8%A5%D9%84%D9%89-%D9%8A%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%83%D8%A7%D8%AA%D8%B3-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%A8%D8%AF-%D9%84%D8%A7-%D8%AA%D8%B5%D9%86%D8%B9-%D9%85%D9%84%D9%83%D9%8A%D8%A9",
-          "publishedAt": "2026-09-24T08:09:17.000Z",
-          "files": [
-            "israel"
-          ],
+          "title": "الحرب على إيران تعيد سوريا إلى خريطة المشاريع التجارية في المنطقة وما بعدها",
+          "excerpt": "الحرب على إيران تعيد سوريا إلى خريطة المشاريع التجارية في المنطقة والشمال الإفريقي",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF%D9%87%D8%A7",
+          "publishedAt": "2026-09-24T14:46:01.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -418,7 +342,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 01:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 07:00",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -457,8 +381,8 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
@@ -480,6 +404,58 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية ـ صينية في فرص الاستثمار بقطاع السيارات وتجميعها",
+          "excerpt": "مباحثات سورية ـ صينية في فرص الاستثمار بقطاع السيارات وتجميعها",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%80-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D8%A8%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D9%87%D8%A7",
+          "publishedAt": "2026-09-25T12:09:05.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الأمم المتحدة لتلفزيون سوريا: نسعى لإزالة عقبات الاستثمار والتعاون مع سوريا",
+          "excerpt": "أكد المتحدث باسم الأمين العام للأمم المتحدة، ستيفان دوجاريك، في تصريحات لـ\"تلفزيون سوريا\"، الخميس، أن الأمم المتحدة تتعهد ببذل كل جهد ممكن لإزالة العقبات التي ت",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%86%D8%B3%D8%B9%D9%89-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B9%D9%82%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-09-25T03:13:20.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 07:00",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 0,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
           "title": "مباحثات سورية ـ أردنية تحضيراً للدورة الثالثة لمجلس التنسيق الأعلى",
           "excerpt": "مباحثات سورية ـ أردنية تحضيراً للدورة الثالثة لمجلس التنسيق الأعلى",
           "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%80-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1%D8%A7%D9%8B-%D9%84%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89",
@@ -487,7 +463,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -507,43 +483,6 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الأمم المتحدة لتلفزيون سوريا: نسعى لإزالة عقبات الاستثمار والتعاون مع سوريا",
-          "excerpt": "أكد المتحدث باسم الأمين العام للأمم المتحدة، ستيفان دوجاريك، في تصريحات لـ\"تلفزيون سوريا\"، الخميس، أن الأمم المتحدة تتعهد ببذل كل جهد ممكن لإزالة العقبات التي ت",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%86%D8%B3%D8%B9%D9%89-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%B9%D9%82%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-09-25T03:13:20.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -555,7 +494,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 01:52",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 07:00",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
