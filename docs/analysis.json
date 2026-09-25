@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-25T20:43:45.532Z",
+    "generatedAt": "2026-09-25T23:36:39.233Z",
     "windowHours": 24,
-    "from": "2026-09-24T20:43:45.532Z",
-    "to": "2026-09-25T20:43:45.532Z"
+    "from": "2026-09-24T23:36:39.233Z",
+    "to": "2026-09-25T23:36:39.233Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 19,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1141
+    "archiveCycles": 1142
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,8 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,20 +33,18 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
+        "تلفزيون سوريا",
         "Al-Monitor",
         "North Press Agency (English)",
         "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "The National",
-        "Ynet News (English)"
+        "The National"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي"
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
       ],
       "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -53,8 +52,32 @@
       "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 36,
+      "score": 34,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "فصل عشرات الموظفين من شركة MTN لتسريبهم معلومات حساسة إلى \"جهات خارجية\"",
+          "excerpt": "كشف مصدر مطلع لصحيفة \"الثورة السورية\" أن شركة MTN أقدمت على فصل نحو 40 موظفاً، بعد ما قال المصدر إنه ثبوت تورطهم في تسريب معلومات تتعلق بالمشتركين",
+          "link": "https://www.syria.tv/%D9%81%D8%B5%D9%84-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86-%D9%85%D9%86-%D8%B4%D8%B1%D9%83%D8%A9-mtn-%D9%84%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D9%87%D9%85-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%AD%D8%B3%D8%A7%D8%B3%D8%A9-%D8%A5%D9%84%D9%89-%D8%AC%D9%87%D8%A7%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9",
+          "publishedAt": "2026-09-25T22:16:58.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الأغنية السياسة في سوريا (جـ 2) في غرام القائد",
+          "excerpt": "شكّل موت باسل الأسد المفاجئ عام 1994 ضربة هائلة لخطط الأسد الأب، الذي اضطر لاستدعاء ابنه بشار، المغيّب كلياً عن المشهد والجمهور معاً، من بريطانيا، لتبدأ عملية إ",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AC%D9%80-2-%D9%81%D9%8A-%D8%BA%D8%B1%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D8%AF",
+          "publishedAt": "2026-09-25T21:08:55.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -64,7 +87,7 @@
           "link": "https://www.al-monitor.com/originals/2026/09/how-syrian-air-braving-regional-turbulence-rise-ashes",
           "publishedAt": "2026-09-25T16:04:23.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -126,86 +149,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Sinwar’s note 22 days before Oct. 7 revealed: ‘Earthquake’ is coming, prepare to empty prisons",
-          "excerpt": "Former PA minister Sufian Abu Zaida says Hamas leader dictated the message to him on Sept. 14, 2023, insisting it reach Israel verbatim; he says Israeli officials questioned him urgently the next morning about what Sinwar meant by an ‘earth",
-          "link": "https://www.ynetnews.com/article/bjlsbx7qfl",
-          "publishedAt": "2026-09-24T22:22:33.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 20,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "أردوغان يجدد دعم تركيا لسيادة سوريا ويطالب بوقف الاعتداءات الإسرائيلية",
-          "excerpt": "جدد الرئيس التركي رجب طيب أردوغان دعم بلاده لسيادة سوريا ووحدتها، مؤكداً أن تعزيز مؤسسات الدولة السورية ورفع قدرتها على مكافحة الإرهاب يصبان في مصلحة المنطقة بأسرها.",
-          "link": "https://sana.sy/politics/2589920/",
-          "publishedAt": "2026-09-25T18:06:41.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد صورة جمعتهما.. رسالة الشامي إلى النجمة التركية هاديسا تثير الجدل",
-          "excerpt": "أثار المغني السوري عبد الرحمن فواز، المعروف باسم \"الشامي\"، تفاعلاً واسعاً على مواقع التواصل الاجتماعي، بعدما نشر صورة جمعته بالمغنية التركية هاديسا..",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9-%D8%AC%D9%85%D8%B9%D8%AA%D9%87%D9%85%D8%A7-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%87%D8%A7%D8%AF%D9%8A%D8%B3%D8%A7-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84",
-          "publishedAt": "2026-09-25T12:05:49.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Saudi, Turkey, Pakistan chiefs of staff plan urgent meeting",
-          "excerpt": "QAMISHLI, Syria (North Press) – The chiefs of staff of Saudi Arabia, Turkey and Pakistan are preparing for an urgent meeting to discuss ways to support Riyadh under the Makkah Joint Defense Agreement, Saudi authorities said Friday. The Saud",
-          "link": "https://npasyria.com/en/141913/",
-          "publishedAt": "2026-09-25T08:14:19.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -224,7 +167,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 17:34",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 20:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -292,6 +235,74 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 20:43",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 11,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "أردوغان يجدد دعم تركيا لسيادة سوريا ويطالب بوقف الاعتداءات الإسرائيلية",
+          "excerpt": "جدد الرئيس التركي رجب طيب أردوغان دعم بلاده لسيادة سوريا ووحدتها، مؤكداً أن تعزيز مؤسسات الدولة السورية ورفع قدرتها على مكافحة الإرهاب يصبان في مصلحة المنطقة بأسرها.",
+          "link": "https://sana.sy/politics/2589920/",
+          "publishedAt": "2026-09-25T18:06:41.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد صورة جمعتهما.. رسالة الشامي إلى النجمة التركية هاديسا تثير الجدل",
+          "excerpt": "أثار المغني السوري عبد الرحمن فواز، المعروف باسم \"الشامي\"، تفاعلاً واسعاً على مواقع التواصل الاجتماعي، بعدما نشر صورة جمعته بالمغنية التركية هاديسا..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9-%D8%AC%D9%85%D8%B9%D8%AA%D9%87%D9%85%D8%A7-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%87%D8%A7%D8%AF%D9%8A%D8%B3%D8%A7-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84",
+          "publishedAt": "2026-09-25T12:05:49.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Saudi, Turkey, Pakistan chiefs of staff plan urgent meeting",
+          "excerpt": "QAMISHLI, Syria (North Press) – The chiefs of staff of Saudi Arabia, Turkey and Pakistan are preparing for an urgent meeting to discuss ways to support Riyadh under the Makkah Joint Defense Agreement, Saudi authorities said Friday. The Saud",
+          "link": "https://npasyria.com/en/141913/",
+          "publishedAt": "2026-09-25T08:14:19.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -305,7 +316,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 17:34",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 20:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -355,7 +366,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 17:34",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-25 20:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
