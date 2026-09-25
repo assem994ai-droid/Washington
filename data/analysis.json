@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-24T23:31:59.144Z",
+    "generatedAt": "2026-09-25T01:52:03.145Z",
     "windowHours": 24,
-    "from": "2026-09-23T23:31:59.144Z",
-    "to": "2026-09-24T23:31:59.144Z"
+    "from": "2026-09-24T01:52:03.145Z",
+    "to": "2026-09-25T01:52:03.145Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 25,
     "files": 7,
-    "withNew": 1,
-    "stale": 6,
-    "contested": 1,
+    "withNew": 0,
+    "stale": 7,
+    "contested": 0,
     "echoed": 0,
-    "americanItems": 8,
-    "archiveCycles": 1136
+    "americanItems": 7,
+    "archiveCycles": 1137
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,8 +23,7 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
   "errors": [],
   "files": [
@@ -33,27 +32,29 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
         "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
-        "The National"
+        "The National",
+        "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي"
+        "الملف الإسرائيلي والتركي",
+        "الملف الإسرائيلي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 20:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 5,
+      "usItems": 4,
       "score": 37,
       "items": [
         {
@@ -141,6 +142,18 @@
           "us": true
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF probe: Paga troops never drilled for large-scale assault before 18 were killed",
+          "excerpt": "Ten-month inquiry finds Golani troops lacked training, equipment and prepared defenses for a large-scale assault; commanders were killed early and air support was often ineffective, while soldiers fought for hours until rescue forces arrive",
+          "link": "https://www.ynetnews.com/article/syap00mm9mx",
+          "publishedAt": "2026-09-24T04:42:34.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -151,18 +164,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تستعيد 36 قطعة أثرية من الولايات المتحدة بقيمة تتجاوز 5 ملايين دولار",
-          "excerpt": "تسلمت سوريا 36 قطعة أثرية تُقدّر قيمتها بأكثر من خمسة ملايين دولار، خلال مراسم أُقيمت في مدينة نيويورك.",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D8%AF-36-%D9%82%D8%B7%D8%B9%D8%A9-%D8%A3%D8%AB%D8%B1%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A8%D9%82%D9%8A%D9%85%D8%A9-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-5-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-          "publishedAt": "2026-09-23T23:46:11.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -183,13 +184,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 23:31",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 27,
+      "score": 18,
       "items": [
         {
           "source": "Al-Monitor",
@@ -203,7 +204,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -266,7 +267,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 20:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -375,7 +376,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 20:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -414,10 +415,62 @@
       ]
     },
     {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Ynet News (English)",
+        "The National"
+      ],
+      "circles": [
+        "الملف الإسرائيلي",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 23:31",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 7,
+      "items": [
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF says it killed Hamas finance chief who moved over 1 billion shekels during war",
+          "excerpt": "Muhammad Abu Alwan was targeted in a vehicle in Khan Younis; military says he funded Hamas operations for a decade and recently worked to rebuild the terror group’s capabilities in violation of the ceasefire",
+          "link": "https://www.ynetnews.com/article/h1rbb4mqfe",
+          "publishedAt": "2026-09-24T05:26:46.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iran proposes ceasefire road map, $2.45 billion pledged for Gaza, and Syria tourism doubles",
+          "excerpt": "Today on Trending Middle East, Iran has presented the US with a proposed road map to end the war. Sources told The National that it includes a region-wide ceasefire of up to 60 days, the gradual reopening of the Strait of Hormuz and an end ",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/24/iran-proposes-ceasefire-road-map-245-billion-pledged-for-gaza-and-syria-tourism-doubles/",
+          "publishedAt": "2026-09-24T05:26:08.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
+      "verification": "مصدر واحد",
+      "contested": false,
       "independentSources": 1,
       "sources": [
         "تلفزيون سوريا"
@@ -425,13 +478,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 20:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": -1,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -443,56 +496,6 @@
           "publishedAt": "2026-09-24T19:50:02.000Z",
           "files": [
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مباحثات سورية – أردنية لتعزيز التعاون في قطاعي النفط والغاز",
-          "excerpt": "بحث الرئيس التنفيذي للشركة السورية للبترول يوسف قبلاوي، أمس الأربعاء 23 أيلول، مع وفد أردني في دمشق، سبل تطوير التعاون المشترك في قطاعي النفط والغاز.",
-          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%E2%80%93-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2",
-          "publishedAt": "2026-09-24T01:31:13.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 20:40",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iran proposes ceasefire road map, $2.45 billion pledged for Gaza, and Syria tourism doubles",
-          "excerpt": "Today on Trending Middle East, Iran has presented the US with a proposed road map to end the war. Sources told The National that it includes a region-wide ceasefire of up to 60 days, the gradual reopening of the Strait of Hormuz and an end ",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/24/iran-proposes-ceasefire-road-map-245-billion-pledged-for-gaza-and-syria-tourism-doubles/",
-          "publishedAt": "2026-09-24T05:26:08.000Z",
-          "files": [
-            "congress"
           ],
           "seenBefore": true,
           "us": false
@@ -511,7 +514,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 20:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-24 23:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
