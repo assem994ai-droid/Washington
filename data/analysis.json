@@ -1,29 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-26T19:18:28.099Z",
+    "generatedAt": "2026-09-26T21:59:45.478Z",
     "windowHours": 24,
-    "from": "2026-09-25T19:18:28.099Z",
-    "to": "2026-09-26T19:18:28.099Z"
+    "from": "2026-09-25T21:59:45.478Z",
+    "to": "2026-09-26T21:59:45.478Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
+    "items": 14,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "withNew": 2,
+    "stale": 2,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1146
+    "archiveCycles": 1147
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
-    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -35,24 +33,38 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "Al Jazeera English",
         "North Press Agency (English)",
         "سانا — قسم السياسة",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام الدولي",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-26 16:28",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 3,
-      "score": 23,
+      "score": 35,
       "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+          "excerpt": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
+          "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+          "publishedAt": "2026-09-26T20:33:05.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -124,18 +136,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الأغنية السياسة في سوريا (جـ 2) في غرام القائد",
-          "excerpt": "شكّل موت باسل الأسد المفاجئ عام 1994 ضربة هائلة لخطط الأسد الأب، الذي اضطر لاستدعاء ابنه بشار، المغيّب كلياً عن المشهد والجمهور معاً، من بريطانيا، لتبدأ عملية إ",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AC%D9%80-2-%D9%81%D9%8A-%D8%BA%D8%B1%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D8%AF",
-          "publishedAt": "2026-09-25T21:08:55.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -144,12 +144,14 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "Middle East Eye",
         "تلفزيون سوريا",
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
@@ -159,8 +161,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 22,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Hamas leader says Israel to use Gaza 'blood' in election",
+          "excerpt": "<article data-history-node-id=\"448371\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-leader-says-israel-use-gaza-blood-election\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-leader-says-israel-use-gaza-blood-election",
+          "publishedAt": "2026-09-26T20:11:10.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -172,7 +188,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -232,7 +248,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-26 16:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-26 19:18",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -268,7 +284,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-26 16:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-26 19:18",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
