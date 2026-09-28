@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-28T00:36:32.860Z",
+    "generatedAt": "2026-09-28T05:48:53.408Z",
     "windowHours": 24,
-    "from": "2026-09-27T00:36:32.860Z",
-    "to": "2026-09-28T00:36:32.860Z"
+    "from": "2026-09-27T05:48:53.408Z",
+    "to": "2026-09-28T05:48:53.408Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 13,
     "files": 4,
-    "withNew": 0,
-    "stale": 4,
+    "withNew": 1,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 1154
+    "archiveCycles": 1155
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,12 +22,152 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
-    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
+      "sources": [
+        "Al Jazeera English",
+        "North Press Agency (English)",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 23,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
+          "excerpt": "Israel’s security minister Itamar Ben-Gvir has released a video in which he is seen threatening to kill Hassan Salameh.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss",
+          "publishedAt": "2026-09-28T01:33:52.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "263 Syrian displaced families return from Idlib camps",
+          "excerpt": "QAMISHLI, Syria (North Press) – A new convoy of about 263 displaced families returned on Sunday from camps in northern Idlib countryside to their towns and villages in Damascus, Damascus countryside, Hama and Aleppo governorates. Idlib’s Em",
+          "link": "https://npasyria.com/en/142007/",
+          "publishedAt": "2026-09-27T16:53:25.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran says armed forces ready for potential new U.S. attack",
+          "excerpt": "DAMASCUS, Syria (North Press) – Iranian armed forces are fully prepared for any new U.S. attacks, army spokesperson Mohammad Akraminia said on Sunday, after U.S. President Donald Trump said he had rejected an Iranian proposal to reopen the ",
+          "link": "https://npasyria.com/en/142000/",
+          "publishedAt": "2026-09-27T12:17:51.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iraq imports petrol through Syria in another US-backed step towards closer ties",
+          "excerpt": "Iraq has started importing petrol through Syria, an Oil Ministry official said on Sunday, in a significant deepening of ties with Damascus as Baghdad deals with disruption to its trade through the Strait of Hormuz, and as the US pushes for ",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/27/iraq-syria-oil/",
+          "publishedAt": "2026-09-27T11:49:14.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Turkish Minute",
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الملف التركي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 00:36",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 11,
+      "items": [
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Netanyahu orders ICC case preparation against Erdoğan over Kurds, Hamas: report",
+          "excerpt": "Israeli Prime Minister Benjamin Netanyahu has ordered officials to prepare a possible International Criminal Court (ICC) case against Turkish President Recep Tayyip Erdoğan over alleged abuses against Kurds and claims that Ankara funds Hama",
+          "link": "https://turkishminute.com/2026/09/27/netanyahu-orders-icc-case-preparation-against-erdogan-over-kurds-hamas-report/",
+          "publishedAt": "2026-09-27T19:57:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تصعيد إسرائيلي جنوبي سوريا.. مداهمات وقصف في القنيطرة وتوغّل غربي درعا",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي داهمت منازل في بلدة كودنة بريف القنيطرة الجنوبي وفتشتها..",
+          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%88%D9%82%D8%B5%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D8%BA%D9%91%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-27T19:08:14.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli artillery shells Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled on Sunday evening agricultural land between the villages of Breqa and Kodana in southern Quneitra Governorate, with no casualties reported. Five artillery shells struck the area near Ko",
+          "link": "https://npasyria.com/en/142011/",
+          "publishedAt": "2026-09-27T18:20:05.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
@@ -43,13 +183,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-27 22:03",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 00:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 12,
+      "score": 11,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -106,147 +246,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Lavrov accuses Europe of blocking Ukraine peace talks",
-          "excerpt": "QAMISHLI, Syria (North Press) – Russian Foreign Minister Sergey Lavrov on Saturday accused European countries of obstructing efforts to end the war in Ukraine, as Russian and Ukrainian strikes killed at least 16 people over the previous 24 ",
-          "link": "https://npasyria.com/en/141983/",
-          "publishedAt": "2026-09-27T06:41:23.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Turkish Minute",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الملف التركي",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-27 22:03",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 11,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Netanyahu orders ICC case preparation against Erdoğan over Kurds, Hamas: report",
-          "excerpt": "Israeli Prime Minister Benjamin Netanyahu has ordered officials to prepare a possible International Criminal Court (ICC) case against Turkish President Recep Tayyip Erdoğan over alleged abuses against Kurds and claims that Ankara funds Hama",
-          "link": "https://turkishminute.com/2026/09/27/netanyahu-orders-icc-case-preparation-against-erdogan-over-kurds-hamas-report/",
-          "publishedAt": "2026-09-27T19:57:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تصعيد إسرائيلي جنوبي سوريا.. مداهمات وقصف في القنيطرة وتوغّل غربي درعا",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي داهمت منازل في بلدة كودنة بريف القنيطرة الجنوبي وفتشتها..",
-          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%88%D9%82%D8%B5%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D8%BA%D9%91%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-27T19:08:14.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli artillery shells Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled on Sunday evening agricultural land between the villages of Breqa and Kodana in southern Quneitra Governorate, with no casualties reported. Five artillery shells struck the area near Ko",
-          "link": "https://npasyria.com/en/142011/",
-          "publishedAt": "2026-09-27T18:20:05.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "North Press Agency (English)",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-27 22:03",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 10,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "263 Syrian displaced families return from Idlib camps",
-          "excerpt": "QAMISHLI, Syria (North Press) – A new convoy of about 263 displaced families returned on Sunday from camps in northern Idlib countryside to their towns and villages in Damascus, Damascus countryside, Hama and Aleppo governorates. Idlib’s Em",
-          "link": "https://npasyria.com/en/142007/",
-          "publishedAt": "2026-09-27T16:53:25.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran says armed forces ready for potential new U.S. attack",
-          "excerpt": "DAMASCUS, Syria (North Press) – Iranian armed forces are fully prepared for any new U.S. attacks, army spokesperson Mohammad Akraminia said on Sunday, after U.S. President Donald Trump said he had rejected an Iranian proposal to reopen the ",
-          "link": "https://npasyria.com/en/142000/",
-          "publishedAt": "2026-09-27T12:17:51.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iraq imports petrol through Syria in another US-backed step towards closer ties",
-          "excerpt": "Iraq has started importing petrol through Syria, an Oil Ministry official said on Sunday, in a significant deepening of ties with Damascus as Baghdad deals with disruption to its trade through the Strait of Hormuz, and as the US pushes for ",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/27/iraq-syria-oil/",
-          "publishedAt": "2026-09-27T11:49:14.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -264,7 +263,7 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-27 22:03",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 00:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
