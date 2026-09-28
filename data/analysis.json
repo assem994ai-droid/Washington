@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-28T12:02:13.121Z",
+    "generatedAt": "2026-09-28T19:37:29.500Z",
     "windowHours": 24,
-    "from": "2026-09-27T12:02:13.121Z",
-    "to": "2026-09-28T12:02:13.121Z"
+    "from": "2026-09-27T19:37:29.500Z",
+    "to": "2026-09-28T19:37:29.500Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
-    "files": 3,
-    "withNew": 2,
-    "stale": 1,
+    "items": 12,
+    "files": 4,
+    "withNew": 4,
+    "stale": 0,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 1156
+    "americanItems": 4,
+    "archiveCycles": 1157
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
@@ -33,21 +34,58 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 3,
-      "score": 27,
+      "score": 35,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Peshmerga Ministry raises concern over U.S. withdrawal from Kurdistan",
+          "excerpt": "QAMISHLI, Syria (North Press) – The Kurdistan Region’s Ministry of Peshmerga Affairs expressed on Monday concern over the planned U.S. withdrawal from the region without the provision of air-defense systems, citing ongoing security threats.",
+          "link": "https://npasyria.com/en/142050/",
+          "publishedAt": "2026-09-28T17:52:13.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN says 1.38 million displaced Syrians leave displacement sites",
+          "excerpt": "QAMISHLI, Syria (North Press) – More than 1.38 million displaced Syrians have left camps and displacement sites across Syria since December 2024, reducing the number of people living there from 2.2 million to 773,000 by August 2026, the Uni",
+          "link": "https://npasyria.com/en/142042/",
+          "publishedAt": "2026-09-28T15:31:39.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "لماذا توقفت البراغماتية السورية عند العلاقة مع إيران؟",
+          "excerpt": "توقفت البراغماتية السورية، حتى الآن، عند إيران، حيث بقيت العلاقات بين البلدين مجمدة، رغم مرور ما يقارب عامين على سقوط النظام المخلوع.",
+          "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%88%D9%82%D9%81%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%BA%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D8%9F",
+          "publishedAt": "2026-09-28T13:54:26.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -57,7 +95,7 @@
           "link": "https://npasyria.com/en/142025/",
           "publishedAt": "2026-09-28T07:23:45.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -69,30 +107,6 @@
           "link": "https://npasyria.com/en/142018/",
           "publishedAt": "2026-09-28T06:15:01.000Z",
           "files": [],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "263 Syrian displaced families return from Idlib camps",
-          "excerpt": "QAMISHLI, Syria (North Press) – A new convoy of about 263 displaced families returned on Sunday from camps in northern Idlib countryside to their towns and villages in Damascus, Damascus countryside, Hama and Aleppo governorates. Idlib’s Em",
-          "link": "https://npasyria.com/en/142007/",
-          "publishedAt": "2026-09-27T16:53:25.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran says armed forces ready for potential new U.S. attack",
-          "excerpt": "DAMASCUS, Syria (North Press) – Iranian armed forces are fully prepared for any new U.S. attacks, army spokesperson Mohammad Akraminia said on Sunday, after U.S. President Donald Trump said he had rejected an Iranian proposal to reopen the ",
-          "link": "https://npasyria.com/en/142000/",
-          "publishedAt": "2026-09-27T12:17:51.000Z",
-          "files": [],
           "seenBefore": true,
           "us": true
         }
@@ -103,36 +117,51 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
-        "Middle East Eye",
-        "Turkish Minute",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "سانا — قسم السياسة",
+        "Turkish Minute"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الملف التركي",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الملف التركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
       "score": 24,
       "items": [
         {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli actions 'paving way for total control' over Al-Aqsa, says Hamas",
-          "excerpt": "<article data-history-node-id=\"448438\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-guard-1500-jewish-settlers-storming-al-aqsa-mosque-0\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-guard-1500-jewish-settlers-storming-al-aqsa-mosque-0",
-          "publishedAt": "2026-09-28T09:08:42.000Z",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces launch flares, shell Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out several military activities on Monday in Syria’s Quneitra governorate, including launching flares, limited artillery shelling, and a patrol incursion into a town, according to North",
+          "link": "https://npasyria.com/en/142055/",
+          "publishedAt": "2026-09-28T19:08:58.000Z",
           "files": [
             "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "وزير الخارجية الجزائري يدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
+          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الإثنين بشدة استمرار الاعتداءات الإسرائيلية على دول المنطقة، ولا سيما سوريا ولبنان، مجدداً رفض بلاده انتهاك سيادة الدول وحرمة أراضيها، وداعياً إلى خفض التصعيد واحترام قواعد القانون الدولي.",
+          "link": "https://sana.sy/politics/2592316/",
+          "publishedAt": "2026-09-28T18:28:12.000Z",
+          "files": [
+            "israel",
+            "lebanon",
+            "diplomacy"
           ],
           "seenBefore": false,
           "us": false
@@ -150,33 +179,56 @@
           ],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 20,
+      "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "تصعيد إسرائيلي جنوبي سوريا.. مداهمات وقصف في القنيطرة وتوغّل غربي درعا",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بأنّ قوات الاحتلال الإسرائيلي داهمت منازل في بلدة كودنة بريف القنيطرة الجنوبي وفتشتها..",
-          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%88%D9%82%D8%B5%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D8%BA%D9%91%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-27T19:08:14.000Z",
+          "title": "المنافذ والجمارك: بدء أعمال تأهيل وتجهيز منفذ القامشلي - نصيبين مع تركيا",
+          "excerpt": "أعلنت الهيئة العامة للمنافذ والجمارك السورية، الإثنين، عن بدء مديرية المنشآت والصيانة أعمال تأهيل وتجهيز منفذ القامشلي الحدودي مع تركيا",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%A8%D8%AF%D8%A1-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%88%D8%AA%D8%AC%D9%87%D9%8A%D8%B2-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-28T12:53:05.000Z",
           "files": [
-            "israel"
+            "turkey"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli artillery shells Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled on Sunday evening agricultural land between the villages of Breqa and Kodana in southern Quneitra Governorate, with no casualties reported. Five artillery shells struck the area near Ko",
-          "link": "https://npasyria.com/en/142011/",
-          "publishedAt": "2026-09-27T18:20:05.000Z",
+          "title": "Syria begins work on Qamishli-Nusaybin border crossing with Turkey",
+          "excerpt": "DAMASCUS, Syria (North Press) – Mazen Alloush, director of International Relations and Cooperation at the General Authority for Border Crossings and Customs, told North Press on Monday that the authority’s Facilities and Maintenance Directo",
+          "link": "https://npasyria.com/en/142038/",
+          "publishedAt": "2026-09-28T12:23:48.000Z",
           "files": [
-            "israel"
+            "turkey"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         }
       ]
@@ -184,51 +236,49 @@
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
         "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 05:48",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 3,
+      "usItems": 1,
+      "score": 16,
       "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الخارجية السورية: علاقتنا بإيران مرهونة باحترام سيادة سوريا وإرادة شعبها",
-          "excerpt": "أكد مستشار الشؤون الأفرو-آسيوية في وزارة الخارجية والمغتربين، محمد الجفال، أن موقف دمشق من السياسة الإيرانية لا يرتبط بظرف سياسي عابر..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%86%D8%A7-%D8%A8%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B1%D9%87%D9%88%D9%86%D8%A9-%D8%A8%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A5%D8%B1%D8%A7%D8%AF%D8%A9-%D8%B4%D8%B9%D8%A8%D9%87%D8%A7",
-          "publishedAt": "2026-09-27T18:08:19.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية أمريكية تهدف لتعزيز العلاقات الثنائية بين البلدين",
+          "excerpt": "التقى مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم الإثنين، وفداً من وزارة الخارجية الأمريكية برئاسة آندرو كنت، وبحث معه تعزيز العلاقات الثنائية بين سوريا والولايات المتحدة.",
+          "link": "https://sana.sy/syria-and-the-world/2592350/",
+          "publishedAt": "2026-09-28T18:58:56.000Z",
           "files": [
             "diplomacy"
           ],
-          "seenBefore": true,
-          "us": false
+          "seenBefore": false,
+          "us": true
         },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "الخارجية: موقف سوريا من إيران نتاج 14 عاماً من الحرب والقتل ولا يقبل التجاهل",
-          "excerpt": "أكد مستشار الشؤون الأفرو-آسيوية في وزارة الخارجية والمغتربين محمد الجفال أن الموقف السوري تجاه السياسة الإيرانية لم يكن موقفاً سياسياً عابراً، بل نتج عن تجربة أربعة عشر عاماً من الحرب والقتل والتهجير والدمار، ودور إيران في دعم نظام الأسد.",
-          "link": "https://sana.sy/politics/2591154/",
-          "publishedAt": "2026-09-27T16:33:20.000Z",
+          "title": "سوريا والإمارات تبحثان التحضيرات لمشاركة دمشق في مؤتمر الأمم المتحدة للمياه‏2026‏",
+          "excerpt": "التقى مدير إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية والمغتربين سعد ‌‏بارود سفير دولة الإمارات العربية المتحدة بدمشق حمد بن راشد الحبسي. ‏",
+          "link": "https://sana.sy/politics/2592158/",
+          "publishedAt": "2026-09-28T16:57:53.000Z",
           "files": [
             "diplomacy"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         }
       ]
