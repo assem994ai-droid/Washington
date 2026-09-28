@@ -1,34 +1,119 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-28T19:37:29.500Z",
+    "generatedAt": "2026-09-28T23:55:13.829Z",
     "windowHours": 24,
-    "from": "2026-09-27T19:37:29.500Z",
-    "to": "2026-09-28T19:37:29.500Z"
+    "from": "2026-09-27T23:55:13.829Z",
+    "to": "2026-09-28T23:55:13.829Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
+    "items": 14,
     "files": 4,
-    "withNew": 4,
-    "stale": 0,
+    "withNew": 2,
+    "stale": 2,
     "contested": 1,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 1157
+    "archiveCycles": 1158
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Al-Monitor",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 28,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغلات للاحتلال الإسرائيلي وتفتيش منازل ومدنيين في درعا والقنيطرة",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي في مناطق بريفَي القنيطرة ودرعا جنوبي سوريا، ونفذت عمليات تفتيش طالت مارة ومنازل مدنيين..",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%88%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-28T21:59:48.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces launch flares, shell Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out several military activities on Monday in Syria’s Quneitra governorate, including launching flares, limited artillery shelling, and a patrol incursion into a town, according to North",
+          "link": "https://npasyria.com/en/142055/",
+          "publishedAt": "2026-09-28T19:08:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria Golan detentions fuel fury at Israeli forces, doubts in new government",
+          "excerpt": "Israeli forces have detained hundreds of Syrians and continue to conduct strikes and incursions in Quneitra, fueling resentment among residents who say Damascus has failed to protect them.",
+          "link": "https://www.al-monitor.com/originals/2026/09/syria-golan-detentions-fuel-fury-israeli-forces-doubts-new-government",
+          "publishedAt": "2026-09-28T18:48:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "وزير الخارجية الجزائري يدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
+          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الإثنين بشدة استمرار الاعتداءات الإسرائيلية على دول المنطقة، ولا سيما سوريا ولبنان، مجدداً رفض بلاده انتهاك سيادة الدول وحرمة أراضيها، وداعياً إلى خفض التصعيد واحترام قواعد القانون الدولي.",
+          "link": "https://sana.sy/politics/2592316/",
+          "publishedAt": "2026-09-28T18:28:12.000Z",
+          "files": [
+            "israel",
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -42,13 +127,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 19:37",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 35,
+      "score": 18,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -59,7 +144,7 @@
           "link": "https://npasyria.com/en/142050/",
           "publishedAt": "2026-09-28T17:52:13.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -71,7 +156,7 @@
           "link": "https://npasyria.com/en/142042/",
           "publishedAt": "2026-09-28T15:31:39.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -83,7 +168,7 @@
           "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%88%D9%82%D9%81%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%BA%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D8%9F",
           "publishedAt": "2026-09-28T13:54:26.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -113,39 +198,35 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 1,
       "sources": [
-        "North Press Agency (English)",
-        "سانا — قسم السياسة",
-        "Turkish Minute"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف التركي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 24,
+      "usItems": 1,
+      "score": 13,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces launch flares, shell Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out several military activities on Monday in Syria’s Quneitra governorate, including launching flares, limited artillery shelling, and a patrol incursion into a town, according to North",
-          "link": "https://npasyria.com/en/142055/",
-          "publishedAt": "2026-09-28T19:08:58.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "بحث تطوير التعاون بين سوريا ومكتب الأمم المتحدة المعني بالمخدرات والجريمة",
+          "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الداخلية العميد عبد الرحيم جبارة مع مدير شعبة العمليات في مكتب الأمم المتحدة المعني بالمخدرات والجريمة (UNODC) بو ماثيسن سبل تعزيز التعاون بين وزارة الداخلية السورية ومكتب الأمم المتحدة المعني بالمخدرا",
+          "link": "https://sana.sy/politics/2592424/",
+          "publishedAt": "2026-09-28T20:26:47.000Z",
           "files": [
-            "israel"
+            "diplomacy"
           ],
           "seenBefore": false,
           "us": false
@@ -154,28 +235,26 @@
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "وزير الخارجية الجزائري يدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
-          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الإثنين بشدة استمرار الاعتداءات الإسرائيلية على دول المنطقة، ولا سيما سوريا ولبنان، مجدداً رفض بلاده انتهاك سيادة الدول وحرمة أراضيها، وداعياً إلى خفض التصعيد واحترام قواعد القانون الدولي.",
-          "link": "https://sana.sy/politics/2592316/",
-          "publishedAt": "2026-09-28T18:28:12.000Z",
+          "title": "مباحثات سورية أمريكية تهدف لتعزيز العلاقات الثنائية بين البلدين",
+          "excerpt": "التقى مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم الإثنين، وفداً من وزارة الخارجية الأمريكية برئاسة آندرو كنت، وبحث معه تعزيز العلاقات الثنائية بين سوريا والولايات المتحدة.",
+          "link": "https://sana.sy/syria-and-the-world/2592350/",
+          "publishedAt": "2026-09-28T18:58:56.000Z",
           "files": [
-            "israel",
-            "lebanon",
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": false
+          "seenBefore": true,
+          "us": true
         },
         {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Netanyahu orders ICC case preparation against Erdoğan over Kurds, Hamas: report",
-          "excerpt": "Israeli Prime Minister Benjamin Netanyahu has ordered officials to prepare a possible International Criminal Court (ICC) case against Turkish President Recep Tayyip Erdoğan over alleged abuses against Kurds and claims that Ankara funds Hama",
-          "link": "https://turkishminute.com/2026/09/27/netanyahu-orders-icc-case-preparation-against-erdogan-over-kurds-hamas-report/",
-          "publishedAt": "2026-09-27T19:57:52.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا والإمارات تبحثان التحضيرات لمشاركة دمشق في مؤتمر الأمم المتحدة للمياه‏2026‏",
+          "excerpt": "التقى مدير إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية والمغتربين سعد ‌‏بارود سفير دولة الإمارات العربية المتحدة بدمشق حمد بن راشد الحبسي. ‏",
+          "link": "https://sana.sy/politics/2592158/",
+          "publishedAt": "2026-09-28T16:57:53.000Z",
           "files": [
-            "israel"
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -195,13 +274,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 19:37",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 7,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -214,7 +293,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -228,57 +307,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 16,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية أمريكية تهدف لتعزيز العلاقات الثنائية بين البلدين",
-          "excerpt": "التقى مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم الإثنين، وفداً من وزارة الخارجية الأمريكية برئاسة آندرو كنت، وبحث معه تعزيز العلاقات الثنائية بين سوريا والولايات المتحدة.",
-          "link": "https://sana.sy/syria-and-the-world/2592350/",
-          "publishedAt": "2026-09-28T18:58:56.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا والإمارات تبحثان التحضيرات لمشاركة دمشق في مؤتمر الأمم المتحدة للمياه‏2026‏",
-          "excerpt": "التقى مدير إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية والمغتربين سعد ‌‏بارود سفير دولة الإمارات العربية المتحدة بدمشق حمد بن راشد الحبسي. ‏",
-          "link": "https://sana.sy/politics/2592158/",
-          "publishedAt": "2026-09-28T16:57:53.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
