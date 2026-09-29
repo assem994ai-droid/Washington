@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-28T23:55:13.829Z",
+    "generatedAt": "2026-09-29T03:47:08.784Z",
     "windowHours": 24,
-    "from": "2026-09-27T23:55:13.829Z",
-    "to": "2026-09-28T23:55:13.829Z"
+    "from": "2026-09-28T03:47:08.784Z",
+    "to": "2026-09-29T03:47:08.784Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 17,
     "files": 4,
     "withNew": 2,
     "stale": 2,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 1158
+    "americanItems": 5,
+    "archiveCycles": 1159
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,111 +30,50 @@
   "errors": [],
   "files": [
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "Al-Monitor",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 28,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغلات للاحتلال الإسرائيلي وتفتيش منازل ومدنيين في درعا والقنيطرة",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي في مناطق بريفَي القنيطرة ودرعا جنوبي سوريا، ونفذت عمليات تفتيش طالت مارة ومنازل مدنيين..",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%88%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-28T21:59:48.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces launch flares, shell Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out several military activities on Monday in Syria’s Quneitra governorate, including launching flares, limited artillery shelling, and a patrol incursion into a town, according to North",
-          "link": "https://npasyria.com/en/142055/",
-          "publishedAt": "2026-09-28T19:08:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria Golan detentions fuel fury at Israeli forces, doubts in new government",
-          "excerpt": "Israeli forces have detained hundreds of Syrians and continue to conduct strikes and incursions in Quneitra, fueling resentment among residents who say Damascus has failed to protect them.",
-          "link": "https://www.al-monitor.com/originals/2026/09/syria-golan-detentions-fuel-fury-israeli-forces-doubts-new-government",
-          "publishedAt": "2026-09-28T18:48:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "وزير الخارجية الجزائري يدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
-          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الإثنين بشدة استمرار الاعتداءات الإسرائيلية على دول المنطقة، ولا سيما سوريا ولبنان، مجدداً رفض بلاده انتهاك سيادة الدول وحرمة أراضيها، وداعياً إلى خفض التصعيد واحترام قواعد القانون الدولي.",
-          "link": "https://sana.sy/politics/2592316/",
-          "publishedAt": "2026-09-28T18:28:12.000Z",
-          "files": [
-            "israel",
-            "lebanon",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
       "independentSources": 2,
       "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 19:37",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 18,
+      "usItems": 4,
+      "score": 36,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مداهمات ليلية وتخريب منازل واحتجاز شبان.. كيف تغيّر المشهد جنوبي سوريا في أيلول",
+          "excerpt": "منذ مطلع أيلول/سبتمبر، تصاعدت وتيرة المداهمات والاقتحامات الإسرائيلية في قرى القنيطرة وريف درعا الغربي، وأخذت في عدد من الحالات طابعاً أكثر عنفاً، بحسب معطيات م",
+          "link": "https://www.syria.tv/%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%84%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%AE%D8%B1%D9%8A%D8%A8-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%88%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2-%D8%B4%D8%A8%D8%A7%D9%86-%D9%83%D9%8A%D9%81-%D8%AA%D8%BA%D9%8A%D9%91%D8%B1-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A3%D9%8A%D9%84%D9%88%D9%84",
+          "publishedAt": "2026-09-29T03:25:15.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا والولايات المتحدة تبحثان سبل تعزيز العلاقات الثنائية",
+          "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين، قتيبة قاديش، الإثنين، مع وفد من وزارة الخارجية الأميركية برئاسة آندرو كنت، سبل تعزيز العلاقات..",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%B3%D8%A8%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
+          "publishedAt": "2026-09-29T00:00:09.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -198,6 +137,157 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 17,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "إسرائيل عقبة أمام العلاقات التركية السورية",
+          "excerpt": "منذ الإطاحة بنظام بشار الأسد، حدّدت إسرائيل في استراتيجيتها السورية ثلاث ركائز أساسية: تعزيز الواقع الاحتلالي الجديد في الجنوب، وتبنّي هدف منع الدولة السورية..",
+          "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%82%D8%A8%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-09-29T03:31:58.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "المنافذ والجمارك: بدء أعمال تأهيل وتجهيز منفذ القامشلي - نصيبين مع تركيا",
+          "excerpt": "أعلنت الهيئة العامة للمنافذ والجمارك السورية، الإثنين، عن بدء مديرية المنشآت والصيانة أعمال تأهيل وتجهيز منفذ القامشلي الحدودي مع تركيا",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%A8%D8%AF%D8%A1-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%88%D8%AA%D8%AC%D9%87%D9%8A%D8%B2-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-09-28T12:53:05.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria begins work on Qamishli-Nusaybin border crossing with Turkey",
+          "excerpt": "DAMASCUS, Syria (North Press) – Mazen Alloush, director of International Relations and Cooperation at the General Authority for Border Crossings and Customs, told North Press on Monday that the authority’s Facilities and Maintenance Directo",
+          "link": "https://npasyria.com/en/142038/",
+          "publishedAt": "2026-09-28T12:23:48.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Al-Monitor",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 23:55",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 15,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغلات للاحتلال الإسرائيلي وتفتيش منازل ومدنيين في درعا والقنيطرة",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي في مناطق بريفَي القنيطرة ودرعا جنوبي سوريا، ونفذت عمليات تفتيش طالت مارة ومنازل مدنيين..",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%88%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-28T21:59:48.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces launch flares, shell Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out several military activities on Monday in Syria’s Quneitra governorate, including launching flares, limited artillery shelling, and a patrol incursion into a town, according to North",
+          "link": "https://npasyria.com/en/142055/",
+          "publishedAt": "2026-09-28T19:08:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria Golan detentions fuel fury at Israeli forces, doubts in new government",
+          "excerpt": "Israeli forces have detained hundreds of Syrians and continue to conduct strikes and incursions in Quneitra, fueling resentment among residents who say Damascus has failed to protect them.",
+          "link": "https://www.al-monitor.com/originals/2026/09/syria-golan-detentions-fuel-fury-israeli-forces-doubts-new-government",
+          "publishedAt": "2026-09-28T18:48:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "وزير الخارجية الجزائري يدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
+          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الإثنين بشدة استمرار الاعتداءات الإسرائيلية على دول المنطقة، ولا سيما سوريا ولبنان، مجدداً رفض بلاده انتهاك سيادة الدول وحرمة أراضيها، وداعياً إلى خفض التصعيد واحترام قواعد القانون الدولي.",
+          "link": "https://sana.sy/politics/2592316/",
+          "publishedAt": "2026-09-28T18:28:12.000Z",
+          "files": [
+            "israel",
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -209,13 +299,13 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 23:55",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 13,
+      "score": 4,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -228,7 +318,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -255,57 +345,6 @@
           "publishedAt": "2026-09-28T16:57:53.000Z",
           "files": [
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-28 19:37",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "المنافذ والجمارك: بدء أعمال تأهيل وتجهيز منفذ القامشلي - نصيبين مع تركيا",
-          "excerpt": "أعلنت الهيئة العامة للمنافذ والجمارك السورية، الإثنين، عن بدء مديرية المنشآت والصيانة أعمال تأهيل وتجهيز منفذ القامشلي الحدودي مع تركيا",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%A8%D8%AF%D8%A1-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%88%D8%AA%D8%AC%D9%87%D9%8A%D8%B2-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-28T12:53:05.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria begins work on Qamishli-Nusaybin border crossing with Turkey",
-          "excerpt": "DAMASCUS, Syria (North Press) – Mazen Alloush, director of International Relations and Cooperation at the General Authority for Border Crossings and Customs, told North Press on Monday that the authority’s Facilities and Maintenance Directo",
-          "link": "https://npasyria.com/en/142038/",
-          "publishedAt": "2026-09-28T12:23:48.000Z",
-          "files": [
-            "turkey"
           ],
           "seenBefore": true,
           "us": false
