@@ -1,27 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-29T10:09:35.983Z",
+    "generatedAt": "2026-09-29T16:30:14.944Z",
     "windowHours": 24,
-    "from": "2026-09-28T10:09:35.983Z",
-    "to": "2026-09-29T10:09:35.983Z"
+    "from": "2026-09-28T16:30:14.944Z",
+    "to": "2026-09-29T16:30:14.944Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
-    "files": 5,
-    "withNew": 3,
-    "stale": 2,
+    "items": 24,
+    "files": 6,
+    "withNew": 5,
+    "stale": 1,
     "contested": 1,
-    "echoed": 0,
-    "americanItems": 8,
-    "archiveCycles": 1160
+    "echoed": 1,
+    "americanItems": 10,
+    "archiveCycles": 1161
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
-    "الكونغرس والتوازن السياسي الأمريكي",
-    "مراكز الفكر",
-    "الملف الإسرائيلي والتركي",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -31,26 +29,68 @@
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 6,
       "sources": [
+        "Jerusalem Post — الشرق الأوسط",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "The Hill — الكونغرس والسياسة الأمريكية",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "الملف الإسرائيلي والتركي",
+        "مراكز الفكر",
+        "الكونغرس والتوازن السياسي الأمريكي",
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 4,
+      "newItems": 3,
       "stale": false,
-      "echoed": false,
+      "echoed": true,
       "usItems": 5,
-      "score": 48,
+      "score": 53,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "IDF keeps killing Hamas commanders, but their units were already defeated in Gaza - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3927,w_6000/739353' alt='Smoke and flames rise from a house during an Israeli strike, carried out after the IDF warned residents to",
+          "link": "https://www.jpost.com/middle-east/article-910085",
+          "publishedAt": "2026-09-29T16:02:49.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Don’t let our next UN secretary-general be a shill for China, Cuba and Hamas",
+          "excerpt": "Excerpt The race to choose the next U.N. secretary-general has yet to produce a clear frontrunner, but at least one candidate currently making headway should ring alarm bells in Washington. The most... The post Don’t let our next UN secreta",
+          "link": "https://www.fdd.org/analysis/2026/09/29/dont-let-our-next-un-secretary-general-be-a-shill-for-china-cuba-and-hamas/",
+          "publishedAt": "2026-09-29T12:34:03.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "Don&#8217;t let our next UN secretary-general be a shill for China, Cuba and Hamas",
+          "excerpt": "The U.S. has good reason to doubt the suitability of Rodrigues-Birkett, who with good reason appears likely to get China's endorsement.",
+          "link": "https://thehill.com/opinion/international/6115339-us-veto-un-secretary-general/",
+          "publishedAt": "2026-09-29T11:30:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -60,7 +100,7 @@
           "link": "https://sana.sy/syria-and-the-world/2592656/",
           "publishedAt": "2026-09-29T09:01:21.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -72,7 +112,7 @@
           "link": "https://npasyria.com/en/142089/",
           "publishedAt": "2026-09-29T07:35:01.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -84,20 +124,8 @@
           "link": "https://npasyria.com/en/142086/",
           "publishedAt": "2026-09-29T06:58:40.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Pentagon personnel database breach exposes data of 3 million people",
-          "excerpt": "QAMISHLI, Syria (North Press) – A breach of a Pentagon personnel database exposed sensitive information belonging to more than 3 million current and former military and civilian personnel, a U.S. defense official said on Tuesday. The breach",
-          "link": "https://npasyria.com/en/142058/",
-          "publishedAt": "2026-09-29T05:49:58.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": true
         },
         {
           "source": "تلفزيون سوريا",
@@ -122,30 +150,90 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
+      "sources": [
+        "The National",
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 4,
+      "score": 40,
+      "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Peshmerga Ministry raises concern over U.S. withdrawal from Kurdistan",
-          "excerpt": "QAMISHLI, Syria (North Press) – The Kurdistan Region’s Ministry of Peshmerga Affairs expressed on Monday concern over the planned U.S. withdrawal from the region without the provision of air-defense systems, citing ongoing security threats.",
-          "link": "https://npasyria.com/en/142050/",
-          "publishedAt": "2026-09-28T17:52:13.000Z",
-          "files": [],
-          "seenBefore": true,
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Japan removes 16 Syrian organisations from sanctions list",
+          "excerpt": "Japan has removed 16 Syrian organisations from its sanctions list in light of developments since former president Bashar Al Assad was removed from power in 2024. The institutions removed from the list include banks, government ministries an",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/29/japan-removes-16-syrian-organisations-from-sanctions-list/",
+          "publishedAt": "2026-09-29T13:59:13.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false,
           "us": true
         },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "لماذا توقفت البراغماتية السورية عند العلاقة مع إيران؟",
-          "excerpt": "توقفت البراغماتية السورية، حتى الآن، عند إيران، حيث بقيت العلاقات بين البلدين مجمدة، رغم مرور ما يقارب عامين على سقوط النظام المخلوع.",
-          "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%88%D9%82%D9%81%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%BA%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D8%9F",
-          "publishedAt": "2026-09-28T13:54:26.000Z",
-          "files": [],
+          "title": "الشيباني وكالاس يناقشان العقوبات والاستثمارات ومستقبل الشراكة بين دمشق وبروكسل",
+          "excerpt": "وشدد وزير الخارجية السوري على الترابط بين استقرار بلاده والأمن الأوروبي، قائلاً إن \"استقرار سوريا جزء لا يتجزأ من أمن أوروبا\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D9%83%D8%A7%D9%84%D8%A7%D8%B3-%D9%8A%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AF%D9%85%D8%B4%D9%82-%D9%88%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%84",
+          "publishedAt": "2026-09-29T11:53:09.000Z",
+          "files": [
+            "sanctions",
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بينها الداخلية والدفاع.. اليابان تلغي عقوبات مفروضة على وزارات وشركات نفط سورية",
+          "excerpt": "قررت الحكومة اليابانية رفع العقوبات المفروضة على عدد من الوزارات والشركات والمؤسسات السورية، في خطوة تشمل قطاعات النفط والمصارف والاتصالات.",
+          "link": "https://www.syria.tv/%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D9%84%D8%BA%D9%8A-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%85%D9%81%D8%B1%D9%88%D8%B6%D8%A9-%D8%B9%D9%84%D9%89-%D9%88%D8%B2%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-09-29T08:35:36.000Z",
+          "files": [
+            "sanctions"
+          ],
           "seenBefore": true,
-          "us": false
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump denies offering Iran sanctions relief as ceasefire talks resume",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Monday denied reports that Washington had offered Iran sanctions relief and access to frozen funds in exchange for concrete steps on its nuclear program, as the two sides renewe",
+          "link": "https://npasyria.com/en/142073/",
+          "publishedAt": "2026-09-29T06:44:26.000Z",
+          "files": [
+            "sanctions",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
         }
       ]
     },
@@ -154,28 +242,54 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
-        "North Press Agency (English)",
-        "Al Jazeera English",
+        "Middle East Eye",
         "تلفزيون سوريا",
-        "Al-Monitor",
+        "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام الدولي",
         "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 38,
+      "score": 30,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Hamas calls for mobilisation after Israeli settlers enter Ibrahimi Mosque",
+          "excerpt": "<article data-history-node-id=\"448505\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-calls-mobilisation-after-israeli-settlers-enter-ibrahimi-mosque\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://w",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-calls-mobilisation-after-israeli-settlers-enter-ibrahimi-mosque",
+          "publishedAt": "2026-09-29T12:24:57.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد احتجازه لأكثر من عام.. الاحتلال الإسرائيلي يفرج عن شاب اختطفه من القنيطرة",
+          "excerpt": "احتجزه لأكثر من عام.. جيش الاحتلال يفرج عن شاب اختطفه من القنيطرة",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87-%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-29T12:13:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -187,21 +301,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-          "excerpt": "Head of Hamas's armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
-          "link": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
-          "publishedAt": "2026-09-29T07:34:50.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -215,7 +315,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -226,34 +326,6 @@
           "excerpt": "توغلت قوات الاحتلال الإسرائيلي في مناطق بريفَي القنيطرة ودرعا جنوبي سوريا، ونفذت عمليات تفتيش طالت مارة ومنازل مدنيين..",
           "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%88%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
           "publishedAt": "2026-09-28T21:59:48.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces launch flares, shell Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out several military activities on Monday in Syria’s Quneitra governorate, including launching flares, limited artillery shelling, and a patrol incursion into a town, according to North",
-          "link": "https://npasyria.com/en/142055/",
-          "publishedAt": "2026-09-28T19:08:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria Golan detentions fuel fury at Israeli forces, doubts in new government",
-          "excerpt": "Israeli forces have detained hundreds of Syrians and continue to conduct strikes and incursions in Quneitra, fueling resentment among residents who say Damascus has failed to protect them.",
-          "link": "https://www.al-monitor.com/originals/2026/09/syria-golan-detentions-fuel-fury-israeli-forces-doubts-new-government",
-          "publishedAt": "2026-09-28T18:48:58.000Z",
           "files": [
             "israel"
           ],
@@ -279,77 +351,42 @@
       ]
     },
     {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 29,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بينها الداخلية والدفاع.. اليابان تلغي عقوبات مفروضة على وزارات وشركات نفط سورية",
-          "excerpt": "قررت الحكومة اليابانية رفع العقوبات المفروضة على عدد من الوزارات والشركات والمؤسسات السورية، في خطوة تشمل قطاعات النفط والمصارف والاتصالات.",
-          "link": "https://www.syria.tv/%D8%A8%D9%8A%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D9%84%D8%BA%D9%8A-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%85%D9%81%D8%B1%D9%88%D8%B6%D8%A9-%D8%B9%D9%84%D9%89-%D9%88%D8%B2%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%86%D9%81%D8%B7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-09-29T08:35:36.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump denies offering Iran sanctions relief as ceasefire talks resume",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Monday denied reports that Washington had offered Iran sanctions relief and access to frozen funds in exchange for concrete steps on its nuclear program, as the two sides renewe",
-          "link": "https://npasyria.com/en/142073/",
-          "publishedAt": "2026-09-29T06:44:26.000Z",
-          "files": [
-            "sanctions",
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "Al-Monitor",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-29 03:47",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 4,
+      "score": 16,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Lebanon seeks Turkey’s help to join Syria-Saudi rail link: What to know",
+          "excerpt": "Beirut is seeking Ankara’s support to link its ports to a railway project aiming to link Turkey to the Gulf, through Syria and Jordan.",
+          "link": "https://www.al-monitor.com/originals/2026/09/lebanon-seeks-turkeys-help-join-syria-saudi-rail-link-what-know",
+          "publishedAt": "2026-09-29T13:32:25.000Z",
+          "files": [
+            "turkey",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -364,19 +401,41 @@
           ],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "المنافذ والجمارك: بدء أعمال تأهيل وتجهيز منفذ القامشلي - نصيبين مع تركيا",
-          "excerpt": "أعلنت الهيئة العامة للمنافذ والجمارك السورية، الإثنين، عن بدء مديرية المنشآت والصيانة أعمال تأهيل وتجهيز منفذ القامشلي الحدودي مع تركيا",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%A8%D8%AF%D8%A1-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%88%D8%AA%D8%AC%D9%87%D9%8A%D8%B2-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-09-28T12:53:05.000Z",
+          "title": "Mazloum Abdi calls for official Kurdish language status in Syrian education",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian presidential adviser Mazloum Abdi said on Tuesday that education in Kurdish is a basic and natural right of the Kurdish people, calling for continued efforts to secure official recognition of the langu",
+          "link": "https://npasyria.com/en/142099/",
+          "publishedAt": "2026-09-29T13:19:15.000Z",
           "files": [
-            "turkey"
+            "sdf"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         }
       ]
@@ -393,7 +452,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-29 03:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-29 10:09",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
