@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-29T16:30:14.944Z",
+    "generatedAt": "2026-09-29T20:58:49.280Z",
     "windowHours": 24,
-    "from": "2026-09-28T16:30:14.944Z",
-    "to": "2026-09-29T16:30:14.944Z"
+    "from": "2026-09-28T20:58:49.280Z",
+    "to": "2026-09-29T20:58:49.280Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
-    "files": 6,
+    "items": 27,
+    "files": 7,
     "withNew": 5,
-    "stale": 1,
-    "contested": 1,
+    "stale": 2,
+    "contested": 0,
     "echoed": 1,
-    "americanItems": 10,
-    "archiveCycles": 1161
+    "americanItems": 9,
+    "archiveCycles": 1162
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,34 +27,202 @@
   "errors": [],
   "files": [
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 5,
+      "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Middle East Eye"
+      ],
+      "circles": [
+        "مراكز الفكر",
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 5,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 48,
+      "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Board of Peace unveils Gaza recovery plan, Israel reports 18 ceasefire violations Sept. 15–29",
+          "excerpt": "On September 23, the US-backed Board of Peace (BoP) unveiled a $2.45 billion, six-month Gaza recovery plan, but its implementation remains stalled by disagreements over Hamas’s disarmament and Israel’s... The post Board of Peace unveils Gaz",
+          "link": "https://www.fdd.org/analysis/2026/09/29/board-of-peace-unveils-gaza-recovery-plan-israel-reports-18-ceasefire-violations-sept-15-29/",
+          "publishedAt": "2026-09-29T20:20:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سلطنة عمان تستنكر احتلال إسرائيل للجولان وتدعو لاحترام السيادة السورية",
+          "excerpt": "استنكرت سلطنة عمان، اليوم الثلاثاء، استمرار الاحتلال الإسرائيلي للجولان والاعتداءات ‏الإسرائيلية المتكررة على سوريا، داعية إلى احترام سيادتها ووحدة أراضيها.‏",
+          "link": "https://sana.sy/politics/2593307/",
+          "publishedAt": "2026-09-29T20:13:32.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خلال توغله في القنيطرة.. الاحتلال يعتدي بالضرب على خمسة رعاة أغنام",
+          "excerpt": "اعتدت قوات الاحتلال الإسرائيلي بالضرب على خمسة من رعاة الأغنام، خلال توغلها في محيط بلدة الرفيد بريف القنيطرة..",
+          "link": "https://www.syria.tv/%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D8%AA%D8%AF%D9%8A-%D8%A8%D8%A7%D9%84%D8%B6%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%AE%D9%85%D8%B3%D8%A9-%D8%B1%D8%B9%D8%A7%D8%A9-%D8%A3%D8%BA%D9%86%D8%A7%D9%85",
+          "publishedAt": "2026-09-29T19:28:19.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter Syria’s Quneitra Countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces entered al-Rafid town in southern Quneitra countryside on Tuesday and questioned several shepherds during the incursion, local sources told North Press. The sources said an Israeli army patrol ",
+          "link": "https://npasyria.com/en/142113/",
+          "publishedAt": "2026-09-29T18:42:54.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Qatar criticises Israeli ‘breaches of international law’ in Palestine, Lebanon and Syria",
+          "excerpt": "<article data-history-node-id=\"448523\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/qatar-criticises-israeli-breaches-international-law-palestine-lebanon\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://w",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-criticises-israeli-breaches-international-law-palestine-lebanon",
+          "publishedAt": "2026-09-29T16:57:54.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد احتجازه لأكثر من عام.. الاحتلال الإسرائيلي يفرج عن شاب اختطفه من القنيطرة",
+          "excerpt": "احتجزه لأكثر من عام.. جيش الاحتلال يفرج عن شاب اختطفه من القنيطرة",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87-%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-29T12:13:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces raid homes in Syria&#8217;s Daraa",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Tuesday carried out a military incursion lasting several hours in the western neighborhood of Maariyah village in the Yarmouk Basin area of western Daraa countryside, southern Syria, conducting",
+          "link": "https://npasyria.com/en/142092/",
+          "publishedAt": "2026-09-29T09:55:10.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "على طريق المدرسة.. توغل إسرائيلي جديد يثير الخوف بين طلاب القنيطرة",
+          "excerpt": "توغلت دورية من جيش الاحتلال الإسرائيلي، صباح الثلاثاء، في ريف القنيطرة، تزامناً مع ذهاب الطلاب إلى مدارسهم، ما أثار حالة من الخوف بينهم.",
+          "link": "https://www.syria.tv/%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D9%88%D9%81-%D8%A8%D9%8A%D9%86-%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-29T07:22:39.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغلات للاحتلال الإسرائيلي وتفتيش منازل ومدنيين في درعا والقنيطرة",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي في مناطق بريفَي القنيطرة ودرعا جنوبي سوريا، ونفذت عمليات تفتيش طالت مارة ومنازل مدنيين..",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%88%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-28T21:59:48.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
+        "North Press Agency (English)"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر",
         "الكونغرس والتوازن السياسي الأمريكي",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 1,
       "stale": false,
       "echoed": true,
       "usItems": 5,
-      "score": 53,
+      "score": 46,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تسجيل المواليد السوريين ورسوم الولادات المتأخرة.. إجراء إداري أم عبء جماعي؟",
+          "excerpt": "لم تكن الجنسية السورية ضرورية لحياة طفلي ليلى اليومية، فطفلاها السوريان بالدم وُلدا في تركيا وحصلا على جنسيتها، بعدما تعذر تسجيلهما كسوريين..",
+          "link": "https://www.syria.tv/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D8%AE%D8%B1%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D8%A3%D9%85-%D8%B9%D8%A8%D8%A1-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%9F",
+          "publishedAt": "2026-09-29T17:15:08.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -64,7 +232,7 @@
           "link": "https://www.jpost.com/middle-east/article-910085",
           "publishedAt": "2026-09-29T16:02:49.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -76,7 +244,7 @@
           "link": "https://www.fdd.org/analysis/2026/09/29/dont-let-our-next-un-secretary-general-be-a-shill-for-china-cuba-and-hamas/",
           "publishedAt": "2026-09-29T12:34:03.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -88,7 +256,7 @@
           "link": "https://thehill.com/opinion/international/6115339-us-veto-un-secretary-general/",
           "publishedAt": "2026-09-29T11:30:00.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -156,26 +324,39 @@
     {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
       "sources": [
-        "The National",
         "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "The National"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 4,
-      "score": 40,
+      "score": 30,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد أربعة مصارف.. اليابان توسع تخفيف العقوبات ليشمل 16 جهة سورية",
+          "excerpt": "رحبت وزارة الخارجية والمغتربين السورية بقرار الحكومة اليابانية رفع تجميد الأصول وإجراءات أخرى عن 16 جهة سورية إضافية..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B9-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%84%D9%8A%D8%B4%D9%85%D9%84-16-%D8%AC%D9%87%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-09-29T18:32:44.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -187,7 +368,7 @@
           "files": [
             "sanctions"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -203,7 +384,7 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -219,40 +400,21 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump denies offering Iran sanctions relief as ceasefire talks resume",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump on Monday denied reports that Washington had offered Iran sanctions relief and access to frozen funds in exchange for concrete steps on its nuclear program, as the two sides renewe",
-          "link": "https://npasyria.com/en/142073/",
-          "publishedAt": "2026-09-29T06:44:26.000Z",
-          "files": [
-            "sanctions",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 2,
       "sources": [
-        "Middle East Eye",
-        "تلفزيون سوريا",
         "North Press Agency (English)",
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -260,128 +422,17 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 30,
+      "score": 16,
       "items": [
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Hamas calls for mobilisation after Israeli settlers enter Ibrahimi Mosque",
-          "excerpt": "<article data-history-node-id=\"448505\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-calls-mobilisation-after-israeli-settlers-enter-ibrahimi-mosque\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://w",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-calls-mobilisation-after-israeli-settlers-enter-ibrahimi-mosque",
-          "publishedAt": "2026-09-29T12:24:57.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد احتجازه لأكثر من عام.. الاحتلال الإسرائيلي يفرج عن شاب اختطفه من القنيطرة",
-          "excerpt": "احتجزه لأكثر من عام.. جيش الاحتلال يفرج عن شاب اختطفه من القنيطرة",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87-%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-29T12:13:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid homes in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Tuesday carried out a military incursion lasting several hours in the western neighborhood of Maariyah village in the Yarmouk Basin area of western Daraa countryside, southern Syria, conducting",
-          "link": "https://npasyria.com/en/142092/",
-          "publishedAt": "2026-09-29T09:55:10.000Z",
+          "title": "Syrian security forces arrest alleged Hezbollah cell in Daraa countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian security forces arrested three people accused of belonging to Hezbollah in the Yarmouk Basin in western Daraa, the Interior Security Forces said Tuesday. The General Intelligence Service arrested the t",
+          "link": "https://npasyria.com/en/142117/",
+          "publishedAt": "2026-09-29T19:16:15.000Z",
           "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "على طريق المدرسة.. توغل إسرائيلي جديد يثير الخوف بين طلاب القنيطرة",
-          "excerpt": "توغلت دورية من جيش الاحتلال الإسرائيلي، صباح الثلاثاء، في ريف القنيطرة، تزامناً مع ذهاب الطلاب إلى مدارسهم، ما أثار حالة من الخوف بينهم.",
-          "link": "https://www.syria.tv/%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D9%88%D9%81-%D8%A8%D9%8A%D9%86-%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-29T07:22:39.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغلات للاحتلال الإسرائيلي وتفتيش منازل ومدنيين في درعا والقنيطرة",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي في مناطق بريفَي القنيطرة ودرعا جنوبي سوريا، ونفذت عمليات تفتيش طالت مارة ومنازل مدنيين..",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%88%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-09-28T21:59:48.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "وزير الخارجية الجزائري يدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
-          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الإثنين بشدة استمرار الاعتداءات الإسرائيلية على دول المنطقة، ولا سيما سوريا ولبنان، مجدداً رفض بلاده انتهاك سيادة الدول وحرمة أراضيها، وداعياً إلى خفض التصعيد واحترام قواعد القانون الدولي.",
-          "link": "https://sana.sy/politics/2592316/",
-          "publishedAt": "2026-09-28T18:28:12.000Z",
-          "files": [
-            "israel",
-            "lebanon",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Al-Monitor",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Lebanon seeks Turkey’s help to join Syria-Saudi rail link: What to know",
-          "excerpt": "Beirut is seeking Ankara’s support to link its ports to a railway project aiming to link Turkey to the Gulf, through Syria and Jordan.",
-          "link": "https://www.al-monitor.com/originals/2026/09/lebanon-seeks-turkeys-help-join-syria-saudi-rail-link-what-know",
-          "publishedAt": "2026-09-29T13:32:25.000Z",
-          "files": [
-            "turkey",
             "lebanon"
           ],
           "seenBefore": false,
@@ -391,15 +442,50 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "إسرائيل عقبة أمام العلاقات التركية السورية",
-          "excerpt": "منذ الإطاحة بنظام بشار الأسد، حدّدت إسرائيل في استراتيجيتها السورية ثلاث ركائز أساسية: تعزيز الواقع الاحتلالي الجديد في الجنوب، وتبنّي هدف منع الدولة السورية..",
-          "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%82%D8%A8%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-09-29T03:31:58.000Z",
+          "title": "الداخلية السورية تعلن تفكيك خلية مرتبطة بـ\"حزب الله\" في درعا",
+          "excerpt": "أعلنت وزارة الداخلية السورية، الثلاثاء، تفكيك خلية قالت إنها مرتبطة بـ\"حزب الله\" اللبناني في منطقة حوض اليرموك بريف درعا الغربي.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8%D9%80%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-29T17:27:56.000Z",
           "files": [
-            "turkey",
-            "israel"
+            "lebanon"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Atlantic Council — المجلس الأطلسي"
+      ],
+      "circles": [
+        "مراكز الفكر"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "Atlantic Council — المجلس الأطلسي",
+          "sourceId": "atlantic-council",
+          "circle": "مراكز الفكر",
+          "title": "President Ahmed Al-Sharaa on Syria’s next chapter",
+          "excerpt": "Syrian President Ahmed Al-Sharaa joins the Atlantic Council to discuss Syria’s future and his government’s priorities for reconstruction, economic recovery, and institutional reform. This episode also explores the evolving relationship betw",
+          "link": "https://www.atlanticcouncil.org/commentary/podcast/president-ahmed-al-sharaa-on-syrias-next-chapter/",
+          "publishedAt": "2026-09-29T20:55:36.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
           "us": false
         }
       ]
@@ -416,13 +502,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-29 16:30",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -435,69 +521,42 @@
           "files": [
             "sdf"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
+      "id": "turkey",
+      "label": "الملف التركي",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-29 10:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-29 16:30",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 4,
+      "usItems": 0,
+      "score": 3,
       "items": [
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "بحث تطوير التعاون بين سوريا ومكتب الأمم المتحدة المعني بالمخدرات والجريمة",
-          "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الداخلية العميد عبد الرحيم جبارة مع مدير شعبة العمليات في مكتب الأمم المتحدة المعني بالمخدرات والجريمة (UNODC) بو ماثيسن سبل تعزيز التعاون بين وزارة الداخلية السورية ومكتب الأمم المتحدة المعني بالمخدرا",
-          "link": "https://sana.sy/politics/2592424/",
-          "publishedAt": "2026-09-28T20:26:47.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "إسرائيل عقبة أمام العلاقات التركية السورية",
+          "excerpt": "منذ الإطاحة بنظام بشار الأسد، حدّدت إسرائيل في استراتيجيتها السورية ثلاث ركائز أساسية: تعزيز الواقع الاحتلالي الجديد في الجنوب، وتبنّي هدف منع الدولة السورية..",
+          "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%82%D8%A8%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-09-29T03:31:58.000Z",
           "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية أمريكية تهدف لتعزيز العلاقات الثنائية بين البلدين",
-          "excerpt": "التقى مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم الإثنين، وفداً من وزارة الخارجية الأمريكية برئاسة آندرو كنت، وبحث معه تعزيز العلاقات الثنائية بين سوريا والولايات المتحدة.",
-          "link": "https://sana.sy/syria-and-the-world/2592350/",
-          "publishedAt": "2026-09-28T18:58:56.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا والإمارات تبحثان التحضيرات لمشاركة دمشق في مؤتمر الأمم المتحدة للمياه‏2026‏",
-          "excerpt": "التقى مدير إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية والمغتربين سعد ‌‏بارود سفير دولة الإمارات العربية المتحدة بدمشق حمد بن راشد الحبسي. ‏",
-          "link": "https://sana.sy/politics/2592158/",
-          "publishedAt": "2026-09-28T16:57:53.000Z",
-          "files": [
-            "diplomacy"
+            "turkey",
+            "israel"
           ],
           "seenBefore": true,
           "us": false
