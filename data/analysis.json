@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-30T05:38:22.799Z",
+    "generatedAt": "2026-09-30T11:20:49.162Z",
     "windowHours": 24,
-    "from": "2026-09-29T05:38:22.799Z",
-    "to": "2026-09-30T05:38:22.799Z"
+    "from": "2026-09-29T11:20:49.162Z",
+    "to": "2026-09-30T11:20:49.162Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 6,
-    "withNew": 2,
-    "stale": 4,
-    "contested": 1,
-    "echoed": 1,
-    "americanItems": 5,
-    "archiveCycles": 1164
+    "items": 31,
+    "files": 5,
+    "withNew": 4,
+    "stale": 1,
+    "contested": 3,
+    "echoed": 2,
+    "americanItems": 7,
+    "archiveCycles": 1165
   },
   "emptyCircles": [
     "الكونغرس",
@@ -24,14 +24,184 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 7,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "The National",
+        "Al-Monitor",
+        "Jerusalem Post — الشرق الأوسط",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "The Hill — الكونغرس والسياسة الأمريكية"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي",
+        "مراكز الفكر",
+        "الكونغرس والتوازن السياسي الأمريكي"
+      ],
+      "history": "تطوّر جديد — 7 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 7,
+      "stale": false,
+      "echoed": true,
+      "usItems": 4,
+      "score": 76,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مكسيم خليل بعملين سوريين في رمضان 2027.. ما حقيقة انسحابه من \"أزرق أحمر\"؟",
+          "excerpt": "يستعد الفنان السوري مكسيم خليل لخوض موسم دراما رمضان 2027 من خلال تجربتين سوريتين مختلفتين، تجمعه الأولى بالفنان السوري باسل خياط في مسلسل \"أزرق أحمر\"..",
+          "link": "https://www.syria.tv/%D9%85%D9%83%D8%B3%D9%8A%D9%85-%D8%AE%D9%84%D9%8A%D9%84-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2027-%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8%D9%87-%D9%85%D9%86-%D8%A3%D8%B2%D8%B1%D9%82-%D8%A3%D8%AD%D9%85%D8%B1%D8%9F",
+          "publishedAt": "2026-09-30T10:39:30.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria denies Germany plans to deport 700,000 Syrian refugees",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syrian official on Wednesday denied reports that Germany plans to deport 700,000 Syrian refugees, saying talks with Berlin focus on alternative residence options for Syrians who meet legal requirements. Nahla",
+          "link": "https://npasyria.com/en/142137/",
+          "publishedAt": "2026-09-30T09:52:48.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. formally ends military mission in Iraq",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States and its coalition partners formally concluded their military mission in Iraq, ending Operation Inherent Resolve after a 12-year campaign against the Islamic State (ISIS), the Pentagon announ",
+          "link": "https://npasyria.com/en/142134/",
+          "publishedAt": "2026-09-30T09:18:24.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Flydubai plane makes emergency landing in Saudi Arabia",
+          "excerpt": "QAMISHLI, Syria (North Press) – A Flydubai passenger plane traveling from Dubai to Israel made an emergency landing in Saudi Arabia on Wednesday after a confrontation between its pilots triggered an alert and briefly raised fears of a possi",
+          "link": "https://npasyria.com/en/142131/",
+          "publishedAt": "2026-09-30T08:41:16.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iraq is reclaiming its sovereignty, but the real power struggle will start after the Americans leave",
+          "excerpt": "Believing that foreign troops should leave Iraq, while questioning whether this is the right moment for them to do so and whether the country is ready for what’s next, should not be mutually exclusive.Iraq has spent years calling for an end",
+          "link": "https://www.thenationalnews.com/opinion/comment/2026/09/30/iraq-us-iran-isis-militias-security-ali-al-zaidi/",
+          "publishedAt": "2026-09-30T08:30:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE pavilion names Dalia Hamati as curator for Venice Architecture Biennale 2027",
+          "excerpt": "Dalia Hamati has been appointed curator of the UAE pavilion at the Venice Architecture Biennale 2027, with an exhibition exploring the country’s relationship with water and how it could inform building in a warming climate.The architect and",
+          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/30/uae-pavilion-names-dalia-hamati-as-curator-for-venice-architecture-biennale-2027/",
+          "publishedAt": "2026-09-30T07:00:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "US-led coalition ends mission in Iraq",
+          "excerpt": "<p>A US-led coalition deployed in Iraq more than a decade ago to fight jihadists concluded its mission on Wednesday, a move celebrated by the country's leaders, but which some fear will embolden pro-Iran armed factions.</p> <p>Coalition tro",
+          "link": "https://www.al-monitor.com/originals/2026/09/us-led-coalition-ends-mission-iraq",
+          "publishedAt": "2026-09-30T02:30:39.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Antisemitism at UK universities is increasing, security charity says",
+          "excerpt": "<p>LONDON, Sept 30 (Reuters) - Antisemitism at British universities is on the rise, with incidents up nearly 80% from before the October 2023 attacks by Hamas on Israel, a report by a charity which provides security advice to Britain's Jewi",
+          "link": "https://www.al-monitor.com/originals/2026/09/antisemitism-uk-universities-increasing-security-charity-says",
+          "publishedAt": "2026-09-29T23:46:30.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تسجيل المواليد السوريين ورسوم الولادات المتأخرة.. إجراء إداري أم عبء جماعي؟",
+          "excerpt": "لم تكن الجنسية السورية ضرورية لحياة طفلي ليلى اليومية، فطفلاها السوريان بالدم وُلدا في تركيا وحصلا على جنسيتها، بعدما تعذر تسجيلهما كسوريين..",
+          "link": "https://www.syria.tv/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D8%AE%D8%B1%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D8%A3%D9%85-%D8%B9%D8%A8%D8%A1-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%9F",
+          "publishedAt": "2026-09-29T17:15:08.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "IDF keeps killing Hamas commanders, but their units were already defeated in Gaza - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3927,w_6000/739353' alt='Smoke and flames rise from a house during an Israeli strike, carried out after the IDF warned residents to",
+          "link": "https://www.jpost.com/middle-east/article-910085",
+          "publishedAt": "2026-09-29T16:02:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Don’t let our next UN secretary-general be a shill for China, Cuba and Hamas",
+          "excerpt": "Excerpt The race to choose the next U.N. secretary-general has yet to produce a clear frontrunner, but at least one candidate currently making headway should ring alarm bells in Washington. The most... The post Don’t let our next UN secreta",
+          "link": "https://www.fdd.org/analysis/2026/09/29/dont-let-our-next-un-secretary-general-be-a-shill-for-china-cuba-and-hamas/",
+          "publishedAt": "2026-09-29T12:34:03.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "Don&#8217;t let our next UN secretary-general be a shill for China, Cuba and Hamas",
+          "excerpt": "The U.S. has good reason to doubt the suitability of Rodrigues-Birkett, who with good reason appears likely to get China's endorsement.",
+          "link": "https://thehill.com/opinion/international/6115339-us-veto-un-secretary-general/",
+          "publishedAt": "2026-09-29T11:30:00.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -39,35 +209,62 @@
       "contested": true,
       "independentSources": 5,
       "sources": [
-        "Middle East Eye",
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "مراكز الفكر",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 32,
+      "score": 43,
       "items": [
         {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel's Katz threatens to target Hamas leaders abroad",
-          "excerpt": "<article data-history-node-id=\"448546\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israels-katz-threatens-target-hamas-leaders-abroad\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.ne",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-katz-threatens-target-hamas-leaders-abroad",
-          "publishedAt": "2026-09-30T00:18:04.000Z",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces set up checkpoint in Syria&#8217;s Daraa",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Wednesday made an incursion into the western countryside of Daraa in southern Syria and set up a military checkpoint in the area. Local sources told North Press that an Israeli force comprising",
+          "link": "https://npasyria.com/en/142140/",
+          "publishedAt": "2026-09-30T10:30:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "حاجز عسكري وتحليق مكثف للمسيّرات.. توغل إسرائيلي جديد غربي درعا",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، اليوم الأربعاء، في أطراف منطقة وادي الرقاد بريف درعا الغربي، وأقامت حاجزاً عسكرياً مؤقتاً على الطريق الواصل بين قريتي جملة...",
+          "link": "https://www.syria.tv/%D8%AD%D8%A7%D8%AC%D8%B2-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%85%D9%83%D8%AB%D9%81-%D9%84%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-30T08:16:17.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian officer reveals first burial site of Israeli spy Eli Cohen",
+          "excerpt": "QAMISHLI, Syria (North Press) – A Syrian officer who took part in uncovering and arresting Israeli spy Eli Cohen revealed that Cohen was initially buried in a cave near Damascus before his remains were later moved to another location, accor",
+          "link": "https://npasyria.com/en/142122/",
+          "publishedAt": "2026-09-30T07:04:42.000Z",
           "files": [
             "israel"
           ],
@@ -117,6 +314,20 @@
           "us": false
         },
         {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خلال توغله في القنيطرة.. الاحتلال يعتدي بالضرب على خمسة رعاة أغنام",
+          "excerpt": "اعتدت قوات الاحتلال الإسرائيلي بالضرب على خمسة من رعاة الأغنام، خلال توغلها في محيط بلدة الرفيد بريف القنيطرة..",
+          "link": "https://www.syria.tv/%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D8%AA%D8%AF%D9%8A-%D8%A8%D8%A7%D9%84%D8%B6%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%AE%D9%85%D8%B3%D8%A9-%D8%B1%D8%B9%D8%A7%D8%A9-%D8%A3%D8%BA%D9%86%D8%A7%D9%85",
+          "publishedAt": "2026-09-29T19:28:19.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
@@ -131,13 +342,13 @@
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid homes in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Tuesday carried out a military incursion lasting several hours in the western neighborhood of Maariyah village in the Yarmouk Basin area of western Daraa countryside, southern Syria, conducting",
-          "link": "https://npasyria.com/en/142092/",
-          "publishedAt": "2026-09-29T09:55:10.000Z",
+          "title": "بعد احتجازه لأكثر من عام.. الاحتلال الإسرائيلي يفرج عن شاب اختطفه من القنيطرة",
+          "excerpt": "احتجزه لأكثر من عام.. جيش الاحتلال يفرج عن شاب اختطفه من القنيطرة",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2%D9%87-%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-09-29T12:13:52.000Z",
           "files": [
             "israel"
           ],
@@ -147,116 +358,68 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
-      "contested": false,
-      "independentSources": 6,
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
       "sources": [
-        "Al-Monitor",
-        "Jerusalem Post — الشرق الأوسط",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "The Hill — الكونغرس والسياسة الأمريكية",
+        "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "Atlantic Council — المجلس الأطلسي"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي",
-        "مراكز الفكر",
-        "الكونغرس والتوازن السياسي الأمريكي",
+        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 00:10",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": true,
-      "usItems": 4,
-      "score": 32,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 23,
       "items": [
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Antisemitism at UK universities is increasing, security charity says",
-          "excerpt": "<p>LONDON, Sept 30 (Reuters) - Antisemitism at British universities is on the rise, with incidents up nearly 80% from before the October 2023 attacks by Hamas on Israel, a report by a charity which provides security advice to Britain's Jewi",
-          "link": "https://www.al-monitor.com/originals/2026/09/antisemitism-uk-universities-increasing-security-charity-says",
-          "publishedAt": "2026-09-29T23:46:30.000Z",
-          "files": [],
-          "seenBefore": true,
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الخارجية السورية تنفي عزم ألمانيا ترحيل 700 ألف لاجئ وتكشف نتائج مباحثات برلين",
+          "excerpt": "نفت وزارة الخارجية والمغتربين السورية صحة ما يُتداول بشأن عزم الحكومة الألمانية ترحيل نحو 700 ألف لاجئ من أراضيها، مؤكدة أن هذه الأنباء \"لا أساس لها من الصحة\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%B9%D8%B2%D9%85-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-700-%D8%A3%D9%84%D9%81-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A8%D8%B1%D9%84%D9%8A%D9%86",
+          "publishedAt": "2026-09-30T10:38:43.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "IDF keeps killing Hamas commanders, but their units were already defeated in Gaza - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3927,w_6000/739353' alt='Smoke and flames rise from a house during an Israeli strike, carried out after the IDF warned residents to",
-          "link": "https://www.jpost.com/middle-east/article-910085",
-          "publishedAt": "2026-09-29T16:02:49.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Don’t let our next UN secretary-general be a shill for China, Cuba and Hamas",
-          "excerpt": "Excerpt The race to choose the next U.N. secretary-general has yet to produce a clear frontrunner, but at least one candidate currently making headway should ring alarm bells in Washington. The most... The post Don’t let our next UN secreta",
-          "link": "https://www.fdd.org/analysis/2026/09/29/dont-let-our-next-un-secretary-general-be-a-shill-for-china-cuba-and-hamas/",
-          "publishedAt": "2026-09-29T12:34:03.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The Hill — الكونغرس والسياسة الأمريكية",
-          "sourceId": "thehill",
-          "circle": "الكونغرس والتوازن السياسي الأمريكي",
-          "title": "Don&#8217;t let our next UN secretary-general be a shill for China, Cuba and Hamas",
-          "excerpt": "The U.S. has good reason to doubt the suitability of Rodrigues-Birkett, who with good reason appears likely to get China's endorsement.",
-          "link": "https://thehill.com/opinion/international/6115339-us-veto-un-secretary-general/",
-          "publishedAt": "2026-09-29T11:30:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "اليابان ترفع تجميد الأصول عن 16 جهة سورية بينها وزارتا الدفاع والداخلية ‏",
-          "excerpt": "أعلنت اليابان اليوم الثلاثاء رفع تدابير تجميد الأصول وغيرها من القيود عن 16 ‏جهة سورية، بينها وزارتا الدفاع والداخلية، مع إبقاء العقوبات المفروضة على 59 ‏شخصاً، بينهم رأس النظام البائد بشار الأسد، و15 كياناً مرتبطاً به.‏",
-          "link": "https://sana.sy/syria-and-the-world/2592656/",
-          "publishedAt": "2026-09-29T09:01:21.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
+          "title": "إدارة شؤون اللاجئين في الخارجية تنفي صحة الأنباء عن عزم ألمانيا ترحيل 700 ‏ألف لاجئ",
+          "excerpt": "نفت مديرة إدارة شؤون المغتربين واللاجئين في وزارة الخارجية نهلة عثمان صحة ما ‏يتم تداوله حول عزم ألمانيا ترحيل أعداد كبيرة من اللاجئين السوريين، مشيرة إلى أن ‏المباحثات جارية مع برلين لبحث إمكانية ‏تغيير أنواع الإقامات بما يتناسب مع ‏أوضاع ",
+          "link": "https://sana.sy/syria-and-the-world/2593467/",
+          "publishedAt": "2026-09-30T07:17:41.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Japan lifts asset-freezing measures on 16 Syrian entities",
-          "excerpt": "QAMISHLI, Syria (North Press) – Japan on Tuesday removed 16 Syrian entities from its list of organizations subject to asset-freezing and other sanctions imposed during the rule of former President Bashar al-Assad. The decision, announced by",
-          "link": "https://npasyria.com/en/142089/",
-          "publishedAt": "2026-09-29T07:35:01.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Anthropic warns AI could pose ‘catastrophic’ risks in IPO filing",
-          "excerpt": "QAMISHLI, Syria (North Press) – Anthropic plans to warn potential investors that increasingly advanced artificial intelligence could pose “catastrophic or existential risks to humanity” as the AI company prepares for an initial public offer",
-          "link": "https://npasyria.com/en/142086/",
-          "publishedAt": "2026-09-29T06:58:40.000Z",
-          "files": [],
+          "source": "Atlantic Council — المجلس الأطلسي",
+          "sourceId": "atlantic-council",
+          "circle": "مراكز الفكر",
+          "title": "President Ahmed Al-Sharaa on Syria’s next chapter",
+          "excerpt": "Syrian President Ahmed Al-Sharaa joins the Atlantic Council to discuss Syria’s future and his government’s priorities for reconstruction, economic recovery, and institutional reform. This episode also explores the evolving relationship betw",
+          "link": "https://www.atlanticcouncil.org/commentary/podcast/president-ahmed-al-sharaa-on-syrias-next-chapter/",
+          "publishedAt": "2026-09-29T20:55:36.000Z",
+          "files": [
+            "diplomacy"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -265,14 +428,17 @@
     {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 4,
       "sources": [
+        "The National",
         "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
@@ -280,22 +446,36 @@
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
-      "echoed": false,
+      "echoed": true,
       "usItems": 0,
-      "score": 12,
+      "score": 20,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian security forces arrest members of Hezbollah-linked cell and seize rocket launchers",
+          "excerpt": "Syrian security forces have arrested three members of a cell linked to the Lebanese armed group Hezbollah and dismantled rocket launchers in their possession in the southern Yarmouk river basin.The area near the occupied Golan Heights has b",
+          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/syria-arrests-hezbollah-linked-cell-and-seizes-rocket-launchers/",
+          "publishedAt": "2026-09-30T09:55:18.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syrian Internal Security Forces take out cell of Hezbollah terrorists planning sabotage, ISF says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/739884' alt='Military personnel stand guard near the site of explosions at an army weapons depot in the Al-Hadaba area ne",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/739884' alt='Military personnel stand guard near the site of explosions at an army weapons depot in the Al-Hadaba area n",
           "link": "https://www.jpost.com/middle-east/article-910131",
           "publishedAt": "2026-09-30T01:07:27.000Z",
           "files": [
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -311,29 +491,59 @@
           ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الداخلية السورية تعلن تفكيك خلية مرتبطة بـ\"حزب الله\" في درعا",
+          "excerpt": "أعلنت وزارة الداخلية السورية، الثلاثاء، تفكيك خلية قالت إنها مرتبطة بـ\"حزب الله\" اللبناني في منطقة حوض اليرموك بريف درعا الغربي.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8%D9%80%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-09-29T17:27:56.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
         }
       ]
     },
     {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "تلفزيون سوريا",
         "The National"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 00:10",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 05:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 6,
+      "usItems": 3,
+      "score": 17,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد أربعة مصارف.. اليابان توسع تخفيف العقوبات ليشمل 16 جهة سورية",
+          "excerpt": "رحبت وزارة الخارجية والمغتربين السورية بقرار الحكومة اليابانية رفع تجميد الأصول وإجراءات أخرى عن 16 جهة سورية إضافية..",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B9-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%84%D9%8A%D8%B4%D9%85%D9%84-16-%D8%AC%D9%87%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-09-29T18:32:44.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -347,78 +557,22 @@
           ],
           "seenBefore": true,
           "us": true
-        }
-      ]
-    },
-    {
-      "id": "sdf",
-      "label": "ملف اندماج قسد",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 00:10",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
+        },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Mazloum Abdi calls for official Kurdish language status in Syrian education",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian presidential adviser Mazloum Abdi said on Tuesday that education in Kurdish is a basic and natural right of the Kurdish people, calling for continued efforts to secure official recognition of the langu",
-          "link": "https://npasyria.com/en/142099/",
-          "publishedAt": "2026-09-29T13:19:15.000Z",
+          "title": "الشيباني وكالاس يناقشان العقوبات والاستثمارات ومستقبل الشراكة بين دمشق وبروكسل",
+          "excerpt": "وشدد وزير الخارجية السوري على الترابط بين استقرار بلاده والأمن الأوروبي، قائلاً إن \"استقرار سوريا جزء لا يتجزأ من أمن أوروبا\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D9%83%D8%A7%D9%84%D8%A7%D8%B3-%D9%8A%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AF%D9%85%D8%B4%D9%82-%D9%88%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%84",
+          "publishedAt": "2026-09-29T11:53:09.000Z",
           "files": [
-            "sdf"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Atlantic Council — المجلس الأطلسي"
-      ],
-      "circles": [
-        "مراكز الفكر"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 00:10",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Atlantic Council — المجلس الأطلسي",
-          "sourceId": "atlantic-council",
-          "circle": "مراكز الفكر",
-          "title": "President Ahmed Al-Sharaa on Syria’s next chapter",
-          "excerpt": "Syrian President Ahmed Al-Sharaa joins the Atlantic Council to discuss Syria’s future and his government’s priorities for reconstruction, economic recovery, and institutional reform. This episode also explores the evolving relationship betw",
-          "link": "https://www.atlanticcouncil.org/commentary/podcast/president-ahmed-al-sharaa-on-syrias-next-chapter/",
-          "publishedAt": "2026-09-29T20:55:36.000Z",
-          "files": [
+            "sanctions",
+            "economy",
             "diplomacy"
           ],
           "seenBefore": true,
-          "us": false
+          "us": true
         }
       ]
     }
