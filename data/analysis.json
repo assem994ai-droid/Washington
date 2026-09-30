@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-30T16:53:55.605Z",
+    "generatedAt": "2026-09-30T21:10:33.162Z",
     "windowHours": 24,
-    "from": "2026-09-29T16:53:55.605Z",
-    "to": "2026-09-30T16:53:55.605Z"
+    "from": "2026-09-29T21:10:33.162Z",
+    "to": "2026-09-30T21:10:33.162Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
-    "files": 5,
-    "withNew": 3,
+    "items": 23,
+    "files": 4,
+    "withNew": 2,
     "stale": 2,
     "contested": 4,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 1166
+    "archiveCycles": 1167
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,27 +31,89 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
+        "Middle East Eye",
         "North Press Agency (English)",
+        "Al Jazeera English",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
-        "The National",
-        "Al-Monitor"
+        "The National"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الإعلام الدولي",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 5,
       "stale": false,
       "echoed": true,
-      "usItems": 2,
-      "score": 42,
+      "usItems": 3,
+      "score": 63,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Seven people killed, four injured after bus attacked by gunfire in Syria's Homs",
+          "excerpt": "<article data-history-node-id=\"448609\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/seven-people-killed-four-injured-after-bus-attacked-gunfire-syrias-homs\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https:/",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-people-killed-four-injured-after-bus-attacked-gunfire-syrias-homs",
+          "publishedAt": "2026-09-30T20:48:15.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Gas pipeline explosion knocks three Damascus power plants offline",
+          "excerpt": "QAMISHLI, Syria (North Press) – An explosion on a gas pipeline near Tishreen power station in Damascus countryside on Wednesday disrupted operations at three power plants, government sources told North Press. The sources said the explosion ",
+          "link": "https://npasyria.com/en/142179/",
+          "publishedAt": "2026-09-30T19:48:35.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. removes Syria from blanket arms export denial list",
+          "excerpt": "QAMISHLI, Syria (North Press)&#8211; The United States has removed Syria from a list of countries subject to a blanket denial of licenses for U.S. arms exports, allowing requests for weapons sales to be reviewed on a case-by-case basis, acc",
+          "link": "https://npasyria.com/en/142170/",
+          "publishedAt": "2026-09-30T18:48:37.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Syria removed from US arms export ban list",
+          "excerpt": "US has gradually loosened restrictions placed on Syria during the Assad era to aid country's recovery from conflict.",
+          "link": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
+          "publishedAt": "2026-09-30T17:55:13.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syrian, Jordanian military chiefs discuss defense cooperation to counter border security threats",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/733477' alt='Jordan occupies a critical position between Israel, Iraq and Syria, making the kingdom an important buffer",
+          "link": "https://www.jpost.com/middle-east/article-910212",
+          "publishedAt": "2026-09-30T17:26:24.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -61,7 +123,7 @@
           "link": "https://npasyria.com/en/142160/",
           "publishedAt": "2026-09-30T14:16:48.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -69,11 +131,11 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Hamas, PIJ, Mohammed Dahlan form electoral coalition despite Hamas pledge to cede Gaza rule",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719985' alt='Terrorists from Hamas and Palestinian Islamic Jihad stand on a street during Eid al-Fitr in Gaza City, Marc",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/719985' alt='Terrorists from Hamas and Palestinian Islamic Jihad stand on a street during Eid al-Fitr in Gaza City, March",
           "link": "https://www.jpost.com/middle-east/article-910170",
           "publishedAt": "2026-09-30T12:03:06.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -147,30 +209,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "US-led coalition ends mission in Iraq",
-          "excerpt": "<p>A US-led coalition deployed in Iraq more than a decade ago to fight jihadists concluded its mission on Wednesday, a move celebrated by the country's leaders, but which many fear will embolden pro-Iran armed factions.</p> <p>Coalition tro",
-          "link": "https://www.al-monitor.com/originals/2026/09/us-led-coalition-ends-mission-iraq",
-          "publishedAt": "2026-09-30T02:30:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تسجيل المواليد السوريين ورسوم الولادات المتأخرة.. إجراء إداري أم عبء جماعي؟",
-          "excerpt": "لم تكن الجنسية السورية ضرورية لحياة طفلي ليلى اليومية، فطفلاها السوريان بالدم وُلدا في تركيا وحصلا على جنسيتها، بعدما تعذر تسجيلهما كسوريين..",
-          "link": "https://www.syria.tv/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%A3%D8%AE%D8%B1%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D8%A3%D9%85-%D8%B9%D8%A8%D8%A1-%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%9F",
-          "publishedAt": "2026-09-29T17:15:08.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -179,30 +217,41 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 6,
+      "independentSources": 4,
       "sources": [
-        "North Press Agency (English)",
-        "Al Jazeera English",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "سانا — قسم السياسة"
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام الدولي",
-        "الملف الإسرائيلي والتركي",
         "مراكز الفكر",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 41,
+      "score": 28,
       "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Syria says it thwarted Hezbollah plot; Israel likely target",
+          "excerpt": "On September 29, Syria’s Internal Security Forces (ISF) announced that the agency, in coordination with the General Intelligence Directorate, had “thwarted a sabotage plot in the Yarmouk Basin in Daraa”... The post Syria says it thwarted He",
+          "link": "https://www.fdd.org/analysis/2026/09/30/syria-says-it-thwarted-hezbollah-plot-israel-likely-target/",
+          "publishedAt": "2026-09-30T19:09:58.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -214,21 +263,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
-          "excerpt": "Netanyahu faces continued pressure over alleged warnings before the 2023 Hamas attack as October 27 elections draw near.",
-          "link": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
-          "publishedAt": "2026-09-30T11:03:01.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -272,48 +307,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Board of Peace unveils Gaza recovery plan, Israel reports 18 ceasefire violations Sept. 15–29",
-          "excerpt": "On September 23, the US-backed Board of Peace (BoP) unveiled a $2.45 billion, six-month Gaza recovery plan, but its implementation remains stalled by disagreements over Hamas’s disarmament and Israel’s... The post Board of Peace unveils Gaz",
-          "link": "https://www.fdd.org/analysis/2026/09/29/board-of-peace-unveils-gaza-recovery-plan-israel-reports-18-ceasefire-violations-sept-15-29/",
-          "publishedAt": "2026-09-29T20:20:41.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سلطنة عمان تستنكر احتلال إسرائيل للجولان وتدعو لاحترام السيادة السورية",
-          "excerpt": "استنكرت سلطنة عمان، اليوم الثلاثاء، استمرار الاحتلال الإسرائيلي للجولان والاعتداءات ‏الإسرائيلية المتكررة على سوريا، داعية إلى احترام سيادتها ووحدة أراضيها.‏",
-          "link": "https://sana.sy/politics/2593307/",
-          "publishedAt": "2026-09-29T20:13:32.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "خلال توغله في القنيطرة.. الاحتلال يعتدي بالضرب على خمسة رعاة أغنام",
-          "excerpt": "اعتدت قوات الاحتلال الإسرائيلي بالضرب على خمسة من رعاة الأغنام، خلال توغلها في محيط بلدة الرفيد بريف القنيطرة..",
-          "link": "https://www.syria.tv/%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D8%AA%D8%AF%D9%8A-%D8%A8%D8%A7%D9%84%D8%B6%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%AE%D9%85%D8%B3%D8%A9-%D8%B1%D8%B9%D8%A7%D8%A9-%D8%A3%D8%BA%D9%86%D8%A7%D9%85",
-          "publishedAt": "2026-09-29T19:28:19.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -322,25 +315,24 @@
       "label": "المسار اللبناني الموازي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "North Press Agency (English)",
         "The National",
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 16:53",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 23,
+      "score": 10,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -353,7 +345,7 @@
           "files": [
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -375,23 +367,9 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syrian Internal Security Forces take out cell of Hezbollah terrorists planning sabotage, ISF says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/739884' alt='Military personnel stand guard near the site of explosions at an army weapons depot in the Al-Hadaba area n",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739884' alt='Military personnel stand guard near the site of explosions at an army weapons depot in the Al-Hadaba area n",
           "link": "https://www.jpost.com/middle-east/article-910131",
           "publishedAt": "2026-09-30T01:07:27.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الداخلية السورية تعلن تفكيك خلية مرتبطة بـ\"حزب الله\" في درعا",
-          "excerpt": "أعلنت وزارة الداخلية السورية، الثلاثاء، تفكيك خلية قالت إنها مرتبطة بـ\"حزب الله\" اللبناني في منطقة حوض اليرموك بريف درعا الغربي.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%AE%D9%84%D9%8A%D8%A9-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8%D9%80%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-29T17:27:56.000Z",
           "files": [
             "lebanon"
           ],
@@ -405,24 +383,22 @@
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "Atlantic Council — المجلس الأطلسي"
+        "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "مراكز الفكر"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 11:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 16:53",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 10,
+      "score": 6,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -451,56 +427,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Atlantic Council — المجلس الأطلسي",
-          "sourceId": "atlantic-council",
-          "circle": "مراكز الفكر",
-          "title": "President Ahmed Al-Sharaa on Syria’s next chapter",
-          "excerpt": "Syrian President Ahmed Al-Sharaa joins the Atlantic Council to discuss Syria’s future and his government’s priorities for reconstruction, economic recovery, and institutional reform. This episode also explores the evolving relationship betw",
-          "link": "https://www.atlanticcouncil.org/commentary/podcast/president-ahmed-al-sharaa-on-syrias-next-chapter/",
-          "publishedAt": "2026-09-29T20:55:36.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 11:20",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد أربعة مصارف.. اليابان توسع تخفيف العقوبات ليشمل 16 جهة سورية",
-          "excerpt": "رحبت وزارة الخارجية والمغتربين السورية بقرار الحكومة اليابانية رفع تجميد الأصول وإجراءات أخرى عن 16 جهة سورية إضافية..",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B9-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%84%D9%8A%D8%B4%D9%85%D9%84-16-%D8%AC%D9%87%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-09-29T18:32:44.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     }
