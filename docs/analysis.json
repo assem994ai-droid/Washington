@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-01T06:29:26.691Z",
+    "generatedAt": "2026-10-01T13:47:06.470Z",
     "windowHours": 24,
-    "from": "2026-09-30T06:29:26.691Z",
-    "to": "2026-10-01T06:29:26.691Z"
+    "from": "2026-09-30T13:47:06.470Z",
+    "to": "2026-10-01T13:47:06.470Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
-    "files": 5,
-    "withNew": 3,
-    "stale": 2,
+    "items": 30,
+    "files": 7,
+    "withNew": 6,
+    "stale": 1,
     "contested": 3,
-    "echoed": 0,
+    "echoed": 2,
     "americanItems": 4,
-    "archiveCycles": 1169
+    "archiveCycles": 1170
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,37 +22,222 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
       "independentSources": 5,
       "sources": [
-        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "Middle East Eye",
         "Jerusalem Post — الشرق الأوسط",
-        "The National"
+        "North Press Agency (English)",
+        "Al-Monitor",
+        "Turkish Minute"
       ],
       "circles": [
         "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
+        "الملف التركي"
+      ],
+      "history": "تطوّر جديد — 8 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 8,
+      "stale": false,
+      "echoed": true,
+      "usItems": 0,
+      "score": 59,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "باستثمار 200 مليون دولار.. شركة تركية تؤهل معمل إسمنت المسلمية في حلب",
+          "excerpt": "وقع عقد استثماري بين الشركة العامة لصناعة وتسويق الإسمنت ومواد البناء في سوريا، الخميس، مع شركة \"تشيمكو\" التركية، برعاية وزير الاقتصاد والصناعة نضال الشعار",
+          "link": "https://www.syria.tv/%D8%A8%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-200-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%A4%D9%87%D9%84-%D9%85%D8%B9%D9%85%D9%84-%D8%A5%D8%B3%D9%85%D9%86%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%84%D8%A8",
+          "publishedAt": "2026-10-01T13:10:19.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syria, Hezbollah hold secret security talks in Turkey, reportedly to ease border tensions",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/740092' alt='Hezbollah and Syrian flags are seen fluttering in Fleita, Syria August 2, 2017. (photo credit: REUTERS/OMAR ",
+          "link": "https://www.jpost.com/middle-east/article-910304",
+          "publishedAt": "2026-10-01T12:50:52.000Z",
+          "files": [
+            "turkey",
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مجلس الأمن القومي التركي يدعو لتحرك دولي ضد إسرائيل بسبب سوريا",
+          "excerpt": "دعا مجلس الأمن القومي التركي، الأربعاء، المجتمع الدولي إلى اتخاذ خطوات ملموسة ضد الإدارة الإسرائيلية التي تحاول عرقلة تحقيق الاستقرار في المنطقة",
+          "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D9%88%D9%84%D9%8A-%D8%B6%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-01T12:19:34.000Z",
+          "files": [
+            "turkey",
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria, Hezbollah hold secret talks in Turkey – Reuters",
+          "excerpt": "QAMISHLI, Syria (North Press) – Officials of the Syrian transitional government and Lebanese Hezbollah held a secret meeting in Turkey last month in an effort to ease tensions between the longtime foes, Reuters reported on Thursday, citing ",
+          "link": "https://npasyria.com/en/142196/",
+          "publishedAt": "2026-10-01T11:12:21.000Z",
+          "files": [
+            "turkey",
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "رويترز: محادثات سرية بين مسؤولين سوريين و\"حزب الله\" في تركيا لأول مرة",
+          "excerpt": "أفادت وكالة \"رويترز\" بأن ممثلين عن الحكومة السورية و\"حزب الله\" اللبناني عقدوا محادثات مباشرة في تركيا،",
+          "link": "https://www.syria.tv/%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9",
+          "publishedAt": "2026-10-01T10:18:58.000Z",
+          "files": [
+            "turkey",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Exclusive-Syrian government officials and Hezbollah held secret talks in Turkey, sources say",
+          "excerpt": "<p>By Feras Dalatey , Laila Bassam and Timour Azhari</p><p>Oct 1 (Reuters) - Representatives of the Syrian government and Lebanese militant group Hezbollah have held face-to-face talks in Turkey to try to calm tensions between them, accordi",
+          "link": "https://www.al-monitor.com/originals/2026/10/exclusive-syrian-government-officials-and-hezbollah-held-secret-talks-turkey",
+          "publishedAt": "2026-10-01T09:46:31.000Z",
+          "files": [
+            "turkey",
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Turkey captures suspect in deadly 2013 Reyhanlı bombing",
+          "excerpt": "Turkey’s intelligence agency has captured a Syrian suspect wanted in connection with a deadly bombing in 2013 in the southern border town of Reyhanlı as he was preparing to flee to Europe by sea, state media reported Thursday, citing securi",
+          "link": "https://turkishminute.com/2026/10/01/turkey-captures-suspect-in-deadly-2013-reyhanli-bombing/",
+          "publishedAt": "2026-10-01T08:52:04.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد 13 عاماً من تفجير الريحانية.. تركيا تعتقل سورياً متهماً بالتخطيط للهجوم",
+          "excerpt": "ألقت الاستخبارات التركية القبض على السوري عمر الخطيب، أحد المتهمين الرئيسيين في قضية التفجيرات التي استهدفت قضاء الريحانية بولاية هاتاي جنوبي تركيا عام 2013",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-13-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%AD%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D9%8B-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%84%D9%84%D9%87%D8%AC%D9%88%D9%85",
+          "publishedAt": "2026-10-01T08:16:06.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "The National",
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 4,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
-      "usItems": 4,
-      "score": 60,
+      "usItems": 3,
+      "score": 43,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "UAE investigation to determine if flydubai incident was linked to 'terrorist activity'",
+          "excerpt": "The UAE's attorney general has ordered an investigation into the mid-flight altercation aboard a flydubai aircraft that forced the plane to divert to Saudi Arabia.Dr Hamad Saif Al Shamsi directed a specialist team to examine flydubai flight",
+          "link": "https://www.thenationalnews.com/news/uae/2026/10/01/flydubai-uae-investigation-terrorist-activity/",
+          "publishedAt": "2026-10-01T07:36:20.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Seven killed, four injured in bus shooting in Syria&#8217;s Homs",
+          "excerpt": "HOMS, Syria (North Press) – Seven people were killed and four others wounded after a bus came under gunfire on the Masyaf Bridge near Houla area in western Homs countryside, central Syria, a government source told North Press on Wednesday. ",
+          "link": "https://npasyria.com/en/142188/",
+          "publishedAt": "2026-10-01T06:46:40.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Gunmen kill seven civilians and wound at least four in Syria minibus attack",
+          "excerpt": "Gunmen killed at least seven people in an attack on a minibus carrying factory workers near Alawite villages in central Syria, members of the minority community said on Thursday. The vehicle was attacked late on Wednesday as it crossed the ",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/01/gunmen-kill-seven-civilians-and-wound-at-least-four-in-syria-bus-attack/",
+          "publishedAt": "2026-10-01T06:45:21.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -62,7 +247,7 @@
           "link": "https://npasyria.com/en/142182/",
           "publishedAt": "2026-10-01T05:50:45.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -74,7 +259,7 @@
           "link": "https://www.syria.tv/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D8%AA%D9%89-%D8%AA%D8%B5%D8%A8%D8%AD-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%85%D8%A4%D8%AB%D8%B1%D8%A9-%D9%81%D8%B9%D9%84%D8%A7%D9%8B%D8%9F",
           "publishedAt": "2026-10-01T04:26:27.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -86,7 +271,7 @@
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%85%D9%84%D8%A9-%D9%84%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B9%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-10-01T04:26:23.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -98,20 +283,8 @@
           "link": "https://www.syria.tv/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%87%D9%84-%D8%AA%D8%AA%D8%B3%D8%B9-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%B5%D8%AD%D9%81%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
           "publishedAt": "2026-10-01T04:14:44.000Z",
           "files": [],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Seven people killed, four injured after bus attacked by gunfire in Syria's Homs",
-          "excerpt": "<article data-history-node-id=\"448609\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/seven-people-killed-four-injured-after-bus-attacked-gunfire-syrias-homs\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https:/",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-people-killed-four-injured-after-bus-attacked-gunfire-syrias-homs",
-          "publishedAt": "2026-09-30T20:48:15.000Z",
-          "files": [],
           "seenBefore": true,
-          "us": false
+          "us": true
         },
         {
           "source": "North Press Agency (English)",
@@ -148,114 +321,40 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria anti-narcotics forces foil smuggling of 225,000 Captagon pills",
-          "excerpt": "QAMISHLi, Syria (North Press) – Syrian anti-narcotics forces in Damascus countryside, working with border guards, foiled an attempt to smuggle 225,000 Captagon pills from Lebanon, authorities said Wednesday. The General Directorate for Drug",
-          "link": "https://npasyria.com/en/142160/",
-          "publishedAt": "2026-09-30T14:16:48.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Hamas, PIJ, Mohammed Dahlan form electoral coalition despite Hamas pledge to cede Gaza rule",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/719985' alt='Terrorists from Hamas and Palestinian Islamic Jihad stand on a street during Eid al-Fitr in Gaza City, Mar",
-          "link": "https://www.jpost.com/middle-east/article-910170",
-          "publishedAt": "2026-09-30T12:03:06.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مكسيم خليل بعملين سوريين في رمضان 2027.. ما حقيقة انسحابه من \"أزرق أحمر\"؟",
-          "excerpt": "يستعد الفنان السوري مكسيم خليل لخوض موسم دراما رمضان 2027 من خلال تجربتين سوريتين مختلفتين، تجمعه الأولى بالفنان السوري باسل خياط في مسلسل \"أزرق أحمر\"..",
-          "link": "https://www.syria.tv/%D9%85%D9%83%D8%B3%D9%8A%D9%85-%D8%AE%D9%84%D9%8A%D9%84-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2027-%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8%D9%87-%D9%85%D9%86-%D8%A3%D8%B2%D8%B1%D9%82-%D8%A3%D8%AD%D9%85%D8%B1%D8%9F",
-          "publishedAt": "2026-09-30T10:39:30.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria denies Germany plans to deport 700,000 Syrian refugees",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syrian official on Wednesday denied reports that Germany plans to deport 700,000 Syrian refugees, saying talks with Berlin focus on alternative residence options for Syrians who meet legal requirements. Nahla",
-          "link": "https://npasyria.com/en/142137/",
-          "publishedAt": "2026-09-30T09:52:48.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iraq is reclaiming its sovereignty, but the real power struggle will start after the Americans leave",
-          "excerpt": "Believing that foreign troops should leave Iraq, while questioning whether this is the right moment for them to do so and whether the country is ready for what’s next, should not be mutually exclusive.Iraq has spent years calling for an end",
-          "link": "https://www.thenationalnews.com/opinion/comment/2026/09/30/iraq-us-iran-isis-militias-security-ali-al-zaidi/",
-          "publishedAt": "2026-09-30T08:30:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE pavilion names Dalia Hamati as curator for Venice Architecture Biennale 2027",
-          "excerpt": "Dalia Hamati has been appointed curator of the UAE pavilion at the Venice Architecture Biennale 2027, with an exhibition exploring the country’s relationship with water and how it could inform building in a warming climate.The architect and",
-          "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/30/uae-pavilion-names-dalia-hamati-as-curator-for-venice-architecture-biennale-2027/",
-          "publishedAt": "2026-09-30T07:00:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
       "sources": [
-        "Middle East Eye",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "تلفزيون سوريا",
         "North Press Agency (English)",
-        "تلفزيون سوريا"
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "مراكز الفكر",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 4,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 38,
       "items": [
         {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel attacks area in Syria's southern Quneitra province",
-          "excerpt": "<article data-history-node-id=\"448623\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-attacks-area-syrias-southern-quneitra-province\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-attacks-area-syrias-southern-quneitra-province",
-          "publishedAt": "2026-10-01T04:37:06.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"جولاننا بيستاهل\" محافظة القنيطرة تطلق حملة لتنفيذ مشاريع خدمية وتنموية",
+          "excerpt": "أطلقت محافظة القنيطرة، اليوم الخميس، حملة \"جولاننا بيستاهل\"، بهدف تنفيذ مجموعة من المشاريع الخدمية والتنموية، وتحسين واقع الطرق والخدمات في المحافظة.",
+          "link": "https://www.syria.tv/%D8%AC%D9%88%D9%84%D8%A7%D9%86%D9%86%D8%A7-%D8%A8%D9%8A%D8%B3%D8%AA%D8%A7%D9%87%D9%84-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AD%D9%85%D9%84%D8%A9-%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%AE%D8%AF%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D9%86%D9%85%D9%88%D9%8A%D8%A9",
+          "publishedAt": "2026-10-01T12:07:17.000Z",
           "files": [
             "israel"
           ],
@@ -263,17 +362,45 @@
           "us": false
         },
         {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel ‘not interested’ in Hamas proposal to release hostages, Qatari prime minister says",
-          "excerpt": "<article data-history-node-id=\"448616\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-not-interested-hamas-proposal-release-hostages-ceasefire-qatari\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-not-interested-hamas-proposal-release-hostages-ceasefire-qatari",
-          "publishedAt": "2026-09-30T23:28:47.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تداعيات انفجار خط الغاز.. تقنين في القنيطرة وعودة الكهرباء إلى درعا والسويداء",
+          "excerpt": "أدى انفجار خط الغاز المغذي لمحطة تشرين الحرارية بريف دمشق، إلى خروج ثلاث محطات توليد عن الخدمة إثر توقف إمدادات الوقود",
+          "link": "https://www.syria.tv/%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B7-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
+          "publishedAt": "2026-10-01T08:48:58.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces enter Syria&#8217;s Daraa with 12 vehicles, two tanks",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Thursday made an incursion into western Daraa countryside, southern Syria, with a convoy of 12 vehicles and two tanks, as students were heading to school, causing fear and concern among childre",
+          "link": "https://npasyria.com/en/142194/",
+          "publishedAt": "2026-10-01T08:40:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Pilot stabs captain on FlyDubai flight to Israel, passengers intervene",
+          "excerpt": "QAMISHLI, Syria (North Press) – A FlyDubai copilot stabbed the captain and apparently attempted to crash a plane carrying 174 people from Dubai to Tel Aviv on Wednesday, before passengers and crew intervened and helped bring the aircraft un",
+          "link": "https://npasyria.com/en/142191/",
+          "publishedAt": "2026-10-01T07:25:30.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
           "us": false
         },
         {
@@ -304,31 +431,144 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 18,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الولايات المتحدة ترفع الحظر الشامل على صادرات الأسلحة إلى سوريا",
+          "excerpt": "دخل قرار الولايات المتحدة رفع سوريا من قائمة الدول الخاضعة للحظر الشامل على صادرات الأسلحة والمعدات والخدمات الدفاعية الأميركية حيز التنفيذ، اليوم الخميس",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-01T07:00:04.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "مراكز الفكر",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 15,
+      "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Hezbollah’s Shadow Economy in Post-Assad Syria",
+          "excerpt": "The post Hezbollah’s Shadow Economy in Post-Assad Syria appeared first on FDD.",
+          "link": "https://www.fdd.org/analysis/2026/10/01/hezbollahs-shadow-economy-in-post-assad-syria/",
+          "publishedAt": "2026-10-01T10:00:00.000Z",
+          "files": [
+            "lebanon",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces set up checkpoint in Syria&#8217;s Daraa",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Wednesday made an incursion into the western countryside of Daraa in southern Syria and set up a military checkpoint in the area. Local sources told North Press that an Israeli force comprising",
-          "link": "https://npasyria.com/en/142140/",
-          "publishedAt": "2026-09-30T10:30:41.000Z",
+          "title": "Hezbollah denies link to cell detained in Syria’s Daraa",
+          "excerpt": "QAMISHLI, Syria (North Press) – Hezbollah denied on Wednesday any connection to a three-member cell Syrian authorities said they detained in Daraa governorate, rejecting claims that the group was affiliated with it. In a statement, Hezbolla",
+          "link": "https://npasyria.com/en/142163/",
+          "publishedAt": "2026-09-30T15:15:51.000Z",
           "files": [
-            "israel"
+            "lebanon"
           ],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": true,
+      "usItems": 0,
+      "score": 12,
+      "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "حاجز عسكري وتحليق مكثف للمسيّرات.. توغل إسرائيلي جديد غربي درعا",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، اليوم الأربعاء، في أطراف منطقة وادي الرقاد بريف درعا الغربي، وأقامت حاجزاً عسكرياً مؤقتاً على الطريق الواصل بين قريتي جملة...",
-          "link": "https://www.syria.tv/%D8%AD%D8%A7%D8%AC%D8%B2-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%85%D9%83%D8%AB%D9%81-%D9%84%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-09-30T08:16:17.000Z",
+          "title": "الرئيس الشرع يتلقى دعوة إماراتية رسمية للمشاركة في مؤتمر الأمم المتحدة للمياه",
+          "excerpt": "تلقى الرئيس أحمد الشرع دعوة رسمية من الشيخ محمد بن زايد للمشاركة في مؤتمر الأمم المتحدة للمياه 2026، المقرر عقده في أبوظبي من 8 إلى 10 ديسمبر المقبل.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%AF%D8%B9%D9%88%D8%A9-%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D9%8A%D8%A7%D9%87",
+          "publishedAt": "2026-10-01T06:29:58.000Z",
           "files": [
-            "israel"
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الرئيس الشرع يتلقى دعوة رسمية من رئيس الإمارات لحضور مؤتمر الأمم المتحدة للمياه ‏",
+          "excerpt": "تلقى الرئيس أحمد الشرع اليوم الأربعاء دعوة رسمية من الشيخ محمد بن زايد آل نهيان رئيس ‏دولة الإمارات العربية المتحدة لحضور مؤتمر الأمم المتحدة للمياه 2026 المزمع عقده في ‏العاصمة الإماراتية أبو ظبي خلال الفترة من 8 إلى 10 كانون الأول القادم.",
+          "link": "https://sana.sy/presidency/2594389/",
+          "publishedAt": "2026-09-30T21:49:16.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -347,13 +587,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 06:29",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": -1,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -365,124 +605,6 @@
           "publishedAt": "2026-10-01T04:26:32.000Z",
           "files": [
             "economy"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 00:35",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الرئيس الشرع يتلقى دعوة رسمية من رئيس الإمارات لحضور مؤتمر الأمم المتحدة للمياه ‏",
-          "excerpt": "تلقى الرئيس أحمد الشرع اليوم الأربعاء دعوة رسمية من الشيخ محمد بن زايد آل نهيان رئيس ‏دولة الإمارات العربية المتحدة لحضور مؤتمر الأمم المتحدة للمياه 2026 المزمع عقده في ‏العاصمة الإماراتية أبو ظبي خلال الفترة من 8 إلى 10 كانون الأول القادم.",
-          "link": "https://sana.sy/presidency/2594389/",
-          "publishedAt": "2026-09-30T21:49:16.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الخارجية السورية تنفي عزم ألمانيا ترحيل 700 ألف لاجئ وتكشف نتائج مباحثات برلين",
-          "excerpt": "نفت وزارة الخارجية والمغتربين السورية صحة ما يُتداول بشأن عزم الحكومة الألمانية ترحيل نحو 700 ألف لاجئ من أراضيها، مؤكدة أن هذه الأنباء \"لا أساس لها من الصحة\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%B9%D8%B2%D9%85-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-700-%D8%A3%D9%84%D9%81-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A8%D8%B1%D9%84%D9%8A%D9%86",
-          "publishedAt": "2026-09-30T10:38:43.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "إدارة شؤون اللاجئين في الخارجية تنفي صحة الأنباء عن عزم ألمانيا ترحيل 700 ‏ألف لاجئ",
-          "excerpt": "نفت مديرة إدارة شؤون المغتربين واللاجئين في وزارة الخارجية نهلة عثمان صحة ما ‏يتم تداوله حول عزم ألمانيا ترحيل أعداد كبيرة من اللاجئين السوريين، مشيرة إلى أن ‏المباحثات جارية مع برلين لبحث إمكانية ‏تغيير أنواع الإقامات بما يتناسب مع ‏أوضاع ",
-          "link": "https://sana.sy/syria-and-the-world/2593467/",
-          "publishedAt": "2026-09-30T07:17:41.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "North Press Agency (English)",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 00:35",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 6,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Hezbollah denies link to cell detained in Syria’s Daraa",
-          "excerpt": "QAMISHLI, Syria (North Press) – Hezbollah denied on Wednesday any connection to a three-member cell Syrian authorities said they detained in Daraa governorate, rejecting claims that the group was affiliated with it. In a statement, Hezbolla",
-          "link": "https://npasyria.com/en/142163/",
-          "publishedAt": "2026-09-30T15:15:51.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian security forces arrest members of Hezbollah-linked cell and seize rocket launchers",
-          "excerpt": "Syrian security forces have arrested three members of a cell linked to the Lebanese armed group Hezbollah and dismantled rocket launchers in their possession in the southern Yarmouk river basin, the authorities have said.The area near the o",
-          "link": "https://www.thenationalnews.com/news/mena/2026/09/30/syria-arrests-hezbollah-linked-cell-and-seizes-rocket-launchers/",
-          "publishedAt": "2026-09-30T09:55:18.000Z",
-          "files": [
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
