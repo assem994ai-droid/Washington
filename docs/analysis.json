@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-09-30T21:10:33.162Z",
+    "generatedAt": "2026-10-01T00:35:16.223Z",
     "windowHours": 24,
-    "from": "2026-09-29T21:10:33.162Z",
-    "to": "2026-09-30T21:10:33.162Z"
+    "from": "2026-09-30T00:35:16.223Z",
+    "to": "2026-10-01T00:35:16.223Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 24,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
-    "contested": 4,
-    "echoed": 1,
+    "withNew": 3,
+    "stale": 1,
+    "contested": 3,
+    "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1167
+    "archiveCycles": 1168
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,27 +33,39 @@
       "contested": true,
       "independentSources": 6,
       "sources": [
+        "Al Jazeera English",
         "Middle East Eye",
         "North Press Agency (English)",
-        "Al Jazeera English",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "The National"
       ],
       "circles": [
+        "الإعلام الدولي",
         "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الإعلام الدولي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 5,
+      "newItems": 1,
       "stale": false,
-      "echoed": true,
+      "echoed": false,
       "usItems": 3,
-      "score": 63,
+      "score": 47,
       "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
+          "excerpt": "Gunmen attack bus in Homs province hours after a pipeline explosion knocked out three power plants near Damascus.",
+          "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+          "publishedAt": "2026-09-30T21:01:13.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -63,7 +75,7 @@
           "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-people-killed-four-injured-after-bus-attacked-gunfire-syrias-homs",
           "publishedAt": "2026-09-30T20:48:15.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -75,7 +87,7 @@
           "link": "https://npasyria.com/en/142179/",
           "publishedAt": "2026-09-30T19:48:35.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -87,20 +99,8 @@
           "link": "https://npasyria.com/en/142170/",
           "publishedAt": "2026-09-30T18:48:37.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Syria removed from US arms export ban list",
-          "excerpt": "US has gradually loosened restrictions placed on Syria during the Assad era to aid country's recovery from conflict.",
-          "link": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
-          "publishedAt": "2026-09-30T17:55:13.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
         },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -111,7 +111,7 @@
           "link": "https://www.jpost.com/middle-east/article-910212",
           "publishedAt": "2026-09-30T17:26:24.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -215,19 +215,19 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
       "independentSources": 4,
       "sources": [
+        "Middle East Eye",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
+        "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "مراكز الفكر",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -235,8 +235,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 28,
+      "score": 25,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel ‘not interested’ in Hamas proposal to release hostages, Qatari prime minister says",
+          "excerpt": "<article data-history-node-id=\"448616\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-not-interested-hamas-proposal-release-hostages-ceasefire-qatari\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-not-interested-hamas-proposal-release-hostages-ceasefire-qatari",
+          "publishedAt": "2026-09-30T23:28:47.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
           "sourceId": "fdd",
@@ -249,7 +263,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -293,17 +307,69 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 16,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الرئيس الشرع يتلقى دعوة رسمية من رئيس الإمارات لحضور مؤتمر الأمم المتحدة للمياه ‏",
+          "excerpt": "تلقى الرئيس أحمد الشرع اليوم الأربعاء دعوة رسمية من الشيخ محمد بن زايد آل نهيان رئيس ‏دولة الإمارات العربية المتحدة لحضور مؤتمر الأمم المتحدة للمياه 2026 المزمع عقده في ‏العاصمة الإماراتية أبو ظبي خلال الفترة من 8 إلى 10 كانون الأول القادم.",
+          "link": "https://sana.sy/presidency/2594389/",
+          "publishedAt": "2026-09-30T21:49:16.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Qatari PM: Netanyahu 'war criminal,' rejects claims that Doha funded Hamas military operations",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3333,w_5000/726692' alt='Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani speaks pri",
-          "link": "https://www.jpost.com/middle-east/article-910116",
-          "publishedAt": "2026-09-29T21:33:09.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الخارجية السورية تنفي عزم ألمانيا ترحيل 700 ألف لاجئ وتكشف نتائج مباحثات برلين",
+          "excerpt": "نفت وزارة الخارجية والمغتربين السورية صحة ما يُتداول بشأن عزم الحكومة الألمانية ترحيل نحو 700 ألف لاجئ من أراضيها، مؤكدة أن هذه الأنباء \"لا أساس لها من الصحة\".",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%B9%D8%B2%D9%85-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-700-%D8%A3%D9%84%D9%81-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A8%D8%B1%D9%84%D9%8A%D9%86",
+          "publishedAt": "2026-09-30T10:38:43.000Z",
           "files": [
-            "israel"
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "إدارة شؤون اللاجئين في الخارجية تنفي صحة الأنباء عن عزم ألمانيا ترحيل 700 ‏ألف لاجئ",
+          "excerpt": "نفت مديرة إدارة شؤون المغتربين واللاجئين في وزارة الخارجية نهلة عثمان صحة ما ‏يتم تداوله حول عزم ألمانيا ترحيل أعداد كبيرة من اللاجئين السوريين، مشيرة إلى أن ‏المباحثات جارية مع برلين لبحث إمكانية ‏تغيير أنواع الإقامات بما يتناسب مع ‏أوضاع ",
+          "link": "https://sana.sy/syria-and-the-world/2593467/",
+          "publishedAt": "2026-09-30T07:17:41.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -326,7 +392,7 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 16:53",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 21:10",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -367,63 +433,11 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Syrian Internal Security Forces take out cell of Hezbollah terrorists planning sabotage, ISF says",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739884' alt='Military personnel stand guard near the site of explosions at an army weapons depot in the Al-Hadaba area n",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/739884' alt='Military personnel stand guard near the site of explosions at an army weapons depot in the Al-Hadaba area n",
           "link": "https://www.jpost.com/middle-east/article-910131",
           "publishedAt": "2026-09-30T01:07:27.000Z",
           "files": [
             "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-09-30 16:53",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الخارجية السورية تنفي عزم ألمانيا ترحيل 700 ألف لاجئ وتكشف نتائج مباحثات برلين",
-          "excerpt": "نفت وزارة الخارجية والمغتربين السورية صحة ما يُتداول بشأن عزم الحكومة الألمانية ترحيل نحو 700 ألف لاجئ من أراضيها، مؤكدة أن هذه الأنباء \"لا أساس لها من الصحة\".",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D8%B9%D8%B2%D9%85-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-700-%D8%A3%D9%84%D9%81-%D9%84%D8%A7%D8%AC%D8%A6-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A8%D8%B1%D9%84%D9%8A%D9%86",
-          "publishedAt": "2026-09-30T10:38:43.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "إدارة شؤون اللاجئين في الخارجية تنفي صحة الأنباء عن عزم ألمانيا ترحيل 700 ‏ألف لاجئ",
-          "excerpt": "نفت مديرة إدارة شؤون المغتربين واللاجئين في وزارة الخارجية نهلة عثمان صحة ما ‏يتم تداوله حول عزم ألمانيا ترحيل أعداد كبيرة من اللاجئين السوريين، مشيرة إلى أن ‏المباحثات جارية مع برلين لبحث إمكانية ‏تغيير أنواع الإقامات بما يتناسب مع ‏أوضاع ",
-          "link": "https://sana.sy/syria-and-the-world/2593467/",
-          "publishedAt": "2026-09-30T07:17:41.000Z",
-          "files": [
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
