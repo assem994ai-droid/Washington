@@ -1,26 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-01T19:04:00.587Z",
+    "generatedAt": "2026-10-01T23:07:26.423Z",
     "windowHours": 24,
-    "from": "2026-09-30T19:04:00.587Z",
-    "to": "2026-10-01T19:04:00.587Z"
+    "from": "2026-09-30T23:07:26.423Z",
+    "to": "2026-10-01T23:07:26.423Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 37,
     "files": 7,
-    "withNew": 5,
-    "stale": 2,
-    "contested": 4,
-    "echoed": 2,
-    "americanItems": 3,
-    "archiveCycles": 1171
+    "withNew": 3,
+    "stale": 4,
+    "contested": 5,
+    "echoed": 1,
+    "americanItems": 4,
+    "archiveCycles": 1172
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
@@ -45,13 +44,13 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 19:04",
       "isFollowUp": true,
-      "newItems": 6,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 0,
-      "score": 58,
+      "score": 29,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -65,7 +64,7 @@
             "turkey",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -80,7 +79,7 @@
             "turkey",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -95,7 +94,7 @@
             "turkey",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -111,7 +110,7 @@
             "lebanon",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -127,7 +126,7 @@
             "lebanon",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -142,7 +141,7 @@
             "turkey",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -257,13 +256,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 19:04",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 42,
+      "score": 28,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -274,7 +273,7 @@
           "link": "https://sana.sy/politics/2595090/",
           "publishedAt": "2026-10-01T18:16:54.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -286,7 +285,7 @@
           "link": "https://www.middleeasteye.net/news/syria-hit-gas-explosion-deadly-bus-attack-and-israeli-shelling",
           "publishedAt": "2026-10-01T14:31:02.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -372,16 +371,74 @@
           "files": [],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
+      "sources": [
+        "Al Jazeera English",
+        "تلفزيون سوريا",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الإعلام السوري المستقل",
+        "مراكز الفكر"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 19,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
+          "excerpt": "Six sources from Syria, the US and Lebanon told Reuters news agency the reported meeting aimed to calm tensions.",
+          "link": "https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss",
+          "publishedAt": "2026-10-01T20:02:42.000Z",
+          "files": [
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Gas pipeline explosion knocks three Damascus power plants offline",
-          "excerpt": "QAMISHLI, Syria (North Press) – An explosion on a gas pipeline near Tishreen power station in Damascus countryside on Wednesday disrupted operations at three power plants, government sources told North Press. The sources said the explosion ",
-          "link": "https://npasyria.com/en/142179/",
-          "publishedAt": "2026-09-30T19:48:35.000Z",
-          "files": [],
+          "title": "لماذا تتمسك طهران بورقة \"حزب الله \" في سوريا؟",
+          "excerpt": "لم تخسر إيران في سوريا حليفاً سياسياً فقط؛ خسرت البيئة والمساحة التي كانت توفر لها العمل من داخل الدولة السورية وعبرها.",
+          "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AA%D9%85%D8%B3%D9%83-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D9%82%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-10-01T15:21:10.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Hezbollah’s Shadow Economy in Post-Assad Syria",
+          "excerpt": "The post Hezbollah’s Shadow Economy in Post-Assad Syria appeared first on FDD.",
+          "link": "https://www.fdd.org/analysis/2026/10/01/hezbollahs-shadow-economy-in-post-assad-syria/",
+          "publishedAt": "2026-10-01T10:00:00.000Z",
+          "files": [
+            "lebanon",
+            "economy"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -402,13 +459,13 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 19:04",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 36,
+      "score": 18,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -421,7 +478,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -435,7 +492,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -449,7 +506,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -507,87 +564,21 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Syria says it thwarted Hezbollah plot; Israel likely target",
-          "excerpt": "On September 29, Syria’s Internal Security Forces (ISF) announced that the agency, in coordination with the General Intelligence Directorate, had “thwarted a sabotage plot in the Yarmouk Basin in Daraa”... The post Syria says it thwarted He",
-          "link": "https://www.fdd.org/analysis/2026/09/30/syria-says-it-thwarted-hezbollah-plot-israel-likely-target/",
-          "publishedAt": "2026-09-30T19:09:58.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "لماذا تتمسك طهران بورقة \"حزب الله \" في سوريا؟",
-          "excerpt": "لم تخسر إيران في سوريا حليفاً سياسياً فقط؛ خسرت البيئة والمساحة التي كانت توفر لها العمل من داخل الدولة السورية وعبرها.",
-          "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AA%D9%85%D8%B3%D9%83-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D9%82%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-10-01T15:21:10.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Hezbollah’s Shadow Economy in Post-Assad Syria",
-          "excerpt": "The post Hezbollah’s Shadow Economy in Post-Assad Syria appeared first on FDD.",
-          "link": "https://www.fdd.org/analysis/2026/10/01/hezbollahs-shadow-economy-in-post-assad-syria/",
-          "publishedAt": "2026-10-01T10:00:00.000Z",
-          "files": [
-            "lebanon",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "سانا — قسم السياسة",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -595,9 +586,23 @@
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 9,
+      "usItems": 1,
+      "score": 16,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الولايات المتحدة ترفع سوريا من قائمة الدول الخاضعة لقيود التجارة الدفاعية",
+          "excerpt": "رفعت الولايات المتحدة الأمريكية سوريا من قائمة الدول الخاضعة لقيود شاملة على تراخيص التجارة الدفاعية.",
+          "link": "https://sana.sy/politics/2595155/",
+          "publishedAt": "2026-10-01T19:15:29.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -610,7 +615,7 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -630,6 +635,58 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية نمساوية لتعزيز العلاقات القنصلية ومناقشة أوضاع اللاجئين ‌‏السوريين",
+          "excerpt": "بحث مدير إدارة الشؤون القنصلية في وزارة الخارجية والمغتربين محمد يعقوب ‏العمر مع القائم بالأعمال بالنيابة في ‏سفارة جمهورية النمسا، السفير كريستوف ‏فايدينغر، اليوم الخميس، ‏سبل تعزيز ‏العلاقات القنصلية بين البلدين.‏",
+          "link": "https://sana.sy/politics/2595239/",
+          "publishedAt": "2026-10-01T20:34:46.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الرئيس الشرع يتلقى دعوة إماراتية رسمية للمشاركة في مؤتمر الأمم المتحدة للمياه",
+          "excerpt": "تلقى الرئيس أحمد الشرع دعوة رسمية من الشيخ محمد بن زايد للمشاركة في مؤتمر الأمم المتحدة للمياه 2026، المقرر عقده في أبوظبي من 8 إلى 10 ديسمبر المقبل.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%AF%D8%B9%D9%88%D8%A9-%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D9%8A%D8%A7%D9%87",
+          "publishedAt": "2026-10-01T06:29:58.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -641,7 +698,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 13:47",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 19:04",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -662,58 +719,6 @@
           ],
           "seenBefore": true,
           "us": true
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 13:47",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": true,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الرئيس الشرع يتلقى دعوة إماراتية رسمية للمشاركة في مؤتمر الأمم المتحدة للمياه",
-          "excerpt": "تلقى الرئيس أحمد الشرع دعوة رسمية من الشيخ محمد بن زايد للمشاركة في مؤتمر الأمم المتحدة للمياه 2026، المقرر عقده في أبوظبي من 8 إلى 10 ديسمبر المقبل.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%AA%D9%84%D9%82%D9%89-%D8%AF%D8%B9%D9%88%D8%A9-%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D9%8A%D8%A7%D9%87",
-          "publishedAt": "2026-10-01T06:29:58.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الرئيس الشرع يتلقى دعوة رسمية من رئيس الإمارات لحضور مؤتمر الأمم المتحدة للمياه ‏",
-          "excerpt": "تلقى الرئيس أحمد الشرع اليوم الأربعاء دعوة رسمية من الشيخ محمد بن زايد آل نهيان رئيس ‏دولة الإمارات العربية المتحدة لحضور مؤتمر الأمم المتحدة للمياه 2026 المزمع عقده في ‏العاصمة الإماراتية أبو ظبي خلال الفترة من 8 إلى 10 كانون الأول القادم.",
-          "link": "https://sana.sy/presidency/2594389/",
-          "publishedAt": "2026-09-30T21:49:16.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     }
