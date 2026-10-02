@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-02T19:46:43.126Z",
+    "generatedAt": "2026-10-02T23:17:44.628Z",
     "windowHours": 24,
-    "from": "2026-10-01T19:46:43.126Z",
-    "to": "2026-10-02T19:46:43.126Z"
+    "from": "2026-10-01T23:17:44.628Z",
+    "to": "2026-10-02T23:17:44.628Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
-    "files": 6,
-    "withNew": 4,
-    "stale": 2,
+    "items": 16,
+    "files": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 1176
+    "americanItems": 2,
+    "archiveCycles": 1177
   },
   "emptyCircles": [
     "الكونغرس",
@@ -29,31 +29,112 @@
   "errors": [],
   "files": [
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Al-Monitor",
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 24,
+      "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Trump’s integration policies build on Gulf, Turkey ties and Syria success",
+          "excerpt": "Iran’s influence, and the potential for renewed conflict, complicate progress in Iraq.",
+          "link": "https://www.al-monitor.com/originals/2026/10/trumps-integration-policies-build-gulf-turkey-ties-and-syria-success",
+          "publishedAt": "2026-10-02T20:13:52.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "القائم بأعمال السفارة السورية في تركيا يبحث مع فيدان تعزيز التعاون بين البلدين",
+          "excerpt": "التقى القائم بأعمال سفارة الجمهورية العربية السورية لدى الجمهورية التركية فادي القاسم، وزير الخارجية التركي هاكان فيدان، في مقر الوزارة بالعاصمة أنقرة. وبحث الجانبان خلال اللقاء أواصر العلاقات السورية–التركية وسبل تعزيز التعاون الثنائي في م",
+          "link": "https://sana.sy/politics/2595834/",
+          "publishedAt": "2026-10-02T19:24:40.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "عبر سوريا والأردن.. لبنان يسعى إلى ربط موانئه بخط تركيا - السعودية",
+          "excerpt": "أفاد \"المونيتور\" بأن لبنان يسعى للحصول على دعم تركي لربط موانئه بشبكة سكك حديدية إقليمية تمتد عبر سوريا والأردن وصولاً إلى السعودية.",
+          "link": "https://www.syria.tv/%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%B3%D8%B9%D9%89-%D8%A5%D9%84%D9%89-%D8%B1%D8%A8%D8%B7-%D9%85%D9%88%D8%A7%D9%86%D8%A6%D9%87-%D8%A8%D8%AE%D8%B7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+          "publishedAt": "2026-10-02T14:57:41.000Z",
+          "files": [
+            "turkey",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "36 صفاً وألف طالب.. المدرسة التركية في دمشق تبدأ عامها الدراسي الأول",
+          "excerpt": "تستعد \"مدرسة رجب طيب أردوغان التركية الدولية\" في دمشق لبدء عامها الدراسي الأول، الأحد المقبل، بعد استكمال بنائها في منطقة عرطوز..",
+          "link": "https://www.syria.tv/36-%D8%B5%D9%81%D8%A7%D9%8B-%D9%88%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%B9%D8%A7%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+          "publishedAt": "2026-10-02T10:21:51.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "سانا — قسم السياسة",
-        "Al-Monitor",
         "Atlantic Council — المجلس الأطلسي",
         "تلفزيون سوريا",
         "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
-        "الإعلام المتخصص",
         "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 19:46",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 33,
+      "score": 16,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -66,21 +147,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli Arab leader quits election under pressure from court over October 7 remarks",
-          "excerpt": "<p>By Pesha Magid</p><p>JERUSALEM, Oct 2 (Reuters) - The head of a left-wing Arab party dropped out of Israel's election after the Supreme Court indicated judges were likely to disqualify him for an article that described the October 7, 202",
-          "link": "https://www.al-monitor.com/originals/2026/10/israeli-arab-leader-quits-election-under-pressure-court-over-october-7-remarks",
-          "publishedAt": "2026-10-02T13:46:34.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -142,73 +209,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 21,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "القائم بأعمال السفارة السورية في تركيا يبحث مع فيدان تعزيز التعاون بين البلدين",
-          "excerpt": "التقى القائم بأعمال سفارة الجمهورية العربية السورية لدى الجمهورية التركية فادي القاسم، وزير الخارجية التركي هاكان فيدان، في مقر الوزارة بالعاصمة أنقرة. وبحث الجانبان خلال اللقاء أواصر العلاقات السورية–التركية وسبل تعزيز التعاون الثنائي في م",
-          "link": "https://sana.sy/politics/2595834/",
-          "publishedAt": "2026-10-02T19:24:40.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عبر سوريا والأردن.. لبنان يسعى إلى ربط موانئه بخط تركيا - السعودية",
-          "excerpt": "أفاد \"المونيتور\" بأن لبنان يسعى للحصول على دعم تركي لربط موانئه بشبكة سكك حديدية إقليمية تمتد عبر سوريا والأردن وصولاً إلى السعودية.",
-          "link": "https://www.syria.tv/%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%B3%D8%B9%D9%89-%D8%A5%D9%84%D9%89-%D8%B1%D8%A8%D8%B7-%D9%85%D9%88%D8%A7%D9%86%D8%A6%D9%87-%D8%A8%D8%AE%D8%B7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
-          "publishedAt": "2026-10-02T14:57:41.000Z",
-          "files": [
-            "turkey",
-            "lebanon"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "36 صفاً وألف طالب.. المدرسة التركية في دمشق تبدأ عامها الدراسي الأول",
-          "excerpt": "تستعد \"مدرسة رجب طيب أردوغان التركية الدولية\" في دمشق لبدء عامها الدراسي الأول، الأحد المقبل، بعد استكمال بنائها في منطقة عرطوز..",
-          "link": "https://www.syria.tv/36-%D8%B5%D9%81%D8%A7%D9%8B-%D9%88%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%B9%D8%A7%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
-          "publishedAt": "2026-10-02T10:21:51.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -224,13 +224,13 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 19:46",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 8,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -241,7 +241,7 @@
           "link": "https://npasyria.com/en/142228/",
           "publishedAt": "2026-10-02T15:34:22.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -253,7 +253,7 @@
           "link": "https://www.fdd.org/analysis/2026/10/02/us-charges-engineer-with-supporting-houthis-louisiana-brothers-and-florida-man-with-financing-hamas/",
           "publishedAt": "2026-10-02T15:00:09.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -294,13 +294,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 19:46",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -313,7 +313,7 @@
           "files": [
             "sdf"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -330,7 +330,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 14:57",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 19:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -365,42 +365,6 @@
           ],
           "seenBefore": true,
           "us": true
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 14:57",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية نمساوية لتعزيز العلاقات القنصلية ومناقشة أوضاع اللاجئين ‌‏السوريين",
-          "excerpt": "بحث مدير إدارة الشؤون القنصلية في وزارة الخارجية والمغتربين محمد يعقوب ‏العمر مع القائم بالأعمال بالنيابة في ‏سفارة جمهورية النمسا، السفير كريستوف ‏فايدينغر، اليوم الخميس، ‏سبل تعزيز ‏العلاقات القنصلية بين البلدين.‏",
-          "link": "https://sana.sy/politics/2595239/",
-          "publishedAt": "2026-10-01T20:34:46.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     }
