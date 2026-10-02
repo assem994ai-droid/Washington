@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-01T23:07:26.423Z",
+    "generatedAt": "2026-10-02T02:11:24.633Z",
     "windowHours": 24,
-    "from": "2026-09-30T23:07:26.423Z",
-    "to": "2026-10-01T23:07:26.423Z"
+    "from": "2026-10-01T02:11:24.633Z",
+    "to": "2026-10-02T02:11:24.633Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 37,
+    "items": 36,
     "files": 7,
-    "withNew": 3,
-    "stale": 4,
+    "withNew": 0,
+    "stale": 7,
     "contested": 5,
     "echoed": 1,
     "americanItems": 4,
-    "archiveCycles": 1172
+    "archiveCycles": 1173
   },
   "emptyCircles": [
     "الكونغرس",
@@ -44,7 +44,7 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 19:04",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 23:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -243,10 +243,9 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "سانا — قسم السياسة",
-        "Middle East Eye",
         "The National",
         "North Press Agency (English)",
         "تلفزيون سوريا"
@@ -256,13 +255,13 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 19:04",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 23:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 28,
+      "score": 24,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -272,18 +271,6 @@
           "excerpt": "دعت المديرة التنفيذية لمنظمة الأمم المتحدة للطفولة (يونيسف) كاثرين راسل إلى ‌‏وضع حقوق الأطفال واحتياجاتهم في صميم جهود التعافي في سوريا، مؤكدة أولوية ‌‏دعمهم وأسرهم خلال مرحلة الانتقال والتعافي، ولا سيما استعادة خدمات التعليم ‌‏والرعاية ال",
           "link": "https://sana.sy/politics/2595090/",
           "publishedAt": "2026-10-01T18:16:54.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Seven killed in Syria after gunmen open fire on bus in Homs",
-          "excerpt": "<article data-history-node-id=\"448649\" about=\"https://www.middleeasteye.net/news/syria-hit-gas-explosion-deadly-bus-attack-and-israeli-shelling\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/syria-hit-gas-",
-          "link": "https://www.middleeasteye.net/news/syria-hit-gas-explosion-deadly-bus-attack-and-israeli-shelling",
-          "publishedAt": "2026-10-01T14:31:02.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -375,76 +362,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
-      "sources": [
-        "Al Jazeera English",
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "الإعلام الدولي",
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 19,
-      "items": [
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
-          "excerpt": "Six sources from Syria, the US and Lebanon told Reuters news agency the reported meeting aimed to calm tensions.",
-          "link": "https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss",
-          "publishedAt": "2026-10-01T20:02:42.000Z",
-          "files": [
-            "lebanon",
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "لماذا تتمسك طهران بورقة \"حزب الله \" في سوريا؟",
-          "excerpt": "لم تخسر إيران في سوريا حليفاً سياسياً فقط؛ خسرت البيئة والمساحة التي كانت توفر لها العمل من داخل الدولة السورية وعبرها.",
-          "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AA%D9%85%D8%B3%D9%83-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D9%82%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-10-01T15:21:10.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Hezbollah’s Shadow Economy in Post-Assad Syria",
-          "excerpt": "The post Hezbollah’s Shadow Economy in Post-Assad Syria appeared first on FDD.",
-          "link": "https://www.fdd.org/analysis/2026/10/01/hezbollahs-shadow-economy-in-post-assad-syria/",
-          "publishedAt": "2026-10-01T10:00:00.000Z",
-          "files": [
-            "lebanon",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -459,7 +376,7 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 19:04",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 23:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -568,6 +485,112 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
+      "sources": [
+        "Al Jazeera English",
+        "تلفزيون سوريا",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "الإعلام الدولي",
+        "الإعلام السوري المستقل",
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 23:07",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 10,
+      "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
+          "excerpt": "Six sources from Syria, the US and Lebanon told Reuters news agency the reported meeting aimed to calm tensions.",
+          "link": "https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss",
+          "publishedAt": "2026-10-01T20:02:42.000Z",
+          "files": [
+            "lebanon",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "لماذا تتمسك طهران بورقة \"حزب الله \" في سوريا؟",
+          "excerpt": "لم تخسر إيران في سوريا حليفاً سياسياً فقط؛ خسرت البيئة والمساحة التي كانت توفر لها العمل من داخل الدولة السورية وعبرها.",
+          "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AA%D9%85%D8%B3%D9%83-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D9%82%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-10-01T15:21:10.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Hezbollah’s Shadow Economy in Post-Assad Syria",
+          "excerpt": "The post Hezbollah’s Shadow Economy in Post-Assad Syria appeared first on FDD.",
+          "link": "https://www.fdd.org/analysis/2026/10/01/hezbollahs-shadow-economy-in-post-assad-syria/",
+          "publishedAt": "2026-10-01T10:00:00.000Z",
+          "files": [
+            "lebanon",
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 23:07",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 9,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الولايات المتحدة ترفع الحظر الشامل على صادرات الأسلحة إلى سوريا",
+          "excerpt": "دخل قرار الولايات المتحدة رفع سوريا من قائمة الدول الخاضعة للحظر الشامل على صادرات الأسلحة والمعدات والخدمات الدفاعية الأميركية حيز التنفيذ، اليوم الخميس",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-01T07:00:04.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران مستقلان فأكثر",
@@ -581,13 +604,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 23:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 16,
+      "score": 7,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -600,7 +623,7 @@
           "files": [
             "economy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -648,13 +671,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 23:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -667,7 +690,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -683,42 +706,6 @@
           ],
           "seenBefore": true,
           "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-01 19:04",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 9,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الولايات المتحدة ترفع الحظر الشامل على صادرات الأسلحة إلى سوريا",
-          "excerpt": "دخل قرار الولايات المتحدة رفع سوريا من قائمة الدول الخاضعة للحظر الشامل على صادرات الأسلحة والمعدات والخدمات الدفاعية الأميركية حيز التنفيذ، اليوم الخميس",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-01T07:00:04.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     }
