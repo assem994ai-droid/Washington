@@ -1,28 +1,29 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-02T08:36:11.943Z",
+    "generatedAt": "2026-10-02T14:57:27.162Z",
     "windowHours": 24,
-    "from": "2026-10-01T08:36:11.943Z",
-    "to": "2026-10-02T08:36:11.943Z"
+    "from": "2026-10-01T14:57:27.162Z",
+    "to": "2026-10-02T14:57:27.162Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 21,
     "files": 6,
-    "withNew": 2,
-    "stale": 4,
-    "contested": 3,
-    "echoed": 2,
+    "withNew": 4,
+    "stale": 2,
+    "contested": 2,
+    "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 1174
+    "archiveCycles": 1175
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام المتخصص",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -30,17 +31,18 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
       "sources": [
-        "North Press Agency (English)",
+        "Atlantic Council — المجلس الأطلسي",
         "تلفزيون سوريا",
+        "North Press Agency (English)",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
+        "مراكز الفكر",
+        "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -48,8 +50,36 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 32,
+      "score": 31,
       "items": [
+        {
+          "source": "Atlantic Council — المجلس الأطلسي",
+          "sourceId": "atlantic-council",
+          "circle": "مراكز الفكر",
+          "title": "Nikoladze quoted in a National Intelligence University monograph on the geoeconomic implications of the Israel-Hamas conflict",
+          "excerpt": "Read the full article here The post Nikoladze quoted in a National Intelligence University monograph on the geoeconomic implications of the Israel-Hamas conflict appeared first on Atlantic Council.",
+          "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-2/",
+          "publishedAt": "2026-10-02T13:20:22.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يعتقل شاباً في درعا إثر توغل عسكري بقرية معرية",
+          "excerpt": "اعتقالات وتوغلات وقصف إسرائيلي في درعا والقنيطرة خلال يومين، فإلى أين تتجه التطورات في الجنوب السوري؟",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA%D9%82%D9%84-%D8%B4%D8%A7%D8%A8%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A5%D8%AB%D8%B1-%D8%AA%D9%88%D8%BA%D9%84-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A8%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-10-02T12:19:47.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -61,7 +91,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -75,7 +105,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -119,46 +149,76 @@
           ],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "Al-Monitor"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 3,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 25,
+      "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"جولاننا بيستاهل\" محافظة القنيطرة تطلق حملة لتنفيذ مشاريع خدمية وتنموية",
-          "excerpt": "أطلقت محافظة القنيطرة، اليوم الخميس، حملة \"جولاننا بيستاهل\"، بهدف تنفيذ مجموعة من المشاريع الخدمية والتنموية، وتحسين واقع الطرق والخدمات في المحافظة.",
-          "link": "https://www.syria.tv/%D8%AC%D9%88%D9%84%D8%A7%D9%86%D9%86%D8%A7-%D8%A8%D9%8A%D8%B3%D8%AA%D8%A7%D9%87%D9%84-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AD%D9%85%D9%84%D8%A9-%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%AE%D8%AF%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D9%86%D9%85%D9%88%D9%8A%D8%A9",
-          "publishedAt": "2026-10-01T12:07:17.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تدين استهداف ميليشيا الحوثي محطة كهرباء بالمدينة المنورة",
+          "excerpt": "أدانت الجمهورية العربية السورية بأشد العبارات استهداف ميليشيات الحوثي محطةً لتوزيع الكهرباء في المدينة المنورة بالمملكة العربية السعودية، معتبرة أنه يشكل انتهاكاً سافراً لسيادة المملكة، وخرقاً فاضحاً لقواعد القانون الدولي.",
+          "link": "https://sana.sy/politics/2595601/",
+          "publishedAt": "2026-10-02T14:23:41.000Z",
+          "files": [],
+          "seenBefore": false,
           "us": false
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تداعيات انفجار خط الغاز.. تقنين في القنيطرة وعودة الكهرباء إلى درعا والسويداء",
-          "excerpt": "أدى انفجار خط الغاز المغذي لمحطة تشرين الحرارية بريف دمشق، إلى خروج ثلاث محطات توليد عن الخدمة إثر توقف إمدادات الوقود",
-          "link": "https://www.syria.tv/%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B7-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
-          "publishedAt": "2026-10-01T08:48:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "كوردوني: سوريا تحصل على دعم دولي واسع ندعو لترجمته إلى خطوات ملموسة",
+          "excerpt": "أكد نائب المبعوث الخاص للأمين العام للأمم المتحدة إلى سوريا كلاوديو كوردوني أن سوريا نجحت في الحصول على اعتراف ودعم دولي واسع، وبدأت تلعب دوراً قيادياً بالنسبة للعديد من المبادرات، داعياً المجتمع الدولي إلى ترجمة دعمه هذا إلى خطوات فعلية وم",
+          "link": "https://sana.sy/politics/2595510/",
+          "publishedAt": "2026-10-02T12:12:01.000Z",
+          "files": [],
+          "seenBefore": false,
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces enter Syria&#8217;s Daraa with 12 vehicles, two tanks",
-          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Thursday made an incursion into western Daraa countryside, southern Syria, with a convoy of 12 vehicles and two tanks, as students were heading to school, causing fear and concern among childre",
-          "link": "https://npasyria.com/en/142194/",
-          "publishedAt": "2026-10-01T08:40:40.000Z",
-          "files": [
-            "israel"
-          ],
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syrian students get caught in rift between Druze leaders and Damascus",
+          "excerpt": "<p>By Yamaam Al-Shaar , Khalil Ashawi and Nayera Abdallah</p><p>SWEIDA, Syria Oct 2 (Reuters) - Young people in Syria's Sweida province are unable to progress through school and university due to a deepening rift between the post-Assad Isla",
+          "link": "https://www.al-monitor.com/originals/2026/10/syrian-students-get-caught-rift-between-druze-leaders-and-damascus",
+          "publishedAt": "2026-10-02T11:46:30.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "يونيسف تدعو إلى مواصلة دعم الأطفال في سوريا بتمويل مرن ومستدام",
+          "excerpt": "دعت المديرة التنفيذية لمنظمة الأمم المتحدة للطفولة (يونيسف) كاثرين راسل إلى ‌‏وضع حقوق الأطفال واحتياجاتهم في صميم جهود التعافي في سوريا، مؤكدة أولوية ‌‏دعمهم وأسرهم خلال مرحلة الانتقال والتعافي، ولا سيما استعادة خدمات التعليم ‌‏والرعاية ال",
+          "link": "https://sana.sy/politics/2595090/",
+          "publishedAt": "2026-10-01T18:16:54.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -169,26 +229,36 @@
       "label": "الملف التركي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 2,
       "sources": [
         "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "Turkish Minute",
-        "Jerusalem Post — الشرق الأوسط"
+        "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الملف التركي",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 02:11",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
       "usItems": 0,
-      "score": 23,
+      "score": 21,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "36 صفاً وألف طالب.. المدرسة التركية في دمشق تبدأ عامها الدراسي الأول",
+          "excerpt": "تستعد \"مدرسة رجب طيب أردوغان التركية الدولية\" في دمشق لبدء عامها الدراسي الأول، الأحد المقبل، بعد استكمال بنائها في منطقة عرطوز..",
+          "link": "https://www.syria.tv/36-%D8%B5%D9%81%D8%A7%D9%8B-%D9%88%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%B9%D8%A7%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+          "publishedAt": "2026-10-02T10:21:51.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -234,100 +304,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Turkey hosted secret Syria-Hezbollah talks, sources say; Ankara, Damascus deny meeting",
-          "excerpt": "Representatives of Syria’s government and Lebanon’s Hezbollah held secret talks in Turkey in September in an effort to ease tensions, Reuters reported Thursday, citing six sources familiar with the meeting, a claim later denied by both Turk",
-          "link": "https://turkishminute.com/2026/10/01/turkey-hosted-secret-syria-hezbollah-talks-sources-say-ankara-damascus-deny-meeting/",
-          "publishedAt": "2026-10-01T16:22:53.000Z",
-          "files": [
-            "turkey",
-            "lebanon",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "باستثمار 200 مليون دولار.. شركة تركية تؤهل معمل إسمنت المسلمية في حلب",
-          "excerpt": "وقع عقد استثماري بين الشركة العامة لصناعة وتسويق الإسمنت ومواد البناء في سوريا، الخميس، مع شركة \"تشيمكو\" التركية، برعاية وزير الاقتصاد والصناعة نضال الشعار",
-          "link": "https://www.syria.tv/%D8%A8%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-200-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%A4%D9%87%D9%84-%D9%85%D8%B9%D9%85%D9%84-%D8%A5%D8%B3%D9%85%D9%86%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%84%D8%A8",
-          "publishedAt": "2026-10-01T13:10:19.000Z",
-          "files": [
-            "turkey",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria, Hezbollah hold secret security talks in Turkey, reportedly to ease border tensions",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3840,w_5760/740092' alt='Hezbollah and Syrian flags are seen fluttering in Fleita, Syria August 2, 2017. (photo credit: REUTERS/OMA",
-          "link": "https://www.jpost.com/middle-east/article-910304",
-          "publishedAt": "2026-10-01T12:50:52.000Z",
-          "files": [
-            "turkey",
-            "lebanon",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مجلس الأمن القومي التركي يدعو لتحرك دولي ضد إسرائيل بسبب سوريا",
-          "excerpt": "دعا مجلس الأمن القومي التركي، الأربعاء، المجتمع الدولي إلى اتخاذ خطوات ملموسة ضد الإدارة الإسرائيلية التي تحاول عرقلة تحقيق الاستقرار في المنطقة",
-          "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D9%88%D9%84%D9%8A-%D8%B6%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-01T12:19:34.000Z",
-          "files": [
-            "turkey",
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria, Hezbollah hold secret talks in Turkey – Reuters",
-          "excerpt": "QAMISHLI, Syria (North Press) – Officials of the Syrian transitional government and Lebanese Hezbollah held a secret meeting in Turkey last month in an effort to ease tensions between the longtime foes, Reuters reported on Thursday, citing ",
-          "link": "https://npasyria.com/en/142196/",
-          "publishedAt": "2026-10-01T11:12:21.000Z",
-          "files": [
-            "turkey",
-            "lebanon",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "رويترز: محادثات سرية بين مسؤولين سوريين و\"حزب الله\" في تركيا لأول مرة",
-          "excerpt": "أفادت وكالة \"رويترز\" بأن ممثلين عن الحكومة السورية و\"حزب الله\" اللبناني عقدوا محادثات مباشرة في تركيا،",
-          "link": "https://www.syria.tv/%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%88%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9",
-          "publishedAt": "2026-10-01T10:18:58.000Z",
-          "files": [
-            "turkey",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -351,8 +327,22 @@
       "stale": false,
       "echoed": true,
       "usItems": 2,
-      "score": 19,
+      "score": 20,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "برنية يكشف تفاصيل اجتماع المائدة المصرفية في نيويورك وإصلاح القطاع المالي السوري",
+          "excerpt": "برنية يكشف تفاصيل مباحثات مالية في نيويورك وخطط إصلاح القطاع المصرفي السوري",
+          "link": "https://www.syria.tv/%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A%D8%A9-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%88%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+          "publishedAt": "2026-10-02T13:15:20.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -364,7 +354,7 @@
           "files": [
             "economy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -399,93 +389,6 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 02:11",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "لماذا تتمسك طهران بورقة \"حزب الله \" في سوريا؟",
-          "excerpt": "لم تخسر إيران في سوريا حليفاً سياسياً فقط؛ خسرت البيئة والمساحة التي كانت توفر لها العمل من داخل الدولة السورية وعبرها.",
-          "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AA%D9%85%D8%B3%D9%83-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D9%82%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-10-01T15:21:10.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Hezbollah’s Shadow Economy in Post-Assad Syria",
-          "excerpt": "The post Hezbollah’s Shadow Economy in Post-Assad Syria appeared first on FDD.",
-          "link": "https://www.fdd.org/analysis/2026/10/01/hezbollahs-shadow-economy-in-post-assad-syria/",
-          "publishedAt": "2026-10-01T10:00:00.000Z",
-          "files": [
-            "lebanon",
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 02:11",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 2,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "يونيسف تدعو إلى مواصلة دعم الأطفال في سوريا بتمويل مرن ومستدام",
-          "excerpt": "دعت المديرة التنفيذية لمنظمة الأمم المتحدة للطفولة (يونيسف) كاثرين راسل إلى ‌‏وضع حقوق الأطفال واحتياجاتهم في صميم جهود التعافي في سوريا، مؤكدة أولوية ‌‏دعمهم وأسرهم خلال مرحلة الانتقال والتعافي، ولا سيما استعادة خدمات التعليم ‌‏والرعاية ال",
-          "link": "https://sana.sy/politics/2595090/",
-          "publishedAt": "2026-10-01T18:16:54.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -497,7 +400,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 02:11",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 08:36",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -515,6 +418,42 @@
           "publishedAt": "2026-10-01T20:34:46.000Z",
           "files": [
             "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 08:36",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "لماذا تتمسك طهران بورقة \"حزب الله \" في سوريا؟",
+          "excerpt": "لم تخسر إيران في سوريا حليفاً سياسياً فقط؛ خسرت البيئة والمساحة التي كانت توفر لها العمل من داخل الدولة السورية وعبرها.",
+          "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AA%D9%85%D8%B3%D9%83-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D9%82%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-10-01T15:21:10.000Z",
+          "files": [
+            "lebanon"
           ],
           "seenBefore": true,
           "us": false
