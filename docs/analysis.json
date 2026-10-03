@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-03T20:00:01.608Z",
+    "generatedAt": "2026-10-03T22:48:44.145Z",
     "windowHours": 24,
-    "from": "2026-10-02T20:00:01.608Z",
-    "to": "2026-10-03T20:00:01.608Z"
+    "from": "2026-10-02T22:48:44.145Z",
+    "to": "2026-10-03T22:48:44.145Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
+    "items": 11,
     "files": 5,
     "withNew": 2,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 1181
+    "americanItems": 1,
+    "archiveCycles": 1182
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,24 +34,39 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "Al-Monitor",
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "Middle East Eye"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 30,
+      "score": 25,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel targets top Hamas leader in deadly Gaza strike on anniversary",
+          "excerpt": "<p>Israel said on Saturday that it attempted to kill Hamas's top leader in the Gaza Strip in an airstrike on an apartment that local officials said killed five people, four of them women.</p> <p>The pre-dawn strike came on the anniversary a",
+          "link": "https://www.al-monitor.com/originals/2026/10/israel-targets-top-hamas-leader-deadly-gaza-strike-anniversary",
+          "publishedAt": "2026-10-03T20:30:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -63,7 +78,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -77,7 +92,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -91,7 +106,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -107,72 +122,42 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli forces open fire in Syria’s Deraa governorate",
-          "excerpt": "<article data-history-node-id=\"448752\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-syrias-deraa-governorate\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-syrias-deraa-governorate",
-          "publishedAt": "2026-10-03T12:31:19.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "Al-Monitor"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "المصادر الرسمية السورية"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 19,
+      "usItems": 0,
+      "score": 8,
       "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مصرع شاب سوري بانفجار معمل للحديد في تركيا",
-          "excerpt": "الشاب يبلغ من العمر 25 عاما وفارق الحياة متأثرا بإصابات خطيرة من جراء الانفجار الذي لم تعرف أسبابه.",
-          "link": "https://www.syria.tv/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B4%D8%A7%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B9%D9%85%D9%84-%D9%84%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-10-03T18:41:35.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية نرويجية لتعزيز التعاون ودعم التعافي والتنمية المستدامة",
+          "excerpt": "عقد وفد سوري برئاسة مديرة إدارة المغتربين وشؤون اللاجئين في وزارة الخارجية نهلة عثمان، ‏اجتماعاً ‏موسعاً مع وفد نرويجي برئاسة المديرة العامة للتنمية الدولية في وزارة الخارجية ‏النرويجية ‌‏تيني مورش سميث،‏ وبمشاركة ممثلين عن فرق التنمية والش",
+          "link": "https://sana.sy/syria-and-the-world/2596520/",
+          "publishedAt": "2026-10-03T20:52:55.000Z",
           "files": [
-            "turkey"
+            "diplomacy"
           ],
           "seenBefore": false,
           "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Trump’s integration policies build on Gulf, Turkey ties and Syria success",
-          "excerpt": "Iran’s influence, and the potential for renewed conflict, complicate progress in Iraq.",
-          "link": "https://www.al-monitor.com/originals/2026/10/trumps-integration-policies-build-gulf-turkey-ties-and-syria-success",
-          "publishedAt": "2026-10-02T20:13:52.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -190,7 +175,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 17:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 20:00",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -237,35 +222,35 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
+      "id": "turkey",
+      "label": "الملف التركي",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 17:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 20:00",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": -1,
+      "score": 3,
       "items": [
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية نرويجية لتعزيز التعاون في المسائل القانونية والإجرائية",
-          "excerpt": "بحث الوفد السوري برئاسة مديرة إدارة شؤون المغتربين واللاجئين في وزارة الخارجية والمغتربين ‏نهلة عثمان، مع وفد وزارة العدل والأمن العام النرويجية، برئاسة وزير الدولة يواكيم أورين، والمدير ‏العام ‏فريدريك فينستاد، تطورات الأوضاع في سوريا والع",
-          "link": "https://sana.sy/syria-and-the-world/2596260/",
-          "publishedAt": "2026-10-03T15:35:35.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مصرع شاب سوري بانفجار معمل للحديد في تركيا",
+          "excerpt": "الشاب يبلغ من العمر 25 عاما وفارق الحياة متأثرا بإصابات خطيرة من جراء الانفجار الذي لم تعرف أسبابه.",
+          "link": "https://www.syria.tv/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B4%D8%A7%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B9%D9%85%D9%84-%D9%84%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-10-03T18:41:35.000Z",
           "files": [
-            "diplomacy"
+            "turkey"
           ],
           "seenBefore": true,
           "us": false
@@ -284,7 +269,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 17:19",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 20:00",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
