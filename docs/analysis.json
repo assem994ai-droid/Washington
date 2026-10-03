@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-03T08:00:09.668Z",
+    "generatedAt": "2026-10-03T13:16:23.038Z",
     "windowHours": 24,
-    "from": "2026-10-02T08:00:09.668Z",
-    "to": "2026-10-03T08:00:09.668Z"
+    "from": "2026-10-02T13:16:23.038Z",
+    "to": "2026-10-03T13:16:23.038Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
-    "files": 7,
-    "withNew": 4,
-    "stale": 3,
-    "contested": 1,
+    "items": 13,
+    "files": 5,
+    "withNew": 1,
+    "stale": 4,
+    "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 1178
+    "americanItems": 2,
+    "archiveCycles": 1179
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "الملف الإسرائيلي والتركي",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -30,21 +31,18 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 5,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
       "sources": [
-        "Al Jazeera English",
+        "Middle East Eye",
         "سانا — قسم السياسة",
-        "Atlantic Council — المجلس الأطلسي",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "Atlantic Council — المجلس الأطلسي"
       ],
       "circles": [
-        "الإعلام الدولي",
+        "الإعلام المتخصص",
         "المصادر الرسمية السورية",
-        "مراكز الفكر",
-        "الإعلام السوري المستقل"
+        "مراكز الفكر"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -52,16 +50,16 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 31,
+      "score": 20,
       "items": [
         {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "New claims that Netanyahu rejected Hamas offer to release captives",
-          "excerpt": "Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
-          "publishedAt": "2026-10-03T04:58:43.000Z",
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli forces open fire in Syria’s Deraa governorate",
+          "excerpt": "<article data-history-node-id=\"448752\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-syrias-deraa-governorate\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-syrias-deraa-governorate",
+          "publishedAt": "2026-10-03T12:31:19.000Z",
           "files": [
             "israel"
           ],
@@ -95,34 +93,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يعتقل شاباً في درعا إثر توغل عسكري بقرية معرية",
-          "excerpt": "اعتقالات وتوغلات وقصف إسرائيلي في درعا والقنيطرة خلال يومين، فإلى أين تتجه التطورات في الجنوب السوري؟",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA%D9%82%D9%84-%D8%B4%D8%A7%D8%A8%D8%A7%D9%8B-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A5%D8%AB%D8%B1-%D8%AA%D9%88%D8%BA%D9%84-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A8%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-10-02T12:19:47.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid Syria’s Homes, Shell Quneitra, Daraa countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces carried out raids and incursions in the Quneitra and Daraa countryside on Friday, detaining a young man, searching homes and shelling an area near al-Mantara Dam, Syrian state media reported. I",
-          "link": "https://npasyria.com/en/142213/",
-          "publishedAt": "2026-10-02T08:08:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -144,13 +114,13 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 08:00",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 29,
+      "score": 15,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -161,7 +131,7 @@
           "link": "https://npasyria.com/en/142237/",
           "publishedAt": "2026-10-03T06:48:33.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -173,7 +143,7 @@
           "link": "https://www.thenationalnews.com/news/uae/2026/10/03/co-pilot-on-flydubai-flight-attempted-to-carry-out-terrorist-act-uaes-attorney-general-says/",
           "publishedAt": "2026-10-03T06:30:57.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -211,54 +181,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "كوردوني: سوريا تحصل على دعم دولي واسع ندعو لترجمته إلى خطوات ملموسة",
-          "excerpt": "أكد نائب المبعوث الخاص للأمين العام للأمم المتحدة إلى سوريا كلاوديو كوردوني أن سوريا نجحت في الحصول على اعتراف ودعم دولي واسع، وبدأت تلعب دوراً قيادياً بالنسبة للعديد من المبادرات، داعياً المجتمع الدولي إلى ترجمة دعمه هذا إلى خطوات فعلية وم",
-          "link": "https://sana.sy/politics/2595510/",
-          "publishedAt": "2026-10-02T12:12:01.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Middle East Eye"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "US sanctions three persons, two charities over alleged Hamas funding",
-          "excerpt": "<article data-history-node-id=\"448734\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-three-persons-two-charities-over-alleged-hamas-funding\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-three-persons-two-charities-over-alleged-hamas-funding",
-          "publishedAt": "2026-10-03T04:09:25.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
         }
       ]
     },
@@ -278,13 +200,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 23:17",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 08:00",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 14,
       "items": [
         {
           "source": "Al-Monitor",
@@ -328,56 +250,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "36 صفاً وألف طالب.. المدرسة التركية في دمشق تبدأ عامها الدراسي الأول",
-          "excerpt": "تستعد \"مدرسة رجب طيب أردوغان التركية الدولية\" في دمشق لبدء عامها الدراسي الأول، الأحد المقبل، بعد استكمال بنائها في منطقة عرطوز..",
-          "link": "https://www.syria.tv/36-%D8%B5%D9%81%D8%A7%D9%8B-%D9%88%D8%A3%D9%84%D9%81-%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%B9%D8%A7%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
-          "publishedAt": "2026-10-02T10:21:51.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Takreem Foundation supports Lebanese children at 15th anniversary awards event",
-          "excerpt": "The Takreem Foundation has raised funds for its mentorship programme and a Lebanese non-profit group dedicated to supporting children, Afel, at an event in Paris celebrating its 15 years of operations.An auction led by Christie's brought to",
-          "link": "https://www.thenationalnews.com/news/2026/10/03/takreem-foundation-supports-lebanese-children-at-15-years-anniversary/",
-          "publishedAt": "2026-10-03T05:00:01.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": false,
-          "us": false
         }
       ]
     },
@@ -393,7 +265,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 23:17",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 08:00",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -418,18 +290,18 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا"
+        "The National"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-02 23:17",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 08:00",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -438,15 +310,15 @@
       "score": -1,
       "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "برنية يكشف تفاصيل اجتماع المائدة المصرفية في نيويورك وإصلاح القطاع المالي السوري",
-          "excerpt": "برنية يكشف تفاصيل مباحثات مالية في نيويورك وخطط إصلاح القطاع المصرفي السوري",
-          "link": "https://www.syria.tv/%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A%D8%A9-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%88%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-          "publishedAt": "2026-10-02T13:15:20.000Z",
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Takreem Foundation supports Lebanese children at 15th anniversary awards event",
+          "excerpt": "The Takreem Foundation has raised funds for its mentorship programme and a Lebanese non-profit group dedicated to supporting children, Afel, at an event in Paris celebrating its 15 years of operations.An auction led by Christie's brought to",
+          "link": "https://www.thenationalnews.com/news/2026/10/03/takreem-foundation-supports-lebanese-children-at-15-years-anniversary/",
+          "publishedAt": "2026-10-03T05:00:01.000Z",
           "files": [
-            "economy"
+            "lebanon"
           ],
           "seenBefore": true,
           "us": false
