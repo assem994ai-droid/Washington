@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-04T08:23:08.568Z",
+    "generatedAt": "2026-10-04T14:14:01.408Z",
     "windowHours": 24,
-    "from": "2026-10-03T08:23:08.568Z",
-    "to": "2026-10-04T08:23:08.568Z"
+    "from": "2026-10-03T14:14:01.408Z",
+    "to": "2026-10-04T14:14:01.408Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
+    "items": 16,
     "files": 5,
     "withNew": 3,
     "stale": 2,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 0,
-    "archiveCycles": 1183
+    "americanItems": 1,
+    "archiveCycles": 1184
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,39 +33,52 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
-        "Middle East Eye",
-        "Al-Monitor",
-        "تلفزيون سوريا"
+        "Al-Monitor"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 41,
+      "score": 30,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يواصل حفر مشروع \"سوفا 53\" بالقنيطرة.. ما مراحله وماذا يعني اكتماله؟",
+          "excerpt": "استأنفت قوات الاحتلال الإسرائيلي أعمال الحفر والتجريف ضمن مشروع \"سوفا 53\" في ريف القنيطرة الجنوبي، في خطوة جديدة تأتي بعد أشهر من تنفيذ أعمال هندسية في مناطق أخ",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AD%D9%81%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B3%D9%88%D9%81%D8%A7-53-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%85%D8%A7-%D9%85%D8%B1%D8%A7%D8%AD%D9%84%D9%87-%D9%88%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9%D9%86%D9%8A-%D8%A7%D9%83%D8%AA%D9%85%D8%A7%D9%84%D9%87%D8%9F",
+          "publishedAt": "2026-10-04T10:32:12.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
-          "title": "Ex-PA minister who said he warned Israel about Oct. 7 denies claims he tried to influence election",
+          "title": "No attempt to influence Israeli election, says Sinwar mediator who revealed Oct. 7 warning",
           "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2912,w_4368/738369' alt='Sufian Abu Zaida, former Fatah cabinet minister. (photo credit: FLASH90)' title='Sufian Abu Zaida, former ",
           "link": "https://www.jpost.com/middle-east/article-910495",
           "publishedAt": "2026-10-04T08:06:15.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -79,21 +92,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel says 1, 318 personnel killed since 7 Oct Hamas attack",
-          "excerpt": "<article data-history-node-id=\"448785\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-1-318-personnel-killed-7-oct-hamas-attack\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-1-318-personnel-killed-7-oct-hamas-attack",
-          "publishedAt": "2026-10-04T05:21:46.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -159,23 +158,60 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "تلفزيون سوريا",
         "The National",
         "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 12,
+      "usItems": 1,
+      "score": 29,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا والأندوف تنسّقان لمراقبة انتهاكات اتفاق فض الاشتباك في جنوبي البلاد",
+          "excerpt": "بحث مدير إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية السورية سعد بارود، مع رئيسة بعثة وقائدة قوة الأمم المتحدة لمراقبة فضّ الاشتباك \"الأندوف\"",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81-%D8%AA%D9%86%D8%B3%D9%91%D9%82%D8%A7%D9%86-%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF",
+          "publishedAt": "2026-10-04T12:26:47.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Clashes erupt in Christian town in central Syria",
+          "excerpt": "Security forces were sent to the Christian town of Suqaylabiyah in central Syria at the weekend after young Sunnis from a nearby area went there and started a fight, residents and state media said.It was the second incident of sectarian vio",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/04/syria-christians-suqaylabiyah/",
+          "publishedAt": "2026-10-04T11:59:47.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran says Strait of Hormuz stays closed until U.S. meets conditions",
+          "excerpt": "DAMASCUS, Syria (North Press) – Iranian Parliament Speaker Mohammad Bagher Ghalibaf on Sunday said Iran will not reopen the Strait of Hormuz until its seven conditions outlined in an interim understanding with the United States reached last",
+          "link": "https://npasyria.com/en/142254/",
+          "publishedAt": "2026-10-04T08:34:36.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -185,7 +221,7 @@
           "link": "https://www.thenationalnews.com/news/us/2026/10/04/syria-pressing-on-accelerator-to-attract-us-investors/",
           "publishedAt": "2026-10-04T04:00:00.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -203,16 +239,16 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي"
+        "المصادر الرسمية السورية"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -220,20 +256,34 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 9,
       "items": [
         {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Iran delays renewing Hamas financial support over failure to undermine West Bank stability - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/732995' alt='Masked gunmen from the Qassam brigade, the militia wing of Hamas, attend the funeral of Mazen Faqha in Gaza ",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-910491",
-          "publishedAt": "2026-10-04T06:18:07.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات لتعزيز التنسيق والتعاون بين الحكومة السورية وبعثة ‏الأندوف ‏",
+          "excerpt": "بحث مدير إدارة المنظمات والمؤتمرات الدولية في وزارة ‌‏‌‏الخارجية ‏والمغتربين سعد بارود، مع اللواء أنيتا ‌‏أسماه، ‏رئيسة ‏بعثة وقائدة قوة الأمم المتحدة لمراقبة فض ‌‏الاشتباك ‌‏‌‏(الأندوف)‌‌‌‌‌‌،‏ ‏سبل تعزيز التنسيق بين ‌‏الحكومة ‏السورية وال",
+          "link": "https://sana.sy/politics/2596852/",
+          "publishedAt": "2026-10-04T10:21:42.000Z",
           "files": [
-            "economy"
+            "diplomacy"
           ],
           "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية نرويجية لتعزيز التعاون ودعم التعافي والتنمية المستدامة",
+          "excerpt": "عقد وفد سوري برئاسة مديرة إدارة المغتربين وشؤون اللاجئين في وزارة الخارجية نهلة عثمان، ‏اجتماعاً ‏موسعاً مع وفد نرويجي برئاسة المديرة العامة للتنمية الدولية في وزارة الخارجية ‏النرويجية ‌‏تيني مورش سميث،‏ وبمشاركة ممثلين عن فرق التنمية والش",
+          "link": "https://sana.sy/syria-and-the-world/2596520/",
+          "publishedAt": "2026-10-03T20:52:55.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -250,7 +300,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 22:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 08:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -275,18 +325,18 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "سانا — قسم السياسة"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "المصادر الرسمية السورية"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 22:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 08:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -295,15 +345,15 @@
       "score": -1,
       "items": [
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية نرويجية لتعزيز التعاون ودعم التعافي والتنمية المستدامة",
-          "excerpt": "عقد وفد سوري برئاسة مديرة إدارة المغتربين وشؤون اللاجئين في وزارة الخارجية نهلة عثمان، ‏اجتماعاً ‏موسعاً مع وفد نرويجي برئاسة المديرة العامة للتنمية الدولية في وزارة الخارجية ‏النرويجية ‌‏تيني مورش سميث،‏ وبمشاركة ممثلين عن فرق التنمية والش",
-          "link": "https://sana.sy/syria-and-the-world/2596520/",
-          "publishedAt": "2026-10-03T20:52:55.000Z",
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Iran delays renewing Hamas financial support over failure to undermine West Bank stability - report",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/732995' alt='Masked gunmen from the Qassam brigade, the militia wing of Hamas, attend the funeral of Mazen Faqha in Gaza ",
+          "link": "https://www.jpost.com/middle-east/iran-news/article-910491",
+          "publishedAt": "2026-10-04T06:18:07.000Z",
           "files": [
-            "diplomacy"
+            "economy"
           ],
           "seenBefore": true,
           "us": false
