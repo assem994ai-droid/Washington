@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-04T18:11:32.174Z",
+    "generatedAt": "2026-10-04T21:32:41.569Z",
     "windowHours": 24,
-    "from": "2026-10-03T18:11:32.174Z",
-    "to": "2026-10-04T18:11:32.174Z"
+    "from": "2026-10-03T21:32:41.569Z",
+    "to": "2026-10-04T21:32:41.569Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 26,
     "files": 5,
     "withNew": 3,
     "stale": 2,
     "contested": 1,
-    "echoed": 0,
+    "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 1185
+    "archiveCycles": 1186
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,7 +23,6 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -33,28 +32,99 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
-        "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "North Press Agency (English)",
+        "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor"
+        "سانا — قسم السياسة",
+        "Middle East Eye",
+        "North Press Agency (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 6,
+      "newItems": 5,
       "stale": false,
-      "echoed": false,
+      "echoed": true,
       "usItems": 1,
-      "score": 61,
+      "score": 62,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قطر والأردن والكويت تدين أعمال الاحتلال الإسرائيلي في \"خط سوفا 53\" بالقنيطرة",
+          "excerpt": "دانت قطر والأردن والكويت، اليوم الأحد، استكمال الاحتلال الإسرائيلي الأعمال في ما يُسمى \"خط سوفا 53\" بمحافظة القنيطرة، معتبرةً أن هذه الإجراءات..",
+          "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%AE%D8%B7-%D8%B3%D9%88%D9%81%D8%A7-53-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-04T21:28:33.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel wear black armbands in Ireland tie over Hamas attack",
+          "excerpt": "<p>Israel's national football team wore black armbands in their&nbsp;Nations League clash against Ireland on Sunday to commemorate the victims of Hamas' October 7, 2023 attack, after Irish players wore them to protest the war in Gaza.</p> <",
+          "link": "https://www.al-monitor.com/originals/2026/10/israel-wear-black-armbands-ireland-tie-over-hamas-attack",
+          "publishedAt": "2026-10-04T20:30:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syria condemns Israel's 'violations' of its sovereignty",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3128,w_4692/740439' alt='People celebrate arrest of 2013 Tadamon massacre key suspect Amjad Yousef, in Tadamon Friday, 24th April 2",
+          "link": "https://www.jpost.com/middle-east/article-910576",
+          "publishedAt": "2026-10-04T20:00:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الكويت تدين استكمال الاحتلال الإسرائيلي العمل بما يسمى «خط سوفا ‌‏53»‏ في القنيطرة",
+          "excerpt": "أدانت الكويت بشدة، اليوم الأحد، استكمال الاحتلال الإسرائيلي العمل في ما يسمى \"خط سوفا 53\" بمحافظة القنيطرة، مؤكدة أنه يشكل انتهاكاً صارخاً لسيادة الجمهورية العربية السورية ووحدة أراضيها، وخرقاً فاضحاً للقانون الدولي.",
+          "link": "https://sana.sy/syria-and-the-world/2597377/",
+          "publishedAt": "2026-10-04T19:45:24.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel shells Syria's Quneitra while Qatar and Jordan condemn its excavation near occupied Golan",
+          "excerpt": "<article data-history-node-id=\"448817\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-shells-syrias-quneitra-while-qatar-and-jordan-condemn-its\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shells-syrias-quneitra-while-qatar-and-jordan-condemn-its",
+          "publishedAt": "2026-10-04T19:41:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -66,7 +136,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -80,7 +150,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -95,7 +165,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -109,7 +179,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -123,7 +193,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -137,7 +207,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -181,45 +251,136 @@
           ],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Middle East Eye",
+        "Turkish Minute",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الملف التركي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 24,
+      "items": [
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
+          "source": "Middle East Eye",
+          "sourceId": "mee",
           "circle": "الإعلام المتخصص",
-          "title": "Israel targets top Hamas leader in deadly Gaza strike on anniversary",
-          "excerpt": "<p>Israel said on Saturday that it attempted to kill Hamas's top leader in the Gaza Strip in an airstrike on an apartment that local officials said killed five people, four of them women.</p> <p>The pre-dawn strike came on the anniversary a",
-          "link": "https://www.al-monitor.com/originals/2026/10/israel-targets-top-hamas-leader-deadly-gaza-strike-anniversary",
-          "publishedAt": "2026-10-03T20:30:26.000Z",
+          "title": "Israel says it killed head of Turkish NGO, Hamas commander in separate Gaza strikes",
+          "excerpt": "<article data-history-node-id=\"448819\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-head-turkish-ngo-hamas-commander-separate-gaza\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://ww",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-head-turkish-ngo-hamas-commander-separate-gaza",
+          "publishedAt": "2026-10-04T20:56:19.000Z",
           "files": [
+            "turkey",
             "israel"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israel kills two Islamic Jihad commanders in Gaza",
-          "excerpt": "QAMISHLI, Syria (North Press) – The Israeli military said on Saturday that it killed two commanders in the rocket system of the Islamic Jihad movement in two airstrikes targeting Gaza City on Friday. The military said in a statement that th",
-          "link": "https://npasyria.com/en/142243/",
-          "publishedAt": "2026-10-03T18:31:52.000Z",
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Five earthquakes rattle southern Turkey, no injuries reported",
+          "excerpt": "Five shallow earthquakes rattled southern Turkey on Sunday, with tremors also felt in northern Syria, but there were no reports of injuries or damage, authorities on both sides said. Three of the earthquakes struck in the early afternoon an",
+          "link": "https://turkishminute.com/2026/10/04/five-earthquakes-rattle-southern-turkey-no-injuries-reported/",
+          "publishedAt": "2026-10-04T20:16:51.000Z",
           "files": [
-            "israel"
+            "turkey"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "حاجز مؤقت واختطاف شاب.. توغل جديد لجيش الاحتلال في ريف القنيطرة",
-          "excerpt": "أفاد مراسل تلفزيون سوريا، السبت، بأن قوات الاحتلال الإسرائيلي توغلت في بلدة الحميدية بريف القنيطرة، واحتجزت شاباً لفترة وجيزة قبل أن تفرج عنه",
-          "link": "https://www.syria.tv/%D8%AD%D8%A7%D8%AC%D8%B2-%D9%85%D8%A4%D9%82%D8%AA-%D9%88%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D8%B4%D8%A7%D8%A8-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-03T18:20:49.000Z",
+          "title": "ثلاث هزات أرضية متتالية جنوبي تركيا يشعر بها سكان الشمال السوري",
+          "excerpt": "سجلت محطات الرصد الزلزالي التابعة للمركز الوطني للزلازل في وزارة الطوارئ وإدارة الكوارث ثلاث هزات أرضية متتالية جنوبي تركيا، على امتداد صدع شرقي الأناضول",
+          "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB-%D9%87%D8%B2%D8%A7%D8%AA-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%8A%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%B3%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+          "publishedAt": "2026-10-04T16:05:16.000Z",
           "files": [
-            "israel"
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 14,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية أممية لتطوير الأطر التشريعية الرقابية وتعزيز معايير النزاهة والحوكمة",
+          "excerpt": "عقدت الهيئة المركزية للرقابة والتفتيش اليوم الأحد، اجتماعاً مع وفد رفيع المستوى من مكتب الأمم المتحدة المعني بالمخدرات والجريمة (فرع مكافحة الفساد والجرائم المالية)، ركز على بحث آليات تحديث مشاريع القوانين والتشريعات الناظمة لعمل الهيئة، به",
+          "link": "https://sana.sy/politics/2597426/",
+          "publishedAt": "2026-10-04T20:56:18.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية أذربيجانية لتعزيز التعاون وتبادل الخبرات",
+          "excerpt": "بحث محافظ دمشق ماهر مروان إدلبي، مع القائم بأعمال سفارة جمهورية أذربيجان لدى ‏دمشق، ألنور شاه حسينوف، تعزيز التعاون المشترك بين دمشق وباكو، وذلك في إطار ‏متابعة مخرجات الزيارة التي قام بها الوفد السوري إلى أذربيجان.‏",
+          "link": "https://sana.sy/syria-and-the-world/2597425/",
+          "publishedAt": "2026-10-04T20:52:49.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات لتعزيز التنسيق والتعاون بين الحكومة السورية وبعثة ‏الأندوف ‏",
+          "excerpt": "بحث مدير إدارة المنظمات والمؤتمرات الدولية في وزارة ‌‏‌‏الخارجية ‏والمغتربين سعد بارود، مع اللواء أنيتا ‌‏أسماه، ‏رئيسة ‏بعثة وقائدة قوة الأمم المتحدة لمراقبة فض ‌‏الاشتباك ‌‏‌‏(الأندوف)‌‌‌‌‌‌،‏ ‏سبل تعزيز التنسيق بين ‌‏الحكومة ‏السورية وال",
+          "link": "https://sana.sy/politics/2596852/",
+          "publishedAt": "2026-10-04T10:21:42.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -241,13 +402,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 18:11",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 21,
+      "score": 12,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -258,7 +419,7 @@
           "link": "https://npasyria.com/en/142265/",
           "publishedAt": "2026-10-04T15:01:03.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -312,106 +473,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 13,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ثلاث هزات أرضية متتالية جنوبي تركيا يشعر بها سكان الشمال السوري",
-          "excerpt": "سجلت محطات الرصد الزلزالي التابعة للمركز الوطني للزلازل في وزارة الطوارئ وإدارة الكوارث ثلاث هزات أرضية متتالية جنوبي تركيا، على امتداد صدع شرقي الأناضول",
-          "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB-%D9%87%D8%B2%D8%A7%D8%AA-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%8A%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%B3%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-          "publishedAt": "2026-10-04T16:05:16.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مصرع شاب سوري بانفجار معمل للحديد في تركيا",
-          "excerpt": "الشاب يبلغ من العمر 25 عاما وفارق الحياة متأثرا بإصابات خطيرة من جراء الانفجار الذي لم تعرف أسبابه.",
-          "link": "https://www.syria.tv/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B4%D8%A7%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B9%D9%85%D9%84-%D9%84%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-10-03T18:41:35.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 14:14",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 0,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات لتعزيز التنسيق والتعاون بين الحكومة السورية وبعثة ‏الأندوف ‏",
-          "excerpt": "بحث مدير إدارة المنظمات والمؤتمرات الدولية في وزارة ‌‏‌‏الخارجية ‏والمغتربين سعد بارود، مع اللواء أنيتا ‌‏أسماه، ‏رئيسة ‏بعثة وقائدة قوة الأمم المتحدة لمراقبة فض ‌‏الاشتباك ‌‏‌‏(الأندوف)‌‌‌‌‌‌،‏ ‏سبل تعزيز التنسيق بين ‌‏الحكومة ‏السورية وال",
-          "link": "https://sana.sy/politics/2596852/",
-          "publishedAt": "2026-10-04T10:21:42.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية نرويجية لتعزيز التعاون ودعم التعافي والتنمية المستدامة",
-          "excerpt": "عقد وفد سوري برئاسة مديرة إدارة المغتربين وشؤون اللاجئين في وزارة الخارجية نهلة عثمان، ‏اجتماعاً ‏موسعاً مع وفد نرويجي برئاسة المديرة العامة للتنمية الدولية في وزارة الخارجية ‏النرويجية ‌‏تيني مورش سميث،‏ وبمشاركة ممثلين عن فرق التنمية والش",
-          "link": "https://sana.sy/syria-and-the-world/2596520/",
-          "publishedAt": "2026-10-03T20:52:55.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -423,7 +484,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 14:14",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 18:11",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -436,7 +497,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Iran delays renewing Hamas financial support over failure to undermine West Bank stability - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5312,w_7992/732995' alt='Masked gunmen from the Qassam brigade, the militia wing of Hamas, attend the funeral of Mazen Faqha in Gaz",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732995' alt='Masked gunmen from the Qassam brigade, the militia wing of Hamas, attend the funeral of Mazen Faqha in Gaza",
           "link": "https://www.jpost.com/middle-east/iran-news/article-910491",
           "publishedAt": "2026-10-04T06:18:07.000Z",
           "files": [
