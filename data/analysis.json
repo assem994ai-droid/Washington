@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-04T14:14:01.408Z",
+    "generatedAt": "2026-10-04T18:11:32.174Z",
     "windowHours": 24,
-    "from": "2026-10-03T14:14:01.408Z",
-    "to": "2026-10-04T14:14:01.408Z"
+    "from": "2026-10-03T18:11:32.174Z",
+    "to": "2026-10-04T18:11:32.174Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 22,
     "files": 5,
     "withNew": 3,
     "stale": 2,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 1184
+    "americanItems": 2,
+    "archiveCycles": 1185
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,26 +33,113 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor"
       ],
       "circles": [
+        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 6,
       "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 30,
+      "usItems": 1,
+      "score": 61,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "قطر والأردن تدينان استكمال الاحتلال الإسرائيلي العمل في ما يسمى «خط سوفا ‌‏53»‏",
+          "excerpt": "أدانت قطر والأردن، اليوم الأحد، استكمال الاحتلال الإسرائيلي العمل في ما يسمى ‌‏«خط سوفا 53» بمحافظة القنيطرة، مؤكّدتين أنه يشكل انتهاكاً لسيادة سوريا ووحدة ‏أراضيها، وخرقاً للقانون الدولي واتفاق فصل القوات لعام 1974، وتهديداً لأمن ‏المنطقة ",
+          "link": "https://sana.sy/politics/2597260/",
+          "publishedAt": "2026-10-04T17:56:21.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "وقفة احتجاجية لأبناء الجالية السورية في بروكسل رفضاً للاعتداءات الإسرائيلية",
+          "excerpt": "نظم العشرات من أبناء الجالية السورية في العاصمة البلجيكية بروكسل اليوم الأحد، وقفة احتجاجية ‏رفضاً للاعتداءات الإسرائيلية على سوريا، مطالبين بانسحاب قوات الاحتلال الإسرائيلي ‏من كامل الأراضي السورية، ووقف تدخلها في الشؤون السورية وسياسة الت",
+          "link": "https://sana.sy/syria-and-the-world/2597221/",
+          "publishedAt": "2026-10-04T17:12:21.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الخارجية السورية تدين الانتهاكات الإسرائيلية وتطالب بوقف العمل في \"خط سوفا 53\"",
+          "excerpt": "دانت وزارة الخارجية والمغتربين السورية استمرار الانتهاكات الإسرائيلية بحق الأراضي السورية، وآخرها مواصلة العمل في ما يُسمى \"خط سوفا 53\"",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D8%AE%D8%B7-%D8%B3%D9%88%D9%81%D8%A7-53",
+          "publishedAt": "2026-10-04T16:07:11.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria condemns continued Israeli violations of its territory",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Foreign Ministry condemned on Sunday what it described as continued Israeli violations of Syrian territory, calling for an immediate halt to attacks and interference in the country’s internal affairs.",
+          "link": "https://npasyria.com/en/142268/",
+          "publishedAt": "2026-10-04T16:04:55.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Israeli spy Eli Cohen may have been buried near Damascus barracks, Syrian official claims",
+          "excerpt": "<img align='right' src='https://www.jpost.com/httphandlers/showimage.ashx?id=286711' alt='Reproduction of an Israeli stamp being issued to honour the Mossad intelligence agency spy Eli Cohen who was hanged in Damascus (photo credit: REUTERS",
+          "link": "https://www.jpost.com/middle-east/article-910535",
+          "publishedAt": "2026-10-04T15:30:03.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تدين انتهاكات الاحتلال الإسرائيلي واستكمال العمل فيما يسمى &#8220;خط سوفا 53&#8221;",
+          "excerpt": "أدانت الجمهورية العربية السورية بأشد العبارات، الانتهاكات المتواصلة التي يرتكبها ‌‏الاحتلال الإسرائيلي بحق الأراضي السورية، والتي كان آخرها استكمال العمل فيما ‏يسمى ‌‏\"خط سوفا 53\"، في خرق فاضح لاتفاقية فصل القوات لعام 1974، وانتهاك ‏صارخ ‏ل",
+          "link": "https://sana.sy/politics/2597104/",
+          "publishedAt": "2026-10-04T15:03:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -64,7 +151,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -136,20 +223,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغل بريف القنيطرة وتقصف أطراف معرية بدرعا",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، السبت، غربي بلدة صيدا الحانوت في ريف القنيطرة، وأوقفت مؤقتاً عدداً من رعاة الأبقار في المنطقة، وفقاً لمراسل تلفزيون سوريا.",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%82%D8%B5%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D9%85%D8%B9%D8%B1%D9%8A%D8%A9-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-10-03T17:25:05.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -160,22 +233,34 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "The National",
-        "North Press Agency (English)"
+        "The National"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 29,
+      "score": 21,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UNDOF, Syrian officials discuss coordination in Damascus",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Affairs and Defense Ministry officials met on Sunday with the United Nations Disengagement Observer Force (UNDOF) delegation in Damascus, Syria’s state news agency SANA reported. SANA said Saad",
+          "link": "https://npasyria.com/en/142265/",
+          "publishedAt": "2026-10-04T15:01:03.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -185,7 +270,7 @@
           "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81-%D8%AA%D9%86%D8%B3%D9%91%D9%82%D8%A7%D9%86-%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF",
           "publishedAt": "2026-10-04T12:26:47.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -197,7 +282,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/10/04/syria-christians-suqaylabiyah/",
           "publishedAt": "2026-10-04T11:59:47.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -209,7 +294,7 @@
           "link": "https://npasyria.com/en/142254/",
           "publishedAt": "2026-10-04T08:34:36.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -223,16 +308,54 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 13,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "ثلاث هزات أرضية متتالية جنوبي تركيا يشعر بها سكان الشمال السوري",
+          "excerpt": "سجلت محطات الرصد الزلزالي التابعة للمركز الوطني للزلازل في وزارة الطوارئ وإدارة الكوارث ثلاث هزات أرضية متتالية جنوبي تركيا، على امتداد صدع شرقي الأناضول",
+          "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB-%D9%87%D8%B2%D8%A7%D8%AA-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D9%85%D8%AA%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%8A%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%B3%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+          "publishedAt": "2026-10-04T16:05:16.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Two Iranians appear in UK court over alleged plot targeting Jews",
-          "excerpt": "QAMISHLI, Syria (North Press) – Two Iranian nationals appeared before a London court on Saturday, accused of preparing terrorist acts allegedly targeting the Jewish community in Manchester, northern England, according to British prosecutors",
-          "link": "https://npasyria.com/en/142240/",
-          "publishedAt": "2026-10-03T16:28:56.000Z",
-          "files": [],
+          "title": "مصرع شاب سوري بانفجار معمل للحديد في تركيا",
+          "excerpt": "الشاب يبلغ من العمر 25 عاما وفارق الحياة متأثرا بإصابات خطيرة من جراء الانفجار الذي لم تعرف أسبابه.",
+          "link": "https://www.syria.tv/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B4%D8%A7%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B9%D9%85%D9%84-%D9%84%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-10-03T18:41:35.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -250,13 +373,13 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 14:14",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 0,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -269,7 +392,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -289,42 +412,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 08:23",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مصرع شاب سوري بانفجار معمل للحديد في تركيا",
-          "excerpt": "الشاب يبلغ من العمر 25 عاما وفارق الحياة متأثرا بإصابات خطيرة من جراء الانفجار الذي لم تعرف أسبابه.",
-          "link": "https://www.syria.tv/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B4%D8%A7%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B9%D9%85%D9%84-%D9%84%D9%84%D8%AD%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-10-03T18:41:35.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
@@ -336,7 +423,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 08:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-04 14:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -349,7 +436,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Iran delays renewing Hamas financial support over failure to undermine West Bank stability - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/732995' alt='Masked gunmen from the Qassam brigade, the militia wing of Hamas, attend the funeral of Mazen Faqha in Gaza ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5312,w_7992/732995' alt='Masked gunmen from the Qassam brigade, the militia wing of Hamas, attend the funeral of Mazen Faqha in Gaz",
           "link": "https://www.jpost.com/middle-east/iran-news/article-910491",
           "publishedAt": "2026-10-04T06:18:07.000Z",
           "files": [
