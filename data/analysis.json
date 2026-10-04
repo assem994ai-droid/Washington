@@ -1,27 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-03T22:48:44.145Z",
+    "generatedAt": "2026-10-04T08:23:08.568Z",
     "windowHours": 24,
-    "from": "2026-10-02T22:48:44.145Z",
-    "to": "2026-10-03T22:48:44.145Z"
+    "from": "2026-10-03T08:23:08.568Z",
+    "to": "2026-10-04T08:23:08.568Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 11,
+    "items": 12,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
-    "contested": 0,
+    "withNew": 3,
+    "stale": 2,
+    "contested": 1,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 1182
+    "americanItems": 0,
+    "archiveCycles": 1183
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -32,27 +31,71 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 5,
       "sources": [
-        "Al-Monitor",
+        "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Middle East Eye"
+        "Middle East Eye",
+        "Al-Monitor",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 41,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Ex-PA minister who said he warned Israel about Oct. 7 denies claims he tried to influence election",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2912,w_4368/738369' alt='Sufian Abu Zaida, former Fatah cabinet minister. (photo credit: FLASH90)' title='Sufian Abu Zaida, former ",
+          "link": "https://www.jpost.com/middle-east/article-910495",
+          "publishedAt": "2026-10-04T08:06:15.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces intensify incursions in southern Syria",
+          "excerpt": "DAMASCUS, Syria (North Press) – Daraa and Quneitra countryside in southern Syria witnessed shelling and an Israeli incursion over the past 24 hours amid repeated incursions and raids in border villages. Local sources told North Press that I",
+          "link": "https://npasyria.com/en/142251/",
+          "publishedAt": "2026-10-04T06:41:44.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel says 1, 318 personnel killed since 7 Oct Hamas attack",
+          "excerpt": "<article data-history-node-id=\"448785\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-1-318-personnel-killed-7-oct-hamas-attack\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-1-318-personnel-killed-7-oct-hamas-attack",
+          "publishedAt": "2026-10-04T05:21:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -64,7 +107,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -108,56 +151,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Report: Israeli attempt to kill senior Hamas official fails",
-          "excerpt": "<article data-history-node-id=\"448760\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attempt-kill-senior-hamas-official-fails\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeaste",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attempt-kill-senior-hamas-official-fails",
-          "publishedAt": "2026-10-03T16:13:56.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية نرويجية لتعزيز التعاون ودعم التعافي والتنمية المستدامة",
-          "excerpt": "عقد وفد سوري برئاسة مديرة إدارة المغتربين وشؤون اللاجئين في وزارة الخارجية نهلة عثمان، ‏اجتماعاً ‏موسعاً مع وفد نرويجي برئاسة المديرة العامة للتنمية الدولية في وزارة الخارجية ‏النرويجية ‌‏تيني مورش سميث،‏ وبمشاركة ممثلين عن فرق التنمية والش",
-          "link": "https://sana.sy/syria-and-the-world/2596520/",
-          "publishedAt": "2026-10-03T20:52:55.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
         }
       ]
     },
@@ -168,21 +161,33 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "North Press Agency (English)",
-        "The National"
+        "The National",
+        "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 20:00",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 7,
+      "usItems": 0,
+      "score": 12,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria 'pressing on accelerator' to attract US investors",
+          "excerpt": "US investors see an opportunity to invest early in Syria as the transitional government races to establish a pro-business environment and attract foreign capital.“We see that the door is open, and we're coming early,” Steve Lutes, vice pres",
+          "link": "https://www.thenationalnews.com/news/us/2026/10/04/syria-pressing-on-accelerator-to-attract-us-investors/",
+          "publishedAt": "2026-10-04T04:00:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -194,29 +199,41 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S.-led Coalition pledges over $75M for Syria, Iraq counter-ISIS efforts",
-          "excerpt": "QAMISHLI, Syria (North Press) – Members of the Global Coalition to Defeat ISIS pledged more than $75 million to support counterterrorism efforts in Syria and Iraq during a meeting in Rome on Oct. 1, as international partners discussed measu",
-          "link": "https://npasyria.com/en/142237/",
-          "publishedAt": "2026-10-03T06:48:33.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Flydubai co-pilot attacked pilot with axe in 'attempted terrorist act', says attorney general",
-          "excerpt": "The co-pilot on the flydubai flight forced to divert to Saudi Arabia \"attempted to carry out a terrorist act\", the UAE's attorney general said on Saturday.Hamad Al Shamsi said investigations revealed that the co-pilot on flight FZ1073 attac",
-          "link": "https://www.thenationalnews.com/news/uae/2026/10/03/co-pilot-on-flydubai-flight-attempted-to-carry-out-terrorist-act-uaes-attorney-general-says/",
-          "publishedAt": "2026-10-03T06:30:57.000Z",
-          "files": [],
-          "seenBefore": true,
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Iran delays renewing Hamas financial support over failure to undermine West Bank stability - report",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/732995' alt='Masked gunmen from the Qassam brigade, the militia wing of Hamas, attend the funeral of Mazen Faqha in Gaza ",
+          "link": "https://www.jpost.com/middle-east/iran-news/article-910491",
+          "publishedAt": "2026-10-04T06:18:07.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
           "us": false
         }
       ]
@@ -233,7 +250,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 20:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 22:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -258,18 +275,18 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "The National"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام المتخصص"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 20:00",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-03 22:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -278,15 +295,15 @@
       "score": -1,
       "items": [
         {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Takreem Foundation supports Lebanese children at 15th anniversary awards event",
-          "excerpt": "The Takreem Foundation has raised funds for its mentorship programme and a Lebanese non-profit group dedicated to supporting children, Afel, at an event in Paris celebrating its 15 years of operations.An auction led by Christie's brought to",
-          "link": "https://www.thenationalnews.com/news/2026/10/03/takreem-foundation-supports-lebanese-children-at-15-years-anniversary/",
-          "publishedAt": "2026-10-03T05:00:01.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية نرويجية لتعزيز التعاون ودعم التعافي والتنمية المستدامة",
+          "excerpt": "عقد وفد سوري برئاسة مديرة إدارة المغتربين وشؤون اللاجئين في وزارة الخارجية نهلة عثمان، ‏اجتماعاً ‏موسعاً مع وفد نرويجي برئاسة المديرة العامة للتنمية الدولية في وزارة الخارجية ‏النرويجية ‌‏تيني مورش سميث،‏ وبمشاركة ممثلين عن فرق التنمية والش",
+          "link": "https://sana.sy/syria-and-the-world/2596520/",
+          "publishedAt": "2026-10-03T20:52:55.000Z",
           "files": [
-            "lebanon"
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
