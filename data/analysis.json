@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-05T05:31:11.144Z",
+    "generatedAt": "2026-10-05T12:35:03.488Z",
     "windowHours": 24,
-    "from": "2026-10-04T05:31:11.144Z",
-    "to": "2026-10-05T05:31:11.144Z"
+    "from": "2026-10-04T12:35:03.488Z",
+    "to": "2026-10-05T12:35:03.488Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
-    "files": 5,
-    "withNew": 1,
-    "stale": 4,
-    "contested": 1,
+    "items": 33,
+    "files": 4,
+    "withNew": 4,
+    "stale": 0,
+    "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 1188
+    "archiveCycles": 1189
   },
   "emptyCircles": [
     "الكونغرس",
@@ -30,32 +30,143 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 7,
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
+      "independentSources": 6,
       "sources": [
-        "The National",
-        "Al-Monitor",
-        "Middle East Eye",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "Al-Monitor",
+        "North Press Agency (English)",
+        "The National",
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 8 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 8,
       "stale": false,
       "echoed": true,
       "usItems": 1,
-      "score": 56,
+      "score": 77,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الهلال الأحمر والأندوف يتجهزان لاستلام جثمان شاب استهدفه الاحتلال بريف القنيطرة",
+          "excerpt": "تتجهز فرق الهلال الأحمر السوري وقوات الأمم المتحدة لمراقبة فض الاشتباك \"أندوف\" للدخول إلى قاعدة الحميدية واستلام جثمان الشاب الذي قُتل برصاص قوات الاحتلال",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81-%D9%8A%D8%AA%D8%AC%D9%87%D8%B2%D8%A7%D9%86-%D9%84%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85-%D8%AC%D8%AB%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D9%87-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-05T12:24:05.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مصر تدين استكمال الاحتلال الإسرائيلي العمل فيما يسمى &#8220;خط سوفا 53&#8221; في القنيطرة",
+          "excerpt": "أدانت مصر بأشد العبارات استمرار الانتهاكات الإسرائيلية للسيادة السورية، واستكمال العمل في ‏ما يسمى ‌‏«خط سوفا 53» بمحافظة القنيطرة.‏",
+          "link": "https://sana.sy/syria-and-the-world/2597829/",
+          "publishedAt": "2026-10-05T10:50:44.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تتوغل جنوبي القنيطرة وتمنع إخماد حريق قرب الحميدية",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي في قرية الأصبح جنوبي محافظة القنيطرة، بالتزامن مع تحليق طيران مسيّر، في حين اندلع حريق في محيط بلدة الحميدية..",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%85%D9%86%D8%B9-%D8%A5%D8%AE%D9%85%D8%A7%D8%AF-%D8%AD%D8%B1%D9%8A%D9%82-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9",
+          "publishedAt": "2026-10-05T09:13:01.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "جيش الاحتلال يدّعي مقتل شخص قرب موقع عسكري إسرائيلي في ريف القنيطرة",
+          "excerpt": "زعم جيش الاحتلال الإسرائيلي، فجر الاثنين، أنه قتل شخصاً قال إنه حاول التسلل إلى موقع عسكري تابع له في المنطقة العازلة جنوبي سوريا، قرب ريف القنيطرة.",
+          "link": "https://www.syria.tv/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AF%D9%91%D8%B9%D9%8A-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D9%82%D8%B1%D8%A8-%D9%85%D9%88%D9%82%D8%B9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-05T08:54:47.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل ويفجّر ثكنات عسكرية قرب بيت جن بريف دمشق",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الاثنين، في منطقة الكروم على أطراف بلدة بيت جن بريف دمشق الغربي، بالتزامن مع تحليق طائرات استطلاع مسيّرة فوق المنطقة",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%88%D9%8A%D9%81%D8%AC%D9%91%D8%B1-%D8%AB%D9%83%D9%86%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%82%D8%B1%D8%A8-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-10-05T08:12:03.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وسط تحليق للطيران.. توغل وتفجيرات للاحتلال في أطراف بيت جن بريف دمشق",
+          "excerpt": "توغلت دورية من قوات الاحتلال الإسرائيلي، صباح الاثنين، في منطقة الكروم على أطراف بلدة بيت جن بريف دمشق الغربي",
+          "link": "https://www.syria.tv/%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%84%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%BA%D9%84-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-10-05T07:20:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "For freed Israeli hostages, every moment is now precious",
+          "excerpt": "<p>By Shir Torem and Hannah Confino</p><p>TEL AVIV, Oct 5 (Reuters) - Taken with their children or alone. Held for weeks, months or years. Confined in captors' homes or Hamas tunnels as war raged above them. Israeli former hostages seized o",
+          "link": "https://www.al-monitor.com/originals/2026/10/freed-israeli-hostages-every-moment-now-precious",
+          "publishedAt": "2026-10-05T06:46:35.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces kill man near military post in southern Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – The Israeli military on Monday said its forces killed a man who allegedly attempted to infiltrate an army post in southern Syria. The army said soldiers identified the &#8220;suspect&#8221; attempting to ente",
+          "link": "https://npasyria.com/en/142275/",
+          "publishedAt": "2026-10-05T05:49:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -67,7 +178,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,20 +189,6 @@
           "excerpt": "<p>Israeli rescuer Natan Kenig says it does not take much of a trigger for him to relive the October 7, 2023 attack: his eyes open or closed, at home or out with friends, he still sees the rockets, torched cars and lifeless bodies.</p> <p>\"",
           "link": "https://www.al-monitor.com/originals/2026/10/three-years-israeli-rescuer-cannot-escape-october-7",
           "publishedAt": "2026-10-05T02:30:22.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli troops kill man in southern Syria",
-          "excerpt": "<article data-history-node-id=\"448824\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-man-southern-syria\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-man-southern-syria",
-          "publishedAt": "2026-10-04T23:43:43.000Z",
           "files": [
             "israel"
           ],
@@ -148,20 +245,6 @@
           "excerpt": "أدانت الكويت بشدة، اليوم الأحد، استكمال الاحتلال الإسرائيلي العمل في ما يسمى \"خط سوفا 53\" بمحافظة القنيطرة، مؤكدة أنه يشكل انتهاكاً صارخاً لسيادة الجمهورية العربية السورية ووحدة أراضيها، وخرقاً فاضحاً للقانون الدولي.",
           "link": "https://sana.sy/syria-and-the-world/2597377/",
           "publishedAt": "2026-10-04T19:45:24.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel shells Syria's Quneitra while Qatar and Jordan condemn its excavation near occupied Golan",
-          "excerpt": "<article data-history-node-id=\"448817\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-shells-syrias-quneitra-while-qatar-and-jordan-condemn-its\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shells-syrias-quneitra-while-qatar-and-jordan-condemn-its",
-          "publishedAt": "2026-10-04T19:41:26.000Z",
           "files": [
             "israel"
           ],
@@ -252,46 +335,87 @@
           ],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 4,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 30,
+      "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يواصل حفر مشروع \"سوفا 53\" بالقنيطرة.. ما مراحله وماذا يعني اكتماله؟",
-          "excerpt": "استأنفت قوات الاحتلال الإسرائيلي أعمال الحفر والتجريف ضمن مشروع \"سوفا 53\" في ريف القنيطرة الجنوبي، في خطوة جديدة تأتي بعد أشهر من تنفيذ أعمال هندسية في مناطق أخ",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AD%D9%81%D8%B1-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B3%D9%88%D9%81%D8%A7-53-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%85%D8%A7-%D9%85%D8%B1%D8%A7%D8%AD%D9%84%D9%87-%D9%88%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B9%D9%86%D9%8A-%D8%A7%D9%83%D8%AA%D9%85%D8%A7%D9%84%D9%87%D8%9F",
-          "publishedAt": "2026-10-04T10:32:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "No attempt to influence Israeli election, says Sinwar mediator who revealed Oct. 7 warning",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2912,w_4368/738369' alt='Sufian Abu Zaida, former Fatah cabinet minister. (photo credit: FLASH90)' title='Sufian Abu Zaida, former ",
-          "link": "https://www.jpost.com/middle-east/article-910495",
-          "publishedAt": "2026-10-04T08:06:15.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
+          "title": "الاحتلال يمنع سيارات للأندوف من المرور في ريف درعا",
+          "excerpt": "منعت قوات الاحتلال الإسرائيلي المتوغلة في ريف درعا، اليوم الاثنين، مرور أربع سيارات تابعة لقوة الأمم المتحدة لمراقبة فضّ الاشتباك \"أندوف\"، وأجبرتها على العودة",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%85%D9%86%D8%B9-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-10-05T11:00:30.000Z",
+          "files": [],
+          "seenBefore": false,
           "us": false
         },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces intensify incursions in southern Syria",
-          "excerpt": "DAMASCUS, Syria (North Press) – Daraa and Quneitra countryside in southern Syria witnessed shelling and an Israeli incursion over the past 24 hours amid repeated incursions and raids in border villages. Local sources told North Press that I",
-          "link": "https://npasyria.com/en/142251/",
-          "publishedAt": "2026-10-04T06:41:44.000Z",
-          "files": [
-            "israel"
-          ],
+          "title": "Syria arrests former Assad regime-linked militia commander over 2013 events",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syria’s Internal Security Forces on Sunday announced that its Counterterrorism Department arrested Jamal Trabulsi, deputy to Ali Kayali, known as “Mihraç Ural,” who led the armed group known as the “Syrian Re",
+          "link": "https://npasyria.com/en/142295/",
+          "publishedAt": "2026-10-05T07:46:22.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Yemen launches military operation to retake Houthi-held areas",
+          "excerpt": "DAMASCUS, Syria (North Press) – Yemen’s Saudi-backed, internationally recognized government on Sunday launched a major military operation aimed at retaking areas controlled by the Houthis, in a new escalation of the country’s long-running w",
+          "link": "https://npasyria.com/en/142292/",
+          "publishedAt": "2026-10-05T07:20:58.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. evacuates B-1 bombers from UK base after Iran attack threats",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States evacuated a dozen B-1 bombers from RAF Fairford in the United Kingdom over the weekend following threats of an Iranian attack on the base, the Pentagon on Sunday said. A U.S. official said t",
+          "link": "https://npasyria.com/en/142288/",
+          "publishedAt": "2026-10-05T06:30:05.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UNDOF, Syrian officials discuss coordination in Damascus",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Affairs and Defense Ministry officials met on Sunday with the United Nations Disengagement Observer Force (UNDOF) delegation in Damascus, Syria’s state news agency SANA reported. SANA said Saad",
+          "link": "https://npasyria.com/en/142265/",
+          "publishedAt": "2026-10-04T15:01:03.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -302,38 +426,64 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "Middle East Eye",
         "Turkish Minute",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الملف التركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 00:08",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 3,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 11,
+      "score": 27,
       "items": [
         {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel says it killed head of Turkish NGO, Hamas commander in separate Gaza strikes",
-          "excerpt": "<article data-history-node-id=\"448819\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-head-turkish-ngo-hamas-commander-separate-gaza\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://ww",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-head-turkish-ngo-hamas-commander-separate-gaza",
-          "publishedAt": "2026-10-04T20:56:19.000Z",
+          "source": "Turkish Minute",
+          "sourceId": "turkishminute",
+          "circle": "الملف التركي",
+          "title": "Israel says it killed Turkish aid group volunteer in Gaza strike",
+          "excerpt": "The Israeli military said Sunday that it had killed a Palestinian who worked with the Turkish humanitarian organization Deniz Feneri in a strike in Gaza, accusing him of belonging to Hamas’s armed wing. The military identified the man as Sa",
+          "link": "https://turkishminute.com/2026/10/05/israel-says-it-killed-turkish-aid-group-volunteer-in-gaza-strike/",
+          "publishedAt": "2026-10-05T09:05:29.000Z",
           "files": [
             "turkey",
             "israel"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هزة أرضية في تركيا بقوة 3.8 درجات شعر بها سكان شمالي سوريا",
+          "excerpt": "قال المركز، في بيان نشره عبر قناته على \"تلغرام\"، إن الهزة وقعت عند الساعة 01:52 من فجر اليوم، على عمق 8.6 كيلومترات، مشيراً إلى أن مركزها يقع في منطقة قديرلي",
+          "link": "https://www.syria.tv/%D9%87%D8%B2%D8%A9-%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A8%D9%82%D9%88%D8%A9-38-%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA-%D8%B4%D8%B9%D8%B1-%D8%A8%D9%87%D8%A7-%D8%B3%D9%83%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-05T07:36:39.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مدرسة رجب طيب أردوغان التركية الدولية تبدأ عامها الدراسي في دمشق",
+          "excerpt": "تضم المدرسة 36 شعبة دراسية لمراحل التعليم الابتدائي والإعدادي والثانوي، وشهدت مراسم افتتاحها مشاركة المدير العام للاتحاد الأوروبي والعلاقات الخارجية",
+          "link": "https://www.syria.tv/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%B1%D8%AC%D8%A8-%D8%B7%D9%8A%D8%A8-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%B9%D8%A7%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-10-05T07:23:11.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
           "us": false
         },
         {
@@ -367,98 +517,41 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "The National"
+        "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 00:08",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 11,
+      "usItems": 0,
+      "score": 13,
       "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UNDOF, Syrian officials discuss coordination in Damascus",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Affairs and Defense Ministry officials met on Sunday with the United Nations Disengagement Observer Force (UNDOF) delegation in Damascus, Syria’s state news agency SANA reported. SANA said Saad",
-          "link": "https://npasyria.com/en/142265/",
-          "publishedAt": "2026-10-04T15:01:03.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "سوريا والأندوف تنسّقان لمراقبة انتهاكات اتفاق فض الاشتباك في جنوبي البلاد",
-          "excerpt": "بحث مدير إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية السورية سعد بارود، مع رئيسة بعثة وقائدة قوة الأمم المتحدة لمراقبة فضّ الاشتباك \"الأندوف\"",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81-%D8%AA%D9%86%D8%B3%D9%91%D9%82%D8%A7%D9%86-%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83-%D9%81%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF",
-          "publishedAt": "2026-10-04T12:26:47.000Z",
-          "files": [],
-          "seenBefore": true,
+          "title": "سوريا تبحث مع ممثلة برنامج الأمم المتحدة الإنمائي آفاق التعاون التنموي",
+          "excerpt": "بحث رئيس هيئة الاستثمار السورية أحمد رواد رمضان، الاثنين، مع رئيسة المفوضية في برنامج الأمم المتحدة الإنمائي (UNDP) ميلاني هاوينشتاين، آفاق التعاون التنموي",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%85%D9%85%D8%AB%D9%84%D8%A9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D9%85%D8%A7%D8%A6%D9%8A-%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%88%D9%8A",
+          "publishedAt": "2026-10-05T10:58:32.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
           "us": false
         },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Clashes erupt in Christian town in central Syria",
-          "excerpt": "Security forces were sent to the Christian town of Suqaylabiyah in central Syria at the weekend after young Sunnis from a nearby area went there and started a fight, residents and state media said.It was the second incident of sectarian vio",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/04/syria-christians-suqaylabiyah/",
-          "publishedAt": "2026-10-04T11:59:47.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran says Strait of Hormuz stays closed until U.S. meets conditions",
-          "excerpt": "DAMASCUS, Syria (North Press) – Iranian Parliament Speaker Mohammad Bagher Ghalibaf on Sunday said Iran will not reopen the Strait of Hormuz until its seven conditions outlined in an interim understanding with the United States reached last",
-          "link": "https://npasyria.com/en/142254/",
-          "publishedAt": "2026-10-04T08:34:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 00:08",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 1,
-      "items": [
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -483,56 +576,6 @@
           "publishedAt": "2026-10-04T20:52:49.000Z",
           "files": [
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات لتعزيز التنسيق والتعاون بين الحكومة السورية وبعثة ‏الأندوف ‏",
-          "excerpt": "بحث مدير إدارة المنظمات والمؤتمرات الدولية في وزارة ‌‏‌‏الخارجية ‏والمغتربين سعد بارود، مع اللواء أنيتا ‌‏أسماه، ‏رئيسة ‏بعثة وقائدة قوة الأمم المتحدة لمراقبة فض ‌‏الاشتباك ‌‏‌‏(الأندوف)‌‌‌‌‌‌،‏ ‏سبل تعزيز التنسيق بين ‌‏الحكومة ‏السورية وال",
-          "link": "https://sana.sy/politics/2596852/",
-          "publishedAt": "2026-10-04T10:21:42.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 00:08",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Iran delays renewing Hamas financial support over failure to undermine West Bank stability - report",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5312,w_7992/732995' alt='Masked gunmen from the Qassam brigade, the militia wing of Hamas, attend the funeral of Mazen Faqha in Gaz",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-910491",
-          "publishedAt": "2026-10-04T06:18:07.000Z",
-          "files": [
-            "economy"
           ],
           "seenBefore": true,
           "us": false
