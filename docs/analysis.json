@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-06T15:03:45.713Z",
+    "generatedAt": "2026-10-06T20:12:12.854Z",
     "windowHours": 24,
-    "from": "2026-10-05T15:03:45.713Z",
-    "to": "2026-10-06T15:03:45.713Z"
+    "from": "2026-10-05T20:12:12.854Z",
+    "to": "2026-10-06T20:12:12.854Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
-    "files": 4,
-    "withNew": 2,
-    "stale": 2,
+    "items": 16,
+    "files": 3,
+    "withNew": 3,
+    "stale": 0,
     "contested": 0,
-    "echoed": 1,
-    "americanItems": 4,
-    "archiveCycles": 1193
+    "echoed": 0,
+    "americanItems": 3,
+    "archiveCycles": 1194
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,68 +26,59 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "Congress.gov — مشاريع تحت المتابعة",
-      "sourceId": "congress-watch",
-      "message": "The operation was aborted due to timeout"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 3,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor",
-        "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "The National"
+        "Jerusalem Post — الشرق الأوسط",
+        "سانا — قسم السياسة"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 6,
+      "newItems": 1,
       "stale": false,
-      "echoed": true,
-      "usItems": 3,
-      "score": 65,
+      "echoed": false,
+      "usItems": 2,
+      "score": 31,
       "items": [
         {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas - explainer",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2324,w_3486/710618' alt='US President Donald Trump holds a signed resolution, during the inaugural Board of Peace meeting at the US",
-          "link": "https://www.jpost.com/middle-east/article-910750",
-          "publishedAt": "2026-10-06T11:53:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Three years after Oct. 7, Hamas’ grip on Gaza tests Netanyahu’s ‘total victory’",
-          "excerpt": "Israeli intelligence assessments indicate that Hamas remains active, with the group estimated to have about 30,000 armed fighters, roughly the same as its estimated strength before the attack.",
-          "link": "https://www.al-monitor.com/originals/2026/10/three-years-after-oct-7-hamas-grip-gaza-tests-netanyahus-total-victory",
-          "publishedAt": "2026-10-06T11:08:42.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قصف وتوغلات وتجريف.. تحركات إسرائيلية متصاعدة في ريف القنيطرة",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي بقذائف مدفعية، منطقة تل الأحمر الشرقي في ريف القنيطرة الجنوبي، بالتزامن مع استمرار التوغلات والتحركات العسكرية..",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%88%D8%AA%D8%AC%D8%B1%D9%8A%D9%81-%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-06T19:31:45.000Z",
           "files": [
             "israel"
           ],
           "seenBefore": false,
           "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas - explainer",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/710618' alt='US President Donald Trump holds a signed resolution, during the inaugural Board of Peace meeting at the US I",
+          "link": "https://www.jpost.com/middle-east/article-910750",
+          "publishedAt": "2026-10-06T11:53:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": true
         },
         {
           "source": "سانا — قسم السياسة",
@@ -100,7 +91,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -114,7 +105,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -128,7 +119,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -143,22 +134,8 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Explainer-One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas",
-          "excerpt": "<p>JERUSALEM, Oct 6 (Reuters) - US President Donald Trump’s year-old plan to end the Gaza war has stalled, with Israel mounting near daily attacks and occupying around two-thirds of the shattered enclave where Palestinians face dire conditi",
-          "link": "https://www.al-monitor.com/originals/2026/10/explainer-one-year-trumps-gaza-plan-has-not-stopped-israeli-fire-or-disarmed",
-          "publishedAt": "2026-10-06T07:46:32.000Z",
-          "files": [
-            "israel"
-          ],
           "seenBefore": true,
-          "us": true
+          "us": false
         },
         {
           "source": "تلفزيون سوريا",
@@ -168,20 +145,6 @@
           "excerpt": "توغلت قوات الاحتلال الإسرائيلي، صباح اليوم الثلاثاء، بدبابات وعربات عسكرية في منطقة سرية الدرعيات بريف القنيطرة الجنوبي، في أحدث تحرك عسكري لها في المنطقة،",
           "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%AE%D8%AA%D8%A7%D8%B1-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AF%D8%A8%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
           "publishedAt": "2026-10-06T07:01:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي: الجولان أرض سورية وإجراءات الضم الإسرائيلية باطلة ‌‏وفق القانون الدولي",
-          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي ضرورة ‌‏مساءلة إسرائيل عن انتهاكاتها للقانون الدولي وحقوق الإنسان، ‌‏مؤكداً أن الجولان سيبقى أرضاً سورية، وأن جميع إجراءات الضم ‏الإسرائيلية ‏باطلة وملغاة وفقاً للقانون الدولي وقرار مجلس",
-          "link": "https://sana.sy/syria-and-the-world/2598603/",
-          "publishedAt": "2026-10-05T22:49:01.000Z",
           "files": [
             "israel"
           ],
@@ -201,48 +164,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الإمارات تدين استكمال الاحتلال الإسرائيلي العمل فيما يسمى ‌‏«خط سوفا 53» ‏بالقنيطرة",
-          "excerpt": "أدانت دولة الإمارات العربية المتحدة اليوم الإثنين، استكمال الاحتلال الإسرائيلي ‏العمل فيما يسمى ‌‏«خط سوفا 53» في القنيطرة، مؤكدة أنه انتهاك لسيادة ‏الجمهورية العربية السورية، وتهديد لأمنها واستقرارها.‏",
-          "link": "https://sana.sy/politics/2598446/",
-          "publishedAt": "2026-10-05T19:50:55.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تحقيقات إسرائيلية: الاحتلال أطلق النار على 3 أشخاص غير مسلحين جنوبي سوريا",
-          "excerpt": "كشفت تحقيقات لجيش الاحتلال أن ثلاثة أشخاص أطلق جنوده النار عليهم في حادثتين جنوبي سوريا كانوا غير مسلحين، أحدهم قُتل بعد عدم استجابته لنداءات التوقف.",
-          "link": "https://www.syria.tv/%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A3%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-3-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D9%84%D8%AD%D9%8A%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-05T19:12:16.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel building military line in occupied Syrian territory, Damascus says",
-          "excerpt": "Syria has accused Israel of building major military fortifications in Syrian territory along the occupied Golan Heights, a move that could entrench a new territorial takeover and undermine a US drive for peace.The Syrian Foreign Ministry sa",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/05/syria-israel-golan/",
-          "publishedAt": "2026-10-05T15:22:41.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -253,23 +174,58 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "The National"
+        "North Press Agency (English)",
+        "The National",
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 25,
+      "score": 29,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian Interior Ministry arrests senior ISIS commander",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s General Intelligence Directorate, in cooperation with Internal Security forces in Damascus countryside, arrested a senior Islamic State (ISIS) commander in Damascus countryside, the Interior Ministry ",
+          "link": "https://npasyria.com/en/142328/",
+          "publishedAt": "2026-10-06T17:43:41.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria foils drug shipment smuggling attempt in Damascus countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Anti-Narcotics Administration said on Tuesday it had foiled an attempt to smuggle a large shipment of drugs into the Damascus countryside from Lebanon. The administration said in a statement published",
+          "link": "https://npasyria.com/en/142325/",
+          "publishedAt": "2026-10-06T16:36:22.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Saudi Crown Prince meets Syria's President Al Shara in Riyadh",
+          "excerpt": "Syrian ​President ⁠Ahmad Al Shara met Saudi Crown Prince Mohammed bin Salman ​in Riyadh during ‌an ​official visit ⁠on ​Tuesday.The Saudi Press Agency said they discussed bilateral relations and \"promising opportunities for developing these",
+          "link": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-crown-prince-meets-syrias-president-al-shara-in-riyadh/",
+          "publishedAt": "2026-10-06T13:49:28.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -279,7 +235,7 @@
           "link": "https://www.syria.tv/%D8%AD%D8%B1%D8%A8-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%88%D9%84%D8%AA-%D9%85%D9%86-%D9%86%D8%B5%D8%B1-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D9%84%D9%89-%D8%B1%D8%B5%D9%8A%D8%AF-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF%D8%9F",
           "publishedAt": "2026-10-06T12:52:17.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -291,116 +247,75 @@
           "link": "https://www.syria.tv/%D9%85%D9%86-%D9%81%D8%A7%D8%AA%D9%81-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B3%D9%84%D8%A9-%D9%85%D8%AA%D9%89-%D8%AA%D8%B9%D9%88%D8%AF-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%9F",
           "publishedAt": "2026-10-06T11:04:43.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Gerald Posner analyzes whether Hamas actions on October 7 meets the legal standard for genocide",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5464,w_8192/683963' alt='Houses in kibbutz Nir Oz, where residents where takedn hostage and later on murdered by Hamas terrorists i",
-          "link": "https://www.jpost.com/middle-east/article-910692",
-          "publishedAt": "2026-10-05T19:51:30.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE aviation authority completes passenger transfers after flydubai Tel Aviv suspension",
-          "excerpt": "The UAE's General Civil Aviation Authority has completed the transfer of nearly 7,500 stranded passengers to Tel Aviv after the temporary suspension of flydubai flights to the Israeli city.The UAE's Attorney General, Hamad Al Shamsi, said i",
-          "link": "https://www.thenationalnews.com/news/uae/2026/10/05/uae-aviation-authority-completes-passenger-transfers-after-flydubai-tel-aviv-suspension/",
-          "publishedAt": "2026-10-05T18:31:35.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يعلن العثور على عبوات وألغام تعود للنظام المخلوع جنوبي سوريا",
-          "excerpt": "قال جيش الاحتلال الإسرائيلي إنه عثر على ثلاث عبوات مضادة للدروع ولغمين تعود إلى عهد النظام المخلوع خلال نشاط لقواته جنوبي سوريا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%B9%D8%A8%D9%88%D8%A7%D8%AA-%D9%88%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-05T16:17:54.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 08:04",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkey condemns Israeli activities along Sufa 53 Line in Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Turkey condemned on Monday Israel’s renewed activities in Syria’s Quneitra Governorate, particularly recent work along the “Sufa 53 Line,” calling them violations of international law and the 1974 disengageme",
-          "link": "https://npasyria.com/en/142304/",
-          "publishedAt": "2026-10-05T16:02:52.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 3,
       "sources": [
-        "سانا — قسم السياسة"
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "Al-Monitor"
       ],
       "circles": [
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 08:04",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 3,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": -1,
+      "score": 24,
       "items": [
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "وفد سوري يزور المختبرات العلمية في مقر الأمم المتحدة بفيينا المختصة بتحليل المخدرات",
-          "excerpt": "زار وفد من الجمهورية العربية السورية برئاسة مدير إدارة مكافحة المخدرات في وزارة الداخلية، العميد خالد عيد اليوم الإثنين، المختبرات العلمية في مقر الأمم المتحدة بفيينا، برفقة شعبة الخدمات العلمية والمختبرية.",
-          "link": "https://sana.sy/syria-and-the-world/2598455/",
-          "publishedAt": "2026-10-05T19:56:37.000Z",
+          "title": "وفد سوري يطلع في مكتب الأمم المتحدة بـ&#8221;فيينا&#8221; على أحدث تقنيات الكشف عن ‌‏المخدرات",
+          "excerpt": "بحث وفد الجمهورية العربية السورية، برئاسة مدير إدارة مكافحة المخدرات في ‌‏وزارة الداخلية العميد خالد عيد، خلال زيارته إلى مقر الأمم المتحدة في فيينا أمس ‌‏الإثنين سبل تعزيز التعاون الدولي وتبادل المعلومات والخبرات في مجال مكافحة ‌‏المخدرات،",
+          "link": "https://sana.sy/politics/2599281/",
+          "publishedAt": "2026-10-06T19:33:19.000Z",
           "files": [
             "diplomacy"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria’s al-Sharaa, Saudi Crown Prince discuss bilateral ties in Riyadh",
+          "excerpt": "QAMISHLI, Syria (North Press) – Saudi Crown Prince Mohammed bin Salman met Syrian President Ahmed al-Sharaa in Riyadh on Tuesday, with the two sides discussing bilateral relations, cooperation and developments in the region, the Saudi Press",
+          "link": "https://npasyria.com/en/142331/",
+          "publishedAt": "2026-10-06T18:34:29.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria’s Sharaa in Riyadh as Saudi airports come under Houthi attacks: What to know",
+          "excerpt": "Syria's President Ahmed al-Sharaa held talks with Saudi Crown Prince Mohammed bin Salman during a visit to Riyadh as the Houthis escalated their attacks on Saudi Arabia and warned international airlines against using Saudi airspace.",
+          "link": "https://www.al-monitor.com/originals/2026/10/syrias-sharaa-riyadh-saudi-airports-come-under-houthi-attacks-what-know",
+          "publishedAt": "2026-10-06T14:25:50.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
           "us": false
         }
       ]
