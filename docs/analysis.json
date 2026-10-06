@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-06T08:04:51.980Z",
+    "generatedAt": "2026-10-06T15:03:45.713Z",
     "windowHours": 24,
-    "from": "2026-10-05T08:04:51.980Z",
-    "to": "2026-10-06T08:04:51.980Z"
+    "from": "2026-10-05T15:03:45.713Z",
+    "to": "2026-10-06T15:03:45.713Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
-    "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "items": 20,
+    "files": 4,
+    "withNew": 2,
+    "stale": 2,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 2,
-    "archiveCycles": 1192
+    "americanItems": 4,
+    "archiveCycles": 1193
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,7 +26,13 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Congress.gov — مشاريع تحت المتابعة",
+      "sourceId": "congress-watch",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
       "id": "israel",
@@ -35,25 +41,111 @@
       "contested": false,
       "independentSources": 5,
       "sources": [
+        "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
-        "تلفزيون سوريا",
-        "Middle East Eye",
         "سانا — قسم السياسة",
+        "تلفزيون سوريا",
         "The National"
       ],
       "circles": [
+        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 6,
       "stale": false,
       "echoed": true,
-      "usItems": 1,
-      "score": 47,
+      "usItems": 3,
+      "score": 65,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas - explainer",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2324,w_3486/710618' alt='US President Donald Trump holds a signed resolution, during the inaugural Board of Peace meeting at the US",
+          "link": "https://www.jpost.com/middle-east/article-910750",
+          "publishedAt": "2026-10-06T11:53:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Three years after Oct. 7, Hamas’ grip on Gaza tests Netanyahu’s ‘total victory’",
+          "excerpt": "Israeli intelligence assessments indicate that Hamas remains active, with the group estimated to have about 30,000 armed fighters, roughly the same as its estimated strength before the attack.",
+          "link": "https://www.al-monitor.com/originals/2026/10/three-years-after-oct-7-hamas-grip-gaza-tests-netanyahus-total-victory",
+          "publishedAt": "2026-10-06T11:08:42.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الجولان بين 2019 و2026.. سوريا الجديدة تتمسك بالسيادة وتدفع بالقضية دولياً‏",
+          "excerpt": "في 25 آذار 2019، اعترف الرئيس الأمريكي دونالد ترامب بما وصفه بـ\"السيادة ‏الإسرائيلية\" على الجولان السوري المحتل، مستنداً إلى اعتبارات تتعلق بوجود إيران ‏وميليشيا حزب الله في جنوب سوريا.‏",
+          "link": "https://sana.sy/politics/2598780/",
+          "publishedAt": "2026-10-06T10:28:05.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"مجموعة العمل\" تدين مقتل فلسطيني برصاص الاحتلال بالقنيطرة وتطالب بتحقيق دولي",
+          "excerpt": "دانت مجموعة العمل من أجل فلسطينيي سورية، الثلاثاء، مقتل الشاب الفلسطيني محمد دبور (22 عاماً) برصاص قوات الاحتلال الإسرائيلي في منطقة الحميدية بريف القنيطرة",
+          "link": "https://www.syria.tv/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AA%D8%AF%D9%8A%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%AF%D9%88%D9%84%D9%8A",
+          "publishedAt": "2026-10-06T10:27:49.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "رئيس البرلمان العربي يدين انتهاكات إسرائيل للأراضي السورية",
+          "excerpt": "أدان رئيس البرلمان العربي محمد بن أحمد اليماحي بأشد العبارات استمرار ‏الانتهاكات التي يرتكبها الاحتلال الإسرائيلي داخل الأراضي السورية، ‏وآخرها مواصلة الأعمال المرتبطة بما يسمى بـ\"خط سوفا 53\" في محافظة ‏القنيطرة.‏",
+          "link": "https://sana.sy/politics/2598769/",
+          "publishedAt": "2026-10-06T09:23:09.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مندوب سوريا بالأمم المتحدة: الجولان ستبقى أرضا سورية وقرارات الضم باطلة",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة، إبراهيم علبي، أن الجولان سيبقى أرضاً سورية، وجميع إجراءات الضم الإسرائيلية باطلة وملغاة وفقاً لقرارات الشرعية الدولية",
+          "link": "https://www.syria.tv/%D9%85%D9%86%D8%AF%D9%88%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%B3%D8%AA%D8%A8%D9%82%D9%89-%D8%A3%D8%B1%D8%B6%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D9%85-%D8%A8%D8%A7%D8%B7%D9%84%D8%A9",
+          "publishedAt": "2026-10-06T08:27:58.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -65,7 +157,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -76,34 +168,6 @@
           "excerpt": "توغلت قوات الاحتلال الإسرائيلي، صباح اليوم الثلاثاء، بدبابات وعربات عسكرية في منطقة سرية الدرعيات بريف القنيطرة الجنوبي، في أحدث تحرك عسكري لها في المنطقة،",
           "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%AE%D8%AA%D8%A7%D8%B1-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AF%D8%A8%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
           "publishedAt": "2026-10-06T07:01:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria condemns Israeli attacks, demands withdrawal from territory",
-          "excerpt": "<article data-history-node-id=\"448877\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-attacks-demands-withdrawal-territory\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middlee",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-attacks-demands-withdrawal-territory",
-          "publishedAt": "2026-10-06T05:19:46.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Watch: Israeli Druze politician calls for seizing of Syria's Sweida",
-          "excerpt": "<article data-history-node-id=\"448869\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-druze-politician-calls-seizing-syrias-sweida\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleea",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-druze-politician-calls-seizing-syrias-sweida",
-          "publishedAt": "2026-10-05T23:48:35.000Z",
           "files": [
             "israel"
           ],
@@ -167,21 +231,6 @@
           "us": false
         },
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الجامعة العربية تطالب مجلس الأمن بإلزام إسرائيل بالانسحاب من الأراضي السورية",
-          "excerpt": "أدان الأمين العام لجامعة الدول العربية نبيل فهمي بأشد العبارات\" استكمال الاحتلال ‏الإسرائيلي العمل في ما يسمى ‌‏\"خط سوفا 53\" في القنيطرة، مؤكداً أنه انتهاك صارخ ‏لسيادة الجمهورية العربية السورية، وخرق فاضح للقانون الدولي ولاتفاق فض الاشتباك",
-          "link": "https://sana.sy/politics/2598309/",
-          "publishedAt": "2026-10-05T17:28:02.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
@@ -189,48 +238,6 @@
           "excerpt": "Syria has accused Israel of building major military fortifications in Syrian territory along the occupied Golan Heights, a move that could entrench a new territorial takeover and undermine a US drive for peace.The Syrian Foreign Ministry sa",
           "link": "https://www.thenationalnews.com/news/mena/2026/10/05/syria-israel-golan/",
           "publishedAt": "2026-10-05T15:22:41.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الهلال الأحمر والأندوف يتجهزان لاستلام جثمان شاب استهدفه الاحتلال بريف القنيطرة",
-          "excerpt": "تتجهز فرق الهلال الأحمر السوري وقوات الأمم المتحدة لمراقبة فض الاشتباك \"أندوف\" للدخول إلى قاعدة الحميدية واستلام جثمان الشاب الذي قُتل برصاص قوات الاحتلال",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81-%D9%8A%D8%AA%D8%AC%D9%87%D8%B2%D8%A7%D9%86-%D9%84%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85-%D8%AC%D8%AB%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D9%87-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-05T12:24:05.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغل جنوبي القنيطرة وتمنع إخماد حريق قرب الحميدية",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي في قرية الأصبح جنوبي محافظة القنيطرة، بالتزامن مع تحليق طيران مسيّر، في حين اندلع حريق في محيط بلدة الحميدية..",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%85%D9%86%D8%B9-%D8%A5%D8%AE%D9%85%D8%A7%D8%AF-%D8%AD%D8%B1%D9%8A%D9%82-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%D9%8A%D8%A9",
-          "publishedAt": "2026-10-05T09:13:01.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "جيش الاحتلال يدّعي مقتل شخص قرب موقع عسكري إسرائيلي في ريف القنيطرة",
-          "excerpt": "زعم جيش الاحتلال الإسرائيلي، فجر الاثنين، أنه قتل شخصاً قال إنه حاول التسلل إلى موقع عسكري تابع له في المنطقة العازلة جنوبي سوريا، قرب ريف القنيطرة.",
-          "link": "https://www.syria.tv/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AF%D9%91%D8%B9%D9%8A-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D9%82%D8%B1%D8%A8-%D9%85%D9%88%D9%82%D8%B9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-05T08:54:47.000Z",
           "files": [
             "israel"
           ],
@@ -244,27 +251,49 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "The National",
         "تلفزيون سوريا",
-        "سانا — قسم السياسة"
+        "Jerusalem Post — الشرق الأوسط",
+        "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الملف الإسرائيلي والتركي",
+        "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 01:31",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 16,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "حرب تشرين.. كيف تحولت من نصر عسكري سوري إلى رصيد سياسي لنظام الأسد؟",
+          "excerpt": "في السادس من تشرين الأول/أكتوبر 1973، فتحت مصر وسوريا جبهتين متزامنتين ضد الاحتلال الإسرائيلي، في محاولة لاستعادة الأراضي التي احتُلت في حرب حزيران/يونيو 1967.",
+          "link": "https://www.syria.tv/%D8%AD%D8%B1%D8%A8-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%88%D9%84%D8%AA-%D9%85%D9%86-%D9%86%D8%B5%D8%B1-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D9%84%D9%89-%D8%B1%D8%B5%D9%8A%D8%AF-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF%D8%9F",
+          "publishedAt": "2026-10-06T12:52:17.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من \"فاتف\" إلى المصارف المراسلة.. متى تعود سوريا إلى النظام المالي العالمي؟",
+          "excerpt": "رأى النائب الأول السابق لحاكم مصرف سوريا المركزي، الدكتور مخلص الناظر، أن رفع معظم العقوبات الاقتصادية والقانونية المفروضة على سوريا لم يؤدِ حتى الآن إلى عودة",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D9%81%D8%A7%D8%AA%D9%81-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B3%D9%84%D8%A9-%D9%85%D8%AA%D9%89-%D8%AA%D8%B9%D9%88%D8%AF-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%9F",
+          "publishedAt": "2026-10-06T11:04:43.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -300,85 +329,29 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Abu Dhabi’s Eagle Hills to develop residential and tourism projects in Syria",
-          "excerpt": "Abu Dhabi-based Eagle Hills is working on two major projects in Syria including a residential and tourism development as part of a framework agreement the company has signed with the Syrian government.Total investment in the two projects in",
-          "link": "https://www.thenationalnews.com/business/property/2026/10/05/abu-dhabis-eagle-hills-to-develop-residential-and-tourism-projects-in-syria/",
-          "publishedAt": "2026-10-05T15:01:54.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "رفع القيود الدفاعية الأمريكية.. سوريا في منظومة التعاملات العسكرية والتقنية",
-          "excerpt": "خطت الولايات المتحدة خطوة إضافية نحو تخفيف القيود المفروضة على التعاملات ‏الدفاعية مع سوريا، بعد إزالة وزارة الخارجية الأمريكية اسم سوريا من قائمة الدول ‏الخاضعة لسياسة الرفض الشامل بموجب لوائح الاتجار الدولي بالأسلحة، في قرار ‏دخل حيز التن",
-          "link": "https://sana.sy/politics/2598031/",
-          "publishedAt": "2026-10-05T13:58:05.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يمنع سيارات للأندوف من المرور في ريف درعا",
-          "excerpt": "منعت قوات الاحتلال الإسرائيلي المتوغلة في ريف درعا، اليوم الاثنين، مرور أربع سيارات تابعة لقوة الأمم المتحدة لمراقبة فضّ الاشتباك \"أندوف\"، وأجبرتها على العودة",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%85%D9%86%D8%B9-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-10-05T11:00:30.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 1,
       "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "North Press Agency (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 01:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 08:04",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 15,
+      "score": 3,
       "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "تركيا تطالب إسرائيل بوقف انتهاكاتها في سوريا",
-          "excerpt": "طالب رئيس دائرة الاتصال بالرئاسة التركية برهان الدين دوران، إسرائيل بإنهاء ‏انتهاكاتها للأراضي السورية، والانسحاب فوراً من المناطق التي تحتلها.‏",
-          "link": "https://sana.sy/syria-and-the-world/2598206/",
-          "publishedAt": "2026-10-05T16:16:59.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -393,144 +366,12 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "After meeting in Turkey, can Syria's new government manage tensions with Hezbollah? - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3840,w_5760/740543' alt='Hezbollah and Syrian flags are seen fluttering in Fleita, Syria. (photo credit: REUTERS/OMAR SANADIKI)' ti",
-          "link": "https://www.jpost.com/middle-east/article-910651",
-          "publishedAt": "2026-10-05T13:29:34.000Z",
-          "files": [
-            "turkey",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تركيا ومصر تدينان التحركات الإسرائيلية في القنيطرة والجنوب السوري",
-          "excerpt": "دانت تركيا ومصر استئناف إسرائيل أعمالاً عسكرية في ريف القنيطرة وتواصل توغلاتها في مناطق من جنوبي سوريا..",
-          "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D9%85%D8%B5%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-          "publishedAt": "2026-10-05T12:55:37.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 01:31",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 4,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "وفد سوري يزور المختبرات العلمية في مقر الأمم المتحدة بفيينا المختصة بتحليل المخدرات",
-          "excerpt": "زار وفد من الجمهورية العربية السورية برئاسة مدير إدارة مكافحة المخدرات في وزارة الداخلية، العميد خالد عيد اليوم الإثنين، المختبرات العلمية في مقر الأمم المتحدة بفيينا، برفقة شعبة الخدمات العلمية والمختبرية.",
-          "link": "https://sana.sy/syria-and-the-world/2598455/",
-          "publishedAt": "2026-10-05T19:56:37.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "وفد سوري يشارك في مشاورات تقنية حول مكافحة المخدرات بمقر الأمم المتحدة في فيينا",
-          "excerpt": "شارك وفد الجمهورية العربية السورية برئاسة مدير إدارة مكافحة المخدرات العميد ‏خالد عيد في جلسة مشاورات تقنية حول المختبرات السرية وإدارة المواد الكيميائية، ‏بحضور خبراء ومسؤولين من مكتب الأمم المتحدة المعني بالمخدرات والجريمة ‌‏\"‏UNODC‏\" في ",
-          "link": "https://sana.sy/politics/2597973/",
-          "publishedAt": "2026-10-05T13:31:27.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تبحث مع ممثلة برنامج الأمم المتحدة الإنمائي آفاق التعاون التنموي",
-          "excerpt": "بحث رئيس هيئة الاستثمار السورية أحمد رواد رمضان، الاثنين، مع رئيسة المفوضية في برنامج الأمم المتحدة الإنمائي (UNDP) ميلاني هاوينشتاين، آفاق التعاون التنموي",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%85%D9%85%D8%AB%D9%84%D8%A9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D9%85%D8%A7%D8%A6%D9%8A-%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%88%D9%8A",
-          "publishedAt": "2026-10-05T10:58:32.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Al-Monitor"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 01:31",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "UAE-Syria move ahead on $20 billion real estate mega-developments",
-          "excerpt": "Major housing and tourism projects in Damascus and Latakia are set to advance following a new agreement with UAE real estate tycoon Mohamed Alabbar.",
-          "link": "https://www.al-monitor.com/originals/2026/10/uae-syria-move-ahead-20-billion-real-estate-mega-developments",
-          "publishedAt": "2026-10-05T16:02:03.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
@@ -540,7 +381,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 01:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 08:04",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -552,12 +393,11 @@
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية ألمانية لتطوير العلاقات الثنائية والتعاون الاقتصادي ‏والعلمي ‏",
-          "excerpt": "بحث القائم بأعمال السفارة السورية في برلين محمد براء شكري ‏مع رئيسة برلمان ولاية بافاريا إيلزه آيغنر، في ميونيخ، العلاقات ‌‏السورية الألمانية.‏",
-          "link": "https://sana.sy/syria-and-the-world/2598355/",
-          "publishedAt": "2026-10-05T18:05:30.000Z",
+          "title": "وفد سوري يزور المختبرات العلمية في مقر الأمم المتحدة بفيينا المختصة بتحليل المخدرات",
+          "excerpt": "زار وفد من الجمهورية العربية السورية برئاسة مدير إدارة مكافحة المخدرات في وزارة الداخلية، العميد خالد عيد اليوم الإثنين، المختبرات العلمية في مقر الأمم المتحدة بفيينا، برفقة شعبة الخدمات العلمية والمختبرية.",
+          "link": "https://sana.sy/syria-and-the-world/2598455/",
+          "publishedAt": "2026-10-05T19:56:37.000Z",
           "files": [
-            "economy",
             "diplomacy"
           ],
           "seenBefore": true,
