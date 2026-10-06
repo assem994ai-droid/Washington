@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-05T20:43:19.974Z",
+    "generatedAt": "2026-10-06T01:31:10.054Z",
     "windowHours": 24,
-    "from": "2026-10-04T20:43:19.974Z",
-    "to": "2026-10-05T20:43:19.974Z"
+    "from": "2026-10-05T01:31:10.054Z",
+    "to": "2026-10-06T01:31:10.054Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 34,
     "files": 6,
-    "withNew": 6,
-    "stale": 0,
+    "withNew": 1,
+    "stale": 5,
     "contested": 0,
     "echoed": 1,
     "americanItems": 2,
-    "archiveCycles": 1190
+    "archiveCycles": 1191
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,6 +22,7 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "التقارير الرسمية الدورية",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -31,28 +32,71 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
-        "Al Jazeera English",
+        "Middle East Eye",
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
+        "Al Jazeera English",
         "The National",
         "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام الدولي",
+        "الإعلام المتخصص",
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام الدولي"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 5,
+      "newItems": 3,
       "stale": false,
       "echoed": true,
       "usItems": 0,
-      "score": 51,
+      "score": 48,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Watch: Israeli Druze politician calls for seizing of Syria's Sweida",
+          "excerpt": "<article data-history-node-id=\"448869\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-druze-politician-calls-seizing-syrias-sweida\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleea",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-druze-politician-calls-seizing-syrias-sweida",
+          "publishedAt": "2026-10-05T23:48:35.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي: الجولان أرض سورية وإجراءات الضم الإسرائيلية باطلة ‌‏وفق القانون الدولي",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي ضرورة ‌‏مساءلة إسرائيل عن انتهاكاتها للقانون الدولي وحقوق الإنسان، ‌‏مؤكداً أن الجولان سيبقى أرضاً سورية، وأن جميع إجراءات الضم ‏الإسرائيلية ‏باطلة وملغاة وفقاً للقانون الدولي وقرار مجلس",
+          "link": "https://sana.sy/syria-and-the-world/2598603/",
+          "publishedAt": "2026-10-05T22:49:01.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الإمارات تدين مواصلة الاحتلال الإسرائيلي أعمال \"خط سوفا 53\" في القنيطرة",
+          "excerpt": "أدانت دولة الإمارات مواصلة القوات الإسرائيلية أعمال الحفر والتجريف وبناء التحصينات داخل الأراضي السورية عبر ما يُسمى \"خط سوفا 53\"",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AE%D8%B7-%D8%B3%D9%88%D9%81%D8%A7-53-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-05T21:01:35.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al Jazeera English",
           "sourceId": "aljazeera-en",
@@ -64,7 +108,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,7 +122,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -92,7 +136,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -107,7 +151,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -121,7 +165,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -207,20 +251,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قطر والأردن والكويت تدين أعمال الاحتلال الإسرائيلي في \"خط سوفا 53\" بالقنيطرة",
-          "excerpt": "دانت قطر والأردن والكويت، اليوم الأحد، استكمال الاحتلال الإسرائيلي الأعمال في ما يُسمى \"خط سوفا 53\" بمحافظة القنيطرة، معتبرةً أن هذه الإجراءات..",
-          "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%AE%D8%B7-%D8%B3%D9%88%D9%81%D8%A7-53-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-04T21:28:33.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -243,13 +273,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 20:43",
       "isFollowUp": true,
-      "newItems": 5,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 50,
+      "score": 25,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -260,7 +290,7 @@
           "link": "https://www.jpost.com/middle-east/article-910692",
           "publishedAt": "2026-10-05T19:51:30.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -272,7 +302,7 @@
           "link": "https://www.thenationalnews.com/news/uae/2026/10/05/uae-aviation-authority-completes-passenger-transfers-after-flydubai-tel-aviv-suspension/",
           "publishedAt": "2026-10-05T18:31:35.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -284,7 +314,7 @@
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%B9%D8%A8%D9%88%D8%A7%D8%AA-%D9%88%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-10-05T16:17:54.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -296,7 +326,7 @@
           "link": "https://www.thenationalnews.com/business/property/2026/10/05/abu-dhabis-eagle-hills-to-develop-residential-and-tourism-projects-in-syria/",
           "publishedAt": "2026-10-05T15:01:54.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -308,7 +338,7 @@
           "link": "https://sana.sy/politics/2598031/",
           "publishedAt": "2026-10-05T13:58:05.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -366,27 +396,25 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "سانا — قسم السياسة",
         "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا",
-        "Turkish Minute"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الملف التركي"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 20:43",
       "isFollowUp": true,
-      "newItems": 5,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 46,
+      "score": 17,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -400,7 +428,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -415,7 +443,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -430,7 +458,7 @@
             "turkey",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -445,22 +473,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Turkey condemns Israel over renewed military work in southern Syria",
-          "excerpt": "Turkey on Monday condemned Israel for resuming work on a military fortification project in southern Syria’s Quneitra province, accusing it of undermining a decades-old disengagement agreement and trying to create new facts on the ground. Th",
-          "link": "https://turkishminute.com/2026/10/05/turkey-condemns-israel-over-renewed-military-work-in-southern-syria/",
-          "publishedAt": "2026-10-05T12:35:17.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -507,13 +520,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 20:43",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 4,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -526,7 +539,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -540,21 +553,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية قطرية حول الاستجابة للطوارئ والبحث والإنقاذ والتدريب",
-          "excerpt": "بحث وزير الطوارئ وإدارة الكوارث رائد الصالح مع وزير الداخلية وقائد قوة الأمن الداخلي القطري (لخويا) خليفة بن حمد آل ثاني",
-          "link": "https://sana.sy/syria-and-the-world/2597923/",
-          "publishedAt": "2026-10-05T12:48:30.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -585,13 +584,13 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 20:43",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "Al-Monitor",
@@ -604,7 +603,7 @@
           "files": [
             "congress"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -621,13 +620,13 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-05 20:43",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": -1,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -641,7 +640,7 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
