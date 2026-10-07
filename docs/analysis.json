@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-06T23:51:28.861Z",
+    "generatedAt": "2026-10-07T03:51:12.417Z",
     "windowHours": 24,
-    "from": "2026-10-05T23:51:28.861Z",
-    "to": "2026-10-06T23:51:28.861Z"
+    "from": "2026-10-06T03:51:12.417Z",
+    "to": "2026-10-07T03:51:12.417Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 22,
     "files": 5,
-    "withNew": 5,
-    "stale": 0,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1195
+    "archiveCycles": 1196
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,24 +34,60 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
         "The National",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "North Press Agency (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 25,
+      "score": 36,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Gaza and the choice ahead",
+          "excerpt": "Three years ago, families in southern Israel woke to a nightmare. Parents held safe-room doors shut while their children hid behind them. Young people fleeing a music festival were hunted across open fields. In the Hamas-led attack, about 1",
+          "link": "https://www.thenationalnews.com/opinion/comment/2026/10/07/palestine-israel-gaza-hamas-october-7-donald-trump/",
+          "publishedAt": "2026-10-07T03:00:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "The Middle East needs a different answer to the failures exposed by October 7",
+          "excerpt": "Today is the third anniversary of the Hamas-led October 7 attacks on Israel. For the families of the Israelis killed or kidnapped by the militants, this will be an especially heartbreaking date to mark. Meanwhile, the families of the many t",
+          "link": "https://www.thenationalnews.com/opinion/editorial/2026/10/07/october-7-israel-gaza-palestine-hamas-middle-east/",
+          "publishedAt": "2026-10-07T03:00:00.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من الطب إلى ريادة الأعمال.. 3 سوريات يصنعن النجاح في الغربة",
+          "excerpt": "من مقاعد كلية الطب في أنقرة، إلى جوائز التعليم في الإمارات، وصولاً إلى تأسيس مشاريع لتمكين الشباب، تمكنت ثلاث سوريات من تحويل سنوات الغربة إلى قصص نجاح لافتة",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A5%D9%84%D9%89-%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-3-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%8A%D8%B5%D9%86%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D8%A9",
+          "publishedAt": "2026-10-07T00:29:12.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -61,7 +97,7 @@
           "link": "https://sana.sy/politics/2599390/",
           "publishedAt": "2026-10-06T21:33:07.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -140,13 +176,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 23:51",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 23,
+      "score": 14,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -159,7 +195,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -250,13 +286,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 23:51",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -269,7 +305,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -283,7 +319,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -317,6 +353,42 @@
       ]
     },
     {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "مراكز الفكر"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 23:51",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Treasury Sanctioned a Hamas Crowdfunding Network. Its French Front Should Be Next.",
+          "excerpt": "U.S. and French authorities have moved against a Hamas fundraising network that allegedly raised more than $600,000 from American donors. The harder task is keeping it from rebuilding. On October 2,... The post Treasury Sanctioned a Hamas C",
+          "link": "https://www.fdd.org/analysis/2026/10/06/treasury-sanctioned-a-hamas-crowdfunding-network-its-french-front-should-be-next/",
+          "publishedAt": "2026-10-06T20:18:23.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران مستقلان فأكثر",
@@ -330,13 +402,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-06 23:51",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -349,7 +421,7 @@
           "files": [
             "economy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -364,44 +436,8 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "مراكز الفكر"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Treasury Sanctioned a Hamas Crowdfunding Network. Its French Front Should Be Next.",
-          "excerpt": "U.S. and French authorities have moved against a Hamas fundraising network that allegedly raised more than $600,000 from American donors. The harder task is keeping it from rebuilding. On October 2,... The post Treasury Sanctioned a Hamas C",
-          "link": "https://www.fdd.org/analysis/2026/10/06/treasury-sanctioned-a-hamas-crowdfunding-network-its-french-front-should-be-next/",
-          "publishedAt": "2026-10-06T20:18:23.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
         }
       ]
     }
