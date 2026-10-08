@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-08T15:52:58.354Z",
+    "generatedAt": "2026-10-08T20:59:11.038Z",
     "windowHours": 24,
-    "from": "2026-10-07T15:52:58.354Z",
-    "to": "2026-10-08T15:52:58.354Z"
+    "from": "2026-10-07T20:59:11.038Z",
+    "to": "2026-10-08T20:59:11.038Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -13,12 +13,13 @@
     "stale": 1,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 7,
-    "archiveCycles": 1202
+    "americanItems": 6,
+    "archiveCycles": 1203
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -31,30 +32,40 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
-        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
+        "تلفزيون سوريا",
         "The National",
         "North Press Agency (English)",
-        "سانا — قسم السياسة",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "مراكز الفكر"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 5,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 63,
+      "usItems": 2,
+      "score": 36,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syria deepens diplomatic ties with US as it weighs role in Saudi conflict with Houthis - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2299,w_4096/693872' alt='Syrian President Ahmed al-Sharaa meets US Special Envoy Tom Barrack in Damascus, Syria, December 1, 2025. ",
+          "link": "https://www.jpost.com/middle-east/article-911086",
+          "publishedAt": "2026-10-08T17:33:18.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -64,7 +75,7 @@
           "link": "https://www.syria.tv/%D8%B1%D9%88%D8%A7%D8%AF-%D8%A8%D8%A7%D8%B4%D8%A7%D9%86-%D8%AA%D8%AF%D9%91%D8%B9%D9%8A-%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D8%A9-%D8%B9%D9%84%D9%89-%D9%82%D9%85%D8%A9-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
           "publishedAt": "2026-10-08T15:26:32.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -76,7 +87,7 @@
           "link": "https://www.jpost.com/middle-east/article-911045",
           "publishedAt": "2026-10-08T13:59:39.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -88,7 +99,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/10/08/nine-syrians-missing-after-cargo-ship-sunk-by-drone-in-black-sea/",
           "publishedAt": "2026-10-08T13:47:51.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -100,7 +111,7 @@
           "link": "https://www.syria.tv/%D9%85%D8%B8%D9%87%D8%B1-%D8%A7%D9%84%D9%88%D9%8A%D8%B3-%D9%86%D8%B3%D8%B9%D9%89-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A5%D9%86%D8%B5%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
           "publishedAt": "2026-10-08T10:15:22.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -112,7 +123,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/10/08/syrian-official-denies-saudi-arabia-asked-damascus-to-deploy-troops-in-war-with-houthis/",
           "publishedAt": "2026-10-08T09:26:37.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -138,78 +149,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "بريطانيا ترحب بجهود سوريا لمعالجة إرث برنامج الأسلحة الكيميائية للنظام البائد",
-          "excerpt": "رحب السفير البريطاني لدى هولندا الممثل الدائم للمملكة المتحدة لدى منظمة حظر الأسلحة ‏الكيميائية كريس رامبلينغ، اليوم الأربعاء، بالجهود التي تبذلها سوريا والأمانة الفنية للمنظمة ‏للتعامل مع إرث برنامج الأسلحة الكيميائية للنظام البائد.‏",
-          "link": "https://sana.sy/syria-and-the-world/2600113/",
-          "publishedAt": "2026-10-07T20:50:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria says no plans to open new front in Yemen war",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syria said on Wednesday it stands firmly with Saudi Arabia against threats to its security but stressed that its policy is focused on stability and peace, rather than opening new fronts, following reports tha",
-          "link": "https://npasyria.com/en/142379/",
-          "publishedAt": "2026-10-07T20:32:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. urges Europe to ‘wake up’, embrace national power",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Secretary of State Marco Rubio urged Europe on Wednesday to “wake up from its long slumber,” calling on European countries to strengthen their militaries, secure their borders and prioritize national int",
-          "link": "https://npasyria.com/en/142376/",
-          "publishedAt": "2026-10-07T19:59:54.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Saudi Arabia Needs a New Yemen Strategy to Defeat the Houthis",
-          "excerpt": "Israel’s formidable military and intelligence machines chewed up and spit out two of Iran’s most powerful regional proxies, Hamas and Hezbollah. Tehran’s militias in Iraq have proved far less capable... The post Saudi Arabia Needs a New Yem",
-          "link": "https://www.fdd.org/analysis/2026/10/07/saudi-arabia-needs-a-new-yemen-strategy-to-defeat-the-houthis/",
-          "publishedAt": "2026-10-07T19:09:22.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria weighs military support for Saudi Arabia in Yemen war",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria is considering providing military assistance to Saudi Arabia as the kingdom confronts an escalating war with Iran-backed Houthi forces in Yemen, according to U.S. and Syrian officials briefed on the mat",
-          "link": "https://npasyria.com/en/142372/",
-          "publishedAt": "2026-10-07T18:53:53.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وقفة تضامنية مع الاحتلال في ذكرى هجوم 7 تشرين الأول.. ماذا يجري في السويداء؟",
-          "excerpt": "شهدت السويداء مسيراً شاركت فيه سيارات حديثة وكبيرة، في مشهد يتزامن مع شكاوى محلية من صعوبة الحصول على المحروقات وأولوية مركبات تابعة لمجموعات مسلحة في المحافظة.",
-          "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A9-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B0%D9%83%D8%B1%D9%89-%D9%87%D8%AC%D9%88%D9%85-7-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AC%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1%D8%9F",
-          "publishedAt": "2026-10-07T16:58:05.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -218,23 +157,52 @@
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 28,
+      "usItems": 3,
+      "score": 31,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني يبحث مع قالن تعزيز التعاون المشترك وآخر التطورات الإقليمية",
+          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني، في العاصمة أنقرة اليوم الخميس، مع رئيس ‏جهاز الاستخبارات العامة في جمهورية تركيا إبراهيم قالن، سبل تعزيز التعاون ‏المشترك بين البلدين الصديقين في المجالات ذات الصلة.",
+          "link": "https://sana.sy/politics/2601210/",
+          "publishedAt": "2026-10-08T19:40:00.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Shaibani meets U.S. envoy Barrack in Istanbul",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Ahmed al-Shaibani met on Thursday U.S. Presidential Special Envoy for Syria and Iraq Thomas Barrack in Istanbul, Turkey, Syria’s Foreign Ministry said. According to the ministry’s offi",
+          "link": "https://npasyria.com/en/142422/",
+          "publishedAt": "2026-10-08T16:03:30.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -246,7 +214,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -260,7 +228,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -274,20 +242,6 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية بريطانية لتطوير التعاون والتنسيق المشترك",
-          "excerpt": "استقبل مدير إدارة المنظمات الدولية والمؤتمرات في وزارة الخارجية والمغتربين، سعد بارود، اليوم ‏الأربعاء، مديرة التنمية في مكتب المملكة المتحدة لشؤون سوريا، لورا مازال، وبحث معها تطوير ‏العلاقات وتعزيز التعاون.‏",
-          "link": "https://sana.sy/politics/2599930/",
-          "publishedAt": "2026-10-07T20:10:00.000Z",
-          "files": [
-            "diplomacy"
-          ],
           "seenBefore": true,
           "us": false
         }
@@ -298,23 +252,69 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "تلفزيون سوريا",
         "سانا — قسم السياسة",
-        "تلفزيون سوريا"
+        "North Press Agency (English)"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 30,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد الاجتماع مع المبعوث الأميركي.. الوزير الشيباني يلتقي نظيره التركي في أنقرة",
+          "excerpt": "عقد وزير الخارجية والمغتربين أسعد الشيباني، الخميس، اجتماعاً مع نظيره التركي هاكان فيدان في أنقرة، وذلك لبحث العلاقات الثنائية",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%A3%D9%86%D9%82%D8%B1%D8%A9",
+          "publishedAt": "2026-10-08T19:17:53.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني وفيدان يبحثان تعزيز العلاقات الثنائية وتفعيل اللجنة العليا المشتركة",
+          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني، في العاصمة أنقرة، مع وزير ‏الخارجية التركي هاكان فيدان، سبل تعزيز العلاقات الثنائية بين سوريا وتركيا، ‏وتفعيل اللجنة العليا المشتركة بين البلدين.‏",
+          "link": "https://sana.sy/politics/2601159/",
+          "publishedAt": "2026-10-08T19:00:00.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Turkey accuses Israel of military escalation in southern Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Türkiye’s Defense Ministry accused on Thursday Israel of pursuing what it described as an “aggressive approach” in the region, citing home raids and arbitrary arrests in residential areas of southern Syria, a",
+          "link": "https://npasyria.com/en/142425/",
+          "publishedAt": "2026-10-08T17:00:19.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -327,7 +327,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -341,7 +341,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -353,13 +353,13 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -368,20 +368,34 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 20,
+      "score": 21,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل إسرائيلي في ريف القنيطرة الأوسط وإغلاق طريق جبا – أم باطنة",
+          "excerpt": "شهد ريف القنيطرة الأوسط، الخميس، توغلات جديدة لقوات الاحتلال الإسرائيلي، شملت عدة قرى وبلدات في المنطقة، وسط إطلاق نار وإغلاق أحد الطرق أمام حركة المرور.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%88%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%B7%D8%B1%D9%8A%D9%82-%D8%AC%D8%A8%D8%A7-%E2%80%93-%D8%A3%D9%85-%D8%A8%D8%A7%D8%B7%D9%86%D8%A9",
+          "publishedAt": "2026-10-08T16:13:53.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Flydubai co-pilot planned attack on Israel months before attempted hijacking, investigation reveals",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740816' alt='Hamam al-Hammami (photo credit: SCREENSHOT/X, SECTION 27A COPYRIGHT ACT)' title='Hamam al-Hammami (photo cr",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_448,w_632/740816' alt='Hamam al-Hammami (photo credit: SCREENSHOT/X, SECTION 27A COPYRIGHT ACT)' title='Hamam al-Hammami (photo cre",
           "link": "https://www.jpost.com/middle-east/article-911004",
           "publishedAt": "2026-10-08T11:10:11.000Z",
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -415,6 +429,42 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "Middle East Eye"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "US and Lebanon hosting Syrian general wanted for war crimes: Report",
+          "excerpt": "<article data-history-node-id=\"449017\" about=\"https://www.middleeasteye.net/news/us-and-lebanon-hosting-syrian-general-wanted-war-crimes-report\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/us-and-lebanon",
+          "link": "https://www.middleeasteye.net/news/us-and-lebanon-hosting-syrian-general-wanted-war-crimes-report",
+          "publishedAt": "2026-10-08T17:48:51.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
       "verification": "مصدر واحد",
@@ -426,13 +476,13 @@
       "circles": [
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-08 15:52",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 6,
       "items": [
         {
           "source": "The Hill — الكونغرس والسياسة الأمريكية",
@@ -444,42 +494,6 @@
           "publishedAt": "2026-10-08T15:05:31.000Z",
           "files": [
             "congress"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-08 08:44",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 2,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S., Lebanon accused of protecting former Syrian general",
-          "excerpt": "QAMISHLI, Syria (North Press) – A former Syrian general wanted over alleged crimes against humanity is being protected and financially supported in Lebanon by an arrangement involving U.S. and Lebanese authorities in exchange for informatio",
-          "link": "https://npasyria.com/en/142383/",
-          "publishedAt": "2026-10-08T06:07:14.000Z",
-          "files": [
-            "lebanon"
           ],
           "seenBefore": true,
           "us": true
