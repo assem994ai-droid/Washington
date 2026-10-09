@@ -1,25 +1,24 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-09T19:36:48.294Z",
+    "generatedAt": "2026-10-09T23:27:48.359Z",
     "windowHours": 24,
-    "from": "2026-10-08T19:36:48.294Z",
-    "to": "2026-10-09T19:36:48.294Z"
+    "from": "2026-10-08T23:27:48.359Z",
+    "to": "2026-10-09T23:27:48.359Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 21,
     "files": 6,
-    "withNew": 5,
-    "stale": 1,
+    "withNew": 3,
+    "stale": 3,
     "contested": 2,
-    "echoed": 1,
-    "americanItems": 3,
-    "archiveCycles": 1207
+    "echoed": 0,
+    "americanItems": 4,
+    "archiveCycles": 1208
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
-    "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -34,29 +33,58 @@
       "contested": true,
       "independentSources": 7,
       "sources": [
+        "تلفزيون سوريا",
+        "Middle East Eye",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
-        "تلفزيون سوريا",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Middle East Eye",
         "Jerusalem Post — الشرق الأوسط",
         "The National"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "مراكز الفكر",
         "الإعلام المتخصص",
+        "المصادر الرسمية السورية",
+        "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 49,
+      "score": 44,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "جيش الاحتلال الإسرائيلي يعلن استهداف مواطن سوري بذريعة التخطيط لهجمات ضده",
+          "excerpt": "أعلنت قوات الاحتلال الإسرائيلي، الجمعة، استهداف المواطن السوري يوسف علي الحسون بغارة على الحدود السورية اللبنانية، زاعمة أنه عمل على تنفيذ \"مخططات إرهابية\" بتوج",
+          "link": "https://www.syria.tv/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%B0%D8%B1%D9%8A%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%B6%D8%AF%D9%87",
+          "publishedAt": "2026-10-09T21:15:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli drone strike wounds six in northeast Lebanon near Syrian border",
+          "excerpt": "<article data-history-node-id=\"449075\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-six-northeast-lebanon-near-syrian-border\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://ww",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-six-northeast-lebanon-near-syrian-border",
+          "publishedAt": "2026-10-09T20:03:52.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -69,7 +97,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -83,7 +111,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -98,7 +126,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -116,41 +144,13 @@
           "us": false
         },
         {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Yair Golan says killing Khamenei was a ‘mistake’ for Israel",
-          "excerpt": "<article data-history-node-id=\"449057\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/yair-golan-says-killing-khamenei-was-mistake-israel\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.n",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yair-golan-says-killing-khamenei-was-mistake-israel",
-          "publishedAt": "2026-10-09T13:27:39.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Hamas sees Gaza war as victory, believes Israel's destruction is still possible, official warns",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728237' alt='Palestinian Hamas terrorists stand guard at a site as Hamas says it continues to search for the bodies of d",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2771,w_4376/728237' alt='Palestinian Hamas terrorists stand guard at a site as Hamas says it continues to search for the bodies of ",
           "link": "https://www.jpost.com/middle-east/article-911140",
           "publishedAt": "2026-10-09T08:09:43.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "ما خط &#8220;سوفا 53&#8221; الذي تنفذه إسرائيل في منطقة الفصل؟.. خبراء: 4 مسارات لمواجهته",
-          "excerpt": "حذر خبراء من أن ما يسمى خط \"سوفا 53\" الذي بدأ الاحتلال الإسرائيلي تنفيذه في ‏القنيطرة ضمن منطقة فض الاشتباك منتصف عام 2022 يتوسع تدريجياً، ويتحول ‏من ‏طريق عسكري، إلى شبكة من الطرق والتحصينات والخنادق ونقاط المراقبة، بما قد ‏يسهم في فرض وقا",
-          "link": "https://sana.sy/politics/2601358/",
-          "publishedAt": "2026-10-09T06:59:15.000Z",
           "files": [
             "israel"
           ],
@@ -170,49 +170,46 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الجزائر تدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
-          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الخميس بشدة استمرار الاعتداءات الإسرائيلية على سيادة سوريا ولبنان، مؤكداً تضامن بلاده مع قيادتي البلدين وشعبيهما، ورفضها انتهاك سيادة الدول وحرمة أراضيها. ونقلت وكالة الأنباء الجزائرية &#8220;واج&",
-          "link": "https://sana.sy/politics/2601231/",
-          "publishedAt": "2026-10-08T21:00:32.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "The Hill — الكونغرس والسياسة الأمريكية",
         "North Press Agency (English)",
         "تلفزيون سوريا",
-        "The National",
-        "سانا — قسم السياسة"
+        "The National"
       ],
       "circles": [
+        "الكونغرس والتوازن السياسي الأمريكي",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية"
+        "الإعلام المتخصص"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
-      "echoed": true,
-      "usItems": 2,
-      "score": 29,
+      "echoed": false,
+      "usItems": 3,
+      "score": 30,
       "items": [
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "UAE says Flydubai suspect intended to crash plane into Tel Aviv airport",
+          "excerpt": "The Flydubai co-pilot who attacked the plane’s captain with an axe last month intended to crash the aircraft into a passenger terminal at an Israeli airport, according to authorities in the United Arab Emirates (UAE). The suspect, identifie",
+          "link": "https://thehill.com/policy/international/6140027-flydubai-co-pilot-ben-gurion-airport/",
+          "publishedAt": "2026-10-09T22:31:03.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -222,7 +219,7 @@
           "link": "https://npasyria.com/en/142466/",
           "publishedAt": "2026-10-09T15:19:08.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -260,42 +257,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "علبي: قيادة سوريا اختارت طريق بناء الدولة وترسيخ سيادة القانون وإصلاح المؤسسات",
-          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، أن سيادة القانون بالنسبة للسوريين كانت ثمرة عقود من النضال والتضحيات، مشيراً إلى أن القيادة الحالية في سو",
-          "link": "https://www.syria.tv/%D8%B9%D9%84%D8%A8%D9%8A-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D8%AA-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%88%D8%AA%D8%B1%D8%B3%D9%8A%D8%AE-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%88%D8%A5%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA",
-          "publishedAt": "2026-10-08T23:16:19.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد 13 عاما من إغلاقه بسبب قصف النظام المخلوع.. افتتاح المسجد الأموي الكبير بحلب",
-          "excerpt": "شهدت مدينة حلب مساء أمس الخميس، افتتاح المسجد الأموي الكبير، بعد 13 عاماً من خروجه عن الخدمة من جراء قصف النظام المخلوع، وذلك بعد الانتهاء من عمليات الترميم وال",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-13-%D8%B9%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A5%D8%BA%D9%84%D8%A7%D9%82%D9%87-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D9%8A-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1-%D8%A8%D8%AD%D9%84%D8%A8",
-          "publishedAt": "2026-10-08T22:55:35.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي: سوريا اختارت طريق إعادة بناء الدولة وترسيخ سيادة القانون",
-          "excerpt": "شارك مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، اليوم الخميس، في مناقشة بند \"سيادة القانون على الصعيدين الوطني والدولي\"، أمام اللجنة القانونية للجمعية العامة للأمم المتحدة، وأدلى ببيان الجمهورية العربية السورية.",
-          "link": "https://sana.sy/politics/2601234/",
-          "publishedAt": "2026-10-08T20:04:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -306,21 +267,35 @@
       "contested": true,
       "independentSources": 2,
       "sources": [
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 24,
+      "score": 17,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تحالف دعم الشرعية في اليمن يعلن تنفيذ عملية واسعة ضد ميليشيا الحوثي",
+          "excerpt": "أفاد المتحدث باسم تحالف دعم الشرعية في اليمن، اللواء الركن تركي المالكي، أمس الجمعة، بأن التحالف ينفذ \"عملية واسعة تستهدف عناصر وقدرات الميليشيا الحوثية الإرهاب",
+          "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D8%B6%D8%AF-%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A",
+          "publishedAt": "2026-10-09T21:32:34.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -332,7 +307,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -346,7 +321,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -360,8 +335,45 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 19:36",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مع براك وكالن وفيدان.. ماذا بحث الشيباني على الطاولات الثلاث في تركيا؟",
+          "excerpt": "لم تكن زيارة وزير الخارجية السوري أسعد الشيباني إلى تركيا، الخميس 8 من تشرين الأول/أكتوبر، مجرد محطة جديدة في العلاقات بين دمشق وأنقرة.",
+          "link": "https://www.syria.tv/%D9%85%D8%B9-%D8%A8%D8%B1%D8%A7%D9%83-%D9%88%D9%83%D8%A7%D9%84%D9%86-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B7%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-10-09T14:06:26.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
         }
       ]
     },
@@ -379,13 +391,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 19:36",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -398,7 +410,7 @@
           "files": [
             "economy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -429,13 +441,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 19:36",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": -1,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -448,45 +460,8 @@
           "files": [
             "lebanon"
           ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 14:26",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مع براك وكالن وفيدان.. ماذا بحث الشيباني على الطاولات الثلاث في تركيا؟",
-          "excerpt": "لم تكن زيارة وزير الخارجية السوري أسعد الشيباني إلى تركيا، الخميس 8 من تشرين الأول/أكتوبر، مجرد محطة جديدة في العلاقات بين دمشق وأنقرة.",
-          "link": "https://www.syria.tv/%D9%85%D8%B9-%D8%A8%D8%B1%D8%A7%D9%83-%D9%88%D9%83%D8%A7%D9%84%D9%86-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B7%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-10-09T14:06:26.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
           "seenBefore": true,
-          "us": true
+          "us": false
         }
       ]
     }
