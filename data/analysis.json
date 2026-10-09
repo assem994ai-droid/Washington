@@ -1,24 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-09T14:26:19.302Z",
+    "generatedAt": "2026-10-09T19:36:48.294Z",
     "windowHours": 24,
-    "from": "2026-10-08T14:26:19.302Z",
-    "to": "2026-10-09T14:26:19.302Z"
+    "from": "2026-10-08T19:36:48.294Z",
+    "to": "2026-10-09T19:36:48.294Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 23,
     "files": 6,
     "withNew": 5,
     "stale": 1,
-    "contested": 1,
+    "contested": 2,
     "echoed": 1,
-    "americanItems": 8,
-    "archiveCycles": 1206
+    "americanItems": 3,
+    "archiveCycles": 1207
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -27,32 +28,203 @@
   "errors": [],
   "files": [
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 7,
+      "sources": [
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "Middle East Eye",
+        "Jerusalem Post — الشرق الأوسط",
+        "The National"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
+        "مراكز الفكر",
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 3,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 49,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مفوضية الأمم المتحدة لحقوق الإنسان تحذر من تداعيات التوغلات الإسرائيلية جنوب سوريا",
+          "excerpt": "حذرت المفوضية السامية للأمم المتحدة لحقوق الإنسان اليوم الجمعة من تداعيات التوغلات العسكرية الإسرائيلية على المدنيين في جنوب سوريا، داعية سلطات الاحتلال الإسرائيلي إلى وقف أعمال المضايقة والترهيب بحق المواطنين السوريين.",
+          "link": "https://sana.sy/politics/2602121/",
+          "publishedAt": "2026-10-09T19:33:23.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UN Records 280 Israeli Incursion-Related Incidents in Syria in September",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United Nations recorded around 280 incidents involving armed Israeli incursions into Syria during September, the highest monthly figure since the beginning of 2026, the UN human rights office said on Frid",
+          "link": "https://npasyria.com/en/142472/",
+          "publishedAt": "2026-10-09T18:28:19.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الأمم المتحدة تطالب إسرائيل بإنهاء ترهيب واحتجاز المدنيين في سوريا",
+          "excerpt": "دعوات أممية لتحقيق محايد وعاجل بشأن حوادث أدت إلى إصابة أو مقتل مدنيين على يد الاحتلال الإسرائيلي، بعد تسجيل أعلى معدل انتهاكات في أيلول الفائت",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AA%D8%B1%D9%87%D9%8A%D8%A8-%D9%88%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-09T18:21:21.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Syria increases criticism of Israeli actions, continues diplomatic outreach",
+          "excerpt": "Syria sharpened its criticism of Israeli military operations in Syria during the first week of October, including the construction of a new fortified security line in southern Syria, east of the Israeli-occupied... The post Syria increases ",
+          "link": "https://www.fdd.org/analysis/syria-increases-criticism-of-israeli-actions-continues-diplomatic-outreach/",
+          "publishedAt": "2026-10-09T14:25:49.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Yair Golan says killing Khamenei was a ‘mistake’ for Israel",
+          "excerpt": "<article data-history-node-id=\"449057\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/yair-golan-says-killing-khamenei-was-mistake-israel\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.n",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yair-golan-says-killing-khamenei-was-mistake-israel",
+          "publishedAt": "2026-10-09T13:27:39.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Hamas sees Gaza war as victory, believes Israel's destruction is still possible, official warns",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728237' alt='Palestinian Hamas terrorists stand guard at a site as Hamas says it continues to search for the bodies of d",
+          "link": "https://www.jpost.com/middle-east/article-911140",
+          "publishedAt": "2026-10-09T08:09:43.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "ما خط &#8220;سوفا 53&#8221; الذي تنفذه إسرائيل في منطقة الفصل؟.. خبراء: 4 مسارات لمواجهته",
+          "excerpt": "حذر خبراء من أن ما يسمى خط \"سوفا 53\" الذي بدأ الاحتلال الإسرائيلي تنفيذه في ‏القنيطرة ضمن منطقة فض الاشتباك منتصف عام 2022 يتوسع تدريجياً، ويتحول ‏من ‏طريق عسكري، إلى شبكة من الطرق والتحصينات والخنادق ونقاط المراقبة، بما قد ‏يسهم في فرض وقا",
+          "link": "https://sana.sy/politics/2601358/",
+          "publishedAt": "2026-10-09T06:59:15.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Golan Heights dilemma: Israel's new military line blurs engagement and confrontation",
+          "excerpt": "On a clear day, Israeli soldiers on the Golan Heights can see Damascus with the naked eye, underlining the strategic advantage Israel has held for almost six decades since it occupied the plateau. Now Israel is seeking to add a layer of pro",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/09/syria-israel-golan-heights/",
+          "publishedAt": "2026-10-09T05:31:10.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الجزائر تدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
+          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الخميس بشدة استمرار الاعتداءات الإسرائيلية على سيادة سوريا ولبنان، مؤكداً تضامن بلاده مع قيادتي البلدين وشعبيهما، ورفضها انتهاك سيادة الدول وحرمة أراضيها. ونقلت وكالة الأنباء الجزائرية &#8220;واج&",
+          "link": "https://sana.sy/politics/2601231/",
+          "publishedAt": "2026-10-08T21:00:32.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "North Press Agency (English)",
         "تلفزيون سوريا",
         "The National",
-        "سانا — قسم السياسة",
-        "Jerusalem Post — الشرق الأوسط"
+        "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي والتركي"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 4,
+      "newItems": 1,
       "stale": false,
       "echoed": true,
-      "usItems": 3,
-      "score": 50,
+      "usItems": 2,
+      "score": 29,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هل 1xbet ممنوع في السعودية؟ دليل خطوة بخطوة للتسجيل في الإمارات",
+          "excerpt": "هل 1xbet ممنوع في السعودية؟ دليل عملي للمقيمين في الإمارات الفهم القانوني للمقامرة الإلكترونية في السعودية تفرض المملكة العربية السعودية حظراً صارماً على جميع أشكال القمار، بما فيها المنصات الرقمية. النصوص الشرعية والأنظمة المدنية تعالج الم",
+          "link": "https://npasyria.com/en/142466/",
+          "publishedAt": "2026-10-09T15:19:08.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -62,20 +234,8 @@
           "link": "https://npasyria.com/en/142459/",
           "publishedAt": "2026-10-09T14:24:48.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Putin says Russia ready to help end Iran conflict",
-          "excerpt": "QAMISHLI, Syria (North Press) – Russian President Vladimir Putin said on Thursday that Moscow was ready to do everything in its power to help Iran resolve the ongoing conflict, during a meeting with Iranian President Masoud Pezeshkian in Tu",
-          "link": "https://npasyria.com/en/142444/",
-          "publishedAt": "2026-10-09T10:25:29.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
         },
         {
           "source": "تلفزيون سوريا",
@@ -86,19 +246,7 @@
           "link": "https://www.syria.tv/%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D9%85%D8%B4%D9%82-%D9%85%D8%A7-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%84%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%D8%9F%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
           "publishedAt": "2026-10-09T09:33:16.000Z",
           "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria pledges rule of law, state institution reforms",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria is working to rebuild state institutions, reform legislation and strengthen the rule of law, the country’s permanent representative to the United Nations, Ibrahim Olabi, said during a UN General Assembl",
-          "link": "https://npasyria.com/en/142437/",
-          "publishedAt": "2026-10-09T08:04:54.000Z",
-          "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -148,51 +296,20 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria deepens diplomatic ties with US as it weighs role in Saudi conflict with Houthis - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2299,w_4096/693872' alt='Syrian President Ahmed al-Sharaa meets US Special Envoy Tom Barrack in Damascus, Syria, December 1, 2025. ",
-          "link": "https://www.jpost.com/middle-east/article-911086",
-          "publishedAt": "2026-10-08T17:33:18.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"رواد باشان\" تدّعي بناء مستوطنة على قمة جبل الشيخ داخل الأراضي السورية",
-          "excerpt": "زعمت حركة \"رواد الباشان\" الاستيطانية أن جيش الاحتلال الإسرائيلي بدأ بناء مستوطنة جديدة باسم \"تل حرمون\" على قمة جبل الشيخ",
-          "link": "https://www.syria.tv/%D8%B1%D9%88%D8%A7%D8%AF-%D8%A8%D8%A7%D8%B4%D8%A7%D9%86-%D8%AA%D8%AF%D9%91%D8%B9%D9%8A-%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D8%A9-%D8%B9%D9%84%D9%89-%D9%82%D9%85%D8%A9-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-10-08T15:26:32.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 6,
+      "independentSources": 2,
       "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Middle East Eye",
-        "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة",
-        "The National",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "مراكز الفكر",
-        "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
@@ -202,46 +319,18 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 44,
+      "score": 24,
       "items": [
         {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Syria increases criticism of Israeli actions, continues diplomatic outreach",
-          "excerpt": "Syria sharpened its criticism of Israeli military operations in Syria during the first week of October, including the construction of a new fortified security line in southern Syria, east of the Israeli-occupied... The post Syria increases ",
-          "link": "https://www.fdd.org/analysis/syria-increases-criticism-of-israeli-actions-continues-diplomatic-outreach/",
-          "publishedAt": "2026-10-09T14:25:49.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مجلس الأمن يجدد دعوته للتنفيذ الكامل لاتفاق فض الاشتباك ويؤكد سيادة سوريا ووحدتها",
+          "excerpt": "جدد أعضاء مجلس الأمن الدولي دعوة جميع الأطراف إلى الاحترام والتنفيذ الكاملين لاتفاق فض ‏الاشتباك لعام 1974 في الجولان السوري المحتل.",
+          "link": "https://sana.sy/international/2602110/",
+          "publishedAt": "2026-10-09T19:25:17.000Z",
           "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Yair Golan says killing Khamenei was a ‘mistake’ for Israel",
-          "excerpt": "<article data-history-node-id=\"449057\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/yair-golan-says-killing-khamenei-was-mistake-israel\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.n",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yair-golan-says-killing-khamenei-was-mistake-israel",
-          "publishedAt": "2026-10-09T13:27:39.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Hamas sees Gaza war as victory, believes Israel's destruction is still possible, official warns",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2771,w_4376/728237' alt='Palestinian Hamas terrorists stand guard at a site as Hamas says it continues to search for the bodies of ",
-          "link": "https://www.jpost.com/middle-east/article-911140",
-          "publishedAt": "2026-10-09T08:09:43.000Z",
-          "files": [
-            "israel"
+            "diplomacy"
           ],
           "seenBefore": false,
           "us": false
@@ -250,55 +339,78 @@
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "ما خط &#8220;سوفا 53&#8221; الذي تنفذه إسرائيل في منطقة الفصل؟.. خبراء: 4 مسارات لمواجهته",
-          "excerpt": "حذر خبراء من أن ما يسمى خط \"سوفا 53\" الذي بدأ الاحتلال الإسرائيلي تنفيذه في ‏القنيطرة ضمن منطقة فض الاشتباك منتصف عام 2022 يتوسع تدريجياً، ويتحول ‏من ‏طريق عسكري، إلى شبكة من الطرق والتحصينات والخنادق ونقاط المراقبة، بما قد ‏يسهم في فرض وقا",
-          "link": "https://sana.sy/politics/2601358/",
-          "publishedAt": "2026-10-09T06:59:15.000Z",
+          "title": "سوريا ترحب بتأكيد مجلس الأمن على ضرورة الاحترام الكامل لاتفاقية فصل القوات لعام 1974‏",
+          "excerpt": "رحبت الجمهورية العربية السورية بتأكيد مجلس الأمن الدولي بإجماع أعضائه أمس الخميس، ‏على ضرورة الاحترام الكامل لاتفاقية فصل القوات لعام 1974، وتنفيذ جميع أحكامها والالتزام ‏بسيادة سوريا واستقلالها ووحدتها وسلامة أراضيها.‏",
+          "link": "https://sana.sy/syria-and-the-world/2601992/",
+          "publishedAt": "2026-10-09T17:38:33.000Z",
           "files": [
-            "israel"
+            "diplomacy"
           ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Golan Heights dilemma: Israel's new military line blurs engagement and confrontation",
-          "excerpt": "On a clear day, Israeli soldiers on the Golan Heights can see Damascus with the naked eye, underlining the strategic advantage Israel has held for almost six decades since it occupied the plateau. Now Israel is seeking to add a layer of pro",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/09/syria-israel-golan-heights/",
-          "publishedAt": "2026-10-09T05:31:10.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الجزائر تدين استمرار الاعتداءات الإسرائيلية على سوريا ولبنان",
-          "excerpt": "أدان وزير الخارجية الجزائري أحمد عطاف اليوم الخميس بشدة استمرار الاعتداءات الإسرائيلية على سيادة سوريا ولبنان، مؤكداً تضامن بلاده مع قيادتي البلدين وشعبيهما، ورفضها انتهاك سيادة الدول وحرمة أراضيها. ونقلت وكالة الأنباء الجزائرية &#8220;واج&",
-          "link": "https://sana.sy/politics/2601231/",
-          "publishedAt": "2026-10-08T21:00:32.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "توغل إسرائيلي في ريف القنيطرة الأوسط وإغلاق طريق جبا – أم باطنة",
-          "excerpt": "شهد ريف القنيطرة الأوسط، الخميس، توغلات جديدة لقوات الاحتلال الإسرائيلي، شملت عدة قرى وبلدات في المنطقة، وسط إطلاق نار وإغلاق أحد الطرق أمام حركة المرور.",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%88%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%B7%D8%B1%D9%8A%D9%82-%D8%AC%D8%A8%D8%A7-%E2%80%93-%D8%A3%D9%85-%D8%A8%D8%A7%D8%B7%D9%86%D8%A9",
-          "publishedAt": "2026-10-08T16:13:53.000Z",
+          "title": "مجلس الأمن يؤكد سيادة سوريا وسلامة أراضيها ويدعو لاحترام اتفاقية فض الاشتباك",
+          "excerpt": "رحبت وزارة الخارجية والمغتربين السورية بتأكيد مجلس الأمن الدولي ضرورة احترام سيادة سوريا واستقلالها ووحدة أراضيها، والالتزام الكامل باتفاقية فض الاشتباك",
+          "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D8%A4%D9%83%D8%AF-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83",
+          "publishedAt": "2026-10-09T16:57:50.000Z",
           "files": [
-            "israel"
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "رسلان: تفعيل حسابات دولية واستراتيجيات جديدة للقطاع المصرفي خلال أسابيع",
+          "excerpt": "أعلن حاكم مصرف سوريا المركزي، صفوت رسلان، إعادة تفعيل حسابات المصرف لدى البنك المركزي التركي والبنك المركزي الفرنسي والاحتياطي الفيدرالي الأميركي، مؤكداً أن الع",
+          "link": "https://www.syria.tv/%D8%B1%D8%B3%D9%84%D8%A7%D9%86-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A7%D8%A8%D9%8A%D8%B9",
+          "publishedAt": "2026-10-09T18:19:34.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iraq expects to start transporting crude oil by lorry to Syria from mid-October",
+          "excerpt": "Iraq is expecting to begin transporting crude oil via a route to be provided by Syria starting in mid-October, a development that is expected to boost its energy exports that have been hampered by flare-ups in the Strait of Hormuz amid the ",
+          "link": "https://www.thenationalnews.com/business/energy/2026/10/09/iraq-expects-to-start-transporting-crude-oil-by-lorry-to-syria-from-mid-october/",
+          "publishedAt": "2026-10-09T13:58:29.000Z",
+          "files": [
+            "economy"
           ],
           "seenBefore": true,
           "us": false
@@ -306,27 +418,60 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
         "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
       "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria seizes 129,000 Captagon pills at Lebanon border",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian customs officials seized around 129,000 Captagon pills in an attempted smuggling operation from Lebanon at the Jdeidet Yabous border crossing on Friday, the Syrian Customs Authority said. The seizure f",
+          "link": "https://npasyria.com/en/142469/",
+          "publishedAt": "2026-10-09T16:49:59.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 14:26",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
       "usItems": 1,
-      "score": 24,
+      "score": 6,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -340,208 +485,8 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد الاجتماع مع المبعوث الأميركي.. الوزير الشيباني يلتقي نظيره التركي في أنقرة",
-          "excerpt": "عقد وزير الخارجية والمغتربين أسعد الشيباني، الخميس، اجتماعاً مع نظيره التركي هاكان فيدان في أنقرة، وذلك لبحث العلاقات الثنائية",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%A3%D9%86%D9%82%D8%B1%D8%A9",
-          "publishedAt": "2026-10-08T19:17:53.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني وفيدان يبحثان تعزيز العلاقات الثنائية وتفعيل اللجنة العليا المشتركة",
-          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني، في العاصمة أنقرة، مع وزير ‏الخارجية التركي هاكان فيدان، سبل تعزيز العلاقات الثنائية بين سوريا وتركيا، ‏وتفعيل اللجنة العليا المشتركة بين البلدين.‏",
-          "link": "https://sana.sy/politics/2601159/",
-          "publishedAt": "2026-10-08T19:00:00.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkey accuses Israel of military escalation in southern Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – Türkiye’s Defense Ministry accused on Thursday Israel of pursuing what it described as an “aggressive approach” in the region, citing home raids and arbitrary arrests in residential areas of southern Syria, a",
-          "link": "https://npasyria.com/en/142425/",
-          "publishedAt": "2026-10-08T17:00:19.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Al-Monitor",
-        "The Hill — الكونغرس والسياسة الأمريكية"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الكونغرس والتوازن السياسي الأمريكي"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 22,
-      "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan",
-          "excerpt": "<p>By Feras Dalatey</p><p>DUBAI, Oct 9 (Reuters) - Thomas Barrack, a top US diplomat in the Middle East, advocated for a firm run by his business partner to take part in the development of an oil pipeline from Iraq to Syria, three people sa",
-          "link": "https://www.al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline",
-          "publishedAt": "2026-10-09T10:46:31.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "The Hill — الكونغرس والسياسة الأمريكية",
-          "sourceId": "thehill",
-          "circle": "الكونغرس والتوازن السياسي الأمريكي",
-          "title": "Congressional candidate says she was raped while repairing campaign signs",
-          "excerpt": "A Democratic congressional candidate in Arizona said Wednesday that she was raped by two men while repairing a campaign sign in August, revealing an alleged attack she said she initially kept secret out of shame. Bernadette Greene-Placentia",
-          "link": "https://thehill.com/homenews/campaign/6136266-bernadette-green-placentia-arizona-house-campaign-sexual-assault-allegation/",
-          "publishedAt": "2026-10-08T15:05:31.000Z",
-          "files": [
-            "congress"
-          ],
           "seenBefore": true,
           "us": true
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 07:19",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 2,
-      "score": 13,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث مع قالن تعزيز التعاون المشترك وآخر التطورات الإقليمية",
-          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني، في العاصمة أنقرة اليوم الخميس، مع رئيس ‏جهاز الاستخبارات العامة في جمهورية تركيا إبراهيم قالن، سبل تعزيز التعاون ‏المشترك بين البلدين الصديقين في المجالات ذات الصلة.",
-          "link": "https://sana.sy/politics/2601210/",
-          "publishedAt": "2026-10-08T19:40:00.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Al-Shaibani meets U.S. envoy Barrack in Istanbul",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Ahmed al-Shaibani met on Thursday U.S. Presidential Special Envoy for Syria and Iraq Thomas Barrack in Istanbul, Turkey, Syria’s Foreign Ministry said. According to the ministry’s offi",
-          "link": "https://npasyria.com/en/142422/",
-          "publishedAt": "2026-10-08T16:03:30.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني وباراك يبحثان العلاقات السورية الأميركية في إسطنبول",
-          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني، الخميس، مع المبعوث الرئاسي الأميركي إلى سوريا والعراق توم براك، العلاقات الثنائية ومستجدات الأوضاع في المنطقة",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84",
-          "publishedAt": "2026-10-08T15:15:21.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iraq expects to start transporting crude oil by lorry to Syria from mid-October",
-          "excerpt": "Iraq is expecting to begin transporting crude oil via a route to be provided by Syria starting in mid-October, a development that is expected to boost its energy exports that have been hampered by flare-ups in the Strait of Hormuz amid the ",
-          "link": "https://www.thenationalnews.com/business/energy/2026/10/09/iraq-expects-to-start-transporting-crude-oil-by-lorry-to-syria-from-mid-october/",
-          "publishedAt": "2026-10-09T13:58:29.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": false,
-          "us": false
         }
       ]
     }
