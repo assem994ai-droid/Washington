@@ -1,25 +1,24 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-09T07:19:47.886Z",
+    "generatedAt": "2026-10-09T14:26:19.302Z",
     "windowHours": 24,
-    "from": "2026-10-08T07:19:47.886Z",
-    "to": "2026-10-09T07:19:47.886Z"
+    "from": "2026-10-08T14:26:19.302Z",
+    "to": "2026-10-09T14:26:19.302Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 26,
-    "files": 5,
-    "withNew": 2,
-    "stale": 3,
-    "contested": 2,
+    "items": 27,
+    "files": 6,
+    "withNew": 5,
+    "stale": 1,
+    "contested": 1,
     "echoed": 1,
-    "americanItems": 6,
-    "archiveCycles": 1205
+    "americanItems": 8,
+    "archiveCycles": 1206
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
-    "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -30,29 +29,78 @@
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 4,
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
+      "independentSources": 5,
       "sources": [
-        "The National",
+        "North Press Agency (English)",
         "تلفزيون سوريا",
+        "The National",
         "سانا — قسم السياسة",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 4,
       "stale": false,
       "echoed": true,
-      "usItems": 2,
-      "score": 35,
+      "usItems": 3,
+      "score": 50,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Barrack says Syria key to reducing regional tensions",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Ambassador to Türkiye Tom Barrack said Syria plays a key role in efforts to reduce regional tensions, following talks with Syrian Foreign Minister Asaad al-Shaibani in Istanbul on Thursday. In a post on ",
+          "link": "https://npasyria.com/en/142459/",
+          "publishedAt": "2026-10-09T14:24:48.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Putin says Russia ready to help end Iran conflict",
+          "excerpt": "QAMISHLI, Syria (North Press) – Russian President Vladimir Putin said on Thursday that Moscow was ready to do everything in its power to help Iran resolve the ongoing conflict, during a meeting with Iranian President Masoud Pezeshkian in Tu",
+          "link": "https://npasyria.com/en/142444/",
+          "publishedAt": "2026-10-09T10:25:29.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "حرب اليمن وحسابات دمشق.. ما حدود الدعم العسكري للسعودية؟|فيديو",
+          "excerpt": "اعتبر أحمد طعمة أن المزاج الشعبي في سوريا يميل إلى تأييد السعودية في مواجهتها مع الحوثيين على خلفية الموقف من إيران وأذرعها في المنطقة",
+          "link": "https://www.syria.tv/%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D9%85%D8%B4%D9%82-%D9%85%D8%A7-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%84%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%D8%9F%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+          "publishedAt": "2026-10-09T09:33:16.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria pledges rule of law, state institution reforms",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria is working to rebuild state institutions, reform legislation and strengthen the rule of law, the country’s permanent representative to the United Nations, Ibrahim Olabi, said during a UN General Assembl",
+          "link": "https://npasyria.com/en/142437/",
+          "publishedAt": "2026-10-09T08:04:54.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -62,7 +110,7 @@
           "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/09/saudi-arabia-to-punish-houthis-trump-rules-out-iran-attack-and-musks-boring-company-signs-abu-dhabi-deal/",
           "publishedAt": "2026-10-09T06:37:23.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -124,54 +172,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "US-led coalition exit shifts more counter-ISIS burden to Iraq and Syria - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/741110' alt='Iraqi security forces stand guard during a rally celebrating the withdrawal of forces of the US-led coaliti",
-          "link": "https://www.jpost.com/middle-east/article-911045",
-          "publishedAt": "2026-10-08T13:59:39.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Nine Syrians missing after cargo ship sunk by drone in Black Sea",
-          "excerpt": "Nine sailors from Syria and one from Egypt are missing after a cargo ship was sunk in the Black Sea, with search-and-rescue operations called off. The Turkish-owned Alfa Watan was hit by a drone off the Bulgarian coast on Tuesday. Russia is",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/08/nine-syrians-missing-after-cargo-ship-sunk-by-drone-in-black-sea/",
-          "publishedAt": "2026-10-08T13:47:51.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مظهر الويس: نسعى لمعالجة آثار الماضي في سوريا وإنصاف الضحايا",
-          "excerpt": "وزير العدل تحدّث عن الاستحقاقات الضرورية لطي صفحة الماضي على أساس الحقيقة، لافتا في الوقت ذاته إلى استمرار الاعتداءات الإسرائيلية",
-          "link": "https://www.syria.tv/%D9%85%D8%B8%D9%87%D8%B1-%D8%A7%D9%84%D9%88%D9%8A%D8%B3-%D9%86%D8%B3%D8%B9%D9%89-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A5%D9%86%D8%B5%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
-          "publishedAt": "2026-10-08T10:15:22.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syrian official denies Saudi Arabia asked Damascus to deploy troops in war with Houthis",
-          "excerpt": "A Syrian official has denied reports that Saudi Arabia asked Damascus to send troops to support the kingdom against the Houthis in Yemen.Ahmad Zaidan, media adviser to Syrian President Ahmad Al Shara, described reports in recent days of pla",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/08/syrian-official-denies-saudi-arabia-asked-damascus-to-deploy-troops-in-war-with-houthis/",
-          "publishedAt": "2026-10-08T09:26:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -180,27 +180,72 @@
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 6,
       "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "Middle East Eye",
+        "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة",
         "The National",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
+        "مراكز الفكر",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "الملف الإسرائيلي والتركي",
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 32,
+      "score": 44,
       "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Syria increases criticism of Israeli actions, continues diplomatic outreach",
+          "excerpt": "Syria sharpened its criticism of Israeli military operations in Syria during the first week of October, including the construction of a new fortified security line in southern Syria, east of the Israeli-occupied... The post Syria increases ",
+          "link": "https://www.fdd.org/analysis/syria-increases-criticism-of-israeli-actions-continues-diplomatic-outreach/",
+          "publishedAt": "2026-10-09T14:25:49.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Yair Golan says killing Khamenei was a ‘mistake’ for Israel",
+          "excerpt": "<article data-history-node-id=\"449057\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/yair-golan-says-killing-khamenei-was-mistake-israel\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.n",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yair-golan-says-killing-khamenei-was-mistake-israel",
+          "publishedAt": "2026-10-09T13:27:39.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Hamas sees Gaza war as victory, believes Israel's destruction is still possible, official warns",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2771,w_4376/728237' alt='Palestinian Hamas terrorists stand guard at a site as Hamas says it continues to search for the bodies of ",
+          "link": "https://www.jpost.com/middle-east/article-911140",
+          "publishedAt": "2026-10-09T08:09:43.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -212,7 +257,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -226,7 +271,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -257,115 +302,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Flydubai co-pilot planned attack on Israel months before attempted hijacking, investigation reveals",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740816' alt='Hamam al-Hammami (photo credit: SCREENSHOT/X, SECTION 27A COPYRIGHT ACT)' title='Hamam al-Hammami (photo cr",
-          "link": "https://www.jpost.com/middle-east/article-911004",
-          "publishedAt": "2026-10-08T11:10:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 01:03",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 3,
-      "score": 18,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث مع قالن تعزيز التعاون المشترك وآخر التطورات الإقليمية",
-          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني، في العاصمة أنقرة اليوم الخميس، مع رئيس ‏جهاز الاستخبارات العامة في جمهورية تركيا إبراهيم قالن، سبل تعزيز التعاون ‏المشترك بين البلدين الصديقين في المجالات ذات الصلة.",
-          "link": "https://sana.sy/politics/2601210/",
-          "publishedAt": "2026-10-08T19:40:00.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Al-Shaibani meets U.S. envoy Barrack in Istanbul",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Ahmed al-Shaibani met on Thursday U.S. Presidential Special Envoy for Syria and Iraq Thomas Barrack in Istanbul, Turkey, Syria’s Foreign Ministry said. According to the ministry’s offi",
-          "link": "https://npasyria.com/en/142422/",
-          "publishedAt": "2026-10-08T16:03:30.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني وباراك يبحثان العلاقات السورية الأميركية في إسطنبول",
-          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني، الخميس، مع المبعوث الرئاسي الأميركي إلى سوريا والعراق توم براك، العلاقات الثنائية ومستجدات الأوضاع في المنطقة",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84",
-          "publishedAt": "2026-10-08T15:15:21.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث مع باراك العلاقات الثنائية ومستجدات الأوضاع في المنطقة",
-          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني، في مدينة إسطنبول، اليوم الخميس، المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس باراك.",
-          "link": "https://sana.sy/syria-and-the-world/2600703/",
-          "publishedAt": "2026-10-08T12:51:20.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "وفد سوريا يختتم مشاوراته مع مكتب الأمم المتحدة المعني بالمخدرات والجريمة ‏",
-          "excerpt": "‏ اختتم وفد الجمهورية العربية السورية، برئاسة مدير إدارة مكافحة المخدرات في وزارة ‏الداخلية العميد خالد عيد، ثلاثة أيام من الاجتماعات والمشاورات التقنية مع مكتب ‏الأمم المتحدة المعني بالمخدرات والجريمة (‏UNODC‏) في العاصمة النمساوية ‏فيينا،",
-          "link": "https://sana.sy/syria-and-the-world/2600467/",
-          "publishedAt": "2026-10-08T09:54:59.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -384,14 +320,29 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 01:03",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 13,
+      "usItems": 1,
+      "score": 24,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مع براك وكالن وفيدان.. ماذا بحث الشيباني على الطاولات الثلاث في تركيا؟",
+          "excerpt": "لم تكن زيارة وزير الخارجية السوري أسعد الشيباني إلى تركيا، الخميس 8 من تشرين الأول/أكتوبر، مجرد محطة جديدة في العلاقات بين دمشق وأنقرة.",
+          "link": "https://www.syria.tv/%D9%85%D8%B9-%D8%A8%D8%B1%D8%A7%D9%83-%D9%88%D9%83%D8%A7%D9%84%D9%86-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B7%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-10-09T14:06:26.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -436,58 +387,45 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الدفاع التركية تدين مواصلة إسرائيل انتهاكاتها في سوريا وخرق اتفاق فض الاشتباك",
-          "excerpt": "أكدت وزارة الدفاع التركية أن استئناف إسرائيل أعمال ما يسمى \"مشروع خط سوفا-53\" في القنيطرة يمثل انتهاكاً صريحاً لاتفاق فض الاشتباك لعام 1974، ويؤشر إلى مواصلتها سياساتها التوسعية في الأراضي السورية.",
-          "link": "https://sana.sy/politics/2600627/",
-          "publishedAt": "2026-10-08T12:04:00.000Z",
-          "files": [
-            "turkey",
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "استئناف الطريق البري يعيد رحلات العمرة من تركيا إلى السعودية عبر سوريا",
-          "excerpt": "عودة رحلات العمرة البرية من تركيا عبر سوريا والأردن إلى مكة بعد توقف منذ 2011.. فهل يعود طريق الحجاز إلى الواجهة؟",
-          "link": "https://www.syria.tv/%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-08T08:48:39.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 01:03",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 6,
+      "usItems": 2,
+      "score": 22,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Trump envoy kept financial ties to firm behind $15 billion Hormuz-bypass oil pipeline plan",
+          "excerpt": "<p>By Feras Dalatey</p><p>DUBAI, Oct 9 (Reuters) - Thomas Barrack, a top US diplomat in the Middle East, advocated for a firm run by his business partner to take part in the development of an oil pipeline from Iraq to Syria, three people sa",
+          "link": "https://www.al-monitor.com/originals/2026/10/trump-envoy-kept-financial-ties-firm-behind-15-billion-hormuz-bypass-oil-pipeline",
+          "publishedAt": "2026-10-09T10:46:31.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "The Hill — الكونغرس والسياسة الأمريكية",
           "sourceId": "thehill",
@@ -501,6 +439,109 @@
           ],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "سانا — قسم السياسة",
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 07:19",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 2,
+      "score": 13,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني يبحث مع قالن تعزيز التعاون المشترك وآخر التطورات الإقليمية",
+          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني، في العاصمة أنقرة اليوم الخميس، مع رئيس ‏جهاز الاستخبارات العامة في جمهورية تركيا إبراهيم قالن، سبل تعزيز التعاون ‏المشترك بين البلدين الصديقين في المجالات ذات الصلة.",
+          "link": "https://sana.sy/politics/2601210/",
+          "publishedAt": "2026-10-08T19:40:00.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Al-Shaibani meets U.S. envoy Barrack in Istanbul",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Ahmed al-Shaibani met on Thursday U.S. Presidential Special Envoy for Syria and Iraq Thomas Barrack in Istanbul, Turkey, Syria’s Foreign Ministry said. According to the ministry’s offi",
+          "link": "https://npasyria.com/en/142422/",
+          "publishedAt": "2026-10-08T16:03:30.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني وباراك يبحثان العلاقات السورية الأميركية في إسطنبول",
+          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني، الخميس، مع المبعوث الرئاسي الأميركي إلى سوريا والعراق توم براك، العلاقات الثنائية ومستجدات الأوضاع في المنطقة",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84",
+          "publishedAt": "2026-10-08T15:15:21.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "The National"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iraq expects to start transporting crude oil by lorry to Syria from mid-October",
+          "excerpt": "Iraq is expecting to begin transporting crude oil via a route to be provided by Syria starting in mid-October, a development that is expected to boost its energy exports that have been hampered by flare-ups in the Strait of Hormuz amid the ",
+          "link": "https://www.thenationalnews.com/business/energy/2026/10/09/iraq-expects-to-start-transporting-crude-oil-by-lorry-to-syria-from-mid-october/",
+          "publishedAt": "2026-10-09T13:58:29.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
         }
       ]
     }
