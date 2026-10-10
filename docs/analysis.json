@@ -1,24 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-10T02:34:53.862Z",
+    "generatedAt": "2026-10-10T08:56:06.414Z",
     "windowHours": 24,
-    "from": "2026-10-09T02:34:53.862Z",
-    "to": "2026-10-10T02:34:53.862Z"
+    "from": "2026-10-09T08:56:06.414Z",
+    "to": "2026-10-10T08:56:06.414Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 26,
     "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "withNew": 2,
+    "stale": 4,
     "contested": 2,
-    "echoed": 1,
+    "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 1209
+    "archiveCycles": 1210
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "الملف الإسرائيلي والتركي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -32,31 +33,102 @@
       "contested": true,
       "independentSources": 8,
       "sources": [
-        "Middle East Eye",
-        "Al Jazeera English",
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
+        "The National",
         "North Press Agency (English)",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Jerusalem Post — الشرق الأوسط",
-        "The National"
+        "Middle East Eye",
+        "Al-Monitor",
+        "تلفزيون سوريا",
+        "Al Jazeera English",
+        "سانا — قسم السياسة",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
         "الإعلام المتخصص",
-        "الإعلام الدولي",
         "الإعلام السوري المستقل",
+        "الإعلام الدولي",
         "المصادر الرسمية السورية",
-        "مراكز الفكر",
-        "الملف الإسرائيلي والتركي"
+        "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 5,
       "stale": false,
-      "echoed": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 49,
+      "score": 63,
       "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel holding 49 Syrians after 280 armed incursions in September, says UN",
+          "excerpt": "Israel is holding 49 Syrians and carried out 280 armed incursions into southern Syria in September, UN High Commissioner for Human Rights Volker Turk has said.Released detainees alleged torture and ill-treatment, including beatings, prolong",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/10/israel-holding-49-syrians-after-280-armed-incursions-in-september-says-un/",
+          "publishedAt": "2026-10-10T07:47:08.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli strike in Lebanon wounds 6, targets Syrian operative – IDF",
+          "excerpt": "QAMISHLI, Syria (North Press) – An Israeli drone strike near the Syrian border in northeastern Lebanon wounded six people on Friday, including five Syrians, as the Israeli military said it targeted a Syrian operative allegedly planning atta",
+          "link": "https://npasyria.com/en/142479/",
+          "publishedAt": "2026-10-10T07:13:23.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "UN: Israeli forces made 280 incursions into Syria, detain 49 Syrians",
+          "excerpt": "<article data-history-node-id=\"449095\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/un-israeli-forces-made-280-incursions-syria-detain-49-syrians\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-israeli-forces-made-280-incursions-syria-detain-49-syrians",
+          "publishedAt": "2026-10-10T04:53:30.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "October 7 scars push Israel's first-time voters to right",
+          "excerpt": "<p>Like hundreds of thousands of Israelis, Amihai will be of voting age for the first time since Hamas carried out its attack on October 7, 2023. When he casts his ballot this month, he has one priority above all -- security.</p> <p>From a ",
+          "link": "https://www.al-monitor.com/originals/2026/10/october-7-scars-push-israels-first-time-voters-right",
+          "publishedAt": "2026-10-10T03:30:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "إسرائيل إذ ترسم حدود القوة.. سوريا ولبنان والاختبارات الفجة",
+          "excerpt": "لم يكن السابع من أكتوبر 2023 مجرد إخفاق أمني وعسكري في تاريخ إسرائيل، بل شكّل نقطة تحوّل في نظرتها إلى أمنها وحدودها وموقعها في المنطقة.",
+          "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A5%D8%B0-%D8%AA%D8%B1%D8%B3%D9%85-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%AC%D8%A9",
+          "publishedAt": "2026-10-10T03:28:28.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -68,7 +140,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -83,7 +155,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -96,21 +168,6 @@
           "publishedAt": "2026-10-09T21:15:00.000Z",
           "files": [
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli drone strike wounds six in northeast Lebanon near Syrian border",
-          "excerpt": "<article data-history-node-id=\"449075\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-six-northeast-lebanon-near-syrian-border\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://ww",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-wounds-six-northeast-lebanon-near-syrian-border",
-          "publishedAt": "2026-10-09T20:03:52.000Z",
-          "files": [
-            "israel",
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
@@ -172,34 +229,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Hamas sees Gaza war as victory, believes Israel's destruction is still possible, official warns",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2771,w_4376/728237' alt='Palestinian Hamas terrorists stand guard at a site as Hamas says it continues to search for the bodies of ",
-          "link": "https://www.jpost.com/middle-east/article-911140",
-          "publishedAt": "2026-10-09T08:09:43.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Golan Heights dilemma: Israel's new military line blurs engagement and confrontation",
-          "excerpt": "On a clear day, Israeli soldiers on the Golan Heights can see Damascus with the naked eye, underlining the strategic advantage Israel has held for almost six decades since it occupied the plateau. Now Israel is seeking to add a layer of pro",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/09/syria-israel-golan-heights/",
-          "publishedAt": "2026-10-09T05:31:10.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -210,24 +239,48 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "Al-Monitor",
         "The Hill — الكونغرس والسياسة الأمريكية",
         "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "The National"
+        "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي",
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 23:27",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
       "usItems": 3,
-      "score": 21,
+      "score": 35,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Year later, Gaza ceasefire promises mostly unfulfilled",
+          "excerpt": "<p>One year after US President Donald Trump declared the war in Gaza to be over, few of the long-term promises of the ceasefire have come to fruition.</p> <p>Here is a list of some of the key points of the October 10, 2025 ceasefire and whe",
+          "link": "https://www.al-monitor.com/originals/2026/10/year-later-gaza-ceasefire-promises-mostly-unfulfilled",
+          "publishedAt": "2026-10-10T05:30:21.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Hunger and malnutrition stalk Gazans, a year on from ceasefire",
+          "excerpt": "<p>Every day, Gazan mother Niyaha al-Masri spends six exhausting hours or more queueing at a community kitchen in the hope of getting some food for her family.</p> <p>It has been a year since a ceasefire between Hamas and Israel was suppose",
+          "link": "https://www.al-monitor.com/originals/2026/10/hunger-and-malnutrition-stalk-gazans-year-ceasefire",
+          "publishedAt": "2026-10-10T04:30:25.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The Hill — الكونغرس والسياسة الأمريكية",
           "sourceId": "thehill",
@@ -244,18 +297,6 @@
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "هل 1xbet ممنوع في السعودية؟ دليل خطوة بخطوة للتسجيل في الإمارات",
-          "excerpt": "هل 1xbet ممنوع في السعودية؟ دليل عملي للمقيمين في الإمارات الفهم القانوني للمقامرة الإلكترونية في السعودية تفرض المملكة العربية السعودية حظراً صارماً على جميع أشكال القمار، بما فيها المنصات الرقمية. النصوص الشرعية والأنظمة المدنية تعالج الم",
-          "link": "https://npasyria.com/en/142466/",
-          "publishedAt": "2026-10-09T15:19:08.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
           "title": "Barrack says Syria key to reducing regional tensions",
           "excerpt": "QAMISHLI, Syria (North Press) – U.S. Ambassador to Türkiye Tom Barrack said Syria plays a key role in efforts to reduce regional tensions, following talks with Syrian Foreign Minister Asaad al-Shaibani in Istanbul on Thursday. In a post on ",
           "link": "https://npasyria.com/en/142459/",
@@ -263,6 +304,18 @@
           "files": [],
           "seenBefore": true,
           "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Putin says Russia ready to help end Iran conflict",
+          "excerpt": "QAMISHLI, Syria (North Press) – Russian President Vladimir Putin said on Thursday that Moscow was ready to do everything in its power to help Iran resolve the ongoing conflict, during a meeting with Iranian President Masoud Pezeshkian in Tu",
+          "link": "https://npasyria.com/en/142444/",
+          "publishedAt": "2026-10-09T10:25:29.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "تلفزيون سوريا",
@@ -275,18 +328,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Saudi Arabia to 'punish' Houthis, Trump rules out Iran attack and Musk's Boring Company signs Abu Dhabi deal",
-          "excerpt": "In today’s episode of Trending Middle East, the Saudi-led coalition in Yemen vows to “punish” the Houthi rebels after attacks on airports in the kingdom killed three people and injured 36. The UAE has condemned the strikes and emphasised it",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/09/saudi-arabia-to-punish-houthis-trump-rules-out-iran-attack-and-musks-boring-company-signs-abu-dhabi-deal/",
-          "publishedAt": "2026-10-09T06:37:23.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -304,7 +345,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 23:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 02:34",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -382,7 +423,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 23:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 02:34",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -421,7 +462,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 23:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 02:34",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -471,7 +512,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-09 23:27",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 02:34",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
