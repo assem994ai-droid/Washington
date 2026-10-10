@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-10T15:01:37.460Z",
+    "generatedAt": "2026-10-10T19:14:50.053Z",
     "windowHours": 24,
-    "from": "2026-10-09T15:01:37.460Z",
-    "to": "2026-10-10T15:01:37.460Z"
+    "from": "2026-10-09T19:14:50.053Z",
+    "to": "2026-10-10T19:14:50.053Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
-    "files": 5,
+    "items": 18,
+    "files": 3,
     "withNew": 2,
-    "stale": 3,
+    "stale": 1,
     "contested": 2,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 1211
+    "americanItems": 4,
+    "archiveCycles": 1212
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,9 +34,9 @@
       "contested": true,
       "independentSources": 5,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "The National",
-        "North Press Agency (English)",
         "Al-Monitor",
         "سانا — قسم السياسة"
       ],
@@ -54,6 +54,34 @@
       "score": 40,
       "items": [
         {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli patrol enters central Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – An Israeli army patrol comprising two tanks and 10 military vehicles entered on Saturday evening the central countryside of Quneitra and set up a checkpoint on the road linking Mashirfeh and Umm Batna village",
+          "link": "https://npasyria.com/en/142512/",
+          "publishedAt": "2026-10-10T17:40:48.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بدبابتين و10 آليات.. توغل جديد لجيش الاحتلال في ريف القنيطرة",
+          "excerpt": "توغلت دورية تابعة لجيش الاحتلال الإسرائيلي، اليوم السبت، مؤلفة من دبابتين و10 آليات عسكرية، في ريف القنيطرة.",
+          "link": "https://www.syria.tv/%D8%A8%D8%AF%D8%A8%D8%A7%D8%A8%D8%AA%D9%8A%D9%86-%D9%8810-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-10T15:46:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -65,7 +93,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -79,7 +107,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -168,35 +196,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UN Records 280 Israeli Incursion-Related Incidents in Syria in September",
-          "excerpt": "QAMISHLI, Syria (North Press) – The United Nations recorded around 280 incidents involving armed Israeli incursions into Syria during September, the highest monthly figure since the beginning of 2026, the UN human rights office said on Frid",
-          "link": "https://npasyria.com/en/142472/",
-          "publishedAt": "2026-10-09T18:28:19.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الأمم المتحدة تطالب إسرائيل بإنهاء ترهيب واحتجاز المدنيين في سوريا",
-          "excerpt": "دعوات أممية لتحقيق محايد وعاجل بشأن حوادث أدت إلى إصابة أو مقتل مدنيين على يد الاحتلال الإسرائيلي، بعد تسجيل أعلى معدل انتهاكات في أيلول الفائت",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AA%D8%B1%D9%87%D9%8A%D8%A8-%D9%88%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-09T18:21:21.000Z",
-          "files": [
-            "israel",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -205,8 +204,9 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor",
@@ -218,14 +218,26 @@
         "الإعلام المتخصص",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 34,
+      "usItems": 4,
+      "score": 37,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Putin conveys Iran’s position on ending war to Trump",
+          "excerpt": "QAMISHLI, Syria (North Press) – Russian President Vladimir Putin conveyed Iran’s position on a possible resolution to the war with the United States to U.S. President Donald Trump, the Kremlin said Saturday. Kremlin spokesperson Dmitry Pesk",
+          "link": "https://npasyria.com/en/142505/",
+          "publishedAt": "2026-10-10T15:16:23.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -235,7 +247,7 @@
           "link": "https://www.syria.tv/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B1%D8%AD%D8%A8-%D8%A8%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%88%D8%AA%D8%A8%D8%AD%D8%AB-%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%88%D9%8A",
           "publishedAt": "2026-10-10T14:57:38.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -243,11 +255,11 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Ex-Shin Bet research head: Hamas controls Gaza Strip, generates up to 5 million dollars daily",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/733357' alt='Hamas terrorists celebrating during a rally in the northern Gaza Strip. (photo credit: SUHAIB SALEM/REUTERS)",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2433,w_3600/733357' alt='Hamas terrorists celebrating during a rally in the northern Gaza Strip. (photo credit: SUHAIB SALEM/REUTER",
           "link": "https://www.jpost.com/middle-east/article-911219",
           "publishedAt": "2026-10-10T14:35:44.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -302,13 +314,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 08:56",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 15:01",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 6,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -334,106 +346,6 @@
           "publishedAt": "2026-10-09T19:25:17.000Z",
           "files": [
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا ترحب بتأكيد مجلس الأمن على ضرورة الاحترام الكامل لاتفاقية فصل القوات لعام 1974‏",
-          "excerpt": "رحبت الجمهورية العربية السورية بتأكيد مجلس الأمن الدولي بإجماع أعضائه أمس الخميس، ‏على ضرورة الاحترام الكامل لاتفاقية فصل القوات لعام 1974، وتنفيذ جميع أحكامها والالتزام ‏بسيادة سوريا واستقلالها ووحدتها وسلامة أراضيها.‏",
-          "link": "https://sana.sy/syria-and-the-world/2601992/",
-          "publishedAt": "2026-10-09T17:38:33.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مجلس الأمن يؤكد سيادة سوريا وسلامة أراضيها ويدعو لاحترام اتفاقية فض الاشتباك",
-          "excerpt": "رحبت وزارة الخارجية والمغتربين السورية بتأكيد مجلس الأمن الدولي ضرورة احترام سيادة سوريا واستقلالها ووحدة أراضيها، والالتزام الكامل باتفاقية فض الاشتباك",
-          "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D8%A4%D9%83%D8%AF-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83",
-          "publishedAt": "2026-10-09T16:57:50.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 08:56",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "رسلان: تفعيل حسابات دولية واستراتيجيات جديدة للقطاع المصرفي خلال أسابيع",
-          "excerpt": "أعلن حاكم مصرف سوريا المركزي، صفوت رسلان، إعادة تفعيل حسابات المصرف لدى البنك المركزي التركي والبنك المركزي الفرنسي والاحتياطي الفيدرالي الأميركي، مؤكداً أن الع",
-          "link": "https://www.syria.tv/%D8%B1%D8%B3%D9%84%D8%A7%D9%86-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A7%D8%A8%D9%8A%D8%B9",
-          "publishedAt": "2026-10-09T18:19:34.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 08:56",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria seizes 129,000 Captagon pills at Lebanon border",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian customs officials seized around 129,000 Captagon pills in an attempted smuggling operation from Lebanon at the Jdeidet Yabous border crossing on Friday, the Syrian Customs Authority said. The seizure f",
-          "link": "https://npasyria.com/en/142469/",
-          "publishedAt": "2026-10-09T16:49:59.000Z",
-          "files": [
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
