@@ -1,34 +1,46 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-10T22:37:06.544Z",
+    "generatedAt": "2026-10-11T07:15:37.307Z",
     "windowHours": 24,
-    "from": "2026-10-09T22:37:06.544Z",
-    "to": "2026-10-10T22:37:06.544Z"
+    "from": "2026-10-10T07:15:37.307Z",
+    "to": "2026-10-11T07:15:37.307Z"
   },
   "counts": {
-    "total": 20,
+    "total": 14,
     "byCircle": {
+      "الإعلام السوري المستقل": 10,
       "المصادر الرسمية السورية": 3,
-      "الإعلام السوري المستقل": 11,
-      "الملف الإسرائيلي والتركي": 2,
-      "الإعلام المتخصص": 4
+      "الإعلام المتخصص": 1
     },
     "bySource": {
-      "سانا — قسم السياسة": 3,
-      "تلفزيون سوريا": 6,
-      "Jerusalem Post — الشرق الأوسط": 2,
       "North Press Agency (English)": 5,
-      "The National": 1,
-      "Al-Monitor": 3
+      "سانا — قسم السياسة": 3,
+      "تلفزيون سوريا": 5,
+      "The National": 1
     }
   },
-  "errors": [],
+  "errors": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "message": "الخادم ردّ برمز 502"
+    }
+  ],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Trump says Putin wants Ukraine deal, accuses Zelensky of resisting",
+      "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump on Saturday said Russian President Vladimir Putin wanted to reach a deal to end the war in Ukraine, accusing Ukrainian President Volodymyr Zelensky of resisting a compromise. “Russ",
+      "link": "https://npasyria.com/en/142524/",
+      "publishedAt": "2026-10-11T06:31:37.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
       "circle": "المصادر الرسمية السورية",
-      "title": "علبي: تأكيد مجلس الأمن سيادة سوريا يعزز الجهود الدولية لوقف التوغلات ‏الإسرائيلية",
+      "title": "علبي: تأكيد مجلس الأمن سريان اتفاقية فض الاشتباك يدعم جهود وقف التوغلات الإسرائيلية",
       "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة، إبراهيم علبي، أن تأكيد مجلس الأمن بشأن ‏اتفاقية فض الاشتباك لعام 1974 يمثل سابقة في تأكيد سريان الاتفاقية واحترام ولاية قوة ‏الأمم المتحدة لمراقبة فض الاشتباك \"أندوف\"، ودعم سيادة سوريا على جميع أراض",
       "link": "https://sana.sy/politics/2603020/",
       "publishedAt": "2026-10-10T22:36:58.000Z"
@@ -41,15 +53,6 @@
       "excerpt": "بحث رئيس هيئة الأركان السوري علي النعسان، في اتصال هاتفي مع رئيس أركان الجيش التركي سلجوق بيرقدار أوغلو، تعزيز العلاقات العسكرية بين البلدين.",
       "link": "https://www.syria.tv/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D9%85%D8%B9-%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
       "publishedAt": "2026-10-10T21:55:21.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Red Cross chief says she tried to arrange Gaza hostage visits through talks with Hamas's Haniyeh",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2904,w_4135/741346' alt='International Committee of the Red Cross (ICRC) President Mirjana Spoljaric speaks during a meeting with R",
-      "link": "https://www.jpost.com/middle-east/article-911238",
-      "publishedAt": "2026-10-10T21:12:48.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
@@ -133,15 +136,6 @@
       "publishedAt": "2026-10-10T14:51:11.000Z"
     },
     {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Ex-Shin Bet research head: Hamas controls Gaza Strip, generates up to $5 million daily",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2433,w_3600/733357' alt='Hamas terrorists celebrating during a rally in the northern Gaza Strip. (photo credit: SUHAIB SALEM/REUTER",
-      "link": "https://www.jpost.com/middle-east/article-911219",
-      "publishedAt": "2026-10-10T14:35:44.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -158,51 +152,6 @@
       "excerpt": "Israel is holding 49 Syrians and carried out 280 armed incursions into southern Syria in September, UN High Commissioner for Human Rights Volker Turk has said.Released detainees alleged torture and ill-treatment, including beatings, prolong",
       "link": "https://www.thenationalnews.com/news/mena/2026/10/10/israel-holding-49-syrians-after-280-armed-incursions-in-september-says-un/",
       "publishedAt": "2026-10-10T07:47:08.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli strike in Lebanon wounds 6, targets Syrian operative – IDF",
-      "excerpt": "QAMISHLI, Syria (North Press) – An Israeli drone strike near the Syrian border in northeastern Lebanon wounded six people on Friday, including five Syrians, as the Israeli military said it targeted a Syrian operative allegedly planning atta",
-      "link": "https://npasyria.com/en/142479/",
-      "publishedAt": "2026-10-10T07:13:23.000Z"
-    },
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Year later, Gaza ceasefire promises mostly unfulfilled",
-      "excerpt": "<p>One year after US President Donald Trump declared the war in Gaza to be over, few of the long-term promises of the ceasefire have come to fruition.</p> <p>Here is a list of some of the key points of the October 10, 2025 ceasefire and whe",
-      "link": "https://www.al-monitor.com/originals/2026/10/year-later-gaza-ceasefire-promises-mostly-unfulfilled",
-      "publishedAt": "2026-10-10T05:30:21.000Z"
-    },
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Hunger and malnutrition stalk Gazans, a year on from ceasefire",
-      "excerpt": "<p>Every day, Gazan mother Niyaha al-Masri spends six exhausting hours or more queueing at a community kitchen in the hope of getting some food for her family.</p> <p>It has been a year since a ceasefire between Hamas and Israel was suppose",
-      "link": "https://www.al-monitor.com/originals/2026/10/hunger-and-malnutrition-stalk-gazans-year-ceasefire",
-      "publishedAt": "2026-10-10T04:30:25.000Z"
-    },
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "October 7 scars push Israel's first-time voters to right",
-      "excerpt": "<p>Like hundreds of thousands of Israelis, Amihai will be of voting age for the first time since Hamas carried out its attack on October 7, 2023. When he casts his ballot this month, he has one priority above all -- security.</p> <p>From a ",
-      "link": "https://www.al-monitor.com/originals/2026/10/october-7-scars-push-israels-first-time-voters-right",
-      "publishedAt": "2026-10-10T03:30:25.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "إسرائيل إذ ترسم حدود القوة.. سوريا ولبنان والاختبارات الفجة",
-      "excerpt": "لم يكن السابع من أكتوبر 2023 مجرد إخفاق أمني وعسكري في تاريخ إسرائيل، بل شكّل نقطة تحوّل في نظرتها إلى أمنها وحدودها وموقعها في المنطقة.",
-      "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A5%D8%B0-%D8%AA%D8%B1%D8%B3%D9%85-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%AC%D8%A9",
-      "publishedAt": "2026-10-10T03:28:28.000Z"
     }
   ]
 }

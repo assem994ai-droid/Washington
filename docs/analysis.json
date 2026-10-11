@@ -1,60 +1,75 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-10T22:37:06.544Z",
+    "generatedAt": "2026-10-11T07:15:37.307Z",
     "windowHours": 24,
-    "from": "2026-10-09T22:37:06.544Z",
-    "to": "2026-10-10T22:37:06.544Z"
+    "from": "2026-10-10T07:15:37.307Z",
+    "to": "2026-10-11T07:15:37.307Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 14,
     "files": 4,
-    "withNew": 4,
-    "stale": 0,
+    "withNew": 1,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 6,
-    "archiveCycles": 1213
+    "archiveCycles": 1214
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "message": "الخادم ردّ برمز 502"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 3,
       "sources": [
-        "سانا — قسم السياسة",
         "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
-        "Al-Monitor"
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 5,
-      "score": 45,
+      "score": 33,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump says Putin wants Ukraine deal, accuses Zelensky of resisting",
+          "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump on Saturday said Russian President Vladimir Putin wanted to reach a deal to end the war in Ukraine, accusing Ukrainian President Volodymyr Zelensky of resisting a compromise. “Russ",
+          "link": "https://npasyria.com/en/142524/",
+          "publishedAt": "2026-10-11T06:31:37.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -64,7 +79,7 @@
           "link": "https://sana.sy/politics/2602955/",
           "publishedAt": "2026-10-10T20:09:21.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -76,7 +91,7 @@
           "link": "https://npasyria.com/en/142518/",
           "publishedAt": "2026-10-10T19:36:03.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -102,42 +117,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Ex-Shin Bet research head: Hamas controls Gaza Strip, generates up to $5 million daily",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2433,w_3600/733357' alt='Hamas terrorists celebrating during a rally in the northern Gaza Strip. (photo credit: SUHAIB SALEM/REUTER",
-          "link": "https://www.jpost.com/middle-east/article-911219",
-          "publishedAt": "2026-10-10T14:35:44.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Year later, Gaza ceasefire promises mostly unfulfilled",
-          "excerpt": "<p>One year after US President Donald Trump declared the war in Gaza to be over, few of the long-term promises of the ceasefire have come to fruition.</p> <p>Here is a list of some of the key points of the October 10, 2025 ceasefire and whe",
-          "link": "https://www.al-monitor.com/originals/2026/10/year-later-gaza-ceasefire-promises-mostly-unfulfilled",
-          "publishedAt": "2026-10-10T05:30:21.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Hunger and malnutrition stalk Gazans, a year on from ceasefire",
-          "excerpt": "<p>Every day, Gazan mother Niyaha al-Masri spends six exhausting hours or more queueing at a community kitchen in the hope of getting some food for her family.</p> <p>It has been a year since a ceasefire between Hamas and Israel was suppose",
-          "link": "https://www.al-monitor.com/originals/2026/10/hunger-and-malnutrition-stalk-gazans-year-ceasefire",
-          "publishedAt": "2026-10-10T04:30:25.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -146,32 +125,31 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "سانا — قسم السياسة",
         "North Press Agency (English)",
         "تلفزيون سوريا",
-        "The National",
-        "Al-Monitor"
+        "The National"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 22:37",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 40,
+      "score": 21,
       "items": [
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "علبي: تأكيد مجلس الأمن سيادة سوريا يعزز الجهود الدولية لوقف التوغلات ‏الإسرائيلية",
+          "title": "علبي: تأكيد مجلس الأمن سريان اتفاقية فض الاشتباك يدعم جهود وقف التوغلات الإسرائيلية",
           "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة، إبراهيم علبي، أن تأكيد مجلس الأمن بشأن ‏اتفاقية فض الاشتباك لعام 1974 يمثل سابقة في تأكيد سريان الاتفاقية واحترام ولاية قوة ‏الأمم المتحدة لمراقبة فض الاشتباك \"أندوف\"، ودعم سيادة سوريا على جميع أراض",
           "link": "https://sana.sy/politics/2603020/",
           "publishedAt": "2026-10-10T22:36:58.000Z",
@@ -179,7 +157,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -193,7 +171,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -266,102 +244,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli strike in Lebanon wounds 6, targets Syrian operative – IDF",
-          "excerpt": "QAMISHLI, Syria (North Press) – An Israeli drone strike near the Syrian border in northeastern Lebanon wounded six people on Friday, including five Syrians, as the Israeli military said it targeted a Syrian operative allegedly planning atta",
-          "link": "https://npasyria.com/en/142479/",
-          "publishedAt": "2026-10-10T07:13:23.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "October 7 scars push Israel's first-time voters to right",
-          "excerpt": "<p>Like hundreds of thousands of Israelis, Amihai will be of voting age for the first time since Hamas carried out its attack on October 7, 2023. When he casts his ballot this month, he has one priority above all -- security.</p> <p>From a ",
-          "link": "https://www.al-monitor.com/originals/2026/10/october-7-scars-push-israels-first-time-voters-right",
-          "publishedAt": "2026-10-10T03:30:25.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إسرائيل إذ ترسم حدود القوة.. سوريا ولبنان والاختبارات الفجة",
-          "excerpt": "لم يكن السابع من أكتوبر 2023 مجرد إخفاق أمني وعسكري في تاريخ إسرائيل، بل شكّل نقطة تحوّل في نظرتها إلى أمنها وحدودها وموقعها في المنطقة.",
-          "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A5%D8%B0-%D8%AA%D8%B1%D8%B3%D9%85-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%AC%D8%A9",
-          "publishedAt": "2026-10-10T03:28:28.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Red Cross chief says she tried to arrange Gaza hostage visits through talks with Hamas's Haniyeh",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2904,w_4135/741346' alt='International Committee of the Red Cross (ICRC) President Mirjana Spoljaric speaks during a meeting with R",
-          "link": "https://www.jpost.com/middle-east/article-911238",
-          "publishedAt": "2026-10-10T21:12:48.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية فنلندية لتعزيز العلاقات الثنائية وتطوير التعاون في ملفات الهجرة",
-          "excerpt": "عقد وفد سوري برئاسة مديرة إدارة المغتربين واللاجئين في وزارة الخارجية والمغتربين ‏نهلة عثمان، وبمشاركة ممثلين عن وزارة العدل، اجتماعاً مع ممثلين عن ‏وزارتي الخارجية والداخلية والشرطة الفنلندية، على هامش الزيارة الرسمية إلى ‏الدول الإسكندناف",
-          "link": "https://sana.sy/politics/2602941/",
-          "publishedAt": "2026-10-10T19:55:57.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
         }
       ]
     },
@@ -377,13 +259,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 22:37",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -396,7 +278,43 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-10 22:37",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية فنلندية لتعزيز العلاقات الثنائية وتطوير التعاون في ملفات الهجرة",
+          "excerpt": "عقد وفد سوري برئاسة مديرة إدارة المغتربين واللاجئين في وزارة الخارجية والمغتربين ‏نهلة عثمان، وبمشاركة ممثلين عن وزارة العدل، اجتماعاً مع ممثلين عن ‏وزارتي الخارجية والداخلية والشرطة الفنلندية، على هامش الزيارة الرسمية إلى ‏الدول الإسكندناف",
+          "link": "https://sana.sy/politics/2602941/",
+          "publishedAt": "2026-10-10T19:55:57.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
           "us": false
         }
       ]
