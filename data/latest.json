@@ -1,23 +1,21 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-11T22:31:31.696Z",
+    "generatedAt": "2026-10-12T08:04:11.466Z",
     "windowHours": 24,
-    "from": "2026-10-10T22:31:31.696Z",
-    "to": "2026-10-11T22:31:31.696Z"
+    "from": "2026-10-11T08:04:11.466Z",
+    "to": "2026-10-12T08:04:11.466Z"
   },
   "counts": {
-    "total": 17,
+    "total": 18,
     "byCircle": {
-      "الإعلام الدولي": 1,
-      "الإعلام السوري المستقل": 10,
+      "الإعلام السوري المستقل": 12,
       "الملف الإسرائيلي والتركي": 4,
       "الإعلام المتخصص": 1,
       "المصادر الرسمية السورية": 1
     },
     "bySource": {
-      "Al Jazeera English": 1,
-      "North Press Agency (English)": 5,
-      "تلفزيون سوريا": 5,
+      "North Press Agency (English)": 6,
+      "تلفزيون سوريا": 6,
       "Jerusalem Post — الشرق الأوسط": 4,
       "The National": 1,
       "سانا — قسم السياسة": 1
@@ -26,13 +24,40 @@
   "errors": [],
   "items": [
     {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Syrian families demand release of detainees held by Israel",
-      "excerpt": "Syrian families demand release of detainees held by Israel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
-      "publishedAt": "2026-10-11T20:24:19.000Z"
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Bipartisan U.S. senators urge Trump to reverse Russia diesel deal",
+      "excerpt": "DAMASCUS, Syria (North Press) – Bipartisan U.S. senators on Sunday urged President Donald Trump to reverse a deal to supply diesel from Russia, arguing that it would undermine restrictions imposed to prevent Moscow from using U.S. dollars t",
+      "link": "https://npasyria.com/en/142569/",
+      "publishedAt": "2026-10-12T07:38:26.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces raid homes in Syria&#8217;s Quneitra, release 3 shepherds",
+      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Sunday evening entered areas in southern and northern Quneitra, southern Syria, with military vehicles, moving between homes, firing into the air and searching houses, local sources told Nor",
+      "link": "https://npasyria.com/en/142562/",
+      "publishedAt": "2026-10-12T06:40:58.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "وزارة الثقافة السورية تنعى الشاعرة فاطمة السوادي وتوجّه بإصدار أعمالها الشعرية",
+      "excerpt": "نعت وزارة الثقافة السورية الشاعرة والرسامة فاطمة السوادي، التي توفيت يوم السبت في مدينة إسطنبول التركية بعد معاناة مع مرض السرطان..",
+      "link": "https://www.syria.tv/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D8%B9%D9%89-%D8%A7%D9%84%D8%B4%D8%A7%D8%B9%D8%B1%D8%A9-%D9%81%D8%A7%D8%B7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D8%AF%D9%8A-%D9%88%D8%AA%D9%88%D8%AC%D9%91%D9%87-%D8%A8%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A3%D8%B9%D9%85%D8%A7%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D9%8A%D8%A9",
+      "publishedAt": "2026-10-12T06:14:17.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria opens first U.S. bank letter of credit in 14 years for oil imports",
+      "excerpt": "DAMASCUS, Syria (North Press) – Syria’s central bank on Sunday issued its first letter of credit through a major U.S. financial institution in 14 years, backing an oil import agreement with Saudi Aramco, according to an official statement. ",
+      "link": "https://npasyria.com/en/142556/",
+      "publishedAt": "2026-10-12T05:54:44.000Z"
     },
     {
       "source": "North Press Agency (English)",
@@ -143,15 +168,6 @@
       "publishedAt": "2026-10-11T10:13:53.000Z"
     },
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Turkey says Syrian population falls to 2.2 million as voluntary returns continue",
-      "excerpt": "DAMASCUS, Syria (North Press) – The number of Syrians in Turkey has fallen to 2.2 million, with 755,000 returning voluntarily to Syria since Dec. 8, 2024, Turkish Interior Minister Mustafa Çiftçi said on Sunday. Çiftçi, quoted by Anadolu Ag",
-      "link": "https://npasyria.com/en/142530/",
-      "publishedAt": "2026-10-11T10:13:52.000Z"
-    },
-    {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
       "circle": "المصادر الرسمية السورية",
@@ -168,15 +184,6 @@
       "excerpt": "توغلت دورية تابعة لقوات الاحتلال الإسرائيلي في وادي الرقاد المحاذي لقرية عابدين بمنطقة حوض اليرموك في ريف درعا الغربي..",
       "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D8%B1%D9%82%D9%84-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF",
       "publishedAt": "2026-10-11T08:50:06.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Trump says Putin wants Ukraine deal, accuses Zelensky of resisting",
-      "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump on Saturday said Russian President Vladimir Putin wanted to reach a deal to end the war in Ukraine, accusing Ukrainian President Volodymyr Zelensky of resisting a compromise. “Russ",
-      "link": "https://npasyria.com/en/142524/",
-      "publishedAt": "2026-10-11T06:31:37.000Z"
     }
   ]
 }
