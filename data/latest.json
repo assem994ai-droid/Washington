@@ -1,28 +1,44 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-12T17:47:44.285Z",
+    "generatedAt": "2026-10-12T23:48:37.147Z",
     "windowHours": 24,
-    "from": "2026-10-11T17:47:44.285Z",
-    "to": "2026-10-12T17:47:44.285Z"
+    "from": "2026-10-11T23:48:37.147Z",
+    "to": "2026-10-12T23:48:37.147Z"
   },
   "counts": {
-    "total": 18,
+    "total": 19,
     "byCircle": {
-      "الإعلام السوري المستقل": 13,
-      "الإعلام المتخصص": 3,
-      "التقارير الرسمية الدورية": 1,
-      "المصادر الرسمية السورية": 1
+      "المصادر الرسمية السورية": 2,
+      "الإعلام السوري المستقل": 14,
+      "الإعلام المتخصص": 3
     },
     "bySource": {
-      "تلفزيون سوريا": 10,
+      "سانا — قسم السياسة": 2,
+      "تلفزيون سوريا": 11,
       "The National": 3,
-      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
-      "North Press Agency (English)": 3,
-      "سانا — قسم السياسة": 1
+      "North Press Agency (English)": 3
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "وزير المالية يبحث في بانكوك مع صندوق النقد العربي سبل دعم ‏سوريا فنياً ومالياً",
+      "excerpt": "بحث وزير المالية محمد يسر برنية مع المدير العام رئيس مجلس ‏إدارة صندوق النقد العربي فهد بن محمد التركي، سبل معالجة ‏الالتزامات المالية القائمة تجاه الصندوق، وتعزيز أطر الدعم الفني ‏الذي يقدّمه الصندوق لسوريا، بما يسهم في تطوير كفاءة العمل ا",
+      "link": "https://sana.sy/syria-and-the-world/2605250/",
+      "publishedAt": "2026-10-12T22:14:11.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مظلوم عبدي ومسعود بارزاني يبحثان مستقبل الكُرد في سوريا",
+      "excerpt": "مظلوم عبدي يلتقي مسعود بارزاني لبحث مستقبل الكرد في سوريا ومسار الحوار، فما الذي قد تحمله هذه المباحثات؟",
+      "link": "https://www.syria.tv/%D9%85%D8%B8%D9%84%D9%88%D9%85-%D8%B9%D8%A8%D8%AF%D9%8A-%D9%88%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%83%D9%8F%D8%B1%D8%AF-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-10-12T20:38:19.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -58,15 +74,6 @@
       "excerpt": "وصل وفد من أعضاء مجلس الشعب إلى محافظة القنيطرة، الإثنين، في زيارة رسمية تُعد الأولى من نوعها، وفقاً لما أفاد به مراسل تلفزيون سوريا.",
       "link": "https://www.syria.tv/%D9%88%D9%81%D8%AF-%D9%85%D9%86-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D9%8A%D8%B2%D9%88%D8%B1-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%84%D9%84%D8%A7%D8%B7%D9%84%D8%A7%D8%B9-%D8%B9%D9%84%D9%89-%D9%88%D8%A7%D9%82%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%B4%D9%8A-%D8%B5%D9%88%D8%B1",
       "publishedAt": "2026-10-12T13:06:39.000Z"
-    },
-    {
-      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-      "sourceId": "unpress",
-      "circle": "التقارير الرسمية الدورية",
-      "title": "Security Council, 10239th Meeting (PM) Syria",
-      "excerpt": "The Security Council today holds its monthly meeting on political and humanitarian developments in Syria. Deputy Special Envoy for Syria Claudio Cordone and a representative of the UN Office for the Coordination of Humanitarian Affairs are ",
-      "link": "https://press.un.org/en/blog/sc16474",
-      "publishedAt": "2026-10-12T11:38:49.000Z"
     },
     {
       "source": "The National",
