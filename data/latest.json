@@ -1,33 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-13T22:59:20.532Z",
+    "generatedAt": "2026-10-14T01:43:19.105Z",
     "windowHours": 24,
-    "from": "2026-10-12T22:59:20.532Z",
-    "to": "2026-10-13T22:59:20.532Z"
+    "from": "2026-10-13T01:43:19.105Z",
+    "to": "2026-10-14T01:43:19.105Z"
   },
   "counts": {
-    "total": 24,
+    "total": 21,
     "byCircle": {
       "المصادر الرسمية السورية": 4,
-      "الإعلام السوري المستقل": 18,
-      "الملف الإسرائيلي والتركي": 1,
-      "التقارير الرسمية الدورية": 1
+      "الإعلام السوري المستقل": 16,
+      "الملف الإسرائيلي والتركي": 1
     },
     "bySource": {
       "سانا — قسم السياسة": 4,
-      "تلفزيون سوريا": 15,
+      "تلفزيون سوريا": 13,
       "North Press Agency (English)": 3,
-      "Jerusalem Post — الشرق الأوسط": 1,
-      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1
+      "Jerusalem Post — الشرق الأوسط": 1
     }
   },
-  "errors": [
-    {
-      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-      "sourceId": "fdd",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "items": [
     {
       "source": "سانا — قسم السياسة",
@@ -217,33 +209,6 @@
       "excerpt": "أعلنت وزارة الخارجية والمغتربين أمس الإثنين انضمام سوريا رسمياً إلى المدونة الدولية لحماية السياح التابعة لمنظمة الأمم المتحدة للسياحة (UN Tourism).",
       "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%86%D8%B6%D9%85-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD",
       "publishedAt": "2026-10-13T05:54:39.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الأمم المتحدة تدعو إلى ترجمة النوايا الحسنة بشأن سوريا إلى فوائد ملموسة",
-      "excerpt": "دعت الأمم المتحدة إلى ترجمة النوايا الحسنة والدعم الدولي لسوريا إلى تمويل ومساعدات تقنية ومشاريع تنعكس على حياة السكان، محذرةً من أن التحديات الاقتصادية",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%85%D9%84%D9%85%D9%88%D8%B3%D8%A9",
-      "publishedAt": "2026-10-13T00:48:04.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "إبراهيم علبي يدعو إلى تحويل الدعم السياسي لسوريا إلى شراكة عملية",
-      "excerpt": "دعا مندوب سوريا الدائم لدى الأمم المتحدة، إبراهيم علبي، المجتمع الدولي إلى تحويل دعمه السياسي إلى شراكة عملية تسهم في التعافي الاقتصادي وإعادة الإعمار وخلق",
-      "link": "https://www.syria.tv/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B9%D9%84%D8%A8%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9",
-      "publishedAt": "2026-10-13T00:15:06.000Z"
-    },
-    {
-      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-      "sourceId": "unpress",
-      "circle": "التقارير الرسمية الدورية",
-      "title": "Syria’s Political Transition Hinges on Economic Recovery, Security Council Hears amid Lingering Tensions",
-      "excerpt": "With millions of Syrians returning home amid signs of economic recovery and political progress, senior United Nations officials today urged the Security Council to support greater investment in reconstruction, education and basic services w",
-      "link": "https://press.un.org/en/2026/sc16474.doc.htm",
-      "publishedAt": "2026-10-12T23:58:57.000Z"
     }
   ]
 }

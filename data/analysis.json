@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-13T22:59:20.532Z",
+    "generatedAt": "2026-10-14T01:43:19.105Z",
     "windowHours": 24,
-    "from": "2026-10-12T22:59:20.532Z",
-    "to": "2026-10-13T22:59:20.532Z"
+    "from": "2026-10-13T01:43:19.105Z",
+    "to": "2026-10-14T01:43:19.105Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
+    "items": 21,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
+    "withNew": 0,
+    "stale": 5,
     "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 1224
+    "archiveCycles": 1225
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,16 +23,11 @@
     "مراكز الفكر",
     "الإعلام المتخصص",
     "الإعلام الدولي",
+    "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-      "sourceId": "fdd",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
@@ -49,13 +44,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-13 22:59",
       "isFollowUp": true,
-      "newItems": 5,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 50,
+      "score": 24,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -66,7 +61,7 @@
           "link": "https://sana.sy/politics/2606229/",
           "publishedAt": "2026-10-13T21:46:49.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,7 +73,7 @@
           "link": "https://sana.sy/politics/2606225/",
           "publishedAt": "2026-10-13T21:17:47.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -90,7 +85,7 @@
           "link": "https://www.syria.tv/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%85%D8%AF%D9%8A%D8%B1%D8%A9-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%84%D9%81-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-10-13T20:25:54.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -102,7 +97,7 @@
           "link": "https://www.syria.tv/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D9%85%D8%AF%D9%88%D9%86%D8%A9-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD-%D8%AE%D8%B7%D9%88%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9",
           "publishedAt": "2026-10-13T19:29:39.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -114,7 +109,7 @@
           "link": "https://sana.sy/politics/2606033/",
           "publishedAt": "2026-10-13T19:21:27.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -188,128 +183,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إبراهيم علبي يدعو إلى تحويل الدعم السياسي لسوريا إلى شراكة عملية",
-          "excerpt": "دعا مندوب سوريا الدائم لدى الأمم المتحدة، إبراهيم علبي، المجتمع الدولي إلى تحويل دعمه السياسي إلى شراكة عملية تسهم في التعافي الاقتصادي وإعادة الإعمار وخلق",
-          "link": "https://www.syria.tv/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B9%D9%84%D8%A8%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-10-13T00:15:06.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 19,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني: قدمنا أكثر من 100 ألف وثيقة لمنظمة حظر الأسلحة الكيميائية",
-          "excerpt": "أعلن وزير الخارجية والمغتربين السوري أسعد حسن الشيباني، الثلاثاء، تقديم أكثر من 100 ألف وثيقة رسمية إلى منظمة حظر الأسلحة الكيميائية، وإتاحة الوصول إلى السجلات",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%82%D8%AF%D9%85%D9%86%D8%A7-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-100-%D8%A3%D9%84%D9%81-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9",
-          "publishedAt": "2026-10-13T19:35:11.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني ودالافيور يؤكدان مواصلة التعاون للإغلاق النهائي لملف الأسلحة الكيميائية",
-          "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني أن سوريا تمضي بالتعاون مع ‏منظمة حظر الأسلحة الكيميائية نحو الإغلاق النهائي للملف الكيميائي، من خلال ‏خطة عمل واضحة وجدول زمني محدد، بالتوازي مع ملاحقة المسؤولين عن ‏الجرائم وتحقيق العدالة للضح",
-          "link": "https://sana.sy/politics/2605972/",
-          "publishedAt": "2026-10-13T18:14:43.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني والصفدي يدينان القصف الذي تتعرض له السعودية ويبحثان تعزيز التنسيق",
-          "excerpt": "بحث الشيباني، خلال الاتصال، مع الصفدي، وهو نائب رئيس الوزراء ووزير الخارجية وشؤون المغتربين في الأردن، آخر التطورات المتعلقة بمجلس التنسيق الأعلى بين البلدين",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B5%D9%81%D8%AF%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%87-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82",
-          "publishedAt": "2026-10-13T16:43:47.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الأمم المتحدة: عودة أكثر من 3.8 ملايين سوري إلى ديارهم منذ كانون الأول 2024",
-          "excerpt": "عاد أكثر من 3.8 ملايين سوري إلى مناطقهم، لكن ملايين آخرين ما زالوا يواجهون النزوح والاحتياجات الإنسانية.. فهل تكفي العودة لبدء حياة جديدة؟",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-38-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D9%84%D9%89-%D8%AF%D9%8A%D8%A7%D8%B1%D9%87%D9%85-%D9%85%D9%86%D8%B0-%D9%83%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84-2024",
-          "publishedAt": "2026-10-13T10:52:29.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الأمم المتحدة تدعو إلى ترجمة النوايا الحسنة بشأن سوريا إلى فوائد ملموسة",
-          "excerpt": "دعت الأمم المتحدة إلى ترجمة النوايا الحسنة والدعم الدولي لسوريا إلى تمويل ومساعدات تقنية ومشاريع تنعكس على حياة السكان، محذرةً من أن التحديات الاقتصادية",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%85%D9%84%D9%85%D9%88%D8%B3%D8%A9",
-          "publishedAt": "2026-10-13T00:48:04.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Syria’s Political Transition Hinges on Economic Recovery, Security Council Hears amid Lingering Tensions",
-          "excerpt": "With millions of Syrians returning home amid signs of economic recovery and political progress, senior United Nations officials today urged the Security Council to support greater investment in reconstruction, education and basic services w",
-          "link": "https://press.un.org/en/2026/sc16474.doc.htm",
-          "publishedAt": "2026-10-12T23:58:57.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -327,7 +200,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-13 18:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-13 22:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -380,6 +253,86 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-13 22:59",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 5,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني: قدمنا أكثر من 100 ألف وثيقة لمنظمة حظر الأسلحة الكيميائية",
+          "excerpt": "أعلن وزير الخارجية والمغتربين السوري أسعد حسن الشيباني، الثلاثاء، تقديم أكثر من 100 ألف وثيقة رسمية إلى منظمة حظر الأسلحة الكيميائية، وإتاحة الوصول إلى السجلات",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%82%D8%AF%D9%85%D9%86%D8%A7-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-100-%D8%A3%D9%84%D9%81-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9",
+          "publishedAt": "2026-10-13T19:35:11.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني ودالافيور يؤكدان مواصلة التعاون للإغلاق النهائي لملف الأسلحة الكيميائية",
+          "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني أن سوريا تمضي بالتعاون مع ‏منظمة حظر الأسلحة الكيميائية نحو الإغلاق النهائي للملف الكيميائي، من خلال ‏خطة عمل واضحة وجدول زمني محدد، بالتوازي مع ملاحقة المسؤولين عن ‏الجرائم وتحقيق العدالة للضح",
+          "link": "https://sana.sy/politics/2605972/",
+          "publishedAt": "2026-10-13T18:14:43.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني والصفدي يدينان القصف الذي تتعرض له السعودية ويبحثان تعزيز التنسيق",
+          "excerpt": "بحث الشيباني، خلال الاتصال، مع الصفدي، وهو نائب رئيس الوزراء ووزير الخارجية وشؤون المغتربين في الأردن، آخر التطورات المتعلقة بمجلس التنسيق الأعلى بين البلدين",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%B5%D9%81%D8%AF%D9%8A-%D9%8A%D8%AF%D9%8A%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%87-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82",
+          "publishedAt": "2026-10-13T16:43:47.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الأمم المتحدة: عودة أكثر من 3.8 ملايين سوري إلى ديارهم منذ كانون الأول 2024",
+          "excerpt": "عاد أكثر من 3.8 ملايين سوري إلى مناطقهم، لكن ملايين آخرين ما زالوا يواجهون النزوح والاحتياجات الإنسانية.. فهل تكفي العودة لبدء حياة جديدة؟",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-38-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D9%84%D9%89-%D8%AF%D9%8A%D8%A7%D8%B1%D9%87%D9%85-%D9%85%D9%86%D8%B0-%D9%83%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84-2024",
+          "publishedAt": "2026-10-13T10:52:29.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدر واحد",
@@ -391,7 +344,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-13 18:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-13 22:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -441,7 +394,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-13 18:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-13 22:59",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
