@@ -1,26 +1,35 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-14T01:43:19.105Z",
+    "generatedAt": "2026-10-14T06:44:03.454Z",
     "windowHours": 24,
-    "from": "2026-10-13T01:43:19.105Z",
-    "to": "2026-10-14T01:43:19.105Z"
+    "from": "2026-10-13T06:44:03.454Z",
+    "to": "2026-10-14T06:44:03.454Z"
   },
   "counts": {
-    "total": 21,
+    "total": 18,
     "byCircle": {
+      "الإعلام السوري المستقل": 13,
       "المصادر الرسمية السورية": 4,
-      "الإعلام السوري المستقل": 16,
       "الملف الإسرائيلي والتركي": 1
     },
     "bySource": {
-      "سانا — قسم السياسة": 4,
-      "تلفزيون سوريا": 13,
       "North Press Agency (English)": 3,
+      "سانا — قسم السياسة": 4,
+      "تلفزيون سوريا": 10,
       "Jerusalem Post — الشرق الأوسط": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Iran changes Hormuz tactics to target ships, influence U.S. midterms",
+      "excerpt": "QAMISHLI, Syria (North Press) – Iran has adopted new tactics to target ships transiting the Strait of Hormuz in an effort to keep oil prices high and influence the U.S. midterm elections, Reuters reported on Wednesday citing two senior Iran",
+      "link": "https://npasyria.com/en/142639/",
+      "publishedAt": "2026-10-14T06:42:03.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -173,42 +182,6 @@
       "excerpt": "DAMASCUS, Syria (North Press) – Iraq has proposed establishing a fund to support Iraq and Syria in combating terrorist groups, Iraqi National Security Adviser Qasim al-Aboudi said on Tuesday. Speaking at the 2026 MERI Forum in Erbil, the ca",
       "link": "https://npasyria.com/en/142617/",
       "publishedAt": "2026-10-13T09:08:23.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Trump dismisses claims of Chinese, Russian support for Iran",
-      "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump on Monday said he did not believe China or Russia was providing support to Iran, arguing that Washington would have detected any such assistance very quickly. In a post on Truth So",
-      "link": "https://npasyria.com/en/142601/",
-      "publishedAt": "2026-10-13T06:37:34.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "إطلاق نار وتفجير تحصينات عسكرية.. توغل إسرائيلي جديد في ريف دمشق",
-      "excerpt": "توغلت دورية عسكرية تابعة لجيش الاحتلال الإسرائيلي، الثلاثاء، في كروم قرية مزرعة بيت جن بريف دمشق الغربي، وأطلقت النار بالهواء",
-      "link": "https://www.syria.tv/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%AA%D8%AD%D8%B5%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
-      "publishedAt": "2026-10-13T06:30:32.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "تركيا تبحث مشروعا للربط الكهربائي مع سوريا والسعودية والأردن",
-      "excerpt": "أعلن وزير الطاقة والموارد الطبيعية التركي ألب أرسلان بيرقدار إجراء مباحثات بشأن مشروع استراتيجي لإنشاء خط للربط الكهربائي بين تركيا والسعودية والأردن وسوريا",
-      "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7-%D9%84%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86",
-      "publishedAt": "2026-10-13T06:29:04.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "سوريا تنضم رسميا إلى \"المدونة الدولية لحماية السياح\"",
-      "excerpt": "أعلنت وزارة الخارجية والمغتربين أمس الإثنين انضمام سوريا رسمياً إلى المدونة الدولية لحماية السياح التابعة لمنظمة الأمم المتحدة للسياحة (UN Tourism).",
-      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%86%D8%B6%D9%85-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD",
-      "publishedAt": "2026-10-13T05:54:39.000Z"
     }
   ]
 }
