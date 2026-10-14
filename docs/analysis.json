@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-14T06:44:03.454Z",
+    "generatedAt": "2026-10-14T12:26:52.691Z",
     "windowHours": 24,
-    "from": "2026-10-13T06:44:03.454Z",
-    "to": "2026-10-14T06:44:03.454Z"
+    "from": "2026-10-13T12:26:52.691Z",
+    "to": "2026-10-14T12:26:52.691Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 23,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 3,
+    "stale": 2,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 1226
+    "americanItems": 1,
+    "archiveCycles": 1227
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,24 +34,62 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
         "North Press Agency (English)",
+        "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة",
         "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 29,
+      "usItems": 1,
+      "score": 38,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Saudi Arabia prepared for all scenarios amid Houthi attacks – Analyst",
+          "excerpt": "QAMISHLI, Syria (North Press) – A Saudi political analyst said on Wednesday that Houthi attacks targeting civilian facilities and airports in Saudi Arabia constitute “war crimes” under international law, as Riyadh prepares for possible furt",
+          "link": "https://npasyria.com/en/142651/",
+          "publishedAt": "2026-10-14T11:03:25.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Residents say illegal logging continues despite complaints in Syria&#8217;s Afrin",
+          "excerpt": "AFRIN, Syria (North Press) – Bafloun village in Afrin countryside, northwestern Syria, is facing a growing wave of tree-cutting that has affected both government-owned forests and private woodlands, local residents told North Press on Wedne",
+          "link": "https://npasyria.com/en/142645/",
+          "publishedAt": "2026-10-14T09:11:39.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Board of Peace preparing for Gaza field survey to find locations for Hamas weapons handover",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3328,w_4992/671769' alt=' Members of the Al-Qassam Brigades, the military wing of Hamas and mourners attend the funeral of Al-Qassa",
+          "link": "https://www.jpost.com/middle-east/article-911631",
+          "publishedAt": "2026-10-14T08:29:46.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -61,7 +99,7 @@
           "link": "https://npasyria.com/en/142639/",
           "publishedAt": "2026-10-14T06:42:03.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -147,30 +185,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من القتل إلى الإخفاء.. 19 جلسة قضائية في دمشق لملفات انتهاكات النظام المخلوع",
-          "excerpt": "عقدت محكمة الجنايات الرابعة بدمشق 19 جلسة للنظر في اتهامات بجرائم حرب وجرائم ضد الإنسانية خلال حكم النظام المخلوع، وسط مطالبات بأقصى العقوبات.",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%AA%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%AE%D9%81%D8%A7%D8%A1-19-%D8%AC%D9%84%D8%B3%D8%A9-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9",
-          "publishedAt": "2026-10-13T10:32:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iraq proposes fund to support Iraq, Syria against terrorism",
-          "excerpt": "DAMASCUS, Syria (North Press) – Iraq has proposed establishing a fund to support Iraq and Syria in combating terrorist groups, Iraqi National Security Adviser Qasim al-Aboudi said on Tuesday. Speaking at the 2026 MERI Forum in Erbil, the ca",
-          "link": "https://npasyria.com/en/142617/",
-          "publishedAt": "2026-10-13T09:08:23.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -179,23 +193,67 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "North Press Agency (English)",
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 01:43",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 3,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 30,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli force raids home, detains residents in Syria&#8217;s Daraa",
+          "excerpt": "DARAA, Syria (North Press) – An Israeli military force consisting of five vehicles on Wednesday morning entered Wadi al-Raqad valley in western Daraa countryside, southern Syria. North Press correspondent in Daraa said three vehicles raided",
+          "link": "https://npasyria.com/en/142648/",
+          "publishedAt": "2026-10-14T09:46:54.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Lebanon ambassador to US receives complaint for asking Israeli ambassador about his son",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/741887' alt='Lebanon Ambassador to the US Nada Hamadeh Moawad speaks to reporters after a meeting with US President Dona",
+          "link": "https://www.jpost.com/middle-east/article-911633",
+          "publishedAt": "2026-10-14T08:52:01.000Z",
+          "files": [
+            "israel",
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل في ريف درعا وينذر مدنيا لإخلاء منزله",
+          "excerpt": "توغلت قوة تابعة لجيش الاحتلال الإسرائيلي، الأربعاء، في وادي الرقاد بريف محافظة درعا الغربي، حيث اقتحمت منزلاً سكنياً، وأنذرت صاحبه بالإخلاء",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D9%86%D8%B0%D8%B1-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D9%84%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D9%85%D9%86%D8%B2%D9%84%D9%87",
+          "publishedAt": "2026-10-14T08:12:59.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -231,23 +289,53 @@
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
+        "Jerusalem Post — الشرق الأوسط",
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الملف الإسرائيلي والتركي",
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 01:43",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 5,
+      "score": 22,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Iran tensions, Syria talks put Iraqi Kurdistan at the center of Middle Eastern diplomacy - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/706465' alt='Nechirvan Barzani, President of Iraq's autonomous Kurdistan Region, gives a joint press conference with Fr",
+          "link": "https://www.jpost.com/middle-east/article-911643",
+          "publishedAt": "2026-10-14T10:46:58.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية كندية لتعزيز التنسيق في المجالات الصحية والإنسانية والتنموية",
+          "excerpt": "عقدت إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية والمغتربين، بمشاركة ‏وزير الطوارئ وإدارة الكوارث رائد الصالح",
+          "link": "https://sana.sy/politics/2606434/",
+          "publishedAt": "2026-10-14T09:25:11.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -289,20 +377,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الأمم المتحدة: عودة أكثر من 3.8 ملايين سوري إلى ديارهم منذ كانون الأول 2024",
-          "excerpt": "عاد أكثر من 3.8 ملايين سوري إلى مناطقهم، لكن ملايين آخرين ما زالوا يواجهون النزوح والاحتياجات الإنسانية.. فهل تكفي العودة لبدء حياة جديدة؟",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-38-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D9%84%D9%89-%D8%AF%D9%8A%D8%A7%D8%B1%D9%87%D9%85-%D9%85%D9%86%D8%B0-%D9%83%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D9%84-2024",
-          "publishedAt": "2026-10-13T10:52:29.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -318,7 +392,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 01:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 06:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -354,7 +428,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 01:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 06:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
