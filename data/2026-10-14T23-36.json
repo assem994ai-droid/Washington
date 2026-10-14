@@ -1,0 +1,227 @@
+{
+  "cycle": {
+    "generatedAt": "2026-10-14T23:36:05.430Z",
+    "windowHours": 24,
+    "from": "2026-10-13T23:36:05.430Z",
+    "to": "2026-10-14T23:36:05.430Z"
+  },
+  "counts": {
+    "total": 22,
+    "byCircle": {
+      "المصادر الرسمية السورية": 3,
+      "الإعلام السوري المستقل": 13,
+      "الإعلام الدولي": 1,
+      "الملف الإسرائيلي والتركي": 3,
+      "الملف الإسرائيلي": 2
+    },
+    "bySource": {
+      "سانا — قسم السياسة": 3,
+      "تلفزيون سوريا": 7,
+      "North Press Agency (English)": 6,
+      "Al Jazeera English": 1,
+      "Jerusalem Post — الشرق الأوسط": 3,
+      "Ynet News (English)": 2
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية سويدية لدعم استقرار العائدين طوعاً وإعادة إدماجهم",
+      "excerpt": "بحث مدير إدارة العلاقات والتعاون الدولي في الهيئة العامة للمنافذ والجمارك مازن علوش، مع وفد من السويد، ضم ممثلين عن وكالة الهجرة السويدية، برئاسة شيل تيري تورفيك، ومشاركة نائب رئيس البعثة في السفارة السويدية بدمشق يسبر هاغر، آفاق التعاون ال",
+      "link": "https://sana.sy/politics/2607130/",
+      "publishedAt": "2026-10-14T22:16:14.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا تبحث مع مؤسسة التمويل الدولية إنشاء صندوق لدعم المشاريع والاستثمارات",
+      "excerpt": "المباحثات جرت بحضور مديرة قسم سوريا في البنك الدولي، على هامش الاجتماعات السنوية لصندوق النقد الدولي ومجموعة البنك الدولي المنعقدة في بانكوك",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
+      "publishedAt": "2026-10-14T21:05:21.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قوات الاحتلال الإسرائيلي تستهدف تل أحمر بريف القنيطرة بقذائف المدفعية",
+      "excerpt": "قصفت قوات الاحتلال الإسرائيلي، تل الأحمر الشرقي في ريف القنيطرة الجنوبي، بقذائف المدفعية، في يوم شهد توغلات عسكرية إسرائيلية في ريفي القنيطرة ودرعا، تخللتها اعت",
+      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A8%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9",
+      "publishedAt": "2026-10-14T20:45:14.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Russia says Assad’s political asylum decision final",
+      "excerpt": "DAMASCUS, Syria (North Press) – Russia’s decision to grant former Syrian President Bashar al-Assad political asylum is final and irreversible, Russian Deputy Foreign Minister Georgy Borisenko said on Wednesday. In an interview with Russian ",
+      "link": "https://npasyria.com/en/142661/",
+      "publishedAt": "2026-10-14T19:52:30.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "اتفاقية جديدة بشأن مستقبل الجامعات التركية في الشمال السوري",
+      "excerpt": "وقّعت وزارة التعليم العالي والبحث العلمي السورية مذكرة تفاهم مع مجلس التعليم العالي التركي، لتنظيم مستقبل عدد من المؤسسات التعليمية في شمالي سوريا، واستمرار عمل",
+      "link": "https://www.syria.tv/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+      "publishedAt": "2026-10-14T19:45:54.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
+      "excerpt": "Bar and Netanyahu have traded blame over the Hamas-led attack, as elections in Israel loom.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
+      "publishedAt": "2026-10-14T18:39:03.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يتوغل في ريفي القنيطرة ودرعا ويستهدف صهريج مياه ويطرد رعاة أغنام",
+      "excerpt": "تواصل قوات الاحتلال الإسرائيلي انتهاكاتها للأراضي السورية في وقت تتصاعد فيه الإدانات الدولية لممارسات الاحتلال بما فيها اعتقال عشرات السوريين",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B5%D9%87%D8%B1%D9%8A%D8%AC-%D9%85%D9%8A%D8%A7%D9%87-%D9%88%D9%8A%D8%B7%D8%B1%D8%AF-%D8%B1%D8%B9%D8%A7%D8%A9-%D8%A3%D8%BA%D9%86%D8%A7%D9%85",
+      "publishedAt": "2026-10-14T16:23:10.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Russia expects Syria military base deals by year-end",
+      "excerpt": "QAMISHLI, Syria (North Press) – Russia and Syria may sign agreements on the future of Russian military bases in Syria before the end of this year, Russian Deputy Foreign Minister Georgy Borisenko said on Wednesday. In an interview with Russ",
+      "link": "https://npasyria.com/en/142658/",
+      "publishedAt": "2026-10-14T16:05:56.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تحرّك جديد في ملفات الجنسية الاستثنائية للسوريين في تركيا.. ما مصير الطلبات؟",
+      "excerpt": "شهدت ملفات الجنسية التركية الاستثنائية المقدّمة من سوريين تحركات جديدة خلال الأيام الماضية، تمثّلت في استدعاء بعض أصحاب الطلبات إلى إدارة الهجرة...",
+      "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%B1%D9%91%D9%83-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D8%A7-%D9%85%D8%B5%D9%8A%D8%B1-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%D8%9F",
+      "publishedAt": "2026-10-14T16:00:11.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "إلهام أحمد: المفاوضات بشأن تولّي مناصب في مؤسسات الدولة لم تُحسم بعد",
+      "excerpt": "كشفت الرئيسة المشتركة السابقة لدائرة العلاقات الخارجية في \"الإدارة الذاتية\"، إلهام أحمد، عن تقديم قوائم بأسماء مرشحين لتولي مناصب في الوزارات السورية والتمثيل ف",
+      "link": "https://www.syria.tv/%D8%A5%D9%84%D9%87%D8%A7%D9%85-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AA%D9%88%D9%84%D9%91%D9%8A-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%81%D9%8A-%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D9%85-%D8%AA%D9%8F%D8%AD%D8%B3%D9%85-%D8%A8%D8%B9%D8%AF",
+      "publishedAt": "2026-10-14T15:39:13.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية كندية بدمشق حول مجالات العمل المشترك السياسية ‏والاقتصادية والتنموية ‏",
+      "excerpt": "التقى مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين ‏سعد بارود، سفير كندا في سوريا غريغوري غاليغان، وذلك في مقر ‏الوزارة بدمشق‎.‎",
+      "link": "https://sana.sy/locals/2606695/",
+      "publishedAt": "2026-10-14T14:00:37.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Saudi Arabia prepared for all scenarios amid Houthi attacks – Analyst",
+      "excerpt": "QAMISHLI, Syria (North Press) – A Saudi political analyst said on Wednesday that Houthi attacks targeting civilian facilities and airports in Saudi Arabia constitute “war crimes” under international law, as Riyadh prepares for possible furt",
+      "link": "https://npasyria.com/en/142651/",
+      "publishedAt": "2026-10-14T11:03:25.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Iran tensions, Syria talks put Iraqi Kurdistan at the center of Middle Eastern diplomacy - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/706465' alt='Nechirvan Barzani, President of Iraq's autonomous Kurdistan Region, gives a joint press conference with Fr",
+      "link": "https://www.jpost.com/middle-east/article-911643",
+      "publishedAt": "2026-10-14T10:46:58.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli force raids home, detains residents in Syria&#8217;s Daraa",
+      "excerpt": "DARAA, Syria (North Press) – An Israeli military force consisting of five vehicles on Wednesday morning entered Wadi al-Raqad valley in western Daraa countryside, southern Syria. North Press correspondent in Daraa said three vehicles raided",
+      "link": "https://npasyria.com/en/142648/",
+      "publishedAt": "2026-10-14T09:46:54.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية كندية لتعزيز التنسيق في المجالات الصحية والإنسانية والتنموية",
+      "excerpt": "عقدت إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية والمغتربين، بمشاركة ‏وزير الطوارئ وإدارة الكوارث رائد الصالح",
+      "link": "https://sana.sy/politics/2606434/",
+      "publishedAt": "2026-10-14T09:25:11.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Residents say illegal logging continues despite complaints in Syria&#8217;s Afrin",
+      "excerpt": "AFRIN, Syria (North Press) – Bafloun village in Afrin countryside, northwestern Syria, is facing a growing wave of tree-cutting that has affected both government-owned forests and private woodlands, local residents told North Press on Wedne",
+      "link": "https://npasyria.com/en/142645/",
+      "publishedAt": "2026-10-14T09:11:39.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Lebanon ambassador to US receives complaint for asking Israeli ambassador about his son",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/741887' alt='Lebanon Ambassador to the US Nada Hamadeh Moawad speaks to reporters after a meeting with US President Dona",
+      "link": "https://www.jpost.com/middle-east/article-911633",
+      "publishedAt": "2026-10-14T08:52:01.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Board of Peace preparing for Gaza field survey to find locations for Hamas weapons handover",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/671769' alt=' Members of the Al-Qassam Brigades, the military wing of Hamas and mourners attend the funeral of Al-Qassam",
+      "link": "https://www.jpost.com/middle-east/article-911631",
+      "publishedAt": "2026-10-14T08:29:46.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل في ريف درعا وينذر مدنيا لإخلاء منزله",
+      "excerpt": "توغلت قوة تابعة لجيش الاحتلال الإسرائيلي، الأربعاء، في وادي الرقاد بريف محافظة درعا الغربي، حيث اقتحمت منزلاً سكنياً، وأنذرت صاحبه بالإخلاء",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D9%86%D8%B0%D8%B1-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D9%84%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D9%85%D9%86%D8%B2%D9%84%D9%87",
+      "publishedAt": "2026-10-14T08:12:59.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Iran changes Hormuz tactics to target ships, influence U.S. midterms",
+      "excerpt": "QAMISHLI, Syria (North Press) – Iran has adopted new tactics to target ships transiting the Strait of Hormuz in an effort to keep oil prices high and influence the U.S. midterm elections, Reuters reported on Wednesday citing two senior Iran",
+      "link": "https://npasyria.com/en/142639/",
+      "publishedAt": "2026-10-14T06:42:03.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "Netanyahu says he didn't meet Egyptian spy chief during pre-Oct. 7 visit to Israel. So who did?",
+      "excerpt": "The Atlantic reported Abbas Kamel came to warn of a major Hamas attack; Netanyahu calls for answers without saying whether airport footage was checked, while a 2021 video contradicts his claim that intelligence chiefs do not meet heads of g",
+      "link": "https://www.ynetnews.com/article/skyu992igl",
+      "publishedAt": "2026-10-14T06:18:29.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "Israel could leave Syria but needs buffer zones in Gaza and Lebanon, ex-national security chief says",
+      "excerpt": "Retired Maj. Gen. Giora Eiland says any withdrawal would require US guarantees that advanced Turkish or Russian weapons stay out of Syria; he also faults pre-October 7 military assessments that envisioned only 60 attackers despite Hamas hav",
+      "link": "https://www.ynetnews.com/article/b1auryhjme",
+      "publishedAt": "2026-10-14T04:52:36.000Z"
+    }
+  ]
+}
