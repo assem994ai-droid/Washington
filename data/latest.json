@@ -1,26 +1,56 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-15T12:02:39.498Z",
+    "generatedAt": "2026-10-15T16:53:17.936Z",
     "windowHours": 24,
-    "from": "2026-10-14T12:02:39.498Z",
-    "to": "2026-10-15T12:02:39.498Z"
+    "from": "2026-10-14T16:53:17.936Z",
+    "to": "2026-10-15T16:53:17.936Z"
   },
   "counts": {
     "total": 16,
     "byCircle": {
-      "الإعلام السوري المستقل": 12,
-      "المصادر الرسمية السورية": 3,
-      "الإعلام المتخصص": 1
+      "الإعلام المتخصص": 3,
+      "الإعلام السوري المستقل": 9,
+      "المصادر الرسمية السورية": 2,
+      "الملف الإسرائيلي": 2
     },
     "bySource": {
-      "تلفزيون سوريا": 8,
-      "North Press Agency (English)": 4,
-      "سانا — قسم السياسة": 3,
-      "The National": 1
+      "Al-Monitor": 2,
+      "تلفزيون سوريا": 6,
+      "North Press Agency (English)": 3,
+      "سانا — قسم السياسة": 2,
+      "The National": 1,
+      "Ynet News (English)": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Israel says commercial goods no longer entering Gaza after merchants suspend coordination",
+      "excerpt": "<p>JERUSALEM, Oct 15 (Reuters) - Israel said commercial goods were no longer entering Gaza over what it said was a dispute over taxes between local merchants and Hamas, shutting off a vital source of food and other goods in the territory wh",
+      "link": "https://www.al-monitor.com/originals/2026/10/israel-says-commercial-goods-no-longer-entering-gaza-after-merchants-suspend",
+      "publishedAt": "2026-10-15T16:46:30.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يجرف أشجار زيتون ويفجّر ثكنات عسكرية مهجورة في ريفي القنيطرة ودمشق",
+      "excerpt": "أقدمت قوات الاحتلال الإسرائيلي، الخميس، على تجريف واقتلاع أشجار زيتون في الجهة الغربية من مزرعة الحانوت بقرية صيدا الجولان في ريف القنيطرة، وفقاً لمراسل",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AC%D8%B1%D9%81-%D8%A3%D8%B4%D8%AC%D8%A7%D8%B1-%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%88%D9%8A%D9%81%D8%AC%D9%91%D8%B1-%D8%AB%D9%83%D9%86%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%85%D9%87%D8%AC%D9%88%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D9%85%D8%B4%D9%82",
+      "publishedAt": "2026-10-15T16:34:00.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "In first, Israel’s Netanyahu says he held call with Syria’s Ahmed al-Sharaa",
+      "excerpt": "It is the first publicly disclosed contact between the leaders of Israel and Syria, which lack formal relations and have fought several wars. Sharaa’s government began US-mediated talks with Israel in 2025.",
+      "link": "https://www.al-monitor.com/originals/2026/10/first-israels-netanyahu-says-he-held-call-syrias-ahmed-al-sharaa",
+      "publishedAt": "2026-10-15T14:38:19.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -85,6 +115,15 @@
       "publishedAt": "2026-10-15T03:00:00.000Z"
     },
     {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "‘I'm almost in tears’: Colombia quits Hague Group as Jerusalem embassy opens",
+      "excerpt": "Foreign Minister Omar Bula Escobar announces withdrawal from coalition seeking action against Israel, condemns previous government's stance on October 7 and recounts emotional meeting with former Hamas hostage Elkana Bohbot",
+      "link": "https://www.ynetnews.com/article/hkts9kpsge",
+      "publishedAt": "2026-10-14T23:07:21.000Z"
+    },
+    {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
       "circle": "المصادر الرسمية السورية",
@@ -92,6 +131,15 @@
       "excerpt": "بحث مدير إدارة العلاقات والتعاون الدولي في الهيئة العامة للمنافذ والجمارك مازن علوش، مع وفد من السويد، ضم ممثلين عن وكالة الهجرة السويدية، برئاسة شيل تيري تورفيك، ومشاركة نائب رئيس البعثة في السفارة السويدية بدمشق يسبر هاغر، آفاق التعاون ال",
       "link": "https://sana.sy/politics/2607130/",
       "publishedAt": "2026-10-14T22:16:14.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "Israel warns of Gaza aid crisis as merchants strike over Hamas threats",
+      "excerpt": "Hamas extortion and threats drive Gaza merchants to strike, threatening to slash truck deliveries by 50% as Israel warns Hamas will blame it for shortages; Meanwhile, IDF forces raid West Bank charities accused of terrorist ties",
+      "link": "https://www.ynetnews.com/article/hkza9stjmx",
+      "publishedAt": "2026-10-14T21:24:57.000Z"
     },
     {
       "source": "تلفزيون سوريا",
@@ -112,15 +160,6 @@
       "publishedAt": "2026-10-14T20:45:14.000Z"
     },
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Russia says Assad’s political asylum decision final",
-      "excerpt": "DAMASCUS, Syria (North Press) – Russia’s decision to grant former Syrian President Bashar al-Assad political asylum is final and irreversible, Russian Deputy Foreign Minister Georgy Borisenko said on Wednesday. In an interview with Russian ",
-      "link": "https://npasyria.com/en/142661/",
-      "publishedAt": "2026-10-14T19:52:30.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -128,42 +167,6 @@
       "excerpt": "وقّعت وزارة التعليم العالي والبحث العلمي السورية مذكرة تفاهم مع مجلس التعليم العالي التركي، لتنظيم مستقبل عدد من المؤسسات التعليمية في شمالي سوريا، واستمرار عمل",
       "link": "https://www.syria.tv/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
       "publishedAt": "2026-10-14T19:45:54.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال يتوغل في ريفي القنيطرة ودرعا ويستهدف صهريج مياه ويطرد رعاة أغنام",
-      "excerpt": "تواصل قوات الاحتلال الإسرائيلي انتهاكاتها للأراضي السورية في وقت تتصاعد فيه الإدانات الدولية لممارسات الاحتلال بما فيها اعتقال عشرات السوريين",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B5%D9%87%D8%B1%D9%8A%D8%AC-%D9%85%D9%8A%D8%A7%D9%87-%D9%88%D9%8A%D8%B7%D8%B1%D8%AF-%D8%B1%D8%B9%D8%A7%D8%A9-%D8%A3%D8%BA%D9%86%D8%A7%D9%85",
-      "publishedAt": "2026-10-14T16:23:10.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "تحرّك جديد في ملفات الجنسية الاستثنائية للسوريين في تركيا.. ما مصير الطلبات؟",
-      "excerpt": "شهدت ملفات الجنسية التركية الاستثنائية المقدّمة من سوريين تحركات جديدة خلال الأيام الماضية، تمثّلت في استدعاء بعض أصحاب الطلبات إلى إدارة الهجرة...",
-      "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%B1%D9%91%D9%83-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D8%A7-%D9%85%D8%B5%D9%8A%D8%B1-%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%D8%9F",
-      "publishedAt": "2026-10-14T16:00:11.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "إلهام أحمد: المفاوضات بشأن تولّي مناصب في مؤسسات الدولة لم تُحسم بعد",
-      "excerpt": "كشفت الرئيسة المشتركة السابقة لدائرة العلاقات الخارجية في \"الإدارة الذاتية\"، إلهام أحمد، عن تقديم قوائم بأسماء مرشحين لتولي مناصب في الوزارات السورية والتمثيل ف",
-      "link": "https://www.syria.tv/%D8%A5%D9%84%D9%87%D8%A7%D9%85-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AA%D9%88%D9%84%D9%91%D9%8A-%D9%85%D9%86%D8%A7%D8%B5%D8%A8-%D9%81%D9%8A-%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%84%D9%85-%D8%AA%D9%8F%D8%AD%D8%B3%D9%85-%D8%A8%D8%B9%D8%AF",
-      "publishedAt": "2026-10-14T15:39:13.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "مباحثات سورية كندية بدمشق حول مجالات العمل المشترك السياسية ‏والاقتصادية والتنموية ‏",
-      "excerpt": "التقى مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين ‏سعد بارود، سفير كندا في سوريا غريغوري غاليغان، وذلك في مقر ‏الوزارة بدمشق‎.‎",
-      "link": "https://sana.sy/locals/2606695/",
-      "publishedAt": "2026-10-14T14:00:37.000Z"
     }
   ]
 }
