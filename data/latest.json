@@ -1,23 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-15T20:09:05.181Z",
+    "generatedAt": "2026-10-15T23:03:22.753Z",
     "windowHours": 24,
-    "from": "2026-10-14T20:09:05.181Z",
-    "to": "2026-10-15T20:09:05.181Z"
+    "from": "2026-10-14T23:03:22.753Z",
+    "to": "2026-10-15T23:03:22.753Z"
   },
   "counts": {
-    "total": 22,
+    "total": 21,
     "byCircle": {
+      "التقارير الرسمية الدورية": 1,
+      "الإعلام الدولي": 1,
       "مراكز الفكر": 2,
-      "المصادر الرسمية السورية": 5,
-      "الإعلام السوري المستقل": 10,
+      "المصادر الرسمية السورية": 4,
+      "الإعلام السوري المستقل": 8,
       "الملف الإسرائيلي والتركي": 1,
       "الإعلام المتخصص": 4
     },
     "bySource": {
+      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
+      "Al Jazeera English": 1,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "سانا — قسم السياسة": 5,
-      "تلفزيون سوريا": 6,
+      "سانا — قسم السياسة": 4,
+      "تلفزيون سوريا": 4,
       "North Press Agency (English)": 4,
       "Jerusalem Post — الشرق الأوسط": 1,
       "The National": 2,
@@ -27,6 +31,24 @@
   },
   "errors": [],
   "items": [
+    {
+      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+      "sourceId": "unpress",
+      "circle": "التقارير الرسمية الدورية",
+      "title": "Speakers in Security Council Raise Alarm over Perilous State of Life in Gaza, Unprecedented Israeli Settler Violence, Expansion across West Bank",
+      "excerpt": "Meeting shortly after the third anniversary of the attacks by Hamas and other Palestinian armed groups on Israel, followed by devastating — and ongoing — Israeli military operations in Gaza, the Security Council today heard about the perilo",
+      "link": "https://press.un.org/en/2026/sc16478.doc.htm",
+      "publishedAt": "2026-10-15T22:39:13.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+      "excerpt": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
+      "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+      "publishedAt": "2026-10-15T21:57:58.000Z"
+    },
     {
       "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
       "sourceId": "fdd",
@@ -197,33 +219,6 @@
       "excerpt": "Reconstruction work in Syria must extend to Kurdish areas in the north-east if refugees are to return home, the UN refugee agency’s representative in Iraq has told The National.Toby Harward said the lack of economic opportunities and securi",
       "link": "https://www.thenationalnews.com/news/mena/2026/10/15/reconstruction-in-north-east-syria-key-to-refugee-returns-from-iraq-unhcr-official-says/",
       "publishedAt": "2026-10-15T03:00:00.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "مباحثات سورية سويدية لدعم استقرار العائدين طوعاً وإعادة إدماجهم",
-      "excerpt": "بحث مدير إدارة العلاقات والتعاون الدولي في الهيئة العامة للمنافذ والجمارك مازن علوش، مع وفد من السويد، ضم ممثلين عن وكالة الهجرة السويدية، برئاسة شيل تيري تورفيك، ومشاركة نائب رئيس البعثة في السفارة السويدية بدمشق يسبر هاغر، آفاق التعاون ال",
-      "link": "https://sana.sy/politics/2607130/",
-      "publishedAt": "2026-10-14T22:16:14.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "سوريا تبحث مع مؤسسة التمويل الدولية إنشاء صندوق لدعم المشاريع والاستثمارات",
-      "excerpt": "المباحثات جرت بحضور مديرة قسم سوريا في البنك الدولي، على هامش الاجتماعات السنوية لصندوق النقد الدولي ومجموعة البنك الدولي المنعقدة في بانكوك",
-      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
-      "publishedAt": "2026-10-14T21:05:21.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "قوات الاحتلال الإسرائيلي تستهدف تل أحمر بريف القنيطرة بقذائف المدفعية",
-      "excerpt": "قصفت قوات الاحتلال الإسرائيلي، تل الأحمر الشرقي في ريف القنيطرة الجنوبي، بقذائف المدفعية، في يوم شهد توغلات عسكرية إسرائيلية في ريفي القنيطرة ودرعا، تخللتها اعت",
-      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A8%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9",
-      "publishedAt": "2026-10-14T20:45:14.000Z"
     }
   ]
 }
