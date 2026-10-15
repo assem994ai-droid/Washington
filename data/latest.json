@@ -1,26 +1,52 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-15T01:47:42.248Z",
+    "generatedAt": "2026-10-15T06:32:27.376Z",
     "windowHours": 24,
-    "from": "2026-10-14T01:47:42.248Z",
-    "to": "2026-10-15T01:47:42.248Z"
+    "from": "2026-10-14T06:32:27.376Z",
+    "to": "2026-10-15T06:32:27.376Z"
   },
   "counts": {
-    "total": 19,
+    "total": 21,
     "byCircle": {
+      "الإعلام السوري المستقل": 14,
+      "الإعلام المتخصص": 1,
       "المصادر الرسمية السورية": 3,
-      "الإعلام السوري المستقل": 13,
       "الملف الإسرائيلي والتركي": 3
     },
     "bySource": {
+      "North Press Agency (English)": 7,
+      "The National": 1,
       "سانا — قسم السياسة": 3,
       "تلفزيون سوريا": 7,
-      "North Press Agency (English)": 6,
       "Jerusalem Post — الشرق الأوسط": 3
     }
   },
-  "errors": [],
+  "errors": [
+    {
+      "source": "Turkish Minute",
+      "sourceId": "turkishminute",
+      "message": "الخادم ردّ برمز 522"
+    }
+  ],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "IMF warns renewed Hormuz disruption could deepen economic fallout",
+      "excerpt": "QAMISHLI, Syria (North Press) – The economic impact of the Iran war has been less severe than initially feared, but renewed disruptions to energy supplies could trigger sharper price increases and deepen economic pressures across the region",
+      "link": "https://npasyria.com/en/142667/",
+      "publishedAt": "2026-10-15T06:23:58.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Reconstruction in north-east Syria key to refugee returns from Iraq, UNHCR official says",
+      "excerpt": "Reconstruction work in Syria must extend to Kurdish areas in the north-east if refugees are to return home, the UN refugee agency’s representative in Iraq has told The National.Toby Harward said the lack of economic opportunities and securi",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/15/reconstruction-in-north-east-syria-key-to-refugee-returns-from-iraq-unhcr-official-says/",
+      "publishedAt": "2026-10-15T03:00:00.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",

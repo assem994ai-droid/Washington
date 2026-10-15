@@ -1,33 +1,38 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-15T01:47:42.248Z",
+    "generatedAt": "2026-10-15T06:32:27.376Z",
     "windowHours": 24,
-    "from": "2026-10-14T01:47:42.248Z",
-    "to": "2026-10-15T01:47:42.248Z"
+    "from": "2026-10-14T06:32:27.376Z",
+    "to": "2026-10-15T06:32:27.376Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 21,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 2,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 1231
+    "archiveCycles": 1232
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام المتخصص",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Turkish Minute",
+      "sourceId": "turkishminute",
+      "message": "الخادم ردّ برمز 522"
+    }
+  ],
   "files": [
     {
       "id": "other",
@@ -44,14 +49,26 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 23:36",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 14,
+      "score": 24,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "IMF warns renewed Hormuz disruption could deepen economic fallout",
+          "excerpt": "QAMISHLI, Syria (North Press) – The economic impact of the Iran war has been less severe than initially feared, but renewed disruptions to energy supplies could trigger sharper price increases and deepen economic pressures across the region",
+          "link": "https://npasyria.com/en/142667/",
+          "publishedAt": "2026-10-15T06:23:58.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -139,6 +156,75 @@
       ]
     },
     {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "The National",
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 19,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Reconstruction in north-east Syria key to refugee returns from Iraq, UNHCR official says",
+          "excerpt": "Reconstruction work in Syria must extend to Kurdish areas in the north-east if refugees are to return home, the UN refugee agency’s representative in Iraq has told The National.Toby Harward said the lack of economic opportunities and securi",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/15/reconstruction-in-north-east-syria-key-to-refugee-returns-from-iraq-unhcr-official-says/",
+          "publishedAt": "2026-10-15T03:00:00.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تبحث مع مؤسسة التمويل الدولية إنشاء صندوق لدعم المشاريع والاستثمارات",
+          "excerpt": "المباحثات جرت بحضور مديرة قسم سوريا في البنك الدولي، على هامش الاجتماعات السنوية لصندوق النقد الدولي ومجموعة البنك الدولي المنعقدة في بانكوك",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
+          "publishedAt": "2026-10-14T21:05:21.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية كندية بدمشق حول مجالات العمل المشترك السياسية ‏والاقتصادية والتنموية ‏",
+          "excerpt": "التقى مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين ‏سعد بارود، سفير كندا في سوريا غريغوري غاليغان، وذلك في مقر ‏الوزارة بدمشق‎.‎",
+          "link": "https://sana.sy/locals/2606695/",
+          "publishedAt": "2026-10-14T14:00:37.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -153,7 +239,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 23:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 01:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -235,59 +321,6 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 23:36",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا تبحث مع مؤسسة التمويل الدولية إنشاء صندوق لدعم المشاريع والاستثمارات",
-          "excerpt": "المباحثات جرت بحضور مديرة قسم سوريا في البنك الدولي، على هامش الاجتماعات السنوية لصندوق النقد الدولي ومجموعة البنك الدولي المنعقدة في بانكوك",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
-          "publishedAt": "2026-10-14T21:05:21.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية كندية بدمشق حول مجالات العمل المشترك السياسية ‏والاقتصادية والتنموية ‏",
-          "excerpt": "التقى مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين ‏سعد بارود، سفير كندا في سوريا غريغوري غاليغان، وذلك في مقر ‏الوزارة بدمشق‎.‎",
-          "link": "https://sana.sy/locals/2606695/",
-          "publishedAt": "2026-10-14T14:00:37.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
@@ -301,7 +334,7 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 23:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 01:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -365,7 +398,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-14 23:36",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 01:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
