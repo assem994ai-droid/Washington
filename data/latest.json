@@ -1,34 +1,71 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-15T06:32:27.376Z",
+    "generatedAt": "2026-10-15T12:02:39.498Z",
     "windowHours": 24,
-    "from": "2026-10-14T06:32:27.376Z",
-    "to": "2026-10-15T06:32:27.376Z"
+    "from": "2026-10-14T12:02:39.498Z",
+    "to": "2026-10-15T12:02:39.498Z"
   },
   "counts": {
-    "total": 21,
+    "total": 16,
     "byCircle": {
-      "الإعلام السوري المستقل": 14,
-      "الإعلام المتخصص": 1,
+      "الإعلام السوري المستقل": 12,
       "المصادر الرسمية السورية": 3,
-      "الملف الإسرائيلي والتركي": 3
+      "الإعلام المتخصص": 1
     },
     "bySource": {
-      "North Press Agency (English)": 7,
-      "The National": 1,
+      "تلفزيون سوريا": 8,
+      "North Press Agency (English)": 4,
       "سانا — قسم السياسة": 3,
-      "تلفزيون سوريا": 7,
-      "Jerusalem Post — الشرق الأوسط": 3
+      "The National": 1
     }
   },
-  "errors": [
-    {
-      "source": "Turkish Minute",
-      "sourceId": "turkishminute",
-      "message": "الخادم ردّ برمز 522"
-    }
-  ],
+  "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "بعد انقطاع 10 سنوات.. البريد السوري يستأنف إرسال الطرود إلى 5 دول",
+      "excerpt": "أعلنت المؤسسة السورية للبريد إرسال أول دفعة من الطرود البريدية الدولية إلى خمس دول، هي الولايات المتحدة وهولندا والسويد والجزائر وقطر..",
+      "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%B3%D8%AA%D8%A3%D9%86%D9%81-%D8%A5%D8%B1%D8%B3%D8%A7%D9%84-%D8%A7%D9%84%D8%B7%D8%B1%D9%88%D8%AF-%D8%A5%D9%84%D9%89-5-%D8%AF%D9%88%D9%84",
+      "publishedAt": "2026-10-15T10:51:52.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "إحراق ممتلكات وإطلاق نار.. توغلات جديدة للاحتلال الإسرائيلي غربي درعا",
+      "excerpt": "أضرمت قوات الاحتلال الإسرائيلي النيران في مستودع وأجزاء من منزل بمنطقة وادي الرقاد في ريف درعا الغربي، خلال توغل دورية عسكرية في المنطقة..",
+      "link": "https://www.syria.tv/%D8%A5%D8%AD%D8%B1%D8%A7%D9%82-%D9%85%D9%85%D8%AA%D9%84%D9%83%D8%A7%D8%AA-%D9%88%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-10-15T08:52:30.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria, Turkey agree to transfer northern universities to Aleppo University",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria and Turkey signed a memorandum of understanding on Wednesday to transfer the administration of several higher education institutions in northern Syria to Aleppo University, aiming to safeguard students’",
+      "link": "https://npasyria.com/en/142687/",
+      "publishedAt": "2026-10-15T07:58:36.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Iran, Houthis escalate attacks as regional tensions deepen",
+      "excerpt": "QAMISHLI, Syria (North Press) – Iran and its Houthi allies in Yemen on Wednesday intensified attacks on shipping and Saudi targets, raising concerns over regional security and global energy supplies as the conflict spreads across the Middle",
+      "link": "https://npasyria.com/en/142684/",
+      "publishedAt": "2026-10-15T07:27:47.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "علبي: سوريا ملتزمة بمحاسبة مرتكبي الجرائم وإنصاف الضحايا",
+      "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، التزام سوريا بمحاسبة ‏مرتكبي الجرائم وإنصاف الضحايا، وضمان",
+      "link": "https://sana.sy/politics/2607237/",
+      "publishedAt": "2026-10-15T06:54:47.000Z"
+    },
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
@@ -102,15 +139,6 @@
       "publishedAt": "2026-10-14T16:23:10.000Z"
     },
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Russia expects Syria military base deals by year-end",
-      "excerpt": "QAMISHLI, Syria (North Press) – Russia and Syria may sign agreements on the future of Russian military bases in Syria before the end of this year, Russian Deputy Foreign Minister Georgy Borisenko said on Wednesday. In an interview with Russ",
-      "link": "https://npasyria.com/en/142658/",
-      "publishedAt": "2026-10-14T16:05:56.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -136,87 +164,6 @@
       "excerpt": "التقى مدير إدارة الشؤون الأمريكية في وزارة الخارجية والمغتربين ‏سعد بارود، سفير كندا في سوريا غريغوري غاليغان، وذلك في مقر ‏الوزارة بدمشق‎.‎",
       "link": "https://sana.sy/locals/2606695/",
       "publishedAt": "2026-10-14T14:00:37.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Saudi Arabia prepared for all scenarios amid Houthi attacks – Analyst",
-      "excerpt": "QAMISHLI, Syria (North Press) – A Saudi political analyst said on Wednesday that Houthi attacks targeting civilian facilities and airports in Saudi Arabia constitute “war crimes” under international law, as Riyadh prepares for possible furt",
-      "link": "https://npasyria.com/en/142651/",
-      "publishedAt": "2026-10-14T11:03:25.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Iran tensions, Syria talks put Iraqi Kurdistan at the center of Middle Eastern diplomacy - analysis",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/706465' alt='Nechirvan Barzani, President of Iraq's autonomous Kurdistan Region, gives a joint press conference with Fr",
-      "link": "https://www.jpost.com/middle-east/article-911643",
-      "publishedAt": "2026-10-14T10:46:58.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli force raids home, detains residents in Syria&#8217;s Daraa",
-      "excerpt": "DARAA, Syria (North Press) – An Israeli military force consisting of five vehicles on Wednesday morning entered Wadi al-Raqad valley in western Daraa countryside, southern Syria. North Press correspondent in Daraa said three vehicles raided",
-      "link": "https://npasyria.com/en/142648/",
-      "publishedAt": "2026-10-14T09:46:54.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "مباحثات سورية كندية لتعزيز التنسيق في المجالات الصحية والإنسانية والتنموية",
-      "excerpt": "عقدت إدارة المنظمات والمؤتمرات الدولية في وزارة الخارجية والمغتربين، بمشاركة ‏وزير الطوارئ وإدارة الكوارث رائد الصالح",
-      "link": "https://sana.sy/politics/2606434/",
-      "publishedAt": "2026-10-14T09:25:11.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Residents say illegal logging continues despite complaints in Syria&#8217;s Afrin",
-      "excerpt": "AFRIN, Syria (North Press) – Bafloun village in Afrin countryside, northwestern Syria, is facing a growing wave of tree-cutting that has affected both government-owned forests and private woodlands, local residents told North Press on Wedne",
-      "link": "https://npasyria.com/en/142645/",
-      "publishedAt": "2026-10-14T09:11:39.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Lebanon ambassador to US receives complaint for asking Israeli ambassador about his son",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/741887' alt='Lebanon Ambassador to the US Nada Hamadeh Moawad speaks to reporters after a meeting with US President Dona",
-      "link": "https://www.jpost.com/middle-east/article-911633",
-      "publishedAt": "2026-10-14T08:52:01.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Board of Peace preparing for Gaza field survey to find locations for Hamas weapons handover",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3328,w_4992/671769' alt=' Members of the Al-Qassam Brigades, the military wing of Hamas and mourners attend the funeral of Al-Qassa",
-      "link": "https://www.jpost.com/middle-east/article-911631",
-      "publishedAt": "2026-10-14T08:29:46.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال الإسرائيلي يتوغل في ريف درعا وينذر مدنيا لإخلاء منزله",
-      "excerpt": "توغلت قوة تابعة لجيش الاحتلال الإسرائيلي، الأربعاء، في وادي الرقاد بريف محافظة درعا الغربي، حيث اقتحمت منزلاً سكنياً، وأنذرت صاحبه بالإخلاء",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D9%86%D8%B0%D8%B1-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D9%84%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D9%85%D9%86%D8%B2%D9%84%D9%87",
-      "publishedAt": "2026-10-14T08:12:59.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Iran changes Hormuz tactics to target ships, influence U.S. midterms",
-      "excerpt": "QAMISHLI, Syria (North Press) – Iran has adopted new tactics to target ships transiting the Strait of Hormuz in an effort to keep oil prices high and influence the U.S. midterm elections, Reuters reported on Wednesday citing two senior Iran",
-      "link": "https://npasyria.com/en/142639/",
-      "publishedAt": "2026-10-14T06:42:03.000Z"
     }
   ]
 }
