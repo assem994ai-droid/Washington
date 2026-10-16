@@ -1,28 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-16T05:54:04.323Z",
+    "generatedAt": "2026-10-16T10:31:15.917Z",
     "windowHours": 24,
-    "from": "2026-10-15T05:54:04.323Z",
-    "to": "2026-10-16T05:54:04.323Z"
+    "from": "2026-10-15T10:31:15.917Z",
+    "to": "2026-10-16T10:31:15.917Z"
   },
   "counts": {
-    "total": 23,
+    "total": 20,
     "byCircle": {
-      "الإعلام السوري المستقل": 11,
+      "الإعلام السوري المستقل": 10,
       "التقارير الرسمية الدورية": 1,
-      "الإعلام الدولي": 1,
       "مراكز الفكر": 2,
-      "المصادر الرسمية السورية": 4,
+      "المصادر الرسمية السورية": 3,
       "الملف الإسرائيلي والتركي": 1,
       "الإعلام المتخصص": 3
     },
     "bySource": {
       "تلفزيون سوريا": 7,
+      "North Press Agency (English)": 3,
       "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
-      "Al Jazeera English": 1,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "سانا — قسم السياسة": 4,
-      "North Press Agency (English)": 4,
+      "سانا — قسم السياسة": 3,
       "Jerusalem Post — الشرق الأوسط": 1,
       "The National": 1,
       "Atlantic Council — المجلس الأطلسي": 1,
@@ -31,6 +29,24 @@
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "\"حب أسود\" النسخة المعربة من \"حب أعمى\".. ما قصته ومن أبطاله ومتى يعرض؟",
+      "excerpt": "تستعد منصة \"شاهد\" لإطلاق المسلسل الجديد \"حب أسود\"، المقتبس من العمل التركي الشهير \"حب أعمى\"، يوم الأحد المقبل، بمشاركة نخبة من نجوم الدراما السورية واللبنانية..",
+      "link": "https://www.syria.tv/%D8%AD%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%AD%D8%A8-%D8%A3%D8%B9%D9%85%D9%89-%D9%85%D8%A7-%D9%82%D8%B5%D8%AA%D9%87-%D9%88%D9%85%D9%86-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D9%88%D9%85%D8%AA%D9%89-%D9%8A%D8%B9%D8%B1%D8%B6%D8%9F",
+      "publishedAt": "2026-10-16T09:34:31.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria reaffirms 1974 disengagement agreement, calls for end to Israeli incursions",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria reaffirmed its commitment to the 1974 Disengagement of Forces Agreement and called for an end to Israeli attacks and incursions into Syrian territory, as Damascus continues direct security talks mediate",
+      "link": "https://npasyria.com/en/142719/",
+      "publishedAt": "2026-10-16T08:15:11.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -66,15 +82,6 @@
       "excerpt": "Meeting shortly after the third anniversary of the attacks by Hamas and other Palestinian armed groups on Israel, followed by devastating — and ongoing — Israeli military operations in Gaza, the Security Council today heard about the perilo",
       "link": "https://press.un.org/en/2026/sc16478.doc.htm",
       "publishedAt": "2026-10-15T22:39:13.000Z"
-    },
-    {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-      "excerpt": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
-      "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-      "publishedAt": "2026-10-15T21:57:58.000Z"
     },
     {
       "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
@@ -201,42 +208,6 @@
       "excerpt": "أعلنت المؤسسة السورية للبريد إرسال أول دفعة من الطرود البريدية الدولية إلى خمس دول، هي الولايات المتحدة وهولندا والسويد والجزائر وقطر..",
       "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%B3%D8%AA%D8%A3%D9%86%D9%81-%D8%A5%D8%B1%D8%B3%D8%A7%D9%84-%D8%A7%D9%84%D8%B7%D8%B1%D9%88%D8%AF-%D8%A5%D9%84%D9%89-5-%D8%AF%D9%88%D9%84",
       "publishedAt": "2026-10-15T10:51:52.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "إحراق ممتلكات وإطلاق نار.. توغلات جديدة للاحتلال الإسرائيلي غربي درعا",
-      "excerpt": "أضرمت قوات الاحتلال الإسرائيلي النيران في مستودع وأجزاء من منزل بمنطقة وادي الرقاد في ريف درعا الغربي، خلال توغل دورية عسكرية في المنطقة..",
-      "link": "https://www.syria.tv/%D8%A5%D8%AD%D8%B1%D8%A7%D9%82-%D9%85%D9%85%D8%AA%D9%84%D9%83%D8%A7%D8%AA-%D9%88%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-      "publishedAt": "2026-10-15T08:52:30.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syria, Turkey agree to transfer northern universities to Aleppo University",
-      "excerpt": "QAMISHLI, Syria (North Press) – Syria and Turkey signed a memorandum of understanding on Wednesday to transfer the administration of several higher education institutions in northern Syria to Aleppo University, aiming to safeguard students’",
-      "link": "https://npasyria.com/en/142687/",
-      "publishedAt": "2026-10-15T07:58:36.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Iran, Houthis escalate attacks as regional tensions deepen",
-      "excerpt": "QAMISHLI, Syria (North Press) – Iran and its Houthi allies in Yemen on Wednesday intensified attacks on shipping and Saudi targets, raising concerns over regional security and global energy supplies as the conflict spreads across the Middle",
-      "link": "https://npasyria.com/en/142684/",
-      "publishedAt": "2026-10-15T07:27:47.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "علبي: سوريا ملتزمة بمحاسبة مرتكبي الجرائم وإنصاف الضحايا",
-      "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، التزام سوريا بمحاسبة ‏مرتكبي الجرائم وإنصاف الضحايا، وضمان",
-      "link": "https://sana.sy/politics/2607237/",
-      "publishedAt": "2026-10-15T06:54:47.000Z"
     }
   ]
 }

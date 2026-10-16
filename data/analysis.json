@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-16T05:54:04.323Z",
+    "generatedAt": "2026-10-16T10:31:15.917Z",
     "windowHours": 24,
-    "from": "2026-10-15T05:54:04.323Z",
-    "to": "2026-10-16T05:54:04.323Z"
+    "from": "2026-10-15T10:31:15.917Z",
+    "to": "2026-10-16T10:31:15.917Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 20,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
-    "contested": 1,
+    "withNew": 2,
+    "stale": 2,
+    "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1238
+    "archiveCycles": 1239
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "الإعلام الدولي",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
@@ -28,35 +29,47 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 8,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 7,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-        "Al Jazeera English",
         "سانا — قسم السياسة",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
-        "North Press Agency (English)",
         "Al-Monitor"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "التقارير الرسمية الدورية",
-        "الإعلام الدولي",
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 01:14",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 37,
+      "score": 39,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria reaffirms 1974 disengagement agreement, calls for end to Israeli incursions",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria reaffirmed its commitment to the 1974 Disengagement of Forces Agreement and called for an end to Israeli attacks and incursions into Syrian territory, as Damascus continues direct security talks mediate",
+          "link": "https://npasyria.com/en/142719/",
+          "publishedAt": "2026-10-16T08:15:11.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -83,20 +96,6 @@
             "israel",
             "economy",
             "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-          "excerpt": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
-          "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-          "publishedAt": "2026-10-15T21:57:58.000Z",
-          "files": [
-            "israel"
           ],
           "seenBefore": true,
           "us": false
@@ -200,119 +199,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إحراق ممتلكات وإطلاق نار.. توغلات جديدة للاحتلال الإسرائيلي غربي درعا",
-          "excerpt": "أضرمت قوات الاحتلال الإسرائيلي النيران في مستودع وأجزاء من منزل بمنطقة وادي الرقاد في ريف درعا الغربي، خلال توغل دورية عسكرية في المنطقة..",
-          "link": "https://www.syria.tv/%D8%A5%D8%AD%D8%B1%D8%A7%D9%82-%D9%85%D9%85%D8%AA%D9%84%D9%83%D8%A7%D8%AA-%D9%88%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-10-15T08:52:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "Al-Monitor",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 25,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "حين تغيب \"الكمليك\".. كيف يضاعف نقص الوثائق معاناة السوريات في تركيا؟",
-          "excerpt": "تواجه سوريات في تركيا صعوبات مرتبطة بغياب بطاقة الحماية المؤقتة (الكمليك) أو المشكلات المتعلقة بوضعهن القانوني، تنعكس على قدرتهن على الوصول إلى الخدمات الصحية..",
-          "link": "https://www.syria.tv/%D8%AD%D9%8A%D9%86-%D8%AA%D8%BA%D9%8A%D8%A8-%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%D9%83-%D9%83%D9%8A%D9%81-%D9%8A%D8%B6%D8%A7%D8%B9%D9%81-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-10-16T03:07:45.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني وفيدان يبحثان هاتفيا مستجدات المنطقة وتعزيز التعاون السوري التركي",
-          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني مع نظيره التركي هاكان فيدان العلاقات الثنائية والتطورات الإقليمية، وأكدا أهمية دعم استقرار سوريا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
-          "publishedAt": "2026-10-15T23:17:48.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث هاتفياً مع نظيره التركي العلاقات الثنائية ومستجدات المنطقة",
-          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني في اتصال هاتفي مع نظيره ‏التركي هاكان فيدان، العلاقات الثنائية بين البلدين الصديقين، وأبرز المستجدات في ‏المنطقة.‏",
-          "link": "https://sana.sy/politics/2608055/",
-          "publishedAt": "2026-10-15T19:42:28.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria arrests Mihrac Ural, ex-Assad militia head also wanted by Turkey",
-          "excerpt": "The Turkey-born militia chief and a longtime ally of the Assad-regime, was sought by Ankara over the deadly Reyhanli bombings and by Damascus over his alleged role in massacres on the Mediterranean coast.",
-          "link": "https://www.al-monitor.com/originals/2026/10/syria-arrests-mihrac-ural-ex-assad-militia-head-also-wanted-turkey",
-          "publishedAt": "2026-10-15T17:02:19.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria, Turkey agree to transfer northern universities to Aleppo University",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria and Turkey signed a memorandum of understanding on Wednesday to transfer the administration of several higher education institutions in northern Syria to Aleppo University, aiming to safeguard students’",
-          "link": "https://npasyria.com/en/142687/",
-          "publishedAt": "2026-10-15T07:58:36.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -323,24 +209,36 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
         "North Press Agency (English)",
         "سانا — قسم السياسة",
-        "Atlantic Council — المجلس الأطلسي",
-        "تلفزيون سوريا"
+        "Atlantic Council — المجلس الأطلسي"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 01:14",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 16,
+      "score": 24,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"حب أسود\" النسخة المعربة من \"حب أعمى\".. ما قصته ومن أبطاله ومتى يعرض؟",
+          "excerpt": "تستعد منصة \"شاهد\" لإطلاق المسلسل الجديد \"حب أسود\"، المقتبس من العمل التركي الشهير \"حب أعمى\"، يوم الأحد المقبل، بمشاركة نخبة من نجوم الدراما السورية واللبنانية..",
+          "link": "https://www.syria.tv/%D8%AD%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%AD%D8%A8-%D8%A3%D8%B9%D9%85%D9%89-%D9%85%D8%A7-%D9%82%D8%B5%D8%AA%D9%87-%D9%88%D9%85%D9%86-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D9%88%D9%85%D8%AA%D9%89-%D9%8A%D8%B9%D8%B1%D8%B6%D8%9F",
+          "publishedAt": "2026-10-16T09:34:31.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -388,16 +286,59 @@
           "files": [],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "Al-Monitor"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 05:54",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "حين تغيب \"الكمليك\".. كيف يضاعف نقص الوثائق معاناة السوريات في تركيا؟",
+          "excerpt": "تواجه سوريات في تركيا صعوبات مرتبطة بغياب بطاقة الحماية المؤقتة (الكمليك) أو المشكلات المتعلقة بوضعهن القانوني، تنعكس على قدرتهن على الوصول إلى الخدمات الصحية..",
+          "link": "https://www.syria.tv/%D8%AD%D9%8A%D9%86-%D8%AA%D8%BA%D9%8A%D8%A8-%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%D9%83-%D9%83%D9%8A%D9%81-%D9%8A%D8%B6%D8%A7%D8%B9%D9%81-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-10-16T03:07:45.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Iran, Houthis escalate attacks as regional tensions deepen",
-          "excerpt": "QAMISHLI, Syria (North Press) – Iran and its Houthi allies in Yemen on Wednesday intensified attacks on shipping and Saudi targets, raising concerns over regional security and global energy supplies as the conflict spreads across the Middle",
-          "link": "https://npasyria.com/en/142684/",
-          "publishedAt": "2026-10-15T07:27:47.000Z",
-          "files": [],
+          "title": "الشيباني وفيدان يبحثان هاتفيا مستجدات المنطقة وتعزيز التعاون السوري التركي",
+          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني مع نظيره التركي هاكان فيدان العلاقات الثنائية والتطورات الإقليمية، وأكدا أهمية دعم استقرار سوريا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
+          "publishedAt": "2026-10-15T23:17:48.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
           "seenBefore": true,
           "us": false
         },
@@ -405,11 +346,28 @@
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "علبي: سوريا ملتزمة بمحاسبة مرتكبي الجرائم وإنصاف الضحايا",
-          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، التزام سوريا بمحاسبة ‏مرتكبي الجرائم وإنصاف الضحايا، وضمان",
-          "link": "https://sana.sy/politics/2607237/",
-          "publishedAt": "2026-10-15T06:54:47.000Z",
-          "files": [],
+          "title": "الشيباني يبحث هاتفياً مع نظيره التركي العلاقات الثنائية ومستجدات المنطقة",
+          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني في اتصال هاتفي مع نظيره ‏التركي هاكان فيدان، العلاقات الثنائية بين البلدين الصديقين، وأبرز المستجدات في ‏المنطقة.‏",
+          "link": "https://sana.sy/politics/2608055/",
+          "publishedAt": "2026-10-15T19:42:28.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria arrests Mihrac Ural, ex-Assad militia head also wanted by Turkey",
+          "excerpt": "The Turkey-born militia chief and a longtime ally of the Assad-regime, was sought by Ankara over the deadly Reyhanli bombings and by Damascus over his alleged role in massacres on the Mediterranean coast.",
+          "link": "https://www.al-monitor.com/originals/2026/10/syria-arrests-mihrac-ural-ex-assad-militia-head-also-wanted-turkey",
+          "publishedAt": "2026-10-15T17:02:19.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -427,7 +385,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 01:14",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 05:54",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
