@@ -1,31 +1,48 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-16T18:42:09.318Z",
+    "generatedAt": "2026-10-16T21:44:50.795Z",
     "windowHours": 24,
-    "from": "2026-10-15T18:42:09.318Z",
-    "to": "2026-10-16T18:42:09.318Z"
+    "from": "2026-10-15T21:44:50.795Z",
+    "to": "2026-10-16T21:44:50.795Z"
   },
   "counts": {
-    "total": 22,
+    "total": 19,
     "byCircle": {
-      "الإعلام السوري المستقل": 14,
-      "الإعلام المتخصص": 2,
-      "مراكز الفكر": 2,
       "المصادر الرسمية السورية": 3,
+      "الإعلام السوري المستقل": 13,
+      "الإعلام المتخصص": 1,
+      "مراكز الفكر": 1,
       "التقارير الرسمية الدورية": 1
     },
     "bySource": {
-      "تلفزيون سوريا": 9,
-      "The National": 1,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 2,
-      "North Press Agency (English)": 5,
-      "Middle East Eye": 1,
       "سانا — قسم السياسة": 3,
+      "North Press Agency (English)": 5,
+      "تلفزيون سوريا": 8,
+      "The National": 1,
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
       "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "علبي: أولوية سوريا تحويل المكاسب السياسية إلى إنجازات اقتصادية وتنموية",
+      "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن أولوية سوريا تتمثل في ترجمة النجاحات السياسية والدبلوماسية التي تحققت إلى إنجازات اقتصادية وتنموية ملموسة تنعكس إيجاباً على حياة السوريين ومستقبلهم، مشدداً على حرصها على العمل مع الأم",
+      "link": "https://sana.sy/politics/2609038/",
+      "publishedAt": "2026-10-16T19:30:25.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syrian authorities arrest suspected ISIS cell in Damascus countryside",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Interior Ministry announced on Friday that the General Intelligence Service, in coordination with Internal Security Forces, had arrested a cell affiliated with the Islamic State (ISIS) that was allege",
+      "link": "https://npasyria.com/en/142735/",
+      "publishedAt": "2026-10-16T18:52:13.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -79,15 +96,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – Five Israeli military vehicles entered the southern countryside of Quneitra Governorate in southern Syria on Friday, while Israeli forces opened fire toward agricultural land in another area, with no casualti",
       "link": "https://npasyria.com/en/142728/",
       "publishedAt": "2026-10-16T14:48:35.000Z"
-    },
-    {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
-      "circle": "الإعلام المتخصص",
-      "title": "Hamas accuses Mladenov of siding with Israel over Gaza goods dispute",
-      "excerpt": "<article data-history-node-id=\"449473\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-accuses-mladenov-siding-israel-over-gaza-goods-dispute\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middle",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-accuses-mladenov-siding-israel-over-gaza-goods-dispute",
-      "publishedAt": "2026-10-16T14:06:12.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
@@ -187,42 +195,6 @@
       "excerpt": "Meeting shortly after the third anniversary of the attacks by Hamas and other Palestinian armed groups on Israel, followed by devastating — and ongoing — Israeli military operations in Gaza, the Security Council today heard about the perilo",
       "link": "https://press.un.org/en/2026/sc16478.doc.htm",
       "publishedAt": "2026-10-15T22:39:13.000Z"
-    },
-    {
-      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-      "sourceId": "fdd",
-      "circle": "مراكز الفكر",
-      "title": "Sporadic Weapons Seizures Won’t Stop Hezbollah’s Rearmament",
-      "excerpt": "Hezbollah is still smuggling weapons across the Syrian-Lebanese border. On October 12, the Lebanese army seized approximately 200 kilograms of explosives being transported from Syria into Lebanon... The post Sporadic Weapons Seizures Won’t ",
-      "link": "https://www.fdd.org/analysis/sporadic-weapons-seizures-wont-stop-hezbollahs-rearmament/",
-      "publishedAt": "2026-10-15T20:01:51.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "الشيباني يبحث هاتفياً مع نظيره التركي العلاقات الثنائية ومستجدات المنطقة",
-      "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني في اتصال هاتفي مع نظيره ‏التركي هاكان فيدان، العلاقات الثنائية بين البلدين الصديقين، وأبرز المستجدات في ‏المنطقة.‏",
-      "link": "https://sana.sy/politics/2608055/",
-      "publishedAt": "2026-10-15T19:42:28.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الحكومة السورية: نرفض استغلال المكون الدرزي في السويداء لأغراض سياسية إسرائيلية",
-      "excerpt": "اتهمت الحكومة السورية الاحتلال بتسليح ميليشيا لزعزعة الاستقرار في السويداء، ورفضت توظيف المكون الدرزي في الحملات الانتخابية الإسرائيلية.",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%86%D8%B1%D9%81%D8%B6-%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%83%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D8%B1%D8%B2%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
-      "publishedAt": "2026-10-15T19:21:03.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syria arrests suspected drug dealer in Damascus",
-      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Anti-Narcotics Administration announced on Thursday the arrest of a suspected drug dealer and trafficker in Damascus following a security operation. The Administration said the operation resulted in t",
-      "link": "https://npasyria.com/en/142713/",
-      "publishedAt": "2026-10-15T18:43:05.000Z"
     }
   ]
 }

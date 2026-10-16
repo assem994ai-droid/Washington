@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-16T18:42:09.318Z",
+    "generatedAt": "2026-10-16T21:44:50.795Z",
     "windowHours": 24,
-    "from": "2026-10-15T18:42:09.318Z",
-    "to": "2026-10-16T18:42:09.318Z"
+    "from": "2026-10-15T21:44:50.795Z",
+    "to": "2026-10-16T21:44:50.795Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 19,
     "files": 4,
-    "withNew": 3,
-    "stale": 1,
+    "withNew": 2,
+    "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1241
+    "archiveCycles": 1242
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,16 +28,102 @@
   "errors": [],
   "files": [
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "North Press Agency (English)",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "مراكز الفكر",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 24,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian authorities arrest suspected ISIS cell in Damascus countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Interior Ministry announced on Friday that the General Intelligence Service, in coordination with Internal Security Forces, had arrested a cell affiliated with the Islamic State (ISIS) that was allege",
+          "link": "https://npasyria.com/en/142735/",
+          "publishedAt": "2026-10-16T18:52:13.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Sending Syrian Soldiers to Yemen Would Be a Mistake",
+          "excerpt": "Excerpt In June, U.S. President Donald Trump floated an extraordinary proposal to deal with Hezbollah: Syria should enter Lebanon and finish off the group. Few leaders had more reason to oblige than... The post Sending Syrian Soldiers to Ye",
+          "link": "https://www.fdd.org/analysis/sending-syrian-soldiers-to-yemen-would-be-a-mistake/",
+          "publishedAt": "2026-10-16T17:08:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا و18 دولة إسلامية وعربية تدين افتتاح كولومبيا سفارتها بالقدس المحتلة",
+          "excerpt": "أدان وزراء خارجية سوريا و18 دولة عربية وإسلامية اليوم الجمعة افتتاح كولومبيا ‏سفارتها لدى الاحتلال الإسرائيلي في القدس، مؤكدين أن هذه الخطوة تتعارض مع ‏قرارات مجلس الأمن الدولي ذات الصلة وتقوض الجهود ‏الدولية الرامية إلى تحقيق ‏سلام عادل ود",
+          "link": "https://sana.sy/syria-and-the-world/2608585/",
+          "publishedAt": "2026-10-16T12:15:45.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "النرويج تتعهد بنحو 9.5 ملايين دولار لصندوق إعادة إعمار سوريا",
+          "excerpt": "تعهدت النرويج بتقديم نحو 9.5 ملايين دولار لصندوق جديد ينشئه البنك الدولي لإعادة إعمار سوريا، مع التركيز على قطاعي الصحة والطاقة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D9%86%D8%AD%D9%88-95-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-16T10:51:04.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"حب أسود\" النسخة المعربة من \"حب أعمى\".. ما قصته ومن أبطاله ومتى يعرض؟",
+          "excerpt": "تستعد منصة \"شاهد\" لإطلاق المسلسل الجديد \"حب أسود\"، المقتبس من العمل التركي الشهير \"حب أعمى\"، يوم الأحد المقبل، بمشاركة نخبة من نجوم الدراما السورية واللبنانية..",
+          "link": "https://www.syria.tv/%D8%AD%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%AD%D8%A8-%D8%A3%D8%B9%D9%85%D9%89-%D9%85%D8%A7-%D9%82%D8%B5%D8%AA%D9%87-%D9%88%D9%85%D9%86-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D9%88%D9%85%D8%AA%D9%89-%D9%8A%D8%B9%D8%B1%D8%B6%D8%9F",
+          "publishedAt": "2026-10-16T09:34:31.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "تلفزيون سوريا",
         "The National",
         "North Press Agency (English)",
-        "Middle East Eye",
         "سانا — قسم السياسة",
         "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
       ],
@@ -47,13 +133,13 @@
         "المصادر الرسمية السورية",
         "التقارير الرسمية الدورية"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 18:42",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 45,
+      "score": 23,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -66,7 +152,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -80,7 +166,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -94,7 +180,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -105,20 +191,6 @@
           "excerpt": "QAMISHLI, Syria (North Press) – Five Israeli military vehicles entered the southern countryside of Quneitra Governorate in southern Syria on Friday, while Israeli forces opened fire toward agricultural land in another area, with no casualti",
           "link": "https://npasyria.com/en/142728/",
           "publishedAt": "2026-10-16T14:48:35.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Hamas accuses Mladenov of siding with Israel over Gaza goods dispute",
-          "excerpt": "<article data-history-node-id=\"449473\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-accuses-mladenov-siding-israel-over-gaza-goods-dispute\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middle",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-accuses-mladenov-siding-israel-over-gaza-goods-dispute",
-          "publishedAt": "2026-10-16T14:06:12.000Z",
           "files": [
             "israel"
           ],
@@ -196,107 +268,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الحكومة السورية: نرفض استغلال المكون الدرزي في السويداء لأغراض سياسية إسرائيلية",
-          "excerpt": "اتهمت الحكومة السورية الاحتلال بتسليح ميليشيا لزعزعة الاستقرار في السويداء، ورفضت توظيف المكون الدرزي في الحملات الانتخابية الإسرائيلية.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%86%D8%B1%D9%81%D8%B6-%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%83%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D8%B1%D8%B2%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
-          "publishedAt": "2026-10-15T19:21:03.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "مراكز الفكر",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 24,
-      "items": [
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Sending Syrian Soldiers to Yemen Would Be a Mistake",
-          "excerpt": "Excerpt In June, U.S. President Donald Trump floated an extraordinary proposal to deal with Hezbollah: Syria should enter Lebanon and finish off the group. Few leaders had more reason to oblige than... The post Sending Syrian Soldiers to Ye",
-          "link": "https://www.fdd.org/analysis/sending-syrian-soldiers-to-yemen-would-be-a-mistake/",
-          "publishedAt": "2026-10-16T17:08:36.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا و18 دولة إسلامية وعربية تدين افتتاح كولومبيا سفارتها بالقدس المحتلة",
-          "excerpt": "أدان وزراء خارجية سوريا و18 دولة عربية وإسلامية اليوم الجمعة افتتاح كولومبيا ‏سفارتها لدى الاحتلال الإسرائيلي في القدس، مؤكدين أن هذه الخطوة تتعارض مع ‏قرارات مجلس الأمن الدولي ذات الصلة وتقوض الجهود ‏الدولية الرامية إلى تحقيق ‏سلام عادل ود",
-          "link": "https://sana.sy/syria-and-the-world/2608585/",
-          "publishedAt": "2026-10-16T12:15:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "النرويج تتعهد بنحو 9.5 ملايين دولار لصندوق إعادة إعمار سوريا",
-          "excerpt": "تعهدت النرويج بتقديم نحو 9.5 ملايين دولار لصندوق جديد ينشئه البنك الدولي لإعادة إعمار سوريا، مع التركيز على قطاعي الصحة والطاقة.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D9%86%D8%AD%D9%88-95-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-16T10:51:04.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"حب أسود\" النسخة المعربة من \"حب أعمى\".. ما قصته ومن أبطاله ومتى يعرض؟",
-          "excerpt": "تستعد منصة \"شاهد\" لإطلاق المسلسل الجديد \"حب أسود\"، المقتبس من العمل التركي الشهير \"حب أعمى\"، يوم الأحد المقبل، بمشاركة نخبة من نجوم الدراما السورية واللبنانية..",
-          "link": "https://www.syria.tv/%D8%AD%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%AD%D8%A8-%D8%A3%D8%B9%D9%85%D9%89-%D9%85%D8%A7-%D9%82%D8%B5%D8%AA%D9%87-%D9%88%D9%85%D9%86-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D9%88%D9%85%D8%AA%D9%89-%D9%8A%D8%B9%D8%B1%D8%B6%D8%9F",
-          "publishedAt": "2026-10-16T09:34:31.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria arrests suspected drug dealer in Damascus",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Anti-Narcotics Administration announced on Thursday the arrest of a suspected drug dealer and trafficker in Damascus following a security operation. The Administration said the operation resulted in t",
-          "link": "https://npasyria.com/en/142713/",
-          "publishedAt": "2026-10-15T18:43:05.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -305,23 +276,21 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "سانا — قسم السياسة"
+        "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 18:42",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 9,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -334,7 +303,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -379,56 +348,41 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث هاتفياً مع نظيره التركي العلاقات الثنائية ومستجدات المنطقة",
-          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني في اتصال هاتفي مع نظيره ‏التركي هاكان فيدان، العلاقات الثنائية بين البلدين الصديقين، وأبرز المستجدات في ‏المنطقة.‏",
-          "link": "https://sana.sy/politics/2608055/",
-          "publishedAt": "2026-10-15T19:42:28.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "مراكز الفكر"
+        "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 14:59",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": -1,
+      "score": 8,
       "items": [
         {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Sporadic Weapons Seizures Won’t Stop Hezbollah’s Rearmament",
-          "excerpt": "Hezbollah is still smuggling weapons across the Syrian-Lebanese border. On October 12, the Lebanese army seized approximately 200 kilograms of explosives being transported from Syria into Lebanon... The post Sporadic Weapons Seizures Won’t ",
-          "link": "https://www.fdd.org/analysis/sporadic-weapons-seizures-wont-stop-hezbollahs-rearmament/",
-          "publishedAt": "2026-10-15T20:01:51.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي: أولوية سوريا تحويل المكاسب السياسية إلى إنجازات اقتصادية وتنموية",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن أولوية سوريا تتمثل في ترجمة النجاحات السياسية والدبلوماسية التي تحققت إلى إنجازات اقتصادية وتنموية ملموسة تنعكس إيجاباً على حياة السوريين ومستقبلهم، مشدداً على حرصها على العمل مع الأم",
+          "link": "https://sana.sy/politics/2609038/",
+          "publishedAt": "2026-10-16T19:30:25.000Z",
           "files": [
-            "lebanon"
+            "economy"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         }
       ]
