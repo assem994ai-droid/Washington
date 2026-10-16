@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-16T21:44:50.795Z",
+    "generatedAt": "2026-10-16T23:55:40.324Z",
     "windowHours": 24,
-    "from": "2026-10-15T21:44:50.795Z",
-    "to": "2026-10-16T21:44:50.795Z"
+    "from": "2026-10-15T23:55:40.324Z",
+    "to": "2026-10-16T23:55:40.324Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
+    "items": 18,
     "files": 4,
     "withNew": 2,
     "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1242
+    "archiveCycles": 1243
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,20 +28,22 @@
   "errors": [],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+        "تلفزيون سوريا",
+        "The National",
         "North Press Agency (English)",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
+        "سانا — قسم السياسة"
       ],
       "circles": [
+        "التقارير الرسمية الدورية",
         "الإعلام السوري المستقل",
-        "مراكز الفكر",
+        "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -49,98 +51,24 @@
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 24,
+      "usItems": 0,
+      "score": 31,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian authorities arrest suspected ISIS cell in Damascus countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Interior Ministry announced on Friday that the General Intelligence Service, in coordination with Internal Security Forces, had arrested a cell affiliated with the Islamic State (ISIS) that was allege",
-          "link": "https://npasyria.com/en/142735/",
-          "publishedAt": "2026-10-16T18:52:13.000Z",
-          "files": [],
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "Senior United Nations Official Warns Second Committee of Catastrophic Destruction in Gaza, Escalating Israeli Settlement Activity",
+          "excerpt": "Escalating Israeli settler activity in the Palestinian territories and the Syrian Golan, along with the destruction of resources in Gaza represent an unprecedented catastrophe reversing “77 years of human development”, a senior United Natio",
+          "link": "https://press.un.org/en/2026/gaef3628.doc.htm",
+          "publishedAt": "2026-10-16T21:11:21.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
           "seenBefore": false,
           "us": false
         },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Sending Syrian Soldiers to Yemen Would Be a Mistake",
-          "excerpt": "Excerpt In June, U.S. President Donald Trump floated an extraordinary proposal to deal with Hezbollah: Syria should enter Lebanon and finish off the group. Few leaders had more reason to oblige than... The post Sending Syrian Soldiers to Ye",
-          "link": "https://www.fdd.org/analysis/sending-syrian-soldiers-to-yemen-would-be-a-mistake/",
-          "publishedAt": "2026-10-16T17:08:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا و18 دولة إسلامية وعربية تدين افتتاح كولومبيا سفارتها بالقدس المحتلة",
-          "excerpt": "أدان وزراء خارجية سوريا و18 دولة عربية وإسلامية اليوم الجمعة افتتاح كولومبيا ‏سفارتها لدى الاحتلال الإسرائيلي في القدس، مؤكدين أن هذه الخطوة تتعارض مع ‏قرارات مجلس الأمن الدولي ذات الصلة وتقوض الجهود ‏الدولية الرامية إلى تحقيق ‏سلام عادل ود",
-          "link": "https://sana.sy/syria-and-the-world/2608585/",
-          "publishedAt": "2026-10-16T12:15:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "النرويج تتعهد بنحو 9.5 ملايين دولار لصندوق إعادة إعمار سوريا",
-          "excerpt": "تعهدت النرويج بتقديم نحو 9.5 ملايين دولار لصندوق جديد ينشئه البنك الدولي لإعادة إعمار سوريا، مع التركيز على قطاعي الصحة والطاقة.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D9%86%D8%AD%D9%88-95-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-16T10:51:04.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"حب أسود\" النسخة المعربة من \"حب أعمى\".. ما قصته ومن أبطاله ومتى يعرض؟",
-          "excerpt": "تستعد منصة \"شاهد\" لإطلاق المسلسل الجديد \"حب أسود\"، المقتبس من العمل التركي الشهير \"حب أعمى\"، يوم الأحد المقبل، بمشاركة نخبة من نجوم الدراما السورية واللبنانية..",
-          "link": "https://www.syria.tv/%D8%AD%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%AD%D8%A8-%D8%A3%D8%B9%D9%85%D9%89-%D9%85%D8%A7-%D9%82%D8%B5%D8%AA%D9%87-%D9%88%D9%85%D9%86-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D9%88%D9%85%D8%AA%D9%89-%D9%8A%D8%B9%D8%B1%D8%B6%D8%9F",
-          "publishedAt": "2026-10-16T09:34:31.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 5,
-      "sources": [
-        "تلفزيون سوريا",
-        "The National",
-        "North Press Agency (English)",
-        "سانا — قسم السياسة",
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 18:42",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 23,
-      "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -238,33 +166,142 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "North Press Agency (English)",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "مراكز الفكر",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 21:44",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian authorities arrest suspected ISIS cell in Damascus countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Interior Ministry announced on Friday that the General Intelligence Service, in coordination with Internal Security Forces, had arrested a cell affiliated with the Islamic State (ISIS) that was allege",
+          "link": "https://npasyria.com/en/142735/",
+          "publishedAt": "2026-10-16T18:52:13.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Sending Syrian Soldiers to Yemen Would Be a Mistake",
+          "excerpt": "Excerpt In June, U.S. President Donald Trump floated an extraordinary proposal to deal with Hezbollah: Syria should enter Lebanon and finish off the group. Few leaders had more reason to oblige than... The post Sending Syrian Soldiers to Ye",
+          "link": "https://www.fdd.org/analysis/sending-syrian-soldiers-to-yemen-would-be-a-mistake/",
+          "publishedAt": "2026-10-16T17:08:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا و18 دولة إسلامية وعربية تدين افتتاح كولومبيا سفارتها بالقدس المحتلة",
+          "excerpt": "أدان وزراء خارجية سوريا و18 دولة عربية وإسلامية اليوم الجمعة افتتاح كولومبيا ‏سفارتها لدى الاحتلال الإسرائيلي في القدس، مؤكدين أن هذه الخطوة تتعارض مع ‏قرارات مجلس الأمن الدولي ذات الصلة وتقوض الجهود ‏الدولية الرامية إلى تحقيق ‏سلام عادل ود",
+          "link": "https://sana.sy/syria-and-the-world/2608585/",
+          "publishedAt": "2026-10-16T12:15:45.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "بآليات عسكرية.. الاحتلال يتوغل في قرية عابدين غربي درعا ويفتش منازل الأهالي",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الخميس، بنحو 16 آلية عسكرية في محيط سد عابدين غربي محافظة درعا، قبل أن تبدأ عمليات تفتيش لعدد من المنازل في الحي الشرقي",
-          "link": "https://www.syria.tv/%D8%A8%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A",
-          "publishedAt": "2026-10-15T23:16:40.000Z",
-          "files": [
-            "israel"
-          ],
+          "title": "النرويج تتعهد بنحو 9.5 ملايين دولار لصندوق إعادة إعمار سوريا",
+          "excerpt": "تعهدت النرويج بتقديم نحو 9.5 ملايين دولار لصندوق جديد ينشئه البنك الدولي لإعادة إعمار سوريا، مع التركيز على قطاعي الصحة والطاقة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D9%86%D8%AD%D9%88-95-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-16T10:51:04.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         },
         {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Speakers in Security Council Raise Alarm over Perilous State of Life in Gaza, Unprecedented Israeli Settler Violence, Expansion across West Bank",
-          "excerpt": "Meeting shortly after the third anniversary of the attacks by Hamas and other Palestinian armed groups on Israel, followed by devastating — and ongoing — Israeli military operations in Gaza, the Security Council today heard about the perilo",
-          "link": "https://press.un.org/en/2026/sc16478.doc.htm",
-          "publishedAt": "2026-10-15T22:39:13.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"حب أسود\" النسخة المعربة من \"حب أعمى\".. ما قصته ومن أبطاله ومتى يعرض؟",
+          "excerpt": "تستعد منصة \"شاهد\" لإطلاق المسلسل الجديد \"حب أسود\"، المقتبس من العمل التركي الشهير \"حب أعمى\"، يوم الأحد المقبل، بمشاركة نخبة من نجوم الدراما السورية واللبنانية..",
+          "link": "https://www.syria.tv/%D8%AD%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%AD%D8%A8-%D8%A3%D8%B9%D9%85%D9%89-%D9%85%D8%A7-%D9%82%D8%B5%D8%AA%D9%87-%D9%88%D9%85%D9%86-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D9%88%D9%85%D8%AA%D9%89-%D9%8A%D8%B9%D8%B1%D8%B6%D8%9F",
+          "publishedAt": "2026-10-16T09:34:31.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "علبي: الاقتصاد السوري بدأ بالتعافي ويعمل على استعادة حيويته",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، أن الاقتصاد في سوريا بدأ بالتعافي ويعمل على استعادة حيويته، وبأن الأولوية لدى الحكومة تتمثل في ترجمة النج",
+          "link": "https://www.syria.tv/%D8%B9%D9%84%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AF%D8%A3-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D9%88%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D9%8A%D9%88%D9%8A%D8%AA%D9%87",
+          "publishedAt": "2026-10-16T23:53:50.000Z",
           "files": [
-            "israel",
-            "economy",
-            "diplomacy"
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي: أولوية سوريا تحويل المكاسب السياسية إلى إنجازات اقتصادية وتنموية",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن أولوية سوريا تتمثل في ترجمة النجاحات السياسية والدبلوماسية التي تحققت إلى إنجازات اقتصادية وتنموية ملموسة تنعكس إيجاباً على حياة السوريين ومستقبلهم، مشدداً على حرصها على العمل مع الأم",
+          "link": "https://sana.sy/politics/2609038/",
+          "publishedAt": "2026-10-16T19:30:25.000Z",
+          "files": [
+            "economy"
           ],
           "seenBefore": true,
           "us": false
@@ -284,13 +321,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 18:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 21:44",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -332,57 +369,6 @@
             "turkey"
           ],
           "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني وفيدان يبحثان هاتفيا مستجدات المنطقة وتعزيز التعاون السوري التركي",
-          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني مع نظيره التركي هاكان فيدان العلاقات الثنائية والتطورات الإقليمية، وأكدا أهمية دعم استقرار سوريا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
-          "publishedAt": "2026-10-15T23:17:48.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي: أولوية سوريا تحويل المكاسب السياسية إلى إنجازات اقتصادية وتنموية",
-          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن أولوية سوريا تتمثل في ترجمة النجاحات السياسية والدبلوماسية التي تحققت إلى إنجازات اقتصادية وتنموية ملموسة تنعكس إيجاباً على حياة السوريين ومستقبلهم، مشدداً على حرصها على العمل مع الأم",
-          "link": "https://sana.sy/politics/2609038/",
-          "publishedAt": "2026-10-16T19:30:25.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": false,
           "us": false
         }
       ]
