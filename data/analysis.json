@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-15T23:03:22.753Z",
+    "generatedAt": "2026-10-16T01:14:29.945Z",
     "windowHours": 24,
-    "from": "2026-10-14T23:03:22.753Z",
-    "to": "2026-10-15T23:03:22.753Z"
+    "from": "2026-10-15T01:14:29.945Z",
+    "to": "2026-10-16T01:14:29.945Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 23,
     "files": 5,
-    "withNew": 1,
-    "stale": 4,
+    "withNew": 2,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1236
+    "archiveCycles": 1237
   },
   "emptyCircles": [
     "الكونغرس",
@@ -32,9 +32,9 @@
       "contested": true,
       "independentSources": 8,
       "sources": [
+        "تلفزيون سوريا",
         "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
         "Al Jazeera English",
-        "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
@@ -42,21 +42,35 @@
         "Al-Monitor"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "التقارير الرسمية الدورية",
         "الإعلام الدولي",
-        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 49,
+      "score": 46,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بآليات عسكرية.. الاحتلال يتوغل في قرية عابدين غربي درعا ويفتش منازل الأهالي",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الخميس، بنحو 16 آلية عسكرية في محيط سد عابدين غربي محافظة درعا، قبل أن تبدأ عمليات تفتيش لعدد من المنازل في الحي الشرقي",
+          "link": "https://www.syria.tv/%D8%A8%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A",
+          "publishedAt": "2026-10-15T23:16:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
           "sourceId": "unpress",
@@ -70,7 +84,7 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -84,7 +98,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -204,6 +218,91 @@
       ]
     },
     {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "Al-Monitor",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 24,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشيباني وفيدان يبحثان هاتفيا مستجدات المنطقة وتعزيز التعاون السوري التركي",
+          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني مع نظيره التركي هاكان فيدان العلاقات الثنائية والتطورات الإقليمية، وأكدا أهمية دعم استقرار سوريا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
+          "publishedAt": "2026-10-15T23:17:48.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني يبحث هاتفياً مع نظيره التركي العلاقات الثنائية ومستجدات المنطقة",
+          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني في اتصال هاتفي مع نظيره ‏التركي هاكان فيدان، العلاقات الثنائية بين البلدين الصديقين، وأبرز المستجدات في ‏المنطقة.‏",
+          "link": "https://sana.sy/politics/2608055/",
+          "publishedAt": "2026-10-15T19:42:28.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria arrests Mihrac Ural, ex-Assad militia head also wanted by Turkey",
+          "excerpt": "The Turkey-born militia chief and a longtime ally of the Assad-regime, was sought by Ankara over the deadly Reyhanli bombings and by Damascus over his alleged role in massacres on the Mediterranean coast.",
+          "link": "https://www.al-monitor.com/originals/2026/10/syria-arrests-mihrac-ural-ex-assad-militia-head-also-wanted-turkey",
+          "publishedAt": "2026-10-15T17:02:19.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria, Turkey agree to transfer northern universities to Aleppo University",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria and Turkey signed a memorandum of understanding on Wednesday to transfer the administration of several higher education institutions in northern Syria to Aleppo University, aiming to safeguard students’",
+          "link": "https://npasyria.com/en/142687/",
+          "publishedAt": "2026-10-15T07:58:36.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -220,7 +319,7 @@
         "المصادر الرسمية السورية",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 20:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 23:03",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -303,75 +402,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "Al-Monitor",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 20:09",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 11,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث هاتفياً مع نظيره التركي العلاقات الثنائية ومستجدات المنطقة",
-          "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني في اتصال هاتفي مع نظيره ‏التركي هاكان فيدان، العلاقات الثنائية بين البلدين الصديقين، وأبرز المستجدات في ‏المنطقة.‏",
-          "link": "https://sana.sy/politics/2608055/",
-          "publishedAt": "2026-10-15T19:42:28.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria arrests Mihrac Ural, ex-Assad militia head also wanted by Turkey",
-          "excerpt": "The Turkey-born militia chief and a longtime ally of the Assad-regime, was sought by Ankara over the deadly Reyhanli bombings and by Damascus over his alleged role in massacres on the Mediterranean coast.",
-          "link": "https://www.al-monitor.com/originals/2026/10/syria-arrests-mihrac-ural-ex-assad-militia-head-also-wanted-turkey",
-          "publishedAt": "2026-10-15T17:02:19.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria, Turkey agree to transfer northern universities to Aleppo University",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria and Turkey signed a memorandum of understanding on Wednesday to transfer the administration of several higher education institutions in northern Syria to Aleppo University, aiming to safeguard students’",
-          "link": "https://npasyria.com/en/142687/",
-          "publishedAt": "2026-10-15T07:58:36.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
@@ -383,7 +413,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 20:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 23:03",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -419,7 +449,7 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 20:09",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 23:03",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
