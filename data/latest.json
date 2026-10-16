@@ -1,36 +1,45 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-16T01:14:29.945Z",
+    "generatedAt": "2026-10-16T05:54:04.323Z",
     "windowHours": 24,
-    "from": "2026-10-15T01:14:29.945Z",
-    "to": "2026-10-16T01:14:29.945Z"
+    "from": "2026-10-15T05:54:04.323Z",
+    "to": "2026-10-16T05:54:04.323Z"
   },
   "counts": {
     "total": 23,
     "byCircle": {
-      "الإعلام السوري المستقل": 10,
+      "الإعلام السوري المستقل": 11,
       "التقارير الرسمية الدورية": 1,
       "الإعلام الدولي": 1,
       "مراكز الفكر": 2,
       "المصادر الرسمية السورية": 4,
       "الملف الإسرائيلي والتركي": 1,
-      "الإعلام المتخصص": 4
+      "الإعلام المتخصص": 3
     },
     "bySource": {
-      "تلفزيون سوريا": 6,
+      "تلفزيون سوريا": 7,
       "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
       "Al Jazeera English": 1,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
       "سانا — قسم السياسة": 4,
       "North Press Agency (English)": 4,
       "Jerusalem Post — الشرق الأوسط": 1,
-      "The National": 2,
+      "The National": 1,
       "Atlantic Council — المجلس الأطلسي": 1,
       "Al-Monitor": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "حين تغيب \"الكمليك\".. كيف يضاعف نقص الوثائق معاناة السوريات في تركيا؟",
+      "excerpt": "تواجه سوريات في تركيا صعوبات مرتبطة بغياب بطاقة الحماية المؤقتة (الكمليك) أو المشكلات المتعلقة بوضعهن القانوني، تنعكس على قدرتهن على الوصول إلى الخدمات الصحية..",
+      "link": "https://www.syria.tv/%D8%AD%D9%8A%D9%86-%D8%AA%D8%BA%D9%8A%D8%A8-%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%D9%83-%D9%83%D9%8A%D9%81-%D9%8A%D8%B6%D8%A7%D8%B9%D9%81-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
+      "publishedAt": "2026-10-16T03:07:45.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -228,15 +237,6 @@
       "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، التزام سوريا بمحاسبة ‏مرتكبي الجرائم وإنصاف الضحايا، وضمان",
       "link": "https://sana.sy/politics/2607237/",
       "publishedAt": "2026-10-15T06:54:47.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Reconstruction in north-east Syria key to refugee returns from Iraq, UNHCR official says",
-      "excerpt": "Reconstruction work in Syria must extend to Kurdish areas in the north-east if refugees are to return home, the UN refugee agency’s representative in Iraq has told The National.Toby Harward said the lack of economic opportunities and securi",
-      "link": "https://www.thenationalnews.com/news/mena/2026/10/15/reconstruction-in-north-east-syria-key-to-refugee-returns-from-iraq-unhcr-official-says/",
-      "publishedAt": "2026-10-15T03:00:00.000Z"
     }
   ]
 }

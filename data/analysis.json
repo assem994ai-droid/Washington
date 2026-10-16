@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-16T01:14:29.945Z",
+    "generatedAt": "2026-10-16T05:54:04.323Z",
     "windowHours": 24,
-    "from": "2026-10-15T01:14:29.945Z",
-    "to": "2026-10-16T01:14:29.945Z"
+    "from": "2026-10-15T05:54:04.323Z",
+    "to": "2026-10-16T05:54:04.323Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 23,
-    "files": 5,
-    "withNew": 2,
+    "files": 4,
+    "withNew": 1,
     "stale": 3,
     "contested": 1,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1237
+    "archiveCycles": 1238
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 01:14",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 46,
+      "score": 37,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -68,7 +68,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -240,8 +240,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 24,
+      "score": 25,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "حين تغيب \"الكمليك\".. كيف يضاعف نقص الوثائق معاناة السوريات في تركيا؟",
+          "excerpt": "تواجه سوريات في تركيا صعوبات مرتبطة بغياب بطاقة الحماية المؤقتة (الكمليك) أو المشكلات المتعلقة بوضعهن القانوني، تنعكس على قدرتهن على الوصول إلى الخدمات الصحية..",
+          "link": "https://www.syria.tv/%D8%AD%D9%8A%D9%86-%D8%AA%D8%BA%D9%8A%D8%A8-%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%D9%83-%D9%83%D9%8A%D9%81-%D9%8A%D8%B6%D8%A7%D8%B9%D9%81-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-10-16T03:07:45.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -254,7 +268,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -319,7 +333,7 @@
         "المصادر الرسمية السورية",
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 23:03",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 01:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -413,7 +427,7 @@
       "circles": [
         "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 23:03",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 01:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -431,42 +445,6 @@
           "publishedAt": "2026-10-15T20:01:51.000Z",
           "files": [
             "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "The National"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-15 23:03",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Reconstruction in north-east Syria key to refugee returns from Iraq, UNHCR official says",
-          "excerpt": "Reconstruction work in Syria must extend to Kurdish areas in the north-east if refugees are to return home, the UN refugee agency’s representative in Iraq has told The National.Toby Harward said the lack of economic opportunities and securi",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/15/reconstruction-in-north-east-syria-key-to-refugee-returns-from-iraq-unhcr-official-says/",
-          "publishedAt": "2026-10-15T03:00:00.000Z",
-          "files": [
-            "economy"
           ],
           "seenBefore": true,
           "us": false
