@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-17T17:24:36.075Z",
+    "generatedAt": "2026-10-17T19:36:00.251Z",
     "windowHours": 24,
-    "from": "2026-10-16T17:24:36.075Z",
-    "to": "2026-10-17T17:24:36.075Z"
+    "from": "2026-10-16T19:36:00.251Z",
+    "to": "2026-10-17T19:36:00.251Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
-    "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "items": 15,
+    "files": 6,
+    "withNew": 2,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 1248
+    "americanItems": 2,
+    "archiveCycles": 1249
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,32 +28,92 @@
   "errors": [],
   "files": [
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Al-Monitor",
+        "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 19,
+      "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain",
+          "excerpt": "Israel still wary of Damascus, writes Ben Caspit from Israel; our correspondent in Tehran and Amberin Zaman explain how Iran and Turkey look to exploit Azerbaijan’s headscarf controversy; Qatar’s top diplomat offers energy assistance to Leb",
+          "link": "https://www.al-monitor.com/originals/2026/10/window-diplomacy-iran-may-be-closing-trump-again-threatens-pickaxe-mountain",
+          "publishedAt": "2026-10-17T16:59:53.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Voices from the Arab press: Yemen’s fight to retake Sana'a mirrors Syria’s liberation of Damascus",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2625,w_3937/742131' alt='Houthi supporters rally in solidarity with the movement, in Sana’a, Yemen, Oct. 9. (photo credit: Mohammed",
+          "link": "https://www.jpost.com/middle-east/article-911798",
+          "publishedAt": "2026-10-17T13:05:21.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Germany weighs Syrian returns as protection status faces scrutiny",
+          "excerpt": "QAMISHLI, Syria (North Press) – Germany is facing renewed pressure to accelerate the return of Syrian refugees as authorities review protection cases, despite continuing humanitarian and security challenges in Syria nearly two years after t",
+          "link": "https://npasyria.com/en/142749/",
+          "publishedAt": "2026-10-17T08:50:38.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-        "The National"
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
-        "التقارير الرسمية الدورية",
-        "الإعلام المتخصص"
+        "التقارير الرسمية الدورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 17:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 24,
+      "score": 19,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -168,33 +228,41 @@
           ],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "نفوق أغنام من جراء إطلاق نار للاحتلال الإسرائيلي باتجاه الرعاة جنوبي القنيطرة",
-          "excerpt": "أطلقت قوات الاحتلال الإسرائيلي، الجمعة، النار باتجاه رعاة الأغنام في ريف القنيطرة الجنوبي، مما أدى إلى نفوق عدد من المواشي، وفقاً لمراسل تلفزيون سوريا.",
-          "link": "https://www.syria.tv/%D9%86%D9%81%D9%88%D9%82-%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D9%85%D9%86-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-16T18:19:27.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني: سوريا تستعيد دورها في منظمة التعاون الإسلامي وتؤكد دعمها للقضايا العربية",
+          "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني أن سوريا استعادت موقعها الطبيعي في منظمة ‏التعاون الإسلامي، وتعمل على تعزيز انخراطها في العمل الإسلامي المشترك، داعياً الدول الأعضاء إلى ‏دعم وحدة سوريا وسيادتها وسلامة أراضيها، والضغط الدولي ل",
+          "link": "https://sana.sy/politics/2609725/",
+          "publishedAt": "2026-10-17T18:10:03.000Z",
           "files": [
-            "israel"
+            "diplomacy"
           ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli expansion across Golan Heights frontier takes toll on Syrian farmers",
-          "excerpt": "In the 19th century, Hasan Saadeddin’s clan left what is now Jordan after a tribal feud and settled in the Golan Heights. The clan became owners of land close to Jabata Al Khashab in Syria's Quneitra province, near the high ground that Isra",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/16/syria-israel-golan-sufa-53/",
-          "publishedAt": "2026-10-16T18:00:00.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         }
       ]
@@ -211,7 +279,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 17:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -236,66 +304,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 4,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Voices from the Arab press: Yemen’s fight to retake Sana'a mirrors Syria’s liberation of Damascus",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2625,w_3937/742131' alt='Houthi supporters rally in solidarity with the movement, in Sana’a, Yemen, Oct. 9. (photo credit: Mohammed",
-          "link": "https://www.jpost.com/middle-east/article-911798",
-          "publishedAt": "2026-10-17T13:05:21.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Germany weighs Syrian returns as protection status faces scrutiny",
-          "excerpt": "QAMISHLI, Syria (North Press) – Germany is facing renewed pressure to accelerate the return of Syrian refugees as authorities review protection cases, despite continuing humanitarian and security challenges in Syria nearly two years after t",
-          "link": "https://npasyria.com/en/142749/",
-          "publishedAt": "2026-10-17T08:50:38.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syrian authorities arrest suspected ISIS cell in Damascus countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Interior Ministry announced on Friday that the General Intelligence Service, in coordination with Internal Security Forces, had arrested a cell affiliated with the Islamic State (ISIS) that was allege",
-          "link": "https://npasyria.com/en/142735/",
-          "publishedAt": "2026-10-16T18:52:13.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sdf",
       "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
@@ -307,7 +315,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 17:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -334,24 +342,22 @@
     {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 17:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": -1,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -361,20 +367,6 @@
           "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، أن الاقتصاد في سوريا بدأ بالتعافي ويعمل على استعادة حيويته، وبأن الأولوية لدى الحكومة تتمثل في ترجمة النج",
           "link": "https://www.syria.tv/%D8%B9%D9%84%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AF%D8%A3-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D9%88%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D9%8A%D9%88%D9%8A%D8%AA%D9%87",
           "publishedAt": "2026-10-16T23:53:50.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي: أولوية سوريا تحويل المكاسب السياسية إلى إنجازات اقتصادية وتنموية",
-          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن أولوية سوريا تتمثل في ترجمة النجاحات السياسية والدبلوماسية التي تحققت إلى إنجازات اقتصادية وتنموية ملموسة تنعكس إيجاباً على حياة السوريين ومستقبلهم، مشدداً على حرصها على العمل مع الأم",
-          "link": "https://sana.sy/politics/2609038/",
-          "publishedAt": "2026-10-16T19:30:25.000Z",
           "files": [
             "economy"
           ],
