@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-17T02:46:40.071Z",
+    "generatedAt": "2026-10-17T07:12:41.611Z",
     "windowHours": 24,
-    "from": "2026-10-16T02:46:40.071Z",
-    "to": "2026-10-17T02:46:40.071Z"
+    "from": "2026-10-16T07:12:41.611Z",
+    "to": "2026-10-17T07:12:41.611Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
-    "files": 4,
-    "withNew": 1,
+    "items": 20,
+    "files": 5,
+    "withNew": 2,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 1244
+    "americanItems": 2,
+    "archiveCycles": 1245
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,17 +33,17 @@
       "contested": false,
       "independentSources": 6,
       "sources": [
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-        "تلفزيون سوريا",
         "The National",
         "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "التقارير الرسمية الدورية",
-        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
@@ -53,8 +53,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 35,
+      "score": 36,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "رعاة ريفي القنيطرة ودرعا تحت النار.. قيود الاحتلال تهدد مصدر رزق عائلات كاملة",
+          "excerpt": "لم تعد مشقة الرعي في ريفي القنيطرة ودرعا تقتصر على ارتفاع أسعار الأعلاف وتقلبات الطقس، إذ بات الوصول إلى المراعي محفوفاً بمخاطر إطلاق النار والاحتجاز",
+          "link": "https://www.syria.tv/%D8%B1%D8%B9%D8%A7%D8%A9-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%AF%D8%AF-%D9%85%D8%B5%D8%AF%D8%B1-%D8%B1%D8%B2%D9%82-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D9%83%D8%A7%D9%85%D9%84%D8%A9",
+          "publishedAt": "2026-10-17T04:50:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -67,7 +81,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -186,6 +200,42 @@
       ]
     },
     {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. lawmaker cites minority persecution in Syria as he unveils bill",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
+          "link": "https://npasyria.com/en/142738/",
+          "publishedAt": "2026-10-17T06:20:11.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
@@ -202,7 +252,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 23:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 02:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -285,13 +335,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 23:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 02:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 7,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -320,20 +370,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "حين تغيب \"الكمليك\".. كيف يضاعف نقص الوثائق معاناة السوريات في تركيا؟",
-          "excerpt": "تواجه سوريات في تركيا صعوبات مرتبطة بغياب بطاقة الحماية المؤقتة (الكمليك) أو المشكلات المتعلقة بوضعهن القانوني، تنعكس على قدرتهن على الوصول إلى الخدمات الصحية..",
-          "link": "https://www.syria.tv/%D8%AD%D9%8A%D9%86-%D8%AA%D8%BA%D9%8A%D8%A8-%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%D9%83-%D9%83%D9%8A%D9%81-%D9%8A%D8%B6%D8%A7%D8%B9%D9%81-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-10-16T03:07:45.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -351,7 +387,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 23:55",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 02:46",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,

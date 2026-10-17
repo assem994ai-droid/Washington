@@ -1,32 +1,50 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-17T02:46:40.071Z",
+    "generatedAt": "2026-10-17T07:12:41.611Z",
     "windowHours": 24,
-    "from": "2026-10-16T02:46:40.071Z",
-    "to": "2026-10-17T02:46:40.071Z"
+    "from": "2026-10-16T07:12:41.611Z",
+    "to": "2026-10-17T07:12:41.611Z"
   },
   "counts": {
-    "total": 19,
+    "total": 20,
     "byCircle": {
+      "الإعلام السوري المستقل": 13,
       "الملف الإسرائيلي والتركي": 1,
-      "الإعلام السوري المستقل": 12,
       "التقارير الرسمية الدورية": 1,
       "المصادر الرسمية السورية": 3,
       "الإعلام المتخصص": 1,
       "مراكز الفكر": 1
     },
     "bySource": {
-      "Jerusalem Post — الشرق الأوسط": 1,
+      "North Press Agency (English)": 6,
       "تلفزيون سوريا": 7,
+      "Jerusalem Post — الشرق الأوسط": 1,
       "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
       "سانا — قسم السياسة": 3,
-      "North Press Agency (English)": 5,
       "The National": 1,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. lawmaker cites minority persecution in Syria as he unveils bill",
+      "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
+      "link": "https://npasyria.com/en/142738/",
+      "publishedAt": "2026-10-17T06:20:11.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "رعاة ريفي القنيطرة ودرعا تحت النار.. قيود الاحتلال تهدد مصدر رزق عائلات كاملة",
+      "excerpt": "لم تعد مشقة الرعي في ريفي القنيطرة ودرعا تقتصر على ارتفاع أسعار الأعلاف وتقلبات الطقس، إذ بات الوصول إلى المراعي محفوفاً بمخاطر إطلاق النار والاحتجاز",
+      "link": "https://www.syria.tv/%D8%B1%D8%B9%D8%A7%D8%A9-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%AF%D8%AF-%D9%85%D8%B5%D8%AF%D8%B1-%D8%B1%D8%B2%D9%82-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D9%83%D8%A7%D9%85%D9%84%D8%A9",
+      "publishedAt": "2026-10-17T04:50:40.000Z"
+    },
     {
       "source": "Jerusalem Post — الشرق الأوسط",
       "sourceId": "jpost-me",
@@ -188,15 +206,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – Syria reaffirmed its commitment to the 1974 Disengagement of Forces Agreement and called for an end to Israeli attacks and incursions into Syrian territory, as Damascus continues direct security talks mediate",
       "link": "https://npasyria.com/en/142719/",
       "publishedAt": "2026-10-16T08:15:11.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "حين تغيب \"الكمليك\".. كيف يضاعف نقص الوثائق معاناة السوريات في تركيا؟",
-      "excerpt": "تواجه سوريات في تركيا صعوبات مرتبطة بغياب بطاقة الحماية المؤقتة (الكمليك) أو المشكلات المتعلقة بوضعهن القانوني، تنعكس على قدرتهن على الوصول إلى الخدمات الصحية..",
-      "link": "https://www.syria.tv/%D8%AD%D9%8A%D9%86-%D8%AA%D8%BA%D9%8A%D8%A8-%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%D9%83-%D9%83%D9%8A%D9%81-%D9%8A%D8%B6%D8%A7%D8%B9%D9%81-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
-      "publishedAt": "2026-10-16T03:07:45.000Z"
     }
   ]
 }
