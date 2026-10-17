@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-17T14:24:22.905Z",
+    "generatedAt": "2026-10-17T17:24:36.075Z",
     "windowHours": 24,
-    "from": "2026-10-16T14:24:22.905Z",
-    "to": "2026-10-17T14:24:22.905Z"
+    "from": "2026-10-16T17:24:36.075Z",
+    "to": "2026-10-17T17:24:36.075Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
-    "files": 6,
-    "withNew": 3,
-    "stale": 3,
+    "items": 17,
+    "files": 5,
+    "withNew": 0,
+    "stale": 5,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 1247
+    "americanItems": 1,
+    "archiveCycles": 1248
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "مراكز الفكر",
     "الإعلام الدولي",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -31,14 +32,13 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-        "The National",
-        "North Press Agency (English)"
+        "The National"
       ],
       "circles": [
         "المصادر الرسمية السورية",
@@ -47,13 +47,13 @@
         "التقارير الرسمية الدورية",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 42,
+      "score": 24,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -66,7 +66,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -80,7 +80,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -196,34 +196,42 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وقفة احتجاجية في قطنا تنديداً بتوغلات الاحتلال الإسرائيلي جنوبي سوريا | صور",
-          "excerpt": "شهدت مدينة قطنا في ريف دمشق الغربي، عقب صلاة الجمعة، وقفة احتجاجية شارك فيها عدد من الأهالي، تنديداً بالتوغلات العسكرية والانتهاكات الإسرائيلية",
-          "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D8%B7%D9%86%D8%A7-%D8%AA%D9%86%D8%AF%D9%8A%D8%AF%D8%A7%D9%8B-%D8%A8%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B5%D9%88%D8%B1",
-          "publishedAt": "2026-10-16T15:55:37.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces make incursion into Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Five Israeli military vehicles entered the southern countryside of Quneitra Governorate in southern Syria on Friday, while Israeli forces opened fire toward agricultural land in another area, with no casualti",
-          "link": "https://npasyria.com/en/142728/",
-          "publishedAt": "2026-10-16T14:48:35.000Z",
+          "title": "U.S. lawmaker cites minority persecution in Syria as he unveils bill",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
+          "link": "https://npasyria.com/en/142738/",
+          "publishedAt": "2026-10-17T06:20:11.000Z",
           "files": [
-            "israel"
+            "congress"
           ],
           "seenBefore": true,
-          "us": false
+          "us": true
         }
       ]
     },
@@ -232,24 +240,22 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
-      "usItems": 1,
-      "score": 20,
+      "usItems": 0,
+      "score": 4,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -260,7 +266,7 @@
           "link": "https://www.jpost.com/middle-east/article-911798",
           "publishedAt": "2026-10-17T13:05:21.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -286,18 +292,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Sending Syrian Soldiers to Yemen Would Be a Mistake",
-          "excerpt": "Excerpt In June, U.S. President Donald Trump floated an extraordinary proposal to deal with Hezbollah: Syria should enter Lebanon and finish off the group. Few leaders had more reason to oblige than... The post Sending Syrian Soldiers to Ye",
-          "link": "https://www.fdd.org/analysis/sending-syrian-soldiers-to-yemen-would-be-a-mistake/",
-          "publishedAt": "2026-10-16T17:08:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -313,13 +307,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -332,44 +326,8 @@
           "files": [
             "sdf"
           ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 11:38",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. lawmaker cites minority persecution in Syria as he unveils bill",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
-          "link": "https://npasyria.com/en/142738/",
-          "publishedAt": "2026-10-17T06:20:11.000Z",
-          "files": [
-            "congress"
-          ],
           "seenBefore": true,
-          "us": true
+          "us": false
         }
       ]
     },
@@ -387,7 +345,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 11:38",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 14:24",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -419,42 +377,6 @@
           "publishedAt": "2026-10-16T19:30:25.000Z",
           "files": [
             "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 11:38",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "خلال 9 أشهر.. منفذ كسب يسجل عودة 7 آلاف سوري طوعياً من تركيا",
-          "excerpt": "أعلنت الهيئة العامة للمنافذ والجمارك، عن تسجيل نحو 7 آلاف شخص عادوا إلى البلاد طوعا منذ مطلع العام الجاري حتى شهر أيلول الفائت،",
-          "link": "https://www.syria.tv/%D8%AE%D9%84%D8%A7%D9%84-9-%D8%A3%D8%B4%D9%87%D8%B1-%D9%85%D9%86%D9%81%D8%B0-%D9%83%D8%B3%D8%A8-%D9%8A%D8%B3%D8%AC%D9%84-%D8%B9%D9%88%D8%AF%D8%A9-7-%D8%A2%D9%84%D8%A7%D9%81-%D8%B3%D9%88%D8%B1%D9%8A-%D8%B7%D9%88%D8%B9%D9%8A%D8%A7%D9%8B-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-10-16T16:04:18.000Z",
-          "files": [
-            "turkey"
           ],
           "seenBefore": true,
           "us": false
