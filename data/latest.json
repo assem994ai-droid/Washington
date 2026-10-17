@@ -1,30 +1,37 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-17T19:36:00.251Z",
+    "generatedAt": "2026-10-17T21:42:59.116Z",
     "windowHours": 24,
-    "from": "2026-10-16T19:36:00.251Z",
-    "to": "2026-10-17T19:36:00.251Z"
+    "from": "2026-10-16T21:42:59.116Z",
+    "to": "2026-10-17T21:42:59.116Z"
   },
   "counts": {
     "total": 15,
     "byCircle": {
+      "الإعلام السوري المستقل": 10,
       "المصادر الرسمية السورية": 2,
       "الإعلام المتخصص": 1,
-      "الإعلام السوري المستقل": 9,
-      "الملف الإسرائيلي والتركي": 2,
-      "التقارير الرسمية الدورية": 1
+      "الملف الإسرائيلي والتركي": 2
     },
     "bySource": {
+      "تلفزيون سوريا": 8,
       "سانا — قسم السياسة": 2,
       "Al-Monitor": 1,
-      "تلفزيون سوريا": 7,
       "Jerusalem Post — الشرق الأوسط": 2,
-      "North Press Agency (English)": 2,
-      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1
+      "North Press Agency (English)": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الشيباني: قرارات ضم الجولان حبر على ورق ولا بد من العودة إلى اتفاق فض الاشتباك",
+      "excerpt": "دعا وزير الخارجية والمغتربين أسعد حسن الشيباني الدول الأعضاء في منظمة التعاون الإسلامي إلى تكثيف الضغط الدولي لإنهاء اعتداءات الاحتلال الإسرائيلي على سوريا..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B6%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AD%D8%A8%D8%B1-%D8%B9%D9%84%D9%89-%D9%88%D8%B1%D9%82-%D9%88%D9%84%D8%A7-%D8%A8%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83",
+      "publishedAt": "2026-10-17T20:21:20.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -150,15 +157,6 @@
       "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، أن الاقتصاد في سوريا بدأ بالتعافي ويعمل على استعادة حيويته، وبأن الأولوية لدى الحكومة تتمثل في ترجمة النج",
       "link": "https://www.syria.tv/%D8%B9%D9%84%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AF%D8%A3-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D9%88%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D9%8A%D9%88%D9%8A%D8%AA%D9%87",
       "publishedAt": "2026-10-16T23:53:50.000Z"
-    },
-    {
-      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-      "sourceId": "unpress",
-      "circle": "التقارير الرسمية الدورية",
-      "title": "Senior United Nations Official Warns Second Committee of Catastrophic Destruction in Gaza, Escalating Israeli Settlement Activity",
-      "excerpt": "Escalating Israeli settler activity in the Palestinian territories and the Syrian Golan, along with the destruction of resources in Gaza represent an unprecedented catastrophe reversing “77 years of human development”, a senior United Natio",
-      "link": "https://press.un.org/en/2026/gaef3628.doc.htm",
-      "publishedAt": "2026-10-16T21:11:21.000Z"
     }
   ]
 }
