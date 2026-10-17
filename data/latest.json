@@ -1,34 +1,68 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-17T11:38:56.551Z",
+    "generatedAt": "2026-10-17T14:24:22.905Z",
     "windowHours": 24,
-    "from": "2026-10-16T11:38:56.551Z",
-    "to": "2026-10-17T11:38:56.551Z"
+    "from": "2026-10-16T14:24:22.905Z",
+    "to": "2026-10-17T14:24:22.905Z"
   },
   "counts": {
-    "total": 20,
+    "total": 21,
     "byCircle": {
-      "الإعلام السوري المستقل": 13,
-      "الإعلام الدولي": 1,
-      "الملف الإسرائيلي والتركي": 1,
-      "التقارير الرسمية الدورية": 1,
       "المصادر الرسمية السورية": 2,
+      "الإعلام السوري المستقل": 14,
+      "الملف الإسرائيلي والتركي": 2,
+      "التقارير الرسمية الدورية": 1,
       "الإعلام المتخصص": 1,
       "مراكز الفكر": 1
     },
     "bySource": {
-      "تلفزيون سوريا": 8,
-      "North Press Agency (English)": 5,
-      "Al Jazeera English": 1,
-      "Jerusalem Post — الشرق الأوسط": 1,
-      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
       "سانا — قسم السياسة": 2,
+      "تلفزيون سوريا": 10,
+      "Jerusalem Post — الشرق الأوسط": 2,
+      "North Press Agency (English)": 4,
+      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
       "The National": 1,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر تدعو إلى انسحاب إسرائيل من الجولان السوري المحتل وتؤكد موقفها الداعم ‏لفلسطين",
+      "excerpt": "جددت دولة قطر دعوتها اليوم السبت إلى إنهاء الاحتلال الإسرائيلي والانسحاب من ‏الجولان السوري المحتل إلى خط الرابع من حزيران 1967، وفقاً لقرارات الأمم ‏المتحدة ذات الصلة.‏",
+      "link": "https://sana.sy/politics/2609506/",
+      "publishedAt": "2026-10-17T13:53:45.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "ملف المعتقلين والمغيبين يختبر مسار دمج \"قسد\".. إلى أين تتجه الأوضاع في الحسكة؟",
+      "excerpt": "شهدت مدينة الشدادي في ريف الحسكة مظاهرة انطلقت من مسجد أبي بكر الصديق، تحت شعار \"جمعة المعتقلين\"، طالب خلالها المحتجون بالإفراج عن المعتقلين",
+      "link": "https://www.syria.tv/%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D9%82%D9%84%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D9%8A%D8%A8%D9%8A%D9%86-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D9%85%D8%B3%D8%A7%D8%B1-%D8%AF%D9%85%D8%AC-%D9%82%D8%B3%D8%AF-%D8%A5%D9%84%D9%89-%D8%A3%D9%8A%D9%86-%D8%AA%D8%AA%D8%AC%D9%87-%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9%D8%9F",
+      "publishedAt": "2026-10-17T13:49:01.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Voices from the Arab press: Yemen’s fight to retake Sana'a mirrors Syria’s liberation of Damascus",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2625,w_3937/742131' alt='Houthi supporters rally in solidarity with the movement, in Sana’a, Yemen, Oct. 9. (photo credit: Mohammed",
+      "link": "https://www.jpost.com/middle-east/article-911798",
+      "publishedAt": "2026-10-17T13:05:21.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "اختطاف مدنيين وتجريف أراضٍ.. توغل جديد للاحتلال في ريف القنيطرة",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، السبت، في قريتي الرزانية وصيدا الحانوت بريف القنيطرة الجنوبي، عبر رتل عسكري مؤلف من 16 آلية محمّلة بالجنود.",
+      "link": "https://www.syria.tv/%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D8%AC%D8%B1%D9%8A%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8D-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-17T12:49:28.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -64,15 +98,6 @@
       "excerpt": "اجتمع وكيل الأمين العام للأمم المتحدة، جان بيير لاكروا، السبت، مع ذوي المختطفين السوريين في السجون الإسرائيلية، في المركز الثقافي بمدينة القنيطرة، بحسب مراسل",
       "link": "https://www.syria.tv/%D9%88%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84",
       "publishedAt": "2026-10-17T07:51:28.000Z"
-    },
-    {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Israeli raids and arrests in southern Syria push population to the brink",
-      "excerpt": "Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.",
-      "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
-      "publishedAt": "2026-10-17T07:17:06.000Z"
     },
     {
       "source": "North Press Agency (English)",
@@ -190,24 +215,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – Five Israeli military vehicles entered the southern countryside of Quneitra Governorate in southern Syria on Friday, while Israeli forces opened fire toward agricultural land in another area, with no casualti",
       "link": "https://npasyria.com/en/142728/",
       "publishedAt": "2026-10-16T14:48:35.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "قطر تجدد دعمها لسيادة سوريا وإدانتها الاعتداءات الإسرائيلية على أراضيها",
-      "excerpt": "جدّدت دولة قطر تأكيد دعمها لسيادة سوريا واستقلالها، وإدانتها الاعتداءات والانتهاكات الإسرائيلية المتواصلة على الأراضي السورية.",
-      "link": "https://sana.sy/politics/2608307/",
-      "publishedAt": "2026-10-16T13:29:18.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syria, Turkey discuss bilateral ties, stability",
-      "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani held a phone call on Friday with his Turkish counterpart, Hakan Fidan, to discuss strengthening bilateral relations, supporting stability in Syria and addressing regi",
-      "link": "https://npasyria.com/en/142723/",
-      "publishedAt": "2026-10-16T11:55:43.000Z"
     }
   ]
 }
