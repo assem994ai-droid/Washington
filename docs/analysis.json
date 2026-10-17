@@ -1,9 +1,9 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-17T07:12:41.611Z",
+    "generatedAt": "2026-10-17T11:38:56.551Z",
     "windowHours": 24,
-    "from": "2026-10-16T07:12:41.611Z",
-    "to": "2026-10-17T07:12:41.611Z"
+    "from": "2026-10-16T11:38:56.551Z",
+    "to": "2026-10-17T11:38:56.551Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
@@ -14,13 +14,12 @@
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 1245
+    "archiveCycles": 1246
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الإعلام الدولي",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
@@ -31,9 +30,10 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
         "تلفزيون سوريا",
+        "Al Jazeera English",
         "Jerusalem Post — الشرق الأوسط",
         "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
         "The National",
@@ -42,19 +42,76 @@
       ],
       "circles": [
         "الإعلام السوري المستقل",
+        "الإعلام الدولي",
         "الملف الإسرائيلي والتركي",
         "التقارير الرسمية الدورية",
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 4,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 36,
+      "score": 53,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "في توغل جديد.. الاحتلال الإسرائيلي ينصب حاجز تفتيش بالقنيطرة",
+          "excerpt": "توغلت دورية للاحتلال الإسرائيلي في ريف القنيطرة الأوسط بست آليات عسكرية، وأقامت حاجزا في المنطقة.",
+          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-17T09:58:08.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "السويداء والانتخابات الإسرائيلية.. كيف يوظف نتنياهو ملف الدروز لتحقيق مكاسب؟",
+          "excerpt": "رفضت الحكومة السورية توظيف أحداث السويداء في الحملات الانتخابية الإسرائيلية، مؤكدة أن أبناء المحافظة والمكوّن الدرزي جزء أصيل من النسيج الوطني السوري،",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D9%88%D8%B8%D9%81-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B2-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D9%83%D8%A7%D8%B3%D8%A8%D8%9F",
+          "publishedAt": "2026-10-17T09:53:10.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وكيل الأمين العام للأمم المتحدة يلتقي في القنيطرة أهالي مختطفين لدى الاحتلال",
+          "excerpt": "اجتمع وكيل الأمين العام للأمم المتحدة، جان بيير لاكروا، السبت، مع ذوي المختطفين السوريين في السجون الإسرائيلية، في المركز الثقافي بمدينة القنيطرة، بحسب مراسل",
+          "link": "https://www.syria.tv/%D9%88%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84",
+          "publishedAt": "2026-10-17T07:51:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Israeli raids and arrests in southern Syria push population to the brink",
+          "excerpt": "Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.",
+          "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
+          "publishedAt": "2026-10-17T07:17:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -66,7 +123,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -168,70 +225,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "EU reaffirms support for Syria’s reforms, urges Israel to respect disengagement agreement",
-          "excerpt": "QAMISHLI, Syria (North Press) – The European Union reaffirmed its support for efforts to build state institutions in Syria, reform the security sector, strengthen the rule of law and advance transitional justice, while calling for respect f",
-          "link": "https://npasyria.com/en/142722/",
-          "publishedAt": "2026-10-16T11:01:36.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria reaffirms 1974 disengagement agreement, calls for end to Israeli incursions",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria reaffirmed its commitment to the 1974 Disengagement of Forces Agreement and called for an end to Israeli attacks and incursions into Syrian territory, as Damascus continues direct security talks mediate",
-          "link": "https://npasyria.com/en/142719/",
-          "publishedAt": "2026-10-16T08:15:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. lawmaker cites minority persecution in Syria as he unveils bill",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
-          "link": "https://npasyria.com/en/142738/",
-          "publishedAt": "2026-10-17T06:20:11.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": false,
-          "us": true
         }
       ]
     },
@@ -240,26 +233,35 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 2,
       "sources": [
         "North Press Agency (English)",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "سانا — قسم السياسة",
-        "تلفزيون سوريا"
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "مراكز الفكر",
-        "المصادر الرسمية السورية"
+        "مراكز الفكر"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 02:46",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 16,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Germany weighs Syrian returns as protection status faces scrutiny",
+          "excerpt": "QAMISHLI, Syria (North Press) – Germany is facing renewed pressure to accelerate the return of Syrian refugees as authorities review protection cases, despite continuing humanitarian and security challenges in Syria nearly two years after t",
+          "link": "https://npasyria.com/en/142749/",
+          "publishedAt": "2026-10-17T08:50:38.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -283,42 +285,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا و18 دولة إسلامية وعربية تدين افتتاح كولومبيا سفارتها بالقدس المحتلة",
-          "excerpt": "أدان وزراء خارجية سوريا و18 دولة عربية وإسلامية اليوم الجمعة افتتاح كولومبيا ‏سفارتها لدى الاحتلال الإسرائيلي في القدس، مؤكدين أن هذه الخطوة تتعارض مع ‏قرارات مجلس الأمن الدولي ذات الصلة وتقوض الجهود ‏الدولية الرامية إلى تحقيق ‏سلام عادل ود",
-          "link": "https://sana.sy/syria-and-the-world/2608585/",
-          "publishedAt": "2026-10-16T12:15:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "النرويج تتعهد بنحو 9.5 ملايين دولار لصندوق إعادة إعمار سوريا",
-          "excerpt": "تعهدت النرويج بتقديم نحو 9.5 ملايين دولار لصندوق جديد ينشئه البنك الدولي لإعادة إعمار سوريا، مع التركيز على قطاعي الصحة والطاقة.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D8%AA%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D9%86%D8%AD%D9%88-95-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-16T10:51:04.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"حب أسود\" النسخة المعربة من \"حب أعمى\".. ما قصته ومن أبطاله ومتى يعرض؟",
-          "excerpt": "تستعد منصة \"شاهد\" لإطلاق المسلسل الجديد \"حب أسود\"، المقتبس من العمل التركي الشهير \"حب أعمى\"، يوم الأحد المقبل، بمشاركة نخبة من نجوم الدراما السورية واللبنانية..",
-          "link": "https://www.syria.tv/%D8%AD%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%AD%D8%A8-%D8%A3%D8%B9%D9%85%D9%89-%D9%85%D8%A7-%D9%82%D8%B5%D8%AA%D9%87-%D9%88%D9%85%D9%86-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84%D9%87-%D9%88%D9%85%D8%AA%D9%89-%D9%8A%D8%B9%D8%B1%D8%B6%D8%9F",
-          "publishedAt": "2026-10-16T09:34:31.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -335,7 +301,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 02:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 07:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -374,6 +340,42 @@
       ]
     },
     {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 07:12",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. lawmaker cites minority persecution in Syria as he unveils bill",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
+          "link": "https://npasyria.com/en/142738/",
+          "publishedAt": "2026-10-17T06:20:11.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "مصدران مستقلان فأكثر",
@@ -387,7 +389,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 02:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 07:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
