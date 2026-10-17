@@ -1,26 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-16T23:55:40.324Z",
+    "generatedAt": "2026-10-17T02:46:40.071Z",
     "windowHours": 24,
-    "from": "2026-10-15T23:55:40.324Z",
-    "to": "2026-10-16T23:55:40.324Z"
+    "from": "2026-10-16T02:46:40.071Z",
+    "to": "2026-10-17T02:46:40.071Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 19,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
+    "withNew": 1,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1243
+    "archiveCycles": 1244
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -32,8 +31,9 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
+        "Jerusalem Post — الشرق الأوسط",
         "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
         "تلفزيون سوريا",
         "The National",
@@ -41,6 +41,7 @@
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "الملف الإسرائيلي والتركي",
         "التقارير الرسمية الدورية",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
@@ -52,8 +53,23 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 31,
+      "score": 35,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Did Netanyahu’s phone call with Sharaa change Israeli-Syrian relations? - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2124,w_3186/735756' alt='Syrian President Ahmed al-Sharaa speaks during the opening ceremony of the Damascus International Fair in ",
+          "link": "https://www.jpost.com/middle-east/article-911941",
+          "publishedAt": "2026-10-17T00:37:45.000Z",
+          "files": [
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
           "sourceId": "unpress",
@@ -66,7 +82,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -186,7 +202,7 @@
         "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 21:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 23:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -257,58 +273,6 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "علبي: الاقتصاد السوري بدأ بالتعافي ويعمل على استعادة حيويته",
-          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، أن الاقتصاد في سوريا بدأ بالتعافي ويعمل على استعادة حيويته، وبأن الأولوية لدى الحكومة تتمثل في ترجمة النج",
-          "link": "https://www.syria.tv/%D8%B9%D9%84%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AF%D8%A3-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D9%88%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D9%8A%D9%88%D9%8A%D8%AA%D9%87",
-          "publishedAt": "2026-10-16T23:53:50.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي: أولوية سوريا تحويل المكاسب السياسية إلى إنجازات اقتصادية وتنموية",
-          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن أولوية سوريا تتمثل في ترجمة النجاحات السياسية والدبلوماسية التي تحققت إلى إنجازات اقتصادية وتنموية ملموسة تنعكس إيجاباً على حياة السوريين ومستقبلهم، مشدداً على حرصها على العمل مع الأم",
-          "link": "https://sana.sy/politics/2609038/",
-          "publishedAt": "2026-10-16T19:30:25.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -321,7 +285,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 21:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 23:55",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -367,6 +331,58 @@
           "publishedAt": "2026-10-16T03:07:45.000Z",
           "files": [
             "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-16 23:55",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "علبي: الاقتصاد السوري بدأ بالتعافي ويعمل على استعادة حيويته",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، أن الاقتصاد في سوريا بدأ بالتعافي ويعمل على استعادة حيويته، وبأن الأولوية لدى الحكومة تتمثل في ترجمة النج",
+          "link": "https://www.syria.tv/%D8%B9%D9%84%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AF%D8%A3-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D9%88%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D9%8A%D9%88%D9%8A%D8%AA%D9%87",
+          "publishedAt": "2026-10-16T23:53:50.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي: أولوية سوريا تحويل المكاسب السياسية إلى إنجازات اقتصادية وتنموية",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن أولوية سوريا تتمثل في ترجمة النجاحات السياسية والدبلوماسية التي تحققت إلى إنجازات اقتصادية وتنموية ملموسة تنعكس إيجاباً على حياة السوريين ومستقبلهم، مشدداً على حرصها على العمل مع الأم",
+          "link": "https://sana.sy/politics/2609038/",
+          "publishedAt": "2026-10-16T19:30:25.000Z",
+          "files": [
+            "economy"
           ],
           "seenBefore": true,
           "us": false
