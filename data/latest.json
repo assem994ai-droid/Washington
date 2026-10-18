@@ -1,29 +1,36 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-18T11:17:04.500Z",
+    "generatedAt": "2026-10-18T14:39:02.786Z",
     "windowHours": 24,
-    "from": "2026-10-17T11:17:04.500Z",
-    "to": "2026-10-18T11:17:04.500Z"
+    "from": "2026-10-17T14:39:02.786Z",
+    "to": "2026-10-18T14:39:02.786Z"
   },
   "counts": {
-    "total": 13,
+    "total": 10,
     "byCircle": {
-      "الإعلام السوري المستقل": 7,
+      "الإعلام السوري المستقل": 6,
       "الإعلام المتخصص": 3,
-      "المصادر الرسمية السورية": 2,
-      "الملف الإسرائيلي والتركي": 1
+      "المصادر الرسمية السورية": 1
     },
     "bySource": {
-      "تلفزيون سوريا": 6,
+      "تلفزيون سوريا": 5,
       "North Press Agency (English)": 1,
       "Middle East Eye": 1,
       "Al-Monitor": 2,
-      "سانا — قسم السياسة": 2,
-      "Jerusalem Post — الشرق الأوسط": 1
+      "سانا — قسم السياسة": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قصف وتفتيش منازل.. الاحتلال الإسرائيلي يتوغل بـ15 آلية في ريف القنيطرة",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي في ريف القنيطرة الأوسط ونفذت عمليات تفتيش للمنازل، بالتزامن مع قصف مدفعي استهدف مناطق في الريف الشمالي..",
+      "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D9%8015-%D8%A2%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-18T14:16:19.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -104,42 +111,6 @@
       "excerpt": "Israel still wary of Damascus, writes Ben Caspit from Israel; our correspondent in Tehran and Amberin Zaman explain how Iran and Turkey look to exploit Azerbaijan’s headscarf controversy; Qatar’s top diplomat offers energy assistance to Leb",
       "link": "https://www.al-monitor.com/originals/2026/10/window-diplomacy-iran-may-be-closing-trump-again-threatens-pickaxe-mountain",
       "publishedAt": "2026-10-17T16:59:53.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "قطر تدعو إلى انسحاب إسرائيل من الجولان السوري المحتل وتؤكد موقفها الداعم ‏لفلسطين",
-      "excerpt": "جددت دولة قطر دعوتها اليوم السبت إلى إنهاء الاحتلال الإسرائيلي والانسحاب من ‏الجولان السوري المحتل إلى خط الرابع من حزيران 1967، وفقاً لقرارات الأمم ‏المتحدة ذات الصلة.‏",
-      "link": "https://sana.sy/politics/2609506/",
-      "publishedAt": "2026-10-17T13:53:45.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "ملف المعتقلين والمغيبين يختبر مسار دمج \"قسد\".. إلى أين تتجه الأوضاع في الحسكة؟",
-      "excerpt": "شهدت مدينة الشدادي في ريف الحسكة مظاهرة انطلقت من مسجد أبي بكر الصديق، تحت شعار \"جمعة المعتقلين\"، طالب خلالها المحتجون بالإفراج عن المعتقلين",
-      "link": "https://www.syria.tv/%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D9%82%D9%84%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D9%8A%D8%A8%D9%8A%D9%86-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D9%85%D8%B3%D8%A7%D8%B1-%D8%AF%D9%85%D8%AC-%D9%82%D8%B3%D8%AF-%D8%A5%D9%84%D9%89-%D8%A3%D9%8A%D9%86-%D8%AA%D8%AA%D8%AC%D9%87-%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9%D8%9F",
-      "publishedAt": "2026-10-17T13:49:01.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Voices from the Arab press: Yemen’s fight to retake Sana'a mirrors Syria’s liberation of Damascus",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2625,w_3937/742131' alt='Houthi supporters rally in solidarity with the movement, in Sana’a, Yemen, Oct. 9. (photo credit: Mohammed",
-      "link": "https://www.jpost.com/middle-east/article-911798",
-      "publishedAt": "2026-10-17T13:05:21.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "اختطاف مدنيين وتجريف أراضٍ.. توغل جديد للاحتلال في ريف القنيطرة",
-      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، السبت، في قريتي الرزانية وصيدا الحانوت بريف القنيطرة الجنوبي، عبر رتل عسكري مؤلف من 16 آلية محمّلة بالجنود.",
-      "link": "https://www.syria.tv/%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D8%AC%D8%B1%D9%8A%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8D-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-      "publishedAt": "2026-10-17T12:49:28.000Z"
     }
   ]
 }
