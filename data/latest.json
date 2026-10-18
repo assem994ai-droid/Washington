@@ -1,22 +1,21 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-18T17:32:45.591Z",
+    "generatedAt": "2026-10-18T19:38:26.755Z",
     "windowHours": 24,
-    "from": "2026-10-17T17:32:45.591Z",
-    "to": "2026-10-18T17:32:45.591Z"
+    "from": "2026-10-17T19:38:26.755Z",
+    "to": "2026-10-18T19:38:26.755Z"
   },
   "counts": {
-    "total": 14,
+    "total": 12,
     "byCircle": {
       "الإعلام السوري المستقل": 9,
-      "المصادر الرسمية السورية": 3,
-      "الإعلام المتخصص": 2
+      "المصادر الرسمية السورية": 2,
+      "الإعلام المتخصص": 1
     },
     "bySource": {
       "تلفزيون سوريا": 6,
       "North Press Agency (English)": 3,
-      "سانا — قسم السياسة": 3,
-      "Middle East Eye": 1,
+      "سانا — قسم السياسة": 2,
       "Al-Monitor": 1
     }
   },
@@ -26,9 +25,9 @@
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
-      "title": "سوريا تدين تصاعد التوغلات الإسرائيلية جنوب البلاد وتطالب بتحرك دولي لوقفها",
-      "excerpt": "أدانت سوريا، اليوم الأحد، تصاعد توغلات الاحتلال الإسرائيلي في الجنوب السوري، مطالبةً المجتمع الدولي بتحمل مسؤولياته ووضع حد لهذه الانتهاكات.",
-      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%88%D9%82%D9%81%D9%87%D8%A7",
+      "title": "سوريا تدين تصاعد التوغلات الإسرائيلية جنوبي البلاد وتطالب بتحرك دولي لوقفها",
+      "excerpt": "دانت سوريا، اليوم الأحد، تصاعد توغلات الاحتلال الإسرائيلي في الجنوب السوري، مطالبةً المجتمع الدولي بتحمل مسؤولياته ووضع حد لهذه الانتهاكات.",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%88%D9%82%D9%81%D9%87%D8%A7",
       "publishedAt": "2026-10-18T16:50:00.000Z"
     },
     {
@@ -95,15 +94,6 @@
       "publishedAt": "2026-10-18T07:56:21.000Z"
     },
     {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
-      "circle": "الإعلام المتخصص",
-      "title": "Israeli forces advance into Syria's Quneitra province, Al Jazeera reports",
-      "excerpt": "<article data-history-node-id=\"449563\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-advance-syrias-quneitra-province-al-jazeera-reports\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-advance-syrias-quneitra-province-al-jazeera-reports",
-      "publishedAt": "2026-10-18T06:51:51.000Z"
-    },
-    {
       "source": "Al-Monitor",
       "sourceId": "al-monitor",
       "circle": "الإعلام المتخصص",
@@ -138,15 +128,6 @@
       "excerpt": "دعا وزير الخارجية والمغتربين أسعد حسن الشيباني الدول الأعضاء في منظمة التعاون الإسلامي إلى تكثيف الضغط الدولي لإنهاء اعتداءات الاحتلال الإسرائيلي على سوريا..",
       "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B6%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AD%D8%A8%D8%B1-%D8%B9%D9%84%D9%89-%D9%88%D8%B1%D9%82-%D9%88%D9%84%D8%A7-%D8%A8%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83",
       "publishedAt": "2026-10-17T20:21:20.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "الشيباني: سوريا تستعيد دورها في منظمة التعاون الإسلامي وتؤكد دعمها للقضايا العربية",
-      "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني أن سوريا استعادت موقعها الطبيعي في منظمة ‏التعاون الإسلامي، وتعمل على تعزيز انخراطها في العمل الإسلامي المشترك، داعياً الدول الأعضاء إلى ‏دعم وحدة سوريا وسيادتها وسلامة أراضيها، والضغط الدولي ل",
-      "link": "https://sana.sy/politics/2609725/",
-      "publishedAt": "2026-10-17T18:10:03.000Z"
     }
   ]
 }
