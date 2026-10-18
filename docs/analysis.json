@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-18T06:16:07.229Z",
+    "generatedAt": "2026-10-18T11:17:04.500Z",
     "windowHours": 24,
-    "from": "2026-10-17T06:16:07.229Z",
-    "to": "2026-10-18T06:16:07.229Z"
+    "from": "2026-10-17T11:17:04.500Z",
+    "to": "2026-10-18T11:17:04.500Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
-    "files": 5,
-    "withNew": 2,
+    "items": 13,
+    "files": 4,
+    "withNew": 1,
     "stale": 3,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 1252
+    "americanItems": 1,
+    "archiveCycles": 1253
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,25 +33,69 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 5,
       "sources": [
-        "Al-Monitor",
         "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Middle East Eye",
+        "Al-Monitor",
         "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 4,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 24,
+      "score": 43,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يفرج عن مختطفين من جباتا الخشب ويتوغل في ريفي درعا والقنيطرة",
+          "excerpt": "أفرجت قوات الاحتلال الإسرائيلي، الأحد، عن شخصين اختطفتهما، أمس السبت، خلال توغلها في بلدة جباتا الخشب بريف القنيطرة، بالتزامن مع تحركات عسكرية جديدة في ريفي درع",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%85%D9%86-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D9%88%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-18T08:25:18.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces carry out incursions into southern Syria",
+          "excerpt": "DARAA, Syria (North Press) – Israeli forces on Sunday carried out temporary military incursions across several areas of western Daraa and Quneitra, southern Syria. Local sources told North Press that three Israeli military vehicles entered ",
+          "link": "https://npasyria.com/en/142765/",
+          "publishedAt": "2026-10-18T07:56:21.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli forces advance into Syria's Quneitra province, Al Jazeera reports",
+          "excerpt": "<article data-history-node-id=\"449563\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-advance-syrias-quneitra-province-al-jazeera-reports\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-advance-syrias-quneitra-province-al-jazeera-reports",
+          "publishedAt": "2026-10-18T06:51:51.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -60,6 +104,20 @@
           "excerpt": "<p>Three years after suffering their deadliest single attack, Israelis will deliver their verdict on veteran Prime Minister Benjamin Netanyahu in an October 27 election that could decide if the country moves definitively into hard-right nat",
           "link": "https://www.al-monitor.com/originals/2026/10/shadow-war-israelis-decide-if-hard-right-turn-permanent",
           "publishedAt": "2026-10-18T05:30:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا في حسابات الانتخابات الإسرائيلية.. هل تتغير سياسة الاحتلال برحيل نتنياهو؟",
+          "excerpt": "تواصل إسرائيل انتهاك السيادة السورية بالتزامن مع الانتخابات، وسط تساؤلات حول تأثير نتائجها ورحيل نتنياهو على استمرار الاحتلال والتدخلات العسكرية في المنطقة.",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%87%D9%84-%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%B1%D8%AD%D9%8A%D9%84-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88%D8%9F",
+          "publishedAt": "2026-10-18T03:08:00.000Z",
           "files": [
             "israel"
           ],
@@ -108,48 +166,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "في توغل جديد.. الاحتلال الإسرائيلي ينصب حاجز تفتيش بالقنيطرة",
-          "excerpt": "توغلت دورية للاحتلال الإسرائيلي في ريف القنيطرة الأوسط بست آليات عسكرية، وأقامت حاجزا في المنطقة.",
-          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-17T09:58:08.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "السويداء والانتخابات الإسرائيلية.. كيف يوظف نتنياهو ملف الدروز لتحقيق مكاسب؟",
-          "excerpt": "رفضت الحكومة السورية توظيف أحداث السويداء في الحملات الانتخابية الإسرائيلية، مؤكدة أن أبناء المحافظة والمكوّن الدرزي جزء أصيل من النسيج الوطني السوري،",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D9%88%D8%B8%D9%81-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B2-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D9%83%D8%A7%D8%B3%D8%A8%D8%9F",
-          "publishedAt": "2026-10-17T09:53:10.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وكيل الأمين العام للأمم المتحدة يلتقي في القنيطرة أهالي مختطفين لدى الاحتلال",
-          "excerpt": "اجتمع وكيل الأمين العام للأمم المتحدة، جان بيير لاكروا، السبت، مع ذوي المختطفين السوريين في السجون الإسرائيلية، في المركز الثقافي بمدينة القنيطرة، بحسب مراسل",
-          "link": "https://www.syria.tv/%D9%88%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84",
-          "publishedAt": "2026-10-17T07:51:28.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -158,25 +174,24 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
         "Al-Monitor",
-        "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 06:16",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 23,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -187,7 +202,7 @@
           "link": "https://www.syria.tv/%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%AF%D9%85%D8%B1-%D9%85%D9%86-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9",
           "publishedAt": "2026-10-18T03:10:19.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -213,54 +228,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Germany weighs Syrian returns as protection status faces scrutiny",
-          "excerpt": "QAMISHLI, Syria (North Press) – Germany is facing renewed pressure to accelerate the return of Syrian refugees as authorities review protection cases, despite continuing humanitarian and security challenges in Syria nearly two years after t",
-          "link": "https://npasyria.com/en/142749/",
-          "publishedAt": "2026-10-17T08:50:38.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 01:25",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 6,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. lawmaker cites minority persecution in Syria as he unveils bill",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
-          "link": "https://npasyria.com/en/142738/",
-          "publishedAt": "2026-10-17T06:20:11.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -276,7 +243,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 01:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 06:16",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -312,7 +279,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 01:25",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 06:16",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
