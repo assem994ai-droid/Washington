@@ -1,0 +1,153 @@
+{
+  "cycle": {
+    "generatedAt": "2026-10-18T06:16:07.229Z",
+    "windowHours": 24,
+    "from": "2026-10-17T06:16:07.229Z",
+    "to": "2026-10-18T06:16:07.229Z"
+  },
+  "counts": {
+    "total": 14,
+    "byCircle": {
+      "الإعلام المتخصص": 2,
+      "الإعلام السوري المستقل": 9,
+      "المصادر الرسمية السورية": 2,
+      "الملف الإسرائيلي والتركي": 1
+    },
+    "bySource": {
+      "Al-Monitor": 2,
+      "تلفزيون سوريا": 7,
+      "سانا — قسم السياسة": 2,
+      "Jerusalem Post — الشرق الأوسط": 1,
+      "North Press Agency (English)": 2
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "In shadow of war, Israelis to decide if hard-right turn is permanent",
+      "excerpt": "<p>Three years after suffering their deadliest single attack, Israelis will deliver their verdict on veteran Prime Minister Benjamin Netanyahu in an October 27 election that could decide if the country moves definitively into hard-right nat",
+      "link": "https://www.al-monitor.com/originals/2026/10/shadow-war-israelis-decide-if-hard-right-turn-permanent",
+      "publishedAt": "2026-10-18T05:30:28.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مقابلة خاصة.. الحصري يكشف خطة تأهيل مطار تدمر من قاعدة عسكرية إلى بوابة سياحية",
+      "excerpt": "في مقابلة خاصة مع موقع تلفزيون سوريا، كشف رئيس هيئة الطيران المدني السوري خطة تأهيل مطار تدمر السياحية، وجاهزيته، وتحديات إزالة الألغام وحماية الحرم الأثري.",
+      "link": "https://www.syria.tv/%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%AF%D9%85%D8%B1-%D9%85%D9%86-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9",
+      "publishedAt": "2026-10-18T03:10:19.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الشيباني: قرارات ضم الجولان حبر على ورق ولا بد من العودة إلى اتفاق فض الاشتباك",
+      "excerpt": "دعا وزير الخارجية والمغتربين أسعد حسن الشيباني الدول الأعضاء في منظمة التعاون الإسلامي إلى تكثيف الضغط الدولي لإنهاء اعتداءات الاحتلال الإسرائيلي على سوريا..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B6%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%AD%D8%A8%D8%B1-%D8%B9%D9%84%D9%89-%D9%88%D8%B1%D9%82-%D9%88%D9%84%D8%A7-%D8%A8%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83",
+      "publishedAt": "2026-10-17T20:21:20.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الشيباني: سوريا تستعيد دورها في منظمة التعاون الإسلامي وتؤكد دعمها للقضايا العربية",
+      "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني أن سوريا استعادت موقعها الطبيعي في منظمة ‏التعاون الإسلامي، وتعمل على تعزيز انخراطها في العمل الإسلامي المشترك، داعياً الدول الأعضاء إلى ‏دعم وحدة سوريا وسيادتها وسلامة أراضيها، والضغط الدولي ل",
+      "link": "https://sana.sy/politics/2609725/",
+      "publishedAt": "2026-10-17T18:10:03.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain",
+      "excerpt": "Israel still wary of Damascus, writes Ben Caspit from Israel; our correspondent in Tehran and Amberin Zaman explain how Iran and Turkey look to exploit Azerbaijan’s headscarf controversy; Qatar’s top diplomat offers energy assistance to Leb",
+      "link": "https://www.al-monitor.com/originals/2026/10/window-diplomacy-iran-may-be-closing-trump-again-threatens-pickaxe-mountain",
+      "publishedAt": "2026-10-17T16:59:53.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر تدعو إلى انسحاب إسرائيل من الجولان السوري المحتل وتؤكد موقفها الداعم ‏لفلسطين",
+      "excerpt": "جددت دولة قطر دعوتها اليوم السبت إلى إنهاء الاحتلال الإسرائيلي والانسحاب من ‏الجولان السوري المحتل إلى خط الرابع من حزيران 1967، وفقاً لقرارات الأمم ‏المتحدة ذات الصلة.‏",
+      "link": "https://sana.sy/politics/2609506/",
+      "publishedAt": "2026-10-17T13:53:45.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "ملف المعتقلين والمغيبين يختبر مسار دمج \"قسد\".. إلى أين تتجه الأوضاع في الحسكة؟",
+      "excerpt": "شهدت مدينة الشدادي في ريف الحسكة مظاهرة انطلقت من مسجد أبي بكر الصديق، تحت شعار \"جمعة المعتقلين\"، طالب خلالها المحتجون بالإفراج عن المعتقلين",
+      "link": "https://www.syria.tv/%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D9%82%D9%84%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D9%8A%D8%A8%D9%8A%D9%86-%D9%8A%D8%AE%D8%AA%D8%A8%D8%B1-%D9%85%D8%B3%D8%A7%D8%B1-%D8%AF%D9%85%D8%AC-%D9%82%D8%B3%D8%AF-%D8%A5%D9%84%D9%89-%D8%A3%D9%8A%D9%86-%D8%AA%D8%AA%D8%AC%D9%87-%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9%D8%9F",
+      "publishedAt": "2026-10-17T13:49:01.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Voices from the Arab press: Yemen’s fight to retake Sana'a mirrors Syria’s liberation of Damascus",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2625,w_3937/742131' alt='Houthi supporters rally in solidarity with the movement, in Sana’a, Yemen, Oct. 9. (photo credit: Mohammed",
+      "link": "https://www.jpost.com/middle-east/article-911798",
+      "publishedAt": "2026-10-17T13:05:21.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "اختطاف مدنيين وتجريف أراضٍ.. توغل جديد للاحتلال في ريف القنيطرة",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، السبت، في قريتي الرزانية وصيدا الحانوت بريف القنيطرة الجنوبي، عبر رتل عسكري مؤلف من 16 آلية محمّلة بالجنود.",
+      "link": "https://www.syria.tv/%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D8%AC%D8%B1%D9%8A%D9%81-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8D-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-17T12:49:28.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "في توغل جديد.. الاحتلال الإسرائيلي ينصب حاجز تفتيش بالقنيطرة",
+      "excerpt": "توغلت دورية للاحتلال الإسرائيلي في ريف القنيطرة الأوسط بست آليات عسكرية، وأقامت حاجزا في المنطقة.",
+      "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-17T09:58:08.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "السويداء والانتخابات الإسرائيلية.. كيف يوظف نتنياهو ملف الدروز لتحقيق مكاسب؟",
+      "excerpt": "رفضت الحكومة السورية توظيف أحداث السويداء في الحملات الانتخابية الإسرائيلية، مؤكدة أن أبناء المحافظة والمكوّن الدرزي جزء أصيل من النسيج الوطني السوري،",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D9%88%D8%B8%D9%81-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B2-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D9%83%D8%A7%D8%B3%D8%A8%D8%9F",
+      "publishedAt": "2026-10-17T09:53:10.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Germany weighs Syrian returns as protection status faces scrutiny",
+      "excerpt": "QAMISHLI, Syria (North Press) – Germany is facing renewed pressure to accelerate the return of Syrian refugees as authorities review protection cases, despite continuing humanitarian and security challenges in Syria nearly two years after t",
+      "link": "https://npasyria.com/en/142749/",
+      "publishedAt": "2026-10-17T08:50:38.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "وكيل الأمين العام للأمم المتحدة يلتقي في القنيطرة أهالي مختطفين لدى الاحتلال",
+      "excerpt": "اجتمع وكيل الأمين العام للأمم المتحدة، جان بيير لاكروا، السبت، مع ذوي المختطفين السوريين في السجون الإسرائيلية، في المركز الثقافي بمدينة القنيطرة، بحسب مراسل",
+      "link": "https://www.syria.tv/%D9%88%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%8A%D9%84%D8%AA%D9%82%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84",
+      "publishedAt": "2026-10-17T07:51:28.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. lawmaker cites minority persecution in Syria as he unveils bill",
+      "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
+      "link": "https://npasyria.com/en/142738/",
+      "publishedAt": "2026-10-17T06:20:11.000Z"
+    }
+  ]
+}

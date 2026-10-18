@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-18T01:25:01.404Z",
+    "generatedAt": "2026-10-18T06:16:07.229Z",
     "windowHours": 24,
-    "from": "2026-10-17T01:25:01.404Z",
-    "to": "2026-10-18T01:25:01.404Z"
+    "from": "2026-10-17T06:16:07.229Z",
+    "to": "2026-10-18T06:16:07.229Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
+    "items": 14,
     "files": 5,
-    "withNew": 0,
-    "stale": 5,
+    "withNew": 2,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 1251
+    "archiveCycles": 1252
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,23 +33,39 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "Al-Monitor",
         "تلفزيون سوريا",
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 21:42",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 24,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "In shadow of war, Israelis to decide if hard-right turn is permanent",
+          "excerpt": "<p>Three years after suffering their deadliest single attack, Israelis will deliver their verdict on veteran Prime Minister Benjamin Netanyahu in an October 27 election that could decide if the country moves definitively into hard-right nat",
+          "link": "https://www.al-monitor.com/originals/2026/10/shadow-war-israelis-decide-if-hard-right-turn-permanent",
+          "publishedAt": "2026-10-18T05:30:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -134,20 +150,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "رعاة ريفي القنيطرة ودرعا تحت النار.. قيود الاحتلال تهدد مصدر رزق عائلات كاملة",
-          "excerpt": "لم تعد مشقة الرعي في ريفي القنيطرة ودرعا تقتصر على ارتفاع أسعار الأعلاف وتقلبات الطقس، إذ بات الوصول إلى المراعي محفوفاً بمخاطر إطلاق النار والاحتجاز",
-          "link": "https://www.syria.tv/%D8%B1%D8%B9%D8%A7%D8%A9-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%AF%D8%AF-%D9%85%D8%B5%D8%AF%D8%B1-%D8%B1%D8%B2%D9%82-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D9%83%D8%A7%D9%85%D9%84%D8%A9",
-          "publishedAt": "2026-10-17T04:50:40.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -156,25 +158,38 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "تلفزيون سوريا",
         "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 21:42",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 10,
+      "score": 23,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مقابلة خاصة.. الحصري يكشف خطة تأهيل مطار تدمر من قاعدة عسكرية إلى بوابة سياحية",
+          "excerpt": "في مقابلة خاصة مع موقع تلفزيون سوريا، كشف رئيس هيئة الطيران المدني السوري خطة تأهيل مطار تدمر السياحية، وجاهزيته، وتحديات إزالة الألغام وحماية الحرم الأثري.",
+          "link": "https://www.syria.tv/%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%AF%D9%85%D8%B1-%D9%85%D9%86-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9",
+          "publishedAt": "2026-10-18T03:10:19.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
@@ -225,7 +240,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 21:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 01:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -261,7 +276,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 21:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 01:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -297,7 +312,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-17 21:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-18 01:25",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,

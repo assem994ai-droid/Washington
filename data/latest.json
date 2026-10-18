@@ -1,28 +1,46 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-18T01:25:01.404Z",
+    "generatedAt": "2026-10-18T06:16:07.229Z",
     "windowHours": 24,
-    "from": "2026-10-17T01:25:01.404Z",
-    "to": "2026-10-18T01:25:01.404Z"
+    "from": "2026-10-17T06:16:07.229Z",
+    "to": "2026-10-18T06:16:07.229Z"
   },
   "counts": {
-    "total": 13,
+    "total": 14,
     "byCircle": {
+      "الإعلام المتخصص": 2,
       "الإعلام السوري المستقل": 9,
       "المصادر الرسمية السورية": 2,
-      "الإعلام المتخصص": 1,
       "الملف الإسرائيلي والتركي": 1
     },
     "bySource": {
+      "Al-Monitor": 2,
       "تلفزيون سوريا": 7,
       "سانا — قسم السياسة": 2,
-      "Al-Monitor": 1,
       "Jerusalem Post — الشرق الأوسط": 1,
       "North Press Agency (English)": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "In shadow of war, Israelis to decide if hard-right turn is permanent",
+      "excerpt": "<p>Three years after suffering their deadliest single attack, Israelis will deliver their verdict on veteran Prime Minister Benjamin Netanyahu in an October 27 election that could decide if the country moves definitively into hard-right nat",
+      "link": "https://www.al-monitor.com/originals/2026/10/shadow-war-israelis-decide-if-hard-right-turn-permanent",
+      "publishedAt": "2026-10-18T05:30:28.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مقابلة خاصة.. الحصري يكشف خطة تأهيل مطار تدمر من قاعدة عسكرية إلى بوابة سياحية",
+      "excerpt": "في مقابلة خاصة مع موقع تلفزيون سوريا، كشف رئيس هيئة الطيران المدني السوري خطة تأهيل مطار تدمر السياحية، وجاهزيته، وتحديات إزالة الألغام وحماية الحرم الأثري.",
+      "link": "https://www.syria.tv/%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%AF%D9%85%D8%B1-%D9%85%D9%86-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9",
+      "publishedAt": "2026-10-18T03:10:19.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -130,15 +148,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – U.S. Representative Ryan Mackenzie on Friday said that reports of violence and persecution against religious and ethnic minorities in Syria are deeply concerning, stressing that those responsible for human ri",
       "link": "https://npasyria.com/en/142738/",
       "publishedAt": "2026-10-17T06:20:11.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "رعاة ريفي القنيطرة ودرعا تحت النار.. قيود الاحتلال تهدد مصدر رزق عائلات كاملة",
-      "excerpt": "لم تعد مشقة الرعي في ريفي القنيطرة ودرعا تقتصر على ارتفاع أسعار الأعلاف وتقلبات الطقس، إذ بات الوصول إلى المراعي محفوفاً بمخاطر إطلاق النار والاحتجاز",
-      "link": "https://www.syria.tv/%D8%B1%D8%B9%D8%A7%D8%A9-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%AF%D8%AF-%D9%85%D8%B5%D8%AF%D8%B1-%D8%B1%D8%B2%D9%82-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D9%83%D8%A7%D9%85%D9%84%D8%A9",
-      "publishedAt": "2026-10-17T04:50:40.000Z"
     }
   ]
 }
