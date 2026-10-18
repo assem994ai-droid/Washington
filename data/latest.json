@@ -1,27 +1,72 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-18T14:39:02.786Z",
+    "generatedAt": "2026-10-18T17:32:45.591Z",
     "windowHours": 24,
-    "from": "2026-10-17T14:39:02.786Z",
-    "to": "2026-10-18T14:39:02.786Z"
+    "from": "2026-10-17T17:32:45.591Z",
+    "to": "2026-10-18T17:32:45.591Z"
   },
   "counts": {
-    "total": 10,
+    "total": 14,
     "byCircle": {
-      "الإعلام السوري المستقل": 6,
-      "الإعلام المتخصص": 3,
-      "المصادر الرسمية السورية": 1
+      "الإعلام السوري المستقل": 9,
+      "المصادر الرسمية السورية": 3,
+      "الإعلام المتخصص": 2
     },
     "bySource": {
-      "تلفزيون سوريا": 5,
-      "North Press Agency (English)": 1,
+      "تلفزيون سوريا": 6,
+      "North Press Agency (English)": 3,
+      "سانا — قسم السياسة": 3,
       "Middle East Eye": 1,
-      "Al-Monitor": 2,
-      "سانا — قسم السياسة": 1
+      "Al-Monitor": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا تدين تصاعد التوغلات الإسرائيلية جنوب البلاد وتطالب بتحرك دولي لوقفها",
+      "excerpt": "أدانت سوريا، اليوم الأحد، تصاعد توغلات الاحتلال الإسرائيلي في الجنوب السوري، مطالبةً المجتمع الدولي بتحمل مسؤولياته ووضع حد لهذه الانتهاكات.",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%88%D9%82%D9%81%D9%87%D8%A7",
+      "publishedAt": "2026-10-18T16:50:00.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria urges international action over Israeli incursions",
+      "excerpt": "QAMISHLI, Syria (North Press) – The Syrian Foreign Ministry on Sunday called on the international community to take responsibility for halting Israeli violations on Syrian territory, citing an increase in military incursions into southern S",
+      "link": "https://npasyria.com/en/142773/",
+      "publishedAt": "2026-10-18T16:26:25.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تدين تصاعد توغلات الاحتلال الإسرائيلي في القنيطرة وريف درعا",
+      "excerpt": "استنكرت سوريا وأدانت بأشد العبارات تصاعد توغلات الاحتلال الإسرائيلي في ‏محافظة القنيطرة وريف محافظة درعا خلال الأيام الماضية",
+      "link": "https://sana.sy/politics/2610586/",
+      "publishedAt": "2026-10-18T15:48:45.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli artillery shells target Syria’s Quneitra countryside",
+      "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled the northern countryside of Quneitra, southern Syria, with artillery rounds on Sunday, while Israeli military vehicles advanced toward a village in the area, local sources told North Pr",
+      "link": "https://npasyria.com/en/142769/",
+      "publishedAt": "2026-10-18T15:47:24.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تبحث مع الأمم المتحدة تعزيز التنسيق في مجال إزالة الألغام",
+      "excerpt": "عقد مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم ‌‏الأحد، اجتماعاً مع مديرة دائرة الأمم المتحدة للإجراءات المتعلقة بالألغام ‌‏(‏UNMAS‏) كازومي أوغاوا.‏",
+      "link": "https://sana.sy/politics/2610565/",
+      "publishedAt": "2026-10-18T15:15:49.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -102,15 +147,6 @@
       "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني أن سوريا استعادت موقعها الطبيعي في منظمة ‏التعاون الإسلامي، وتعمل على تعزيز انخراطها في العمل الإسلامي المشترك، داعياً الدول الأعضاء إلى ‏دعم وحدة سوريا وسيادتها وسلامة أراضيها، والضغط الدولي ل",
       "link": "https://sana.sy/politics/2609725/",
       "publishedAt": "2026-10-17T18:10:03.000Z"
-    },
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain",
-      "excerpt": "Israel still wary of Damascus, writes Ben Caspit from Israel; our correspondent in Tehran and Amberin Zaman explain how Iran and Turkey look to exploit Azerbaijan’s headscarf controversy; Qatar’s top diplomat offers energy assistance to Leb",
-      "link": "https://www.al-monitor.com/originals/2026/10/window-diplomacy-iran-may-be-closing-trump-again-threatens-pickaxe-mountain",
-      "publishedAt": "2026-10-17T16:59:53.000Z"
     }
   ]
 }
