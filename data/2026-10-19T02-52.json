@@ -1,0 +1,152 @@
+{
+  "cycle": {
+    "generatedAt": "2026-10-19T02:52:58.983Z",
+    "windowHours": 24,
+    "from": "2026-10-18T02:52:58.983Z",
+    "to": "2026-10-19T02:52:58.983Z"
+  },
+  "counts": {
+    "total": 14,
+    "byCircle": {
+      "الإعلام السوري المستقل": 10,
+      "الإعلام المتخصص": 2,
+      "المصادر الرسمية السورية": 2
+    },
+    "bySource": {
+      "تلفزيون سوريا": 7,
+      "The National": 1,
+      "North Press Agency (English)": 3,
+      "سانا — قسم السياسة": 2,
+      "Al-Monitor": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "ثلاثة سيناريوهات.. كيف يمكن أن تتغير سياسة إسرائيل تجاه سوريا بعد الانتخابات؟",
+      "excerpt": "يمكن بناء ثلاثة سيناريوهات أولية، حول التغيرات المحتملة في السياسة الخارجية الإسرائيلية تجاه سوريا، بناء على نتائج انتخابات الكنيست المقررة في 27 تشرين الأول>",
+      "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AC%D8%A7%D9%87-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%D8%9F",
+      "publishedAt": "2026-10-19T02:38:11.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا والأمم المتحدة تبحثان تعزيز التعاون في إزالة الألغام ومخلفات الحرب",
+      "excerpt": "بحثت وزارة الخارجية والمغتربين السورية مع دائرة الأمم المتحدة للأعمال المتعلقة بالألغام (UNMAS) سبل تعزيز التعاون والتنسيق في إزالة الألغام ومخلفات الحرب..",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%88%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8",
+      "publishedAt": "2026-10-18T20:29:47.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Syria and World Bank to set up recovery and rebuilding fund",
+      "excerpt": "Syria and the World Bank have agreed to set up a multi-donor trust fund for the country's recovery and reconstruction, the two sides announced in a joint statement on Sunday.Damascus is continuing to rebuild after a civil war that lasted fo",
+      "link": "https://www.thenationalnews.com/business/economy/2026/10/18/syria-world-bank-recovery-fund/",
+      "publishedAt": "2026-10-18T20:01:11.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا تدين تصاعد التوغلات الإسرائيلية جنوبي البلاد وتطالب بتحرك دولي لوقفها",
+      "excerpt": "دانت سوريا، اليوم الأحد، تصاعد توغلات الاحتلال الإسرائيلي في الجنوب السوري، مطالبةً المجتمع الدولي بتحمل مسؤولياته ووضع حد لهذه الانتهاكات.",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%88%D9%82%D9%81%D9%87%D8%A7",
+      "publishedAt": "2026-10-18T16:50:00.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria urges international action over Israeli incursions",
+      "excerpt": "QAMISHLI, Syria (North Press) – The Syrian Foreign Ministry on Sunday called on the international community to take responsibility for halting Israeli violations on Syrian territory, citing an increase in military incursions into southern S",
+      "link": "https://npasyria.com/en/142773/",
+      "publishedAt": "2026-10-18T16:26:25.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تدين تصاعد توغلات الاحتلال الإسرائيلي في القنيطرة وريف درعا",
+      "excerpt": "استنكرت سوريا وأدانت بأشد العبارات تصاعد توغلات الاحتلال الإسرائيلي في ‏محافظة القنيطرة وريف محافظة درعا خلال الأيام الماضية",
+      "link": "https://sana.sy/politics/2610586/",
+      "publishedAt": "2026-10-18T15:48:45.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli artillery shells target Syria’s Quneitra countryside",
+      "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled the northern countryside of Quneitra, southern Syria, with artillery rounds on Sunday, while Israeli military vehicles advanced toward a village in the area, local sources told North Pr",
+      "link": "https://npasyria.com/en/142769/",
+      "publishedAt": "2026-10-18T15:47:24.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تبحث مع الأمم المتحدة تعزيز التنسيق في مجال إزالة الألغام",
+      "excerpt": "عقد مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم ‌‏الأحد، اجتماعاً مع مديرة دائرة الأمم المتحدة للإجراءات المتعلقة بالألغام ‌‏(‏UNMAS‏) كازومي أوغاوا.‏",
+      "link": "https://sana.sy/politics/2610565/",
+      "publishedAt": "2026-10-18T15:15:49.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قصف وتفتيش منازل.. الاحتلال الإسرائيلي يتوغل بـ15 آلية في ريف القنيطرة",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي في ريف القنيطرة الأوسط ونفذت عمليات تفتيش للمنازل، بالتزامن مع قصف مدفعي استهدف مناطق في الريف الشمالي..",
+      "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D9%8015-%D8%A2%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-18T14:16:19.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يفرج عن مختطفين من جباتا الخشب ويتوغل في ريفي درعا والقنيطرة",
+      "excerpt": "أفرجت قوات الاحتلال الإسرائيلي، الأحد، عن شخصين اختطفتهما، أمس السبت، خلال توغلها في بلدة جباتا الخشب بريف القنيطرة، بالتزامن مع تحركات عسكرية جديدة في ريفي درع",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%85%D9%86-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D9%88%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-18T08:25:18.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces carry out incursions into southern Syria",
+      "excerpt": "DARAA, Syria (North Press) – Israeli forces on Sunday carried out temporary military incursions across several areas of western Daraa and Quneitra, southern Syria. Local sources told North Press that three Israeli military vehicles entered ",
+      "link": "https://npasyria.com/en/142765/",
+      "publishedAt": "2026-10-18T07:56:21.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "In shadow of war, Israelis to decide if hard-right turn is permanent",
+      "excerpt": "<p>Three years after suffering their deadliest single attack, Israelis will deliver their verdict on veteran Prime Minister Benjamin Netanyahu in an October 27 election that could decide if the country moves definitively into hard-right nat",
+      "link": "https://www.al-monitor.com/originals/2026/10/shadow-war-israelis-decide-if-hard-right-turn-permanent",
+      "publishedAt": "2026-10-18T05:30:28.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مقابلة خاصة.. الحصري يكشف خطة تأهيل مطار تدمر من قاعدة عسكرية إلى بوابة سياحية",
+      "excerpt": "في مقابلة خاصة مع موقع تلفزيون سوريا، كشف رئيس هيئة الطيران المدني السوري خطة تأهيل مطار تدمر السياحية، وجاهزيته، وتحديات إزالة الألغام وحماية الحرم الأثري.",
+      "link": "https://www.syria.tv/%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D8%AF%D9%85%D8%B1-%D9%85%D9%86-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9",
+      "publishedAt": "2026-10-18T03:10:19.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا في حسابات الانتخابات الإسرائيلية.. هل تتغير سياسة الاحتلال برحيل نتنياهو؟",
+      "excerpt": "تواصل إسرائيل انتهاك السيادة السورية بالتزامن مع الانتخابات، وسط تساؤلات حول تأثير نتائجها ورحيل نتنياهو على استمرار الاحتلال والتدخلات العسكرية في المنطقة.",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%87%D9%84-%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%B1%D8%AD%D9%8A%D9%84-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88%D8%9F",
+      "publishedAt": "2026-10-18T03:08:00.000Z"
+    }
+  ]
+}
