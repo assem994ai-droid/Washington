@@ -1,21 +1,22 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-19T20:43:58.001Z",
+    "generatedAt": "2026-10-19T23:57:28.668Z",
     "windowHours": 24,
-    "from": "2026-10-18T20:43:58.001Z",
-    "to": "2026-10-19T20:43:58.001Z"
+    "from": "2026-10-18T23:57:28.668Z",
+    "to": "2026-10-19T23:57:28.668Z"
   },
   "counts": {
-    "total": 17,
+    "total": 20,
     "byCircle": {
+      "الإعلام السوري المستقل": 14,
+      "الإعلام المتخصص": 2,
       "الملف الإسرائيلي والتركي": 2,
-      "الإعلام السوري المستقل": 12,
-      "الإعلام المتخصص": 1,
       "المصادر الرسمية السورية": 2
     },
     "bySource": {
+      "تلفزيون سوريا": 11,
+      "Middle East Eye": 1,
       "Jerusalem Post — الشرق الأوسط": 2,
-      "تلفزيون سوريا": 9,
       "North Press Agency (English)": 3,
       "Al-Monitor": 1,
       "سانا — قسم السياسة": 2
@@ -23,6 +24,33 @@
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قوات الاحتلال تتوغل في قرية طرنجة وتطلق قنابل مضيئة بريف القنيطرة",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، ليل الإثنين، في قرية طرنجة بريف القنيطرة الشمالي، بالتزامن مع إطلاق قنابل مضيئة بالقرب من محمية جباتا الخشب في المنطقة..",
+      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D9%88%D8%AA%D8%B7%D9%84%D9%82-%D9%82%D9%86%D8%A7%D8%A8%D9%84-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-19T22:25:18.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "في طريقه لأداء العمرة.. تركي يعبر إلى سوريا بدراجته قاطعاً 1300 كلم نحو مكة",
+      "excerpt": "عبر المواطن التركي مراد تجيمن \"43 عاماً\"، إلى سوريا عبر معبر جيلوه غوزو الحدودي، مواصلاً رحلته على متن دراجته الهوائية من مدينة جناق قلعة التركية إلى..",
+      "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%B7%D8%B1%D9%8A%D9%82%D9%87-%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B9%D8%A8%D8%B1-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%AF%D8%B1%D8%A7%D8%AC%D8%AA%D9%87-%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D9%8B-1300-%D9%83%D9%84%D9%85-%D9%86%D8%AD%D9%88-%D9%85%D9%83%D8%A9",
+      "publishedAt": "2026-10-19T21:55:11.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli fighter jets spotted over Syria, Iraq, local sources say",
+      "excerpt": "<article data-history-node-id=\"449640\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fighter-jets-spotted-over-syria-iraq-local-sources-say\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.midd",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fighter-jets-spotted-over-syria-iraq-local-sources-say",
+      "publishedAt": "2026-10-19T21:46:41.000Z"
+    },
     {
       "source": "Jerusalem Post — الشرق الأوسط",
       "sourceId": "jpost-me",
@@ -117,7 +145,7 @@
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
       "circle": "المصادر الرسمية السورية",
-      "title": "سوريا تشارك في مؤتمر الأمم المتحدة لمكافحة الجريمة المنظمة العابرة للحدود في ‏فيينا",
+      "title": "سوريا تشارك في مؤتمر الأمم المتحدة لمكافحة الجريمة المنظمة المنعقد ‏في فيينا",
       "excerpt": "شارك وفد وزارة الداخلية السورية برئاسة العميد عبد الرحيم جبارة مدير إدارة ‏التعاون الدولي، اليوم الإثنين، في أعمال الدورة الثالثة عشرة لمؤتمر الدول ‏الأطراف في اتفاقية الأمم المتحدة لمكافحة الجريمة المنظمة العابرة للحدود الوطنية ‌‏(‏COP13‌‏",
       "link": "https://sana.sy/syria-and-the-world/2611378/",
       "publishedAt": "2026-10-19T11:33:50.000Z"
