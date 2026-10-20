@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-19T23:57:28.668Z",
+    "generatedAt": "2026-10-20T03:45:06.714Z",
     "windowHours": 24,
-    "from": "2026-10-18T23:57:28.668Z",
-    "to": "2026-10-19T23:57:28.668Z"
+    "from": "2026-10-19T03:45:06.714Z",
+    "to": "2026-10-20T03:45:06.714Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 19,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1262
+    "archiveCycles": 1263
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-19 23:57",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 35,
+      "score": 21,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -64,7 +64,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,7 +78,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -192,20 +192,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ثلاثة سيناريوهات.. كيف يمكن أن تتغير سياسة إسرائيل تجاه سوريا بعد الانتخابات؟",
-          "excerpt": "يمكن بناء ثلاثة سيناريوهات أولية، حول التغيرات المحتملة في السياسة الخارجية الإسرائيلية تجاه سوريا، بناء على نتائج انتخابات الكنيست المقررة في 27 تشرين الأول>",
-          "link": "https://www.syria.tv/%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%83%D9%8A%D9%81-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%AC%D8%A7%D9%87-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%D8%9F",
-          "publishedAt": "2026-10-19T02:38:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -224,13 +210,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-19 23:57",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 23,
+      "score": 14,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -243,7 +229,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -333,7 +319,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-19 20:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-19 23:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -379,7 +365,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-19 20:43",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-19 23:57",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
