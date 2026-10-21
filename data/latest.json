@@ -1,31 +1,55 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-21T18:58:23.185Z",
+    "generatedAt": "2026-10-21T22:12:09.065Z",
     "windowHours": 24,
-    "from": "2026-10-20T18:58:23.185Z",
-    "to": "2026-10-21T18:58:23.185Z"
+    "from": "2026-10-20T22:12:09.065Z",
+    "to": "2026-10-21T22:12:09.065Z"
   },
   "counts": {
     "total": 23,
     "byCircle": {
-      "المصادر الرسمية السورية": 4,
-      "الإعلام السوري المستقل": 15,
+      "الإعلام السوري المستقل": 16,
+      "المصادر الرسمية السورية": 5,
       "مراكز الفكر": 1,
-      "الإعلام المتخصص": 2,
-      "التقارير الرسمية الدورية": 1
+      "الإعلام المتخصص": 1
     },
     "bySource": {
-      "سانا — قسم السياسة": 4,
+      "تلفزيون سوريا": 11,
+      "سانا — قسم السياسة": 5,
       "North Press Agency (English)": 5,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "Al-Monitor": 1,
-      "تلفزيون سوريا": 10,
-      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
-      "The National": 1
+      "Al-Monitor": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يقصف محيط عابدين غربي درعا بقذيفتين مدفعيتين",
+      "excerpt": "قال مراسل تلفزيون سوريا، إن القصف استهدف المنطقة الواقعة غربي قرية عابدين، من دون ورود معلومات حتى الآن عن وقوع إصابات أو خسائر مادية من جراء الاستهداف",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A8%D9%82%D8%B0%D9%8A%D9%81%D8%AA%D9%8A%D9%86-%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%AA%D9%8A%D9%86",
+      "publishedAt": "2026-10-21T21:18:24.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "عقب لقائه الشرع.. براك يؤكد دور سوريا المحوري في تحقيق السلام",
+      "excerpt": "قال المبعوث الأميركي إلى سوريا توماس براك الأربعاء إن سوريا تؤدي دوراً محورياً في تحقيق السلام الدائم في الشرق الأوسط، وذلك عقب اجتماع عقده، الأربعاء، مع الرئيس",
+      "link": "https://www.syria.tv/%D8%B9%D9%82%D8%A8-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%A4%D9%83%D8%AF-%D8%AF%D9%88%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%AD%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85",
+      "publishedAt": "2026-10-21T20:21:03.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية يابانية لتعزيز التعاون السياسي والاقتصادي",
+      "excerpt": "بحثت مديرة إدارة الشؤون الأفروآسيوية وأوقيانوسيا في وزارة الخارجية والمغتربين، الدكتورة ندى ‏أسود، مع القائم بأعمال سفارة اليابان في دمشق شونتارو نيتسو، سبل تعزيز العلاقات السورية ‏اليابانية وتطوير التعاون بين البلدين في المجالات السياسية و",
+      "link": "https://sana.sy/politics/2613713/",
+      "publishedAt": "2026-10-21T19:00:00.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -205,33 +229,6 @@
       "excerpt": "أفادت قناة \"فوكس نيوز\" الأميركية بأن مقاتلات إسرائيلية حلّقت فوق سوريا والعراق باتجاه إيران ضمن تدريبات ليلية، وسط مشاورات أميركية إسرائيلية بشأن احتمال استئناف",
       "link": "https://www.syria.tv/%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%B2-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B9%D8%A8%D8%B1-%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
       "publishedAt": "2026-10-21T06:20:34.000Z"
-    },
-    {
-      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-      "sourceId": "unpress",
-      "circle": "التقارير الرسمية الدورية",
-      "title": "Chemical Weapons Concerns Dominate First Committee Debate as Delegates Hail Progress in Syria",
-      "excerpt": "Amid concerns over alleged chemical-agent use in ongoing conflicts, First Committee (Disarmament and International Security) delegates welcomed progress in efforts to eliminate Syria’s chemical weapons legacy and reaffirmed the absolute pro",
-      "link": "https://press.un.org/en/2026/gadis3773.doc.htm",
-      "publishedAt": "2026-10-20T22:41:12.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الأمن الداخلي ينفي ضبط أسلحة داخل حافلة تعرّضت لحادث سير على طريق حمص – تدمر",
-      "excerpt": "نفت قيادة الأمن الداخلي في حمص صحة الأنباء المتداولة بشأن العثور على أسلحة ورايات تابعة لـ\"حزب الله\" داخل الحافلة التي تعرّضت لحادث سير على طريق..",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D9%8A-%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AD%D8%A7%D9%81%D9%84%D8%A9-%D8%AA%D8%B9%D8%B1%D9%91%D8%B6%D8%AA-%D9%84%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%AD%D9%85%D8%B5-%E2%80%93-%D8%AA%D8%AF%D9%85%D8%B1",
-      "publishedAt": "2026-10-20T19:44:35.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Iran not an 'evil regime', US ambassador Tom Barrack says",
-      "excerpt": "Tom Barrack, the US ambassador to Turkey, sparked controversy on Tuesday when he said Iran's government was \"not an evil regime\", an assessment that goes against years of messages from the administration of President Donald Trump.The remark",
-      "link": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/",
-      "publishedAt": "2026-10-20T19:02:14.000Z"
     }
   ]
 }
