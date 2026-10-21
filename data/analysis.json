@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-20T21:47:06.850Z",
+    "generatedAt": "2026-10-21T00:10:09.509Z",
     "windowHours": 24,
-    "from": "2026-10-19T21:47:06.850Z",
-    "to": "2026-10-20T21:47:06.850Z"
+    "from": "2026-10-20T00:10:09.509Z",
+    "to": "2026-10-21T00:10:09.509Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
+    "items": 26,
     "files": 4,
     "withNew": 1,
     "stale": 3,
     "contested": 1,
     "echoed": 0,
     "americanItems": 6,
-    "archiveCycles": 1267
+    "archiveCycles": 1268
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,7 +22,6 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام الدولي",
-    "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
   "errors": [],
@@ -32,26 +31,40 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
         "تلفزيون سوريا",
         "The National",
         "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
+        "التقارير الرسمية الدورية",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 4,
-      "score": 51,
+      "score": 47,
       "items": [
+        {
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "Chemical Weapons Concerns Dominate First Committee Debate as Delegates Hail Progress in Syria",
+          "excerpt": "Amid concerns over alleged chemical-agent use in ongoing conflicts, First Committee (Disarmament and International Security) delegates welcomed progress in efforts to eliminate Syria’s chemical weapons legacy and reaffirmed the absolute pro",
+          "link": "https://press.un.org/en/2026/gadis3773.doc.htm",
+          "publishedAt": "2026-10-20T22:41:12.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -61,7 +74,7 @@
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D9%8A-%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AD%D8%A7%D9%81%D9%84%D8%A9-%D8%AA%D8%B9%D8%B1%D9%91%D8%B6%D8%AA-%D9%84%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%AD%D9%85%D8%B5-%E2%80%93-%D8%AA%D8%AF%D9%85%D8%B1",
           "publishedAt": "2026-10-20T19:44:35.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -73,7 +86,7 @@
           "link": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/",
           "publishedAt": "2026-10-20T19:02:14.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -97,7 +110,7 @@
           "link": "https://sana.sy/politics/2612521/",
           "publishedAt": "2026-10-20T17:15:00.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -215,13 +228,13 @@
         "الملف التركي",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-20 18:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-20 21:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 17,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -307,20 +320,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "في طريقه لأداء العمرة.. تركي يعبر إلى سوريا بدراجته قاطعاً 1300 كلم نحو مكة",
-          "excerpt": "عبر المواطن التركي مراد تجيمن \"43 عاماً\"، إلى سوريا عبر معبر جيلوه غوزو الحدودي، مواصلاً رحلته على متن دراجته الهوائية من مدينة جناق قلعة التركية إلى..",
-          "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%B7%D8%B1%D9%8A%D9%82%D9%87-%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B9%D8%A8%D8%B1-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%AF%D8%B1%D8%A7%D8%AC%D8%AA%D9%87-%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D9%8B-1300-%D9%83%D9%84%D9%85-%D9%86%D8%AD%D9%88-%D9%85%D9%83%D8%A9",
-          "publishedAt": "2026-10-19T21:55:11.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -337,13 +336,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-20 18:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-20 21:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 18,
+      "score": 17,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -428,20 +427,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغل في قرية طرنجة وتطلق قنابل مضيئة بريف القنيطرة",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، ليل الإثنين، في قرية طرنجة بريف القنيطرة الشمالي، بالتزامن مع إطلاق قنابل مضيئة بالقرب من محمية جباتا الخشب في المنطقة..",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D9%88%D8%AA%D8%B7%D9%84%D9%82-%D9%82%D9%86%D8%A7%D8%A8%D9%84-%D9%85%D8%B6%D9%8A%D8%A6%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-19T22:25:18.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -457,7 +442,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-20 18:26",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-20 21:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
