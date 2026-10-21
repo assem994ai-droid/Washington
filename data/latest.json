@@ -1,15 +1,15 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-21T00:10:09.509Z",
+    "generatedAt": "2026-10-21T04:42:12.930Z",
     "windowHours": 24,
-    "from": "2026-10-20T00:10:09.509Z",
-    "to": "2026-10-21T00:10:09.509Z"
+    "from": "2026-10-20T04:42:12.930Z",
+    "to": "2026-10-21T04:42:12.930Z"
   },
   "counts": {
-    "total": 26,
+    "total": 25,
     "byCircle": {
       "التقارير الرسمية الدورية": 1,
-      "الإعلام السوري المستقل": 19,
+      "الإعلام السوري المستقل": 18,
       "الإعلام المتخصص": 2,
       "المصادر الرسمية السورية": 2,
       "الملف التركي": 1,
@@ -17,7 +17,7 @@
     },
     "bySource": {
       "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
-      "تلفزيون سوريا": 13,
+      "تلفزيون سوريا": 12,
       "The National": 2,
       "North Press Agency (English)": 6,
       "سانا — قسم السياسة": 2,
@@ -251,15 +251,6 @@
       "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump on Monday intensified his criticism of Ukraine, saying Kyiv had given Washington nothing in return for the assistance it has received since Russia’s full-scale invasion. “We’ve giv",
       "link": "https://npasyria.com/en/142833/",
       "publishedAt": "2026-10-20T06:44:07.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "تشريح دور السويداء في الاستراتيجية الإسرائيلية تجاه سوريا",
-      "excerpt": "مع اقتراب موعد الانتخابات الإسرائيلية المقررة، في نهاية تشرين الأول/ أكتوبر 2026، جدد رئيس الوزراء الإسرائيلي نتنياهو وعوده أمام المجتمع الدرزي الإسرائيلي..",
-      "link": "https://www.syria.tv/%D8%AA%D8%B4%D8%B1%D9%8A%D8%AD-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AC%D8%A7%D9%87-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-      "publishedAt": "2026-10-20T03:52:40.000Z"
     }
   ]
 }
