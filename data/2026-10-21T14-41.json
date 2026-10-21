@@ -1,0 +1,225 @@
+{
+  "cycle": {
+    "generatedAt": "2026-10-21T14:41:25.443Z",
+    "windowHours": 24,
+    "from": "2026-10-20T14:41:25.443Z",
+    "to": "2026-10-21T14:41:25.443Z"
+  },
+  "counts": {
+    "total": 22,
+    "byCircle": {
+      "الإعلام السوري المستقل": 15,
+      "المصادر الرسمية السورية": 4,
+      "التقارير الرسمية الدورية": 1,
+      "الإعلام المتخصص": 2
+    },
+    "bySource": {
+      "تلفزيون سوريا": 10,
+      "سانا — قسم السياسة": 4,
+      "North Press Agency (English)": 5,
+      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
+      "The National": 2
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قوات الاحتلال تتوغل في أطراف وادي الرقاد بريف درعا الغربي",
+      "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسـرائيلي، الأربعاء، توغلت بسيارتين بالقرب من غرفة مجحم، على أطراف وادي الرقاد بريف درعا الغربي.",
+      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A",
+      "publishedAt": "2026-10-21T14:12:21.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "أردوغان: الشعب السوري حقق نصراً هائلاً سيُروى لسنوات ‏قادمة ‏",
+      "excerpt": "أكد الرئيس التركي رجب طيب أردوغان أن الشعب السوري ‏حقق نصراً هائلاً في الثامن من كانون الأول عام 2024، وأن ‏هذا النصر سيُروى لسنوات قادمة، وينتقل من جيل إلى جيل.‏",
+      "link": "https://sana.sy/syria-and-the-world/2613287/",
+      "publishedAt": "2026-10-21T13:48:56.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "ما الذي يريده الاحتلال الإسرائيلي من توسيع انتشاره في الجنوب السوري؟",
+      "excerpt": "أكثر من ألفي انتهاك منذ مطلع العام، وتوغلات وحواجز وتجريف وأحاديث عن قاعدة عسكرية في الجنوب السوري.. هل يتحول الأمن إلى احتلال دائم في الجنوب كله؟",
+      "link": "https://www.syria.tv/%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D8%B1%D9%8A%D8%AF%D9%87-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D9%86-%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%9F",
+      "publishedAt": "2026-10-21T12:42:19.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الرئيس الشرع يستقبل المبعوث الأميركي الخاص إلى سوريا توم براك",
+      "excerpt": "استقبل الرئيس السوري أحمد الشرع، الأربعاء، في قصر الشعب بدمشق، المبعوث الأميركي الخاص إلى سوريا توماس براك، بحضور وزير الخارجية والمغتربين أسعد الشيباني.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D9%85-%D8%A8%D8%B1%D8%A7%D9%83",
+      "publishedAt": "2026-10-21T12:15:36.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الرئيس الشرع يبحث مع المبعوث الأمريكي باراك تطورات الأوضاع وملفات التعاون",
+      "excerpt": "التقى الرئيس أحمد الشرع في قصر الشعب بدمشق اليوم الأربعاء ‏المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا ‏والعراق توماس باراك، بحضور وزير الخارجية والمغتربين أسعد ‏حسن الشيباني‎.‎",
+      "link": "https://sana.sy/politics/2613200/",
+      "publishedAt": "2026-10-21T11:55:59.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "ما حقيقة مرور دورية للاحتلال الإسرائيلي على أوتوستراد الكسوة - درعا؟",
+      "excerpt": "مديرية إعلام ريف دمشق تنفي مرور دورية إسرائيلية على أوتوستراد درعا – الكسوة",
+      "link": "https://www.syria.tv/%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%85%D8%B1%D9%88%D8%B1-%D8%AF%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%84%D9%89-%D8%A3%D9%88%D8%AA%D9%88%D8%B3%D8%AA%D8%B1%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B3%D9%88%D8%A9-%D8%AF%D8%B1%D8%B9%D8%A7%D8%9F",
+      "publishedAt": "2026-10-21T10:22:57.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يستهدف بالقذائف محيط تل الأحمر الشرقي بريف القنيطرة",
+      "excerpt": "استهدف الاحتلال الإسرائيلي صباح الأربعاء محيط تل الأحمر الشرقي بريف القنيطرة بالقذائف، من دون تسجيل إصابات بين المدنيين",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%AA%D9%84-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-21T09:34:47.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "UNHCR says conditions in Sere Kaniye remain difficult as displaced families return",
+      "excerpt": "HASAKAH, Syria (North Press) – Oliver Smith, head of the United Nations High Commissioner for Refugees (UNHCR) office in northeastern Syria, told North Press on Wednesday that conditions in Sere Kaniye (Ras al-Ain) remain difficult, particu",
+      "link": "https://npasyria.com/en/142887/",
+      "publishedAt": "2026-10-21T08:40:41.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قوات الاحتلال تستهدف بالقذائف محيط تل الأحمر الشرقي بريف القنيطرة ‏",
+      "excerpt": "استهدفت قوات الاحتلال الإسرائيلي اليوم الأربعاء، محيط تل الأحمر الشرقي في ‏ريف القنيطرة الجنوبي، بعدة قذائف مدفعية.‏",
+      "link": "https://sana.sy/governorates/2612934/",
+      "publishedAt": "2026-10-21T07:11:58.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Trump says Iran war will end soon, predicts sharp drop in oil prices",
+      "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump said on Tuesday that the war with Iran would end “very quickly,” predicting a sharp decline in oil prices once the conflict is over. Trump did not specify when military operations ",
+      "link": "https://npasyria.com/en/142883/",
+      "publishedAt": "2026-10-21T06:59:12.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "من مواقع داخل سوريا.. جنود الاحتلال يبدأون التصويت المبكر لانتخابات الكنيست",
+      "excerpt": "بدأ جنود جيش الاحتلال الإسرائيلي التصويت المبكر في انتخابات الكنيست، مساء الثلاثاء، عبر مراكز اقتراع تشمل مواقع انتشارهم في سوريا ولبنان وقطاع غزة، قبل أسبوع من",
+      "link": "https://www.syria.tv/%D9%85%D9%86-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AC%D9%86%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%A8%D8%AF%D8%A3%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1-%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%AA",
+      "publishedAt": "2026-10-21T06:51:06.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "فوكس نيوز: مقاتلات إسرائيلية تعبر أجواء سوريا والعراق في تدريبات باتجاه إيران",
+      "excerpt": "أفادت قناة \"فوكس نيوز\" الأميركية بأن مقاتلات إسرائيلية حلّقت فوق سوريا والعراق باتجاه إيران ضمن تدريبات ليلية، وسط مشاورات أميركية إسرائيلية بشأن احتمال استئناف",
+      "link": "https://www.syria.tv/%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%B2-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B9%D8%A8%D8%B1-%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "publishedAt": "2026-10-21T06:20:34.000Z"
+    },
+    {
+      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+      "sourceId": "unpress",
+      "circle": "التقارير الرسمية الدورية",
+      "title": "Chemical Weapons Concerns Dominate First Committee Debate as Delegates Hail Progress in Syria",
+      "excerpt": "Amid concerns over alleged chemical-agent use in ongoing conflicts, First Committee (Disarmament and International Security) delegates welcomed progress in efforts to eliminate Syria’s chemical weapons legacy and reaffirmed the absolute pro",
+      "link": "https://press.un.org/en/2026/gadis3773.doc.htm",
+      "publishedAt": "2026-10-20T22:41:12.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الأمن الداخلي ينفي ضبط أسلحة داخل حافلة تعرّضت لحادث سير على طريق حمص – تدمر",
+      "excerpt": "نفت قيادة الأمن الداخلي في حمص صحة الأنباء المتداولة بشأن العثور على أسلحة ورايات تابعة لـ\"حزب الله\" داخل الحافلة التي تعرّضت لحادث سير على طريق..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D9%8A-%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AD%D8%A7%D9%81%D9%84%D8%A9-%D8%AA%D8%B9%D8%B1%D9%91%D8%B6%D8%AA-%D9%84%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%AD%D9%85%D8%B5-%E2%80%93-%D8%AA%D8%AF%D9%85%D8%B1",
+      "publishedAt": "2026-10-20T19:44:35.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Iran not an 'evil regime', US ambassador Tom Barrack says",
+      "excerpt": "Tom Barrack, the US ambassador to Turkey, sparked controversy on Tuesday when he said Iran's government was \"not an evil regime\", an assessment that goes against years of messages from the administration of President Donald Trump.The remark",
+      "link": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/",
+      "publishedAt": "2026-10-20T19:02:14.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "EU welcomes Syria’s continued cooperation with chemical weapons watchdog",
+      "excerpt": "QAMISHLI, Syria (North Press) – The European Union welcomed the Syrian authorities’ continued cooperation with the Organisation for the Prohibition of Chemical Weapons (OPCW), highlighting progress in addressing the country’s chemical weapo",
+      "link": "https://npasyria.com/en/142855/",
+      "publishedAt": "2026-10-20T17:24:01.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تؤكد من فيينا التزامها بمكافحة الجريمة المنظمة",
+      "excerpt": "واصلت الجمهورية العربية السورية اليوم الثلاثاء، مشاركتها في أعمال الدورة الـ 13 لمؤتمر الدول الأطراف في اتفاقية الأمم ‏المتحدة لمكافحة الجريمة المنظمة العابرة للحدود الوطنية، المنعقدة في مقر الأمم المتحدة بالعاصمة النمساوية فيينا.",
+      "link": "https://sana.sy/politics/2612521/",
+      "publishedAt": "2026-10-20T17:15:00.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا وتركيا تبحثان توسيع التعاون في الصحافة والإعلام والاتصال",
+      "excerpt": "جاءت المباحثات خلال زيارة أجراها يلماز، اليوم الثلاثاء، إلى زيدان في مكتب عمل الرئاسة السورية بالعاصمة دمشق",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84",
+      "publishedAt": "2026-10-20T16:34:06.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "انتقادات لاذعة تطال يامن الحجلي بسبب \"حب أسود\".. كيف رد؟ | فيديو",
+      "excerpt": "أثار الفنان السوري يامن الحجلي جدلاً واسعاً على مواقع التواصل الاجتماعي، بالتزامن مع بدء عرض مسلسل \"حب أسود\"، النسخة المعربة من المسلسل التركي \"حب أعمى\"..",
+      "link": "https://www.syria.tv/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D8%A7%D8%B0%D8%B9%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84-%D9%8A%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%AC%D9%84%D9%8A-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AD%D8%A8-%D8%A3%D8%B3%D9%88%D8%AF-%D9%83%D9%8A%D9%81-%D8%B1%D8%AF%D8%9F-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "publishedAt": "2026-10-20T16:08:09.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Weight-loss drugs Mounjaro and Foundayo to be packaged in UAE",
+      "excerpt": "A deal has been signed enabling US company Eli Lilly to package weight-loss drugs in the UAE.Under the agreement with Mubadala Bio, Mounjaro, as well as Foundayo, Lilly’s oral medicine – will be packaged in the UAE before being distributed ",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/20/mounjaro-and-other-weight-loss-drugs-to-be-made-in-uae/",
+      "publishedAt": "2026-10-20T16:03:15.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces advance with tanks into Syria’s Quneitra countryside",
+      "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces advanced into the northern countryside of Quneitra in southern Syria on Tuesday with seven military vehicles and two tanks, local sources told North Press. The forces subsequently positioned th",
+      "link": "https://npasyria.com/en/142851/",
+      "publishedAt": "2026-10-20T15:33:12.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Turkey links troop presence in Syria, Iraq to border security",
+      "excerpt": "QAMISHLI, Syria (North Press) – Turkish Defense Minister Yasar Guler said Turkey would maintain its military presence in Syria and Iraq until border security with both neighboring countries was fully ensured. “We maintain our military prese",
+      "link": "https://npasyria.com/en/142847/",
+      "publishedAt": "2026-10-20T14:55:26.000Z"
+    }
+  ]
+}
