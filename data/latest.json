@@ -1,28 +1,65 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-21T22:12:09.065Z",
+    "generatedAt": "2026-10-22T05:25:39.433Z",
     "windowHours": 24,
-    "from": "2026-10-20T22:12:09.065Z",
-    "to": "2026-10-21T22:12:09.065Z"
+    "from": "2026-10-21T05:25:39.433Z",
+    "to": "2026-10-22T05:25:39.433Z"
   },
   "counts": {
-    "total": 23,
+    "total": 27,
     "byCircle": {
-      "الإعلام السوري المستقل": 16,
+      "الإعلام المتخصص": 4,
+      "الإعلام السوري المستقل": 17,
       "المصادر الرسمية السورية": 5,
-      "مراكز الفكر": 1,
-      "الإعلام المتخصص": 1
+      "مراكز الفكر": 1
     },
     "bySource": {
-      "تلفزيون سوريا": 11,
+      "Middle East Eye": 2,
+      "Al-Monitor": 2,
+      "تلفزيون سوريا": 12,
       "سانا — قسم السياسة": 5,
       "North Press Agency (English)": 5,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "Al-Monitor": 1
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli troops shoot dead man with disabilities in Syria's Daraa",
+      "excerpt": "<article data-history-node-id=\"449761\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-shoot-dead-man-disabilities-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeaste",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-shoot-dead-man-disabilities-syrias-daraa",
+      "publishedAt": "2026-10-22T04:19:55.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "The key issues that will shape Israel's elections",
+      "excerpt": "<p>When Israel goes to the polls this month, voters will weigh in on military conscription, the economy and how the state should investigate its inability to prevent Hamas's October 7, 2023 attack.</p> <p>AFP looks at the key issues shaping",
+      "link": "https://www.al-monitor.com/originals/2026/10/key-issues-will-shape-israels-elections",
+      "publishedAt": "2026-10-22T03:30:21.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli military incursion reported in Syria's Daraa",
+      "excerpt": "<article data-history-node-id=\"449756\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-incursion-reported-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-incursion-reported-syrias-daraa",
+      "publishedAt": "2026-10-22T01:52:18.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مقتل شاب من ذوي الاحتياجات الخاصة برصاص الاحتلال في ريف درعا",
+      "excerpt": "قُتل شاب من ذوي الاحتياجات الخاصة، فجر الخميس، برصاص قوات الاحتلال الإسرائيلي خلال توغلها في قرية جملة بريف درعا الغربي، جنوبي سوريا.",
+      "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-10-22T01:47:09.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",

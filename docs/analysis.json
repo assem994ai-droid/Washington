@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-21T22:12:09.065Z",
+    "generatedAt": "2026-10-22T05:25:39.433Z",
     "windowHours": 24,
-    "from": "2026-10-20T22:12:09.065Z",
-    "to": "2026-10-21T22:12:09.065Z"
+    "from": "2026-10-21T05:25:39.433Z",
+    "to": "2026-10-22T05:25:39.433Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 23,
+    "items": 27,
     "files": 6,
-    "withNew": 3,
-    "stale": 3,
+    "withNew": 2,
+    "stale": 4,
     "contested": 1,
     "echoed": 1,
     "americanItems": 6,
-    "archiveCycles": 1273
+    "archiveCycles": 1274
   },
   "emptyCircles": [
     "الكونغرس",
@@ -29,125 +29,73 @@
   "errors": [],
   "files": [
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 5,
-      "score": 33,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عقب لقائه الشرع.. براك يؤكد دور سوريا المحوري في تحقيق السلام",
-          "excerpt": "قال المبعوث الأميركي إلى سوريا توماس براك الأربعاء إن سوريا تؤدي دوراً محورياً في تحقيق السلام الدائم في الشرق الأوسط، وذلك عقب اجتماع عقده، الأربعاء، مع الرئيس",
-          "link": "https://www.syria.tv/%D8%B9%D9%82%D8%A8-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%A4%D9%83%D8%AF-%D8%AF%D9%88%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%AD%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85",
-          "publishedAt": "2026-10-21T20:21:03.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "باراك: اللقاء مع الرئيس الشرع مثمر وسوريا تلعب دوراً محورياً بتحقيق السلام بالمنطقة",
-          "excerpt": "وصف ‏المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا ‏والعراق توماس باراك لقاءه ‏الرئيس أحمد الشرع في دمشق اليوم الأربعاء بأنه مثمر وبناء، مؤكداً محورية دور سوريا بإرساء ‏الاستقرار بالمنطقة.‏",
-          "link": "https://sana.sy/syria-and-the-world/2613566/",
-          "publishedAt": "2026-10-21T18:57:39.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Barrack discusses Syria, regional stability with al-Sharaa",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Special Presidential Envoy for Syria and Iraq Thomas Barrack said on Wednesday that he held a productive meeting with Syrian President Ahmed al-Sharaa and Foreign Minister Asaad al-Shaibani to discuss jo",
-          "link": "https://npasyria.com/en/142902/",
-          "publishedAt": "2026-10-21T18:36:36.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الرئيس الشرع يستقبل المبعوث الأميركي الخاص إلى سوريا توم براك",
-          "excerpt": "استقبل الرئيس السوري أحمد الشرع، الأربعاء، في قصر الشعب بدمشق، المبعوث الأميركي الخاص إلى سوريا توماس براك، بحضور وزير الخارجية والمغتربين أسعد الشيباني.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D9%85-%D8%A8%D8%B1%D8%A7%D9%83",
-          "publishedAt": "2026-10-21T12:15:36.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الرئيس الشرع يبحث مع المبعوث الأمريكي باراك تطورات الأوضاع وملفات التعاون",
-          "excerpt": "التقى الرئيس أحمد الشرع في قصر الشعب بدمشق اليوم الأربعاء ‏المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا ‏والعراق توماس باراك، بحضور وزير الخارجية والمغتربين أسعد ‏حسن الشيباني‎.‎",
-          "link": "https://sana.sy/politics/2613200/",
-          "publishedAt": "2026-10-21T11:55:59.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 4,
+      "independentSources": 5,
       "sources": [
-        "تلفزيون سوريا",
+        "Middle East Eye",
         "Al-Monitor",
+        "تلفزيون سوريا",
         "North Press Agency (English)",
         "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
         "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
       "echoed": true,
       "usItems": 0,
-      "score": 32,
+      "score": 46,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli troops shoot dead man with disabilities in Syria's Daraa",
+          "excerpt": "<article data-history-node-id=\"449761\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-shoot-dead-man-disabilities-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeaste",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-shoot-dead-man-disabilities-syrias-daraa",
+          "publishedAt": "2026-10-22T04:19:55.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "The key issues that will shape Israel's elections",
+          "excerpt": "<p>When Israel goes to the polls this month, voters will weigh in on military conscription, the economy and how the state should investigate its inability to prevent Hamas's October 7, 2023 attack.</p> <p>AFP looks at the key issues shaping",
+          "link": "https://www.al-monitor.com/originals/2026/10/key-issues-will-shape-israels-elections",
+          "publishedAt": "2026-10-22T03:30:21.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli military incursion reported in Syria's Daraa",
+          "excerpt": "<article data-history-node-id=\"449756\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-incursion-reported-syrias-daraa\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-incursion-reported-syrias-daraa",
+          "publishedAt": "2026-10-22T01:52:18.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -159,7 +107,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -277,6 +225,184 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-21 22:12",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 5,
+      "score": 24,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "عقب لقائه الشرع.. براك يؤكد دور سوريا المحوري في تحقيق السلام",
+          "excerpt": "قال المبعوث الأميركي إلى سوريا توماس براك الأربعاء إن سوريا تؤدي دوراً محورياً في تحقيق السلام الدائم في الشرق الأوسط، وذلك عقب اجتماع عقده، الأربعاء، مع الرئيس",
+          "link": "https://www.syria.tv/%D8%B9%D9%82%D8%A8-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%A4%D9%83%D8%AF-%D8%AF%D9%88%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%AD%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85",
+          "publishedAt": "2026-10-21T20:21:03.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "باراك: اللقاء مع الرئيس الشرع مثمر وسوريا تلعب دوراً محورياً بتحقيق السلام بالمنطقة",
+          "excerpt": "وصف ‏المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا ‏والعراق توماس باراك لقاءه ‏الرئيس أحمد الشرع في دمشق اليوم الأربعاء بأنه مثمر وبناء، مؤكداً محورية دور سوريا بإرساء ‏الاستقرار بالمنطقة.‏",
+          "link": "https://sana.sy/syria-and-the-world/2613566/",
+          "publishedAt": "2026-10-21T18:57:39.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Barrack discusses Syria, regional stability with al-Sharaa",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Special Presidential Envoy for Syria and Iraq Thomas Barrack said on Wednesday that he held a productive meeting with Syrian President Ahmed al-Sharaa and Foreign Minister Asaad al-Shaibani to discuss jo",
+          "link": "https://npasyria.com/en/142902/",
+          "publishedAt": "2026-10-21T18:36:36.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الرئيس الشرع يستقبل المبعوث الأميركي الخاص إلى سوريا توم براك",
+          "excerpt": "استقبل الرئيس السوري أحمد الشرع، الأربعاء، في قصر الشعب بدمشق، المبعوث الأميركي الخاص إلى سوريا توماس براك، بحضور وزير الخارجية والمغتربين أسعد الشيباني.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D9%85-%D8%A8%D8%B1%D8%A7%D9%83",
+          "publishedAt": "2026-10-21T12:15:36.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الرئيس الشرع يبحث مع المبعوث الأمريكي باراك تطورات الأوضاع وملفات التعاون",
+          "excerpt": "التقى الرئيس أحمد الشرع في قصر الشعب بدمشق اليوم الأربعاء ‏المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا ‏والعراق توماس باراك، بحضور وزير الخارجية والمغتربين أسعد ‏حسن الشيباني‎.‎",
+          "link": "https://sana.sy/politics/2613200/",
+          "publishedAt": "2026-10-21T11:55:59.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 18,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مقتل شاب من ذوي الاحتياجات الخاصة برصاص الاحتلال في ريف درعا",
+          "excerpt": "قُتل شاب من ذوي الاحتياجات الخاصة، فجر الخميس، برصاص قوات الاحتلال الإسرائيلي خلال توغلها في قرية جملة بريف درعا الغربي، جنوبي سوريا.",
+          "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-10-22T01:47:09.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria reports two soldiers injured in Raqqa landmine blast",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Defense Ministry said on Wednesday that two members of the military engineering department of the Syrian army were injured in a landmine explosion in the northern Raqqa countryside, with one sustainin",
+          "link": "https://npasyria.com/en/142895/",
+          "publishedAt": "2026-10-21T15:10:13.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "UNHCR says conditions in Sere Kaniye remain difficult as displaced families return",
+          "excerpt": "HASAKAH, Syria (North Press) – Oliver Smith, head of the United Nations High Commissioner for Refugees (UNHCR) office in northeastern Syria, told North Press on Wednesday that conditions in Sere Kaniye (Ras al-Ain) remain difficult, particu",
+          "link": "https://npasyria.com/en/142887/",
+          "publishedAt": "2026-10-21T08:40:41.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump says Iran war will end soon, predicts sharp drop in oil prices",
+          "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump said on Tuesday that the war with Iran would end “very quickly,” predicting a sharp decline in oil prices once the conflict is over. Trump did not specify when military operations ",
+          "link": "https://npasyria.com/en/142883/",
+          "publishedAt": "2026-10-21T06:59:12.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من مواقع داخل سوريا.. جنود الاحتلال يبدأون التصويت المبكر لانتخابات الكنيست",
+          "excerpt": "بدأ جنود جيش الاحتلال الإسرائيلي التصويت المبكر في انتخابات الكنيست، مساء الثلاثاء، عبر مراكز اقتراع تشمل مواقع انتشارهم في سوريا ولبنان وقطاع غزة، قبل أسبوع من",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AC%D9%86%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%A8%D8%AF%D8%A3%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1-%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%AA",
+          "publishedAt": "2026-10-21T06:51:06.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -292,7 +418,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-21 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-21 22:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -356,13 +482,13 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-21 22:12",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": -1,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -376,77 +502,6 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-21 18:58",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 8,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria reports two soldiers injured in Raqqa landmine blast",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Defense Ministry said on Wednesday that two members of the military engineering department of the Syrian army were injured in a landmine explosion in the northern Raqqa countryside, with one sustainin",
-          "link": "https://npasyria.com/en/142895/",
-          "publishedAt": "2026-10-21T15:10:13.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "UNHCR says conditions in Sere Kaniye remain difficult as displaced families return",
-          "excerpt": "HASAKAH, Syria (North Press) – Oliver Smith, head of the United Nations High Commissioner for Refugees (UNHCR) office in northeastern Syria, told North Press on Wednesday that conditions in Sere Kaniye (Ras al-Ain) remain difficult, particu",
-          "link": "https://npasyria.com/en/142887/",
-          "publishedAt": "2026-10-21T08:40:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Trump says Iran war will end soon, predicts sharp drop in oil prices",
-          "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump said on Tuesday that the war with Iran would end “very quickly,” predicting a sharp decline in oil prices once the conflict is over. Trump did not specify when military operations ",
-          "link": "https://npasyria.com/en/142883/",
-          "publishedAt": "2026-10-21T06:59:12.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "من مواقع داخل سوريا.. جنود الاحتلال يبدأون التصويت المبكر لانتخابات الكنيست",
-          "excerpt": "بدأ جنود جيش الاحتلال الإسرائيلي التصويت المبكر في انتخابات الكنيست، مساء الثلاثاء، عبر مراكز اقتراع تشمل مواقع انتشارهم في سوريا ولبنان وقطاع غزة، قبل أسبوع من",
-          "link": "https://www.syria.tv/%D9%85%D9%86-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AC%D9%86%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%A8%D8%AF%D8%A3%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1-%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%AA",
-          "publishedAt": "2026-10-21T06:51:06.000Z",
-          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -464,7 +519,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-21 18:58",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-21 22:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
