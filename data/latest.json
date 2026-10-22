@@ -1,30 +1,45 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-22T19:20:37.719Z",
+    "generatedAt": "2026-10-22T22:33:58.705Z",
     "windowHours": 24,
-    "from": "2026-10-21T19:20:37.719Z",
-    "to": "2026-10-22T19:20:37.719Z"
+    "from": "2026-10-21T22:33:58.705Z",
+    "to": "2026-10-22T22:33:58.705Z"
   },
   "counts": {
-    "total": 24,
+    "total": 22,
     "byCircle": {
-      "الإعلام السوري المستقل": 18,
-      "الإعلام الدولي": 1,
-      "الإعلام المتخصص": 2,
-      "المصادر الرسمية السورية": 2,
-      "الملف الإسرائيلي": 1
+      "المصادر الرسمية السورية": 3,
+      "الإعلام المتخصص": 3,
+      "الإعلام السوري المستقل": 16
     },
     "bySource": {
+      "سانا — قسم السياسة": 3,
+      "Middle East Eye": 1,
       "North Press Agency (English)": 7,
-      "Al Jazeera English": 1,
-      "تلفزيون سوريا": 11,
-      "The National": 2,
-      "سانا — قسم السياسة": 2,
-      "Ynet News (English)": 1
+      "تلفزيون سوريا": 9,
+      "The National": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "كوردوني يستنكر قتل إسرائيل شاباً بريف درعا ويطالبها باحترام سيادة سوريا",
+      "excerpt": "استنكر نائب المبعوث الخاص للأمين العام للأمم المتحدة إلى سوريا كلاوديو ‏كوردوني، اليوم الخميس، إقدام قوات الاحتلال الإسرائيلي على قتل شاب سوري من ‏ذوي الهمم في بلدة جملة بمحافظة درعا، مطالباً إسرائيل باحترام سيادة سوريا والقانون ‏الدولي.",
+      "link": "https://sana.sy/politics/2614738/",
+      "publishedAt": "2026-10-22T20:47:00.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli forces kill man with disability in southern Syria, authorities say",
+      "excerpt": "<article data-history-node-id=\"449799\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-man-disability-southern-syria-authorities-say\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.m",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-man-disability-southern-syria-authorities-say",
+      "publishedAt": "2026-10-22T20:29:31.000Z"
+    },
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
@@ -35,13 +50,13 @@
       "publishedAt": "2026-10-22T16:35:14.000Z"
     },
     {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-      "excerpt": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
-      "publishedAt": "2026-10-22T16:24:43.000Z"
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "وفد الداخلية يبحث في فيينا مع وفدي روسيا وإندونيسيا سبل مكافحة الجريمة المنظمة",
+      "excerpt": "بحث وفد سوريا برئاسة مدير إدارة التعاون الدولي في وزارة الداخلية العميد عبد الرحيم جبارة، المشارك بأعمال الدورة الـ 13 لمؤتمر الدول الأطراف ‏في اتفاقية الأمم المتحدة لمكافحة الجريمة المنظمة عبر ‏الوطنية المنعقد في فيينا، مع وفدي روسيا الاتح",
+      "link": "https://sana.sy/politics/2614519/",
+      "publishedAt": "2026-10-22T16:25:00.000Z"
     },
     {
       "source": "تلفزيون سوريا",
@@ -197,15 +212,6 @@
       "publishedAt": "2026-10-22T06:47:49.000Z"
     },
     {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "قوى الأمن الداخلي تنفذ عملية نوعية ضد خلية لـ&#8221;داعش&#8221; في ريف دمشق الغربي",
-      "excerpt": "نفذت قوى الأمن الداخلي عملية أمنية استهدفت خلية تابعة لتنظيم \"داعش الإرهابي\" في بلدة رنكوس بريف دمشق الغربي",
-      "link": "https://sana.sy/security/2613803/",
-      "publishedAt": "2026-10-22T06:06:53.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -213,33 +219,6 @@
       "excerpt": "قُتل شاب من ذوي الاحتياجات الخاصة، فجر الخميس، برصاص قوات الاحتلال الإسرائيلي خلال توغلها في قرية جملة بريف درعا الغربي، جنوبي سوريا.",
       "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
       "publishedAt": "2026-10-22T01:47:09.000Z"
-    },
-    {
-      "source": "Ynet News (English)",
-      "sourceId": "ynet-en",
-      "circle": "الملف الإسرائيلي",
-      "title": "Hamas threatens another Oct. 7-style attack on Israel in unprecedented warning",
-      "excerpt": "Hamas warned Israel through a UN envoy that it is prepared to launch another Oct. 7-style attack, targeting Israel, Judea and Samaria and abroad; The unprecedented threat comes amid mounting military pressure and a deepening financial crisi",
-      "link": "https://www.ynetnews.com/article/rjfvohihfx",
-      "publishedAt": "2026-10-21T22:29:15.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال الإسرائيلي يقصف محيط عابدين غربي درعا بقذيفتين مدفعيتين",
-      "excerpt": "قال مراسل تلفزيون سوريا، إن القصف استهدف المنطقة الواقعة غربي قرية عابدين، من دون ورود معلومات حتى الآن عن وقوع إصابات أو خسائر مادية من جراء الاستهداف",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D9%85%D8%AD%D9%8A%D8%B7-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A8%D9%82%D8%B0%D9%8A%D9%81%D8%AA%D9%8A%D9%86-%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%AA%D9%8A%D9%86",
-      "publishedAt": "2026-10-21T21:18:24.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "عقب لقائه الشرع.. براك يؤكد دور سوريا المحوري في تحقيق السلام",
-      "excerpt": "قال المبعوث الأميركي إلى سوريا توماس براك الأربعاء إن سوريا تؤدي دوراً محورياً في تحقيق السلام الدائم في الشرق الأوسط، وذلك عقب اجتماع عقده، الأربعاء، مع الرئيس",
-      "link": "https://www.syria.tv/%D8%B9%D9%82%D8%A8-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%A4%D9%83%D8%AF-%D8%AF%D9%88%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%AD%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85",
-      "publishedAt": "2026-10-21T20:21:03.000Z"
     }
   ]
 }
