@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-22T15:26:20.000Z",
+    "generatedAt": "2026-10-22T19:20:37.719Z",
     "windowHours": 24,
-    "from": "2026-10-21T15:26:20.000Z",
-    "to": "2026-10-22T15:26:20.000Z"
+    "from": "2026-10-21T19:20:37.719Z",
+    "to": "2026-10-22T19:20:37.719Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 30,
-    "files": 6,
+    "items": 24,
+    "files": 3,
     "withNew": 3,
-    "stale": 3,
+    "stale": 0,
     "contested": 0,
-    "echoed": 1,
-    "americanItems": 4,
-    "archiveCycles": 1276
+    "echoed": 0,
+    "americanItems": 1,
+    "archiveCycles": 1277
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "التقارير الرسمية الدورية",
     "الملف التركي"
@@ -29,31 +30,56 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 4,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
         "The National",
-        "Al-Monitor",
-        "Al Jazeera English",
-        "North Press Agency (English)",
         "Ynet News (English)"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "الإعلام الدولي",
         "الملف الإسرائيلي"
       ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 6,
+      "newItems": 2,
       "stale": false,
-      "echoed": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 60,
+      "score": 36,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria condemns Israeli killing of man with disabilities in Daraa",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Foreign Ministry on Thursday condemned the killing of a young man with disabilities by Israeli forces during a military incursion into Jamla village in western Daraa governorate, holding Israeli force",
+          "link": "https://npasyria.com/en/142936/",
+          "publishedAt": "2026-10-22T16:35:14.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يتوغل في ريف القنيطرة.. عمليات تفتيش وتفجير منزل مهجور",
+          "excerpt": "شهدت مناطق عدة في ريف القنيطرة، الخميس، تحركات لقوات الاحتلال الإسرائيلي، شملت إقامة حاجز مؤقت والتوغل في قرية الحرية وتفتيش منازل، إضافة إلى تفجير منزل مهجور",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D9%87%D8%AC%D9%88%D8%B1",
+          "publishedAt": "2026-10-22T16:24:23.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -65,7 +91,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -80,7 +106,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -94,7 +120,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -109,35 +135,7 @@
             "israel",
             "economy"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "How would a Netanyahu election loss change Israel's policies toward the Palestinians?",
-          "excerpt": "<p>By Lina Obeid and Tamar Uriel-Beeri</p><p>JERUSALEM, Oct 22 (Reuters) - Israeli Prime Minister Benjamin Netanyahu and his main opponent Gadi Eisenkot both oppose an independent Palestinian state, meaning next week's election is unlikely ",
-          "link": "https://www.al-monitor.com/originals/2026/10/how-would-netanyahu-election-loss-change-israels-policies-toward-palestinians",
-          "publishedAt": "2026-10-22T10:46:27.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
-          "excerpt": "Civilian with a disability shot dead during raid in Jamla, in western Deraa countryside, SANA reports.",
-          "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
-          "publishedAt": "2026-10-22T10:01:55.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -197,20 +195,6 @@
           "us": false
         },
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "The key issues that will shape Israel's elections",
-          "excerpt": "<p>When Israel goes to the polls this month, voters will weigh in on military conscription, the economy and how the state should investigate its inability to prevent Hamas's October 7, 2023 attack.</p> <p>AFP looks at the key issues shaping",
-          "link": "https://www.al-monitor.com/originals/2026/10/key-issues-will-shape-israels-elections",
-          "publishedAt": "2026-10-22T03:30:21.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
           "source": "Ynet News (English)",
           "sourceId": "ynet-en",
           "circle": "الملف الإسرائيلي",
@@ -237,20 +221,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli report says Syria, Saudi Arabia discuss Yemen deployment",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israel’s i24NEWS reported on Wednesday that Syria and Saudi Arabia are holding advanced consultations and making arrangements to deploy thousands of fighters to participate in the ongoing conflict in Yemen. E",
-          "link": "https://npasyria.com/en/142898/",
-          "publishedAt": "2026-10-21T16:29:28.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -259,24 +229,50 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "Al Jazeera English",
         "North Press Agency (English)",
         "سانا — قسم السياسة",
         "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام الدولي",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 32,
+      "usItems": 0,
+      "score": 29,
       "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
+          "excerpt": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
+          "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
+          "publishedAt": "2026-10-22T16:24:43.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Two Syrian security members Killed in Anti-ISIS raid",
+          "excerpt": "QAMISHLI, Syria (North Press) – Two members of Syria’s Internal Security Forces were killed and five others injured on Thursday during a security operation targeting an Islamic State (ISIS) cell in Rankous, in western&#160; Damascus country",
+          "link": "https://npasyria.com/en/142932/",
+          "publishedAt": "2026-10-22T16:16:21.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -286,7 +282,7 @@
           "link": "https://npasyria.com/en/142925/",
           "publishedAt": "2026-10-22T14:56:07.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -298,7 +294,7 @@
           "link": "https://sana.sy/politics/2614163/",
           "publishedAt": "2026-10-22T12:33:22.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -310,7 +306,7 @@
           "link": "https://npasyria.com/en/142922/",
           "publishedAt": "2026-10-22T10:41:53.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -336,18 +332,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. withdraws diplomats from Saudi Arabia after deadly Houthi attacks",
-          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. State Department on Wednesday ordered some diplomats and family members of U.S. government employees to leave Saudi Arabia amid near-daily attacks by Yemen’s Houthi group, after strikes killed at lea",
-          "link": "https://npasyria.com/en/142905/",
-          "publishedAt": "2026-10-22T06:20:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         },
         {
           "source": "سانا — قسم السياسة",
@@ -380,24 +364,36 @@
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 26,
+      "usItems": 1,
+      "score": 16,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Jordan’s King meets Syrian Foreign Minister in Aqaba",
+          "excerpt": "QAMISHLI, Syria (North Press) – Jordan’s King Abdullah II met Syrian Foreign Minister Asaad al-Shaibani in the Jordanian city of Aqaba on Thursday, reaffirming Amman’s support for Syria’s security, stability, and sovereignty while rejecting",
+          "link": "https://npasyria.com/en/142929/",
+          "publishedAt": "2026-10-22T15:27:57.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -409,7 +405,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -425,159 +421,6 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "باراك: اللقاء مع الرئيس الشرع مثمر وسوريا تلعب دوراً محورياً بتحقيق السلام بالمنطقة",
-          "excerpt": "وصف ‏المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا ‏والعراق توماس باراك لقاءه ‏الرئيس أحمد الشرع في دمشق اليوم الأربعاء بأنه مثمر وبناء، مؤكداً محورية دور سوريا بإرساء ‏الاستقرار بالمنطقة.‏",
-          "link": "https://sana.sy/syria-and-the-world/2613566/",
-          "publishedAt": "2026-10-21T18:57:39.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Barrack discusses Syria, regional stability with al-Sharaa",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Special Presidential Envoy for Syria and Iraq Thomas Barrack said on Wednesday that he held a productive meeting with Syrian President Ahmed al-Sharaa and Foreign Minister Asaad al-Shaibani to discuss jo",
-          "link": "https://npasyria.com/en/142902/",
-          "publishedAt": "2026-10-21T18:36:36.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "مراكز الفكر",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-22 10:24",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Turkey’s Justification for Military Presence in Syria Doesn’t Hold Up",
-          "excerpt": "“We are maintaining our military presence in Iraq and Syria,” Turkish Defense Minister Yasar Guler declared on October 20. Reprising comments he made in February, when he asserted that Turkey “doesn’t... The post Turkey’s Justification for ",
-          "link": "https://www.fdd.org/analysis/turkeys-justification-for-military-presence-in-syria-doesnt-hold-up/",
-          "publishedAt": "2026-10-21T17:31:37.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أردوغان يهنئ الاستخبارات السورية والتركية باعتقال معراج أورال",
-          "excerpt": "هنأ الرئيس التركي رجب طيب أردوغان، الأربعاء، جهازي الاستخبارات التركي والسوري على إلقاء القبض على معراج أورال، المعروف باسم علي كيالي، المتهم بارتكاب..",
-          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D9%87%D9%86%D8%A6-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A8%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%B9%D8%B1%D8%A7%D8%AC-%D8%A3%D9%88%D8%B1%D8%A7%D9%84",
-          "publishedAt": "2026-10-21T16:02:02.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-22 10:24",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية يابانية لتعزيز التعاون السياسي والاقتصادي",
-          "excerpt": "بحثت مديرة إدارة الشؤون الأفروآسيوية وأوقيانوسيا في وزارة الخارجية والمغتربين، الدكتورة ندى ‏أسود، مع القائم بأعمال سفارة اليابان في دمشق شونتارو نيتسو، سبل تعزيز العلاقات السورية ‏اليابانية وتطوير التعاون بين البلدين في المجالات السياسية و",
-          "link": "https://sana.sy/politics/2613713/",
-          "publishedAt": "2026-10-21T19:00:00.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-22 10:24",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الزيدي يزور سوريا الأسبوع المقبل بعد محطة في لبنان",
-          "excerpt": "يتوقع أن تشمل المباحثات أيضا ملفات مرتبطة بالطاقة وتصدير النفط، إلى جانب آليات تطوير التنسيق بين بغداد ودمشق في ظل التحركات العراقية",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D8%A8%D8%B9%D8%AF-%D9%85%D8%AD%D8%B7%D8%A9-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
-          "publishedAt": "2026-10-21T15:57:14.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     }
