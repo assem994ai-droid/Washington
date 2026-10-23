@@ -1,28 +1,110 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-23T10:32:42.550Z",
+    "generatedAt": "2026-10-23T15:25:30.797Z",
     "windowHours": 24,
-    "from": "2026-10-22T10:32:42.550Z",
-    "to": "2026-10-23T10:32:42.550Z"
+    "from": "2026-10-22T15:25:30.797Z",
+    "to": "2026-10-23T15:25:30.797Z"
   },
   "counts": {
-    "total": 20,
+    "total": 21,
     "byCircle": {
+      "المصادر الرسمية السورية": 3,
+      "مراكز الفكر": 1,
       "الإعلام السوري المستقل": 14,
-      "الإعلام المتخصص": 3,
-      "الإعلام الدولي": 1,
-      "المصادر الرسمية السورية": 2
+      "الإعلام المتخصص": 3
     },
     "bySource": {
+      "سانا — قسم السياسة": 3,
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
       "North Press Agency (English)": 7,
-      "The National": 3,
-      "Al Jazeera English": 1,
       "تلفزيون سوريا": 7,
-      "سانا — قسم السياسة": 2
+      "Al-Monitor": 1,
+      "The National": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تدين الهجوم الذي استهدف كنيسة في الكرك الأردنية وتؤكد تضامنها ‏مع المملكة",
+      "excerpt": "أدانت سوريا بأشد العبارات الهجوم الإرهابي الذي استهدف كنيسة ‏مارجاورجيوس بمحافظة الكرك في المملكة الأردنية، وأسفر عن سقوط عدد ‏من الضحايا والمصابين.‏",
+      "link": "https://sana.sy/politics/2615308/",
+      "publishedAt": "2026-10-23T15:18:00.000Z"
+    },
+    {
+      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+      "sourceId": "fdd",
+      "circle": "مراكز الفكر",
+      "title": "Protests break out in Syria against ‘Israeli incursions and attacks’ as tensions rise",
+      "excerpt": "Protests took place in Syria on October 23 as Syrians condemned “Israeli incursions and attacks,” according to Syrian state media. The protests came a day after Syrians claimed an unarmed civilian... The post Protests break out in Syria aga",
+      "link": "https://www.fdd.org/analysis/protests-break-out-in-syria-against-israeli-incursions-and-attacks-as-tensions-rise/",
+      "publishedAt": "2026-10-23T15:09:20.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces advance in Syria’s Quneitra countryside",
+      "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces advanced with three military vehicles west of the village of Saida al-Hanout in the southern countryside of Quneitra on Friday, amid continued Israeli military activity in southern Syria. On Th",
+      "link": "https://npasyria.com/en/142951/",
+      "publishedAt": "2026-10-23T14:52:39.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "European Parliament urges EU to list Houthis as terrorists",
+      "excerpt": "QAMISHLI, Syria (North Press) – The European Parliament has called on the Council of the European Union to designate Yemen’s Houthi movement as a terrorist organization, including its political and military wings, leadership, and military a",
+      "link": "https://npasyria.com/en/142948/",
+      "publishedAt": "2026-10-23T14:41:03.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "يشمل بناء السفن وتحديث الموانئ.. اتفاق سوري تركي لتطوير القوات البحرية",
+      "excerpt": "صيانة سفن وبناء أخرى جديدة وتطوير الموانئ.. اتفاق وخارطة طريق للتعاون البحري بين تركيا وسوريا، فما الذي ستشهده المرحلة المقبلة؟",
+      "link": "https://www.syria.tv/%D9%8A%D8%B4%D9%85%D9%84-%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%86%D8%A6-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B3%D9%88%D8%B1%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9",
+      "publishedAt": "2026-10-23T13:15:22.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل في ريف القنيطرة ويغلق عدداً من الطرق",
+      "excerpt": "وأدى إغلاق الطرق إلى تعذر الحركة عبرها، في وقت تواصل فيه قوات الاحتلال الإسرائيلي تحركاتها وتوغلاتها في مناطق من ريف القنيطرة",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D8%BA%D9%84%D9%82-%D8%B9%D8%AF%D8%AF%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%B1%D9%82",
+      "publishedAt": "2026-10-23T12:57:34.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "وقفات احتجاجية في محافظات سورية رفضا للاعتداءات الإسرائيلية على درعا والقنيطرة",
+      "excerpt": "شهدت مدن وبلدات سورية مظاهرات شعبية ضد انتهاكات الاحتلال الإسرائيلي في الجنوب السوري، تلبية لدعوات أطلقها ناشطون على خلفية تصاعد وتيرة الانتهاكات",
+      "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A7%D8%AA-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%B1%D9%81%D8%B6%D8%A7-%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-23T12:37:12.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Benjamin Netanyahu: Israel's longest-serving PM fighting for survival",
+      "excerpt": "<p>Prime Minister Benjamin Netanyahu, Israel's consummate political survivor, is facing the fight of his life in Tuesday elections, drawing on over three decades of experience to convince voters he is still the only candidate capable of kee",
+      "link": "https://www.al-monitor.com/originals/2026/10/benjamin-netanyahu-israels-longest-serving-pm-fighting-survival",
+      "publishedAt": "2026-10-23T12:30:28.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "بعد زيارة الشيباني إلى الأردن.. هل تتحرك خريطة طريق السويداء؟",
+      "excerpt": "أزمة السويداء والتوغلات الإسرائيلية تتصدران النقاش بشأن نتائج زيارة الشيباني إلى الأردن ومستقبل التنسيق الثنائي بين البلدين",
+      "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%87%D9%84-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1%D8%9F",
+      "publishedAt": "2026-10-23T11:00:32.000Z"
+    },
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
@@ -49,15 +131,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – The United Nations has condemned the killing of a Syrian civilian during an Israeli military incursion into Jamla village in western Daraa governorate, calling on Israel to respect Syria’s sovereignty, territ",
       "link": "https://npasyria.com/en/142942/",
       "publishedAt": "2026-10-23T09:33:43.000Z"
-    },
-    {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Israeli forces accused of killing disabled man in Syria raid",
-      "excerpt": "Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
-      "publishedAt": "2026-10-23T08:35:44.000Z"
     },
     {
       "source": "تلفزيون سوريا",
@@ -139,69 +212,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – Jordan’s King Abdullah II met Syrian Foreign Minister Asaad al-Shaibani in the Jordanian city of Aqaba on Thursday, reaffirming Amman’s support for Syria’s security, stability, and sovereignty while rejecting",
       "link": "https://npasyria.com/en/142929/",
       "publishedAt": "2026-10-22T15:27:57.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Jordan, Syria stress need for strategic partnership",
-      "excerpt": "QAMISHLI, Syria (North Press) – Jordan and Syria have reaffirmed the need to develop a strategic partnership across various sectors, according to a joint statement issued following talks between the two countries’ foreign ministers in Damas",
-      "link": "https://npasyria.com/en/142925/",
-      "publishedAt": "2026-10-22T14:56:07.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "جملة تشيّع معاذ البعير بعد مقتله خلال توغل الاحتلال الإسرائيلي في ريف درعا",
-      "excerpt": "كانت قوة إسرائيلية مؤلفة من نحو 15 آلية عسكرية قد توغلت في قرية جملة بعد منتصف الليل، قادمة عبر بوابة أبو الغيثار وباتجاه طريق وادي الرقاد",
-      "link": "https://www.syria.tv/%D8%AC%D9%85%D9%84%D8%A9-%D8%AA%D8%B4%D9%8A%D9%91%D8%B9-%D9%85%D8%B9%D8%A7%D8%B0-%D8%A7%D9%84%D8%A8%D8%B9%D9%8A%D8%B1-%D8%A8%D8%B9%D8%AF-%D9%85%D9%82%D8%AA%D9%84%D9%87-%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D8%BA%D9%84-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-      "publishedAt": "2026-10-22T14:55:42.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الشيباني: ماضون في خارطة طريق السويداء ونرفض الاعتداءات الإسرائيلية",
-      "excerpt": "الشيباني يؤكد المضي في خارطة طريق السويداء، ويرفض الاعتداءات الإسرائيلية على الجنوب السوري خلال زيارته الأردن",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%85%D8%A7%D8%B6%D9%88%D9%86-%D9%81%D9%8A-%D8%AE%D8%A7%D8%B1%D8%B7%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D9%86%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
-      "publishedAt": "2026-10-22T14:52:29.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الخارجية السورية تدين مقتل شاب من ذوي الإعاقة برصاص الاحتلال في درعا",
-      "excerpt": "دانت الخارجية السورية استشهاد شاب من ذوي الإعاقة برصاص قوات الاحتلال الإسرائيلي في ريف درعا، وطالبت المجتمع الدولي بوقف الاعتداءات المتكررة.",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-      "publishedAt": "2026-10-22T14:50:57.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Syria sends troops to Sweida front line as Israel moves hardware into area",
-      "excerpt": "Syria has deployed troops to reinforce the southern province of Sweida amid Israeli military activity that could be aimed at setting up a base in the area, security sources said. The troops have been sent to a front line in Sweida near wher",
-      "link": "https://www.thenationalnews.com/news/mena/2026/10/22/syria-druze-israel/",
-      "publishedAt": "2026-10-22T14:26:00.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "محافظة القنيطرة تغلق عددا من خطوط نقل الركاب مؤقتا",
-      "excerpt": "قررت لجنة نقل الركاب المشترك في محافظة القنيطرة إغلاق عدد من خطوط السير مؤقتاً، بموجب القرار رقم 4 الصادر في 18 تشرين الأول 2026.",
-      "link": "https://www.syria.tv/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%BA%D9%84%D9%82-%D8%B9%D8%AF%D8%AF%D8%A7-%D9%85%D9%86-%D8%AE%D8%B7%D9%88%D8%B7-%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%B1%D9%83%D8%A7%D8%A8-%D9%85%D8%A4%D9%82%D8%AA%D8%A7",
-      "publishedAt": "2026-10-22T11:30:07.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syrian court rules on 4 transitional justice cases",
-      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Fourth Criminal Court issued rulings in four cases involving serious violations committed under the former regime and is examining around 61 additional cases, its presiding judge, Fakhr al-Din al-Arya",
-      "link": "https://npasyria.com/en/142922/",
-      "publishedAt": "2026-10-22T10:41:53.000Z"
     }
   ]
 }
