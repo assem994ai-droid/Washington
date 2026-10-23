@@ -1,27 +1,45 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-22T22:33:58.705Z",
+    "generatedAt": "2026-10-23T05:40:28.537Z",
     "windowHours": 24,
-    "from": "2026-10-21T22:33:58.705Z",
-    "to": "2026-10-22T22:33:58.705Z"
+    "from": "2026-10-22T05:40:28.537Z",
+    "to": "2026-10-23T05:40:28.537Z"
   },
   "counts": {
-    "total": 22,
+    "total": 23,
     "byCircle": {
-      "المصادر الرسمية السورية": 3,
-      "الإعلام المتخصص": 3,
-      "الإعلام السوري المستقل": 16
+      "الإعلام السوري المستقل": 16,
+      "الإعلام المتخصص": 4,
+      "المصادر الرسمية السورية": 3
     },
     "bySource": {
+      "تلفزيون سوريا": 9,
+      "The National": 3,
       "سانا — قسم السياسة": 3,
       "Middle East Eye": 1,
-      "North Press Agency (English)": 7,
-      "تلفزيون سوريا": 9,
-      "The National": 2
+      "North Press Agency (English)": 7
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "كوردوني يطالب الاحتلال باحترام سيادة سوريا عقب قتلها شابا مدنيا في درعا",
+      "excerpt": "طالب نائب المبعوث الخاص للأمم المتحدة إلى سوريا كلاوديو كوردوني، الاحتلال الإسرائيلي احترام سيادة سوريا، عقب توغل قواتها بريف درعا وقتلها شاب",
+      "link": "https://www.syria.tv/%D9%83%D9%88%D8%B1%D8%AF%D9%88%D9%86%D9%8A-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B9%D9%82%D8%A8-%D9%82%D8%AA%D9%84%D9%87%D8%A7-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-10-23T03:31:40.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Israel's elections: What would a new government change?",
+      "excerpt": "Israelis will vote on Tuesday in the first national election since the October 7, 2023, Hamas-led attack and subsequent war on Gaza. Prime Minister Benjamin Netanyahu’s Likud party could win, but polls are showing that opposition candidates",
+      "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/10/23/israeli-elections-what-would-a-new-government-change/",
+      "publishedAt": "2026-10-23T02:00:00.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -210,15 +228,6 @@
       "excerpt": "قال مراسل تلفزيون سوريا إن القوة الإسرائيلية دخلت القرية بأكثر من 50 عنصرا، ترافقهم عدة عربات عسكرية، في توغل جديد لقوات الاحتلال داخل الأراضي السورية",
       "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
       "publishedAt": "2026-10-22T06:47:49.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "مقتل شاب من ذوي الاحتياجات الخاصة برصاص الاحتلال في ريف درعا",
-      "excerpt": "قُتل شاب من ذوي الاحتياجات الخاصة، فجر الخميس، برصاص قوات الاحتلال الإسرائيلي خلال توغلها في قرية جملة بريف درعا الغربي، جنوبي سوريا.",
-      "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-      "publishedAt": "2026-10-22T01:47:09.000Z"
     }
   ]
 }

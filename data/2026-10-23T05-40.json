@@ -1,0 +1,233 @@
+{
+  "cycle": {
+    "generatedAt": "2026-10-23T05:40:28.537Z",
+    "windowHours": 24,
+    "from": "2026-10-22T05:40:28.537Z",
+    "to": "2026-10-23T05:40:28.537Z"
+  },
+  "counts": {
+    "total": 23,
+    "byCircle": {
+      "الإعلام السوري المستقل": 16,
+      "الإعلام المتخصص": 4,
+      "المصادر الرسمية السورية": 3
+    },
+    "bySource": {
+      "تلفزيون سوريا": 9,
+      "The National": 3,
+      "سانا — قسم السياسة": 3,
+      "Middle East Eye": 1,
+      "North Press Agency (English)": 7
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "كوردوني يطالب الاحتلال باحترام سيادة سوريا عقب قتلها شابا مدنيا في درعا",
+      "excerpt": "طالب نائب المبعوث الخاص للأمم المتحدة إلى سوريا كلاوديو كوردوني، الاحتلال الإسرائيلي احترام سيادة سوريا، عقب توغل قواتها بريف درعا وقتلها شاب",
+      "link": "https://www.syria.tv/%D9%83%D9%88%D8%B1%D8%AF%D9%88%D9%86%D9%8A-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B9%D9%82%D8%A8-%D9%82%D8%AA%D9%84%D9%87%D8%A7-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-10-23T03:31:40.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Israel's elections: What would a new government change?",
+      "excerpt": "Israelis will vote on Tuesday in the first national election since the October 7, 2023, Hamas-led attack and subsequent war on Gaza. Prime Minister Benjamin Netanyahu’s Likud party could win, but polls are showing that opposition candidates",
+      "link": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/10/23/israeli-elections-what-would-a-new-government-change/",
+      "publishedAt": "2026-10-23T02:00:00.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "كوردوني يستنكر قتل إسرائيل شاباً بريف درعا ويطالبها باحترام سيادة سوريا",
+      "excerpt": "استنكر نائب المبعوث الخاص للأمين العام للأمم المتحدة إلى سوريا كلاوديو ‏كوردوني، اليوم الخميس، إقدام قوات الاحتلال الإسرائيلي على قتل شاب سوري من ‏ذوي الهمم في بلدة جملة بمحافظة درعا، مطالباً إسرائيل باحترام سيادة سوريا والقانون ‏الدولي.",
+      "link": "https://sana.sy/politics/2614738/",
+      "publishedAt": "2026-10-22T20:47:00.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli forces kill man with disability in southern Syria, authorities say",
+      "excerpt": "<article data-history-node-id=\"449799\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-man-disability-southern-syria-authorities-say\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.m",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-man-disability-southern-syria-authorities-say",
+      "publishedAt": "2026-10-22T20:29:31.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria condemns Israeli killing of man with disabilities in Daraa",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Foreign Ministry on Thursday condemned the killing of a young man with disabilities by Israeli forces during a military incursion into Jamla village in western Daraa governorate, holding Israeli force",
+      "link": "https://npasyria.com/en/142936/",
+      "publishedAt": "2026-10-22T16:35:14.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "وفد الداخلية يبحث في فيينا مع وفدي روسيا وإندونيسيا سبل مكافحة الجريمة المنظمة",
+      "excerpt": "بحث وفد سوريا برئاسة مدير إدارة التعاون الدولي في وزارة الداخلية العميد عبد الرحيم جبارة، المشارك بأعمال الدورة الـ 13 لمؤتمر الدول الأطراف ‏في اتفاقية الأمم المتحدة لمكافحة الجريمة المنظمة عبر ‏الوطنية المنعقد في فيينا، مع وفدي روسيا الاتح",
+      "link": "https://sana.sy/politics/2614519/",
+      "publishedAt": "2026-10-22T16:25:00.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يتوغل في ريف القنيطرة.. عمليات تفتيش وتفجير منزل مهجور",
+      "excerpt": "شهدت مناطق عدة في ريف القنيطرة، الخميس، تحركات لقوات الاحتلال الإسرائيلي، شملت إقامة حاجز مؤقت والتوغل في قرية الحرية وتفتيش منازل، إضافة إلى تفجير منزل مهجور",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D9%87%D8%AC%D9%88%D8%B1",
+      "publishedAt": "2026-10-22T16:24:23.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Two Syrian security members Killed in Anti-ISIS raid",
+      "excerpt": "QAMISHLI, Syria (North Press) – Two members of Syria’s Internal Security Forces were killed and five others injured on Thursday during a security operation targeting an Islamic State (ISIS) cell in Rankous, in western&#160; Damascus country",
+      "link": "https://npasyria.com/en/142932/",
+      "publishedAt": "2026-10-22T16:16:21.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Jordan’s King meets Syrian Foreign Minister in Aqaba",
+      "excerpt": "QAMISHLI, Syria (North Press) – Jordan’s King Abdullah II met Syrian Foreign Minister Asaad al-Shaibani in the Jordanian city of Aqaba on Thursday, reaffirming Amman’s support for Syria’s security, stability, and sovereignty while rejecting",
+      "link": "https://npasyria.com/en/142929/",
+      "publishedAt": "2026-10-22T15:27:57.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Jordan, Syria stress need for strategic partnership",
+      "excerpt": "QAMISHLI, Syria (North Press) – Jordan and Syria have reaffirmed the need to develop a strategic partnership across various sectors, according to a joint statement issued following talks between the two countries’ foreign ministers in Damas",
+      "link": "https://npasyria.com/en/142925/",
+      "publishedAt": "2026-10-22T14:56:07.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "جملة تشيّع معاذ البعير بعد مقتله خلال توغل الاحتلال الإسرائيلي في ريف درعا",
+      "excerpt": "كانت قوة إسرائيلية مؤلفة من نحو 15 آلية عسكرية قد توغلت في قرية جملة بعد منتصف الليل، قادمة عبر بوابة أبو الغيثار وباتجاه طريق وادي الرقاد",
+      "link": "https://www.syria.tv/%D8%AC%D9%85%D9%84%D8%A9-%D8%AA%D8%B4%D9%8A%D9%91%D8%B9-%D9%85%D8%B9%D8%A7%D8%B0-%D8%A7%D9%84%D8%A8%D8%B9%D9%8A%D8%B1-%D8%A8%D8%B9%D8%AF-%D9%85%D9%82%D8%AA%D9%84%D9%87-%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D8%BA%D9%84-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-10-22T14:55:42.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الشيباني: ماضون في خارطة طريق السويداء ونرفض الاعتداءات الإسرائيلية",
+      "excerpt": "الشيباني يؤكد المضي في خارطة طريق السويداء، ويرفض الاعتداءات الإسرائيلية على الجنوب السوري خلال زيارته الأردن",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%85%D8%A7%D8%B6%D9%88%D9%86-%D9%81%D9%8A-%D8%AE%D8%A7%D8%B1%D8%B7%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D9%86%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9",
+      "publishedAt": "2026-10-22T14:52:29.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الخارجية السورية تدين مقتل شاب من ذوي الإعاقة برصاص الاحتلال في درعا",
+      "excerpt": "دانت الخارجية السورية استشهاد شاب من ذوي الإعاقة برصاص قوات الاحتلال الإسرائيلي في ريف درعا، وطالبت المجتمع الدولي بوقف الاعتداءات المتكررة.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%85%D9%86-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-10-22T14:50:57.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Syria sends troops to Sweida front line as Israel moves hardware into area",
+      "excerpt": "Syria has deployed troops to reinforce the southern province of Sweida amid Israeli military activity that could be aimed at setting up a base in the area, security sources said. The troops have been sent to a front line in Sweida near wher",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/22/syria-druze-israel/",
+      "publishedAt": "2026-10-22T14:26:00.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا والأردن يؤكدان عمق علاقاتهما وسعيهما لتطويرها شراكة ‏استراتيجية",
+      "excerpt": "أجرى وزير الخارجية والمغتربين أسعد حسن الشيباني، اليوم الخميس، مباحثات مع نائب رئيس الوزراء وزير الخارجية وشؤون المغتربين في المملكة الأردنية الشقيقة أيمن الصفدي، في مدينة العقبة، ‏ركزت على سبل تعزيز العلاقات بين البلدين الشقيقين.",
+      "link": "https://sana.sy/politics/2614163/",
+      "publishedAt": "2026-10-22T12:33:22.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "محافظة القنيطرة تغلق عددا من خطوط نقل الركاب مؤقتا",
+      "excerpt": "قررت لجنة نقل الركاب المشترك في محافظة القنيطرة إغلاق عدد من خطوط السير مؤقتاً، بموجب القرار رقم 4 الصادر في 18 تشرين الأول 2026.",
+      "link": "https://www.syria.tv/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%BA%D9%84%D9%82-%D8%B9%D8%AF%D8%AF%D8%A7-%D9%85%D9%86-%D8%AE%D8%B7%D9%88%D8%B7-%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%B1%D9%83%D8%A7%D8%A8-%D9%85%D8%A4%D9%82%D8%AA%D8%A7",
+      "publishedAt": "2026-10-22T11:30:07.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syrian court rules on 4 transitional justice cases",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Fourth Criminal Court issued rulings in four cases involving serious violations committed under the former regime and is examining around 61 additional cases, its presiding judge, Fakhr al-Din al-Arya",
+      "link": "https://npasyria.com/en/142922/",
+      "publishedAt": "2026-10-22T10:41:53.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syrian security forces target ISIS cell in Damascus countryside",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syrian Internal Security Forces said on Thursday they had carried out an operation targeting a cell affiliated with the Islamic State (ISIS) in Rankos town in Rif Dimashq Governorate, southern Syria, in coope",
+      "link": "https://npasyria.com/en/142919/",
+      "publishedAt": "2026-10-22T09:10:54.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مشاريع جديدة لدعم التعافي وإعادة تأهيل أحياء حلب القديمة",
+      "excerpt": "عقدت محافظة حلب، بالتعاون مع برنامج الأمم المتحدة الإنمائي في سوريا (UNDP)، ورشة عمل لمراجعة مخرجات خطة التعافي في أحياء حلب القديمة وتحديثها، بمشاركة ممثلين",
+      "link": "https://www.syria.tv/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D9%88%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9",
+      "publishedAt": "2026-10-22T08:41:58.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يخطف شابا من القنيطرة ويمنع \"الأندوف\"من العبور",
+      "excerpt": "اختطفت قوات الاحتلال الإسرائيلي شابا من ريف القنيطرة ومنعت دورية من قوة الأمم المتحدة لفض الاشتباك (أندوف) من العبور",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AE%D8%B7%D9%81-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%A8%D9%88%D8%B1",
+      "publishedAt": "2026-10-22T08:37:06.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli forces kill disabled Syrian in raid on homes in Deraa",
+      "excerpt": "Israeli forces shot dead a civilian with disabilities during raids on homes in Syria's southern governorate of Deraa, state news agency Sana reported on Thursday.Troops fired indiscriminately and snipers were positioned on roofs as the Isra",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/22/israeli-forces-kill-disabled-syrian-in-raid-on-homes-in-deraa/",
+      "publishedAt": "2026-10-22T08:25:32.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces kill man with Down syndrome in Syria’s Daraa",
+      "excerpt": "DARAA, Syria (North Press) – Israeli forces killed a 30-year-old man with Down syndrome during a raid on Jamlah village in the northwestern countryside of Daraa, southern Syria, after shooting him and leaving him wounded for hours without m",
+      "link": "https://npasyria.com/en/142916/",
+      "publishedAt": "2026-10-22T07:32:14.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "توغل جديد للاحتلال الإسرائيلي في قرية طرنجة بريف القنيطرة",
+      "excerpt": "قال مراسل تلفزيون سوريا إن القوة الإسرائيلية دخلت القرية بأكثر من 50 عنصرا، ترافقهم عدة عربات عسكرية، في توغل جديد لقوات الاحتلال داخل الأراضي السورية",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B7%D8%B1%D9%86%D8%AC%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-22T06:47:49.000Z"
+    }
+  ]
+}
