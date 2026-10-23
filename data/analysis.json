@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-23T15:25:30.797Z",
+    "generatedAt": "2026-10-23T19:25:25.954Z",
     "windowHours": 24,
-    "from": "2026-10-22T15:25:30.797Z",
-    "to": "2026-10-23T15:25:30.797Z"
+    "from": "2026-10-22T19:25:25.954Z",
+    "to": "2026-10-23T19:25:25.954Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 22,
     "files": 4,
-    "withNew": 4,
-    "stale": 0,
+    "withNew": 2,
+    "stale": 2,
     "contested": 0,
-    "echoed": 0,
+    "echoed": 1,
     "americanItems": 0,
-    "archiveCycles": 1281
+    "archiveCycles": 1282
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,31 +31,115 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
       "contested": false,
       "independentSources": 6,
       "sources": [
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "North Press Agency (English)",
         "تلفزيون سوريا",
+        "North Press Agency (English)",
         "Al-Monitor",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "The National",
         "سانا — قسم السياسة"
       ],
       "circles": [
-        "مراكز الفكر",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
+        "مراكز الفكر",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 5,
+      "newItems": 6,
       "stale": false,
-      "echoed": false,
+      "echoed": true,
       "usItems": 0,
-      "score": 52,
+      "score": 59,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وزير العدل: سوريا ستظل واحدة موحدة والمظاهرات رسالة بوجه التوغل الإسرائيلي",
+          "excerpt": "أكد وزير العدل مظهر الويس أن المظاهرات الحاشدة اليوم تمثل رداً شعبياً وقانونياً يستنكر التوغل والاعتداءات الإسرائيلية في درعا والقنيطرة",
+          "link": "https://www.syria.tv/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B3%D8%AA%D8%B8%D9%84-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A8%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
+          "publishedAt": "2026-10-23T19:21:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال الإسرائيلي تختطف راعي أغنام من أبناء بلدة حضر بريف القنيطرة",
+          "excerpt": "اختطفت قوات الاحتلال الإسرائيلي، الجمعة، شاباً من أبناء بلدة حضر في ريف القنيطرة الشمالي، أثناء رعيه الأغنام في منطقة سحيتا، بحسب ما أفاد مراسل تلفزيون سوريا.",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AE%D8%AA%D8%B7%D9%81-%D8%B1%D8%A7%D8%B9%D9%8A-%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D9%85%D9%86-%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%A8%D9%84%D8%AF%D8%A9-%D8%AD%D8%B6%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-23T19:06:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قصف مدفعي للاحتلال الإسرائيلي يستهدف مناطق في ريف القنيطرة الشمالي والأوسط",
+          "excerpt": "استهدفت قوات الاحتلال الإسرائيلي، الجمعة، مناطق في ريف القنيطرة الشمالي والأوسط، بقذائف المدفعية، وفقاً لما أفاد به مركز \"سجل\".",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+          "publishedAt": "2026-10-23T16:46:21.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Protests in Raqqa against Israeli incursions in Southern Syria",
+          "excerpt": "The post Protests in Raqqa against Israeli incursions in Southern Syria appeared first on North press agency.",
+          "link": "https://npasyria.com/en/142964/",
+          "publishedAt": "2026-10-23T15:39:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Protests in Syria’s Daraa against Israeli incursions",
+          "excerpt": "The post Protests in Syria’s Daraa against Israeli incursions appeared first on North press agency.",
+          "link": "https://npasyria.com/en/142954/",
+          "publishedAt": "2026-10-23T15:32:31.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Hundreds of Syrians protest repeated Israeli incursions",
+          "excerpt": "<p>Hundreds rallied across Syria on Friday condemning Israeli incursions in the country's south including one this week that killed a man with a disability, AFP correspondents and&nbsp;state&nbsp;media reported.</p> <p>The Israeli military ",
+          "link": "https://www.al-monitor.com/originals/2026/10/hundreds-syrians-protest-repeated-israeli-incursions",
+          "publishedAt": "2026-10-23T15:30:27.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
           "sourceId": "fdd",
@@ -67,7 +151,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -81,7 +165,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -95,7 +179,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -109,21 +193,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Benjamin Netanyahu: Israel's longest-serving PM fighting for survival",
-          "excerpt": "<p>Prime Minister Benjamin Netanyahu, Israel's consummate political survivor, is facing the fight of his life in Tuesday elections, drawing on over three decades of experience to convince voters he is still the only candidate capable of kee",
-          "link": "https://www.al-monitor.com/originals/2026/10/benjamin-netanyahu-israels-longest-serving-pm-fighting-survival",
-          "publishedAt": "2026-10-23T12:30:28.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -167,34 +237,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria condemns Israeli killing of man with disabilities in Daraa",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Foreign Ministry on Thursday condemned the killing of a young man with disabilities by Israeli forces during a military incursion into Jamla village in western Daraa governorate, holding Israeli force",
-          "link": "https://npasyria.com/en/142936/",
-          "publishedAt": "2026-10-22T16:35:14.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يتوغل في ريف القنيطرة.. عمليات تفتيش وتفجير منزل مهجور",
-          "excerpt": "شهدت مناطق عدة في ريف القنيطرة، الخميس، تحركات لقوات الاحتلال الإسرائيلي، شملت إقامة حاجز مؤقت والتوغل في قرية الحرية وتفتيش منازل، إضافة إلى تفجير منزل مهجور",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%88%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D9%87%D8%AC%D9%88%D8%B1",
-          "publishedAt": "2026-10-22T16:24:23.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -215,14 +257,26 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 22,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي: سوريا تدعو لدعم دولي لإنهاء التهجير الداخلي وإغلاق المخيمات",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن الحكومة السورية تعطي الأولوية لقضية المهجّرين داخلياً، مشيراً إلى أن عدداً كبيراً من مسؤولي الحكومة هم أنفسهم مهجّرون داخلياً، ويدركون تماماً معاناة التهجير وآلامه.",
+          "link": "https://sana.sy/politics/2615478/",
+          "publishedAt": "2026-10-23T19:24:25.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -232,7 +286,7 @@
           "link": "https://sana.sy/politics/2615308/",
           "publishedAt": "2026-10-23T15:18:00.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -244,7 +298,7 @@
           "link": "https://npasyria.com/en/142948/",
           "publishedAt": "2026-10-23T14:41:03.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -282,30 +336,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "وفد الداخلية يبحث في فيينا مع وفدي روسيا وإندونيسيا سبل مكافحة الجريمة المنظمة",
-          "excerpt": "بحث وفد سوريا برئاسة مدير إدارة التعاون الدولي في وزارة الداخلية العميد عبد الرحيم جبارة، المشارك بأعمال الدورة الـ 13 لمؤتمر الدول الأطراف ‏في اتفاقية الأمم المتحدة لمكافحة الجريمة المنظمة عبر ‏الوطنية المنعقد في فيينا، مع وفدي روسيا الاتح",
-          "link": "https://sana.sy/politics/2614519/",
-          "publishedAt": "2026-10-22T16:25:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Two Syrian security members Killed in Anti-ISIS raid",
-          "excerpt": "QAMISHLI, Syria (North Press) – Two members of Syria’s Internal Security Forces were killed and five others injured on Thursday during a security operation targeting an Islamic State (ISIS) cell in Rankous, in western&#160; Damascus country",
-          "link": "https://npasyria.com/en/142932/",
-          "publishedAt": "2026-10-22T16:16:21.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -321,13 +351,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-23 15:25",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 13,
+      "score": 4,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -340,7 +370,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -363,23 +393,22 @@
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-23 15:25",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": -1,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -389,20 +418,6 @@
           "excerpt": "أزمة السويداء والتوغلات الإسرائيلية تتصدران النقاش بشأن نتائج زيارة الشيباني إلى الأردن ومستقبل التنسيق الثنائي بين البلدين",
           "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%87%D9%84-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1%D8%9F",
           "publishedAt": "2026-10-23T11:00:32.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Jordan’s King meets Syrian Foreign Minister in Aqaba",
-          "excerpt": "QAMISHLI, Syria (North Press) – Jordan’s King Abdullah II met Syrian Foreign Minister Asaad al-Shaibani in the Jordanian city of Aqaba on Thursday, reaffirming Amman’s support for Syria’s security, stability, and sovereignty while rejecting",
-          "link": "https://npasyria.com/en/142929/",
-          "publishedAt": "2026-10-22T15:27:57.000Z",
           "files": [
             "diplomacy"
           ],
