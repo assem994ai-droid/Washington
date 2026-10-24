@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-24T09:43:50.471Z",
+    "generatedAt": "2026-10-24T13:37:58.498Z",
     "windowHours": 24,
-    "from": "2026-10-23T09:43:50.471Z",
-    "to": "2026-10-24T09:43:50.471Z"
+    "from": "2026-10-23T13:37:58.498Z",
+    "to": "2026-10-24T13:37:58.498Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
-    "files": 5,
+    "items": 24,
+    "files": 3,
     "withNew": 2,
-    "stale": 3,
+    "stale": 1,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 4,
-    "archiveCycles": 1285
+    "americanItems": 5,
+    "archiveCycles": 1286
   },
   "emptyCircles": [
     "الكونغرس",
@@ -53,8 +53,22 @@
       "stale": false,
       "echoed": true,
       "usItems": 1,
-      "score": 41,
+      "score": 40,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Amnesty accuses Israel of unlawful attacks and destruction in Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – Amnesty International on Friday accused Israel of carrying out unlawful destruction of civilian property and continuing deadly military attacks in Syria, urging governments to pressure Israel to comply with i",
+          "link": "https://npasyria.com/en/142997/",
+          "publishedAt": "2026-10-24T12:44:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -66,7 +80,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -236,34 +250,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل في ريف القنيطرة ويغلق عدداً من الطرق",
-          "excerpt": "وأدى إغلاق الطرق إلى تعذر الحركة عبرها، في وقت تواصل فيه قوات الاحتلال الإسرائيلي تحركاتها وتوغلاتها في مناطق من ريف القنيطرة",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D8%BA%D9%84%D9%82-%D8%B9%D8%AF%D8%AF%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%B1%D9%82",
-          "publishedAt": "2026-10-23T12:57:34.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "وقفات احتجاجية في محافظات سورية رفضا للاعتداءات الإسرائيلية على درعا والقنيطرة",
-          "excerpt": "شهدت مدن وبلدات سورية مظاهرات شعبية ضد انتهاكات الاحتلال الإسرائيلي في الجنوب السوري، تلبية لدعوات أطلقها ناشطون على خلفية تصاعد وتيرة الانتهاكات",
-          "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A7%D8%AA-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%B1%D9%81%D8%B6%D8%A7-%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-23T12:37:12.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -274,24 +260,36 @@
       "contested": false,
       "independentSources": 4,
       "sources": [
+        "North Press Agency (English)",
         "سانا — قسم السياسة",
         "The National",
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
+        "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 39,
+      "usItems": 4,
+      "score": 37,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. intel warns of advanced Iranian plots against officials abroad",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. intelligence warned that Iran has substantially increased efforts to target American diplomats and officials in the Middle East and beyond, with some alleged assassination plots reaching advanced stages,",
+          "link": "https://npasyria.com/en/142994/",
+          "publishedAt": "2026-10-24T12:08:10.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -301,7 +299,7 @@
           "link": "https://sana.sy/politics/2615700/",
           "publishedAt": "2026-10-24T08:23:05.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -313,7 +311,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/10/24/us-issues-travel-advisories-for-13-middle-east-countries-after-houthi-attacks/",
           "publishedAt": "2026-10-24T06:54:41.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -387,66 +385,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria discusses organized crime cooperation with Russia, Indonesia",
-          "excerpt": "QAMISHLI, Syria (North Press) – A delegation from Syria’s Ministry of Interior discussed mechanisms for implementing the United Nations Convention against Transnational Organized Crime and its supplementary protocols with representatives fr",
-          "link": "https://npasyria.com/en/142945/",
-          "publishedAt": "2026-10-23T09:52:03.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Global Hamas fundraising network shut down after 'Gaza aid diverted'",
-          "excerpt": "A global network that raised funds for Hamas by allegedly diverting financial donations intended as humanitarian aid for Gaza has been closed down by a series of arrests.The fund-raising operation for the militant group was controlled by Sa",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/23/global-hamas-fundraising-network-shut-down-after-gaza-aid-diverted/",
-          "publishedAt": "2026-10-23T09:50:01.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 05:28",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "يشمل بناء السفن وتحديث الموانئ.. اتفاق سوري تركي لتطوير القوات البحرية",
-          "excerpt": "صيانة سفن وبناء أخرى جديدة وتطوير الموانئ.. اتفاق وخارطة طريق للتعاون البحري بين تركيا وسوريا، فما الذي ستشهده المرحلة المقبلة؟",
-          "link": "https://www.syria.tv/%D9%8A%D8%B4%D9%85%D9%84-%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%86%D8%A6-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B3%D9%88%D8%B1%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-10-23T13:15:22.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -462,7 +400,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 05:28",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 09:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -480,42 +418,6 @@
           "publishedAt": "2026-10-24T04:06:33.000Z",
           "files": [
             "lebanon"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 05:28",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد زيارة الشيباني إلى الأردن.. هل تتحرك خريطة طريق السويداء؟",
-          "excerpt": "أزمة السويداء والتوغلات الإسرائيلية تتصدران النقاش بشأن نتائج زيارة الشيباني إلى الأردن ومستقبل التنسيق الثنائي بين البلدين",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%87%D9%84-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1%D8%9F",
-          "publishedAt": "2026-10-23T11:00:32.000Z",
-          "files": [
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false

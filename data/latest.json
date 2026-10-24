@@ -1,29 +1,47 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-24T09:43:50.471Z",
+    "generatedAt": "2026-10-24T13:37:58.498Z",
     "windowHours": 24,
-    "from": "2026-10-23T09:43:50.471Z",
-    "to": "2026-10-24T09:43:50.471Z"
+    "from": "2026-10-23T13:37:58.498Z",
+    "to": "2026-10-24T13:37:58.498Z"
   },
   "counts": {
-    "total": 28,
+    "total": 24,
     "byCircle": {
+      "الإعلام السوري المستقل": 16,
       "المصادر الرسمية السورية": 5,
-      "الإعلام السوري المستقل": 19,
-      "الإعلام المتخصص": 3,
+      "الإعلام المتخصص": 2,
       "مراكز الفكر": 1
     },
     "bySource": {
+      "North Press Agency (English)": 7,
       "سانا — قسم السياسة": 5,
-      "North Press Agency (English)": 6,
-      "The National": 2,
-      "تلفزيون سوريا": 13,
+      "The National": 1,
+      "تلفزيون سوريا": 9,
       "Middle East Eye": 1,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Amnesty accuses Israel of unlawful attacks and destruction in Syria",
+      "excerpt": "QAMISHLI, Syria (North Press) – Amnesty International on Friday accused Israel of carrying out unlawful destruction of civilian property and continuing deadly military attacks in Syria, urging governments to pressure Israel to comply with i",
+      "link": "https://npasyria.com/en/142997/",
+      "publishedAt": "2026-10-24T12:44:40.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. intel warns of advanced Iranian plots against officials abroad",
+      "excerpt": "QAMISHLI, Syria (North Press) – U.S. intelligence warned that Iran has substantially increased efforts to target American diplomats and officials in the Middle East and beyond, with some alleged assassination plots reaching advanced stages,",
+      "link": "https://npasyria.com/en/142994/",
+      "publishedAt": "2026-10-24T12:08:10.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -221,60 +239,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – The European Parliament has called on the Council of the European Union to designate Yemen’s Houthi movement as a terrorist organization, including its political and military wings, leadership, and military a",
       "link": "https://npasyria.com/en/142948/",
       "publishedAt": "2026-10-23T14:41:03.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "يشمل بناء السفن وتحديث الموانئ.. اتفاق سوري تركي لتطوير القوات البحرية",
-      "excerpt": "صيانة سفن وبناء أخرى جديدة وتطوير الموانئ.. اتفاق وخارطة طريق للتعاون البحري بين تركيا وسوريا، فما الذي ستشهده المرحلة المقبلة؟",
-      "link": "https://www.syria.tv/%D9%8A%D8%B4%D9%85%D9%84-%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%81%D9%86-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%86%D8%A6-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B3%D9%88%D8%B1%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9",
-      "publishedAt": "2026-10-23T13:15:22.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال الإسرائيلي يتوغل في ريف القنيطرة ويغلق عدداً من الطرق",
-      "excerpt": "وأدى إغلاق الطرق إلى تعذر الحركة عبرها، في وقت تواصل فيه قوات الاحتلال الإسرائيلي تحركاتها وتوغلاتها في مناطق من ريف القنيطرة",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D8%BA%D9%84%D9%82-%D8%B9%D8%AF%D8%AF%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%B1%D9%82",
-      "publishedAt": "2026-10-23T12:57:34.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "وقفات احتجاجية في محافظات سورية رفضا للاعتداءات الإسرائيلية على درعا والقنيطرة",
-      "excerpt": "شهدت مدن وبلدات سورية مظاهرات شعبية ضد انتهاكات الاحتلال الإسرائيلي في الجنوب السوري، تلبية لدعوات أطلقها ناشطون على خلفية تصاعد وتيرة الانتهاكات",
-      "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A7%D8%AA-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%B1%D9%81%D8%B6%D8%A7-%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-      "publishedAt": "2026-10-23T12:37:12.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "بعد زيارة الشيباني إلى الأردن.. هل تتحرك خريطة طريق السويداء؟",
-      "excerpt": "أزمة السويداء والتوغلات الإسرائيلية تتصدران النقاش بشأن نتائج زيارة الشيباني إلى الأردن ومستقبل التنسيق الثنائي بين البلدين",
-      "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%87%D9%84-%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1%D8%9F",
-      "publishedAt": "2026-10-23T11:00:32.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syria discusses organized crime cooperation with Russia, Indonesia",
-      "excerpt": "QAMISHLI, Syria (North Press) – A delegation from Syria’s Ministry of Interior discussed mechanisms for implementing the United Nations Convention against Transnational Organized Crime and its supplementary protocols with representatives fr",
-      "link": "https://npasyria.com/en/142945/",
-      "publishedAt": "2026-10-23T09:52:03.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Global Hamas fundraising network shut down after 'Gaza aid diverted'",
-      "excerpt": "A global network that raised funds for Hamas by allegedly diverting financial donations intended as humanitarian aid for Gaza has been closed down by a series of arrests.The fund-raising operation for the militant group was controlled by Sa",
-      "link": "https://www.thenationalnews.com/news/mena/2026/10/23/global-hamas-fundraising-network-shut-down-after-gaza-aid-diverted/",
-      "publishedAt": "2026-10-23T09:50:01.000Z"
     }
   ]
 }
