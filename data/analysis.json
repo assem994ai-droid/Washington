@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-24T16:56:11.833Z",
+    "generatedAt": "2026-10-24T19:13:59.242Z",
     "windowHours": 24,
-    "from": "2026-10-23T16:56:11.833Z",
-    "to": "2026-10-24T16:56:11.833Z"
+    "from": "2026-10-23T19:13:59.242Z",
+    "to": "2026-10-24T19:13:59.242Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
+    "items": 17,
     "files": 3,
-    "withNew": 1,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 1287
+    "archiveCycles": 1288
   },
   "emptyCircles": [
     "الكونغرس",
@@ -28,6 +28,117 @@
   ],
   "errors": [],
   "files": [
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "North Press Agency (English)",
+        "سانا — قسم السياسة",
+        "The National",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 16:56",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 4,
+      "score": 26,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. intel warns of advanced Iranian plots against officials abroad",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. intelligence warned that Iran has substantially increased efforts to target American diplomats and officials in the Middle East and beyond, with some alleged assassination plots reaching advanced stages,",
+          "link": "https://npasyria.com/en/142994/",
+          "publishedAt": "2026-10-24T12:08:10.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "المبعوث الأمريكي إلى سوريا يعرب عن قلقه حيال ‏تصرفات ‌‏المجموعات المسلحة بالسويداء",
+          "excerpt": "أكد المبعوث الأمريكي الخاص إلى ‏سوريا والعراق ‏توماس ‏باراك أن الشيخ الموجود في محافظة السويداء ‌‏(في إشارة إلى ‏حكمت الهجري)، والذي يوحي ‏للناس بأن ‏لديه دعماً من الولايات هو مخطئ تماماً",
+          "link": "https://sana.sy/politics/2615700/",
+          "publishedAt": "2026-10-24T08:23:05.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "US warns citizens that Houthi attacks 'have potential to escalate rapidly'",
+          "excerpt": "The US has warned citizens against travelling to Saudi Arabia, Bahrain, Iran, Iraq, Jordan, Lebanon, Kuwait, Oman, the UAE, Qatar, Syria, Yemen and Israel. All of the advisories referred to the threat of \"terrorism\".Washington urged people ",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/24/us-issues-travel-advisories-for-13-middle-east-countries-after-houthi-attacks/",
+          "publishedAt": "2026-10-24T06:54:41.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "العلبي يدعو المجتمع الدولي لدعم رؤية \"سوريا بلا مخيمات\" ويحذر من أزمة هجرة جديدة",
+          "excerpt": "دعا مندوب سوريا الدائم لدى الأمم المتحدة، إبراهيم علبي، المجتمع الدولي إلى تقديم الدعم اللازم لتحويل رؤية \"سوريا بلا مخيمات\" إلى واقع، وإنهاء أزمة التهجير",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D9%84%D8%A8%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%AF%D8%B9%D9%85-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D9%84%D8%A7-%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D9%88%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A3%D8%B2%D9%85%D8%A9-%D9%87%D8%AC%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
+          "publishedAt": "2026-10-23T21:32:04.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "باراك: توجيه ضربة لإيران ممكن وما يقلقني هو شيخ درزي جنوبي سوريا",
+          "excerpt": "تناول المبعوث الأميركي الخاص إلى سوريا، وسفير واشنطن في تركيا توم باراك، في تصريحات مطولة استراتيجية الرئيس دونالد ترمب تجاه إيران وسوريا والأوضاع في المنطقة،",
+          "link": "https://www.syria.tv/%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%85%D9%83%D9%86-%D9%88%D9%85%D8%A7-%D9%8A%D9%82%D9%84%D9%82%D9%86%D9%8A-%D9%87%D9%88-%D8%B4%D9%8A%D8%AE-%D8%AF%D8%B1%D8%B2%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-23T20:58:45.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تدعم قراراً لحماية الممتلكات الثقافية في ختام مؤتمر مكافحة الجريمة بفيينا",
+          "excerpt": "اختُتمت في العاصمة النمساوية فيينا اليوم الجمعة أعمال الدورة الثالثة عشرة لمؤتمر الدول الأطراف في اتفاقية الأمم المتحدة لمكافحة الجريمة المنظمة العابرة للحدود الوطنية، التي استضافها مقر الأمم المتحدة خلال الفترة من 19 إلى 23 تشرين الأول الج",
+          "link": "https://sana.sy/syria-and-the-world/2615477/",
+          "publishedAt": "2026-10-23T19:26:36.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي: سوريا تدعو لدعم دولي لإنهاء التهجير الداخلي وإغلاق المخيمات",
+          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن الحكومة السورية تعطي الأولوية لقضية المهجّرين داخلياً، مشيراً إلى أن عدداً كبيراً من مسؤولي الحكومة هم أنفسهم مهجّرون داخلياً، ويدركون تماماً معاناة التهجير وآلامه.",
+          "link": "https://sana.sy/politics/2615478/",
+          "publishedAt": "2026-10-23T19:24:25.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
@@ -45,13 +156,13 @@
         "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 16:56",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 37,
+      "score": 23,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -64,7 +175,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,7 +189,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -178,131 +289,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال الإسرائيلي تختطف راعي أغنام من أبناء بلدة حضر بريف القنيطرة",
-          "excerpt": "اختطفت قوات الاحتلال الإسرائيلي، الجمعة، شاباً من أبناء بلدة حضر في ريف القنيطرة الشمالي، أثناء رعيه الأغنام في منطقة سحيتا، بحسب ما أفاد مراسل تلفزيون سوريا.",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AE%D8%AA%D8%B7%D9%81-%D8%B1%D8%A7%D8%B9%D9%8A-%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D9%85%D9%86-%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%A8%D9%84%D8%AF%D8%A9-%D8%AD%D8%B6%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-23T19:06:41.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "North Press Agency (English)",
-        "سانا — قسم السياسة",
-        "The National",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 13:37",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 4,
-      "score": 26,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. intel warns of advanced Iranian plots against officials abroad",
-          "excerpt": "QAMISHLI, Syria (North Press) – U.S. intelligence warned that Iran has substantially increased efforts to target American diplomats and officials in the Middle East and beyond, with some alleged assassination plots reaching advanced stages,",
-          "link": "https://npasyria.com/en/142994/",
-          "publishedAt": "2026-10-24T12:08:10.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "المبعوث الأمريكي إلى سوريا يعرب عن قلقه حيال ‏تصرفات ‌‏المجموعات المسلحة بالسويداء",
-          "excerpt": "أكد المبعوث الأمريكي الخاص إلى ‏سوريا والعراق ‏توماس ‏باراك أن الشيخ الموجود في محافظة السويداء ‌‏(في إشارة إلى ‏حكمت الهجري)، والذي يوحي ‏للناس بأن ‏لديه دعماً من الولايات هو مخطئ تماماً",
-          "link": "https://sana.sy/politics/2615700/",
-          "publishedAt": "2026-10-24T08:23:05.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US warns citizens that Houthi attacks 'have potential to escalate rapidly'",
-          "excerpt": "The US has warned citizens against travelling to Saudi Arabia, Bahrain, Iran, Iraq, Jordan, Lebanon, Kuwait, Oman, the UAE, Qatar, Syria, Yemen and Israel. All of the advisories referred to the threat of \"terrorism\".Washington urged people ",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/24/us-issues-travel-advisories-for-13-middle-east-countries-after-houthi-attacks/",
-          "publishedAt": "2026-10-24T06:54:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "العلبي يدعو المجتمع الدولي لدعم رؤية \"سوريا بلا مخيمات\" ويحذر من أزمة هجرة جديدة",
-          "excerpt": "دعا مندوب سوريا الدائم لدى الأمم المتحدة، إبراهيم علبي، المجتمع الدولي إلى تقديم الدعم اللازم لتحويل رؤية \"سوريا بلا مخيمات\" إلى واقع، وإنهاء أزمة التهجير",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D9%84%D8%A8%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%AF%D8%B9%D9%85-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D9%84%D8%A7-%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D9%88%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A3%D8%B2%D9%85%D8%A9-%D9%87%D8%AC%D8%B1%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-          "publishedAt": "2026-10-23T21:32:04.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "باراك: توجيه ضربة لإيران ممكن وما يقلقني هو شيخ درزي جنوبي سوريا",
-          "excerpt": "تناول المبعوث الأميركي الخاص إلى سوريا، وسفير واشنطن في تركيا توم باراك، في تصريحات مطولة استراتيجية الرئيس دونالد ترمب تجاه إيران وسوريا والأوضاع في المنطقة،",
-          "link": "https://www.syria.tv/%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D8%B6%D8%B1%D8%A8%D8%A9-%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%85%D9%83%D9%86-%D9%88%D9%85%D8%A7-%D9%8A%D9%82%D9%84%D9%82%D9%86%D9%8A-%D9%87%D9%88-%D8%B4%D9%8A%D8%AE-%D8%AF%D8%B1%D8%B2%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-10-23T20:58:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تدعم قراراً لحماية الممتلكات الثقافية في ختام مؤتمر مكافحة الجريمة بفيينا",
-          "excerpt": "اختُتمت في العاصمة النمساوية فيينا اليوم الجمعة أعمال الدورة الثالثة عشرة لمؤتمر الدول الأطراف في اتفاقية الأمم المتحدة لمكافحة الجريمة المنظمة العابرة للحدود الوطنية، التي استضافها مقر الأمم المتحدة خلال الفترة من 19 إلى 23 تشرين الأول الج",
-          "link": "https://sana.sy/syria-and-the-world/2615477/",
-          "publishedAt": "2026-10-23T19:26:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي: سوريا تدعو لدعم دولي لإنهاء التهجير الداخلي وإغلاق المخيمات",
-          "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن الحكومة السورية تعطي الأولوية لقضية المهجّرين داخلياً، مشيراً إلى أن عدداً كبيراً من مسؤولي الحكومة هم أنفسهم مهجّرون داخلياً، ويدركون تماماً معاناة التهجير وآلامه.",
-          "link": "https://sana.sy/politics/2615478/",
-          "publishedAt": "2026-10-23T19:24:25.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -318,7 +304,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 13:37",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 16:56",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
