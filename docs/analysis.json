@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-24T21:38:31.223Z",
+    "generatedAt": "2026-10-24T23:41:53.023Z",
     "windowHours": 24,
-    "from": "2026-10-23T21:38:31.223Z",
-    "to": "2026-10-24T21:38:31.223Z"
+    "from": "2026-10-23T23:41:53.023Z",
+    "to": "2026-10-24T23:41:53.023Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
+    "items": 11,
     "files": 4,
-    "withNew": 2,
-    "stale": 2,
+    "withNew": 0,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 4,
-    "archiveCycles": 1289
+    "archiveCycles": 1290
   },
   "emptyCircles": [
     "الكونغرس",
@@ -43,13 +43,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 21:38",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 27,
+      "score": 17,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -62,7 +62,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -134,20 +134,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغل ليلي وإغلاق طرق.. انتهاكات إسرائيلية متصاعدة في ريف القنيطرة",
-          "excerpt": "أغلقت قوة تابعة لجيش الاحتلال الإسرائيلي، السبت، عدداً من الطرق غربي مزرعة الزعرورة في ريف القنيطرة الجنوبي",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D9%84%D9%8A%D9%84%D9%8A-%D9%88%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%B7%D8%B1%D9%82-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%85%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-23T22:28:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -167,7 +153,7 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 19:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 21:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -225,13 +211,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 21:38",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -244,7 +230,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -261,7 +247,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 19:13",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-24 21:38",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
