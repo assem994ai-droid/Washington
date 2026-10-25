@@ -1,28 +1,46 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-24T23:41:53.023Z",
+    "generatedAt": "2026-10-25T06:55:58.795Z",
     "windowHours": 24,
-    "from": "2026-10-23T23:41:53.023Z",
-    "to": "2026-10-24T23:41:53.023Z"
+    "from": "2026-10-24T06:55:58.795Z",
+    "to": "2026-10-25T06:55:58.795Z"
   },
   "counts": {
-    "total": 11,
+    "total": 10,
     "byCircle": {
-      "الإعلام السوري المستقل": 8,
+      "الإعلام السوري المستقل": 7,
+      "الإعلام المتخصص": 1,
       "الملف الإسرائيلي والتركي": 1,
-      "المصادر الرسمية السورية": 1,
-      "الإعلام المتخصص": 1
+      "المصادر الرسمية السورية": 1
     },
     "bySource": {
-      "تلفزيون سوريا": 5,
+      "تلفزيون سوريا": 4,
+      "Al-Monitor": 1,
       "Jerusalem Post — الشرق الأوسط": 1,
       "North Press Agency (English)": 3,
-      "سانا — قسم السياسة": 1,
-      "The National": 1
+      "سانا — قسم السياسة": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الانتخابات الإسرائيلية الشكلية إلى أين؟",
+      "excerpt": "تثير الانتخابات الإسرائيلية المقررة في 27 من أكتوبر/ تشرين الأول موجة مرتفعة من المتابعة والتوقعات غير المسبوقة، وذلك ليس لأن المتابع العربي عموماً والسوري",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D9%83%D9%84%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A3%D9%8A%D9%86%D8%9F%C2%A0",
+      "publishedAt": "2026-10-25T03:47:23.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "On Israeli kibbutz, October 7 tears at leftist heritage",
+      "excerpt": "<p>Danny Rahamim pauses for a few moments as he thinks about his neighbours here on an Israeli kibbutz just a few hundred metres from Gaza.</p> <p>\"I'm probably the most left-wing person here,\" he said.</p> <p>If that was true before Octobe",
+      "link": "https://www.al-monitor.com/originals/2026/10/israeli-kibbutz-october-7-tears-leftist-heritage",
+      "publishedAt": "2026-10-25T03:30:34.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -94,33 +112,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – U.S. Ambassador to Turkey and Special Envoy for Syria Tom Barrack on Friday said that Washington does not back a Druze religious leader in southern Syria, accusing unnamed individuals in the area of relying o",
       "link": "https://npasyria.com/en/142992/",
       "publishedAt": "2026-10-24T07:05:12.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "US warns citizens that Houthi attacks 'have potential to escalate rapidly'",
-      "excerpt": "The US has warned citizens against travelling to Saudi Arabia, Bahrain, Iran, Iraq, Jordan, Lebanon, Kuwait, Oman, the UAE, Qatar, Syria, Yemen and Israel. All of the advisories referred to the threat of \"terrorism\".Washington urged people ",
-      "link": "https://www.thenationalnews.com/news/mena/2026/10/24/us-issues-travel-advisories-for-13-middle-east-countries-after-houthi-attacks/",
-      "publishedAt": "2026-10-24T06:54:41.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "جيش الاحتلال يضرم النار في 3 خيام لسوريين جنوبي لبنان",
-      "excerpt": "أضرم جيش الاحتلال الإسرائيلي النار في ثلاث خيام تعود لسوريين في منطقة الحوش، الواقعة بين برج الملوك وسهل مرجعيون باتجاه بلدة الخيام جنوبي لبنان",
-      "link": "https://www.syria.tv/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B6%D8%B1%D9%85-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-3-%D8%AE%D9%8A%D8%A7%D9%85-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
-      "publishedAt": "2026-10-24T04:06:33.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "حكاية 400 زيتونة اقتلعها الاحتلال.. صورة من أضرار القطاع الزراعي بالقنيطرة| صور",
-      "excerpt": "وخلال الأشهر الفائتة، تضررت مساحات واسعة من الأراضي الزراعية والمراعي في القنيطرة بفعل عمليات التجريف والاستيلاء ومنع المزارعين من الوصول إلى حقولهم.",
-      "link": "https://www.syria.tv/%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-400-%D8%B2%D9%8A%D8%AA%D9%88%D9%86%D8%A9-%D8%A7%D9%82%D8%AA%D9%84%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D9%86-%D8%A3%D8%B6%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B5%D9%88%D8%B1",
-      "publishedAt": "2026-10-24T03:15:49.000Z"
     }
   ]
 }
