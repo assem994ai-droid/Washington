@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-25T23:43:00.294Z",
+    "generatedAt": "2026-10-26T01:47:26.560Z",
     "windowHours": 24,
-    "from": "2026-10-24T23:43:00.294Z",
-    "to": "2026-10-25T23:43:00.294Z"
+    "from": "2026-10-25T01:47:26.560Z",
+    "to": "2026-10-26T01:47:26.560Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 4,
+    "items": 19,
+    "files": 5,
     "withNew": 1,
-    "stale": 3,
+    "stale": 4,
     "contested": 2,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1295
+    "archiveCycles": 1296
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,7 +45,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-25 21:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-25 23:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -211,7 +211,7 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-25 21:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-25 23:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -248,7 +248,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Druze experts condemn Tom Barrack's accusations against Syrian Druze, warn of sectarian violence",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3358,w_5037/741261' alt='FILE PHOTO: US Special Envoy for Syria and Iraq Tom Barrack speaks to members of media at the United Natio",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/741261' alt='FILE PHOTO: US Special Envoy for Syria and Iraq Tom Barrack speaks to members of media at the United Nations",
           "link": "https://www.jpost.com/middle-east/article-912795",
           "publishedAt": "2026-10-25T15:51:12.000Z",
           "files": [],
@@ -270,6 +270,42 @@
       ]
     },
     {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تسريب: \"البديل\" خطط لإدخال وفده إلى سوريا عام 2018 بمساعدة \"حزب الله\" وروسيا",
+          "excerpt": "كشفت رسائل مسرّبة من حزب \"البديل من أجل ألمانيا\" أن مسؤولاً أمنياً سابقاً خطط لزيارة سبعة سياسيين إلى سوريا عام 2018 بمساعدة \"حزب الله\" والروس.",
+          "link": "https://www.syria.tv/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D9%84-%D8%AE%D8%B7%D8%B7-%D9%84%D8%A5%D8%AF%D8%AE%D8%A7%D9%84-%D9%88%D9%81%D8%AF%D9%87-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B9%D8%A7%D9%85-2018-%D8%A8%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
+          "publishedAt": "2026-10-26T01:25:37.000Z",
+          "files": [
+            "lebanon"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
       "verification": "متنازع عليه — يحتاج تحققاً",
@@ -283,13 +319,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-25 23:43",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 7,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -303,7 +339,7 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -350,7 +386,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-25 21:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-25 23:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,

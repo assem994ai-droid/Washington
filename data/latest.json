@@ -1,21 +1,21 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-25T23:43:00.294Z",
+    "generatedAt": "2026-10-26T01:47:26.560Z",
     "windowHours": 24,
-    "from": "2026-10-24T23:43:00.294Z",
-    "to": "2026-10-25T23:43:00.294Z"
+    "from": "2026-10-25T01:47:26.560Z",
+    "to": "2026-10-26T01:47:26.560Z"
   },
   "counts": {
-    "total": 18,
+    "total": 19,
     "byCircle": {
+      "الإعلام السوري المستقل": 13,
       "المصادر الرسمية السورية": 2,
-      "الإعلام السوري المستقل": 12,
       "الملف الإسرائيلي والتركي": 2,
       "الإعلام المتخصص": 2
     },
     "bySource": {
+      "تلفزيون سوريا": 11,
       "سانا — قسم السياسة": 2,
-      "تلفزيون سوريا": 10,
       "Jerusalem Post — الشرق الأوسط": 2,
       "North Press Agency (English)": 2,
       "Al-Monitor": 2
@@ -23,6 +23,15 @@
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تسريب: \"البديل\" خطط لإدخال وفده إلى سوريا عام 2018 بمساعدة \"حزب الله\" وروسيا",
+      "excerpt": "كشفت رسائل مسرّبة من حزب \"البديل من أجل ألمانيا\" أن مسؤولاً أمنياً سابقاً خطط لزيارة سبعة سياسيين إلى سوريا عام 2018 بمساعدة \"حزب الله\" والروس.",
+      "link": "https://www.syria.tv/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D9%84-%D8%AE%D8%B7%D8%B7-%D9%84%D8%A5%D8%AF%D8%AE%D8%A7%D9%84-%D9%88%D9%81%D8%AF%D9%87-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B9%D8%A7%D9%85-2018-%D8%A8%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
+      "publishedAt": "2026-10-26T01:25:37.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -55,7 +64,7 @@
       "sourceId": "jpost-me",
       "circle": "الملف الإسرائيلي والتركي",
       "title": "Druze experts condemn Tom Barrack's accusations against Syrian Druze, warn of sectarian violence",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3358,w_5037/741261' alt='FILE PHOTO: US Special Envoy for Syria and Iraq Tom Barrack speaks to members of media at the United Natio",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/741261' alt='FILE PHOTO: US Special Envoy for Syria and Iraq Tom Barrack speaks to members of media at the United Nations",
       "link": "https://www.jpost.com/middle-east/article-912795",
       "publishedAt": "2026-10-25T15:51:12.000Z"
     },
