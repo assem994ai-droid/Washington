@@ -1,0 +1,251 @@
+{
+  "cycle": {
+    "generatedAt": "2026-10-27T08:09:44.090Z",
+    "windowHours": 24,
+    "from": "2026-10-26T08:09:44.090Z",
+    "to": "2026-10-27T08:09:44.090Z"
+  },
+  "counts": {
+    "total": 25,
+    "byCircle": {
+      "الإعلام المتخصص": 8,
+      "الإعلام السوري المستقل": 14,
+      "الملف الإسرائيلي والتركي": 3
+    },
+    "bySource": {
+      "The National": 2,
+      "تلفزيون سوريا": 8,
+      "North Press Agency (English)": 6,
+      "Al-Monitor": 6,
+      "Jerusalem Post — الشرق الأوسط": 3
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Israel votes in crucial election, Jordan retaliates in Syria and Harry Kane wins Ballon d'Or",
+      "excerpt": "In today’s episode of Trending Middle East, Israel goes to the polls in a keenly contested election that will determine whether Prime Minister Benjamin Netanyahu remains in power. Former general Gadi Eisenkot is his strongest challenger, wi",
+      "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/27/israel-votes-in-crucial-election-jordan-retaliates-in-syria-and-harry-kane-wins-ballon-dor/",
+      "publishedAt": "2026-10-27T07:53:10.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تحالف دعم الشرعية يعلن اعتراض 3 صواريخ باليستية و4 مسيّرات نحو السعودية",
+      "excerpt": "أعلن التحالف بقيادة السعودية اعتراض 3 صواريخ باليستية و4 مسيّرات قال إن الحوثيين أطلقوها باتجاه المملكة، وسط تصعيد عسكري متواصل.",
+      "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-3-%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A8%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%D9%8A%D8%A9-%D9%884-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "publishedAt": "2026-10-27T07:47:08.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Aftermath of Jordanian strikes killing 5, including 3 children, in town in Syria&#8217;s Daraa",
+      "excerpt": "The post Aftermath of Jordanian strikes killing 5, including 3 children, in town in Syria&#8217;s Daraa appeared first on North press agency.",
+      "link": "https://npasyria.com/en/143099/",
+      "publishedAt": "2026-10-27T07:14:38.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria says Jordanian strikes kill 7 civilians, denies prior coordination",
+      "excerpt": "DARAA, Syria (North Press) – Jordanian airstrikes in southern Syria killed seven people, including three children, three men and a woman, and wounded three others, including a child, Daraa’s Health Director said on Monday. According to the ",
+      "link": "https://npasyria.com/en/143096/",
+      "publishedAt": "2026-10-27T07:07:49.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "House destroyed in Jordanian airstrikes in Syria&#8217;s Daraa",
+      "excerpt": "The post House destroyed in Jordanian airstrikes in Syria&#8217;s Daraa appeared first on North press agency.",
+      "link": "https://npasyria.com/en/143084/",
+      "publishedAt": "2026-10-27T06:21:45.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Jordanian strikes in Daraa kill five civilians, Syrian media reports",
+      "excerpt": "QAMISHLI, Syria (North Press) – Jordanian airstrikes on armed groups in southern Syria on Monday killed at least five civilians, according to Syrian state media, in an operation Amman said was carried out in retaliation for a church attack ",
+      "link": "https://npasyria.com/en/143081/",
+      "publishedAt": "2026-10-27T05:58:11.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "المقاومة الشعبية والخيارات الحرجة أمام دمشق",
+      "excerpt": "تستمر التطورات الميدانية في الجنوب السوري، ومعها استمرار التوغلات والانتهاكات الإسرائيلية للسيادة الوطنية، في وضع الإدارة السورية أمام استحقاقات شاقة وتساؤلات..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%AC%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%AF%D9%85%D8%B4%D9%82",
+      "publishedAt": "2026-10-27T05:07:19.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "السويداء بين باراك وإسرائيل.. المخدرات كورقة ترتيب الجنوب السوري",
+      "excerpt": "لا يمكن فصل التصعيد الأميركي تجاه الشيخ حكمت الهجري عن التحولات التي تشهدها المقاربة الأميركية لمستقبل الجنوب السوري. فإعادة فتح ملف الكبتاغون..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A8%D9%8A%D9%86-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%88%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%82%D8%A9-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+      "publishedAt": "2026-10-27T05:07:09.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا بين نتنياهو وأيزنكوت",
+      "excerpt": "توجّه الإسرائيليون يوم الثلاثاء، 27 أكتوبر/تشرين الأول، إلى صناديق الاقتراع لاختيار أعضاء الكنيست الجديد، في انتخابات تُعدّ الأولى منذ السابع من أكتوبر 2023..",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D9%8A%D9%86-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%88%D8%A3%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA",
+      "publishedAt": "2026-10-27T05:06:56.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Benjamin Netanyahu: Israel's longest-serving PM fighting for survival",
+      "excerpt": "<p>Prime Minister Benjamin Netanyahu, Israel's consummate political survivor, faces the fight of his life in Tuesday's election as he tries to convince voters he is still the only candidate capable of keeping them safe.</p> <p>The 77-year-o",
+      "link": "https://www.al-monitor.com/originals/2026/10/benjamin-netanyahu-israels-longest-serving-pm-fighting-survival-0",
+      "publishedAt": "2026-10-27T03:30:24.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "The key issues shaping Israel's election",
+      "excerpt": "<p>When Israel goes to the polls on Tuesday, voters will weigh in on military conscription, the economy and how the state should investigate its failure to prevent Hamas's October 7, 2023 attack.</p> <p>AFP looks at the key issues that have",
+      "link": "https://www.al-monitor.com/originals/2026/10/key-issues-shaping-israels-election",
+      "publishedAt": "2026-10-27T02:30:28.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "At least seven killed in Jordan's retaliatory strikes on Syria",
+      "excerpt": "Jordan carried out strikes on southern Syria in “retaliation” for last week’s deadly church attack, with Syrian authorities saying at least seven people were killed in the country.Jordan's armed forces said they hit the hideouts of armed gr",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/jordan-revenge-attack-on-syria/",
+      "publishedAt": "2026-10-27T02:17:28.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Jordan strikes militant groups in Syria after church attack",
+      "excerpt": "<p>The Jordanian military said it had struck \"terrorist organisations\" in neighbouring Syria on Monday in retaliation for a deadly jihadist attack on a church last week, hours after authorities&nbsp;arrested three men they accused of the ki",
+      "link": "https://www.al-monitor.com/originals/2026/10/jordan-strikes-militant-groups-syria-after-church-attack",
+      "publishedAt": "2026-10-27T01:30:22.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Explainer-Israel election: What happens after polls close?",
+      "excerpt": "<p>By Maayan Lubell</p><p>JERUSALEM, Oct 27 (Reuters) - Israel holds a parliamentary election on Tuesday, its first since the Hamas attack on October 7, 2023 that shook the country and plunged the Middle East into turmoil.</p><p>Prime Minis",
+      "link": "https://www.al-monitor.com/originals/2026/10/explainer-israel-election-what-happens-after-polls-close",
+      "publishedAt": "2026-10-27T00:46:30.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Netanyahu's political survival on the line as Israel votes",
+      "excerpt": "<p>By Steven Scheer and Pesha Magid</p><p>JERUSALEM, Oct 27 (Reuters) - Prime Minister Benjamin Netanyahu faces a fight for political survival in Israel's election on Tuesday, with voters weighing his leadership after the 2023 Hamas-led att",
+      "link": "https://www.al-monitor.com/originals/2026/10/netanyahus-political-survival-line-israel-votes",
+      "publishedAt": "2026-10-27T00:46:30.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Jordan strikes southern Syria after linking church attackers to 'terrorist groups'",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4480,w_6720/743714' alt='A member of the security forces stands guard during preparations for the funeral of victims of a church sh",
+      "link": "https://www.jpost.com/middle-east/article-912972",
+      "publishedAt": "2026-10-26T21:41:14.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Jordan strikes southern Syria after linking church attackers to 'terrorist groups'",
+      "excerpt": "<p>Oct 26 (Reuters) - Jordan said on Monday its air force struck what it described as militant hideouts in southern Syria after determining that the attackers behind last week's deadly church attack were linked to \"terrorist groups\" operati",
+      "link": "https://www.al-monitor.com/originals/2026/10/jordan-strikes-southern-syria-after-linking-church-attackers-terrorist-groups",
+      "publishedAt": "2026-10-26T19:46:30.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Drone strike targets Abu Abdulrahman al-Libi near Qara, Syria",
+      "excerpt": "QAMISHLI, Syria (North Press) &#8211; A government source told North Press on Monday that a drone targeted commander Abu Abdulrahman al-Libi in the town of Qara along the Damascus–Homs highway. Earlier Monday, an attack on a vehicle on the ",
+      "link": "https://npasyria.com/en/143075/",
+      "publishedAt": "2026-10-26T17:24:29.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "البيت الأبيض لتلفزيون سوريا: نسيطر على هرمز وحسم الصراع مع إيران قريب جدا",
+      "excerpt": "قال مسؤول رفيع في البيت الأبيض لتلفزيون سوريا إن الولايات المتحدة تسيطر على مضيق هرمز، كما اعتبر أن الصراع مع إيران سيتجه إلى الحسم \"قريباً جداً\".",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%86%D8%B3%D9%8A%D8%B7%D8%B1-%D8%B9%D9%84%D9%89-%D9%87%D8%B1%D9%85%D8%B2-%D9%88%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%82%D8%B1%D9%8A%D8%A8-%D8%AC%D8%AF%D8%A7",
+      "publishedAt": "2026-10-26T15:32:41.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syrian Anti-Narcotics Authorities dismantle drug trafficking network",
+      "excerpt": "QAMISHLI, Syria (North Press) – The Syrian Anti-Narcotics Administration in Damascus announced on Monday that it had dismantled a network involved in drug smuggling and distribution and arrested four of its members following a security oper",
+      "link": "https://npasyria.com/en/143063/",
+      "publishedAt": "2026-10-26T14:33:21.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "As Syrian families struggle with missing loved ones, Assad's government figures reemerge",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/743623' alt='Syrians walk past shops down an alley at the Old City in Damascus on October 21, 2026. (photo credit: LOUAI",
+      "link": "https://www.jpost.com/middle-east/article-912909",
+      "publishedAt": "2026-10-26T14:25:37.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مقترح تركي سوري لرقمنة مخطوطات دمشق وإنشاء مدرسة صيفية مشتركة",
+      "excerpt": "أعدّت مؤسسات أكاديمية وثقافية تركية وسورية حزمة من سبعة مقترحات لتعزيز التعاون بين البلدين، تشمل رقمنة المخطوطات التاريخية في دمشق..",
+      "link": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%AA%D8%B1%D9%83%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A7%D8%AA-%D8%AF%D9%85%D8%B4%D9%82-%D9%88%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%B5%D9%8A%D9%81%D9%8A%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9",
+      "publishedAt": "2026-10-26T13:53:20.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Damascus struggles to assert control in southern Syria amid ISIS threat, Druze tensions - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_462,w_849/617115' alt='ISIS fighters. (photo credit: ISRAEL POLICE)' title='ISIS fighters. (photo credit: ISRAEL POLICE)' /><br />S",
+      "link": "https://www.jpost.com/middle-east/article-912903",
+      "publishedAt": "2026-10-26T13:31:53.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "وزارة الطوارئ تستعد لإطلاق أول خريطة لتوزع الألغام ومخلفات الحرب في سوريا",
+      "excerpt": "وزير الطوارئ يعلن قرب إطلاق أول خريطة لألغام سوريا، وإنشاء غرفة عمليات مشتركة مع تركيا، والتوجه لإنهاء ملف المخيمات بحلول 2027",
+      "link": "https://www.syria.tv/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%88%D9%84-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D9%84%D8%AA%D9%88%D8%B2%D8%B9-%D8%A7%D9%84%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%88%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-10-26T09:39:43.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تركيا تخفض توقعات عودة السوريين خلال 2026 من 700 ألف إلى 210 آلاف",
+      "excerpt": "تكشف بيانات موازنة تركيا لعام 2027 أن عودة السوريين الطوعية جاءت دون التوقعات، مع تقدير عودة 210 آلاف شخص في 2026 مقابل هدف حكومي بلغ 700 ألف.",
+      "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%AE%D9%81%D8%B6-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-2026-%D9%85%D9%86-700-%D8%A3%D9%84%D9%81-%D8%A5%D9%84%D9%89-210-%D8%A2%D9%84%D8%A7%D9%81",
+      "publishedAt": "2026-10-26T08:33:18.000Z"
+    }
+  ]
+}
