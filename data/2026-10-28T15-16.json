@@ -1,0 +1,275 @@
+{
+  "cycle": {
+    "generatedAt": "2026-10-28T15:16:56.010Z",
+    "windowHours": 24,
+    "from": "2026-10-27T15:16:56.010Z",
+    "to": "2026-10-28T15:16:56.010Z"
+  },
+  "counts": {
+    "total": 27,
+    "byCircle": {
+      "الإعلام الدولي": 2,
+      "الملف الإسرائيلي والتركي": 4,
+      "الإعلام المتخصص": 5,
+      "المصادر الرسمية السورية": 1,
+      "الإعلام السوري المستقل": 6,
+      "الملف الإسرائيلي": 6,
+      "مراكز الفكر": 3
+    },
+    "bySource": {
+      "Al Jazeera English": 2,
+      "Jerusalem Post — الشرق الأوسط": 4,
+      "The National": 5,
+      "سانا — قسم السياسة": 1,
+      "North Press Agency (English)": 6,
+      "Ynet News (English)": 6,
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 3
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+      "excerpt": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+      "publishedAt": "2026-10-28T13:47:39.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Jordan, Syria seek to reduce tensions following strike with joint security committee - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3428,w_4987/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were ki",
+      "link": "https://www.jpost.com/middle-east/article-913114",
+      "publishedAt": "2026-10-28T13:29:44.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Victims of Jordan’s air strikes in Syria",
+      "excerpt": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
+      "publishedAt": "2026-10-28T12:35:19.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Iraqi PM al-Zaidi arrives in Syria in landmark post-Assad summit on security, trade - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_854,w_1280/732006' alt='Iraqi Prime Minister and the Commander-in-Chief of the Armed Forces, Ali Faleh Al-Zaidi chairs the Minister",
+      "link": "https://www.jpost.com/middle-east/article-913106",
+      "publishedAt": "2026-10-28T12:31:36.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Qatari mediators present peace deal to Iran in mediation effort, official says",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2726,w_4096/743978' alt='Qatar's Emir Sheikh Tamim bin Hamad Al Thani shakes hands with Iranian Interior Minister Eskandar Momeni i",
+      "link": "https://www.jpost.com/middle-east/iran-news/article-913092",
+      "publishedAt": "2026-10-28T11:00:33.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Gulf countries can turn the Syrian refugee crisis into an engine of regional growth",
+      "excerpt": "The deadly Houthi attacks on Riyadh’s King Khalid International Airport earlier this month are just the latest reminder of how the war with Iran continues to destabilise the Middle East. The conflict has driven Gulf countries to accelerate ",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/10/28/gulf-syria-refugees-middle-east-economy/",
+      "publishedAt": "2026-10-28T11:00:00.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية بريطانية لتعزيز العلاقات بين البلدين",
+      "excerpt": "التقت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين سالي ‏شوبط، القائم بأعمال الممثل الخاص بالمملكة المتحدة في سوريا باري بيتش.‏",
+      "link": "https://sana.sy/syria-and-the-world/2619404/",
+      "publishedAt": "2026-10-28T10:55:30.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Iraq's Al Zaidi visits Syria to discuss economic and security ties",
+      "excerpt": "Iraqi Prime Minister Ali Al Zaidi started a visit to Syria on Wednesday, the first such visit by an Iraqi leader since the ouster of Bashar Al Assad in December 2024.Mr Al Zaidi, who is being accompanied by a federal delegation, is set to h",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/iraqs-al-zaidi-begins-visit-to-syria-in-first-high-profile-trip-since-al-shara-took-power/",
+      "publishedAt": "2026-10-28T10:33:53.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces detain 5 residents during incursion in Syria&#8217;s Quneitra",
+      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces late on Tuesday entered the village of al-Muallaqa in southern Quneitra, southern Syria, with seven military vehicles, deploying along the main road near the village mosque and searching severa",
+      "link": "https://npasyria.com/en/143170/",
+      "publishedAt": "2026-10-28T10:01:50.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria, Jordan agree to joint probe into deadly Jordanian strikes",
+      "excerpt": "DAMASCUS, Syria (North Press) – Syria and Jordan have agreed to form a joint security committee to investigate the circumstances surrounding recent Jordanian military operations inside Syrian territory. The agreement was reached during a ph",
+      "link": "https://npasyria.com/en/143167/",
+      "publishedAt": "2026-10-28T09:10:26.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "Israel election results: Netanyahu bloc drops to 54 seats as Arab parties rise to 18",
+      "excerpt": "With 65% of polling stations reporting, Likud leads with 27 seats and Eisenkot's Yashar! holds 21; Netanyahu's bloc stands at 54, Eisenkot's at 48 and Arab parties at 18; Yair Golan calls for a government backed by Arab parties as smaller f",
+      "link": "https://www.ynetnews.com/article/hjnatbkaml",
+      "publishedAt": "2026-10-28T08:16:16.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "‘Netanyahu has lost’: Yair Golan calls for coalition with Arab parties",
+      "excerpt": "With 60% of votes counted and neither bloc holding a majority, Democrats leader urges opposition to join forces with Ra'am and the Joint List, arguing that Arab votes must count equally and that forming a government of change is a national ",
+      "link": "https://www.ynetnews.com/article/hyphwxjtzl",
+      "publishedAt": "2026-10-28T07:56:26.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S.-Iran war costs top $47 billion, up 25 percent since July",
+      "excerpt": "DAMASCUS, Syria (North Press) – The U.S. military has spent more than $47 billion on the war against Iran, an increase of over 25 percent from the Pentagon’s estimate in July, Reuters reported on Tuesday. According to Pentagon data obtained",
+      "link": "https://npasyria.com/en/143164/",
+      "publishedAt": "2026-10-28T07:38:20.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "IDF kills Hamas commandos involved in Alexander Dancyg's October 7 kidnapping",
+      "excerpt": "Ahmed Muhammad Ahmed Baraka, who the IDF says took part in Alexander Dancyg's kidnapping at Kibbutz Nir Oz and later helped hold Nimrod Cohen hostage, was killed in southern Gaza; two other Nukhba operatives were killed Friday in northern G",
+      "link": "https://www.ynetnews.com/article/skgzl7kpgx",
+      "publishedAt": "2026-10-28T07:34:07.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. condemns attack on displaced Kurdish families returning to Tel Abyad",
+      "excerpt": "QAMISHLI, Syria (North Press) – The United States on Tuesday condemned an attack on displaced Kurdish families attempting to return to Tel Abyad in northern Syria, urging Damascus to hold those responsible accountable. “Syrians displaced by",
+      "link": "https://npasyria.com/en/143161/",
+      "publishedAt": "2026-10-28T06:50:28.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Netanyahu claims victory, Jordan and Syria agree on security committee and Dubai approves Dh2bn urban plan",
+      "excerpt": "In today’s episode of Trending Middle East, Israeli Prime Minister Benjamin Netanyahu claims victory in the country's election, although neither his bloc nor the opposition has secured a parliamentary majority. About 600,000 absentee ballot",
+      "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/28/netanyahu-claims-victory-jordan-and-syria-agree-on-security-committee-and-dubai-approves-dh2bn-urban-plan/",
+      "publishedAt": "2026-10-28T06:25:48.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. woman convicted of receiving ISIS military training in Syria",
+      "excerpt": "QAMISHLI, Syria (North Press) – An American woman who traveled to Islamic State (ISIS)-controlled territory in Syria as a teenager was found guilty on Tuesday of receiving military training from the extremist group, U.S. prosecutors said. H",
+      "link": "https://npasyria.com/en/143158/",
+      "publishedAt": "2026-10-28T06:23:19.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "Smotrich vows Jewish settlements in Gaza as party defies election polls",
+      "excerpt": "Finance minister pledges to expand Jewish settlements in Gaza and West Bank and reject territorial withdrawals from Lebanon and Syria after his Religious Zionist Party wins projected 6 Knesset seats, despite earlier polls suggesting it migh",
+      "link": "https://www.ynetnews.com/article/s1xb8xkpgx",
+      "publishedAt": "2026-10-28T04:27:56.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Jordan and Syria form joint security committee after deadly strikes",
+      "excerpt": "Jordan and Syria have agreed to form a joint security committee to examine the details and the repercussions of Jordanian strikes against ISIS, the two countries' foreign ministers have said. The Jordanian army on Tuesday said at least 20 I",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/jordan-and-syria-form-joint-security-committee-after-deadly-strikes/",
+      "publishedAt": "2026-10-28T04:22:40.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "The name game: Abdul El-Sayed’s Senate bid tests the limits of US politics",
+      "excerpt": "El-Sayed, El-Sayeed, El-Sayad – for months, Abdul El-Sayed, an Egyptian American running for the US Senate for Michigan, has had his name mispronounced, sometimes deliberately.US President Donald Trump has frequently mocked his name and sai",
+      "link": "https://www.thenationalnews.com/news/us/2026/10/28/abdul-el-sayed-name-election-michigan/",
+      "publishedAt": "2026-10-28T03:00:00.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "‘Show courage, sit with Ra'am’: Israel's Democrats push to replace Netanyahu",
+      "excerpt": "Naama Lazimi urges the opposition to form a government with Mansour Abbas's Ra'am, while Yair Golan hails a ‘historic opportunity’ after the exit polls; with Arab parties projected to win up to 18 seats, even Ra'am's support may not deliver",
+      "link": "https://www.ynetnews.com/article/bysnpccnfl",
+      "publishedAt": "2026-10-27T21:35:35.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "‘I'll act immediately to replace Netanyahu’: Eisenkot responds to Israel exit polls",
+      "excerpt": "With the change bloc projected to win 53 seats against Netanyahu's 50, Eisenkot pledges to form a government committed to military conscription; Yair Golan calls it a ‘historic opportunity,’ while Likud's Gideon Sa'ar warns the left is cele",
+      "link": "https://www.ynetnews.com/article/ryu6afrnzg",
+      "publishedAt": "2026-10-27T20:53:50.000Z"
+    },
+    {
+      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+      "sourceId": "fdd",
+      "circle": "مراكز الفكر",
+      "title": "Looking Over Benjamin Netanyahu’s Shoulder",
+      "excerpt": "Yonah Jeremy Bob and Elliot Kaufman. In the War Room: The Inside Story of Israel’s Fight Against Hamas and the Iranian Axis (Brentwood, Post Hill Press). 352pp., $32.50. In the immediate aftermath... The post Looking Over Benjamin Netanyahu",
+      "link": "https://www.fdd.org/analysis/looking-over-benjamin-netanyahus-shoulder/",
+      "publishedAt": "2026-10-27T19:09:28.000Z"
+    },
+    {
+      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+      "sourceId": "fdd",
+      "circle": "مراكز الفكر",
+      "title": "Jordanian Air Force strikes Syria in retaliation for deadly church attack",
+      "excerpt": "The Royal Jordanian Air Force launched multiple airstrikes on October 26, targeting what it called terrorist organizations in southern Syria that were linked to the perpetrators of Friday’s attack on... The post Jordanian Air Force strikes ",
+      "link": "https://www.fdd.org/analysis/jordanian-air-force-strikes-syria-in-retaliation-for-deadly-church-attack/",
+      "publishedAt": "2026-10-27T17:38:16.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Jordanian source justifies civilian deaths in Syria’s Daraa airstrike",
+      "excerpt": "QAMISHLI, Syria (North Press) &#8211; A Jordanian source offered on Tuesday an explanation for the deaths of civilians in a Jordanian airstrike in the countryside of Daraa governorate on Monday, saying they were killed by the force of the b",
+      "link": "https://npasyria.com/en/143152/",
+      "publishedAt": "2026-10-27T16:07:38.000Z"
+    },
+    {
+      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+      "sourceId": "fdd",
+      "circle": "مراكز الفكر",
+      "title": "Iraq juggles border security and ties with Iran, Syria, and Jordan",
+      "excerpt": "Iraqi Prime Minister Ali al Zaidi traveled to Jordan on October 26 for a series of meetings with Jordanian officials. Among the topics discussed was a desire to “increase cooperation and coordination... The post Iraq juggles border security",
+      "link": "https://www.fdd.org/analysis/iraq-juggles-border-security-and-ties-with-iran-syria-and-jordan/",
+      "publishedAt": "2026-10-27T15:42:50.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Arab conspiracy theorists blame Israel for Jordanian strikes on Syria, attack on Jordan church",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3668,w_5500/743556' alt='The grounds of Saint George’s Greek Orthodox Church, where gunmen opened fire during a funeral the previou",
+      "link": "https://www.jpost.com/middle-east/article-913038",
+      "publishedAt": "2026-10-27T15:32:10.000Z"
+    }
+  ]
+}
