@@ -1,25 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-28T15:16:56.010Z",
+    "generatedAt": "2026-10-28T20:20:57.361Z",
     "windowHours": 24,
-    "from": "2026-10-27T15:16:56.010Z",
-    "to": "2026-10-28T15:16:56.010Z"
+    "from": "2026-10-27T20:20:57.361Z",
+    "to": "2026-10-28T20:20:57.361Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 27,
-    "files": 5,
-    "withNew": 4,
+    "items": 33,
+    "files": 6,
+    "withNew": 5,
     "stale": 1,
     "contested": 0,
-    "echoed": 1,
-    "americanItems": 4,
-    "archiveCycles": 1308
+    "echoed": 0,
+    "americanItems": 5,
+    "archiveCycles": 1309
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي"
   ],
@@ -30,39 +31,64 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
         "North Press Agency (English)",
-        "Ynet News (English)",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "Ynet News (English)"
       ],
       "circles": [
+        "مراكز الفكر",
+        "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي",
-        "مراكز الفكر"
+        "الملف الإسرائيلي"
       ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 6,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 56,
+      "usItems": 3,
+      "score": 48,
       "items": [
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Jordanian Strikes Lay Bare Security Vacuum in Southern Syria",
+          "excerpt": "Jordan’s response to a deadly church attack at home has triggered a new confrontation with neighboring Syria. On October 26, the Jordanian Air Force launched multiple strikes across southern Syria... The post Jordanian Strikes Lay Bare Secu",
+          "link": "https://www.fdd.org/analysis/jordanian-strikes-lay-bare-security-vacuum-in-southern-syria/",
+          "publishedAt": "2026-10-28T19:40:23.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "إطلاق مشروع لإزالة 300 ألف متر مكعب من الأنقاض في حرستا بريف دمشق",
+          "excerpt": "قال الدفاع المدني إن الأنقاض المستهدفة بالمشروع في حرستا تتكون بمعظمها من مخلفات الأبنية والكتل السكنية المدمرة والركام المختلط الناتج عن قصف النظام المخلوع",
+          "link": "https://www.syria.tv/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-300-%D8%A3%D9%84%D9%81-%D9%85%D8%AA%D8%B1-%D9%85%D9%83%D8%B9%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D9%82%D8%A7%D8%B6-%D9%81%D9%8A-%D8%AD%D8%B1%D8%B3%D8%AA%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-10-28T15:03:44.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Jordan, Syria seek to reduce tensions following strike with joint security committee - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3428,w_4987/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were ki",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were kil",
           "link": "https://www.jpost.com/middle-east/article-913114",
           "publishedAt": "2026-10-28T13:29:44.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -74,7 +100,7 @@
           "link": "https://www.jpost.com/middle-east/iran-news/article-913092",
           "publishedAt": "2026-10-28T11:00:33.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -86,7 +112,7 @@
           "link": "https://www.thenationalnews.com/opinion/comment/2026/10/28/gulf-syria-refugees-middle-east-economy/",
           "publishedAt": "2026-10-28T11:00:00.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -98,7 +124,7 @@
           "link": "https://npasyria.com/en/143167/",
           "publishedAt": "2026-10-28T09:10:26.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -110,7 +136,7 @@
           "link": "https://www.ynetnews.com/article/skgzl7kpgx",
           "publishedAt": "2026-10-28T07:34:07.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -146,7 +172,7 @@
           "link": "https://www.ynetnews.com/article/s1xb8xkpgx",
           "publishedAt": "2026-10-28T04:27:56.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -162,25 +188,25 @@
           "us": false
         },
         {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Jordanian Air Force strikes Syria in retaliation for deadly church attack",
-          "excerpt": "The Royal Jordanian Air Force launched multiple airstrikes on October 26, targeting what it called terrorist organizations in southern Syria that were linked to the perpetrators of Friday’s attack on... The post Jordanian Air Force strikes ",
-          "link": "https://www.fdd.org/analysis/jordanian-air-force-strikes-syria-in-retaliation-for-deadly-church-attack/",
-          "publishedAt": "2026-10-27T17:38:16.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "محكمة الجنايات الرابعة تحكم بالسجن 15 عاما على محمد إسلام أرناؤوطي",
+          "excerpt": "قالت اللجنة إن أرناؤوطي أُدين استناداً إلى المادة 357 من قانون العقوبات السوري، مشيرة إلى أن الأفعال التي أُدين بها تندرج، وفق التكييف القانوني الوارد",
+          "link": "https://www.syria.tv/%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D8%AA%D8%AD%D9%83%D9%85-%D8%A8%D8%A7%D9%84%D8%B3%D8%AC%D9%86-15-%D8%B9%D8%A7%D9%85%D8%A7-%D8%B9%D9%84%D9%89-%D9%85%D8%AD%D9%85%D8%AF-%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D8%A3%D8%B1%D9%86%D8%A7%D8%A4%D9%88%D8%B7%D9%8A",
+          "publishedAt": "2026-10-27T23:38:31.000Z",
           "files": [],
           "seenBefore": true,
-          "us": false
+          "us": true
         },
         {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Iraq juggles border security and ties with Iran, Syria, and Jordan",
-          "excerpt": "Iraqi Prime Minister Ali al Zaidi traveled to Jordan on October 26 for a series of meetings with Jordanian officials. Among the topics discussed was a desire to “increase cooperation and coordination... The post Iraq juggles border security",
-          "link": "https://www.fdd.org/analysis/iraq-juggles-border-security-and-ties-with-iran-syria-and-jordan/",
-          "publishedAt": "2026-10-27T15:42:50.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا والأردن تتفقان على تشكيل لجنة أمنية مشتركة للتحقيق في تداعيات القصف الأخير",
+          "excerpt": "اتفقت سوريا والأردن على تشكيل لجنة أمنية مشتركة للتحقيق في تداعيات القصف الأخير، في خطوة تهدف إلى بحث ملابساته وتنسيق الجهود الأمنية بين البلدين.",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%AA%D8%AA%D9%81%D9%82%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D9%84%D8%AC%D9%86%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%8A-%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1",
+          "publishedAt": "2026-10-27T22:13:42.000Z",
           "files": [],
           "seenBefore": true,
           "us": false
@@ -190,41 +216,36 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 4,
       "sources": [
-        "Al Jazeera English",
+        "تلفزيون سوريا",
         "North Press Agency (English)",
         "Ynet News (English)",
-        "The National",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Jerusalem Post — الشرق الأوسط"
+        "The National"
       ],
       "circles": [
-        "الإعلام الدولي",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي",
-        "الإعلام المتخصص",
-        "مراكز الفكر",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 6,
+      "newItems": 1,
       "stale": false,
-      "echoed": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 56,
+      "score": 29,
       "items": [
         {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Victims of Jordan’s air strikes in Syria",
-          "excerpt": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-          "publishedAt": "2026-10-28T12:35:19.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اختطاف شاب وحاجز جديد.. الاحتلال يواصل توغلاته في ريف القنيطرة",
+          "excerpt": "نصبت قوات الاحتلال الإسرائيلي حاجزاً عسكرياً على طريق بئر عجم-رويحينة، واختطفت مدنياً عقب مداهمة منزله في مزرعة الرزانية بريف القنيطرة",
+          "link": "https://www.syria.tv/%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D8%B4%D8%A7%D8%A8-%D9%88%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-28T11:27:10.000Z",
           "files": [
             "israel"
           ],
@@ -242,7 +263,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -256,7 +277,21 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل في القنيطرة ويفرج عن شاب اختطفه",
+          "excerpt": "نفذت قوات الاحتلال الإسرائيلي توغلات بآليات عسكرية بريف القنيطرة شملت تل كروم وقرية مجدوليا، تزامناً مع إفراجها عن شاب اختطفته بالأمس وتحليق مكثف للطيران الحربي",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87",
+          "publishedAt": "2026-10-28T07:58:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
           "us": false
         },
         {
@@ -270,7 +305,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -298,7 +333,21 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوة من جيش الاحتلال الإسرائيلي تتوغل بسبع آليات عسكرية في ريف القنيطرة",
+          "excerpt": "قال المراسل إن القوة الإسرائيلية تتألف من سبع سيارات عسكرية، وتمركزت بالقرب من مسجد القرية عقب دخولها إلى المعلقة",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A9-%D9%85%D9%86-%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%B3%D8%A8%D8%B9-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-27T21:18:51.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
           "us": false
         },
         {
@@ -309,48 +358,6 @@
           "excerpt": "With the change bloc projected to win 53 seats against Netanyahu's 50, Eisenkot pledges to form a government committed to military conscription; Yair Golan calls it a ‘historic opportunity,’ while Likud's Gideon Sa'ar warns the left is cele",
           "link": "https://www.ynetnews.com/article/ryu6afrnzg",
           "publishedAt": "2026-10-27T20:53:50.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Looking Over Benjamin Netanyahu’s Shoulder",
-          "excerpt": "Yonah Jeremy Bob and Elliot Kaufman. In the War Room: The Inside Story of Israel’s Fight Against Hamas and the Iranian Axis (Brentwood, Post Hill Press). 352pp., $32.50. In the immediate aftermath... The post Looking Over Benjamin Netanyahu",
-          "link": "https://www.fdd.org/analysis/looking-over-benjamin-netanyahus-shoulder/",
-          "publishedAt": "2026-10-27T19:09:28.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Jordanian source justifies civilian deaths in Syria’s Daraa airstrike",
-          "excerpt": "QAMISHLI, Syria (North Press) &#8211; A Jordanian source offered on Tuesday an explanation for the deaths of civilians in a Jordanian airstrike in the countryside of Daraa governorate on Monday, saying they were killed by the force of the b",
-          "link": "https://npasyria.com/en/143152/",
-          "publishedAt": "2026-10-27T16:07:38.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Arab conspiracy theorists blame Israel for Jordanian strikes on Syria, attack on Jordan church",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3668,w_5500/743556' alt='The grounds of Saint George’s Greek Orthodox Church, where gunmen opened fire during a funeral the previou",
-          "link": "https://www.jpost.com/middle-east/article-913038",
-          "publishedAt": "2026-10-27T15:32:10.000Z",
           "files": [
             "israel"
           ],
@@ -366,31 +373,45 @@
       "contested": false,
       "independentSources": 3,
       "sources": [
-        "Al Jazeera English",
         "سانا — قسم السياسة",
+        "تلفزيون سوريا",
         "The National"
       ],
       "circles": [
-        "الإعلام الدولي",
         "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 24,
+      "score": 21,
       "items": [
         {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-          "excerpt": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
-          "link": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-          "publishedAt": "2026-10-28T13:47:39.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مدير الشؤون القنصلية في وزارة الخارجية يبحث مع المبعوث البريطاني التعاون القنصلي",
+          "excerpt": "عقد مدير إدارة الشؤون القنصلية في وزارة الخارجية والمغتربين محمد يعقوب العمر اليوم ‏الأربعاء جلسة مباحثات مع المبعوث البريطاني الخاص إلى سوريا بالإنابة باري بيتش.‏",
+          "link": "https://sana.sy/politics/2619904/",
+          "publishedAt": "2026-10-28T18:05:12.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الخارجية السورية تستدعي السفير الأردني احتجاجا على قصف مواقع في درعا",
+          "excerpt": "دمشق تحتج على الغارات الأردنية في درعا وتستدعي سفير عمّان، وسط سقوط 7 مدنيين بينهم نساء وأطفال",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D8%B5%D9%81-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-10-28T17:51:00.000Z",
           "files": [
             "diplomacy"
           ],
@@ -408,21 +429,86 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
-          "title": "Iraq's Al Zaidi visits Syria to discuss economic and security ties",
-          "excerpt": "Iraqi Prime Minister Ali Al Zaidi started a visit to Syria on Wednesday, the first such visit by an Iraqi leader since the ouster of Bashar Al Assad in December 2024.Mr Al Zaidi, who is being accompanied by a federal delegation, is set to h",
+          "title": "'One people in two countries': Iraq's Al Zaidi calls for partnership on first visit to Syria",
+          "excerpt": "Iraqi Prime Minister Ali Al Zaidi and Syrian President Ahmad Al Shara agreed on Wednesday to push ahead with energy, trade and security co-operation, on the first visit by an Iraqi leader to Damascus since the regime of Bashar Al Assad fell",
           "link": "https://www.thenationalnews.com/news/mena/2026/10/28/iraqs-al-zaidi-begins-visit-to-syria-in-first-high-profile-trip-since-al-shara-took-power/",
           "publishedAt": "2026-10-28T10:33:53.000Z",
           "files": [
             "diplomacy"
           ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 18,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أنقرة تكشف تفاصيل زيارة عسكرية إلى اللاذقية لتطوير قدرات البحرية السورية",
+          "excerpt": "بحثت تركيا تعزيز قدرات البحرية السورية خلال زيارة وفد عسكري إلى اللاذقية، ضم مسؤولين عن التدريب واللوجستيات والصناعات الدفاعية",
+          "link": "https://www.syria.tv/%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D8%A7%D8%B0%D9%82%D9%8A%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-10-28T18:11:52.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
           "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد تداول مقاطع مصورة لتعنيف طفلها.. توقيف أم سورية في تركيا",
+          "excerpt": "بدأت القضية في 27 من تشرين الأول، عقب انتشار منشورات ومقاطع مصورة تتحدث عن تعرض طفل للضرب في حي عثمان يوزغاتلي التابع لمنطقة أفلار في ولاية أيدين",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%85%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%AA%D8%B9%D9%86%D9%8A%D9%81-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-10-28T16:52:55.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "إعصار في أنطاليا التركية يودي بحياة 3 عمال سوريين",
+          "excerpt": "توفي ثلاثة عمال سوريين وعامل تركي، وأصيب آخر، من جراء إعصار ضرب موقع بناء في منطقة كيبيز بولاية أنطاليا جنوبي تركيا، وأدى إلى تحطم حاويتين سكنيتين كان العمال",
+          "link": "https://www.syria.tv/%D8%A5%D8%B9%D8%B5%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A3%D9%86%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%8A%D9%88%D8%AF%D9%8A-%D8%A8%D8%AD%D9%8A%D8%A7%D8%A9-3-%D8%B9%D9%85%D8%A7%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86",
+          "publishedAt": "2026-10-27T21:11:42.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -441,7 +527,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-28 08:23",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-28 15:16",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -482,14 +568,16 @@
     {
       "id": "economy",
       "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط"
+        "Jerusalem Post — الشرق الأوسط",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي"
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -497,7 +585,7 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 12,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -509,6 +597,21 @@
           "publishedAt": "2026-10-28T12:31:36.000Z",
           "files": [
             "economy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الشرع يستقبل الزيدي في دمشق.. النفط والتجارة والأمن على طاولة المباحثات",
+          "excerpt": "توجه رئيس الوزراء العراقي علي فالح الزيدي إلى دمشق على رأس وفد رسمي، لبحث العلاقات الثنائية مع الرئيس أحمد الشرع، مع التركيز على التعاون الاقتصادي والتجاري.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%B9%D9%84%D9%89-%D8%B7%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA",
+          "publishedAt": "2026-10-28T11:00:21.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
           ],
           "seenBefore": false,
           "us": false
