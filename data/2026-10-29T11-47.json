@@ -1,0 +1,200 @@
+{
+  "cycle": {
+    "generatedAt": "2026-10-29T11:47:50.892Z",
+    "windowHours": 24,
+    "from": "2026-10-28T11:47:50.892Z",
+    "to": "2026-10-29T11:47:50.892Z"
+  },
+  "counts": {
+    "total": 19,
+    "byCircle": {
+      "الإعلام السوري المستقل": 11,
+      "الإعلام المتخصص": 1,
+      "الملف الإسرائيلي والتركي": 3,
+      "المصادر الرسمية السورية": 3,
+      "مراكز الفكر": 1
+    },
+    "bySource": {
+      "North Press Agency (English)": 2,
+      "تلفزيون سوريا": 9,
+      "The National": 1,
+      "Jerusalem Post — الشرق الأوسط": 3,
+      "سانا — قسم السياسة": 3,
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. warns Gulf states of possible fresh strikes on Iran after midterms",
+      "excerpt": "QAMISHLI, Syria (North Press) – The United States warned several Arab Gulf states to prepare for a possible short but intense military campaign against Iran after the Nov. 3 midterm elections, as Washington and Israel reportedly prepare for",
+      "link": "https://npasyria.com/en/143196/",
+      "publishedAt": "2026-10-29T09:24:31.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل في أطراف جباتا الخشب بالقنيطرة",
+      "excerpt": "توغلت قوة للاحتلال الإسرائيلي، الخميس، في أطراف قرية جباتا الخشب بريف القنيطرة الشمالي.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-29T08:34:06.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الحصيلة الأعلى بين المهاجرين.. وفاة 82 عاملا سوريا خلال عامين في تركيا",
+      "excerpt": "وثقت بيانات عمالية تركية وفاة 678 عاملاً مهاجراً ولاجئاً منذ عام 2020، بينهم 82 سورياً خلال عامي 2024 و2025، وسط مخاوف من ارتفاع العدد الفعلي للضحايا.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D9%88%D9%81%D8%A7%D8%A9-82-%D8%B9%D8%A7%D9%85%D9%84%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D8%B9%D8%A7%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+      "publishedAt": "2026-10-29T08:24:00.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Kuwait summons Iranian ambassador in dispute over death sentence",
+      "excerpt": "Kuwait summoned Iran’s ambassador and handed him a formal note of protest over a statement by the Iranian embassy that it said interfered in its internal affairs and undermined the independence of its judiciary.Deputy Foreign Minister Hamad",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/10/29/kuwait-summons-iranian-ambassador-in-dispute-over-death-sentence/",
+      "publishedAt": "2026-10-29T07:57:41.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Florida teen accused of making bombs for ISIS",
+      "excerpt": "QAMISHLI, Syria (North Press) – A 15-year-old high school student in Florida was arrested on charges of making or attempting to make an explosive device after an investigation found he had communicated online with members and supporters of ",
+      "link": "https://npasyria.com/en/143179/",
+      "publishedAt": "2026-10-29T06:40:31.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "\"تعدد العملات\".. لماذا استعصى إخراج الليرة التركية من شمال غربي سوريا؟",
+      "excerpt": "بعد خطة حكومية وإجراءات ملزمة بالتعامل بالليرة السورية، تراجع استخدام الليرة التركية لفترة قبل أن تعود إلى التداول.",
+      "link": "https://www.syria.tv/%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B5%D9%89-%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%B4%D9%85%D8%A7%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+      "publishedAt": "2026-10-29T04:03:21.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا أمام مجلس الأمن: تمكين النساء وإشراكهن بالقرار ركيزة لبناء السلام والدولة",
+      "excerpt": "أكدت مديرة إدارة شؤون المغتربين واللاجئين في وزارة الخارجية والمغتربين نهلة عثمان أن النساء السوريات تحملن خلال السنوات الأربع عشرة الماضية أعباء الحرب والفقد",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%88%D8%A5%D8%B4%D8%B1%D8%A7%D9%83%D9%87%D9%86-%D8%A8%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%B1%D9%83%D9%8A%D8%B2%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9",
+      "publishedAt": "2026-10-28T21:54:23.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Qatar awaits Iran’s response to new nuclear proposal offering sanctions relief",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2726,w_4096/744063' alt='Qatar's Emir Sheikh Tamim bin Hamad Al Thani meets with Iranian Interior Minister Eskandar Momeni in Doha,",
+      "link": "https://www.jpost.com/middle-east/iran-news/article-913159",
+      "publishedAt": "2026-10-28T21:28:28.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "نهلة عثمان: سوريا بدأت مشاورات لإعداد خطة عمل وطنية خاصة بقرار مجلس الأمن 1325 ‏",
+      "excerpt": "أكدت مديرة إدارة شؤون المغتربين واللاجئين في وزارة الخارجية والمغتربين نهلة عثمان أن سوريا بدأت ‏مشاورات لإعداد خطة عمل وطنية خاصة بقرار مجلس الأمن 1325 مؤكدة أن ما يهم في هذه العملية ‏ليس وجود الإستراتيجية بحد ذاتها، بل طريقة بنائها واستنا",
+      "link": "https://sana.sy/politics/2620146/",
+      "publishedAt": "2026-10-28T21:12:41.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قصف مدفعي وتحركات عسكرية للاحتلال الإسرائيلي في ريف القنيطرة",
+      "excerpt": "قذائف مدفعية وحواجز وتوغلات إسرائيلية في ريف القنيطرة، بينها اختطاف شاب والإفراج عنه بعد ساعات",
+      "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-10-28T21:06:40.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "انطلاق مؤتمر دولي في إسطنبول بمشاركة 250 عالماً ومفكراً وداعية إسلامياً",
+      "excerpt": "انطلقت في مدينة إسطنبول التركية، اليوم الأربعاء، أعمال المؤتمر الدولي \"وحدة الأمة ‏الوسط.. من الثوابت إلى ميثاق الوحدة\"، بمشاركة نحو 250 عالماً ومفكراً وداعية من ‏مختلف دول العالم، بينهم وفد من سوريا برئاسة وزير الأوقاف الدكتور محمد أبو الخ",
+      "link": "https://sana.sy/politics/2620114/",
+      "publishedAt": "2026-10-28T20:55:32.000Z"
+    },
+    {
+      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+      "sourceId": "fdd",
+      "circle": "مراكز الفكر",
+      "title": "Jordanian Strikes Lay Bare Security Vacuum in Southern Syria",
+      "excerpt": "Jordan’s response to a deadly church attack at home has triggered a new confrontation with neighboring Syria. On October 26, the Jordanian Air Force launched multiple strikes across southern Syria... The post Jordanian Strikes Lay Bare Secu",
+      "link": "https://www.fdd.org/analysis/jordanian-strikes-lay-bare-security-vacuum-in-southern-syria/",
+      "publishedAt": "2026-10-28T19:40:23.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "أنقرة تكشف تفاصيل زيارة عسكرية إلى اللاذقية لتطوير قدرات البحرية السورية",
+      "excerpt": "بحثت تركيا تعزيز قدرات البحرية السورية خلال زيارة وفد عسكري إلى اللاذقية، ضم مسؤولين عن التدريب واللوجستيات والصناعات الدفاعية",
+      "link": "https://www.syria.tv/%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D8%A7%D8%B0%D9%82%D9%8A%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+      "publishedAt": "2026-10-28T18:11:52.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مدير الشؤون القنصلية في وزارة الخارجية يبحث مع المبعوث البريطاني التعاون القنصلي",
+      "excerpt": "عقد مدير إدارة الشؤون القنصلية في وزارة الخارجية والمغتربين محمد يعقوب العمر اليوم ‏الأربعاء جلسة مباحثات مع المبعوث البريطاني الخاص إلى سوريا بالإنابة باري بيتش.‏",
+      "link": "https://sana.sy/politics/2619904/",
+      "publishedAt": "2026-10-28T18:05:12.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الخارجية السورية تستدعي السفير الأردني احتجاجا على قصف مواقع في درعا",
+      "excerpt": "دمشق تحتج على الغارات الأردنية في درعا وتستدعي سفير عمّان، وسط سقوط 7 مدنيين بينهم نساء وأطفال",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7-%D8%B9%D9%84%D9%89-%D9%82%D8%B5%D9%81-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-10-28T17:51:00.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "بعد تداول مقاطع مصورة لتعنيف طفلها.. توقيف أم سورية في تركيا",
+      "excerpt": "بدأت القضية في 27 من تشرين الأول، عقب انتشار منشورات ومقاطع مصورة تتحدث عن تعرض طفل للضرب في حي عثمان يوزغاتلي التابع لمنطقة أفلار في ولاية أيدين",
+      "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%85%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%AA%D8%B9%D9%86%D9%8A%D9%81-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+      "publishedAt": "2026-10-28T16:52:55.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "إطلاق مشروع لإزالة 300 ألف متر مكعب من الأنقاض في حرستا بريف دمشق",
+      "excerpt": "قال الدفاع المدني إن الأنقاض المستهدفة بالمشروع في حرستا تتكون بمعظمها من مخلفات الأبنية والكتل السكنية المدمرة والركام المختلط الناتج عن قصف النظام المخلوع",
+      "link": "https://www.syria.tv/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-300-%D8%A3%D9%84%D9%81-%D9%85%D8%AA%D8%B1-%D9%85%D9%83%D8%B9%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D9%82%D8%A7%D8%B6-%D9%81%D9%8A-%D8%AD%D8%B1%D8%B3%D8%AA%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+      "publishedAt": "2026-10-28T15:03:44.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Jordan, Syria seek to reduce tensions following strike with joint security committee - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3428,w_4987/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were ki",
+      "link": "https://www.jpost.com/middle-east/article-913114",
+      "publishedAt": "2026-10-28T13:29:44.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Iraqi PM al-Zaidi arrives in Syria in landmark post-Assad summit on security, trade - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_854,w_1280/732006' alt='Iraqi Prime Minister and the Commander-in-Chief of the Armed Forces, Ali Faleh Al-Zaidi chairs the Minister",
+      "link": "https://www.jpost.com/middle-east/article-913106",
+      "publishedAt": "2026-10-28T12:31:36.000Z"
+    }
+  ]
+}
