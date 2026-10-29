@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-29T11:47:50.892Z",
+    "generatedAt": "2026-10-29T17:35:47.275Z",
     "windowHours": 24,
-    "from": "2026-10-28T11:47:50.892Z",
-    "to": "2026-10-29T11:47:50.892Z"
+    "from": "2026-10-28T17:35:47.275Z",
+    "to": "2026-10-29T17:35:47.275Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 19,
-    "files": 6,
-    "withNew": 3,
+    "items": 21,
+    "files": 5,
+    "withNew": 2,
     "stale": 3,
-    "contested": 0,
+    "contested": 1,
     "echoed": 0,
     "americanItems": 2,
-    "archiveCycles": 1312
+    "archiveCycles": 1313
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,31 +22,31 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
   "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
       "independentSources": 6,
       "sources": [
+        "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
         "The National",
+        "Ynet News (English)",
         "سانا — قسم السياسة",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
+        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
+        "الملف الإسرائيلي",
         "المصادر الرسمية السورية",
-        "مراكز الفكر",
-        "الملف الإسرائيلي والتركي"
+        "مراكز الفكر"
       ],
       "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -54,8 +54,32 @@
       "stale": false,
       "echoed": false,
       "usItems": 1,
-      "score": 40,
+      "score": 44,
       "items": [
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Egypt rejects citizenship application by Hamas negotiator’s daughter on ‘security grounds’",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3080,w_4864/744219' alt='Chairman of the Palestinian Crossing Authority Nazmi Mhana (C) walks alongside Hamas leader Ghazi Hamad at",
+          "link": "https://www.jpost.com/middle-east/article-913260",
+          "publishedAt": "2026-10-29T17:21:28.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian MP says final steps agreed for Kobani, Rojava Universities merger",
+          "excerpt": "QAMISHLI, Syria (North Press) – Ahmed Murad, a member of Syria’s People’s Assembly, said on Thursday that officials had agreed on the final steps to integrate Kobani and Rojava universities during a meeting in Damascus with the higher educa",
+          "link": "https://npasyria.com/en/143224/",
+          "publishedAt": "2026-10-29T15:50:14.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -65,7 +89,7 @@
           "link": "https://npasyria.com/en/143196/",
           "publishedAt": "2026-10-29T09:24:31.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -77,7 +101,7 @@
           "link": "https://www.thenationalnews.com/news/gulf/2026/10/29/kuwait-summons-iranian-ambassador-in-dispute-over-death-sentence/",
           "publishedAt": "2026-10-29T07:57:41.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -88,6 +112,18 @@
           "excerpt": "QAMISHLI, Syria (North Press) – A 15-year-old high school student in Florida was arrested on charges of making or attempting to make an explosive device after an investigation found he had communicated online with members and supporters of ",
           "link": "https://npasyria.com/en/143179/",
           "publishedAt": "2026-10-29T06:40:31.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "'We must learn so that it doesn't happen again': Oct. 7 veterans prepare soldiers for the next war",
+          "excerpt": "Three years after battling Hamas terrorists on Oct. 7, rescuing civilians under fire and suffering severe injuries, four IDF officers are training the next generation of soldiers, determined to ensure they are never caught off guard again",
+          "link": "https://www.ynetnews.com/article/bjvcrwepge",
+          "publishedAt": "2026-10-29T06:39:37.000Z",
           "files": [],
           "seenBefore": false,
           "us": false
@@ -115,53 +151,74 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إطلاق مشروع لإزالة 300 ألف متر مكعب من الأنقاض في حرستا بريف دمشق",
-          "excerpt": "قال الدفاع المدني إن الأنقاض المستهدفة بالمشروع في حرستا تتكون بمعظمها من مخلفات الأبنية والكتل السكنية المدمرة والركام المختلط الناتج عن قصف النظام المخلوع",
-          "link": "https://www.syria.tv/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-300-%D8%A3%D9%84%D9%81-%D9%85%D8%AA%D8%B1-%D9%85%D9%83%D8%B9%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D9%82%D8%A7%D8%B6-%D9%81%D9%8A-%D8%AD%D8%B1%D8%B3%D8%AA%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
-          "publishedAt": "2026-10-28T15:03:44.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Jordan, Syria seek to reduce tensions following strike with joint security committee - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3428,w_4987/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were ki",
-          "link": "https://www.jpost.com/middle-east/article-913114",
-          "publishedAt": "2026-10-28T13:29:44.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "turkey",
       "label": "الملف التركي",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا"
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 15,
+      "score": 28,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية تركية لتشغيل خط الربط الكهربائي (حلب - بريجيك)",
+          "excerpt": "مباحثات فنية سورية تركية لتحديد آليات تشغيل خط الربط الكهربائي (حلب - بريجيك) تمهيداً لنقل 500 ميغاواط.",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%AE%D8%B7-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-%D8%AD%D9%84%D8%A8-%D8%A8%D8%B1%D9%8A%D8%AC%D9%8A%D9%83",
+          "publishedAt": "2026-10-29T15:50:48.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تُهنئ تركيا بمناسبة ذكرى يوم الجمهورية وتؤكد حرصها على تعزيز التعاون معها",
+          "excerpt": "تقدمت الجمهورية العربية السورية بأحر التهاني والتبريكات إلى الجمهورية التركية الصديقة حكومة وشعباً بمناسبة ذكرى يوم الجمهورية.",
+          "link": "https://sana.sy/syria-and-the-world/2620798/",
+          "publishedAt": "2026-10-29T15:12:16.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بريطانيا تحذر مواطنيها من السفر إلى المناطق الحدودية بين تركيا وسوريا",
+          "excerpt": "بريطانيا تحذر من الاقتراب من الحدود التركية السورية لمسافة 10 كيلومترات.. فهل تتأثر حركة السفر؟",
+          "link": "https://www.syria.tv/%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-10-29T14:28:20.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -173,7 +230,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -204,70 +261,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد تداول مقاطع مصورة لتعنيف طفلها.. توقيف أم سورية في تركيا",
-          "excerpt": "بدأت القضية في 27 من تشرين الأول، عقب انتشار منشورات ومقاطع مصورة تتحدث عن تعرض طفل للضرب في حي عثمان يوزغاتلي التابع لمنطقة أفلار في ولاية أيدين",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%85%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%AA%D8%B9%D9%86%D9%8A%D9%81-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-10-28T16:52:55.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 13,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل في أطراف جباتا الخشب بالقنيطرة",
-          "excerpt": "توغلت قوة للاحتلال الإسرائيلي، الخميس، في أطراف قرية جباتا الخشب بريف القنيطرة الشمالي.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-29T08:34:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قصف مدفعي وتحركات عسكرية للاحتلال الإسرائيلي في ريف القنيطرة",
-          "excerpt": "قذائف مدفعية وحواجز وتوغلات إسرائيلية في ريف القنيطرة، بينها اختطاف شاب والإفراج عنه بعد ساعات",
-          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-28T21:06:40.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -283,7 +276,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 05:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 11:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -321,7 +314,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 05:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 11:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -388,35 +381,49 @@
       ]
     },
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 05:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 11:47",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": -1,
+      "score": 4,
       "items": [
         {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Iraqi PM al-Zaidi arrives in Syria in landmark post-Assad summit on security, trade - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_854,w_1280/732006' alt='Iraqi Prime Minister and the Commander-in-Chief of the Armed Forces, Ali Faleh Al-Zaidi chairs the Minister",
-          "link": "https://www.jpost.com/middle-east/article-913106",
-          "publishedAt": "2026-10-28T12:31:36.000Z",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل في أطراف جباتا الخشب بالقنيطرة",
+          "excerpt": "توغلت قوة للاحتلال الإسرائيلي، الخميس، في أطراف قرية جباتا الخشب بريف القنيطرة الشمالي.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-29T08:34:06.000Z",
           "files": [
-            "economy"
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قصف مدفعي وتحركات عسكرية للاحتلال الإسرائيلي في ريف القنيطرة",
+          "excerpt": "قذائف مدفعية وحواجز وتوغلات إسرائيلية في ريف القنيطرة، بينها اختطاف شاب والإفراج عنه بعد ساعات",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-28T21:06:40.000Z",
+          "files": [
+            "israel"
           ],
           "seenBefore": true,
           "us": false
