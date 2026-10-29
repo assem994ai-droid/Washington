@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-29T00:08:50.800Z",
+    "generatedAt": "2026-10-29T05:41:04.745Z",
     "windowHours": 24,
-    "from": "2026-10-28T00:08:50.800Z",
-    "to": "2026-10-29T00:08:50.800Z"
+    "from": "2026-10-28T05:41:04.745Z",
+    "to": "2026-10-29T05:41:04.745Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 28,
+    "items": 30,
     "files": 7,
-    "withNew": 4,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 6,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 1310
+    "americanItems": 4,
+    "archiveCycles": 1311
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,8 +22,7 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
   "errors": [],
   "files": [
@@ -32,29 +31,31 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 6,
+      "independentSources": 7,
       "sources": [
         "سانا — قسم السياسة",
         "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط",
         "The National",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "Ynet News (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "مراكز الفكر",
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص"
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 00:08",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 38,
+      "score": 32,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -65,7 +66,7 @@
           "link": "https://sana.sy/politics/2620114/",
           "publishedAt": "2026-10-28T20:55:32.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -97,7 +98,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Jordan, Syria seek to reduce tensions following strike with joint security committee - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3428,w_4987/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were ki",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were kill",
           "link": "https://www.jpost.com/middle-east/article-913114",
           "publishedAt": "2026-10-28T13:29:44.000Z",
           "files": [],
@@ -141,6 +142,18 @@
           "us": false
         },
         {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "IDF kills Hamas commandos involved in Alexander Dancyg's October 7 kidnapping",
+          "excerpt": "Ahmed Muhammad Ahmed Baraka, who the IDF says took part in Alexander Dancyg's kidnapping at Kibbutz Nir Oz and later helped hold Nimrod Cohen hostage, was killed in southern Gaza; two other Nukhba operatives were killed Friday in northern G",
+          "link": "https://www.ynetnews.com/article/skgzl7kpgx",
+          "publishedAt": "2026-10-28T07:34:07.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
@@ -163,16 +176,194 @@
           "files": [],
           "seenBefore": true,
           "us": true
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Ynet News (English)",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي",
+        "الإعلام المتخصص"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 00:08",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 18,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قصف مدفعي وتحركات عسكرية للاحتلال الإسرائيلي في ريف القنيطرة",
+          "excerpt": "قذائف مدفعية وحواجز وتوغلات إسرائيلية في ريف القنيطرة، بينها اختطاف شاب والإفراج عنه بعد ساعات",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-28T21:06:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اختطاف شاب وحاجز جديد.. الاحتلال يواصل توغلاته في ريف القنيطرة",
+          "excerpt": "نصبت قوات الاحتلال الإسرائيلي حاجزاً عسكرياً على طريق بئر عجم-رويحينة، واختطفت مدنياً عقب مداهمة منزله في مزرعة الرزانية بريف القنيطرة",
+          "link": "https://www.syria.tv/%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D8%B4%D8%A7%D8%A8-%D9%88%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-28T11:27:10.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces detain 5 residents during incursion in Syria&#8217;s Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces late on Tuesday entered the village of al-Muallaqa in southern Quneitra, southern Syria, with seven military vehicles, deploying along the main road near the village mosque and searching severa",
+          "link": "https://npasyria.com/en/143170/",
+          "publishedAt": "2026-10-28T10:01:50.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Israel election results: Netanyahu bloc drops to 54 seats as Arab parties rise to 18",
+          "excerpt": "With 65% of polling stations reporting, Likud leads with 27 seats and Eisenkot's Yashar! holds 21; Netanyahu's bloc stands at 54, Eisenkot's at 48 and Arab parties at 18; Yair Golan calls for a government backed by Arab parties as smaller f",
+          "link": "https://www.ynetnews.com/article/hjnatbkaml",
+          "publishedAt": "2026-10-28T08:16:16.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل في القنيطرة ويفرج عن شاب اختطفه",
+          "excerpt": "نفذت قوات الاحتلال الإسرائيلي توغلات بآليات عسكرية بريف القنيطرة شملت تل كروم وقرية مجدوليا، تزامناً مع إفراجها عن شاب اختطفته بالأمس وتحليق مكثف للطيران الحربي",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87",
+          "publishedAt": "2026-10-28T07:58:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "‘Netanyahu has lost’: Yair Golan calls for coalition with Arab parties",
+          "excerpt": "With 60% of votes counted and neither bloc holding a majority, Democrats leader urges opposition to join forces with Ra'am and the Joint List, arguing that Arab votes must count equally and that forming a government of change is a national ",
+          "link": "https://www.ynetnews.com/article/hyphwxjtzl",
+          "publishedAt": "2026-10-28T07:56:26.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
         },
         {
           "source": "The National",
           "sourceId": "the-national",
           "circle": "الإعلام المتخصص",
-          "title": "Jordan and Syria form joint security committee after deadly strikes",
-          "excerpt": "Jordan and Syria have agreed to form a joint security committee to examine the details and the repercussions of Jordanian strikes against ISIS, the two countries' foreign ministers have said. The Jordanian army on Tuesday said at least 20 I",
-          "link": "https://www.thenationalnews.com/news/mena/2026/10/28/jordan-and-syria-form-joint-security-committee-after-deadly-strikes/",
-          "publishedAt": "2026-10-28T04:22:40.000Z",
-          "files": [],
+          "title": "Netanyahu claims victory, Jordan and Syria agree on security committee and Dubai approves Dh2bn urban plan",
+          "excerpt": "In today’s episode of Trending Middle East, Israeli Prime Minister Benjamin Netanyahu claims victory in the country's election, although neither his bloc nor the opposition has secured a parliamentary majority. About 600,000 absentee ballot",
+          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/28/netanyahu-claims-victory-jordan-and-syria-agree-on-security-committee-and-dubai-approves-dh2bn-urban-plan/",
+          "publishedAt": "2026-10-28T06:25:48.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 14,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"تعدد العملات\".. لماذا استعصى إخراج الليرة التركية من شمال غربي سوريا؟",
+          "excerpt": "بعد خطة حكومية وإجراءات ملزمة بالتعامل بالليرة السورية، تراجع استخدام الليرة التركية لفترة قبل أن تعود إلى التداول.",
+          "link": "https://www.syria.tv/%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B5%D9%89-%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%B4%D9%85%D8%A7%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-10-29T04:03:21.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أنقرة تكشف تفاصيل زيارة عسكرية إلى اللاذقية لتطوير قدرات البحرية السورية",
+          "excerpt": "بحثت تركيا تعزيز قدرات البحرية السورية خلال زيارة وفد عسكري إلى اللاذقية، ضم مسؤولين عن التدريب واللوجستيات والصناعات الدفاعية",
+          "link": "https://www.syria.tv/%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D8%A7%D8%B0%D9%82%D9%8A%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-10-28T18:11:52.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بعد تداول مقاطع مصورة لتعنيف طفلها.. توقيف أم سورية في تركيا",
+          "excerpt": "بدأت القضية في 27 من تشرين الأول، عقب انتشار منشورات ومقاطع مصورة تتحدث عن تعرض طفل للضرب في حي عثمان يوزغاتلي التابع لمنطقة أفلار في ولاية أيدين",
+          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%85%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%AA%D8%B9%D9%86%D9%8A%D9%81-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+          "publishedAt": "2026-10-28T16:52:55.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -194,13 +385,13 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 00:08",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 23,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -213,7 +404,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -227,7 +418,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -289,101 +480,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "The National"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 22,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قصف مدفعي وتحركات عسكرية للاحتلال الإسرائيلي في ريف القنيطرة",
-          "excerpt": "قذائف مدفعية وحواجز وتوغلات إسرائيلية في ريف القنيطرة، بينها اختطاف شاب والإفراج عنه بعد ساعات",
-          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-28T21:06:40.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اختطاف شاب وحاجز جديد.. الاحتلال يواصل توغلاته في ريف القنيطرة",
-          "excerpt": "نصبت قوات الاحتلال الإسرائيلي حاجزاً عسكرياً على طريق بئر عجم-رويحينة، واختطفت مدنياً عقب مداهمة منزله في مزرعة الرزانية بريف القنيطرة",
-          "link": "https://www.syria.tv/%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D8%B4%D8%A7%D8%A8-%D9%88%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-10-28T11:27:10.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces detain 5 residents during incursion in Syria&#8217;s Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces late on Tuesday entered the village of al-Muallaqa in southern Quneitra, southern Syria, with seven military vehicles, deploying along the main road near the village mosque and searching severa",
-          "link": "https://npasyria.com/en/143170/",
-          "publishedAt": "2026-10-28T10:01:50.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل في القنيطرة ويفرج عن شاب اختطفه",
-          "excerpt": "نفذت قوات الاحتلال الإسرائيلي توغلات بآليات عسكرية بريف القنيطرة شملت تل كروم وقرية مجدوليا، تزامناً مع إفراجها عن شاب اختطفته بالأمس وتحليق مكثف للطيران الحربي",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87",
-          "publishedAt": "2026-10-28T07:58:46.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Netanyahu claims victory, Jordan and Syria agree on security committee and Dubai approves Dh2bn urban plan",
-          "excerpt": "In today’s episode of Trending Middle East, Israeli Prime Minister Benjamin Netanyahu claims victory in the country's election, although neither his bloc nor the opposition has secured a parliamentary majority. About 600,000 absentee ballot",
-          "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/28/netanyahu-claims-victory-jordan-and-syria-agree-on-security-committee-and-dubai-approves-dh2bn-urban-plan/",
-          "publishedAt": "2026-10-28T06:25:48.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -395,26 +491,26 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 00:08",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 6,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Qatar awaits Iran’s response to new nuclear proposal offering sanctions relief",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744063' alt='Qatar's Emir Sheikh Tamim bin Hamad Al Thani meets with Iranian Interior Minister Eskandar Momeni in Doha, ",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2726,w_4096/744063' alt='Qatar's Emir Sheikh Tamim bin Hamad Al Thani meets with Iranian Interior Minister Eskandar Momeni in Doha,",
           "link": "https://www.jpost.com/middle-east/iran-news/article-913159",
           "publishedAt": "2026-10-28T21:28:28.000Z",
           "files": [
             "sanctions"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         }
       ]
@@ -422,24 +518,22 @@
     {
       "id": "congress",
       "label": "ملف الكونغرس والتشريع",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "North Press Agency (English)",
-        "The National"
+        "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-28 20:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 00:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 13,
+      "usItems": 1,
+      "score": 6,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -454,71 +548,6 @@
           ],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "The name game: Abdul El-Sayed’s Senate bid tests the limits of US politics",
-          "excerpt": "El-Sayed, El-Sayeed, El-Sayad – for months, Abdul El-Sayed, an Egyptian American running for the US Senate for Michigan, has had his name mispronounced, sometimes deliberately.US President Donald Trump has frequently mocked his name and sai",
-          "link": "https://www.thenationalnews.com/news/us/2026/10/28/abdul-el-sayed-name-election-michigan/",
-          "publishedAt": "2026-10-28T03:00:00.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-28 20:20",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 4,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أنقرة تكشف تفاصيل زيارة عسكرية إلى اللاذقية لتطوير قدرات البحرية السورية",
-          "excerpt": "بحثت تركيا تعزيز قدرات البحرية السورية خلال زيارة وفد عسكري إلى اللاذقية، ضم مسؤولين عن التدريب واللوجستيات والصناعات الدفاعية",
-          "link": "https://www.syria.tv/%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D8%A7%D8%B0%D9%82%D9%8A%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-10-28T18:11:52.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "بعد تداول مقاطع مصورة لتعنيف طفلها.. توقيف أم سورية في تركيا",
-          "excerpt": "بدأت القضية في 27 من تشرين الأول، عقب انتشار منشورات ومقاطع مصورة تتحدث عن تعرض طفل للضرب في حي عثمان يوزغاتلي التابع لمنطقة أفلار في ولاية أيدين",
-          "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%85%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%AA%D8%B9%D9%86%D9%8A%D9%81-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
-          "publishedAt": "2026-10-28T16:52:55.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -536,7 +565,7 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-28 20:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-29 00:08",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -549,7 +578,7 @@
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
           "title": "Iraqi PM al-Zaidi arrives in Syria in landmark post-Assad summit on security, trade - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_854,w_1280/732006' alt='Iraqi Prime Minister and the Commander-in-Chief of the Armed Forces, Ali Faleh Al-Zaidi chairs the Minister",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/732006' alt='Iraqi Prime Minister and the Commander-in-Chief of the Armed Forces, Ali Faleh Al-Zaidi chairs the Ministeri",
           "link": "https://www.jpost.com/middle-east/article-913106",
           "publishedAt": "2026-10-28T12:31:36.000Z",
           "files": [

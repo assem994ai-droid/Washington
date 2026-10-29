@@ -1,30 +1,41 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-29T00:08:50.800Z",
+    "generatedAt": "2026-10-29T05:41:04.745Z",
     "windowHours": 24,
-    "from": "2026-10-28T00:08:50.800Z",
-    "to": "2026-10-29T00:08:50.800Z"
+    "from": "2026-10-28T05:41:04.745Z",
+    "to": "2026-10-29T05:41:04.745Z"
   },
   "counts": {
-    "total": 28,
+    "total": 30,
     "byCircle": {
-      "الإعلام السوري المستقل": 14,
+      "الإعلام السوري المستقل": 15,
       "الملف الإسرائيلي والتركي": 4,
       "المصادر الرسمية السورية": 4,
       "مراكز الفكر": 1,
-      "الإعلام المتخصص": 5
+      "الإعلام المتخصص": 3,
+      "الملف الإسرائيلي": 3
     },
     "bySource": {
-      "تلفزيون سوريا": 9,
+      "تلفزيون سوريا": 10,
       "Jerusalem Post — الشرق الأوسط": 4,
       "سانا — قسم السياسة": 4,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "The National": 5,
-      "North Press Agency (English)": 5
+      "The National": 3,
+      "North Press Agency (English)": 5,
+      "Ynet News (English)": 3
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "\"تعدد العملات\".. لماذا استعصى إخراج الليرة التركية من شمال غربي سوريا؟",
+      "excerpt": "بعد خطة حكومية وإجراءات ملزمة بالتعامل بالليرة السورية، تراجع استخدام الليرة التركية لفترة قبل أن تعود إلى التداول.",
+      "link": "https://www.syria.tv/%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B5%D9%89-%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%B4%D9%85%D8%A7%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+      "publishedAt": "2026-10-29T04:03:21.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -39,7 +50,7 @@
       "sourceId": "jpost-me",
       "circle": "الملف الإسرائيلي والتركي",
       "title": "Qatar awaits Iran’s response to new nuclear proposal offering sanctions relief",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744063' alt='Qatar's Emir Sheikh Tamim bin Hamad Al Thani meets with Iranian Interior Minister Eskandar Momeni in Doha, ",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2726,w_4096/744063' alt='Qatar's Emir Sheikh Tamim bin Hamad Al Thani meets with Iranian Interior Minister Eskandar Momeni in Doha,",
       "link": "https://www.jpost.com/middle-east/iran-news/article-913159",
       "publishedAt": "2026-10-28T21:28:28.000Z"
     },
@@ -129,7 +140,7 @@
       "sourceId": "jpost-me",
       "circle": "الملف الإسرائيلي والتركي",
       "title": "Jordan, Syria seek to reduce tensions following strike with joint security committee - analysis",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3428,w_4987/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were ki",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/743994' alt='Mourners pray during the funeral of four members of the same family, including three children, who were kill",
       "link": "https://www.jpost.com/middle-east/article-913114",
       "publishedAt": "2026-10-28T13:29:44.000Z"
     },
@@ -138,7 +149,7 @@
       "sourceId": "jpost-me",
       "circle": "الملف الإسرائيلي والتركي",
       "title": "Iraqi PM al-Zaidi arrives in Syria in landmark post-Assad summit on security, trade - analysis",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_854,w_1280/732006' alt='Iraqi Prime Minister and the Commander-in-Chief of the Armed Forces, Ali Faleh Al-Zaidi chairs the Minister",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/732006' alt='Iraqi Prime Minister and the Commander-in-Chief of the Armed Forces, Ali Faleh Al-Zaidi chairs the Ministeri",
       "link": "https://www.jpost.com/middle-east/article-913106",
       "publishedAt": "2026-10-28T12:31:36.000Z"
     },
@@ -215,6 +226,15 @@
       "publishedAt": "2026-10-28T09:10:26.000Z"
     },
     {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "Israel election results: Netanyahu bloc drops to 54 seats as Arab parties rise to 18",
+      "excerpt": "With 65% of polling stations reporting, Likud leads with 27 seats and Eisenkot's Yashar! holds 21; Netanyahu's bloc stands at 54, Eisenkot's at 48 and Arab parties at 18; Yair Golan calls for a government backed by Arab parties as smaller f",
+      "link": "https://www.ynetnews.com/article/hjnatbkaml",
+      "publishedAt": "2026-10-28T08:16:16.000Z"
+    },
+    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -224,6 +244,15 @@
       "publishedAt": "2026-10-28T07:58:46.000Z"
     },
     {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "‘Netanyahu has lost’: Yair Golan calls for coalition with Arab parties",
+      "excerpt": "With 60% of votes counted and neither bloc holding a majority, Democrats leader urges opposition to join forces with Ra'am and the Joint List, arguing that Arab votes must count equally and that forming a government of change is a national ",
+      "link": "https://www.ynetnews.com/article/hyphwxjtzl",
+      "publishedAt": "2026-10-28T07:56:26.000Z"
+    },
+    {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
       "circle": "الإعلام السوري المستقل",
@@ -231,6 +260,15 @@
       "excerpt": "DAMASCUS, Syria (North Press) – The U.S. military has spent more than $47 billion on the war against Iran, an increase of over 25 percent from the Pentagon’s estimate in July, Reuters reported on Tuesday. According to Pentagon data obtained",
       "link": "https://npasyria.com/en/143164/",
       "publishedAt": "2026-10-28T07:38:20.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "IDF kills Hamas commandos involved in Alexander Dancyg's October 7 kidnapping",
+      "excerpt": "Ahmed Muhammad Ahmed Baraka, who the IDF says took part in Alexander Dancyg's kidnapping at Kibbutz Nir Oz and later helped hold Nimrod Cohen hostage, was killed in southern Gaza; two other Nukhba operatives were killed Friday in northern G",
+      "link": "https://www.ynetnews.com/article/skgzl7kpgx",
+      "publishedAt": "2026-10-28T07:34:07.000Z"
     },
     {
       "source": "North Press Agency (English)",
@@ -258,24 +296,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – An American woman who traveled to Islamic State (ISIS)-controlled territory in Syria as a teenager was found guilty on Tuesday of receiving military training from the extremist group, U.S. prosecutors said. H",
       "link": "https://npasyria.com/en/143158/",
       "publishedAt": "2026-10-28T06:23:19.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Jordan and Syria form joint security committee after deadly strikes",
-      "excerpt": "Jordan and Syria have agreed to form a joint security committee to examine the details and the repercussions of Jordanian strikes against ISIS, the two countries' foreign ministers have said. The Jordanian army on Tuesday said at least 20 I",
-      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/jordan-and-syria-form-joint-security-committee-after-deadly-strikes/",
-      "publishedAt": "2026-10-28T04:22:40.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "The name game: Abdul El-Sayed’s Senate bid tests the limits of US politics",
-      "excerpt": "El-Sayed, El-Sayeed, El-Sayad – for months, Abdul El-Sayed, an Egyptian American running for the US Senate for Michigan, has had his name mispronounced, sometimes deliberately.US President Donald Trump has frequently mocked his name and sai",
-      "link": "https://www.thenationalnews.com/news/us/2026/10/28/abdul-el-sayed-name-election-michigan/",
-      "publishedAt": "2026-10-28T03:00:00.000Z"
     }
   ]
 }
