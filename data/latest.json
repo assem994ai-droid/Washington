@@ -1,23 +1,24 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-29T21:58:59.585Z",
+    "generatedAt": "2026-10-30T01:45:06.649Z",
     "windowHours": 24,
-    "from": "2026-10-28T21:58:59.585Z",
-    "to": "2026-10-29T21:58:59.585Z"
+    "from": "2026-10-29T01:45:06.649Z",
+    "to": "2026-10-30T01:45:06.649Z"
   },
   "counts": {
-    "total": 14,
+    "total": 15,
     "byCircle": {
       "المصادر الرسمية السورية": 2,
       "الإعلام السوري المستقل": 9,
       "الملف الإسرائيلي والتركي": 2,
-      "الإعلام المتخصص": 1
+      "الإعلام المتخصص": 2
     },
     "bySource": {
       "سانا — قسم السياسة": 2,
       "تلفزيون سوريا": 6,
       "Jerusalem Post — الشرق الأوسط": 2,
       "North Press Agency (English)": 3,
+      "Al-Monitor": 1,
       "The National": 1
     }
   },
@@ -76,6 +77,15 @@
       "excerpt": "QAMISHLI, Syria (North Press) – Ahmed Murad, a member of Syria’s People’s Assembly, said on Thursday that officials had agreed on the final steps to integrate Kobani and Rojava universities during a meeting in Damascus with the higher educa",
       "link": "https://npasyria.com/en/143224/",
       "publishedAt": "2026-10-29T15:50:14.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "US oil firm HKN aims to double Syria's output as it takes over Kurdish-run fields",
+      "excerpt": "HKN Vice President Matthew Zais tells Al-Monitor the company plans to double production at Syria’s northeastern oil fields while tackling pollution, as questions remain over the future of the Kurdish-run Jazira Oil Company.",
+      "link": "https://www.al-monitor.com/originals/2026/10/us-oil-firm-hkn-aims-double-syrias-output-it-takes-over-kurdish-run-fields",
+      "publishedAt": "2026-10-29T15:34:41.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
