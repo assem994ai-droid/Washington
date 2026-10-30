@@ -1,29 +1,49 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-30T01:45:06.649Z",
+    "generatedAt": "2026-10-30T07:44:24.853Z",
     "windowHours": 24,
-    "from": "2026-10-29T01:45:06.649Z",
-    "to": "2026-10-30T01:45:06.649Z"
+    "from": "2026-10-29T07:44:24.853Z",
+    "to": "2026-10-30T07:44:24.853Z"
   },
   "counts": {
     "total": 15,
     "byCircle": {
+      "الإعلام المتخصص": 3,
+      "مراكز الفكر": 1,
       "المصادر الرسمية السورية": 2,
-      "الإعلام السوري المستقل": 9,
-      "الملف الإسرائيلي والتركي": 2,
-      "الإعلام المتخصص": 2
+      "الإعلام السوري المستقل": 7,
+      "الملف الإسرائيلي والتركي": 2
     },
     "bySource": {
+      "Al-Monitor": 2,
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
       "سانا — قسم السياسة": 2,
-      "تلفزيون سوريا": 6,
+      "تلفزيون سوريا": 5,
       "Jerusalem Post — الشرق الأوسط": 2,
-      "North Press Agency (English)": 3,
-      "Al-Monitor": 1,
+      "North Press Agency (English)": 2,
       "The National": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Dodging fuel price hikes, Damascus drivers turn to electric cars",
+      "excerpt": "<p>Taxi driver Mohammed Kanaan drives his shiny new electric car around Damascus's rundown streets, hoping for higher profits as spiking petrol prices made his old car too expensive to run.</p> <p>He is among some in the Syrian capital who ",
+      "link": "https://www.al-monitor.com/originals/2026/10/dodging-fuel-price-hikes-damascus-drivers-turn-electric-cars",
+      "publishedAt": "2026-10-30T02:30:34.000Z"
+    },
+    {
+      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+      "sourceId": "fdd",
+      "circle": "مراكز الفكر",
+      "title": "Jordanian airstrikes against ISIS cells in Syria",
+      "excerpt": "The post Jordanian airstrikes against ISIS cells in Syria appeared first on FDD.",
+      "link": "https://www.fdd.org/in_the_news/jordanian-airstrikes-against-isis-cells-in-syria/",
+      "publishedAt": "2026-10-30T02:14:57.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -140,24 +160,6 @@
       "excerpt": "Kuwait summoned Iran’s ambassador and handed him a formal note of protest over a statement by the Iranian embassy that it said interfered in its internal affairs and undermined the independence of its judiciary.Deputy Foreign Minister Hamad",
       "link": "https://www.thenationalnews.com/news/gulf/2026/10/29/kuwait-summons-iranian-ambassador-in-dispute-over-death-sentence/",
       "publishedAt": "2026-10-29T07:57:41.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Florida teen accused of making bombs for ISIS",
-      "excerpt": "QAMISHLI, Syria (North Press) – A 15-year-old high school student in Florida was arrested on charges of making or attempting to make an explosive device after an investigation found he had communicated online with members and supporters of ",
-      "link": "https://npasyria.com/en/143179/",
-      "publishedAt": "2026-10-29T06:40:31.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "\"تعدد العملات\".. لماذا استعصى إخراج الليرة التركية من شمال غربي سوريا؟",
-      "excerpt": "بعد خطة حكومية وإجراءات ملزمة بالتعامل بالليرة السورية، تراجع استخدام الليرة التركية لفترة قبل أن تعود إلى التداول.",
-      "link": "https://www.syria.tv/%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B3%D8%AA%D8%B9%D8%B5%D9%89-%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%86-%D8%B4%D9%85%D8%A7%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-      "publishedAt": "2026-10-29T04:03:21.000Z"
     }
   ]
 }
