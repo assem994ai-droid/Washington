@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-30T19:39:03.519Z",
+    "generatedAt": "2026-10-30T23:13:01.001Z",
     "windowHours": 24,
-    "from": "2026-10-29T19:39:03.519Z",
-    "to": "2026-10-30T19:39:03.519Z"
+    "from": "2026-10-29T23:13:01.001Z",
+    "to": "2026-10-30T23:13:01.001Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
+    "items": 14,
     "files": 3,
-    "withNew": 3,
-    "stale": 0,
-    "contested": 0,
+    "withNew": 2,
+    "stale": 1,
+    "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 1318
+    "americanItems": 3,
+    "archiveCycles": 1319
   },
   "emptyCircles": [
     "الكونغرس",
@@ -34,13 +34,15 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
+        "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
@@ -48,9 +50,33 @@
       "newItems": 2,
       "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 23,
+      "usItems": 3,
+      "score": 31,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "هيئة مكافحة غسل الأموال تشارك في اجتماع مجموعة العمل المالي في باريس",
+          "excerpt": "شاركت هيئة مكافحة غسل الأموال وتمويل الإرهاب ممثلة برئيسها صفوت رسلان، في الاجتماع العام لمجموعة العمل المالي (FATF) الذي عقد في العاصمة الفرنسية باريس برئاسة المملكة المتحدة، وذلك بعد غياب سوريا عن المشاركة لأكثر من 15 عاماً.",
+          "link": "https://sana.sy/syria-and-the-world/2622027/",
+          "publishedAt": "2026-10-30T22:33:05.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Syria&#8217;s counterterrorism dilemma: Who can Washington trust?",
+          "excerpt": "The post Syria&#8217;s counterterrorism dilemma: Who can Washington trust? appeared first on FDD.",
+          "link": "https://www.fdd.org/podcasts/syrias-counterterrorism-dilemma-who-can-washington-trust/",
+          "publishedAt": "2026-10-30T20:18:43.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -60,7 +86,7 @@
           "link": "https://sana.sy/reports/2621840/",
           "publishedAt": "2026-10-30T17:19:54.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -72,7 +98,7 @@
           "link": "https://npasyria.com/en/143236/",
           "publishedAt": "2026-10-30T16:19:21.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -90,6 +116,86 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
+      "sources": [
+        "سانا — قسم السياسة",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "مراكز الفكر"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 21,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "وفد نسائي سوري يشارك لأول مرة في أسبوع المرأة والسلام والأمن بالأمم المتحدة",
+          "excerpt": "شارك وفد رسمي من النساء السوريات لأول مرة في أسبوع المرأة والسلام والأمن في مقر الأمم المتحدة بمدينة نيويورك، في خطوة تعكس الحضور المتنامي للمرأة السورية ودورها في بناء سوريا الجديدة.",
+          "link": "https://sana.sy/politics/2621993/",
+          "publishedAt": "2026-10-30T20:46:44.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية سعودية لتعزيز التعاون في قطاع الطاقة واستمرار التوريدات النفطية",
+          "excerpt": "بحث معاون وزير الطاقة السوري لشؤون النفط غياث دياب، خلال اجتماع عبر الفيديو، مع وفد سعودي برئاسة مستشار وزير الطاقة والمشرف العام على مكتب المشروعات الدولية فؤاد موسى، البرنامج التنفيذي لمسارات التعاون السوري السعودي في قطاع الطاقة ومستجدات",
+          "link": "https://sana.sy/syria-and-the-world/2621985/",
+          "publishedAt": "2026-10-30T20:19:05.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية مغربية لتطوير العمل الرقابي وتبادل الخبرات",
+          "excerpt": "بحث رئيس الهيئة المركزية للرقابة والتفتيش عامر العلي مع رئيس الهيئة الوطنية للنزاهة والوقاية من الرشوة ومحاربتها في المملكة المغربية، محمد بنعليلو، سبل تعزيز التعاون المشترك وتبادل الخبرات المؤسسية لتطوير آليات العمل الرقابي.",
+          "link": "https://sana.sy/syria-and-the-world/2621891/",
+          "publishedAt": "2026-10-30T18:05:30.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Syria hosts Iraqi PM for visit amid security challenges in north and south",
+          "excerpt": "Syrian President Ahmed al Sharaa welcomed Iraqi Prime Minister Ali al Zaidi to Damascus on October 28, marking Zaidi’s first trip to Syria. Sharaa described the meeting as a historic opportunity for... The post Syria hosts Iraqi PM for visi",
+          "link": "https://www.fdd.org/analysis/syria-hosts-iraqi-pm-for-visit-amid-security-challenges-in-north-and-south/",
+          "publishedAt": "2026-10-30T17:47:50.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -103,13 +209,13 @@
         "الإعلام السوري المستقل",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-30 19:39",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 19,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -122,7 +228,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -179,58 +285,6 @@
             "israel"
           ],
           "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "مراكز الفكر"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية مغربية لتطوير العمل الرقابي وتبادل الخبرات",
-          "excerpt": "بحث رئيس الهيئة المركزية للرقابة والتفتيش عامر العلي مع رئيس الهيئة الوطنية للنزاهة والوقاية من الرشوة ومحاربتها في المملكة المغربية، محمد بنعليلو، سبل تعزيز التعاون المشترك وتبادل الخبرات المؤسسية لتطوير آليات العمل الرقابي.",
-          "link": "https://sana.sy/syria-and-the-world/2621891/",
-          "publishedAt": "2026-10-30T18:05:30.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Syria hosts Iraqi PM for visit amid security challenges in north and south",
-          "excerpt": "Syrian President Ahmed al Sharaa welcomed Iraqi Prime Minister Ali al Zaidi to Damascus on October 28, marking Zaidi’s first trip to Syria. Sharaa described the meeting as a historic opportunity for... The post Syria hosts Iraqi PM for visi",
-          "link": "https://www.fdd.org/analysis/syria-hosts-iraqi-pm-for-visit-amid-security-challenges-in-north-and-south/",
-          "publishedAt": "2026-10-30T17:47:50.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
           "us": false
         }
       ]
