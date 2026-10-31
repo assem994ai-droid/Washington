@@ -1,26 +1,73 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-31T02:27:25.764Z",
+    "generatedAt": "2026-10-31T08:41:08.076Z",
     "windowHours": 24,
-    "from": "2026-10-30T02:27:25.764Z",
-    "to": "2026-10-31T02:27:25.764Z"
+    "from": "2026-10-30T08:41:08.076Z",
+    "to": "2026-10-31T08:41:08.076Z"
   },
   "counts": {
-    "total": 13,
+    "total": 18,
     "byCircle": {
+      "الملف الإسرائيلي والتركي": 1,
+      "الإعلام السوري المستقل": 10,
       "المصادر الرسمية السورية": 5,
-      "مراكز الفكر": 2,
-      "الإعلام السوري المستقل": 6
+      "مراكز الفكر": 2
     },
     "bySource": {
+      "Jerusalem Post — الشرق الأوسط": 1,
+      "North Press Agency (English)": 3,
+      "تلفزيون سوريا": 7,
       "سانا — قسم السياسة": 5,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 2,
-      "تلفزيون سوريا": 4,
-      "North Press Agency (English)": 2
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Qatari mediators hold over 12 hours of talks aimed at renewing direct US-Iran negotiations - report",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2726,w_4096/744335' alt='Illustrative; Qatar's Emir Sheikh Tamim bin Hamad Al Thani meets with Iranian Interior Minister Eskandar M",
+      "link": "https://www.jpost.com/middle-east/iran-news/article-913374",
+      "publishedAt": "2026-10-31T08:09:21.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. orders non-essential staff to leave Saudi Arabia amid Houthi attacks",
+      "excerpt": "QAMISHLI, Syria (North Press) – The United States ordered non-emergency government employees and their family members to leave Saudi Arabia due to security risks linked to Houthi attacks on civilian airports and critical infrastructure, the",
+      "link": "https://npasyria.com/en/143240/",
+      "publishedAt": "2026-10-31T06:20:54.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "\"إسرائيل\" بعد الانتخابات.. على ماذا يجب أن تراهن سوريا؟",
+      "excerpt": "خسر معسكر رئيس الوزراء الإسرائيلي بنيامين نتنياهو أغلبيته، لكنه لم يخسر السلطة بعد. تلك أبرز خلاصة تهمّ السوريين من نتائج الانتخابات الإسرائيلية..",
+      "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D8%AA%D8%B1%D8%A7%D9%87%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+      "publishedAt": "2026-10-31T03:47:11.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "إسرائيل على حدود التحالف التركي الأذربيجاني.. كيف أصبحت سوريا جزءاً من المعادلة؟",
+      "excerpt": "لم يعد التقارب بين أذربيجان وإسرائيل مجرد ملف خلافي في العلاقات مع تركيا، بل تحول إلى أحد أبرز العوامل التي تكشف التباعد في حسابات أنقرة وباكو..",
+      "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D8%A3%D8%B0%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D9%86%D9%8A-%D9%83%D9%8A%D9%81-%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AC%D8%B2%D8%A1%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%D8%9F",
+      "publishedAt": "2026-10-31T03:47:02.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "للمرة الأولى.. وفد نسائي سوري في أسبوع المرأة والسلام والأمن بالأمم المتحدة",
+      "excerpt": "شارك وفد رسمي من النساء السوريات، للمرة الأولى، في فعاليات أسبوع المرأة والسلام والأمن، الذي استضافه مقر الأمم المتحدة في نيويورك، خلال الأسبوع الأخير من تشرين",
+      "link": "https://www.syria.tv/%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%88%D9%81%D8%AF-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A8%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+      "publishedAt": "2026-10-31T03:10:20.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
