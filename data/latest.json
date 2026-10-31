@@ -1,33 +1,47 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-31T18:50:26.835Z",
+    "generatedAt": "2026-10-31T22:07:54.978Z",
     "windowHours": 24,
-    "from": "2026-10-30T18:50:26.835Z",
-    "to": "2026-10-31T18:50:26.835Z"
+    "from": "2026-10-30T22:07:54.978Z",
+    "to": "2026-10-31T22:07:54.978Z"
   },
   "counts": {
-    "total": 21,
+    "total": 19,
     "byCircle": {
-      "المصادر الرسمية السورية": 5,
+      "الإعلام السوري المستقل": 12,
+      "المصادر الرسمية السورية": 3,
       "الإعلام المتخصص": 2,
-      "الإعلام السوري المستقل": 10,
-      "الإعلام الدولي": 1,
-      "الملف الإسرائيلي والتركي": 2,
-      "مراكز الفكر": 1
+      "الملف الإسرائيلي والتركي": 2
     },
     "bySource": {
-      "سانا — قسم السياسة": 5,
+      "تلفزيون سوريا": 7,
+      "North Press Agency (English)": 5,
+      "سانا — قسم السياسة": 3,
       "Al-Monitor": 1,
-      "North Press Agency (English)": 4,
-      "تلفزيون سوريا": 6,
-      "Al Jazeera English": 1,
       "The National": 1,
-      "Jerusalem Post — الشرق الأوسط": 2,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
+      "Jerusalem Post — الشرق الأوسط": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "على هامش حوار المنامة.. البحرين تؤكد قوة العلاقات مع سوريا وأهمية تعزيز التنسيق",
+      "excerpt": "عقد وزير الخارجية والمغتربين السوري أسعد حسن الشيباني، السبت، سلسلة لقاءات مع مسؤولين من البحرين والولايات المتحدة وألمانيا وبريطانيا، وذلك على هامش..",
+      "link": "https://www.syria.tv/%D8%B9%D9%84%D9%89-%D9%87%D8%A7%D9%85%D8%B4-%D8%AD%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%A4%D9%83%D8%AF-%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82",
+      "publishedAt": "2026-10-31T20:17:40.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Rubio says Trump yet to decide on military action against Iran",
+      "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump has not decided whether to launch further military strikes against Iran, Secretary of State Marco Rubio said Saturday, adding that Trump prefers a diplomatic solution despite Washi",
+      "link": "https://npasyria.com/en/143274/",
+      "publishedAt": "2026-10-31T19:30:22.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -72,15 +86,6 @@
       "excerpt": "توغلت دورية عسكرية تابعة لقوات الاحتلال الإسرائيلي، السبت، في ريف القنيطرة الشمالي، بمشاركة سبع آليات عسكرية، قبل أن تختطف شاباً من المنطقة.",
       "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D9%88%D9%8A%D8%AE%D8%AA%D8%B7%D9%81-%D8%B4%D8%A7%D8%A8%D8%A7",
       "publishedAt": "2026-10-31T14:29:19.000Z"
-    },
-    {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-      "excerpt": "Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
-      "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
-      "publishedAt": "2026-10-31T14:20:23.000Z"
     },
     {
       "source": "The National",
@@ -189,33 +194,6 @@
       "excerpt": "شاركت هيئة مكافحة غسل الأموال وتمويل الإرهاب ممثلة برئيسها صفوت رسلان، في الاجتماع العام لمجموعة العمل المالي (FATF) الذي عقد في العاصمة الفرنسية باريس برئاسة المملكة المتحدة، وذلك بعد غياب سوريا عن المشاركة لأكثر من 15 عاماً.",
       "link": "https://sana.sy/syria-and-the-world/2622027/",
       "publishedAt": "2026-10-30T22:33:05.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "وفد نسائي سوري يشارك لأول مرة في أسبوع المرأة والسلام والأمن بالأمم المتحدة",
-      "excerpt": "شارك وفد رسمي من النساء السوريات لأول مرة في أسبوع المرأة والسلام والأمن في مقر الأمم المتحدة بمدينة نيويورك، في خطوة تعكس الحضور المتنامي للمرأة السورية ودورها في بناء سوريا الجديدة.",
-      "link": "https://sana.sy/politics/2621993/",
-      "publishedAt": "2026-10-30T20:46:44.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "مباحثات سورية سعودية لتعزيز التعاون في قطاع الطاقة واستمرار التوريدات النفطية",
-      "excerpt": "بحث معاون وزير الطاقة السوري لشؤون النفط غياث دياب، خلال اجتماع عبر الفيديو، مع وفد سعودي برئاسة مستشار وزير الطاقة والمشرف العام على مكتب المشروعات الدولية فؤاد موسى، البرنامج التنفيذي لمسارات التعاون السوري السعودي في قطاع الطاقة ومستجدات",
-      "link": "https://sana.sy/syria-and-the-world/2621985/",
-      "publishedAt": "2026-10-30T20:19:05.000Z"
-    },
-    {
-      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-      "sourceId": "fdd",
-      "circle": "مراكز الفكر",
-      "title": "Syria&#8217;s counterterrorism dilemma: Who can Washington trust?",
-      "excerpt": "The post Syria&#8217;s counterterrorism dilemma: Who can Washington trust? appeared first on FDD.",
-      "link": "https://www.fdd.org/podcasts/syrias-counterterrorism-dilemma-who-can-washington-trust/",
-      "publishedAt": "2026-10-30T20:18:43.000Z"
     }
   ]
 }
