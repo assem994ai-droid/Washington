@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-30T23:13:01.001Z",
+    "generatedAt": "2026-10-31T02:27:25.764Z",
     "windowHours": 24,
-    "from": "2026-10-29T23:13:01.001Z",
-    "to": "2026-10-30T23:13:01.001Z"
+    "from": "2026-10-30T02:27:25.764Z",
+    "to": "2026-10-31T02:27:25.764Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 14,
+    "items": 13,
     "files": 3,
-    "withNew": 2,
-    "stale": 1,
+    "withNew": 0,
+    "stale": 3,
     "contested": 1,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1319
+    "archiveCycles": 1320
   },
   "emptyCircles": [
     "الكونغرس",
@@ -45,13 +45,13 @@
         "مراكز الفكر",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-30 23:13",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 31,
+      "score": 18,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -62,7 +62,7 @@
           "link": "https://sana.sy/syria-and-the-world/2622027/",
           "publishedAt": "2026-10-30T22:33:05.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -74,7 +74,7 @@
           "link": "https://www.fdd.org/podcasts/syrias-counterterrorism-dilemma-who-can-washington-trust/",
           "publishedAt": "2026-10-30T20:18:43.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -129,13 +129,13 @@
         "المصادر الرسمية السورية",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-30 23:13",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 21,
+      "score": 8,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -148,7 +148,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -162,7 +162,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -198,24 +198,22 @@
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
+        "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-30 19:39",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-30 23:13",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 10,
+      "score": 6,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -267,20 +265,6 @@
           "excerpt": "توغلت قوات الاحتلال الإسرائيلي في ريف القنيطرة الشمالي وأقامت حاجزا في المنطقة لتفتيش المارة.",
           "link": "https://www.syria.tv/%D9%81%D9%8A-%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
           "publishedAt": "2026-10-30T12:21:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Jordanian airstrikes against ISIS cells in Syria",
-          "excerpt": "The post Jordanian airstrikes against ISIS cells in Syria appeared first on FDD.",
-          "link": "https://www.fdd.org/in_the_news/jordanian-airstrikes-against-isis-cells-in-syria/",
-          "publishedAt": "2026-10-30T02:14:57.000Z",
           "files": [
             "israel"
           ],

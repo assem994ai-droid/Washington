@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-30T23:13:01.001Z",
+    "generatedAt": "2026-10-31T02:27:25.764Z",
     "windowHours": 24,
-    "from": "2026-10-29T23:13:01.001Z",
-    "to": "2026-10-30T23:13:01.001Z"
+    "from": "2026-10-30T02:27:25.764Z",
+    "to": "2026-10-31T02:27:25.764Z"
   },
   "counts": {
-    "total": 14,
+    "total": 13,
     "byCircle": {
       "المصادر الرسمية السورية": 5,
-      "مراكز الفكر": 3,
+      "مراكز الفكر": 2,
       "الإعلام السوري المستقل": 6
     },
     "bySource": {
       "سانا — قسم السياسة": 5,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 3,
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 2,
       "تلفزيون سوريا": 4,
       "North Press Agency (English)": 2
     }
@@ -137,15 +137,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – A U.S. federal court has sentenced a Syrian man to 42 months in prison for his role in a hacking campaign carried out on behalf of the former Syrian government, targeting approximately 47 Western organization",
       "link": "https://npasyria.com/en/143233/",
       "publishedAt": "2026-10-30T11:28:57.000Z"
-    },
-    {
-      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-      "sourceId": "fdd",
-      "circle": "مراكز الفكر",
-      "title": "Jordanian airstrikes against ISIS cells in Syria",
-      "excerpt": "The post Jordanian airstrikes against ISIS cells in Syria appeared first on FDD.",
-      "link": "https://www.fdd.org/in_the_news/jordanian-airstrikes-against-isis-cells-in-syria/",
-      "publishedAt": "2026-10-30T02:14:57.000Z"
     }
   ]
 }
