@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-10-31T14:48:03.763Z",
+    "generatedAt": "2026-10-31T18:50:26.835Z",
     "windowHours": 24,
-    "from": "2026-10-30T14:48:03.763Z",
-    "to": "2026-10-31T14:48:03.763Z"
+    "from": "2026-10-30T18:50:26.835Z",
+    "to": "2026-10-31T18:50:26.835Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 22,
+    "items": 21,
     "files": 4,
     "withNew": 3,
     "stale": 1,
-    "contested": 1,
+    "contested": 2,
     "echoed": 1,
-    "americanItems": 5,
-    "archiveCycles": 1322
+    "americanItems": 4,
+    "archiveCycles": 1323
   },
   "emptyCircles": [
     "الكونغرس",
@@ -31,31 +31,43 @@
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 6,
+      "independentSources": 5,
       "sources": [
+        "سانا — قسم السياسة",
         "Al Jazeera English",
         "The National",
-        "سانا — قسم السياسة",
         "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات"
+        "تلفزيون سوريا"
       ],
       "circles": [
+        "المصادر الرسمية السورية",
         "الإعلام الدولي",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل",
-        "مراكز الفكر"
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 4,
+      "newItems": 1,
       "stale": false,
       "echoed": true,
       "usItems": 2,
-      "score": 53,
+      "score": 37,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني: سوريا متمسكة بالخيار الدبلوماسي والتفاوضي لإرساء علاقات ‏آمنة مع الجميع",
+          "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني تمسك سوريا بالخيار ‌‏الدبلوماسي والتفاوضي، باعتباره حلاً أمثل لإرساء علاقات هادئة وآمنة ‏مع ‏جميع الأطراف، مشيراً إلى أن إسرائيل اتبعت نهجاً عدائياً تجاه ‏سوريا وشعبها تمثل ‏بشن آلاف الغارات وت",
+          "link": "https://sana.sy/politics/2622477/",
+          "publishedAt": "2026-10-31T17:38:21.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al Jazeera English",
           "sourceId": "aljazeera-en",
@@ -67,7 +79,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -81,7 +93,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -95,7 +107,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -109,7 +121,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -167,34 +179,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية مغربية لتطوير العمل الرقابي وتبادل الخبرات",
-          "excerpt": "بحث رئيس الهيئة المركزية للرقابة والتفتيش عامر العلي مع رئيس الهيئة الوطنية للنزاهة والوقاية من الرشوة ومحاربتها في المملكة المغربية، محمد بنعليلو، سبل تعزيز التعاون المشترك وتبادل الخبرات المؤسسية لتطوير آليات العمل الرقابي.",
-          "link": "https://sana.sy/syria-and-the-world/2621891/",
-          "publishedAt": "2026-10-30T18:05:30.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Syria hosts Iraqi PM for visit amid security challenges in north and south",
-          "excerpt": "Syrian President Ahmed al Sharaa welcomed Iraqi Prime Minister Ali al Zaidi to Damascus on October 28, marking Zaidi’s first trip to Syria. Sharaa described the meeting as a historic opportunity for... The post Syria hosts Iraqi PM for visi",
-          "link": "https://www.fdd.org/analysis/syria-hosts-iraqi-pm-for-visit-amid-security-challenges-in-north-and-south/",
-          "publishedAt": "2026-10-30T17:47:50.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -203,25 +187,39 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "Al-Monitor",
         "North Press Agency (English)",
         "سانا — قسم السياسة",
         "FDD — مؤسسة الدفاع عن الديمقراطيات"
       ],
       "circles": [
+        "الإعلام المتخصص",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
         "مراكز الفكر"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 33,
+      "usItems": 2,
+      "score": 28,
       "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Will Iran take up Vance lifeline to avoid another US attack?",
+          "excerpt": "Vance’s letter comes amid a flurry of diplomatic activity ahead of the Nov. 3 deadline; Jordan and Syria move to deepen security ties following a terrorist attack.",
+          "link": "https://www.al-monitor.com/originals/2026/10/will-iran-take-vance-lifeline-avoid-another-us-attack",
+          "publishedAt": "2026-10-31T17:23:39.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -231,7 +229,7 @@
           "link": "https://npasyria.com/en/143262/",
           "publishedAt": "2026-10-31T11:10:18.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -243,7 +241,7 @@
           "link": "https://npasyria.com/en/143256/",
           "publishedAt": "2026-10-31T08:50:18.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -281,40 +279,17 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "العلاقات السورية الأردنية أمام اختبار درعا",
-          "excerpt": "يضع القصف الأردني لريف درعا، وما أسفر عنه من ضحايا مدنيين، العلاقات السورية الأردنية أمام اختبار جدي يتعلق باحترام السيادة وآليات التنسيق الأمني بين البلدين الشقيقين.",
-          "link": "https://sana.sy/reports/2621840/",
-          "publishedAt": "2026-10-30T17:19:54.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. court sentences Syrian hacker to 42 months over pro-Assad cyberattacks",
-          "excerpt": "QAMISHLI, Syria (North Press) – A U.S. federal court has sentenced a Syrian man to 42 months in prison for his role in a hacking campaign carried out on behalf of the former Syrian government, targeting approximately 47 Western organization",
-          "link": "https://npasyria.com/en/143236/",
-          "publishedAt": "2026-10-30T16:19:21.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 2,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
@@ -326,8 +301,36 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 19,
+      "score": 26,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces arrest young man in Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces arrested a young man on Saturday during a military incursion involving seven vehicles toward the village of Rasem Abu Shatta, near al-Hurriya village in the northern countryside of Quneitra, so",
+          "link": "https://npasyria.com/en/143265/",
+          "publishedAt": "2026-10-31T15:37:15.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغلات وحواجز واختطاف مدنيين.. الاحتلال الإسرائيلي يوسّع تحركاته في القنيطرة",
+          "excerpt": "وسّعت قوات الاحتلال الإسرائيلي تحركاتها العسكرية في ريف القنيطرة، عبر تنفيذ توغلات في عدد من القرى ونصب حواجز على الطرق، تخللها تفتيش للمارة واختطاف 4 مدنيين.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%88%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D9%88%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%88%D8%B3%D9%91%D8%B9-%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-10-31T15:36:59.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -339,7 +342,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -353,7 +356,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -364,20 +367,6 @@
           "excerpt": "خسر معسكر رئيس الوزراء الإسرائيلي بنيامين نتنياهو أغلبيته، لكنه لم يخسر السلطة بعد. تلك أبرز خلاصة تهمّ السوريين من نتائج الانتخابات الإسرائيلية..",
           "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D8%AA%D8%B1%D8%A7%D9%87%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
           "publishedAt": "2026-10-31T03:47:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يتوغل في ريف القنيطرة الأوسط ويقيم حاجزا في بلدة المشيرفة",
-          "excerpt": "توغلت دورية تابعة للاحتلال الإسرائيلي، الجمعة، في قرية المشيرفة بريف القنيطرة الأوسط، مؤلفة من خمس آليات عسكرية.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%88%D9%8A%D9%82%D9%8A%D9%85-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D9%8A%D8%B1%D9%81%D8%A9",
-          "publishedAt": "2026-10-30T17:37:14.000Z",
           "files": [
             "israel"
           ],
@@ -398,7 +387,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-31 08:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-31 14:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
