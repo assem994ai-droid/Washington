@@ -1,30 +1,83 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-01T14:24:54.371Z",
+    "generatedAt": "2026-11-01T19:01:37.635Z",
     "windowHours": 24,
-    "from": "2026-10-31T14:24:54.371Z",
-    "to": "2026-11-01T14:24:54.371Z"
+    "from": "2026-10-31T19:01:37.635Z",
+    "to": "2026-11-01T19:01:37.635Z"
   },
   "counts": {
     "total": 16,
     "byCircle": {
-      "الملف الإسرائيلي والتركي": 1,
-      "الإعلام المتخصص": 4,
+      "الملف الإسرائيلي والتركي": 3,
       "الإعلام السوري المستقل": 10,
-      "المصادر الرسمية السورية": 1
+      "المصادر الرسمية السورية": 1,
+      "الإعلام المتخصص": 2
     },
     "bySource": {
-      "Jerusalem Post — الشرق الأوسط": 1,
-      "Al-Monitor": 2,
+      "Jerusalem Post — الشرق الأوسط": 3,
       "تلفزيون سوريا": 6,
       "North Press Agency (English)": 4,
-      "The National": 1,
-      "Middle East Eye": 1,
-      "سانا — قسم السياسة": 1
+      "سانا — قسم السياسة": 1,
+      "Al-Monitor": 1,
+      "The National": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Syria seeks Islamist expansion into Lebanon, Golan to serve Turkish interests, expert tells 'Post'",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1590,w_2385/742171' alt='Syria's President Ahmed al-Sharaa addresses the 81st United Nations General Assembly (UNGA) at UN headquar",
+      "link": "https://www.jpost.com/middle-east/article-913499",
+      "publishedAt": "2026-11-01T18:56:42.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يختطف مدنيا غربي درعا ويفرض قيودا على التنقل في القنيطرة",
+      "excerpt": "اختطفت قوات الاحتلال الإسرائيلي، الأحد، شخصاً أثناء عمله في قطاف الزيتون في وادي قرية كويا بريف درعا الغربي، وفق ما أفادت به مصادر محلية لموقع تلفزيون سوريا.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AE%D8%AA%D8%B7%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D9%81%D8%B1%D8%B6-%D9%82%D9%8A%D9%88%D8%AF%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-01T17:41:47.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syrian Intelligence foils plot to target Homs oil refinery",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s General Intelligence Directorate foiled a “terrorist” plot targeting the Homs oil refinery in central Syria, the state-run SANA news agency reported on Sunday, citing a source within the intelligence ",
+      "link": "https://npasyria.com/en/143307/",
+      "publishedAt": "2026-11-01T17:38:12.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "UAE hopes to avert new Iran conflict, prepares for worst-case scenario",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2800,w_4200/719020' alt='King Hamad bin Isa Al Khalifa, King of Bahrain receives Sheikh Mohamed bin Zayed Al Nahyan, President of t",
+      "link": "https://www.jpost.com/middle-east/article-913486",
+      "publishedAt": "2026-11-01T17:14:29.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "صحفيان إسبانيان يوثّقان تداعيات التوغلات الإسرائيلية في جنوب سوريا عقب ‏التحرير",
+      "excerpt": "أكد الصحفيان الإسبانيان ديفيد ميليرون ولؤي الباشا أن التوغلات الإسرائيلية في ‏جنوب سوريا، التي بدأت بعد تحرير البلاد في 8 كانون الأول 2024، أعقبتها قيود ‏على حركة الأهالي وحصار لعدد من البلدات، ما انعكس على حياتهم اليومية وقدرتهم ‏على الوصو",
+      "link": "https://sana.sy/syria-and-the-world/2623431/",
+      "publishedAt": "2026-11-01T16:56:03.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا والعراق تبحثان إدارة مياه الفرات وتفعيل التنسيق الثلاثي مع تركيا",
+      "excerpt": "بحث وزير الطاقة السوري محمد البشير، الأحد، مع وفد من وزارة الموارد المائية العراقية، تطوير التعاون في إدارة الموارد المائية المشتركة، ولا سيما مياه نهر الفرات،",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+      "publishedAt": "2026-11-01T16:40:07.000Z"
+    },
     {
       "source": "Jerusalem Post — الشرق الأوسط",
       "sourceId": "jpost-me",
@@ -66,7 +119,7 @@
       "sourceId": "the-national",
       "circle": "الإعلام المتخصص",
       "title": "After years of war, Syria and Lebanon turning corner to rebuild, US envoy says",
-      "excerpt": "Syria and Lebanon are entering a new phase, with attention shifting to how they can rebuild their futures, said US Assistant Secretary of State for Near Eastern Affairs Donald Blome.\"Both are turning a corner, and the question is no longer ",
+      "excerpt": "Syria and Lebanon are entering a new phase, with attention shifting to how they can rebuild their futures, said US assistant secretary of state for Near Eastern affairs.\"Both are turning a corner, and the question is no longer whether they ",
       "link": "https://www.thenationalnews.com/news/mena/2026/11/01/after-years-of-war-syria-and-lebanon-turning-corner-to-rebuild-us-envoy-says/",
       "publishedAt": "2026-11-01T08:43:49.000Z"
     },
@@ -98,15 +151,6 @@
       "publishedAt": "2026-11-01T06:50:26.000Z"
     },
     {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
-      "circle": "الإعلام المتخصص",
-      "title": "Recognising Hamas as 'terror' outfit: Eisenkot lays down conditions for 'broad Zionist government'",
-      "excerpt": "<article data-history-node-id=\"450283\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/recognising-hamas-terror-outfit-eisenkot-lays-down-conditions-broad\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/recognising-hamas-terror-outfit-eisenkot-lays-down-conditions-broad",
-      "publishedAt": "2026-11-01T04:40:45.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -123,51 +167,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump has not decided whether to launch further military strikes against Iran, Secretary of State Marco Rubio said Saturday, adding that Trump prefers a diplomatic solution despite Washi",
       "link": "https://npasyria.com/en/143274/",
       "publishedAt": "2026-10-31T19:30:22.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "الشيباني: سوريا متمسكة بالخيار الدبلوماسي والتفاوضي لإرساء علاقات ‏آمنة مع الجميع",
-      "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني تمسك سوريا بالخيار ‌‏الدبلوماسي والتفاوضي، باعتباره حلاً أمثل لإرساء علاقات هادئة وآمنة ‏مع ‏جميع الأطراف، مشيراً إلى أن إسرائيل اتبعت نهجاً عدائياً تجاه ‏سوريا وشعبها تمثل ‏بشن آلاف الغارات وت",
-      "link": "https://sana.sy/politics/2622477/",
-      "publishedAt": "2026-10-31T17:38:21.000Z"
-    },
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Will Iran take up Vance lifeline to avoid another US attack?",
-      "excerpt": "Vance’s letter comes amid a flurry of diplomatic activity ahead of the Nov. 3 deadline; Jordan and Syria move to deepen security ties following a terrorist attack.",
-      "link": "https://www.al-monitor.com/originals/2026/10/will-iran-take-vance-lifeline-avoid-another-us-attack",
-      "publishedAt": "2026-10-31T17:23:39.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli forces arrest young man in Syria’s Quneitra countryside",
-      "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces arrested a young man on Saturday during a military incursion involving seven vehicles toward the village of Rasem Abu Shatta, near al-Hurriya village in the northern countryside of Quneitra, so",
-      "link": "https://npasyria.com/en/143265/",
-      "publishedAt": "2026-10-31T15:37:15.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "توغلات وحواجز واختطاف مدنيين.. الاحتلال الإسرائيلي يوسّع تحركاته في القنيطرة",
-      "excerpt": "وسّعت قوات الاحتلال الإسرائيلي تحركاتها العسكرية في ريف القنيطرة، عبر تنفيذ توغلات في عدد من القرى ونصب حواجز على الطرق، تخللها تفتيش للمارة واختطاف 4 مدنيين.",
-      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%88%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D9%88%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%88%D8%B3%D9%91%D8%B9-%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-      "publishedAt": "2026-10-31T15:36:59.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال الإسرائيلي يتوغل في ريف القنيطرة الشمالي ويختطف شابا",
-      "excerpt": "توغلت دورية عسكرية تابعة لقوات الاحتلال الإسرائيلي، السبت، في ريف القنيطرة الشمالي، بمشاركة سبع آليات عسكرية، قبل أن تختطف شاباً من المنطقة.",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D9%88%D9%8A%D8%AE%D8%AA%D8%B7%D9%81-%D8%B4%D8%A7%D8%A8%D8%A7",
-      "publishedAt": "2026-10-31T14:29:19.000Z"
     }
   ]
 }
