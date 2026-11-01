@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-01T01:05:33.896Z",
+    "generatedAt": "2026-11-01T07:27:00.238Z",
     "windowHours": 24,
-    "from": "2026-10-31T01:05:33.896Z",
-    "to": "2026-11-01T01:05:33.896Z"
+    "from": "2026-10-31T07:27:00.238Z",
+    "to": "2026-11-01T07:27:00.238Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 4,
-    "withNew": 0,
-    "stale": 4,
+    "items": 16,
+    "files": 3,
+    "withNew": 1,
+    "stale": 2,
     "contested": 1,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 1325
+    "archiveCycles": 1326
   },
   "emptyCircles": [
     "الكونغرس",
@@ -33,24 +33,49 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
-        "تلفزيون سوريا",
         "North Press Agency (English)",
+        "Middle East Eye",
+        "تلفزيون سوريا",
         "Al-Monitor"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-31 22:07",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
       "usItems": 3,
-      "score": 19,
+      "score": 36,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Trump signals possible further strikes on Iran as Tehran threatens response",
+          "excerpt": "DAMASCUS, Syria (North Press) – U.S. President Donald Trump on Saturday raised the possibility of launching further military strikes against Iran, saying one or two sites may still need to be targeted, as Tehran vowed an immediate response ",
+          "link": "https://npasyria.com/en/143290/",
+          "publishedAt": "2026-11-01T06:50:26.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Recognising Hamas as 'terror' outfit: Eisenkot lays down conditions for 'broad Zionist government'",
+          "excerpt": "<article data-history-node-id=\"450283\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/recognising-hamas-terror-outfit-eisenkot-lays-down-conditions-broad\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/recognising-hamas-terror-outfit-eisenkot-lays-down-conditions-broad",
+          "publishedAt": "2026-11-01T04:40:45.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -110,18 +135,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. orders non-essential staff to leave Saudi Arabia amid Houthi attacks",
-          "excerpt": "QAMISHLI, Syria (North Press) – The United States ordered non-emergency government employees and their family members to leave Saudi Arabia due to security risks linked to Houthi attacks on civilian airports and critical infrastructure, the",
-          "link": "https://npasyria.com/en/143240/",
-          "publishedAt": "2026-10-31T06:20:54.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -130,26 +143,24 @@
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
         "The National",
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام المتخصص",
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-31 22:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-01 01:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 19,
+      "score": 15,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -220,20 +231,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "للمرة الأولى.. وفد نسائي سوري في أسبوع المرأة والسلام والأمن بالأمم المتحدة",
-          "excerpt": "شارك وفد رسمي من النساء السوريات، للمرة الأولى، في فعاليات أسبوع المرأة والسلام والأمن، الذي استضافه مقر الأمم المتحدة في نيويورك، خلال الأسبوع الأخير من تشرين",
-          "link": "https://www.syria.tv/%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%88%D9%81%D8%AF-%D9%86%D8%B3%D8%A7%D8%A6%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A8%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
-          "publishedAt": "2026-10-31T03:10:20.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -250,13 +247,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-31 22:07",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-01 01:05",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 13,
+      "score": 12,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -309,57 +306,6 @@
           "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A-0",
           "publishedAt": "2026-10-31T08:45:32.000Z",
           "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"إسرائيل\" بعد الانتخابات.. على ماذا يجب أن تراهن سوريا؟",
-          "excerpt": "خسر معسكر رئيس الوزراء الإسرائيلي بنيامين نتنياهو أغلبيته، لكنه لم يخسر السلطة بعد. تلك أبرز خلاصة تهمّ السوريين من نتائج الانتخابات الإسرائيلية..",
-          "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AC%D8%A8-%D8%A3%D9%86-%D8%AA%D8%B1%D8%A7%D9%87%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-10-31T03:47:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-10-31 22:07",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إسرائيل على حدود التحالف التركي الأذربيجاني.. كيف أصبحت سوريا جزءاً من المعادلة؟",
-          "excerpt": "لم يعد التقارب بين أذربيجان وإسرائيل مجرد ملف خلافي في العلاقات مع تركيا، بل تحول إلى أحد أبرز العوامل التي تكشف التباعد في حسابات أنقرة وباكو..",
-          "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D8%A3%D8%B0%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D9%86%D9%8A-%D9%83%D9%8A%D9%81-%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AC%D8%B2%D8%A1%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%D8%9F",
-          "publishedAt": "2026-10-31T03:47:02.000Z",
-          "files": [
-            "turkey",
             "israel"
           ],
           "seenBefore": true,
