@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-02T18:51:18.261Z",
+    "generatedAt": "2026-11-03T01:25:44.053Z",
     "windowHours": 24,
-    "from": "2026-11-01T18:51:18.261Z",
-    "to": "2026-11-02T18:51:18.261Z"
+    "from": "2026-11-02T01:25:44.053Z",
+    "to": "2026-11-03T01:25:44.053Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 18,
-    "files": 6,
-    "withNew": 6,
-    "stale": 0,
+    "items": 14,
+    "files": 5,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 1331
+    "americanItems": 3,
+    "archiveCycles": 1332
   },
   "emptyCircles": [
     "الكونغرس",
@@ -46,13 +46,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-02 18:51",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 40,
+      "score": 22,
       "items": [
         {
           "source": "Al-Monitor",
@@ -63,7 +63,7 @@
           "link": "https://www.al-monitor.com/originals/2026/11/meet-muzna-al-atrash-syrias-new-druze-adviser-peace-affairs",
           "publishedAt": "2026-11-02T16:17:35.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -75,7 +75,7 @@
           "link": "https://www.jpost.com/middle-east/article-913545",
           "publishedAt": "2026-11-02T11:57:41.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -87,7 +87,7 @@
           "link": "https://npasyria.com/en/143342/",
           "publishedAt": "2026-11-02T09:43:27.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -125,18 +125,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Jordan and Syria tout close ties, but border smuggling and strikes tell another story – analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/744490' alt='Mourners attend the funeral of four members of the same family, including three children, who were killed ",
-          "link": "https://www.jpost.com/middle-east/article-913492",
-          "publishedAt": "2026-11-01T20:10:01.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -147,21 +135,35 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا",
-        "Middle East Eye"
+        "Middle East Eye",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 26,
+      "score": 18,
       "items": [
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli forces push into Quneitra, Syrian media report",
+          "excerpt": "<article data-history-node-id=\"450360\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-push-quneitra-syria-syrian-media-report\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleea",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-push-quneitra-syria-syrian-media-report",
+          "publishedAt": "2026-11-02T22:51:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -173,7 +175,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -187,21 +189,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Hamas considered 'cancelling 7 October' attack if Israel honoured agreements",
-          "excerpt": "<article data-history-node-id=\"450325\" about=\"https://www.middleeasteye.net/news/hamas-would-have-cancelled-7-october-attack-if-israel-honoured-agreements-report-says\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.",
-          "link": "https://www.middleeasteye.net/news/hamas-would-have-cancelled-7-october-attack-if-israel-honoured-agreements-report-says",
-          "publishedAt": "2026-11-02T10:50:28.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -214,76 +202,6 @@
           "publishedAt": "2026-11-02T07:16:49.000Z",
           "files": [
             "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Middle East Eye",
-        "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 24,
-      "items": [
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Why is Syria considering joining the Saudi-Turkey-Pakistan defence pact?",
-          "excerpt": "<article data-history-node-id=\"450324\" about=\"https://www.middleeasteye.net/news/why-syria-considering-joining-saudi-turkey-pakistan-defence-pact\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/why-syria-co",
-          "link": "https://www.middleeasteye.net/news/why-syria-considering-joining-saudi-turkey-pakistan-defence-pact",
-          "publishedAt": "2026-11-02T11:42:34.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria plans to activate new border crossings, including crossing with Turkey",
-          "excerpt": "DAMASCUS, Syria (North Press) – Syria&#8217;s Ports and Customs Authority on Monday said it is studying new border crossings, including Qamishli-Nusaybin with Turkey, while pursuing customs automation and infrastructure upgrades to boost re",
-          "link": "https://npasyria.com/en/143339/",
-          "publishedAt": "2026-11-02T09:00:31.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria seeks Islamist expansion into Lebanon, Golan to serve Turkish interests, expert tells 'Post'",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1590,w_2385/742171' alt='Syria's President Ahmed al-Sharaa addresses the 81st United Nations General Assembly (UNGA) at UN headquar",
-          "link": "https://www.jpost.com/middle-east/article-913499",
-          "publishedAt": "2026-11-01T18:56:42.000Z",
-          "files": [
-            "turkey",
-            "israel",
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
@@ -304,13 +222,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-02 18:51",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 3,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -324,7 +242,7 @@
             "lebanon",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -339,7 +257,43 @@
             "lebanon",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-02 18:51",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 3,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria plans to activate new border crossings, including crossing with Turkey",
+          "excerpt": "DAMASCUS, Syria (North Press) – Syria&#8217;s Ports and Customs Authority on Monday said it is studying new border crossings, including Qamishli-Nusaybin with Turkey, while pursuing customs automation and infrastructure upgrades to boost re",
+          "link": "https://npasyria.com/en/143339/",
+          "publishedAt": "2026-11-02T09:00:31.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -356,13 +310,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-02 18:51",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 11,
+      "score": 2,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -375,43 +329,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Al-Monitor"
-      ],
-      "circles": [
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 11,
-      "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Lawmakers urge Commerce Dept to ease Syria investment restrictions",
-          "excerpt": "Syria may be off the terrorism blacklist, but the Commerce Department’s export controls have yet to catch up.",
-          "link": "https://www.al-monitor.com/originals/2026/11/lawmakers-urge-commerce-dept-ease-syria-investment-restrictions",
-          "publishedAt": "2026-11-02T14:19:16.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         }
       ]

@@ -1,30 +1,39 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-02T18:51:18.261Z",
+    "generatedAt": "2026-11-03T01:25:44.053Z",
     "windowHours": 24,
-    "from": "2026-11-01T18:51:18.261Z",
-    "to": "2026-11-02T18:51:18.261Z"
+    "from": "2026-11-02T01:25:44.053Z",
+    "to": "2026-11-03T01:25:44.053Z"
   },
   "counts": {
-    "total": 18,
+    "total": 14,
     "byCircle": {
+      "الإعلام المتخصص": 3,
       "الإعلام السوري المستقل": 9,
-      "الإعلام المتخصص": 5,
       "المصادر الرسمية السورية": 1,
-      "الملف الإسرائيلي والتركي": 3
+      "الملف الإسرائيلي والتركي": 1
     },
     "bySource": {
+      "Middle East Eye": 1,
       "تلفزيون سوريا": 5,
       "North Press Agency (English)": 4,
-      "Al-Monitor": 2,
+      "Al-Monitor": 1,
       "سانا — قسم السياسة": 1,
-      "Jerusalem Post — الشرق الأوسط": 3,
-      "Middle East Eye": 2,
+      "Jerusalem Post — الشرق الأوسط": 1,
       "The National": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli forces push into Quneitra, Syrian media report",
+      "excerpt": "<article data-history-node-id=\"450360\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-push-quneitra-syria-syrian-media-report\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleea",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-push-quneitra-syria-syrian-media-report",
+      "publishedAt": "2026-11-02T22:51:40.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -62,15 +71,6 @@
       "publishedAt": "2026-11-02T16:17:24.000Z"
     },
     {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Lawmakers urge Commerce Dept to ease Syria investment restrictions",
-      "excerpt": "Syria may be off the terrorism blacklist, but the Commerce Department’s export controls have yet to catch up.",
-      "link": "https://www.al-monitor.com/originals/2026/11/lawmakers-urge-commerce-dept-ease-syria-investment-restrictions",
-      "publishedAt": "2026-11-02T14:19:16.000Z"
-    },
-    {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
       "circle": "المصادر الرسمية السورية",
@@ -87,24 +87,6 @@
       "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4062,w_6093/744538' alt='Shiite muslim pilgrims hold portraits of slain Hezbollah leader Hassan Nasrallah (R), Imam Ali (C) and dep",
       "link": "https://www.jpost.com/middle-east/article-913545",
       "publishedAt": "2026-11-02T11:57:41.000Z"
-    },
-    {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
-      "circle": "الإعلام المتخصص",
-      "title": "Why is Syria considering joining the Saudi-Turkey-Pakistan defence pact?",
-      "excerpt": "<article data-history-node-id=\"450324\" about=\"https://www.middleeasteye.net/news/why-syria-considering-joining-saudi-turkey-pakistan-defence-pact\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/why-syria-co",
-      "link": "https://www.middleeasteye.net/news/why-syria-considering-joining-saudi-turkey-pakistan-defence-pact",
-      "publishedAt": "2026-11-02T11:42:34.000Z"
-    },
-    {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
-      "circle": "الإعلام المتخصص",
-      "title": "Hamas considered 'cancelling 7 October' attack if Israel honoured agreements",
-      "excerpt": "<article data-history-node-id=\"450325\" about=\"https://www.middleeasteye.net/news/hamas-would-have-cancelled-7-october-attack-if-israel-honoured-agreements-report-says\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.",
-      "link": "https://www.middleeasteye.net/news/hamas-would-have-cancelled-7-october-attack-if-israel-honoured-agreements-report-says",
-      "publishedAt": "2026-11-02T10:50:28.000Z"
     },
     {
       "source": "تلفزيون سوريا",
@@ -168,24 +150,6 @@
       "excerpt": "أكد الصحفيان الإسبانيان ديفيد ميليرون ولؤي الباشا أن توغلات الاحتلال الإسرائيلي في جنوبي سوريا، عقب سقوط النظام المخلوع في 8 كانون الأول 2024",
       "link": "https://www.syria.tv/%D8%B5%D8%AD%D9%81%D9%8A%D8%A7%D9%86-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7%D9%86-%D9%8A%D9%88%D8%AB%D9%82%D8%A7%D9%86-%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%B3%D9%83%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
       "publishedAt": "2026-11-02T02:36:21.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Jordan and Syria tout close ties, but border smuggling and strikes tell another story – analysis",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/744490' alt='Mourners attend the funeral of four members of the same family, including three children, who were killed ",
-      "link": "https://www.jpost.com/middle-east/article-913492",
-      "publishedAt": "2026-11-01T20:10:01.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Syria seeks Islamist expansion into Lebanon, Golan to serve Turkish interests, expert tells 'Post'",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1590,w_2385/742171' alt='Syria's President Ahmed al-Sharaa addresses the 81st United Nations General Assembly (UNGA) at UN headquar",
-      "link": "https://www.jpost.com/middle-east/article-913499",
-      "publishedAt": "2026-11-01T18:56:42.000Z"
     }
   ]
 }
