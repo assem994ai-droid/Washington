@@ -1,0 +1,147 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-03T16:17:55.689Z",
+    "windowHours": 24,
+    "from": "2026-11-02T16:17:55.689Z",
+    "to": "2026-11-03T16:17:55.689Z"
+  },
+  "counts": {
+    "total": 13,
+    "byCircle": {
+      "الإعلام الدولي": 1,
+      "الإعلام السوري المستقل": 8,
+      "الإعلام المتخصص": 2,
+      "الملف الإسرائيلي والتركي": 1,
+      "المصادر الرسمية السورية": 1
+    },
+    "bySource": {
+      "Al Jazeera English": 1,
+      "North Press Agency (English)": 4,
+      "Al-Monitor": 1,
+      "Jerusalem Post — الشرق الأوسط": 1,
+      "تلفزيون سوريا": 4,
+      "The National": 1,
+      "سانا — قسم السياسة": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+      "excerpt": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
+      "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+      "publishedAt": "2026-11-03T15:47:34.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria foils Hezbollah-linked plot targeting Homs oil refinery",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security Forces announced on Tuesday that they had foiled a plot by a cell affiliated with Hezbollah to target the Homs oil refinery in central Syria, arresting its members and seizing explos",
+      "link": "https://npasyria.com/en/143374/",
+      "publishedAt": "2026-11-03T13:26:37.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Syria foils Hezbollah-linked plot to attack Homs refinery: What to know",
+      "excerpt": "Syrian authorities have intensified a crackdown against Hezbollah’s alleged plans to launch attacks inside Syrian territory as well as smuggling attempts.",
+      "link": "https://www.al-monitor.com/originals/2026/11/syria-foils-hezbollah-linked-plot-attack-homs-refinery-what-know",
+      "publishedAt": "2026-11-03T13:18:28.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Hezbollah-appointed Lebanese official welcomed in Syria in first since fall of Assad regime",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3386,w_5184/455264' alt='Hezbollah fighters put Lebanese and Hezbollah flags at Juroud Arsal, Syria-Lebanon border (photo credit: R",
+      "link": "https://www.jpost.com/middle-east/article-913693",
+      "publishedAt": "2026-11-03T13:10:52.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "شركة \"أرسيل\" ترفع الحظر عن مواقع إعلامية سورية وتركية في الحسكة",
+      "excerpt": "رفعت شركة \"فالين\" (أرسيل)، المزودة لخدمات الإنترنت في مناطق شمال شرقي سوريا، الحجب عن عدد من المواقع الإعلامية السورية والتركية..",
+      "link": "https://www.syria.tv/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D8%B1%D8%B3%D9%8A%D9%84-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%B9%D9%86-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
+      "publishedAt": "2026-11-03T13:04:24.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Syria foils 'Hezbollah-linked plot' to blow up oil refinery",
+      "excerpt": "Syria says it has foiled a plot linked to Hezbollah to attack the Homs oil refinery, a claim the Lebanese militant group has denied. Authorities arrested two members of a suspected Hezbollah cell on Tuesday and seized explosive devices that",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/syria-foils-hezbollah-linked-plot-to-blow-up-oil-refinery/",
+      "publishedAt": "2026-11-03T12:28:51.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل وينصب حاجزا على طريق عين البيضة بريف القنيطرة",
+      "excerpt": "يأتي نصب الحاجز في إطار التوغلات العسكرية الإسرائيلية المتواصلة في مناطق ريف القنيطرة، وسط متابعة لتفاصيل الإجراءات",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-03T11:52:58.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "خلية تابعة لـ \"حزب الله\".. الأمن الداخلي يحبط مخططا لاستهداف مصفاة حمص",
+      "excerpt": "أعلنت قوى الأمن الداخلي السورية إحباط \"مخطط إرهابي\" كان يستهدف مصفاة حمص، وذلك خلال عملية أمنية نفذها جهاز الاستخبارات العامة بالتعاون مع..",
+      "link": "https://www.syria.tv/%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%80-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D9%8A%D8%AD%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D8%A7-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%B5%D9%81%D8%A7%D8%A9-%D8%AD%D9%85%D8%B5",
+      "publishedAt": "2026-11-03T11:51:11.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces raid village in Syria’s Quneitra, detain young man",
+      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Tuesday conducted a military incursion in the southern countryside of Quneitra, southern Syria, deploying five military vehicles carrying soldiers and detaining a young man before taking him",
+      "link": "https://npasyria.com/en/143370/",
+      "publishedAt": "2026-11-03T11:00:32.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "حظر الأسلحة الكيميائية: تمويل دنماركي بـ 800 ألف يورو لدعم بعثاتنا إلى سوريا",
+      "excerpt": "‏ أعلنت منظمة حظر الأسلحة الكيميائية أن الدنمارك قدمت مساهمة مالية تجاوزت 800 ألف يورو ‏إلى الصندوق الائتماني لبعثات سوريا، دعماً لمواصلة عمل المنظمة الفني المستقل في البلاد.‏ وقالت المنظمة في بيان نشرته عبر موقعها الإلكتروني، أمس الإثنين: ",
+      "link": "https://sana.sy/syria-and-the-world/2624843/",
+      "publishedAt": "2026-11-03T09:36:19.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. launches limited strikes on Iran’s Qeshm Island after IRGC attack",
+      "excerpt": "DAMASCUS, Syria (North Press) – The United States on Monday launched limited strikes on Iran’s Qeshm Island in the Strait of Hormuz, US officials told CBS News, following an attack by Iran’s Islamic Revolutionary Guard Corps (IRGC) on a U.S",
+      "link": "https://npasyria.com/en/143364/",
+      "publishedAt": "2026-11-03T06:48:15.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "أعلى حصيلة منذ بداية 2026.. 395 انتهاكا للاحتلال الإسرائيلي في سوريا خلال شهر",
+      "excerpt": "وثّق مركز \"سجل\" 395 انتهاكاً إسرائيلياً في سوريا خلال تشرين الأول الماضي، في أعلى حصيلة شهرية منذ بداية عام 2026، شملت توغلات عسكرية ومداهمات وعمليات احتجاز..",
+      "link": "https://www.syria.tv/%D8%A3%D8%B9%D9%84%D9%89-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-2026-395-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D8%B4%D9%87%D8%B1",
+      "publishedAt": "2026-11-02T17:34:55.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Iran’s Supreme Leader grants government powers for U.S. talks",
+      "excerpt": "QAMISHLI, Syria (North Press) – Iranian President Masoud Pezeshkian said on Monday that Supreme Leader Mojtaba Khamenei had granted the government certain powers to pursue a diplomatic solution to the conflict with the United States. “We se",
+      "link": "https://npasyria.com/en/143345/",
+      "publishedAt": "2026-11-02T17:16:36.000Z"
+    }
+  ]
+}
