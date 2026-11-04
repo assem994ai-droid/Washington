@@ -1,32 +1,50 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-03T21:50:21.731Z",
+    "generatedAt": "2026-11-04T01:43:52.123Z",
     "windowHours": 24,
-    "from": "2026-11-02T21:50:21.731Z",
-    "to": "2026-11-03T21:50:21.731Z"
+    "from": "2026-11-03T01:43:52.123Z",
+    "to": "2026-11-04T01:43:52.123Z"
   },
   "counts": {
-    "total": 20,
+    "total": 21,
     "byCircle": {
+      "الكونغرس والتوازن السياسي الأمريكي": 2,
       "الملف الإسرائيلي والتركي": 3,
       "المصادر الرسمية السورية": 3,
       "مراكز الفكر": 1,
       "الإعلام السوري المستقل": 10,
-      "الإعلام المتخصص": 2,
-      "الإعلام الدولي": 1
+      "الإعلام المتخصص": 2
     },
     "bySource": {
+      "The Hill — الكونغرس والسياسة الأمريكية": 2,
       "Jerusalem Post — الشرق الأوسط": 3,
       "سانا — قسم السياسة": 3,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
       "تلفزيون سوريا": 5,
       "The National": 2,
-      "North Press Agency (English)": 5,
-      "Al Jazeera English": 1
+      "North Press Agency (English)": 5
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "The Hill — الكونغرس والسياسة الأمريكية",
+      "sourceId": "thehill",
+      "circle": "الكونغرس والتوازن السياسي الأمريكي",
+      "title": "Hamawy wins open New Jersey House seat, succeeding Watson Coleman",
+      "excerpt": "Democrat Adam Hamawy is projected to win an open seat representing New Jersey’s 12th Congressional District, according to Decision Desk HQ, keeping the safe blue seat in Democratic hands.&#160; Hamawy, a surgeon and former Army physician, e",
+      "link": "https://thehill.com/homenews/campaign/6160858-hamawy-wins-new-jersey-house-succeeding-watson-coleman/",
+      "publishedAt": "2026-11-04T01:15:07.000Z"
+    },
+    {
+      "source": "The Hill — الكونغرس والسياسة الأمريكية",
+      "sourceId": "thehill",
+      "circle": "الكونغرس والتوازن السياسي الأمريكي",
+      "title": "House Republicans accuse the American Psychological Association of antisemitism, threaten accreditation",
+      "excerpt": "Republicans in the House Education and Workforce Committee accused the American Psychological Association (APA) of antisemitism in a 22-page report Thursday.&#160; The report examines public Listservs and internal communications at the lead",
+      "link": "https://thehill.com/homenews/house/6194215-republicans-accuse-apa-antisemitism/",
+      "publishedAt": "2026-11-03T22:08:43.000Z"
+    },
     {
       "source": "Jerusalem Post — الشرق الأوسط",
       "sourceId": "jpost-me",
@@ -116,15 +134,6 @@
       "excerpt": "فجّرت قوات الاحتلال الإسرائيلي، اليوم، مبنى كتيبة الهندسة المهجورة التابعة للنظام المخلوع، في محيط قرية دربل بمنطقة جبل الشيخ في ريف دمشق.",
       "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%AC%D8%B1-%D9%85%D8%A8%D9%86%D9%89-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D9%8A%D8%B7%D9%84%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-%D8%B7%D9%81%D9%84-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
       "publishedAt": "2026-11-03T17:11:01.000Z"
-    },
-    {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-      "excerpt": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
-      "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-      "publishedAt": "2026-11-03T15:47:34.000Z"
     },
     {
       "source": "North Press Agency (English)",

@@ -1,25 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-03T21:50:21.731Z",
+    "generatedAt": "2026-11-04T01:43:52.123Z",
     "windowHours": 24,
-    "from": "2026-11-02T21:50:21.731Z",
-    "to": "2026-11-03T21:50:21.731Z"
+    "from": "2026-11-03T01:43:52.123Z",
+    "to": "2026-11-04T01:43:52.123Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
+    "items": 21,
     "files": 6,
-    "withNew": 5,
-    "stale": 1,
+    "withNew": 1,
+    "stale": 5,
     "contested": 2,
     "echoed": 1,
-    "americanItems": 1,
-    "archiveCycles": 1335
+    "americanItems": 3,
+    "archiveCycles": 1336
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
-    "الكونغرس والتوازن السياسي الأمريكي",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -27,31 +27,117 @@
   "errors": [],
   "files": [
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "The Hill — الكونغرس والسياسة الأمريكية",
+        "The National",
+        "سانا — قسم السياسة",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الكونغرس والتوازن السياسي الأمريكي",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 3,
+      "score": 34,
+      "items": [
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "Hamawy wins open New Jersey House seat, succeeding Watson Coleman",
+          "excerpt": "Democrat Adam Hamawy is projected to win an open seat representing New Jersey’s 12th Congressional District, according to Decision Desk HQ, keeping the safe blue seat in Democratic hands.&#160; Hamawy, a surgeon and former Army physician, e",
+          "link": "https://thehill.com/homenews/campaign/6160858-hamawy-wins-new-jersey-house-succeeding-watson-coleman/",
+          "publishedAt": "2026-11-04T01:15:07.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "The Hill — الكونغرس والسياسة الأمريكية",
+          "sourceId": "thehill",
+          "circle": "الكونغرس والتوازن السياسي الأمريكي",
+          "title": "House Republicans accuse the American Psychological Association of antisemitism, threaten accreditation",
+          "excerpt": "Republicans in the House Education and Workforce Committee accused the American Psychological Association (APA) of antisemitism in a 22-page report Thursday.&#160; The report examines public Listservs and internal communications at the lead",
+          "link": "https://thehill.com/homenews/house/6194215-republicans-accuse-apa-antisemitism/",
+          "publishedAt": "2026-11-03T22:08:43.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria takes spotlight at World Travel Market in London",
+          "excerpt": "Syria will restore most of its 3,000 archaeological and historical landmarks within a decade as it seeks to become one of the best holiday destinations in the Mediterranean, its Tourism Minister said on Tuesday.Famous archaeological sites –",
+          "link": "https://www.thenationalnews.com/travel/2026/11/03/wtm-travel-expo-sees-syria-take-the-london-spotlight/",
+          "publishedAt": "2026-11-03T19:00:00.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "حظر الأسلحة الكيميائية: تمويل دنماركي بـ 800 ألف يورو لدعم بعثاتنا إلى سوريا",
+          "excerpt": "‏ أعلنت منظمة حظر الأسلحة الكيميائية أن الدنمارك قدمت مساهمة مالية تجاوزت 800 ألف يورو ‏إلى الصندوق الائتماني لبعثات سوريا، دعماً لمواصلة عمل المنظمة الفني المستقل في البلاد.‏ وقالت المنظمة في بيان نشرته عبر موقعها الإلكتروني، أمس الإثنين: ",
+          "link": "https://sana.sy/syria-and-the-world/2624843/",
+          "publishedAt": "2026-11-03T09:36:19.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. launches limited strikes on Iran’s Qeshm Island after IRGC attack",
+          "excerpt": "DAMASCUS, Syria (North Press) – The United States on Monday launched limited strikes on Iran’s Qeshm Island in the Strait of Hormuz, US officials told CBS News, following an attack by Iran’s Islamic Revolutionary Guard Corps (IRGC) on a U.S",
+          "link": "https://npasyria.com/en/143364/",
+          "publishedAt": "2026-11-03T06:48:15.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "North Press Agency (English)",
-        "Al Jazeera English",
         "The National"
       ],
       "circles": [
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
-        "الإعلام الدولي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 0,
-      "score": 38,
+      "score": 17,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -64,7 +150,7 @@
           "files": [
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,7 +164,7 @@
           "files": [
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -89,20 +175,6 @@
           "excerpt": "QAMISHLI, Syria (North Press) – Lebanon’s Hezbollah denied on Tuesday allegations by Syrian Internal Security Forces that a cell affiliated with the group had plotted to target the Homs oil refinery. Earlier on Tuesday, the Internal Securit",
           "link": "https://npasyria.com/en/143388/",
           "publishedAt": "2026-11-03T17:49:22.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-          "excerpt": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
-          "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-          "publishedAt": "2026-11-03T15:47:34.000Z",
           "files": [
             "lebanon"
           ],
@@ -183,13 +255,13 @@
         "مراكز الفكر",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 31,
+      "score": 14,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -203,7 +275,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -217,7 +289,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -231,7 +303,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -249,13 +321,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 22,
+      "score": 9,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -268,7 +340,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -282,7 +354,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -316,104 +388,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "The National",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 19,
-      "items": [
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria takes spotlight at World Travel Market in London",
-          "excerpt": "Syria will restore most of its 3,000 archaeological and historical landmarks within a decade as it seeks to become one of the best holiday destinations in the Mediterranean, its Tourism Minister said on Tuesday.Famous archaeological sites –",
-          "link": "https://www.thenationalnews.com/travel/2026/11/03/wtm-travel-expo-sees-syria-take-the-london-spotlight/",
-          "publishedAt": "2026-11-03T19:00:00.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "حظر الأسلحة الكيميائية: تمويل دنماركي بـ 800 ألف يورو لدعم بعثاتنا إلى سوريا",
-          "excerpt": "‏ أعلنت منظمة حظر الأسلحة الكيميائية أن الدنمارك قدمت مساهمة مالية تجاوزت 800 ألف يورو ‏إلى الصندوق الائتماني لبعثات سوريا، دعماً لمواصلة عمل المنظمة الفني المستقل في البلاد.‏ وقالت المنظمة في بيان نشرته عبر موقعها الإلكتروني، أمس الإثنين: ",
-          "link": "https://sana.sy/syria-and-the-world/2624843/",
-          "publishedAt": "2026-11-03T09:36:19.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. launches limited strikes on Iran’s Qeshm Island after IRGC attack",
-          "excerpt": "DAMASCUS, Syria (North Press) – The United States on Monday launched limited strikes on Iran’s Qeshm Island in the Strait of Hormuz, US officials told CBS News, following an attack by Iran’s Islamic Revolutionary Guard Corps (IRGC) on a U.S",
-          "link": "https://npasyria.com/en/143364/",
-          "publishedAt": "2026-11-03T06:48:15.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية إسبانية لتطوير التعاون وتحويل فرص التنمية إلى مشاريع عملية",
-          "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش مع المديرة ‌‏العامة لشؤون الشرق الأوسط وشمال أفريقيا في وزارة الخارجية الإسبانية كارمن ‌‏ماغارينيوس كاسال، في العاصمة مدريد،‏ سبل تعزيز الشراكات التنموية، بما يتوافق مع ",
-          "link": "https://sana.sy/politics/2625270/",
-          "publishedAt": "2026-11-03T17:24:01.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -425,7 +399,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 16:17",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -444,6 +418,42 @@
           "files": [
             "sanctions",
             "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية إسبانية لتطوير التعاون وتحويل فرص التنمية إلى مشاريع عملية",
+          "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش مع المديرة ‌‏العامة لشؤون الشرق الأوسط وشمال أفريقيا في وزارة الخارجية الإسبانية كارمن ‌‏ماغارينيوس كاسال، في العاصمة مدريد،‏ سبل تعزيز الشراكات التنموية، بما يتوافق مع ",
+          "link": "https://sana.sy/politics/2625270/",
+          "publishedAt": "2026-11-03T17:24:01.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
