@@ -1,24 +1,25 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-04T01:43:52.123Z",
+    "generatedAt": "2026-11-04T08:04:27.222Z",
     "windowHours": 24,
-    "from": "2026-11-03T01:43:52.123Z",
-    "to": "2026-11-04T01:43:52.123Z"
+    "from": "2026-11-03T08:04:27.222Z",
+    "to": "2026-11-04T08:04:27.222Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
-    "files": 6,
-    "withNew": 1,
-    "stale": 5,
+    "items": 25,
+    "files": 7,
+    "withNew": 4,
+    "stale": 3,
     "contested": 2,
     "echoed": 1,
     "americanItems": 3,
-    "archiveCycles": 1336
+    "archiveCycles": 1337
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
+    "الكونغرس والتوازن السياسي الأمريكي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -27,21 +28,104 @@
   "errors": [],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
       "independentSources": 4,
       "sources": [
-        "The Hill — الكونغرس والسياسة الأمريكية",
-        "The National",
+        "تلفزيون سوريا",
         "سانا — قسم السياسة",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية",
+        "مراكز الفكر",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 27,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اتفاقية معلقة منذ 2011.. مساعٍ تركيّة لإعادة تفعيل التجارة الحرة مع سوريا",
+          "excerpt": "أدرجت تركيا إعادة تفعيل اتفاقية التجارة الحرة مع سوريا ضمن برنامجها الرئاسي لعام 2027، بهدف توسيع الأسواق وتعزيز العلاقات التجارية.",
+          "link": "https://www.syria.tv/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%82%D8%A9-%D9%85%D9%86%D8%B0-2011-%D9%85%D8%B3%D8%A7%D8%B9%D9%8D-%D8%AA%D8%B1%D9%83%D9%8A%D9%91%D8%A9-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-11-04T07:23:18.000Z",
+          "files": [
+            "turkey",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الخارجية تبحث مع السفير التركي آفاق العلاقات الثنائية ومتابعة تنفيذ الاتفاقيات الموقعة",
+          "excerpt": "زار وفد من وزارة الخارجية والمغتربين، برئاسة مدير مكتب الشؤون التركية عبد ‏الرزاق مصطفى، المقر الجديد لسفارة الجمهورية التركية في دمشق، لتقديم التهنئة ‏بمناسبة يوم الجمهورية، والتقى السفير التركي نوح يلماز.‏",
+          "link": "https://sana.sy/politics/2625572/",
+          "publishedAt": "2026-11-03T21:01:00.000Z",
+          "files": [
+            "turkey",
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Ocalan moves prisons in Turkey",
+          "excerpt": "My @FDD colleague Helin Unal breaks down all you need to know about the Kurdish peace process in Turkey and its wider political implications in Syria as well as Erdogan's domestic calculations pic.twitter.com/KLtLQU20PD&#8212;... The post O",
+          "link": "https://www.fdd.org/in_the_news/ocalan-moves-prisons-in-turkey/",
+          "publishedAt": "2026-11-03T19:55:19.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Does Iraq's rerouting of oil exports make Turkey a big winner of the Iran war? - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3995,w_6000/744760' alt='Oil trucks arriving from Iraq at the Baniyas oil terminal, in Baniyas, Syria, May 14, 2026. (photo credit:",
+          "link": "https://www.jpost.com/middle-east/article-913728",
+          "publishedAt": "2026-11-03T18:12:26.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "Middle East Eye",
+        "تلفزيون سوريا",
         "North Press Agency (English)"
       ],
       "circles": [
-        "الكونغرس والتوازن السياسي الأمريكي",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
@@ -49,29 +133,191 @@
       "newItems": 2,
       "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 34,
+      "usItems": 0,
+      "score": 27,
       "items": [
         {
-          "source": "The Hill — الكونغرس والسياسة الأمريكية",
-          "sourceId": "thehill",
-          "circle": "الكونغرس والتوازن السياسي الأمريكي",
-          "title": "Hamawy wins open New Jersey House seat, succeeding Watson Coleman",
-          "excerpt": "Democrat Adam Hamawy is projected to win an open seat representing New Jersey’s 12th Congressional District, according to Decision Desk HQ, keeping the safe blue seat in Democratic hands.&#160; Hamawy, a surgeon and former Army physician, e",
-          "link": "https://thehill.com/homenews/campaign/6160858-hamawy-wins-new-jersey-house-succeeding-watson-coleman/",
-          "publishedAt": "2026-11-04T01:15:07.000Z",
-          "files": [],
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli forces raid homes after advancing into south western Syrian town",
+          "excerpt": "<article data-history-node-id=\"450427\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-homes-after-advancing-south-western-syrian-town\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-homes-after-advancing-south-western-syrian-town",
+          "publishedAt": "2026-11-04T07:15:33.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال الإسرائيلي تفتش منازل في بلدة جباتا الخشب بـ٤ آليات عسكرية",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D9%80%D9%A4-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-11-04T07:15:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israel blows up abandoned military buildings in Damascus countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces detonated abandoned military buildings near Dribil village on the slopes of Mount Hermon in western Damascus countryside on Tuesday, local sources told North Press. The explosions coincided wit",
+          "link": "https://npasyria.com/en/143391/",
+          "publishedAt": "2026-11-03T18:34:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يفجر مبنى عسكريا في جبل الشيخ ويطلق سراح طفل اختطفه من القنيطرة",
+          "excerpt": "فجّرت قوات الاحتلال الإسرائيلي، اليوم، مبنى كتيبة الهندسة المهجورة التابعة للنظام المخلوع، في محيط قرية دربل بمنطقة جبل الشيخ في ريف دمشق.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%AC%D8%B1-%D9%85%D8%A8%D9%86%D9%89-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D9%8A%D8%B7%D9%84%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-%D8%B7%D9%81%D9%84-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-03T17:11:01.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل وينصب حاجزا على طريق عين البيضة بريف القنيطرة",
+          "excerpt": "يأتي نصب الحاجز في إطار التوغلات العسكرية الإسرائيلية المتواصلة في مناطق ريف القنيطرة، وسط متابعة لتفاصيل الإجراءات",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-03T11:52:58.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces raid village in Syria’s Quneitra, detain young man",
+          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Tuesday conducted a military incursion in the southern countryside of Quneitra, southern Syria, deploying five military vehicles carrying soldiers and detaining a young man before taking him",
+          "link": "https://npasyria.com/en/143370/",
+          "publishedAt": "2026-11-03T11:00:32.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "congress",
+      "label": "ملف الكونغرس والتشريع",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "North Press Agency (English)",
+        "Middle East Eye"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 2,
+      "score": 26,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Democrats take House, Senate, usher in new era of resistance to Trump",
+          "excerpt": "QAMISHLI, Syria (North Press) – Democrats have won control of both chambers of the U.S. Congress in Tuesday’s midterm elections, delivering a major setback to President Donald Trump and setting the stage for increased congressional oppositi",
+          "link": "https://npasyria.com/en/143409/",
+          "publishedAt": "2026-11-04T07:01:51.000Z",
+          "files": [
+            "congress"
+          ],
           "seenBefore": false,
           "us": true
         },
         {
-          "source": "The Hill — الكونغرس والسياسة الأمريكية",
-          "sourceId": "thehill",
-          "circle": "الكونغرس والتوازن السياسي الأمريكي",
-          "title": "House Republicans accuse the American Psychological Association of antisemitism, threaten accreditation",
-          "excerpt": "Republicans in the House Education and Workforce Committee accused the American Psychological Association (APA) of antisemitism in a 22-page report Thursday.&#160; The report examines public Listservs and internal communications at the lead",
-          "link": "https://thehill.com/homenews/house/6194215-republicans-accuse-apa-antisemitism/",
-          "publishedAt": "2026-11-03T22:08:43.000Z",
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Adam Hamawy makes history as New Jersey’s first Muslim congressman",
+          "excerpt": "<article data-history-node-id=\"450425\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/adam-hamawy-makes-history-new-jerseys-first-muslim-congressman\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.midd",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/adam-hamawy-makes-history-new-jerseys-first-muslim-congressman",
+          "publishedAt": "2026-11-04T06:40:27.000Z",
+          "files": [
+            "congress"
+          ],
+          "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "North Press Agency (English)",
+        "The National",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 24,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Iran&#8217;s IRGC says four oil tankers destroyed near Strait of Hormuz",
+          "excerpt": "DAMASCUS, Syria (North Press) – Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) on Wednesday said four oil tankers were destroyed after hitting naval mines while attempting to cross a prohibited passage south of the strategic Strait o",
+          "link": "https://npasyria.com/en/143412/",
+          "publishedAt": "2026-11-04T07:30:09.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Adam Hamawy, Egyptian American who volunteered in Gaza, wins US House race",
+          "excerpt": "Live updates: Follow the latest news on US midtermsAn Egyptian-American Democrat who volunteered as a surgeon in Gaza during Israel's war with Hamas is projected to win a seat in Congress for New Jersey, defeating Republican Gregg Mele.As o",
+          "link": "https://www.thenationalnews.com/news/us/2026/11/04/adam-hamawy-new-jersey-gaza-egypt/",
+          "publishedAt": "2026-11-04T02:16:41.000Z",
           "files": [],
           "seenBefore": false,
           "us": true
@@ -99,18 +345,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "U.S. launches limited strikes on Iran’s Qeshm Island after IRGC attack",
-          "excerpt": "DAMASCUS, Syria (North Press) – The United States on Monday launched limited strikes on Iran’s Qeshm Island in the Strait of Hormuz, US officials told CBS News, following an attack by Iran’s Islamic Revolutionary Guard Corps (IRGC) on a U.S",
-          "link": "https://npasyria.com/en/143364/",
-          "publishedAt": "2026-11-03T06:48:15.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
         }
       ]
     },
@@ -131,7 +365,7 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 01:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -240,154 +474,6 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
-      "sources": [
-        "سانا — قسم السياسة",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "مراكز الفكر",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 14,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الخارجية تبحث مع السفير التركي آفاق العلاقات الثنائية ومتابعة تنفيذ الاتفاقيات الموقعة",
-          "excerpt": "زار وفد من وزارة الخارجية والمغتربين، برئاسة مدير مكتب الشؤون التركية عبد ‏الرزاق مصطفى، المقر الجديد لسفارة الجمهورية التركية في دمشق، لتقديم التهنئة ‏بمناسبة يوم الجمهورية، والتقى السفير التركي نوح يلماز.‏",
-          "link": "https://sana.sy/politics/2625572/",
-          "publishedAt": "2026-11-03T21:01:00.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Ocalan moves prisons in Turkey",
-          "excerpt": "My @FDD colleague Helin Unal breaks down all you need to know about the Kurdish peace process in Turkey and its wider political implications in Syria as well as Erdogan's domestic calculations pic.twitter.com/KLtLQU20PD&#8212;... The post O",
-          "link": "https://www.fdd.org/in_the_news/ocalan-moves-prisons-in-turkey/",
-          "publishedAt": "2026-11-03T19:55:19.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Does Iraq's rerouting of oil exports make Turkey a big winner of the Iran war? - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3995,w_6000/744760' alt='Oil trucks arriving from Iraq at the Baniyas oil terminal, in Baniyas, Syria, May 14, 2026. (photo credit:",
-          "link": "https://www.jpost.com/middle-east/article-913728",
-          "publishedAt": "2026-11-03T18:12:26.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 9,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israel blows up abandoned military buildings in Damascus countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces detonated abandoned military buildings near Dribil village on the slopes of Mount Hermon in western Damascus countryside on Tuesday, local sources told North Press. The explosions coincided wit",
-          "link": "https://npasyria.com/en/143391/",
-          "publishedAt": "2026-11-03T18:34:46.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يفجر مبنى عسكريا في جبل الشيخ ويطلق سراح طفل اختطفه من القنيطرة",
-          "excerpt": "فجّرت قوات الاحتلال الإسرائيلي، اليوم، مبنى كتيبة الهندسة المهجورة التابعة للنظام المخلوع، في محيط قرية دربل بمنطقة جبل الشيخ في ريف دمشق.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%AC%D8%B1-%D9%85%D8%A8%D9%86%D9%89-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D9%8A%D8%B7%D9%84%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-%D8%B7%D9%81%D9%84-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-03T17:11:01.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل وينصب حاجزا على طريق عين البيضة بريف القنيطرة",
-          "excerpt": "يأتي نصب الحاجز في إطار التوغلات العسكرية الإسرائيلية المتواصلة في مناطق ريف القنيطرة، وسط متابعة لتفاصيل الإجراءات",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-03T11:52:58.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid village in Syria’s Quneitra, detain young man",
-          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Tuesday conducted a military incursion in the southern countryside of Quneitra, southern Syria, deploying five military vehicles carrying soldiers and detaining a young man before taking him",
-          "link": "https://npasyria.com/en/143370/",
-          "publishedAt": "2026-11-03T11:00:32.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -399,7 +485,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 01:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -436,7 +522,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-03 21:50",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 01:43",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,

@@ -1,49 +1,93 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-04T01:43:52.123Z",
+    "generatedAt": "2026-11-04T08:04:27.222Z",
     "windowHours": 24,
-    "from": "2026-11-03T01:43:52.123Z",
-    "to": "2026-11-04T01:43:52.123Z"
+    "from": "2026-11-03T08:04:27.222Z",
+    "to": "2026-11-04T08:04:27.222Z"
   },
   "counts": {
-    "total": 21,
+    "total": 25,
     "byCircle": {
-      "الكونغرس والتوازن السياسي الأمريكي": 2,
+      "الإعلام السوري المستقل": 13,
+      "الإعلام المتخصص": 5,
       "الملف الإسرائيلي والتركي": 3,
       "المصادر الرسمية السورية": 3,
-      "مراكز الفكر": 1,
-      "الإعلام السوري المستقل": 10,
-      "الإعلام المتخصص": 2
+      "مراكز الفكر": 1
     },
     "bySource": {
-      "The Hill — الكونغرس والسياسة الأمريكية": 2,
+      "North Press Agency (English)": 6,
+      "تلفزيون سوريا": 7,
+      "Middle East Eye": 2,
+      "The National": 3,
       "Jerusalem Post — الشرق الأوسط": 3,
       "سانا — قسم السياسة": 3,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "تلفزيون سوريا": 5,
-      "The National": 2,
-      "North Press Agency (English)": 5
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
     }
   },
   "errors": [],
   "items": [
     {
-      "source": "The Hill — الكونغرس والسياسة الأمريكية",
-      "sourceId": "thehill",
-      "circle": "الكونغرس والتوازن السياسي الأمريكي",
-      "title": "Hamawy wins open New Jersey House seat, succeeding Watson Coleman",
-      "excerpt": "Democrat Adam Hamawy is projected to win an open seat representing New Jersey’s 12th Congressional District, according to Decision Desk HQ, keeping the safe blue seat in Democratic hands.&#160; Hamawy, a surgeon and former Army physician, e",
-      "link": "https://thehill.com/homenews/campaign/6160858-hamawy-wins-new-jersey-house-succeeding-watson-coleman/",
-      "publishedAt": "2026-11-04T01:15:07.000Z"
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Iran&#8217;s IRGC says four oil tankers destroyed near Strait of Hormuz",
+      "excerpt": "DAMASCUS, Syria (North Press) – Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) on Wednesday said four oil tankers were destroyed after hitting naval mines while attempting to cross a prohibited passage south of the strategic Strait o",
+      "link": "https://npasyria.com/en/143412/",
+      "publishedAt": "2026-11-04T07:30:09.000Z"
     },
     {
-      "source": "The Hill — الكونغرس والسياسة الأمريكية",
-      "sourceId": "thehill",
-      "circle": "الكونغرس والتوازن السياسي الأمريكي",
-      "title": "House Republicans accuse the American Psychological Association of antisemitism, threaten accreditation",
-      "excerpt": "Republicans in the House Education and Workforce Committee accused the American Psychological Association (APA) of antisemitism in a 22-page report Thursday.&#160; The report examines public Listservs and internal communications at the lead",
-      "link": "https://thehill.com/homenews/house/6194215-republicans-accuse-apa-antisemitism/",
-      "publishedAt": "2026-11-03T22:08:43.000Z"
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "اتفاقية معلقة منذ 2011.. مساعٍ تركيّة لإعادة تفعيل التجارة الحرة مع سوريا",
+      "excerpt": "أدرجت تركيا إعادة تفعيل اتفاقية التجارة الحرة مع سوريا ضمن برنامجها الرئاسي لعام 2027، بهدف توسيع الأسواق وتعزيز العلاقات التجارية.",
+      "link": "https://www.syria.tv/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%82%D8%A9-%D9%85%D9%86%D8%B0-2011-%D9%85%D8%B3%D8%A7%D8%B9%D9%8D-%D8%AA%D8%B1%D9%83%D9%8A%D9%91%D8%A9-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-04T07:23:18.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli forces raid homes after advancing into south western Syrian town",
+      "excerpt": "<article data-history-node-id=\"450427\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-homes-after-advancing-south-western-syrian-town\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-homes-after-advancing-south-western-syrian-town",
+      "publishedAt": "2026-11-04T07:15:33.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قوات الاحتلال الإسرائيلي تفتش منازل في بلدة جباتا الخشب بـ٤ آليات عسكرية",
+      "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
+      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D9%80%D9%A4-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
+      "publishedAt": "2026-11-04T07:15:06.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Democrats take House, Senate, usher in new era of resistance to Trump",
+      "excerpt": "QAMISHLI, Syria (North Press) – Democrats have won control of both chambers of the U.S. Congress in Tuesday’s midterm elections, delivering a major setback to President Donald Trump and setting the stage for increased congressional oppositi",
+      "link": "https://npasyria.com/en/143409/",
+      "publishedAt": "2026-11-04T07:01:51.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Adam Hamawy makes history as New Jersey’s first Muslim congressman",
+      "excerpt": "<article data-history-node-id=\"450425\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/adam-hamawy-makes-history-new-jerseys-first-muslim-congressman\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.midd",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/adam-hamawy-makes-history-new-jerseys-first-muslim-congressman",
+      "publishedAt": "2026-11-04T06:40:27.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Adam Hamawy, Egyptian American who volunteered in Gaza, wins US House race",
+      "excerpt": "Live updates: Follow the latest news on US midtermsAn Egyptian-American Democrat who volunteered as a surgeon in Gaza during Israel's war with Hamas is projected to win a seat in Congress for New Jersey, defeating Republican Gregg Mele.As o",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/04/adam-hamawy-new-jersey-gaza-egypt/",
+      "publishedAt": "2026-11-04T02:16:41.000Z"
     },
     {
       "source": "Jerusalem Post — الشرق الأوسط",
@@ -206,15 +250,6 @@
       "excerpt": "‏ أعلنت منظمة حظر الأسلحة الكيميائية أن الدنمارك قدمت مساهمة مالية تجاوزت 800 ألف يورو ‏إلى الصندوق الائتماني لبعثات سوريا، دعماً لمواصلة عمل المنظمة الفني المستقل في البلاد.‏ وقالت المنظمة في بيان نشرته عبر موقعها الإلكتروني، أمس الإثنين: ",
       "link": "https://sana.sy/syria-and-the-world/2624843/",
       "publishedAt": "2026-11-03T09:36:19.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "U.S. launches limited strikes on Iran’s Qeshm Island after IRGC attack",
-      "excerpt": "DAMASCUS, Syria (North Press) – The United States on Monday launched limited strikes on Iran’s Qeshm Island in the Strait of Hormuz, US officials told CBS News, following an attack by Iran’s Islamic Revolutionary Guard Corps (IRGC) on a U.S",
-      "link": "https://npasyria.com/en/143364/",
-      "publishedAt": "2026-11-03T06:48:15.000Z"
     }
   ]
 }
