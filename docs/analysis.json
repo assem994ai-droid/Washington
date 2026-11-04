@@ -1,81 +1,78 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-04T16:12:40.777Z",
+    "generatedAt": "2026-11-04T21:55:26.402Z",
     "windowHours": 24,
-    "from": "2026-11-03T16:12:40.777Z",
-    "to": "2026-11-04T16:12:40.777Z"
+    "from": "2026-11-03T21:55:26.402Z",
+    "to": "2026-11-04T21:55:26.402Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
-    "files": 6,
-    "withNew": 4,
-    "stale": 2,
-    "contested": 2,
+    "items": 16,
+    "files": 5,
+    "withNew": 5,
+    "stale": 0,
+    "contested": 1,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 1338
+    "americanItems": 2,
+    "archiveCycles": 1339
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [
-    {
-      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-      "sourceId": "fdd",
-      "message": "الخادم ردّ برمز 403"
-    }
-  ],
+  "errors": [],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
-        "Middle East Eye",
-        "The National",
-        "North Press Agency (English)"
+        "Al-Monitor",
+        "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
+        "The National"
       ],
       "circles": [
         "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 2,
-      "score": 33,
+      "score": 30,
       "items": [
         {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
           "circle": "الإعلام المتخصص",
-          "title": "Gaza volunteer surgeon Adam Hamawy wins US House seat in New Jersey",
-          "excerpt": "<article data-history-node-id=\"450434\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/gaza-volunteer-surgeon-adam-hamawy-wins-us-house-seat-new-jersey\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-volunteer-surgeon-adam-hamawy-wins-us-house-seat-new-jersey",
-          "publishedAt": "2026-11-04T10:57:54.000Z",
+          "title": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports",
+          "excerpt": "<p>CAIRO, Nov 4 (Reuters) - Saudi Arabia and Syria signed a cooperation agreement between the two countries' defense ministries on Wednesday, Saudi state news agency SPA reported, as Yemen's Iran-alignedHouthi group continues its missile an",
+          "link": "https://www.al-monitor.com/originals/2026/11/saudi-syrian-defence-ministries-sign-cooperation-agreement-spa-reports",
+          "publishedAt": "2026-11-04T20:46:39.000Z",
           "files": [],
           "seenBefore": false,
           "us": false
         },
         {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria's President Al Shara meets Saudi Crown Prince in Riyadh for second time in weeks",
-          "excerpt": "Syrian ​President ⁠Ahmad Al Shara met Saudi Crown Prince and Prime Minister Mohammed bin Salman in Riyadh on Wednesday, on his second visit to the kingdom in weeks.The two leaders discussed bilateral relations and ways to strengthen co-oper",
-          "link": "https://www.thenationalnews.com/news/gulf/2026/11/04/syrian-president-al-shara-arrives-in-riyadh-for-second-saudi-visit-in-weeks/",
-          "publishedAt": "2026-11-04T09:53:48.000Z",
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Egyptian prosecutors seek ‘maximum penalty’ for Christian convert for contempt of Islam",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3666,w_5500/744896' alt='Egyptian flags wave in front of a gate at the Rafah border crossing, amid a ceasefire between Israel and H",
+          "link": "https://www.jpost.com/middle-east/article-913843",
+          "publishedAt": "2026-11-04T17:20:17.000Z",
           "files": [],
           "seenBefore": false,
           "us": false
@@ -89,20 +86,8 @@
           "link": "https://npasyria.com/en/143415/",
           "publishedAt": "2026-11-04T09:39:13.000Z",
           "files": [],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Iran&#8217;s IRGC says four oil tankers destroyed near Strait of Hormuz",
-          "excerpt": "DAMASCUS, Syria (North Press) – Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) on Wednesday said four oil tankers were destroyed after hitting naval mines while attempting to cross a prohibited passage south of the strategic Strait o",
-          "link": "https://npasyria.com/en/143412/",
-          "publishedAt": "2026-11-04T07:30:09.000Z",
-          "files": [],
           "seenBefore": true,
-          "us": false
+          "us": true
         },
         {
           "source": "The National",
@@ -115,107 +100,14 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "WTM London: Syria aims to be top Mediterranean holiday destination",
-          "excerpt": "Syria will restore most of its 3,000 archaeological and historical landmarks within a decade as it seeks to become one of the best holiday destinations in the Mediterranean, its Tourism Minister said on Tuesday.Famous archaeological sites –",
-          "link": "https://www.thenationalnews.com/travel/2026/11/03/wtm-travel-expo-sees-syria-take-the-london-spotlight/",
-          "publishedAt": "2026-11-03T19:00:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Al-Monitor"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 29,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid homes in Syria&#8217;s Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Wednesday entered the town of Jabata al-Khashab in northern Quneitra, southern Syria, raiding and searching homes. Local sources told North Press the force consisted of four military vehicle",
-          "link": "https://npasyria.com/en/143421/",
-          "publishedAt": "2026-11-04T10:26:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغل إسرائيلي في ريفي درعا والقنيطرة وتفتيش منازل في جباتا الخشب",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8",
-          "publishedAt": "2026-11-04T07:15:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel president urges compromise after divisive election",
-          "excerpt": "<p>Israel's president on Wednesday urged political leaders to compromise in forming a government after an election he said had no clear winner and condemned \"racist\" rhetoric against Arab parties.</p> <p>More than a week after Israel's firs",
-          "link": "https://www.al-monitor.com/originals/2026/11/israel-president-urges-compromise-after-divisive-election",
-          "publishedAt": "2026-11-04T02:30:55.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يفجر مبنى عسكريا في جبل الشيخ ويطلق سراح طفل اختطفه من القنيطرة",
-          "excerpt": "فجّرت قوات الاحتلال الإسرائيلي، اليوم، مبنى كتيبة الهندسة المهجورة التابعة للنظام المخلوع، في محيط قرية دربل بمنطقة جبل الشيخ في ريف دمشق.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%AC%D8%B1-%D9%85%D8%A8%D9%86%D9%89-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D9%8A%D8%B7%D9%84%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-%D8%B7%D9%81%D9%84-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-03T17:11:01.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
       "independentSources": 3,
       "sources": [
         "سانا — قسم السياسة",
@@ -226,14 +118,42 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
       "score": 25,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية بلجيكية في بروكسل لتنفيذ مشاريع حوكمة وتطوير إداري وصحي",
+          "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم الأربعاء، مع ‏الرئيس التنفيذي لوكالة \"‏Enabel‏\" البلجيكية جان فان فيتر في العاصمة بروكسل، مجالات ‏العمل المشترك وآفاق تنفيذ برامج ومشاريع تنموية في سوريا.‏",
+          "link": "https://sana.sy/politics/2626197/",
+          "publishedAt": "2026-11-04T18:54:24.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية مصرية في القاهرة لتعزيز التعاون الإعلامي",
+          "excerpt": "بحث سوري مصري لتعزيز التعاون الإعلامي في القاهرة.. ما الملفات التي تحضر على طاولة البلدين؟",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A",
+          "publishedAt": "2026-11-04T16:45:45.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -245,7 +165,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -259,7 +179,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -273,19 +193,84 @@
           "files": [
             "diplomacy"
           ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 22,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل للاحتلال الإسرائيلي في القنيطرة وقصف مدفعي وإطلاق نار في درعا",
+          "excerpt": "توغلت قوة عسكرية تابعة لجيش الاحتلال الإسرائيلي، مؤلفة من أربع آليات عسكرية، في قرية أوفانيا بريف القنيطرة الشمالي، حيث أجرت استجوابا لعدد من الأشخاص",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-11-04T20:29:36.000Z",
+          "files": [
+            "israel"
+          ],
           "seenBefore": false,
           "us": false
         },
         {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية إسبانية لتطوير التعاون وتحويل فرص التنمية إلى مشاريع عملية",
-          "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش مع المديرة ‌‏العامة لشؤون الشرق الأوسط وشمال أفريقيا في وزارة الخارجية الإسبانية كارمن ‌‏ماغارينيوس كاسال، في العاصمة مدريد،‏ سبل تعزيز الشراكات التنموية، بما يتوافق مع ",
-          "link": "https://sana.sy/politics/2625270/",
-          "publishedAt": "2026-11-03T17:24:01.000Z",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli artillery shells hit Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli artillery fire targeted on Wednesday evening the outskirts of al-Mantara Dam in central Quneitra countryside, southern Syria. Local sources told North Press that Israeli forces fired three artillery s",
+          "link": "https://npasyria.com/en/143448/",
+          "publishedAt": "2026-11-04T19:37:59.000Z",
           "files": [
-            "diplomacy"
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces raid homes in Syria&#8217;s Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Wednesday entered the town of Jabata al-Khashab in northern Quneitra, southern Syria, raiding and searching homes. Local sources told North Press the force consisted of four military vehicle",
+          "link": "https://npasyria.com/en/143421/",
+          "publishedAt": "2026-11-04T10:26:11.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل إسرائيلي في ريفي درعا والقنيطرة وتفتيش منازل في جباتا الخشب",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8",
+          "publishedAt": "2026-11-04T07:15:06.000Z",
+          "files": [
+            "israel"
           ],
           "seenBefore": true,
           "us": false
@@ -293,17 +278,17 @@
       ]
     },
     {
-      "id": "congress",
-      "label": "ملف الكونغرس والتشريع",
+      "id": "turkey",
+      "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "Al Jazeera English",
-        "North Press Agency (English)"
+        "Jerusalem Post — الشرق الأوسط",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام الدولي",
+        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -311,63 +296,23 @@
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 2,
-      "score": 22,
+      "usItems": 0,
+      "score": 16,
       "items": [
         {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
-          "excerpt": "Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
-          "publishedAt": "2026-11-04T13:33:05.000Z",
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Turkey distances itself from Muslim Brotherhood but strengthens Hamas ties, Austrian study finds",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4715,w_7069/744917' alt='People wearing masks with the colours of the Palestinian flag take part in a pro-Palestinian rally amid ev",
+          "link": "https://www.jpost.com/middle-east/article-913864",
+          "publishedAt": "2026-11-04T21:26:35.000Z",
           "files": [
-            "congress"
+            "turkey"
           ],
           "seenBefore": false,
-          "us": true
+          "us": false
         },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Democrats take House, Senate, usher in new era of resistance to Trump",
-          "excerpt": "QAMISHLI, Syria (North Press) – Democrats have won control of both chambers of the U.S. Congress in Tuesday’s midterm elections, delivering a major setback to President Donald Trump and setting the stage for increased congressional oppositi",
-          "link": "https://npasyria.com/en/143409/",
-          "publishedAt": "2026-11-04T07:01:51.000Z",
-          "files": [
-            "congress"
-          ],
-          "seenBefore": true,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 08:04",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 14,
-      "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -382,86 +327,42 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الخارجية تبحث مع السفير التركي آفاق العلاقات الثنائية ومتابعة تنفيذ الاتفاقيات الموقعة",
-          "excerpt": "زار وفد من وزارة الخارجية والمغتربين، برئاسة مدير مكتب الشؤون التركية عبد ‏الرزاق مصطفى، المقر الجديد لسفارة الجمهورية التركية في دمشق، لتقديم التهنئة ‏بمناسبة يوم الجمهورية، والتقى السفير التركي نوح يلماز.‏",
-          "link": "https://sana.sy/politics/2625572/",
-          "publishedAt": "2026-11-03T21:01:00.000Z",
-          "files": [
-            "turkey",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Does Iraq's rerouting of oil exports make Turkey a big winner of the Iran war? - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3995,w_6000/744760' alt='Oil trucks arriving from Iraq at the Baniyas oil terminal, in Baniyas, Syria, May 14, 2026. (photo credit:",
-          "link": "https://www.jpost.com/middle-east/article-913728",
-          "publishedAt": "2026-11-03T18:12:26.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "lebanon",
       "label": "المسار اللبناني الموازي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 2,
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "تلفزيون سوريا"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 08:04",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 6,
+      "score": 8,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
-          "title": "Inside Syria's campaign against Hezbollah: How Damascus is countering Iran’s proxy - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3072,w_4608/744778' alt='A military police officer stands on a road following an explosion at a weapons depot in the Al-Eis area, i",
-          "link": "https://www.jpost.com/middle-east/article-913748",
-          "publishedAt": "2026-11-03T21:32:56.000Z",
+          "title": "Hezbollah-nominated minister visits Syria for first time since Assad's fall",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3840,w_5760/740543' alt='Hezbollah and Syrian flags are seen fluttering in Fleita, Syria. (photo credit: REUTERS/OMAR SANADIKI)' ti",
+          "link": "https://www.jpost.com/middle-east/article-913839",
+          "publishedAt": "2026-11-04T16:43:51.000Z",
           "files": [
-            "lebanon"
+            "lebanon",
+            "diplomacy"
           ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "عقب ضبط أفرادها.. \"حزب الله\" ينفي علاقته بخلية خططت لتفجير مصفاة حمص",
-          "excerpt": "نفى حزب الله اللبناني وجود أي ارتباطات أو نشاط أمني وعسكري له داخل الأراضي السورية، وذلك عقب إعلان السلطات السورية إحباط مخطط لاستهداف مصفاة حمص، وتوقيف خلية",
-          "link": "https://www.syria.tv/%D8%B9%D9%82%D8%A8-%D8%B6%D8%A8%D8%B7-%D8%A3%D9%81%D8%B1%D8%A7%D8%AF%D9%87%D8%A7-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%8A%D9%86%D9%81%D9%8A-%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%87-%D8%A8%D8%AE%D9%84%D9%8A%D8%A9-%D8%AE%D8%B7%D8%B7%D8%AA-%D9%84%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D9%85%D8%B5%D9%81%D8%A7%D8%A9-%D8%AD%D9%85%D8%B5",
-          "publishedAt": "2026-11-03T19:33:49.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         }
       ]

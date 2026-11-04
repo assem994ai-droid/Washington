@@ -1,0 +1,172 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-04T21:55:26.402Z",
+    "windowHours": 24,
+    "from": "2026-11-03T21:55:26.402Z",
+    "to": "2026-11-04T21:55:26.402Z"
+  },
+  "counts": {
+    "total": 16,
+    "byCircle": {
+      "الملف الإسرائيلي والتركي": 3,
+      "الإعلام المتخصص": 2,
+      "الإعلام السوري المستقل": 9,
+      "المصادر الرسمية السورية": 2
+    },
+    "bySource": {
+      "Jerusalem Post — الشرق الأوسط": 3,
+      "Al-Monitor": 1,
+      "تلفزيون سوريا": 5,
+      "North Press Agency (English)": 4,
+      "سانا — قسم السياسة": 2,
+      "The National": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Turkey distances itself from Muslim Brotherhood but strengthens Hamas ties, Austrian study finds",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4715,w_7069/744917' alt='People wearing masks with the colours of the Palestinian flag take part in a pro-Palestinian rally amid ev",
+      "link": "https://www.jpost.com/middle-east/article-913864",
+      "publishedAt": "2026-11-04T21:26:35.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports",
+      "excerpt": "<p>CAIRO, Nov 4 (Reuters) - Saudi Arabia and Syria signed a cooperation agreement between the two countries' defense ministries on Wednesday, Saudi state news agency SPA reported, as Yemen's Iran-alignedHouthi group continues its missile an",
+      "link": "https://www.al-monitor.com/originals/2026/11/saudi-syrian-defence-ministries-sign-cooperation-agreement-spa-reports",
+      "publishedAt": "2026-11-04T20:46:39.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "توغل للاحتلال الإسرائيلي في القنيطرة وقصف مدفعي وإطلاق نار في درعا",
+      "excerpt": "توغلت قوة عسكرية تابعة لجيش الاحتلال الإسرائيلي، مؤلفة من أربع آليات عسكرية، في قرية أوفانيا بريف القنيطرة الشمالي، حيث أجرت استجوابا لعدد من الأشخاص",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-11-04T20:29:36.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli artillery shells hit Syria’s Quneitra countryside",
+      "excerpt": "QAMISHLI, Syria (North Press) – Israeli artillery fire targeted on Wednesday evening the outskirts of al-Mantara Dam in central Quneitra countryside, southern Syria. Local sources told North Press that Israeli forces fired three artillery s",
+      "link": "https://npasyria.com/en/143448/",
+      "publishedAt": "2026-11-04T19:37:59.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية بلجيكية في بروكسل لتنفيذ مشاريع حوكمة وتطوير إداري وصحي",
+      "excerpt": "بحث مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم الأربعاء، مع ‏الرئيس التنفيذي لوكالة \"‏Enabel‏\" البلجيكية جان فان فيتر في العاصمة بروكسل، مجالات ‏العمل المشترك وآفاق تنفيذ برامج ومشاريع تنموية في سوريا.‏",
+      "link": "https://sana.sy/politics/2626197/",
+      "publishedAt": "2026-11-04T18:54:24.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Egyptian prosecutors seek ‘maximum penalty’ for Christian convert for contempt of Islam",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3666,w_5500/744896' alt='Egyptian flags wave in front of a gate at the Rafah border crossing, amid a ceasefire between Israel and H",
+      "link": "https://www.jpost.com/middle-east/article-913843",
+      "publishedAt": "2026-11-04T17:20:17.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مباحثات سورية مصرية في القاهرة لتعزيز التعاون الإعلامي",
+      "excerpt": "بحث سوري مصري لتعزيز التعاون الإعلامي في القاهرة.. ما الملفات التي تحضر على طاولة البلدين؟",
+      "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A",
+      "publishedAt": "2026-11-04T16:45:45.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Hezbollah-nominated minister visits Syria for first time since Assad's fall",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3840,w_5760/740543' alt='Hezbollah and Syrian flags are seen fluttering in Fleita, Syria. (photo credit: REUTERS/OMAR SANADIKI)' ti",
+      "link": "https://www.jpost.com/middle-east/article-913839",
+      "publishedAt": "2026-11-04T16:43:51.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية بلجيكية لتعزيز الشراكة التنموية بين البلدين",
+      "excerpt": "التقى مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم ‏الأربعاء ‏في بروكسل المديرة العامة للتعاون الإنمائي والمساعدات ‏الإنسانية في وزارة ‏الخارجية البلجيكية هايدي رومبوتس.‏",
+      "link": "https://sana.sy/syria-and-the-world/2626053/",
+      "publishedAt": "2026-11-04T16:02:23.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الأمم المتحدة: 2.4 مليون شخص بحاجة لمساعدات شتوية في سوريا وسط مخاطر الفيضانات",
+      "excerpt": "حذّر مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) من تفاقم الاحتياجات الإنسانية في سوريا خلال موسم الشتاء 2026–2027، مشيراً إلى أن أكثر من 2.4 مليون..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-24-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%AD%D8%A7%D8%AC%D8%A9-%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B4%D8%AA%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
+      "publishedAt": "2026-11-04T15:56:45.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces raid homes in Syria&#8217;s Quneitra",
+      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Wednesday entered the town of Jabata al-Khashab in northern Quneitra, southern Syria, raiding and searching homes. Local sources told North Press the force consisted of four military vehicle",
+      "link": "https://npasyria.com/en/143421/",
+      "publishedAt": "2026-11-04T10:26:11.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria&#8217;s al-Sharaa arrives in Riyadh for talks with Saudi Crown Prince",
+      "excerpt": "DAMASCUS, Syria (North Press) – Syrian President Ahmad al-Sharaa on Wednesday arrived in the Saudi capital, Riyadh, at the head of a high-level delegation for a visit expected to include a meeting with Saudi Crown Prince and Prime Minister ",
+      "link": "https://npasyria.com/en/143418/",
+      "publishedAt": "2026-11-04T10:00:28.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S.-funded project seeks to improve municipal services in Syria&#8217;s Afrin",
+      "excerpt": "AFRIN, Syria (North Press) – A U.S.-funded stabilization project in Afrin region, northwestern Syria, aims to support municipal services through vehicle repairs, new equipment, 65 waste containers and additional sanitation workers. The main",
+      "link": "https://npasyria.com/en/143415/",
+      "publishedAt": "2026-11-04T09:39:13.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "اتفاقية معلقة منذ 2011.. مساعٍ تركيّة لإعادة تفعيل التجارة الحرة مع سوريا",
+      "excerpt": "أدرجت تركيا إعادة تفعيل اتفاقية التجارة الحرة مع سوريا ضمن برنامجها الرئاسي لعام 2027، بهدف توسيع الأسواق وتعزيز العلاقات التجارية.",
+      "link": "https://www.syria.tv/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%82%D8%A9-%D9%85%D9%86%D8%B0-2011-%D9%85%D8%B3%D8%A7%D8%B9%D9%8D-%D8%AA%D8%B1%D9%83%D9%8A%D9%91%D8%A9-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-04T07:23:18.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "توغل إسرائيلي في ريفي درعا والقنيطرة وتفتيش منازل في جباتا الخشب",
+      "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8",
+      "publishedAt": "2026-11-04T07:15:06.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Adam Hamawy, Egyptian American who volunteered in Gaza, wins US House race",
+      "excerpt": "Live updates: Follow the latest news on US midtermsAn Egyptian-American Democrat who volunteered as a surgeon in Gaza during Israel's war with Hamas is projected to win a seat in Congress for New Jersey, defeating Republican Gregg Mele.As o",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/04/adam-hamawy-new-jersey-gaza-egypt/",
+      "publishedAt": "2026-11-04T02:16:41.000Z"
+    }
+  ]
+}
