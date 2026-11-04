@@ -1,31 +1,110 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-04T08:04:27.222Z",
+    "generatedAt": "2026-11-04T16:12:40.777Z",
     "windowHours": 24,
-    "from": "2026-11-03T08:04:27.222Z",
-    "to": "2026-11-04T08:04:27.222Z"
+    "from": "2026-11-03T16:12:40.777Z",
+    "to": "2026-11-04T16:12:40.777Z"
   },
   "counts": {
-    "total": 25,
+    "total": 21,
     "byCircle": {
-      "الإعلام السوري المستقل": 13,
-      "الإعلام المتخصص": 5,
-      "الملف الإسرائيلي والتركي": 3,
       "المصادر الرسمية السورية": 3,
-      "مراكز الفكر": 1
+      "الإعلام السوري المستقل": 10,
+      "الإعلام الدولي": 1,
+      "الإعلام المتخصص": 5,
+      "الملف الإسرائيلي والتركي": 2
     },
     "bySource": {
-      "North Press Agency (English)": 6,
-      "تلفزيون سوريا": 7,
-      "Middle East Eye": 2,
-      "The National": 3,
-      "Jerusalem Post — الشرق الأوسط": 3,
       "سانا — قسم السياسة": 3,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
+      "تلفزيون سوريا": 5,
+      "Al Jazeera English": 1,
+      "Middle East Eye": 1,
+      "North Press Agency (English)": 5,
+      "The National": 3,
+      "Al-Monitor": 1,
+      "Jerusalem Post — الشرق الأوسط": 2
     }
   },
-  "errors": [],
+  "errors": [
+    {
+      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+      "sourceId": "fdd",
+      "message": "الخادم ردّ برمز 403"
+    }
+  ],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية بلجيكية لتعزيز الشراكة التنموية بين البلدين",
+      "excerpt": "التقى مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم ‏الأربعاء ‏في بروكسل المديرة العامة للتعاون الإنمائي والمساعدات ‏الإنسانية في وزارة ‏الخارجية البلجيكية هايدي رومبوتس.‏",
+      "link": "https://sana.sy/syria-and-the-world/2626053/",
+      "publishedAt": "2026-11-04T16:02:23.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الأمم المتحدة: 2.4 مليون شخص بحاجة لمساعدات شتوية في سوريا وسط مخاطر الفيضانات",
+      "excerpt": "حذّر مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) من تفاقم الاحتياجات الإنسانية في سوريا خلال موسم الشتاء 2026–2027، مشيراً إلى أن أكثر من 2.4 مليون..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-24-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%AD%D8%A7%D8%AC%D8%A9-%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B4%D8%AA%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
+      "publishedAt": "2026-11-04T15:56:45.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+      "excerpt": "Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+      "publishedAt": "2026-11-04T13:33:05.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Gaza volunteer surgeon Adam Hamawy wins US House seat in New Jersey",
+      "excerpt": "<article data-history-node-id=\"450434\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/gaza-volunteer-surgeon-adam-hamawy-wins-us-house-seat-new-jersey\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-volunteer-surgeon-adam-hamawy-wins-us-house-seat-new-jersey",
+      "publishedAt": "2026-11-04T10:57:54.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces raid homes in Syria&#8217;s Quneitra",
+      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Wednesday entered the town of Jabata al-Khashab in northern Quneitra, southern Syria, raiding and searching homes. Local sources told North Press the force consisted of four military vehicle",
+      "link": "https://npasyria.com/en/143421/",
+      "publishedAt": "2026-11-04T10:26:11.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria&#8217;s al-Sharaa arrives in Riyadh for talks with Saudi Crown Prince",
+      "excerpt": "DAMASCUS, Syria (North Press) – Syrian President Ahmad al-Sharaa on Wednesday arrived in the Saudi capital, Riyadh, at the head of a high-level delegation for a visit expected to include a meeting with Saudi Crown Prince and Prime Minister ",
+      "link": "https://npasyria.com/en/143418/",
+      "publishedAt": "2026-11-04T10:00:28.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Syria's President Al Shara meets Saudi Crown Prince in Riyadh for second time in weeks",
+      "excerpt": "Syrian ​President ⁠Ahmad Al Shara met Saudi Crown Prince and Prime Minister Mohammed bin Salman in Riyadh on Wednesday, on his second visit to the kingdom in weeks.The two leaders discussed bilateral relations and ways to strengthen co-oper",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/11/04/syrian-president-al-shara-arrives-in-riyadh-for-second-saudi-visit-in-weeks/",
+      "publishedAt": "2026-11-04T09:53:48.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S.-funded project seeks to improve municipal services in Syria&#8217;s Afrin",
+      "excerpt": "AFRIN, Syria (North Press) – A U.S.-funded stabilization project in Afrin region, northwestern Syria, aims to support municipal services through vehicle repairs, new equipment, 65 waste containers and additional sanitation workers. The main",
+      "link": "https://npasyria.com/en/143415/",
+      "publishedAt": "2026-11-04T09:39:13.000Z"
+    },
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
@@ -45,21 +124,12 @@
       "publishedAt": "2026-11-04T07:23:18.000Z"
     },
     {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
-      "circle": "الإعلام المتخصص",
-      "title": "Israeli forces raid homes after advancing into south western Syrian town",
-      "excerpt": "<article data-history-node-id=\"450427\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-homes-after-advancing-south-western-syrian-town\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-homes-after-advancing-south-western-syrian-town",
-      "publishedAt": "2026-11-04T07:15:33.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
-      "title": "قوات الاحتلال الإسرائيلي تفتش منازل في بلدة جباتا الخشب بـ٤ آليات عسكرية",
+      "title": "توغل إسرائيلي في ريفي درعا والقنيطرة وتفتيش منازل في جباتا الخشب",
       "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
-      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D8%A8%D9%80%D9%A4-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8",
       "publishedAt": "2026-11-04T07:15:06.000Z"
     },
     {
@@ -72,13 +142,13 @@
       "publishedAt": "2026-11-04T07:01:51.000Z"
     },
     {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
       "circle": "الإعلام المتخصص",
-      "title": "Adam Hamawy makes history as New Jersey’s first Muslim congressman",
-      "excerpt": "<article data-history-node-id=\"450425\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/adam-hamawy-makes-history-new-jerseys-first-muslim-congressman\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.midd",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/adam-hamawy-makes-history-new-jerseys-first-muslim-congressman",
-      "publishedAt": "2026-11-04T06:40:27.000Z"
+      "title": "Israel president urges compromise after divisive election",
+      "excerpt": "<p>Israel's president on Wednesday urged political leaders to compromise in forming a government after an election he said had no clear winner and condemned \"racist\" rhetoric against Arab parties.</p> <p>More than a week after Israel's firs",
+      "link": "https://www.al-monitor.com/originals/2026/11/israel-president-urges-compromise-after-divisive-election",
+      "publishedAt": "2026-11-04T02:30:55.000Z"
     },
     {
       "source": "The National",
@@ -108,15 +178,6 @@
       "publishedAt": "2026-11-03T21:01:00.000Z"
     },
     {
-      "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-      "sourceId": "fdd",
-      "circle": "مراكز الفكر",
-      "title": "Ocalan moves prisons in Turkey",
-      "excerpt": "My @FDD colleague Helin Unal breaks down all you need to know about the Kurdish peace process in Turkey and its wider political implications in Syria as well as Erdogan's domestic calculations pic.twitter.com/KLtLQU20PD&#8212;... The post O",
-      "link": "https://www.fdd.org/in_the_news/ocalan-moves-prisons-in-turkey/",
-      "publishedAt": "2026-11-03T19:55:19.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -129,19 +190,10 @@
       "source": "The National",
       "sourceId": "the-national",
       "circle": "الإعلام المتخصص",
-      "title": "Syria takes spotlight at World Travel Market in London",
+      "title": "WTM London: Syria aims to be top Mediterranean holiday destination",
       "excerpt": "Syria will restore most of its 3,000 archaeological and historical landmarks within a decade as it seeks to become one of the best holiday destinations in the Mediterranean, its Tourism Minister said on Tuesday.Famous archaeological sites –",
       "link": "https://www.thenationalnews.com/travel/2026/11/03/wtm-travel-expo-sees-syria-take-the-london-spotlight/",
       "publishedAt": "2026-11-03T19:00:00.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israel blows up abandoned military buildings in Damascus countryside",
-      "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces detonated abandoned military buildings near Dribil village on the slopes of Mount Hermon in western Damascus countryside on Tuesday, local sources told North Press. The explosions coincided wit",
-      "link": "https://npasyria.com/en/143391/",
-      "publishedAt": "2026-11-03T18:34:46.000Z"
     },
     {
       "source": "Jerusalem Post — الشرق الأوسط",
@@ -151,15 +203,6 @@
       "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3995,w_6000/744760' alt='Oil trucks arriving from Iraq at the Baniyas oil terminal, in Baniyas, Syria, May 14, 2026. (photo credit:",
       "link": "https://www.jpost.com/middle-east/article-913728",
       "publishedAt": "2026-11-03T18:12:26.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Hezbollah denies link to alleged Homs oil refinery plot",
-      "excerpt": "QAMISHLI, Syria (North Press) – Lebanon’s Hezbollah denied on Tuesday allegations by Syrian Internal Security Forces that a cell affiliated with the group had plotted to target the Homs oil refinery. Earlier on Tuesday, the Internal Securit",
-      "link": "https://npasyria.com/en/143388/",
-      "publishedAt": "2026-11-03T17:49:22.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
@@ -178,78 +221,6 @@
       "excerpt": "فجّرت قوات الاحتلال الإسرائيلي، اليوم، مبنى كتيبة الهندسة المهجورة التابعة للنظام المخلوع، في محيط قرية دربل بمنطقة جبل الشيخ في ريف دمشق.",
       "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%81%D8%AC%D8%B1-%D9%85%D8%A8%D9%86%D9%89-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D9%8A%D8%B7%D9%84%D9%82-%D8%B3%D8%B1%D8%A7%D8%AD-%D8%B7%D9%81%D9%84-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
       "publishedAt": "2026-11-03T17:11:01.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syria foils Hezbollah-linked plot targeting Homs oil refinery",
-      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Internal Security Forces announced on Tuesday that they had foiled a plot by a cell affiliated with Hezbollah to target the Homs oil refinery in central Syria, arresting its members and seizing explos",
-      "link": "https://npasyria.com/en/143374/",
-      "publishedAt": "2026-11-03T13:26:37.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Hezbollah-appointed Lebanese official welcomed in Syria in first since fall of Assad regime",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3386,w_5184/455264' alt='Hezbollah fighters put Lebanese and Hezbollah flags at Juroud Arsal, Syria-Lebanon border (photo credit: R",
-      "link": "https://www.jpost.com/middle-east/article-913693",
-      "publishedAt": "2026-11-03T13:10:52.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "شركة \"أرسيل\" ترفع الحظر عن مواقع إعلامية سورية وتركية في الحسكة",
-      "excerpt": "رفعت شركة \"فالين\" (أرسيل)، المزودة لخدمات الإنترنت في مناطق شمال شرقي سوريا، الحجب عن عدد من المواقع الإعلامية السورية والتركية..",
-      "link": "https://www.syria.tv/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D8%B1%D8%B3%D9%8A%D9%84-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%B9%D9%86-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
-      "publishedAt": "2026-11-03T13:04:24.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Syria foils 'Hezbollah-linked plot' to blow up oil refinery",
-      "excerpt": "Syria says it has foiled a plot linked to Hezbollah to attack the Homs oil refinery, a claim the Lebanese militant group has denied. Authorities arrested two members of a suspected Hezbollah cell on Tuesday and seized explosive devices that",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/syria-foils-hezbollah-linked-plot-to-blow-up-oil-refinery/",
-      "publishedAt": "2026-11-03T12:28:51.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال الإسرائيلي يتوغل وينصب حاجزا على طريق عين البيضة بريف القنيطرة",
-      "excerpt": "يأتي نصب الحاجز في إطار التوغلات العسكرية الإسرائيلية المتواصلة في مناطق ريف القنيطرة، وسط متابعة لتفاصيل الإجراءات",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%8A%D9%82-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-      "publishedAt": "2026-11-03T11:52:58.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "خلية تابعة لـ \"حزب الله\".. الأمن الداخلي يحبط مخططا لاستهداف مصفاة حمص",
-      "excerpt": "أعلنت قوى الأمن الداخلي السورية إحباط \"مخطط إرهابي\" كان يستهدف مصفاة حمص، وذلك خلال عملية أمنية نفذها جهاز الاستخبارات العامة بالتعاون مع..",
-      "link": "https://www.syria.tv/%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%80-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D9%8A%D8%AD%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D8%A7-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%B5%D9%81%D8%A7%D8%A9-%D8%AD%D9%85%D8%B5",
-      "publishedAt": "2026-11-03T11:51:11.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli forces raid village in Syria’s Quneitra, detain young man",
-      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Tuesday conducted a military incursion in the southern countryside of Quneitra, southern Syria, deploying five military vehicles carrying soldiers and detaining a young man before taking him",
-      "link": "https://npasyria.com/en/143370/",
-      "publishedAt": "2026-11-03T11:00:32.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "حظر الأسلحة الكيميائية: تمويل دنماركي بـ 800 ألف يورو لدعم بعثاتنا إلى سوريا",
-      "excerpt": "‏ أعلنت منظمة حظر الأسلحة الكيميائية أن الدنمارك قدمت مساهمة مالية تجاوزت 800 ألف يورو ‏إلى الصندوق الائتماني لبعثات سوريا، دعماً لمواصلة عمل المنظمة الفني المستقل في البلاد.‏ وقالت المنظمة في بيان نشرته عبر موقعها الإلكتروني، أمس الإثنين: ",
-      "link": "https://sana.sy/syria-and-the-world/2624843/",
-      "publishedAt": "2026-11-03T09:36:19.000Z"
     }
   ]
 }
