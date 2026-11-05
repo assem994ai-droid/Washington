@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-04T21:55:26.402Z",
+    "generatedAt": "2026-11-05T01:57:27.150Z",
     "windowHours": 24,
-    "from": "2026-11-03T21:55:26.402Z",
-    "to": "2026-11-04T21:55:26.402Z"
+    "from": "2026-11-04T01:57:27.150Z",
+    "to": "2026-11-05T01:57:27.150Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 16,
+    "items": 17,
     "files": 5,
-    "withNew": 5,
-    "stale": 0,
+    "withNew": 1,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 1339
+    "americanItems": 3,
+    "archiveCycles": 1340
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,11 +23,105 @@
     "مراكز الفكر",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
   "errors": [],
   "files": [
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)",
+        "Ynet News (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 25,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل للاحتلال الإسرائيلي في القنيطرة وقصف مدفعي وإطلاق نار في درعا",
+          "excerpt": "توغلت قوة عسكرية تابعة لجيش الاحتلال الإسرائيلي، مؤلفة من أربع آليات عسكرية، في قرية أوفانيا بريف القنيطرة الشمالي، حيث أجرت استجوابا لعدد من الأشخاص",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-11-04T20:29:36.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli artillery shells hit Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli artillery fire targeted on Wednesday evening the outskirts of al-Mantara Dam in central Quneitra countryside, southern Syria. Local sources told North Press that Israeli forces fired three artillery s",
+          "link": "https://npasyria.com/en/143448/",
+          "publishedAt": "2026-11-04T19:37:59.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces raid homes in Syria&#8217;s Quneitra",
+          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Wednesday entered the town of Jabata al-Khashab in northern Quneitra, southern Syria, raiding and searching homes. Local sources told North Press the force consisted of four military vehicle",
+          "link": "https://npasyria.com/en/143421/",
+          "publishedAt": "2026-11-04T10:26:11.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Lapid: Democratic sweep in US midterms rules out unity government under Netanyahu",
+          "excerpt": "As Democrats seize control of both chambers of Congress, Lapid says the US election results rule out a unity government led by Netanyahu; Golan warns that keeping Netanyahu in office could expose Israel to sanctions, diplomatic isolation an",
+          "link": "https://www.ynetnews.com/article/hy3ecl00tzg",
+          "publishedAt": "2026-11-04T07:40:23.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل إسرائيلي في ريفي درعا والقنيطرة وتفتيش منازل في جباتا الخشب",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8",
+          "publishedAt": "2026-11-04T07:15:06.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
@@ -45,13 +139,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 21:55",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 2,
-      "score": 30,
+      "score": 17,
       "items": [
         {
           "source": "Al-Monitor",
@@ -62,7 +156,7 @@
           "link": "https://www.al-monitor.com/originals/2026/11/saudi-syrian-defence-ministries-sign-cooperation-agreement-spa-reports",
           "publishedAt": "2026-11-04T20:46:39.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -74,7 +168,7 @@
           "link": "https://www.jpost.com/middle-east/article-913843",
           "publishedAt": "2026-11-04T17:20:17.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -118,13 +212,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 21:55",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 12,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -137,7 +231,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -151,7 +245,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -199,85 +293,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 22,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغل للاحتلال الإسرائيلي في القنيطرة وقصف مدفعي وإطلاق نار في درعا",
-          "excerpt": "توغلت قوة عسكرية تابعة لجيش الاحتلال الإسرائيلي، مؤلفة من أربع آليات عسكرية، في قرية أوفانيا بريف القنيطرة الشمالي، حيث أجرت استجوابا لعدد من الأشخاص",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-11-04T20:29:36.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli artillery shells hit Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli artillery fire targeted on Wednesday evening the outskirts of al-Mantara Dam in central Quneitra countryside, southern Syria. Local sources told North Press that Israeli forces fired three artillery s",
-          "link": "https://npasyria.com/en/143448/",
-          "publishedAt": "2026-11-04T19:37:59.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid homes in Syria&#8217;s Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Wednesday entered the town of Jabata al-Khashab in northern Quneitra, southern Syria, raiding and searching homes. Local sources told North Press the force consisted of four military vehicle",
-          "link": "https://npasyria.com/en/143421/",
-          "publishedAt": "2026-11-04T10:26:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغل إسرائيلي في ريفي درعا والقنيطرة وتفتيش منازل في جباتا الخشب",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8",
-          "publishedAt": "2026-11-04T07:15:06.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -291,13 +306,13 @@
         "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 21:55",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 7,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -310,7 +325,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -342,13 +357,13 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-04 21:55",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": -1,
       "items": [
         {
           "source": "Jerusalem Post — الشرق الأوسط",
@@ -362,7 +377,7 @@
             "lebanon",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]

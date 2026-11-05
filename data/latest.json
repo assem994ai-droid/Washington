@@ -1,17 +1,18 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-04T21:55:26.402Z",
+    "generatedAt": "2026-11-05T01:57:27.150Z",
     "windowHours": 24,
-    "from": "2026-11-03T21:55:26.402Z",
-    "to": "2026-11-04T21:55:26.402Z"
+    "from": "2026-11-04T01:57:27.150Z",
+    "to": "2026-11-05T01:57:27.150Z"
   },
   "counts": {
-    "total": 16,
+    "total": 17,
     "byCircle": {
       "الملف الإسرائيلي والتركي": 3,
       "الإعلام المتخصص": 2,
       "الإعلام السوري المستقل": 9,
-      "المصادر الرسمية السورية": 2
+      "المصادر الرسمية السورية": 2,
+      "الملف الإسرائيلي": 1
     },
     "bySource": {
       "Jerusalem Post — الشرق الأوسط": 3,
@@ -19,6 +20,7 @@
       "تلفزيون سوريا": 5,
       "North Press Agency (English)": 4,
       "سانا — قسم السياسة": 2,
+      "Ynet News (English)": 1,
       "The National": 1
     }
   },
@@ -140,6 +142,15 @@
       "excerpt": "AFRIN, Syria (North Press) – A U.S.-funded stabilization project in Afrin region, northwestern Syria, aims to support municipal services through vehicle repairs, new equipment, 65 waste containers and additional sanitation workers. The main",
       "link": "https://npasyria.com/en/143415/",
       "publishedAt": "2026-11-04T09:39:13.000Z"
+    },
+    {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "Lapid: Democratic sweep in US midterms rules out unity government under Netanyahu",
+      "excerpt": "As Democrats seize control of both chambers of Congress, Lapid says the US election results rule out a unity government led by Netanyahu; Golan warns that keeping Netanyahu in office could expose Israel to sanctions, diplomatic isolation an",
+      "link": "https://www.ynetnews.com/article/hy3ecl00tzg",
+      "publishedAt": "2026-11-04T07:40:23.000Z"
     },
     {
       "source": "تلفزيون سوريا",
