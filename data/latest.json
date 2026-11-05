@@ -1,31 +1,65 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-05T01:57:27.150Z",
+    "generatedAt": "2026-11-05T09:02:35.763Z",
     "windowHours": 24,
-    "from": "2026-11-04T01:57:27.150Z",
-    "to": "2026-11-05T01:57:27.150Z"
+    "from": "2026-11-04T09:02:35.763Z",
+    "to": "2026-11-05T09:02:35.763Z"
   },
   "counts": {
-    "total": 17,
+    "total": 14,
     "byCircle": {
-      "الملف الإسرائيلي والتركي": 3,
+      "الإعلام السوري المستقل": 7,
       "الإعلام المتخصص": 2,
-      "الإعلام السوري المستقل": 9,
-      "المصادر الرسمية السورية": 2,
-      "الملف الإسرائيلي": 1
+      "الملف الإسرائيلي والتركي": 3,
+      "المصادر الرسمية السورية": 2
     },
     "bySource": {
+      "تلفزيون سوريا": 5,
+      "North Press Agency (English)": 2,
+      "The National": 1,
       "Jerusalem Post — الشرق الأوسط": 3,
       "Al-Monitor": 1,
-      "تلفزيون سوريا": 5,
-      "North Press Agency (English)": 4,
-      "سانا — قسم السياسة": 2,
-      "Ynet News (English)": 1,
-      "The National": 1
+      "سانا — قسم السياسة": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تركيا: جاهزون لافتتاح معبر نصيبين - القامشلي وننتظر استكمال الجانب السوري",
+      "excerpt": "قال وزير التجارة التركي عمر بولات إن الجانب التركي أنهى استعداداته لافتتاح معبر نصيبين - القامشلي الحدودي، في حين لم يستكمل الجانب السوري حتى الآن البنية التحتي",
+      "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AC%D8%A7%D9%87%D8%B2%D9%88%D9%86-%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B9%D8%A8%D8%B1-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%88%D9%86%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+      "publishedAt": "2026-11-05T09:00:04.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "HRW urges new U.S. Congress to strengthen oversight of Trump administration",
+      "excerpt": "QAMISHLI, Syria (North Press) – Human Rights Watch (HRW) on Thursday urged the newly elected U.S. Congress to strengthen oversight of the Trump administration and prioritize human rights protections at home and abroad, warning that failures",
+      "link": "https://npasyria.com/en/143460/",
+      "publishedAt": "2026-11-05T07:03:11.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Republicans blame election loss on Iran war, Syria and Saudi Arabia defence deal and BA resumes Dubai flights",
+      "excerpt": "Today on Trending Middle East, US Vice President JD Vance blames the war against Iran for the Republican Party's crushing defeat in the midterm elections, echoing an earlier assessment by President Donald Trump. Syria and Saudi Arabia sign ",
+      "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/05/republicans-blame-election-loss-on-iran-war-syria-and-saudi-arabia-defence-deal-and-ba-resumes-dubai-flights/",
+      "publishedAt": "2026-11-05T05:24:42.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الأمم المتحدة تدعو إلى مواصلة دعم وزارة الصحة السورية",
+      "excerpt": "دعا مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (أوتشا)، إلى مواصلة تقديم الدعم والمساندة لوزارة الصحة السورية، محذراً من خطر انقطاع الخدمات الصحية الأساسية في ح",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%AF%D8%B9%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+      "publishedAt": "2026-11-05T03:43:24.000Z"
+    },
     {
       "source": "Jerusalem Post — الشرق الأوسط",
       "sourceId": "jpost-me",
@@ -115,69 +149,6 @@
       "excerpt": "حذّر مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) من تفاقم الاحتياجات الإنسانية في سوريا خلال موسم الشتاء 2026–2027، مشيراً إلى أن أكثر من 2.4 مليون..",
       "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-24-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%AD%D8%A7%D8%AC%D8%A9-%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B4%D8%AA%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
       "publishedAt": "2026-11-04T15:56:45.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli forces raid homes in Syria&#8217;s Quneitra",
-      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Wednesday entered the town of Jabata al-Khashab in northern Quneitra, southern Syria, raiding and searching homes. Local sources told North Press the force consisted of four military vehicle",
-      "link": "https://npasyria.com/en/143421/",
-      "publishedAt": "2026-11-04T10:26:11.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syria&#8217;s al-Sharaa arrives in Riyadh for talks with Saudi Crown Prince",
-      "excerpt": "DAMASCUS, Syria (North Press) – Syrian President Ahmad al-Sharaa on Wednesday arrived in the Saudi capital, Riyadh, at the head of a high-level delegation for a visit expected to include a meeting with Saudi Crown Prince and Prime Minister ",
-      "link": "https://npasyria.com/en/143418/",
-      "publishedAt": "2026-11-04T10:00:28.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "U.S.-funded project seeks to improve municipal services in Syria&#8217;s Afrin",
-      "excerpt": "AFRIN, Syria (North Press) – A U.S.-funded stabilization project in Afrin region, northwestern Syria, aims to support municipal services through vehicle repairs, new equipment, 65 waste containers and additional sanitation workers. The main",
-      "link": "https://npasyria.com/en/143415/",
-      "publishedAt": "2026-11-04T09:39:13.000Z"
-    },
-    {
-      "source": "Ynet News (English)",
-      "sourceId": "ynet-en",
-      "circle": "الملف الإسرائيلي",
-      "title": "Lapid: Democratic sweep in US midterms rules out unity government under Netanyahu",
-      "excerpt": "As Democrats seize control of both chambers of Congress, Lapid says the US election results rule out a unity government led by Netanyahu; Golan warns that keeping Netanyahu in office could expose Israel to sanctions, diplomatic isolation an",
-      "link": "https://www.ynetnews.com/article/hy3ecl00tzg",
-      "publishedAt": "2026-11-04T07:40:23.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "اتفاقية معلقة منذ 2011.. مساعٍ تركيّة لإعادة تفعيل التجارة الحرة مع سوريا",
-      "excerpt": "أدرجت تركيا إعادة تفعيل اتفاقية التجارة الحرة مع سوريا ضمن برنامجها الرئاسي لعام 2027، بهدف توسيع الأسواق وتعزيز العلاقات التجارية.",
-      "link": "https://www.syria.tv/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%85%D8%B9%D9%84%D9%82%D8%A9-%D9%85%D9%86%D8%B0-2011-%D9%85%D8%B3%D8%A7%D8%B9%D9%8D-%D8%AA%D8%B1%D9%83%D9%8A%D9%91%D8%A9-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-      "publishedAt": "2026-11-04T07:23:18.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "توغل إسرائيلي في ريفي درعا والقنيطرة وتفتيش منازل في جباتا الخشب",
-      "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي تفتش عدداً من المنازل في بلدة جباتا الخشب بريف القنيطرة الشمالي..",
-      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8",
-      "publishedAt": "2026-11-04T07:15:06.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Adam Hamawy, Egyptian American who volunteered in Gaza, wins US House race",
-      "excerpt": "Live updates: Follow the latest news on US midtermsAn Egyptian-American Democrat who volunteered as a surgeon in Gaza during Israel's war with Hamas is projected to win a seat in Congress for New Jersey, defeating Republican Gregg Mele.As o",
-      "link": "https://www.thenationalnews.com/news/us/2026/11/04/adam-hamawy-new-jersey-gaza-egypt/",
-      "publishedAt": "2026-11-04T02:16:41.000Z"
     }
   ]
 }
