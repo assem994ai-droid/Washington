@@ -1,29 +1,104 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-05T09:02:35.763Z",
+    "generatedAt": "2026-11-05T17:19:47.738Z",
     "windowHours": 24,
-    "from": "2026-11-04T09:02:35.763Z",
-    "to": "2026-11-05T09:02:35.763Z"
+    "from": "2026-11-04T17:19:47.738Z",
+    "to": "2026-11-05T17:19:47.738Z"
   },
   "counts": {
-    "total": 14,
+    "total": 17,
     "byCircle": {
-      "الإعلام السوري المستقل": 7,
-      "الإعلام المتخصص": 2,
-      "الملف الإسرائيلي والتركي": 3,
-      "المصادر الرسمية السورية": 2
+      "الإعلام السوري المستقل": 9,
+      "الإعلام المتخصص": 3,
+      "الإعلام الدولي": 1,
+      "الملف الإسرائيلي والتركي": 2,
+      "المصادر الرسمية السورية": 1,
+      "الملف الإسرائيلي": 1
     },
     "bySource": {
-      "تلفزيون سوريا": 5,
-      "North Press Agency (English)": 2,
-      "The National": 1,
-      "Jerusalem Post — الشرق الأوسط": 3,
-      "Al-Monitor": 1,
-      "سانا — قسم السياسة": 2
+      "North Press Agency (English)": 3,
+      "The National": 3,
+      "Al Jazeera English": 1,
+      "تلفزيون سوريا": 6,
+      "Jerusalem Post — الشرق الأوسط": 2,
+      "سانا — قسم السياسة": 1,
+      "Ynet News (English)": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syrian woman died, three injured in Lebanese troops shooting in Arsal",
+      "excerpt": "QAMISHLI, Syria (North Press) – A Syrian woman died and three others were injured after Lebanese army troops fired warning shots at a vehicle carrying 12 Syrians near the border town of Arsal, the Lebanese army said on Thursday. The inciden",
+      "link": "https://npasyria.com/en/143498/",
+      "publishedAt": "2026-11-05T16:16:26.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Arab parties back Eisenkot, but path to Israeli coalition remains fraught",
+      "excerpt": "Arab parties threw their backing behind former army general Gadi Eisenkot to be Israel's next prime minister on Thursday, but a row over Hamas is threatening to derail the process. Mansour Abbas, the leader of the majority-Arab political pa",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/arab-parties-back-eisenkot-but-path-to-israeli-coalition-remains-fraught/",
+      "publishedAt": "2026-11-05T15:32:06.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+      "excerpt": "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+      "publishedAt": "2026-11-05T14:30:37.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "The 9ft crime boss: Puzzle over doctored mugshot released by Iraq",
+      "excerpt": "Celebrating the arrest of a wanted crime boss in Iraq, Australian police commissioner Krissy Barrett urged members of Kazem Hamad's drug gang to \"look long and hard\" at a photo of him in custody. But it seemed her department might not have ",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/the-27-metre-crime-boss-puzzle-over-doctored-mugshot-released-by-iraq/",
+      "publishedAt": "2026-11-05T12:31:53.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مباحثات سورية - مصرية لتعزيز التعاون في إعادة تأهيل السكك الحديدية",
+      "excerpt": "بحث وزير النقل السوري يعرب بدر مع رئيس هيئة السكك الحديدية المصرية محمد عامر عبد العزيز، سبل تطوير قطاع السكك الحديدية في سوريا والاستفادة من الخبرات المصرية",
+      "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%83%D9%83-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A%D8%A9",
+      "publishedAt": "2026-11-05T12:30:56.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "بعد فوز الديمقراطيين.. هل تتغير سياسة واشنطن تجاه دمشق؟|فيديو",
+      "excerpt": "رأى ضيفا \"سوريا اليوم\" أن فوز الديمقراطيين بالكونغرس سيزيد الرقابة على إدارة ترمب، لكنه لن يغيّر جذرياً سياسة واشنطن تجاه دمشق",
+      "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%81%D9%88%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%8A%D9%86-%D9%87%D9%84-%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AC%D8%A7%D9%87-%D8%AF%D9%85%D8%B4%D9%82%D8%9F%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "publishedAt": "2026-11-05T10:58:02.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "لأول مرة.. \"وسط البلد\" بالقنيطرة يفتح ملف المختطفين لدى الاحتلال ومعاناة الأهالي",
+      "excerpt": "عائلات تنتظر أبناءها في سجون الاحتلال، ومزارعون محرومون من أراضيهم، ووعود حكومية بالتعويض وتحسين الخدمات.. \"وسط البلد\" يفتح ملفات القنيطرة من قلب المحافظة.",
+      "link": "https://www.syria.tv/%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A",
+      "publishedAt": "2026-11-05T10:29:33.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces shell areas in southern Syria, conduct multiple incursions",
+      "excerpt": "DARAA, Syria (North Press) – Israeli forces stationed along the occupied Syrian Golan border fired on Wednesday heavy weapons toward agricultural land in the western countryside of Daraa, while carrying out artillery strikes and military in",
+      "link": "https://npasyria.com/en/143489/",
+      "publishedAt": "2026-11-05T10:24:27.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -70,15 +145,6 @@
       "publishedAt": "2026-11-04T21:26:35.000Z"
     },
     {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports",
-      "excerpt": "<p>CAIRO, Nov 4 (Reuters) - Saudi Arabia and Syria signed a cooperation agreement between the two countries' defense ministries on Wednesday, Saudi state news agency SPA reported, as Yemen's Iran-alignedHouthi group continues its missile an",
-      "link": "https://www.al-monitor.com/originals/2026/11/saudi-syrian-defence-ministries-sign-cooperation-agreement-spa-reports",
-      "publishedAt": "2026-11-04T20:46:39.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -86,15 +152,6 @@
       "excerpt": "توغلت قوة عسكرية تابعة لجيش الاحتلال الإسرائيلي، مؤلفة من أربع آليات عسكرية، في قرية أوفانيا بريف القنيطرة الشمالي، حيث أجرت استجوابا لعدد من الأشخاص",
       "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
       "publishedAt": "2026-11-04T20:29:36.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli artillery shells hit Syria’s Quneitra countryside",
-      "excerpt": "QAMISHLI, Syria (North Press) – Israeli artillery fire targeted on Wednesday evening the outskirts of al-Mantara Dam in central Quneitra countryside, southern Syria. Local sources told North Press that Israeli forces fired three artillery s",
-      "link": "https://npasyria.com/en/143448/",
-      "publishedAt": "2026-11-04T19:37:59.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
@@ -106,6 +163,15 @@
       "publishedAt": "2026-11-04T18:54:24.000Z"
     },
     {
+      "source": "Ynet News (English)",
+      "sourceId": "ynet-en",
+      "circle": "الملف الإسرائيلي",
+      "title": "October 7: New details reveal five red-hot Hamas warnings Israel missed",
+      "excerpt": "Newly cleared intelligence findings reveal 5 unusual indicators on eve of Hamas invasion, including activation of dozens of SIM cards, movements by rocket and anti-tank units and Hamas military chief Mohammed Deif entering an emergency shel",
+      "link": "https://www.ynetnews.com/article/hkstyjkamx",
+      "publishedAt": "2026-11-04T18:18:22.000Z"
+    },
+    {
       "source": "Jerusalem Post — الشرق الأوسط",
       "sourceId": "jpost-me",
       "circle": "الملف الإسرائيلي والتركي",
@@ -113,42 +179,6 @@
       "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3666,w_5500/744896' alt='Egyptian flags wave in front of a gate at the Rafah border crossing, amid a ceasefire between Israel and H",
       "link": "https://www.jpost.com/middle-east/article-913843",
       "publishedAt": "2026-11-04T17:20:17.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "مباحثات سورية مصرية في القاهرة لتعزيز التعاون الإعلامي",
-      "excerpt": "بحث سوري مصري لتعزيز التعاون الإعلامي في القاهرة.. ما الملفات التي تحضر على طاولة البلدين؟",
-      "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A",
-      "publishedAt": "2026-11-04T16:45:45.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Hezbollah-nominated minister visits Syria for first time since Assad's fall",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3840,w_5760/740543' alt='Hezbollah and Syrian flags are seen fluttering in Fleita, Syria. (photo credit: REUTERS/OMAR SANADIKI)' ti",
-      "link": "https://www.jpost.com/middle-east/article-913839",
-      "publishedAt": "2026-11-04T16:43:51.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "مباحثات سورية بلجيكية لتعزيز الشراكة التنموية بين البلدين",
-      "excerpt": "التقى مدير إدارة التعاون الدولي في وزارة الخارجية والمغتربين قتيبة قاديش اليوم ‏الأربعاء ‏في بروكسل المديرة العامة للتعاون الإنمائي والمساعدات ‏الإنسانية في وزارة ‏الخارجية البلجيكية هايدي رومبوتس.‏",
-      "link": "https://sana.sy/syria-and-the-world/2626053/",
-      "publishedAt": "2026-11-04T16:02:23.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الأمم المتحدة: 2.4 مليون شخص بحاجة لمساعدات شتوية في سوريا وسط مخاطر الفيضانات",
-      "excerpt": "حذّر مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA) من تفاقم الاحتياجات الإنسانية في سوريا خلال موسم الشتاء 2026–2027، مشيراً إلى أن أكثر من 2.4 مليون..",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-24-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%AD%D8%A7%D8%AC%D8%A9-%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B4%D8%AA%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA",
-      "publishedAt": "2026-11-04T15:56:45.000Z"
     }
   ]
 }
