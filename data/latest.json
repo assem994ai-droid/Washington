@@ -1,29 +1,122 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-06T10:15:55.430Z",
+    "generatedAt": "2026-11-06T17:31:51.370Z",
     "windowHours": 24,
-    "from": "2026-11-05T10:15:55.430Z",
-    "to": "2026-11-06T10:15:55.430Z"
+    "from": "2026-11-05T17:31:51.370Z",
+    "to": "2026-11-06T17:31:51.370Z"
   },
   "counts": {
-    "total": 21,
+    "total": 23,
     "byCircle": {
+      "المصادر الرسمية السورية": 2,
       "الإعلام السوري المستقل": 16,
+      "الإعلام المتخصص": 3,
       "الملف الإسرائيلي والتركي": 1,
-      "مراكز الفكر": 1,
-      "الإعلام المتخصص": 3
+      "مراكز الفكر": 1
     },
     "bySource": {
-      "North Press Agency (English)": 4,
+      "سانا — قسم السياسة": 2,
       "تلفزيون سوريا": 12,
-      "Jerusalem Post — الشرق الأوسط": 1,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
       "Al-Monitor": 1,
-      "The National": 2
+      "The National": 1,
+      "North Press Agency (English)": 4,
+      "Middle East Eye": 1,
+      "Jerusalem Post — الشرق الأوسط": 1,
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "علبي يبحث مع صالح تعزيز التعاون ودعم عودة اللاجئين وإعادة الإعمار",
+      "excerpt": "بحث مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، مع المفوض السامي للأمم المتحدة لشؤون اللاجئين برهم صالح، سبل تعزيز التعاون بين سوريا والمفوضية، وحشد الدعم الدولي لجهود التعافي وإعادة الإعمار وتهيئة الظروف الملائمة لعودة طوعية ومستدام",
+      "link": "https://sana.sy/politics/2627848/",
+      "publishedAt": "2026-11-06T16:52:34.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قصف إسرائيلي يستهدف ريف القنيطرة وتوغل في وادي الرقاد بريف درعا",
+      "excerpt": "شهدت مناطق في ريفي القنيطرة ودرعا، جنوبي سوريا، الجمعة، قصفاً مدفعياً إسرائيلياً تزامن مع توغل لقوات الاحتلال الإسرائيلي في منطقة وادي الرقاد بريف درعا الغربي.",
+      "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-11-06T16:46:59.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say",
+      "excerpt": "<p>By Timour Azhari and Feras Dalatey</p><p>RIYADH, Nov 6 (Reuters) - Syria is aiding Riyadh with military advice and training as Saudi Arabia comes under attack by Yemen's Houthis, and has sent a limited number of military personnel to the",
+      "link": "https://www.al-monitor.com/originals/2026/11/syria-aids-saudi-arabia-military-advice-and-training-amid-houthi-attacks-sources",
+      "publishedAt": "2026-11-06T16:46:34.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Syria-Iraq oil pipeline not a threat to Turkey, Energy Minister says",
+      "excerpt": "Turkey does not oppose the rehabilitation of an oil pipeline between Iraq and Syria that would provide an alternative export route to the Strait of Hormuz for Baghdad’s crude, Turkey’s Energy Minister has said. “We are not afraid” of the Ki",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/06/syria-iraq-oil-pipeline-not-a-threat-to-turkey-energy-minister-says/",
+      "publishedAt": "2026-11-06T15:43:08.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces shell Syria’s Quneitra countryside",
+      "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled agricultural land near al-Samdaniyah al-Sharqiyah village in Quneitra countryside with artillery on Thursday, November 6, according to local sources. Earlier on Thursday, Israeli forces",
+      "link": "https://npasyria.com/en/143523/",
+      "publishedAt": "2026-11-06T14:47:23.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تركيا تبدي موقفها من إعادة تشغيل خط كركوك – بانياس وتكشف خططها النفطية في سوريا",
+      "excerpt": "تركيا لا تعتبر خط كركوك – بانياس تهديداً لها، وتؤكد حاجة سوريا لاستثمارات ضخمة.. فما الخطوات المقبلة؟",
+      "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AF%D9%8A-%D9%85%D9%88%D9%82%D9%81%D9%87%D8%A7-%D9%85%D9%86-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%AE%D8%B7-%D9%83%D8%B1%D9%83%D9%88%D9%83-%E2%80%93-%D8%A8%D8%A7%D9%86%D9%8A%D8%A7%D8%B3-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-06T13:51:09.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية فرنسية في باريس حول أوضاع اللاجئين والتعاون المشترك",
+      "excerpt": "بحثت مديرة إدارة المغتربين وشؤون اللاجئين في وزارة الخارجية نهلة عثمان، ‏مع نائب ‏مدير ‏مركز الأزمات والدعم في وزارة الخارجية الفرنسية يانيك تاغان، أوضاع اللاجئين ‏السوريين، وسبل ‏تعزيز التعاون بين البلدين.‏",
+      "link": "https://sana.sy/syria-and-the-world/2627781/",
+      "publishedAt": "2026-11-06T13:16:13.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "رفع حظر التجوال في البوكمال بعد اشتباكات عائلية والأمن يواصل الانتشار",
+      "excerpt": "انتهت حالة حظر التجوال التي فرضتها قوى الأمن لاحتواء الاشتباكات العائلية في البوكمال بريف دير الزور، وسط استمرار الانتشار الأمني في المنطقة",
+      "link": "https://www.syria.tv/%D8%B1%D9%81%D8%B9-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%AA%D8%AC%D9%88%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%88%D9%83%D9%85%D8%A7%D9%84-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D8%B9%D8%A7%D8%A6%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1",
+      "publishedAt": "2026-11-06T11:59:41.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Trump says Iran needs U.S. approval for nuclear program decisions",
+      "excerpt": "QAMISHLI, Syria (North Press) – U.S. President Donald Trump said Iran cannot take any action concerning its nuclear program without Washington’s approval, reiterating that Tehran will not be allowed to develop nuclear weapons. Speaking to r",
+      "link": "https://npasyria.com/en/143512/",
+      "publishedAt": "2026-11-06T11:46:33.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli forces strike targets in Syria and Lebanon",
+      "excerpt": "<article data-history-node-id=\"450549\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-strike-targets-syria-and-lebanon-simultaneously\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.midd",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-strike-targets-syria-and-lebanon-simultaneously",
+      "publishedAt": "2026-11-06T11:36:53.000Z"
+    },
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
@@ -140,78 +233,6 @@
       "excerpt": "بحثت سوريا وتركيا تطوير المنافذ الحدودية، وفي مقدمتها منفذ القامشلي – نصيبين، وتسهيل الشحن والترانزيت وتعزيز الاستثمار والتبادل التجاري وإعادة الإعمار",
       "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A",
       "publishedAt": "2026-11-05T17:33:21.000Z"
-    },
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Immigrant shopkeepers in Germany launch strike against far right",
-      "excerpt": "<p>Immigrant shopkeepers in the eastern German city of Halle, fearful for their future after the virulently anti-immigrant AfD party scored a landslide victory in recent regional elections, staged a one-day strike Thursday.</p> <p>\"Because ",
-      "link": "https://www.al-monitor.com/originals/2026/11/immigrant-shopkeepers-germany-launch-strike-against-far-right",
-      "publishedAt": "2026-11-05T17:30:38.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syrian woman died, three injured in Lebanese troops shooting in Arsal",
-      "excerpt": "QAMISHLI, Syria (North Press) – A Syrian woman died and three others were injured after Lebanese army troops fired warning shots at a vehicle carrying 12 Syrians near the border town of Arsal, the Lebanese army said on Thursday. The inciden",
-      "link": "https://npasyria.com/en/143498/",
-      "publishedAt": "2026-11-05T16:16:26.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Arab parties back Eisenkot, but path to Israeli coalition remains fraught",
-      "excerpt": "Arab parties threw their backing behind former army general Gadi Eisenkot to be Israel's next prime minister on Thursday, but a row over Hamas is threatening to derail the process. Mansour Abbas, the leader of the majority-Arab political pa",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/arab-parties-back-eisenkot-but-path-to-israeli-coalition-remains-fraught/",
-      "publishedAt": "2026-11-05T15:32:06.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "The 9ft crime boss: Puzzle over doctored mugshot released by Iraq",
-      "excerpt": "Celebrating the arrest of a wanted crime boss in Iraq, Australian police commissioner Krissy Barrett urged members of Kazem Hamad's drug gang to \"look long and hard\" at a photo of him in custody. But it seemed her department might not have ",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/the-27-metre-crime-boss-puzzle-over-doctored-mugshot-released-by-iraq/",
-      "publishedAt": "2026-11-05T12:31:53.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "مباحثات سورية - مصرية لتعزيز التعاون في إعادة تأهيل السكك الحديدية",
-      "excerpt": "بحث وزير النقل السوري يعرب بدر مع رئيس هيئة السكك الحديدية المصرية محمد عامر عبد العزيز، سبل تطوير قطاع السكك الحديدية في سوريا والاستفادة من الخبرات المصرية",
-      "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%83%D9%83-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A%D8%A9",
-      "publishedAt": "2026-11-05T12:30:56.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "بعد فوز الديمقراطيين.. هل تتغير سياسة واشنطن تجاه دمشق؟|فيديو",
-      "excerpt": "رأى ضيفا \"سوريا اليوم\" أن فوز الديمقراطيين بالكونغرس سيزيد الرقابة على إدارة ترمب، لكنه لن يغيّر جذرياً سياسة واشنطن تجاه دمشق",
-      "link": "https://www.syria.tv/%D8%A8%D8%B9%D8%AF-%D9%81%D9%88%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%8A%D9%86-%D9%87%D9%84-%D8%AA%D8%AA%D8%BA%D9%8A%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AC%D8%A7%D9%87-%D8%AF%D9%85%D8%B4%D9%82%D8%9F%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-      "publishedAt": "2026-11-05T10:58:02.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "لأول مرة.. \"وسط البلد\" بالقنيطرة يفتح ملف المختطفين لدى الاحتلال ومعاناة الأهالي",
-      "excerpt": "عائلات تنتظر أبناءها في سجون الاحتلال، ومزارعون محرومون من أراضيهم، ووعود حكومية بالتعويض وتحسين الخدمات.. \"وسط البلد\" يفتح ملفات القنيطرة من قلب المحافظة.",
-      "link": "https://www.syria.tv/%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%8A%D9%81%D8%AA%D8%AD-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%85%D8%B9%D8%A7%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A",
-      "publishedAt": "2026-11-05T10:29:33.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli forces shell areas in southern Syria, conduct multiple incursions",
-      "excerpt": "DARAA, Syria (North Press) – Israeli forces stationed along the occupied Syrian Golan border fired on Wednesday heavy weapons toward agricultural land in the western countryside of Daraa, while carrying out artillery strikes and military in",
-      "link": "https://npasyria.com/en/143489/",
-      "publishedAt": "2026-11-05T10:24:27.000Z"
     }
   ]
 }
