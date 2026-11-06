@@ -1,29 +1,83 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-06T02:51:31.818Z",
+    "generatedAt": "2026-11-06T10:15:55.430Z",
     "windowHours": 24,
-    "from": "2026-11-05T02:51:31.818Z",
-    "to": "2026-11-06T02:51:31.818Z"
+    "from": "2026-11-05T10:15:55.430Z",
+    "to": "2026-11-06T10:15:55.430Z"
   },
   "counts": {
-    "total": 19,
+    "total": 21,
     "byCircle": {
-      "الإعلام السوري المستقل": 13,
+      "الإعلام السوري المستقل": 16,
       "الملف الإسرائيلي والتركي": 1,
       "مراكز الفكر": 1,
-      "الإعلام المتخصص": 4
+      "الإعلام المتخصص": 3
     },
     "bySource": {
-      "تلفزيون سوريا": 10,
+      "North Press Agency (English)": 4,
+      "تلفزيون سوريا": 12,
       "Jerusalem Post — الشرق الأوسط": 1,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
       "Al-Monitor": 1,
-      "North Press Agency (English)": 3,
-      "The National": 3
+      "The National": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria, Iraq agree on trilateral Euphrates water coordination",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria and Iraq signed a technical meeting agreement in Damascus on Thursday to improve joint water management and coordinate on Euphrates River resources, with Türkiye expected to join future trilateral talks",
+      "link": "https://npasyria.com/en/143509/",
+      "publishedAt": "2026-11-06T09:51:03.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا وتركيا تحددان خمسة مواقع لدراسة الصدوع النشطة وتحديث خرائطها",
+      "excerpt": "فريق سوري تركي يحدد 5 مواقع لدراسة الصدوع النشطة شمال غربي سوريا وجنوبي تركيا بدءاً من آذار 2027",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%AD%D8%AF%D8%AF%D8%A7%D9%86-%D8%AE%D9%85%D8%B3%D8%A9-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B5%D8%AF%D9%88%D8%B9-%D8%A7%D9%84%D9%86%D8%B4%D8%B7%D8%A9-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB-%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7%D9%87%D8%A7",
+      "publishedAt": "2026-11-06T09:43:49.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Turkish parliament approves mutual defense pact with Saudi Arabia, Pakistan",
+      "excerpt": "QAMISHLI, Syria (North Press) – Turkey’s parliament approved on Thursday a bill authorizing ratification of the Mecca mutual defense agreement with Saudi Arabia and Pakistan, paving the way for a framework of military cooperation among the ",
+      "link": "https://npasyria.com/en/143506/",
+      "publishedAt": "2026-11-06T09:28:46.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل بخمس آليات غربي درعا وسط تحليق مكثف للمسيّرات",
+      "excerpt": "أفاد تجمع أحرار حوران بتوغل قوة إسرائيلية مؤلفة من خمس آليات في محيط قرية معرية بريف درعا الغربي، قبل انسحابها باتجاه ثكنة الجزيرة.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%AE%D9%85%D8%B3-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%85%D9%83%D8%AB%D9%81-%D9%84%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
+      "publishedAt": "2026-11-06T08:48:51.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "هواتف في ريف دمشق تتحول تلقائياً إلى التوقيت الإسرائيلي.. ما السبب؟",
+      "excerpt": "أفاد عدد من مستخدمي الهواتف المحمولة في ريف دمشق بتلقي إشعارات تفيد بتغيير المنطقة الزمنية على أجهزتهم تلقائياً إلى توقيت الإسرائيلي، ما أثار تساؤلات بشأن أسباب",
+      "link": "https://www.syria.tv/%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%AA%D8%AD%D9%88%D9%84-%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8%D8%9F",
+      "publishedAt": "2026-11-06T07:39:44.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "إعادة إعمار لا تنتظر \"غودو\"",
+      "excerpt": "وترسم أرقام تقرير المدن العالمي 2026 الصادر عن برنامج الأمم المتحدة للمستوطنات البشرية، ملامح كارثة خانقة ضربت قطاع السكن السوري على مدار أكثر من عقد من الحرب،",
+      "link": "https://www.syria.tv/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%84%D8%A7-%D8%AA%D9%86%D8%AA%D8%B8%D8%B1-%D8%BA%D9%88%D8%AF%D9%88",
+      "publishedAt": "2026-11-06T03:57:31.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -158,42 +212,6 @@
       "excerpt": "DARAA, Syria (North Press) – Israeli forces stationed along the occupied Syrian Golan border fired on Wednesday heavy weapons toward agricultural land in the western countryside of Daraa, while carrying out artillery strikes and military in",
       "link": "https://npasyria.com/en/143489/",
       "publishedAt": "2026-11-05T10:24:27.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "تركيا: جاهزون لافتتاح معبر نصيبين - القامشلي وننتظر استكمال الجانب السوري",
-      "excerpt": "قال وزير التجارة التركي عمر بولات إن الجانب التركي أنهى استعداداته لافتتاح معبر نصيبين - القامشلي الحدودي، في حين لم يستكمل الجانب السوري حتى الآن البنية التحتي",
-      "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AC%D8%A7%D9%87%D8%B2%D9%88%D9%86-%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B9%D8%A8%D8%B1-%D9%86%D8%B5%D9%8A%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A-%D9%88%D9%86%D9%86%D8%AA%D8%B8%D8%B1-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-      "publishedAt": "2026-11-05T09:00:04.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "HRW urges new U.S. Congress to strengthen oversight of Trump administration",
-      "excerpt": "QAMISHLI, Syria (North Press) – Human Rights Watch (HRW) on Thursday urged the newly elected U.S. Congress to strengthen oversight of the Trump administration and prioritize human rights protections at home and abroad, warning that failures",
-      "link": "https://npasyria.com/en/143460/",
-      "publishedAt": "2026-11-05T07:03:11.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Republicans blame election loss on Iran war, Syria and Saudi Arabia defence deal and BA resumes Dubai flights",
-      "excerpt": "Today on Trending Middle East, US Vice President JD Vance blames the war against Iran for the Republican Party's crushing defeat in the midterm elections, echoing an earlier assessment by President Donald Trump. Syria and Saudi Arabia sign ",
-      "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/05/republicans-blame-election-loss-on-iran-war-syria-and-saudi-arabia-defence-deal-and-ba-resumes-dubai-flights/",
-      "publishedAt": "2026-11-05T05:24:42.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الأمم المتحدة تدعو إلى مواصلة دعم وزارة الصحة السورية",
-      "excerpt": "دعا مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (أوتشا)، إلى مواصلة تقديم الدعم والمساندة لوزارة الصحة السورية، محذراً من خطر انقطاع الخدمات الصحية الأساسية في ح",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D8%AF%D8%B9%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-      "publishedAt": "2026-11-05T03:43:24.000Z"
     }
   ]
 }
