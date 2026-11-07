@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-07T02:07:38.397Z",
+    "generatedAt": "2026-11-07T08:41:40.071Z",
     "windowHours": 24,
-    "from": "2026-11-06T02:07:38.397Z",
-    "to": "2026-11-07T02:07:38.397Z"
+    "from": "2026-11-06T08:41:40.071Z",
+    "to": "2026-11-07T08:41:40.071Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 20,
-    "files": 5,
-    "withNew": 2,
+    "items": 21,
+    "files": 6,
+    "withNew": 3,
     "stale": 3,
     "contested": 0,
     "echoed": 1,
-    "americanItems": 2,
-    "archiveCycles": 1348
+    "americanItems": 3,
+    "archiveCycles": 1349
   },
   "emptyCircles": [
     "الكونغرس",
@@ -35,16 +35,16 @@
       "contested": false,
       "independentSources": 5,
       "sources": [
+        "Jerusalem Post — الشرق الأوسط",
         "تلفزيون سوريا",
         "سانا — قسم السياسة",
         "North Press Agency (English)",
-        "Jerusalem Post — الشرق الأوسط",
         "Al-Monitor"
       ],
       "circles": [
+        "الملف الإسرائيلي والتركي",
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية",
-        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
@@ -56,6 +56,18 @@
       "score": 34,
       "items": [
         {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2726,w_4096/745259' alt='Qatar's Emir Sheikh Tamim bin Hamad Al Thani meets with Iranian Interior Minister Eskandar Momeni in Doha,",
+          "link": "https://www.jpost.com/middle-east/article-914112",
+          "publishedAt": "2026-11-07T07:39:05.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
@@ -64,7 +76,7 @@
           "link": "https://www.syria.tv/%D8%B9%D9%84%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%AA%D8%AC%D9%87-%D9%86%D8%AD%D9%88-%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3-%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%8A%D8%B3%D8%AA%D9%86%D8%AF-%D8%A5%D9%84%D9%89-%D9%85%D8%A8%D8%A7%D8%AF%D8%A6-%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9",
           "publishedAt": "2026-11-07T01:12:02.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -150,18 +162,121 @@
           "files": [],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 18,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل في ريف القنيطرة الشمالي وينصب حاجزاً مؤقتاً",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، السبت، بأربع آليات عسكرية في قرية أوفانيا بريف القنيطرة الشمالي، قبل أن تنسحب باتجاه قرية الحرية، وفق ما أفاد به مراسل تلفزيون",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7%D9%8B-%D9%85%D8%A4%D9%82%D8%AA%D8%A7%D9%8B",
+          "publishedAt": "2026-11-07T08:38:21.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "إعادة إعمار لا تنتظر \"غودو\"",
-          "excerpt": "وترسم أرقام تقرير المدن العالمي 2026 الصادر عن برنامج الأمم المتحدة للمستوطنات البشرية، ملامح كارثة خانقة ضربت قطاع السكن السوري على مدار أكثر من عقد من الحرب،",
-          "link": "https://www.syria.tv/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B9%D9%85%D8%A7%D8%B1-%D9%84%D8%A7-%D8%AA%D9%86%D8%AA%D8%B8%D8%B1-%D8%BA%D9%88%D8%AF%D9%88",
-          "publishedAt": "2026-11-06T03:57:31.000Z",
-          "files": [],
+          "title": "قصف إسرائيلي يستهدف ريف القنيطرة وتوغل في وادي الرقاد بريف درعا",
+          "excerpt": "شهدت مناطق في ريفي القنيطرة ودرعا، جنوبي سوريا، الجمعة، قصفاً مدفعياً إسرائيلياً تزامن مع توغل لقوات الاحتلال الإسرائيلي في منطقة وادي الرقاد بريف درعا الغربي.",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-11-06T16:46:59.000Z",
+          "files": [
+            "israel"
+          ],
           "seenBefore": true,
           "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces shell Syria’s Quneitra countryside",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled agricultural land near al-Samdaniyah al-Sharqiyah village in Quneitra countryside with artillery on Thursday, November 6, according to local sources. Earlier on Thursday, Israeli forces",
+          "link": "https://npasyria.com/en/143523/",
+          "publishedAt": "2026-11-06T14:47:23.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل بخمس آليات غربي درعا وسط تحليق مكثف للمسيّرات",
+          "excerpt": "أفاد تجمع أحرار حوران بتوغل قوة إسرائيلية مؤلفة من خمس آليات في محيط قرية معرية بريف درعا الغربي، قبل انسحابها باتجاه ثكنة الجزيرة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%AE%D9%85%D8%B3-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%85%D9%83%D8%AB%D9%81-%D9%84%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
+          "publishedAt": "2026-11-06T08:48:51.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "U.S. sanctions Iranian financial networks, offers $20M nuclear reward",
+          "excerpt": "QAMISHLI, Syria (North Press) – The United States announced on Friday that it imposed sanctions on eight digital asset service providers accused of helping Iran evade financial restrictions and channel funds to the Islamic Revolutionary Gua",
+          "link": "https://npasyria.com/en/143530/",
+          "publishedAt": "2026-11-07T06:17:12.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": false,
+          "us": true
         }
       ]
     },
@@ -180,7 +295,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-06 22:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 02:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -258,13 +373,13 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 02:07",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 9,
+      "score": 0,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -278,7 +393,7 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -298,85 +413,6 @@
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-06 22:20",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 9,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قصف إسرائيلي يستهدف ريف القنيطرة وتوغل في وادي الرقاد بريف درعا",
-          "excerpt": "شهدت مناطق في ريفي القنيطرة ودرعا، جنوبي سوريا، الجمعة، قصفاً مدفعياً إسرائيلياً تزامن مع توغل لقوات الاحتلال الإسرائيلي في منطقة وادي الرقاد بريف درعا الغربي.",
-          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-11-06T16:46:59.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces shell Syria’s Quneitra countryside",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled agricultural land near al-Samdaniyah al-Sharqiyah village in Quneitra countryside with artillery on Thursday, November 6, according to local sources. Earlier on Thursday, Israeli forces",
-          "link": "https://npasyria.com/en/143523/",
-          "publishedAt": "2026-11-06T14:47:23.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل بخمس آليات غربي درعا وسط تحليق مكثف للمسيّرات",
-          "excerpt": "أفاد تجمع أحرار حوران بتوغل قوة إسرائيلية مؤلفة من خمس آليات في محيط قرية معرية بريف درعا الغربي، قبل انسحابها باتجاه ثكنة الجزيرة.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%A8%D8%AE%D9%85%D8%B3-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%85%D9%83%D8%AB%D9%81-%D9%84%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA",
-          "publishedAt": "2026-11-06T08:48:51.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "هواتف في ريف دمشق تتحول تلقائياً إلى التوقيت الإسرائيلي.. ما السبب؟",
-          "excerpt": "أفاد عدد من مستخدمي الهواتف المحمولة في ريف دمشق بتلقي إشعارات تفيد بتغيير المنطقة الزمنية على أجهزتهم تلقائياً إلى توقيت الإسرائيلي، ما أثار تساؤلات بشأن أسباب",
-          "link": "https://www.syria.tv/%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%AA%D8%AD%D9%88%D9%84-%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8%D8%9F",
-          "publishedAt": "2026-11-06T07:39:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -388,7 +424,7 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-06 22:20",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 02:07",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
