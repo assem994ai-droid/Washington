@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-07T15:12:25.099Z",
+    "generatedAt": "2026-11-07T19:27:25.194Z",
     "windowHours": 24,
-    "from": "2026-11-06T15:12:25.099Z",
-    "to": "2026-11-07T15:12:25.099Z"
+    "from": "2026-11-06T19:27:25.194Z",
+    "to": "2026-11-07T19:27:25.194Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 15,
-    "files": 7,
-    "withNew": 3,
+    "items": 13,
+    "files": 6,
+    "withNew": 2,
     "stale": 4,
-    "contested": 0,
-    "echoed": 1,
+    "contested": 1,
+    "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1350
+    "archiveCycles": 1351
   },
   "emptyCircles": [
     "الكونغرس",
@@ -26,35 +26,73 @@
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Congress.gov — مشاريع تحت المتابعة",
+      "sourceId": "congress-watch",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
-      "contested": false,
-      "independentSources": 5,
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
+      "independentSources": 3,
       "sources": [
-        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "سانا — قسم السياسة",
-        "Jerusalem Post — الشرق الأوسط",
+        "North Press Agency (English)",
         "Al-Monitor"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي والتركي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 3,
       "stale": false,
-      "echoed": true,
+      "echoed": false,
       "usItems": 2,
-      "score": 31,
+      "score": 35,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مسلسل \"الرحمة\" بنسخته العربية… لماذا انتقل التصوير من دمشق إلى إسطنبول؟",
+          "excerpt": "انطلقت في مدينة إسطنبول التركية عمليات تصوير النسخة العربية من المسلسل التركي \"الرحمة Merhamet\"، بعد تعذّر تنفيذ التصوير في العاصمة السورية دمشق، خلافاً لما..",
+          "link": "https://www.syria.tv/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D8%A9-%D8%A8%D9%86%D8%B3%D8%AE%D8%AA%D9%87-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%E2%80%A6-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D9%86%D8%AA%D9%82%D9%84-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D9%85%D9%86-%D8%AF%D9%85%D8%B4%D9%82-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84%D8%9F",
+          "publishedAt": "2026-11-07T17:33:33.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Expert says U.S. task force complements blockade on Iran",
+          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. decision to establish a task force aimed at preventing Iran from using land routes to transport weapons is intended to complement the naval blockade imposed by Washington, an international relations ",
+          "link": "https://npasyria.com/en/143564/",
+          "publishedAt": "2026-11-07T16:54:16.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
+          "excerpt": "<p>Nov 7 (Reuters) - Syria has no plans to send troops to Yemen, a Syrian diplomatic source told state news agency SANA, dismissing reportsof a possible deployment while adding that military cooperation with Saudi Arabia could eventually ex",
+          "link": "https://www.al-monitor.com/originals/2026/11/syria-denies-plans-send-troops-yemen-saudi-military-ties-deepen",
+          "publishedAt": "2026-11-07T16:46:27.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
@@ -64,7 +102,7 @@
           "link": "https://npasyria.com/en/143555/",
           "publishedAt": "2026-11-07T14:41:48.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -78,77 +116,58 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "انطلاق منتدى TRT World Forum 2026 في إسطنبول بمشاركة سوريا",
-          "excerpt": "انطلقت في مدينة إسطنبول، اليوم الجمعة، أعمال منتدى TRT World Forum 2026 بمشاركة دولية واسعة، وحضور الرئيس التركي رجب طيب أردوغان، الذي شارك في الجلسة الافتتاحية للمنتدى وألقى كلمة تناول فيها التحولات العالمية والتحديات التي تواجه النظام الد",
-          "link": "https://sana.sy/syria-and-the-world/2628022/",
-          "publishedAt": "2026-11-06T19:02:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria sends military advisers to Saudi Arabia for training",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian military advisers and training teams are heading to Saudi Arabia to train Saudi and Yemeni units, a senior U.S. official told Reuters on Friday, as Riyadh faces renewed attacks by Yemen’s Houthis. Syri",
-          "link": "https://npasyria.com/en/143527/",
-          "publishedAt": "2026-11-06T18:43:53.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria aids Saudi Arabia with military advice, training amid Houthi attacks, sources say",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2160,w_3240/745034' alt='Fighters from the Saudi-led coalition hold a position during clashes with Iran-backed Houthis in Yemen's n",
-          "link": "https://www.jpost.com/middle-east/article-914077",
-          "publishedAt": "2026-11-06T18:40:55.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say",
-          "excerpt": "<p>By Timour Azhari and Feras Dalatey</p><p>RIYADH, Nov 6 (Reuters) - Syria is aiding Riyadh with military advice and training as Saudi Arabia comes under attack by Yemen's Houthis, and has sent a limited number of military personnel to the",
-          "link": "https://www.al-monitor.com/originals/2026/11/syria-aids-saudi-arabia-military-advice-and-training-amid-houthi-attacks-sources",
-          "publishedAt": "2026-11-06T16:46:34.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "مصدر واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 1,
+      "independentSources": 2,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 1,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 14,
+      "score": 22,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Netanyahu calls for unity government, warns against Islamist support",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli Prime Minister Benjamin Netanyahu on Saturday called for the formation of a national unity government, warning against establishing a government that depends on groups he accused of supporting Hamas a",
+          "link": "https://npasyria.com/en/143567/",
+          "publishedAt": "2026-11-07T19:07:10.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال الإسرائيلي تتوغل في الصمدانية بريف القنيطرة وتنصب حواجز عسكرية",
+          "excerpt": "أفاد مراسل تلفزيون سوريا، السبت، بتوغل دورية عسكرية تابعة للاحتلال الإسرائيلي، مؤلفة من 14 آلية ومحمّلة بالجنود، في قرية الصمدانية الغربية بريف القنيطرة.",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-11-07T17:28:57.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -160,7 +179,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -175,56 +194,6 @@
             "israel"
           ],
           "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قصف إسرائيلي يستهدف ريف القنيطرة وتوغل في وادي الرقاد بريف درعا",
-          "excerpt": "شهدت مناطق في ريفي القنيطرة ودرعا، جنوبي سوريا، الجمعة، قصفاً مدفعياً إسرائيلياً تزامن مع توغل لقوات الاحتلال الإسرائيلي في منطقة وادي الرقاد بريف درعا الغربي.",
-          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-11-06T16:46:59.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria foils alleged Hezbollah plot as cleric warns of Iranian plans to disrupt oil supplies",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3094,w_5500/699301' alt='A drone view shows industrial city in Hassia, Homs, Syria March 19, 2025. (photo credit: REUTERS/KHALIL AS",
-          "link": "https://www.jpost.com/middle-east/article-914124",
-          "publishedAt": "2026-11-07T13:36:02.000Z",
-          "files": [
-            "lebanon"
-          ],
-          "seenBefore": false,
           "us": false
         }
       ]
@@ -241,7 +210,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 08:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -266,86 +235,35 @@
       ]
     },
     {
-      "id": "turkey",
-      "label": "الملف التركي",
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
       "sources": [
-        "The National"
+        "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
-        "الإعلام المتخصص"
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 08:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 3,
+      "score": -1,
       "items": [
         {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria-Iraq oil pipeline not a threat to Turkey, Energy Minister says",
-          "excerpt": "Turkey does not oppose the rehabilitation of an oil pipeline between Iraq and Syria that would provide an alternative export route to the Strait of Hormuz for Baghdad’s crude, Turkey’s Energy Minister has said. “We are not afraid” of the Ki",
-          "link": "https://www.thenationalnews.com/news/mena/2026/11/06/syria-iraq-oil-pipeline-not-a-threat-to-turkey-energy-minister-says/",
-          "publishedAt": "2026-11-06T15:43:08.000Z",
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Syria foils alleged Hezbollah plot as cleric warns of Iranian plans to disrupt oil supplies",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3094,w_5500/699301' alt='A drone view shows industrial city in Hassia, Homs, Syria March 19, 2025. (photo credit: REUTERS/KHALIL AS",
+          "link": "https://www.jpost.com/middle-east/article-914124",
+          "publishedAt": "2026-11-07T13:36:02.000Z",
           "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 08:41",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 0,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي‏ يستعرض أمام الأمم المتحدة جهود سوريا لبناء إعلام حر ومسؤول ينقل الحقيقة",
-          "excerpt": "استعرض مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، أمام اللجنة الرابعة للجمعية العامة للأمم المتحدة، خلال مناقشة البند /51/ المعنون «المسائل المتصلة بالإعلام»، جهود سوريا الجديدة لبناء إعلام حر ومسؤول يقوم على نقل الحقيقة وحماية حرية",
-          "link": "https://sana.sy/syria-and-the-world/2628013/",
-          "publishedAt": "2026-11-07T00:13:22.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "علبي يبحث مع صالح تعزيز التعاون ودعم عودة اللاجئين وإعادة الإعمار",
-          "excerpt": "بحث مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، مع المفوض السامي للأمم المتحدة لشؤون اللاجئين برهم صالح، سبل تعزيز التعاون بين سوريا والمفوضية، وحشد الدعم الدولي لجهود التعافي وإعادة الإعمار وتهيئة الظروف الملائمة لعودة طوعية ومستدام",
-          "link": "https://sana.sy/politics/2627848/",
-          "publishedAt": "2026-11-06T16:52:34.000Z",
-          "files": [
-            "economy"
+            "lebanon"
           ],
           "seenBefore": true,
           "us": false
@@ -364,7 +282,7 @@
       "circles": [
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 08:41",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 15:12",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -381,6 +299,43 @@
           "link": "https://www.jpost.com/middle-east/article-914112",
           "publishedAt": "2026-11-07T07:39:05.000Z",
           "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-07 15:12",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "علبي‏ يستعرض أمام الأمم المتحدة جهود سوريا لبناء إعلام حر ومسؤول ينقل الحقيقة",
+          "excerpt": "استعرض مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، أمام اللجنة الرابعة للجمعية العامة للأمم المتحدة، خلال مناقشة البند /51/ المعنون «المسائل المتصلة بالإعلام»، جهود سوريا الجديدة لبناء إعلام حر ومسؤول يقوم على نقل الحقيقة وحماية حرية",
+          "link": "https://sana.sy/syria-and-the-world/2628013/",
+          "publishedAt": "2026-11-07T00:13:22.000Z",
+          "files": [
+            "economy",
             "diplomacy"
           ],
           "seenBefore": true,
