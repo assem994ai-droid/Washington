@@ -1,210 +1,41 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-08T15:37:00.913Z",
+    "generatedAt": "2026-11-08T19:56:20.546Z",
     "windowHours": 24,
-    "from": "2026-11-07T15:37:00.913Z",
-    "to": "2026-11-08T15:37:00.913Z"
+    "from": "2026-11-07T19:56:20.546Z",
+    "to": "2026-11-08T19:56:20.546Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
-    "files": 4,
+    "items": 7,
+    "files": 3,
     "withNew": 2,
-    "stale": 2,
-    "contested": 1,
+    "stale": 1,
+    "contested": 0,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 1355
+    "americanItems": 0,
+    "archiveCycles": 1356
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Congress.gov — مشاريع تحت المتابعة",
+      "sourceId": "congress-watch",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 18,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "توغل ثلاث آليات للاحتلال الإسرائيلي باتجاه صيدا الحانوت في القنيطرة",
-          "excerpt": "توغلت ثلاث آليات عسكرية تابعة لقوات الاحتلال الإسرائيلي، الأحد، باتجاه بلدة صيدا الحانوت في ريف القنيطرة، جنوبي سوريا.",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%AB%D9%84%D8%A7%D8%AB-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%86%D9%88%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-08T09:20:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الزيتون والمراعي والنحل.. توغلات الاحتلال تضرب مصادر رزق أهالي كويا في درعا| صور",
-          "excerpt": "امتدت تداعيات القيود المفروضة على المنطقة لتطول مربي الثروة الحيوانية والنحالين، ما يهدد مصادر الدخل الرئيسية لعشرات العائلات.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D9%86%D8%AD%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B6%D8%B1%D8%A8-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B1%D8%B2%D9%82-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D9%83%D9%88%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%B5%D9%88%D8%B1",
-          "publishedAt": "2026-11-08T07:31:15.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Netanyahu calls for unity government, warns against Islamist support",
-          "excerpt": "QAMISHLI, Syria (North Press) – Israeli Prime Minister Benjamin Netanyahu on Saturday called for the formation of a national unity government, warning against establishing a government that depends on groups he accused of supporting Hamas a",
-          "link": "https://npasyria.com/en/143567/",
-          "publishedAt": "2026-11-07T19:07:10.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال الإسرائيلي تتوغل في الصمدانية بريف القنيطرة وتنصب حواجز عسكرية",
-          "excerpt": "أفاد مراسل تلفزيون سوريا، السبت، بتوغل دورية عسكرية تابعة للاحتلال الإسرائيلي، مؤلفة من 14 آلية ومحمّلة بالجنود، في قرية الصمدانية الغربية بريف القنيطرة.",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AA%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%85%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-11-07T17:28:57.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "Al-Monitor"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-08 08:48",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 1,
-      "score": 13,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مسلسل \"الرحمة\" بنسخته العربية… لماذا انتقل التصوير من دمشق إلى إسطنبول؟",
-          "excerpt": "انطلقت في مدينة إسطنبول التركية عمليات تصوير النسخة العربية من المسلسل التركي \"الرحمة Merhamet\"، بعد تعذّر تنفيذ التصوير في العاصمة السورية دمشق، خلافاً لما..",
-          "link": "https://www.syria.tv/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D8%A9-%D8%A8%D9%86%D8%B3%D8%AE%D8%AA%D9%87-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%E2%80%A6-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D9%86%D8%AA%D9%82%D9%84-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D9%85%D9%86-%D8%AF%D9%85%D8%B4%D9%82-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84%D8%9F",
-          "publishedAt": "2026-11-07T17:33:33.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Expert says U.S. task force complements blockade on Iran",
-          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. decision to establish a task force aimed at preventing Iran from using land routes to transport weapons is intended to complement the naval blockade imposed by Washington, an international relations ",
-          "link": "https://npasyria.com/en/143564/",
-          "publishedAt": "2026-11-07T16:54:16.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
-          "excerpt": "<p>Nov 7 (Reuters) - Syria has no plans to send troops to Yemen, a Syrian diplomatic source told state news agency SANA, dismissing reportsof a possible deployment while adding that military cooperation with Saudi Arabia could eventually ex",
-          "link": "https://www.al-monitor.com/originals/2026/11/syria-denies-plans-send-troops-yemen-saudi-military-ties-deepen",
-          "publishedAt": "2026-11-07T16:46:27.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 8,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "التنسيق السوري العراقي.. تعاون أمني يعزز الاستقرار ويفتح آفاق الشراكة الاقتصادية",
-          "excerpt": "يشكل تعزيز التعاون الأمني بين سوريا والعراق ركيزة لتطوير العلاقات الثنائية، في ظل التحديات المرتبطة بأمن ‏الحدود ومكافحة الإرهاب",
-          "link": "https://sana.sy/reports/2629469/",
-          "publishedAt": "2026-11-08T14:57:29.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": false,
-          "us": false
-        }
-      ]
-    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -219,14 +50,28 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-08 08:48",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 17,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من دون إذن إضافي.. تركيا تسهّل عبور مواطني 10 دول عربية إلى سوريا",
+          "excerpt": "أعلن مدير إدارة العلاقات والتعاون الدولي والعلاقات العامة في الهيئة العامة للمنافذ والجمارك السورية، مازن علوش، الأحد، صدور قرار عن السلطات التركية يسمح..",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%AF%D9%88%D9%86-%D8%A5%D8%B0%D9%86-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B3%D9%87%D9%91%D9%84-%D8%B9%D8%A8%D9%88%D8%B1-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A-10-%D8%AF%D9%88%D9%84-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-11-08T16:57:44.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -251,6 +96,106 @@
           "publishedAt": "2026-11-07T21:39:09.000Z",
           "files": [
             "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 14,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يواصل تحركاته في القنيطرة ويتوغل في تل كروم جبا",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، مساء الأحد، بأربع آليات عسكرية في منطقة تل كروم جبا بريف القنيطرة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AA%D9%84-%D9%83%D8%B1%D9%88%D9%85-%D8%AC%D8%A8%D8%A7",
+          "publishedAt": "2026-11-08T18:55:01.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "توغل ثلاث آليات للاحتلال الإسرائيلي باتجاه صيدا الحانوت في القنيطرة",
+          "excerpt": "توغلت ثلاث آليات عسكرية تابعة لقوات الاحتلال الإسرائيلي، الأحد، باتجاه بلدة صيدا الحانوت في ريف القنيطرة، جنوبي سوريا.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%AB%D9%84%D8%A7%D8%AB-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%86%D9%88%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-08T09:20:20.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الزيتون والمراعي والنحل.. توغلات الاحتلال تضرب مصادر رزق أهالي كويا في درعا| صور",
+          "excerpt": "امتدت تداعيات القيود المفروضة على المنطقة لتطول مربي الثروة الحيوانية والنحالين، ما يهدد مصادر الدخل الرئيسية لعشرات العائلات.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D9%86%D8%AD%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B6%D8%B1%D8%A8-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B1%D8%B2%D9%82-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D9%83%D9%88%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%B5%D9%88%D8%B1",
+          "publishedAt": "2026-11-08T07:31:15.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-08 15:37",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": -1,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "التنسيق السوري العراقي.. تعاون أمني يعزز الاستقرار ويفتح آفاق الشراكة الاقتصادية",
+          "excerpt": "يشكل تعزيز التعاون الأمني بين سوريا والعراق ركيزة لتطوير العلاقات الثنائية، في ظل التحديات المرتبطة بأمن ‏الحدود ومكافحة الإرهاب",
+          "link": "https://sana.sy/reports/2629469/",
+          "publishedAt": "2026-11-08T14:57:29.000Z",
+          "files": [
+            "economy"
           ],
           "seenBefore": true,
           "us": false
