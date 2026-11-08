@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-08T08:48:39.435Z",
+    "generatedAt": "2026-11-08T15:37:00.913Z",
     "windowHours": 24,
-    "from": "2026-11-07T08:48:39.435Z",
-    "to": "2026-11-08T08:48:39.435Z"
+    "from": "2026-11-07T15:37:00.913Z",
+    "to": "2026-11-08T15:37:00.913Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 11,
+    "items": 10,
     "files": 4,
-    "withNew": 1,
-    "stale": 3,
+    "withNew": 2,
+    "stale": 2,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 2,
-    "archiveCycles": 1354
+    "americanItems": 1,
+    "archiveCycles": 1355
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -53,6 +54,20 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
+          "title": "توغل ثلاث آليات للاحتلال الإسرائيلي باتجاه صيدا الحانوت في القنيطرة",
+          "excerpt": "توغلت ثلاث آليات عسكرية تابعة لقوات الاحتلال الإسرائيلي، الأحد، باتجاه بلدة صيدا الحانوت في ريف القنيطرة، جنوبي سوريا.",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%AB%D9%84%D8%A7%D8%AB-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%B5%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%AD%D8%A7%D9%86%D9%88%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-08T09:20:20.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
           "title": "الزيتون والمراعي والنحل.. توغلات الاحتلال تضرب مصادر رزق أهالي كويا في درعا| صور",
           "excerpt": "امتدت تداعيات القيود المفروضة على المنطقة لتطول مربي الثروة الحيوانية والنحالين، ما يهدد مصادر الدخل الرئيسية لعشرات العائلات.",
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D9%86%D8%AD%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B6%D8%B1%D8%A8-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B1%D8%B2%D9%82-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D9%83%D9%88%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%B5%D9%88%D8%B1",
@@ -60,7 +75,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -90,20 +105,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يتوغل في ريف درعا الغربي ويتمركز قرب غرفة مجحم في منطقة وادي الرقاد",
-          "excerpt": "أفاد مراسل تلفزيون سوريا، الجمعة، بتوغل قوات الاحتلال الإسرائيلي من بوابة أبو الغيثار باتجاه منطقة غرفة مجحم في ريف درعا الغربي، حيث تمركزت القوات في الموقع قبل",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A-%D9%88%D9%8A%D8%AA%D9%85%D8%B1%D9%83%D8%B2-%D9%82%D8%B1%D8%A8-%D8%BA%D8%B1%D9%81%D8%A9-%D9%85%D8%AC%D8%AD%D9%85-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF",
-          "publishedAt": "2026-11-07T12:58:53.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -122,13 +123,13 @@
         "الإعلام السوري المستقل",
         "الإعلام المتخصص"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-08 01:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-08 08:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 17,
+      "usItems": 1,
+      "score": 13,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -165,18 +166,42 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "CENTCOM forms task force to disrupt Iran’s land supply routes",
-          "excerpt": "QAMISHLI, Syria (North Press) – The U.S. Central Command (CENTCOM) has established a task force to prevent Iran from using land routes and the Caspian Sea to transport advanced weapons, dual-use technologies and sanctioned materials, the co",
-          "link": "https://npasyria.com/en/143555/",
-          "publishedAt": "2026-11-07T14:41:48.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "التنسيق السوري العراقي.. تعاون أمني يعزز الاستقرار ويفتح آفاق الشراكة الاقتصادية",
+          "excerpt": "يشكل تعزيز التعاون الأمني بين سوريا والعراق ركيزة لتطوير العلاقات الثنائية، في ظل التحديات المرتبطة بأمن ‏الحدود ومكافحة الإرهاب",
+          "link": "https://sana.sy/reports/2629469/",
+          "publishedAt": "2026-11-08T14:57:29.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
         }
       ]
     },
@@ -194,7 +219,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-08 01:59",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-08 08:48",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -226,42 +251,6 @@
           "publishedAt": "2026-11-07T21:39:09.000Z",
           "files": [
             "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-08 01:59",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria foils alleged Hezbollah plot as cleric warns of Iranian plans to disrupt oil supplies",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3094,w_5500/699301' alt='A drone view shows industrial city in Hassia, Homs, Syria March 19, 2025. (photo credit: REUTERS/KHALIL AS",
-          "link": "https://www.jpost.com/middle-east/article-914124",
-          "publishedAt": "2026-11-07T13:36:02.000Z",
-          "files": [
-            "lebanon"
           ],
           "seenBefore": true,
           "us": false
