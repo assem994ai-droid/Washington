@@ -1,23 +1,34 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-08T23:24:56.486Z",
+    "generatedAt": "2026-11-09T02:51:23.233Z",
     "windowHours": 24,
-    "from": "2026-11-07T23:24:56.486Z",
-    "to": "2026-11-08T23:24:56.486Z"
+    "from": "2026-11-08T02:51:23.233Z",
+    "to": "2026-11-09T02:51:23.233Z"
   },
   "counts": {
-    "total": 6,
+    "total": 7,
     "byCircle": {
+      "الملف الإسرائيلي والتركي": 1,
       "الإعلام السوري المستقل": 5,
       "المصادر الرسمية السورية": 1
     },
     "bySource": {
+      "Jerusalem Post — الشرق الأوسط": 1,
       "تلفزيون سوريا": 5,
       "سانا — قسم السياسة": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Iraq's Khor Mor gas field hit less than day after reportedly referenced by Kataib Hezbollah",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2122,w_3267/693568' alt='FILE PHOTO: The Khor Mor gas field after a rocket attack near Chamchamal, in Sulaymaniyah province, Iraq, ",
+      "link": "https://www.jpost.com/middle-east/article-914274",
+      "publishedAt": "2026-11-08T23:57:25.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
