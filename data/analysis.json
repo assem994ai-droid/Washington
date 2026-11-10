@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-10T11:38:30.224Z",
+    "generatedAt": "2026-11-10T18:49:04.559Z",
     "windowHours": 24,
-    "from": "2026-11-09T11:38:30.224Z",
-    "to": "2026-11-10T11:38:30.224Z"
+    "from": "2026-11-09T18:49:04.559Z",
+    "to": "2026-11-10T18:49:04.559Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 22,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
+    "withNew": 5,
+    "stale": 0,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 1362
+    "americanItems": 4,
+    "archiveCycles": 1363
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,39 +22,217 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام الدولي",
+    "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
+    "الملف التركي",
     "الملف الإسرائيلي"
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "Congress.gov — مشاريع تحت المتابعة",
+      "sourceId": "congress-watch",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 6,
+      "independentSources": 4,
       "sources": [
         "تلفزيون سوريا",
         "North Press Agency (English)",
-        "The National",
         "Al-Monitor",
-        "سانا — قسم السياسة",
         "Jerusalem Post — الشرق الأوسط"
       ],
       "circles": [
         "الإعلام السوري المستقل",
         "الإعلام المتخصص",
-        "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 4,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 43,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يتوغل في وادي الرقاد بدرعا وسط إطلاق نار بالرشاشات الثقيلة",
+          "excerpt": "توغل إسرائيلي في وادي الرقاد بدرعا بثلاث آليات عسكرية، تخلله تفتيش منزل وإطلاق نار كثيف وسط تحليق مسيرات",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%AF-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%B3%D8%B7-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D8%B1%D8%B4%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D9%8A%D9%84%D8%A9",
+          "publishedAt": "2026-11-10T18:29:20.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces shell Damascus countryside, raid Daraa Village",
+          "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled the outskirts of Beit Jinn in western Damascus countryside with two artillery rounds on Tuesday, while troops entered Jamlah village in Daraa Governorate and carried out extensive searc",
+          "link": "https://npasyria.com/en/143641/",
+          "publishedAt": "2026-11-10T18:13:46.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي يقصف أطراف بيت جن في ريف دمشق",
+          "excerpt": "استهدف قصف مدفعي إسرائيلي منطقة جورة اللوز على أطراف بلدة بيت جن في ريف دمشق الغربي، بحسب مراسل تلفزيون سوريا.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+          "publishedAt": "2026-11-10T16:21:56.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "UNICEF says Israel blocks Gaza basin repairs, warns of flood risk",
+          "excerpt": "<p>By Emma Farge</p><p>GENEVA, Nov 10 (Reuters) - The UN children's agency said Israel had rejected the importation of equipment needed to repair a water basin in Gaza, and warned that the facility could overflow and endanger nearby residen",
+          "link": "https://www.al-monitor.com/originals/2026/11/unicef-says-israel-blocks-gaza-basin-repairs-warns-flood-risk",
+          "publishedAt": "2026-11-10T14:46:51.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israeli forces set up checkpoint in Syria&#8217;s Quneitra, detain resident",
+          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli military force consisting of five vehicles on Tuesday entered northern countryside of Quneitra, southern Syria, and set up an inspection checkpoint. Local sources told North Press Israeli forces ch",
+          "link": "https://npasyria.com/en/143624/",
+          "publishedAt": "2026-11-10T09:52:55.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال الإسرائيلي ينصب حاجزاً ويفتش منازل في ريف القنيطرة",
+          "excerpt": "توغلت قوة للاحتلال الإسرائيلي مؤلفة من 6 عربات عسكرية في بلدة جباتا الخشب بريف القنيطرة، حيث نصبت حاجزاً لتفتيش المارة وداهمت عدداً من المنازل المحيطة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7%D9%8B-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-10T08:31:37.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"الملف السوري\" بين آيزنكوت ونتنياهو",
+          "excerpt": "تلقي نتائج الانتخابات الإسرائيلية غير الحاسمة بظلال ثقيلة على مستقبل صنع القرار السياسي والاستراتيجي في إسرائيل، لتضع الملف السوري عند مفترق طرق بالغ الحساسية.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%88%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
+          "publishedAt": "2026-11-10T03:12:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "IDF confirms entry of tents, winter supplies into Gaza after Hamas blames Israel for conditions",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1536,w_2048/745562' alt='Tents being brought into the Gaza Strip. (photo credit: IDF SPOKESPERSON'S UNIT)' title='Tents being broug",
+          "link": "https://www.jpost.com/middle-east/article-914367",
+          "publishedAt": "2026-11-09T20:00:04.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "The National"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
       "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 3,
       "stale": false,
       "echoed": false,
-      "usItems": 3,
-      "score": 53,
+      "usItems": 4,
+      "score": 42,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syrian security forces kill former government cell leader in Tartous",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian internal security forces said on Tuesday they had killed the leader of a four-member armed cell linked to the former government in an ambush in Tartous governorate. The forces said the operation follow",
+          "link": "https://npasyria.com/en/143645/",
+          "publishedAt": "2026-11-10T18:48:46.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "وزير العدل يبحث مع مؤسسات أميركية ودولية مستقبل قطاع العدالة في سوريا",
+          "excerpt": "مظهر الويس يختتم زيارته إلى واشنطن بعد مباحثات مع البنك الدولي ووزارتي العدل والخارجية الأميركيتين لدعم القضاء السوري",
+          "link": "https://www.syria.tv/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-11-10T18:17:37.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Rubio Says U.S. has no need for major military operations against Iran",
+          "excerpt": "QAMISHLI, Syria (North Press) – U.S. Secretary of State Marco Rubio said on Tuesday that Washington does not need to launch major military operations against Iran, arguing that economic sanctions and a naval blockade are achieving their obj",
+          "link": "https://npasyria.com/en/143634/",
+          "publishedAt": "2026-11-10T16:44:27.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -64,7 +242,7 @@
           "link": "https://www.syria.tv/%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D8%AA%D9%89-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%88%D8%AF%D9%85%D8%B4%D9%82%D8%9F",
           "publishedAt": "2026-11-10T07:54:28.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -76,7 +254,7 @@
           "link": "https://npasyria.com/en/143618/",
           "publishedAt": "2026-11-10T06:42:07.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -88,7 +266,7 @@
           "link": "https://npasyria.com/en/143615/",
           "publishedAt": "2026-11-10T06:20:31.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -126,83 +304,24 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria denies sending troops to fight Houthis in return for Saudi loans",
-          "excerpt": "The Saudi Fund for Development and Syria’s Finance Ministry recently inked more than $403 million in concessional loan agreements, fueling speculation that Damascus agreed to provide military support to Saudi Arabia in exchange for financia",
-          "link": "https://www.al-monitor.com/originals/2026/11/syria-denies-sending-troops-fight-houthis-return-saudi-loans",
-          "publishedAt": "2026-11-09T19:29:07.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria, Jordan sign railway deal among 35 new agreements",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria and Jordan signed 35 agreements and memorandums of understanding, including a railway link deal aimed at paving the way for a regional corridor connecting Saudi Arabia, Jordan, Syria and Turkey, Syrian ",
-          "link": "https://npasyria.com/en/143612/",
-          "publishedAt": "2026-11-09T19:21:12.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Syria has no plans to send troops to fight Houthis in Yemen 'in near future'",
-          "excerpt": "Syrian Foreign Minister Asaad Al Shibani said on Monday his country has no plans in the near future to send troops to Yemen to fight the Iran-backed Houthi rebels in defence of Saudi Arabia.He was speaking at a joint press conference with h",
-          "link": "https://www.thenationalnews.com/news/mena/2026/11/09/syria-has-no-plans-to-send-troops-to-fight-houthis-in-yemen-in-near-future/",
-          "publishedAt": "2026-11-09T16:24:44.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "توماس باراك: مجلس الشعب يضع أسس سوريا جديدة قائمة على الكرامة والازدهار والعدالة",
-          "excerpt": "أكد المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق، توماس باراك، أن افتتاح أعمال الدورة الثانية لمجلس الشعب يضع أسس سوريا جديدة تقوم على الكرامة والازدهار، بمشاركة جميع السوريين.",
-          "link": "https://sana.sy/politics/2630576/",
-          "publishedAt": "2026-11-09T16:15:11.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Damascus shifts east: How a Syrian-Saudi defense pact redefines regional power dynamics - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2765,w_3463/745141' alt='Syrian President Ahmed al-Sharaa ​meets Saudi Crown Prince Mohammed bin Salman, in Riyadh, Saudi Arabia, N",
-          "link": "https://www.jpost.com/middle-east/article-914337",
-          "publishedAt": "2026-11-09T14:07:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 3,
       "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط"
+        "The National",
+        "Jerusalem Post — الشرق الأوسط",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل"
       ],
       "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -210,164 +329,36 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 28,
+      "score": 20,
       "items": [
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces set up checkpoint in Syria&#8217;s Quneitra, detain resident",
-          "excerpt": "QUNEITRA, Syria (North Press) – An Israeli military force consisting of five vehicles on Tuesday entered northern countryside of Quneitra, southern Syria, and set up an inspection checkpoint. Local sources told North Press Israeli forces ch",
-          "link": "https://npasyria.com/en/143624/",
-          "publishedAt": "2026-11-10T09:52:55.000Z",
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "King of Bahrain meets Saudi Crown Prince on visit to Riyadh",
+          "excerpt": "Bahrain's King Hamad met Saudi Arabia's Crown Prince Mohammed bin Salman on a visit to Riyadh on Tuesday. Prince Mohammed greeted the Bahraini ruler at King Khalid International Airport, the scene of recent Houthi attacks on Saudi Arabia. D",
+          "link": "https://www.thenationalnews.com/news/mena/2026/11/10/king-of-bahrain-meets-saudi-crown-prince-on-visit-to-riyadh/",
+          "publishedAt": "2026-11-10T16:56:06.000Z",
           "files": [
-            "israel"
+            "diplomacy"
           ],
           "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي ينصب حاجزاً ويفتش منازل في ريف القنيطرة",
-          "excerpt": "توغلت قوة للاحتلال الإسرائيلي مؤلفة من 6 عربات عسكرية في بلدة جباتا الخشب بريف القنيطرة، حيث نصبت حاجزاً لتفتيش المارة وداهمت عدداً من المنازل المحيطة.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7%D9%8B-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-10T08:31:37.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"الملف السوري\" بين آيزنكوت ونتنياهو",
-          "excerpt": "تلقي نتائج الانتخابات الإسرائيلية غير الحاسمة بظلال ثقيلة على مستقبل صنع القرار السياسي والاستراتيجي في إسرائيل، لتضع الملف السوري عند مفترق طرق بالغ الحساسية.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%88%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
-          "publishedAt": "2026-11-10T03:12:25.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
           "us": false
         },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
           "circle": "الملف الإسرائيلي والتركي",
-          "title": "IDF confirms entry of tents, winter supplies into Gaza after Hamas blames Israel for conditions",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1536,w_2048/745562' alt='Tents being brought into the Gaza Strip. (photo credit: IDF SPOKESPERSON'S UNIT)' title='Tents being broug",
-          "link": "https://www.jpost.com/middle-east/article-914367",
-          "publishedAt": "2026-11-09T20:00:04.000Z",
+          "title": "Tensions flare between Hamas, Fatah less than a month after Palestinian unity talks",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3946,w_5919/735818' alt='A man drives a tuk-tuk past portraits of late Palestinian President Yasser Arafat (C) and former Fatah sec",
+          "link": "https://www.jpost.com/middle-east/article-914453",
+          "publishedAt": "2026-11-10T12:59:43.000Z",
           "files": [
-            "israel"
+            "diplomacy"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يطلق النار على صحفيين ويصيب مدنياً في ريف القنيطرة",
-          "excerpt": "أطلقت قوات الاحتلال الإسرائيلي النار بشكل مباشر على إعلاميين خلال تغطيتهم الميدانية في قرية بئر عجم بريف القنيطرة الجنوبي، من دون وقوع إصابات بينهم، في حين أصيب",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D8%B5%D8%AD%D9%81%D9%8A%D9%8A%D9%86-%D9%88%D9%8A%D8%B5%D9%8A%D8%A8-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-09T17:41:48.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces wound Syrian shepherd during incursion in Quneitra",
-          "excerpt": "QAMISHLI, Syria (North Press) – An Israeli army patrol wounded a Syrian shepherd on Monday during an incursion in Bir Ajam forest in Quneitra countryside, local sources told North Press. The sources said Israeli forces opened fire at the sh",
-          "link": "https://npasyria.com/en/143601/",
-          "publishedAt": "2026-11-09T17:32:14.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Syria, Jordan launch joint probe into deadly airstrikes, sign 11 deals",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/745542' alt='Syria's Foreign Minister Asaad Hassan al-Shaibani holds a press conference with Jordanian Foreign Minister",
-          "link": "https://www.jpost.com/middle-east/article-914347",
-          "publishedAt": "2026-11-09T16:22:50.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "Turkish Minute"
-      ],
-      "circles": [
-        "الملف التركي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-10 03:29",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 3,
-      "items": [
-        {
-          "source": "Turkish Minute",
-          "sourceId": "turkishminute",
-          "circle": "الملف التركي",
-          "title": "Syria prepares to join Turkey-Saudi-Pakistan defense pact: report",
-          "excerpt": "Syria is preparing to join a mutual defense pact with Turkey, Saudi Arabia and Pakistan as Riyadh seeks military support against Yemen’s Houthis, The Associated Press reported on Sunday, citing two Syrian officials. The officials described ",
-          "link": "https://turkishminute.com/2026/11/09/syria-prepares-to-join-turkey-saudi-pakistan-defense-pact-report/",
-          "publishedAt": "2026-11-09T15:37:55.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-10 03:29",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": -1,
-      "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -385,8 +376,8 @@
       ]
     },
     {
-      "id": "lebanon",
-      "label": "المسار اللبناني الموازي",
+      "id": "sdf",
+      "label": "ملف اندماج قسد",
       "verification": "مصدر واحد",
       "contested": false,
       "independentSources": 1,
@@ -396,26 +387,63 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-10 03:29",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 1,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": -1,
+      "score": 12,
       "items": [
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "إعادة افتتاح منفذ الدبوسية الحدودي بين سوريا ولبنان بعد إعادة تأهيله",
-          "excerpt": "افتتح منفذ الدبوسية الحدودي بين سوريا ولبنان، بعد الانتهاء من أعمال إعادة تأهيله، إثر تعرضه لقصف الاحتلال الإسرائيلي عام..",
-          "link": "https://www.syria.tv/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D9%86%D9%81%D8%B0-%D8%A7%D9%84%D8%AF%D8%A8%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%A3%D9%87%D9%8A%D9%84%D9%87",
-          "publishedAt": "2026-11-09T13:01:33.000Z",
+          "title": "الجيش السوري ينقل دبابات وآليات كانت بحوزة \"قسد\" إلى خارج الحسكة",
+          "excerpt": "نقل الجيش السوري دبابات وآليات عسكرية وذخائر من ريف القامشلي إلى خارج محافظة الحسكة، في ثالث دفعة من الأسلحة الثقيلة التي كانت بحوزة \"قسد\" المنحلة.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D9%86%D9%82%D9%84-%D8%AF%D8%A8%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%83%D8%A7%D9%86%D8%AA-%D8%A8%D8%AD%D9%88%D8%B2%D8%A9-%D9%82%D8%B3%D8%AF-%D8%A5%D9%84%D9%89-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
+          "publishedAt": "2026-11-10T18:47:14.000Z",
+          "files": [
+            "sdf",
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "The National"
+      ],
+      "circles": [
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Crucial Syria-Lebanon border crossing reopens after two years",
+          "excerpt": "A vital Lebanon-Syria border crossing has reopened after two years, with officials saying it could handle up to 10,000 passengers and 200 lorries a day.The Abboudieh-Dabbousieh crossing between northern Lebanon's Akkar region and Syria's Ho",
+          "link": "https://www.thenationalnews.com/news/mena/2026/11/10/crucial-syria-lebanon-border-crossing-reopens-after-two-years/",
+          "publishedAt": "2026-11-10T13:55:22.000Z",
           "files": [
             "lebanon"
           ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": false
         }
       ]
