@@ -1,30 +1,138 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-11T10:46:52.790Z",
+    "generatedAt": "2026-11-11T18:07:18.561Z",
     "windowHours": 24,
-    "from": "2026-11-10T10:46:52.790Z",
-    "to": "2026-11-11T10:46:52.790Z"
+    "from": "2026-11-10T18:07:18.561Z",
+    "to": "2026-11-11T18:07:18.561Z"
   },
   "counts": {
-    "total": 29,
+    "total": 36,
     "byCircle": {
-      "المصادر الرسمية السورية": 5,
-      "الإعلام السوري المستقل": 18,
-      "الإعلام المتخصص": 3,
-      "مراكز الفكر": 1,
-      "الملف الإسرائيلي والتركي": 2
+      "الإعلام السوري المستقل": 22,
+      "المصادر الرسمية السورية": 9,
+      "الملف الإسرائيلي والتركي": 2,
+      "الإعلام المتخصص": 2,
+      "مراكز الفكر": 1
     },
     "bySource": {
-      "سانا — قسم السياسة": 5,
-      "تلفزيون سوريا": 13,
+      "تلفزيون سوريا": 17,
+      "سانا — قسم السياسة": 9,
+      "Jerusalem Post — الشرق الأوسط": 2,
       "North Press Agency (English)": 5,
-      "The National": 3,
-      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "Jerusalem Post — الشرق الأوسط": 2
+      "The National": 2,
+      "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "إدانات صحفية عربية ولبنانية لإطلاق الاحتلال النار على إعلاميين في القنيطرة",
+      "excerpt": "دان الاتحاد العام للصحفيين العرب ونقابة محرري الصحافة اللبنانية، استهداف قوات الاحتلال الإسرائيلي لإعلاميين وصحفيين جنوبي سوريا",
+      "link": "https://www.syria.tv/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-11T17:55:05.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يستهدف بالمدفعية أطراف سد استراتيجي في القنيطرة",
+      "excerpt": "قوات الاحتلال الإسرائيلي تستهدف أطراف سد المنطرة الاستراتيجي في القنيطرة، الذي يزود 120 قرية بالمياه",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-11T17:41:02.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية أردنية لتعزيز التعاون في مواجهة التحديات البيئية",
+      "excerpt": "التقى وزير الإدارة المحلية والبيئة محمد عنجراني اليوم الأربعاء وزير البيئة الأردني ‏أيمن عبد الله سليمان على هامش أعمال مؤتمر قمة المناخ (‏COP31‌‏) المنعقد في ‏مدينة أنطاليا التركية، وبحث معه سبل تعزيز التعاون البيئي المشترك بين البلدين.‏",
+      "link": "https://sana.sy/syria-and-the-world/2632683/",
+      "publishedAt": "2026-11-11T17:31:16.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "نقابة محرري الصحافة اللبنانية تدين استهداف الاحتلال الإسرائيلي إعلاميين في ‏القنيطرة",
+      "excerpt": "أدانت نقابة محرري الصحافة اللبنانية اليوم الأربعاء إطلاق قوات الاحتلال الإسرائيلي ‏النار على كوادر إعلامية ‌‏ميدانية في ريف محافظة القنيطرة، ‏أثناء أدائها مهامها ‏الصحفية في الـ 9 من الشهر الجاري، مؤكدة تضامنها مع الإعلاميين في سوريا.‏",
+      "link": "https://sana.sy/syria-and-the-world/2632475/",
+      "publishedAt": "2026-11-11T15:43:38.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "توم براك: سوريا أبرمت نوعا جديدا من اتفاقيات التعاون الدفاع مع السعودية",
+      "excerpt": "تحدّث المبعوث الأميركي الخاص إلى سوريا والعراق، توم براك، عن اتفاقية دفاعية من نوع جديد بين دمشق والرياض",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D9%85-%D8%A8%D8%B1%D8%A7%D9%83-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D8%A8%D8%B1%D9%85%D8%AA-%D9%86%D9%88%D8%B9%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%85%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "publishedAt": "2026-11-11T15:27:28.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Can Kurdish leaders, US envoy help end Kurdistan Regional Government crisis?",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3530,w_5306/734529' alt='US Special Envoy for Syria and Ambassador to Turkey Tom Barrack speaks during a session at Antalya Diploma",
+      "link": "https://www.jpost.com/middle-east/article-914588",
+      "publishedAt": "2026-11-11T15:04:07.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "السيدة لطيفة الدروبي تشارك في اجتماع دولي لبحث مبادرة &#8220;صفر نفايات&#8221; ‏",
+      "excerpt": "شاركت عقيلة الرئيس أحمد الشرع، السيدة لطيفة الدروبي اليوم الأربعاء، في اجتماع طاولة مستديرة ‏استضافته السيدة أمينة أردوغان عقيلة الرئيس التركي رجب طيب أردوغان.",
+      "link": "https://sana.sy/syria-and-the-world/2632408/",
+      "publishedAt": "2026-11-11T13:53:49.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "نقل تصوير مسلسل \"الرحمة\" من دمشق إلى إسطنبول.. ما السبب؟",
+      "excerpt": "انطلقت عمليات تصوير النسخة العربية من المسلسل التركي الشهير \"الرحمة\" (Merhamet) في مدينة إسطنبول، بمشاركة مجموعة من أبرز نجوم الدراما العربية..",
+      "link": "https://www.syria.tv/%D9%86%D9%82%D9%84-%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D8%A9-%D9%85%D9%86-%D8%AF%D9%85%D8%B4%D9%82-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D8%A8%D8%A8%D8%9F",
+      "publishedAt": "2026-11-11T12:41:50.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "اتحاد الصحفيين العرب يُدين استهداف الاحتلال إعلاميين في القنيطرة ويطالب بتحقيق دولي",
+      "excerpt": "أدان الاتحاد العام للصحفيين العرب إطلاق قوات الاحتلال الإسرائيلي النار على كوادر إعلامية ‌‏ميدانية في ريف محافظة القنيطرة، ‏أثناء أدائها مهامها الصحفية في الـ 9 من الشهر الجاري، مطالباً ‌‏بفتح تحقيق دولي للكشف عن ملابسات هذه الجريمة النكراء",
+      "link": "https://sana.sy/syria-and-the-world/2632322/",
+      "publishedAt": "2026-11-11T12:34:18.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "أسوشيتد برس: الاحتلال الإسرائيلي احتجز 49 سورياً منذ سقوط النظام المخلوع",
+      "excerpt": "كشف مسؤولون سوريون ومحققون مدعومون من الأمم المتحدة أن الاحتلال الإسرائيلي احتجز 49 سورياً منذ كانون الأول 2024، وأفرج عن..",
+      "link": "https://www.syria.tv/%D8%A3%D8%B3%D9%88%D8%B4%D9%8A%D8%AA%D8%AF-%D8%A8%D8%B1%D8%B3-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D8%AD%D8%AA%D8%AC%D8%B2-49-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D9%8B-%D9%85%D9%86%D8%B0-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9",
+      "publishedAt": "2026-11-11T12:16:02.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces intercept olive harvest workers in Syria’s Quneitra",
+      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Wednesday entered the village of Rafid in the southern countryside of Quneitra, southern Syria, intercepting workers heading to olive groves to harvest their crops. Local sources told North ",
+      "link": "https://npasyria.com/en/143668/",
+      "publishedAt": "2026-11-11T11:11:36.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "US envoy Tom Barrack says Iraq offers bridge over US and Iran conflict",
+      "excerpt": "Tom Barrack, the US envoy to Iraq and Syria, has said Baghdad can act as a bridge that overcomes Washington's blockade on Iran. “You don't have to be an adversary to Iran,” he told an audience at the Chatham House Iraq Initiative in London.",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/11/us-envoy-tom-barrack-says-iraq-offers-a-bridge-over-us-and-iran-conflict/",
+      "publishedAt": "2026-11-11T11:06:42.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -240,51 +348,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – Israeli forces shelled the outskirts of Beit Jinn in western Damascus countryside with two artillery rounds on Tuesday, while troops entered Jamlah village in Daraa Governorate and carried out extensive searc",
       "link": "https://npasyria.com/en/143641/",
       "publishedAt": "2026-11-10T18:13:46.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "King of Bahrain meets Saudi Crown Prince on visit to Riyadh",
-      "excerpt": "Bahrain's King Hamad met Saudi Arabia's Crown Prince Mohammed bin Salman on a visit to Riyadh on Tuesday. Prince Mohammed greeted the Bahraini ruler at King Khalid International Airport, the scene of recent Houthi attacks on Saudi Arabia. D",
-      "link": "https://www.thenationalnews.com/news/gulf/2026/11/11/king-of-bahrain-meets-saudi-crown-prince-on-visit-to-riyadh/",
-      "publishedAt": "2026-11-10T16:56:06.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Rubio Says U.S. has no need for major military operations against Iran",
-      "excerpt": "QAMISHLI, Syria (North Press) – U.S. Secretary of State Marco Rubio said on Tuesday that Washington does not need to launch major military operations against Iran, arguing that economic sanctions and a naval blockade are achieving their obj",
-      "link": "https://npasyria.com/en/143634/",
-      "publishedAt": "2026-11-10T16:44:27.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال الإسرائيلي يقصف أطراف بيت جن في ريف دمشق",
-      "excerpt": "استهدف قصف مدفعي إسرائيلي منطقة جورة اللوز على أطراف بلدة بيت جن في ريف دمشق الغربي، بحسب مراسل تلفزيون سوريا.",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
-      "publishedAt": "2026-11-10T16:21:56.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Crucial Syria-Lebanon border crossing reopens after two years",
-      "excerpt": "A vital Lebanon-Syria border crossing has reopened after two years, with officials saying it could handle up to 10,000 passengers and 200 lorries a day.The Abboudieh-Dabbousieh crossing between northern Lebanon's Akkar region and Syria's Ho",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/crucial-syria-lebanon-border-crossing-reopens-after-two-years/",
-      "publishedAt": "2026-11-10T13:55:22.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Tensions flare between Hamas, Fatah less than a month after Palestinian unity talks",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3946,w_5919/735818' alt='A man drives a tuk-tuk past portraits of late Palestinian President Yasser Arafat (C) and former Fatah sec",
-      "link": "https://www.jpost.com/middle-east/article-914453",
-      "publishedAt": "2026-11-10T12:59:43.000Z"
     }
   ]
 }
