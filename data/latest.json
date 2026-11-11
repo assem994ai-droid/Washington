@@ -1,18 +1,18 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-10T23:45:51.764Z",
+    "generatedAt": "2026-11-11T03:06:45.349Z",
     "windowHours": 24,
-    "from": "2026-11-09T23:45:51.764Z",
-    "to": "2026-11-10T23:45:51.764Z"
+    "from": "2026-11-10T03:06:45.349Z",
+    "to": "2026-11-11T03:06:45.349Z"
   },
   "counts": {
-    "total": 26,
+    "total": 25,
     "byCircle": {
       "المصادر الرسمية السورية": 3,
       "مراكز الفكر": 1,
       "الإعلام السوري المستقل": 17,
       "الملف الإسرائيلي والتركي": 2,
-      "الإعلام المتخصص": 3
+      "الإعلام المتخصص": 2
     },
     "bySource": {
       "سانا — قسم السياسة": 3,
@@ -20,7 +20,7 @@
       "تلفزيون سوريا": 11,
       "Jerusalem Post — الشرق الأوسط": 2,
       "North Press Agency (English)": 6,
-      "The National": 3
+      "The National": 2
     }
   },
   "errors": [],
@@ -249,15 +249,6 @@
       "excerpt": "لا يزال ملف المختطفين السوريين لدى إسرائيل أحد أبرز الملفات العالقة بين دمشق وتل أبيب، في ظل استمرار التوغلات الإسرائيلية في الجنوب السوري،",
       "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D8%B5%D9%8A%D8%B1-%D9%82%D8%B6%D9%8A%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9%D8%9F",
       "publishedAt": "2026-11-10T03:09:46.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Jordan's ties with Syria at all-time high, says Former Jordanian PM",
-      "excerpt": "Jordan's relations with Syria are at a 30-year high point, former Jordanian prime minister Bisher Al Khasawneh told The National on Monday, two weeks after the kingdom carried out air strikes that killed at least seven people in southern Sy",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/jordans-ties-with-syria-at-all-time-high-despite-attacks-says-ex-prime-minister/",
-      "publishedAt": "2026-11-10T03:00:00.000Z"
     }
   ]
 }
