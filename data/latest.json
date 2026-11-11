@@ -1,30 +1,129 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-11T03:06:45.349Z",
+    "generatedAt": "2026-11-11T10:46:52.790Z",
     "windowHours": 24,
-    "from": "2026-11-10T03:06:45.349Z",
-    "to": "2026-11-11T03:06:45.349Z"
+    "from": "2026-11-10T10:46:52.790Z",
+    "to": "2026-11-11T10:46:52.790Z"
   },
   "counts": {
-    "total": 25,
+    "total": 29,
     "byCircle": {
-      "المصادر الرسمية السورية": 3,
+      "المصادر الرسمية السورية": 5,
+      "الإعلام السوري المستقل": 18,
+      "الإعلام المتخصص": 3,
       "مراكز الفكر": 1,
-      "الإعلام السوري المستقل": 17,
-      "الملف الإسرائيلي والتركي": 2,
-      "الإعلام المتخصص": 2
+      "الملف الإسرائيلي والتركي": 2
     },
     "bySource": {
-      "سانا — قسم السياسة": 3,
+      "سانا — قسم السياسة": 5,
+      "تلفزيون سوريا": 13,
+      "North Press Agency (English)": 5,
+      "The National": 3,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "تلفزيون سوريا": 11,
-      "Jerusalem Post — الشرق الأوسط": 2,
-      "North Press Agency (English)": 6,
-      "The National": 2
+      "Jerusalem Post — الشرق الأوسط": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "علبي: سوريا اختارت نهج الدبلوماسية وخفض التصعيد مع التمسك بحقوقها المشروعة",
+      "excerpt": "‏أكّد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن سوريا اختارت نهج الاستقرار والدبلوماسية ‏مع التمسك، في الوقت نفسه، بالحقوق الثابتة والمشروعة للشعب السوري.‏",
+      "link": "https://sana.sy/syria-and-the-world/2632198/",
+      "publishedAt": "2026-11-11T10:26:14.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "براك يشيد بالتنسيق السوري الأردني ويؤكد أهميته لأمن واستقرار الشرق الأوسط",
+      "excerpt": "أشاد المبعوث الرئاسي الأميركي الخاص إلى سوريا والعراق، توماس براك، بالتنسيق والتعاون بين سوريا والأردن، معتبراً أنهما يشكلان ركيزتين أساسيتين لأمن..",
+      "link": "https://www.syria.tv/%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A3%D9%87%D9%85%D9%8A%D8%AA%D9%87-%D9%84%D8%A3%D9%85%D9%86-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "publishedAt": "2026-11-11T10:06:42.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الرئيس أحمد الشرع يصل إلى أنطاليا للمشاركة في مؤتمر المناخ \"كوب 31\"",
+      "excerpt": "وصل الرئيس أحمد الشرع إلى مدينة أنطاليا التركية للمشاركة في مؤتمر الأمم المتحدة للمناخ \"كوب 31\"، الذي يناقش خفض الانبعاثات والتكيف مع تغير المناخ.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%A3%D9%86%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%83%D9%88%D8%A8-31",
+      "publishedAt": "2026-11-11T08:49:01.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مباحثات سورية أوروبية لتعزيز الأمن الغذائي وتطوير منظومة الحبوب والخبز",
+      "excerpt": "بحث وزير الصناعة والتجارة الداخلية وحماية المستهلك السوري، باسل عبد الحنان، مع بعثة الاتحاد الأوروبي، سبل دعم القطاعات المرتبطة بالأمن الغذائي وتعزيز..",
+      "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AD%D8%A8%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%AE%D8%A8%D8%B2",
+      "publishedAt": "2026-11-11T08:42:53.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الرئيس أحمد الشرع يصل إلى أنطاليا للمشاركة في مؤتمر ‏COP31‎",
+      "excerpt": "وصل الرئيس أحمد الشرع اليوم الأربعاء إلى مدينة أنطاليا التركية للمشاركة في أعمال الدورة الحادية والثلاثين لمؤتمر الأمم المتحدة ‌",
+      "link": "https://sana.sy/presidency/2632070/",
+      "publishedAt": "2026-11-11T08:26:06.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل غربي الرفيد بريف القنيطرة ويمنع عمالاً من قطاف الزيتون",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي بعدة عربات عسكرية غربي بلدة الرفيد في القنيطرة، وفتشت عمال قطاف الزيتون ومنعتهم من مواصلة العمل والوصول إلى أراضيهم.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%85%D9%86%D8%B9-%D8%B9%D9%85%D8%A7%D9%84%D8%A7%D9%8B-%D9%85%D9%86-%D9%82%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86",
+      "publishedAt": "2026-11-11T07:57:02.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "العلبي يؤكد التزام سوريا باتفاق 1974 ويدعو المجتمع الدولي لوقف انتهاكات الاحتلال",
+      "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم العلبي أن سوريا متمسكة باتفاق فض الاشتباك لعام 1974، ولن تتنازل عن حقوق شعبها المشروعة أو حقوقها..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D9%84%D8%A8%D9%8A-%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%A7%D8%AA%D9%81%D8%A7%D9%82-1974-%D9%88%D9%8A%D8%AF%D8%B9%D9%88-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%88%D9%82%D9%81-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84",
+      "publishedAt": "2026-11-11T07:51:00.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Barrack hails Jordan-Syria coordination as step toward regional stability",
+      "excerpt": "DAMASCUS, Syria (North Press) – U.S. Special Envoy for Syria and Iraq Tom Barrack late on Tuesday described recent coordination between Jordan and Syria as an important step toward strengthening regional alliances and reinforcing the princi",
+      "link": "https://npasyria.com/en/143655/",
+      "publishedAt": "2026-11-11T07:27:40.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Canadian court finds woman guilty of joining ISIS in Syria",
+      "excerpt": "QAMISHLI, Syria (North Press) – A Canadian woman who spent four years with the Islamic State group (ISIS) in Syria and married two of the group’s militants was found guilty on Tuesday of participating in a terrorist organization by a jury i",
+      "link": "https://npasyria.com/en/143652/",
+      "publishedAt": "2026-11-11T06:31:55.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "UAE ship attack, Israel’s new parliament and the next US ambassador to the UAE",
+      "excerpt": "In today's episode of Trending Middle East, an Emirati ship was attacked and damaged in UAE waters on Tuesday. This is the latest in a string of attacks on commercial shipping.Israel’s new parliament was sworn in on Tuesday, with opponents ",
+      "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/11/uae-ship-attack-israels-new-parliament-and-the-next-us-ambassador-to-the-uae/",
+      "publishedAt": "2026-11-11T05:34:05.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا وواشنطن.. من انتظار المواقف إلى بناء الشراكة",
+      "excerpt": "لو كان القرار الأميركي في بداية تحرير سوريا بيد إدارة ديمقراطية، كما كان عليه الحال خلال إدارتي باراك أوباما وجو بايدن، لربما كنا اليوم أمام مشهد مختلف تماماً..",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D9%86-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%A5%D9%84%D9%89-%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9",
+      "publishedAt": "2026-11-11T03:32:12.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -148,7 +247,7 @@
       "circle": "الإعلام المتخصص",
       "title": "King of Bahrain meets Saudi Crown Prince on visit to Riyadh",
       "excerpt": "Bahrain's King Hamad met Saudi Arabia's Crown Prince Mohammed bin Salman on a visit to Riyadh on Tuesday. Prince Mohammed greeted the Bahraini ruler at King Khalid International Airport, the scene of recent Houthi attacks on Saudi Arabia. D",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/king-of-bahrain-meets-saudi-crown-prince-on-visit-to-riyadh/",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/11/11/king-of-bahrain-meets-saudi-crown-prince-on-visit-to-riyadh/",
       "publishedAt": "2026-11-10T16:56:06.000Z"
     },
     {
@@ -186,69 +285,6 @@
       "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3946,w_5919/735818' alt='A man drives a tuk-tuk past portraits of late Palestinian President Yasser Arafat (C) and former Fatah sec",
       "link": "https://www.jpost.com/middle-east/article-914453",
       "publishedAt": "2026-11-10T12:59:43.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli forces set up checkpoint in Syria&#8217;s Quneitra, detain resident",
-      "excerpt": "QUNEITRA, Syria (North Press) – An Israeli military force consisting of five vehicles on Tuesday entered northern countryside of Quneitra, southern Syria, and set up an inspection checkpoint. Local sources told North Press Israeli forces ch",
-      "link": "https://npasyria.com/en/143624/",
-      "publishedAt": "2026-11-10T09:52:55.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال الإسرائيلي ينصب حاجزاً ويفتش منازل في ريف القنيطرة",
-      "excerpt": "توغلت قوة للاحتلال الإسرائيلي مؤلفة من 6 عربات عسكرية في بلدة جباتا الخشب بريف القنيطرة، حيث نصبت حاجزاً لتفتيش المارة وداهمت عدداً من المنازل المحيطة.",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7%D9%8B-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-      "publishedAt": "2026-11-10T08:31:37.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "جولة استطلاعية جديدة.. متى تعود الرحلات المباشرة بين القاهرة ودمشق؟",
-      "excerpt": "جولة جديدة لـ\"إير كايرو\" في مطار دمشق تعيد ملف الرحلات المباشرة مع القاهرة إلى الواجهة، بعد أشهر من المباحثات والزيارات الفنية والتشغيلية.",
-      "link": "https://www.syria.tv/%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D8%AA%D9%89-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D9%88%D8%AF%D9%85%D8%B4%D9%82%D8%9F",
-      "publishedAt": "2026-11-10T07:54:28.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Saudi Arabia air defenses intercept three Iran-backed Houthi missiles",
-      "excerpt": "DAMASCUS, Syria (North Press) – Saudi Arabia said on Tuesday that its air defenses intercepted and destroyed three missiles launched by Yemen’s Iran-backed Houthi group toward Riyadh and the kingdom’s southern region. Saudi Defense Ministry",
-      "link": "https://npasyria.com/en/143618/",
-      "publishedAt": "2026-11-10T06:42:07.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "U.S. moves aircraft from second British air base after Iran threat",
-      "excerpt": "QAMISHLI, Syria (North Press) – The U.S. military evacuated aircraft from a second air base in Britain on Monday following a reported threat from Iran, the Wall Street Journal reported, citing people familiar with the matter. Two U.S. refue",
-      "link": "https://npasyria.com/en/143615/",
-      "publishedAt": "2026-11-10T06:20:31.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "\"الملف السوري\" بين آيزنكوت ونتنياهو",
-      "excerpt": "تلقي نتائج الانتخابات الإسرائيلية غير الحاسمة بظلال ثقيلة على مستقبل صنع القرار السياسي والاستراتيجي في إسرائيل، لتضع الملف السوري عند مفترق طرق بالغ الحساسية.",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%88%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
-      "publishedAt": "2026-11-10T03:12:25.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "المختطفون السوريون لدى الاحتلال.. ما مصير قضيتهم في المفاوضات الأمنية؟",
-      "excerpt": "لا يزال ملف المختطفين السوريين لدى إسرائيل أحد أبرز الملفات العالقة بين دمشق وتل أبيب، في ظل استمرار التوغلات الإسرائيلية في الجنوب السوري،",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7-%D9%85%D8%B5%D9%8A%D8%B1-%D9%82%D8%B6%D9%8A%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9%D8%9F",
-      "publishedAt": "2026-11-10T03:09:46.000Z"
     }
   ]
 }
