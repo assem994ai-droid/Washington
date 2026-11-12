@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-12T16:19:10.164Z",
+    "generatedAt": "2026-11-12T22:17:54.695Z",
     "windowHours": 24,
-    "from": "2026-11-11T16:19:10.164Z",
-    "to": "2026-11-12T16:19:10.164Z"
+    "from": "2026-11-11T22:17:54.695Z",
+    "to": "2026-11-12T22:17:54.695Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
     "items": 22,
-    "files": 5,
-    "withNew": 5,
-    "stale": 0,
-    "contested": 1,
+    "files": 6,
+    "withNew": 4,
+    "stale": 2,
+    "contested": 0,
     "echoed": 0,
-    "americanItems": 3,
-    "archiveCycles": 1370
+    "americanItems": 2,
+    "archiveCycles": 1371
   },
   "emptyCircles": [
     "الكونغرس",
@@ -27,155 +27,70 @@
   "errors": [],
   "files": [
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 5,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "The National",
-        "تلفزيون سوريا",
-        "Ynet News (English)",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الملف الإسرائيلي"
-      ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 6,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 53,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "French warship makes first-ever call at Syrian port as Paris and Damascus deepen military ties",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/746140' alt='The French Navy’s defense and intervention frigate (FDI) Amiral Louzeau during its launching ceremony at t",
-          "link": "https://www.jpost.com/middle-east/article-914730",
-          "publishedAt": "2026-11-12T15:59:59.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Iraqi ex-MP's final movements revealed: Syrians, a Range Rover and a Beirut murder mystery",
-          "excerpt": "An Iraqi politician was escorted from a Beirut hotel by a mysterious group of Syrians in a Range Rover before being found dead in an apartment, it emerged on Thursday.Ahmed Al Alwani's last movements before his disappearance and killing wer",
-          "link": "https://www.thenationalnews.com/news/mena/2026/11/12/ahmed-al-alwani-beirut-killing-mystery/",
-          "publishedAt": "2026-11-12T13:12:15.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Mosque warned by UK charity regulator over 'inflammatory' sermons",
-          "excerpt": "A London mosque has been given a warning by the UK's charity regulator for hosting two “inflammatory” and “divisive” sermons.The Lewisham Islamic Centre, in the south-east of the city, has been told by the Charity Commission that it must im",
-          "link": "https://www.thenationalnews.com/news/uk/2026/11/12/mosque-warned-by-uk-charity-regulator-over-inflammatory-sermons/",
-          "publishedAt": "2026-11-12T12:52:31.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أرشيفات |قصف دمشق 1945.. أزمة القمح ورسالة من تشرشل وشرط عنصري لتدخل أميركي",
-          "excerpt": "في أواخر شهر أيار/مايو من عام 1945، بلغت الأزمة السورية-الفرنسية ذروتها الدموية.",
-          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%B4%D9%8A%D9%81%D8%A7%D8%AA-%D9%82%D8%B5%D9%81-%D8%AF%D9%85%D8%B4%D9%82-1945-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%82%D9%85%D8%AD-%D9%88%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%85%D9%86-%D8%AA%D8%B4%D8%B1%D8%B4%D9%84-%D9%88%D8%B4%D8%B1%D8%B7-%D8%B9%D9%86%D8%B5%D8%B1%D9%8A-%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
-          "publishedAt": "2026-11-12T08:12:19.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Palestinians say Hamas Khan Younis commander killed in Nasser Hospital strike",
-          "excerpt": "IDF has yet to confirm Khaled Abu Anza was killed; security officials say a drone fired 2-3 missiles at Hamas targets including an interrogation and torture facility inside the hospital, where MSF previously suspended operations over armed ",
-          "link": "https://www.ynetnews.com/article/sktgf17azg",
-          "publishedAt": "2026-11-12T07:09:47.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "خسارة ترمب ليست إيجابية للجميع.. سوريا نموذجا",
-          "excerpt": "احتفل العالم العربي والإسلامي عمومًا بهزيمة نتنياهو في الانتخابات الإسرائيلية، كما بهزيمة ترمب في الانتخابات الأميركية، على اعتبار أن المرحلة الماضية كانت..",
-          "link": "https://www.syria.tv/%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D9%85%D8%A8-%D9%84%D9%8A%D8%B3%D8%AA-%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%86%D9%85%D9%88%D8%B0%D8%AC%D8%A7",
-          "publishedAt": "2026-11-12T03:27:33.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Trump social media guru accused of taking $500K in Qatar-linked payments",
-          "excerpt": "Former partner alleges Trump adviser Alex Bruesewitz, 29, who oversees key political social media accounts, received $500,000 from Qatar-linked figures and a lavish honeymoon funded by Syrian billionaires; Bruesewitz denies claims",
-          "link": "https://www.ynetnews.com/article/s166y8g0fx",
-          "publishedAt": "2026-11-11T20:44:56.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Nechirvan Barzani urges constitutional guarantees for Syria’s Kurds",
-          "excerpt": "QAMISHLI, Syria (North Press) – Kurdistan Region President Nechirvan Barzani on Wednesday stressed the need to guarantee the rights of Kurds in Syria&#8217;s future constitution during a meeting with Syrian Transitional President Ahmad al-S",
-          "link": "https://npasyria.com/en/143680/",
-          "publishedAt": "2026-11-11T19:21:15.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
-        "Al-Monitor",
         "North Press Agency (English)",
         "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
         "التقارير الرسمية الدورية"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 4,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 40,
+      "score": 33,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "القنيطرة.. شتاء بلا دفء وأهالٍ يحرقون ملابسهم لمواجهة الصقيع",
+          "excerpt": "في حين بدأت الحكومة السورية توزيع مازوت التدفئة المدعوم في ثلاث محافظات، ينتظر سكان القنيطرة دورهم في الحصول على الوقود، وسط مخاوف من شتاء قاسٍ لا يملكون ...",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B4%D8%AA%D8%A7%D8%A1-%D8%A8%D9%84%D8%A7-%D8%AF%D9%81%D8%A1-%D9%88%D8%A3%D9%87%D8%A7%D9%84%D9%8D-%D9%8A%D8%AD%D8%B1%D9%82%D9%88%D9%86-%D9%85%D9%84%D8%A7%D8%A8%D8%B3%D9%87%D9%85-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B5%D9%82%D9%8A%D8%B9",
+          "publishedAt": "2026-11-12T20:12:03.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مراسل تلفزيون سوريا: الاحتلال الإسرائيلي ينصب حاجزاً ويفتش المارة في القنيطرة",
+          "excerpt": "الاحتلال الإسرائيلي ينصب حاجزاً عسكرياً على طريق عين البيضة وجباتا الخشب بريف القنيطرة الشمالي، ويفتش المارة في تحرك جديد بالمنطقة.",
+          "link": "https://www.syria.tv/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7%D9%8B-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-12T18:43:07.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تصاعد الانتهاكات الإسرائيلية.. قصف مدفعي وتوغلات في القنيطرة ودرعا",
+          "excerpt": "شهدت محافظتا القنيطرة ودرعا، مساء الخميس، تصعيداً ميدانياً تمثّل بقصف مدفعي إسرائيلي وتوغلات عسكرية في عدد من المناطق، بالتزامن مع تحليق طائرات مسيّرة وحربية",
+          "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-11-12T18:05:02.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -187,21 +102,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli strike on Gaza hospital deadliest since election",
-          "excerpt": "<p>Israeli fire killed 10 people in Gaza Thursday, six of whom died in the bombing of Nasser hospital in south Gaza early in the day, health officials said, the deadliest single strike since Israel's elections last month.</p> <p>The Israeli",
-          "link": "https://www.al-monitor.com/originals/2026/11/israeli-strike-gaza-hospital-deadliest-election",
-          "publishedAt": "2026-11-12T11:30:22.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -215,7 +116,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -229,7 +130,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -259,19 +160,82 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 5,
+      "sources": [
+        "سانا — قسم السياسة",
+        "Jerusalem Post — الشرق الأوسط",
+        "The National",
+        "تلفزيون سوريا",
+        "Ynet News (English)"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي والتركي",
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "الملف الإسرائيلي"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 26,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "عنجراني يبحث مع المفوضية السامية تعزيز العودة الطوعية للنازحين واللاجئين السوريين",
+          "excerpt": "بحث وزير الإدارة المحلية والبيئة محمد عنجراني، اليوم الخميس، مع وفد المفوضية السامية للأمم المتحدة لشؤون ‏اللاجئين (‏UNHCR‏)، برئاسة أنطون ليس غارسيا مساعد المفوض السامي لشؤون العمليات، سبل تعزيز مقومات ‏العودة الطوعية والمستدامة للنازحين و",
+          "link": "https://sana.sy/politics/2633872/",
+          "publishedAt": "2026-11-12T19:58:36.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
         },
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إدانات صحفية عربية ولبنانية لإطلاق الاحتلال النار على إعلاميين في القنيطرة",
-          "excerpt": "دان الاتحاد العام للصحفيين العرب ونقابة محرري الصحافة اللبنانية، استهداف قوات الاحتلال الإسرائيلي لإعلاميين وصحفيين جنوبي سوريا",
-          "link": "https://www.syria.tv/%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-11T17:55:05.000Z",
-          "files": [
-            "israel",
-            "lebanon"
-          ],
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "French warship makes first-ever call at Syrian port as Paris and Damascus deepen military ties",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/746140' alt='The French Navy’s defense and intervention frigate (FDI) Amiral Louzeau during its launching ceremony at t",
+          "link": "https://www.jpost.com/middle-east/article-914730",
+          "publishedAt": "2026-11-12T15:59:59.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Iraqi ex-MP's final movements revealed: Syrians, a Range Rover and a Beirut murder mystery",
+          "excerpt": "An Iraqi politician was escorted from a Beirut hotel by a mysterious group of Syrians in a Range Rover before being found dead in an apartment, it emerged on Thursday.Ahmed Al Alwani's last movements before his disappearance and killing wer",
+          "link": "https://www.thenationalnews.com/news/mena/2026/11/12/ahmed-al-alwani-beirut-killing-mystery/",
+          "publishedAt": "2026-11-12T13:12:15.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Mosque warned by UK charity regulator over 'inflammatory' sermons",
+          "excerpt": "A London mosque has been given a warning by the UK's charity regulator for hosting two “inflammatory” and “divisive” sermons.The Lewisham Islamic Centre, in the south-east of the city, has been told by the Charity Commission that it must im",
+          "link": "https://www.thenationalnews.com/news/uk/2026/11/12/mosque-warned-by-uk-charity-regulator-over-inflammatory-sermons/",
+          "publishedAt": "2026-11-12T12:52:31.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         },
@@ -279,27 +243,49 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يختطف شابا ويقصف أطراف سد المنطرة في القنيطرة",
-          "excerpt": "قوات الاحتلال الإسرائيلي تستهدف أطراف سد المنطرة الاستراتيجي في القنيطرة، الذي يزود 120 قرية بالمياه",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AE%D8%AA%D8%B7%D9%81-%D8%B4%D8%A7%D8%A8%D8%A7-%D9%88%D9%8A%D9%82%D8%B5%D9%81-%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%B3%D8%AF-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-11T17:41:02.000Z",
-          "files": [
-            "israel"
-          ],
+          "title": "أرشيفات |قصف دمشق 1945.. أزمة القمح ورسالة من تشرشل وشرط عنصري لتدخل أميركي",
+          "excerpt": "في أواخر شهر أيار/مايو من عام 1945، بلغت الأزمة السورية-الفرنسية ذروتها الدموية.",
+          "link": "https://www.syria.tv/%D8%A3%D8%B1%D8%B4%D9%8A%D9%81%D8%A7%D8%AA-%D9%82%D8%B5%D9%81-%D8%AF%D9%85%D8%B4%D9%82-1945-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D9%82%D9%85%D8%AD-%D9%88%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%85%D9%86-%D8%AA%D8%B4%D8%B1%D8%B4%D9%84-%D9%88%D8%B4%D8%B1%D8%B7-%D8%B9%D9%86%D8%B5%D8%B1%D9%8A-%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A",
+          "publishedAt": "2026-11-12T08:12:19.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Palestinians say Hamas Khan Younis commander killed in Nasser Hospital strike",
+          "excerpt": "IDF has yet to confirm Khaled Abu Anza was killed; security officials say a drone fired 2-3 missiles at Hamas targets including an interrogation and torture facility inside the hospital, where MSF previously suspended operations over armed ",
+          "link": "https://www.ynetnews.com/article/sktgf17azg",
+          "publishedAt": "2026-11-12T07:09:47.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "خسارة ترمب ليست إيجابية للجميع.. سوريا نموذجا",
+          "excerpt": "احتفل العالم العربي والإسلامي عمومًا بهزيمة نتنياهو في الانتخابات الإسرائيلية، كما بهزيمة ترمب في الانتخابات الأميركية، على اعتبار أن المرحلة الماضية كانت..",
+          "link": "https://www.syria.tv/%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D9%85%D8%A8-%D9%84%D9%8A%D8%B3%D8%AA-%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%86%D9%85%D9%88%D8%B0%D8%AC%D8%A7",
+          "publishedAt": "2026-11-12T03:27:33.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         }
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
+      "id": "turkey",
+      "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 2,
       "sources": [
         "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "تلفزيون سوريا"
       ],
       "circles": [
         "المصادر الرسمية السورية",
@@ -310,9 +296,76 @@
       "newItems": 2,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 21,
+      "usItems": 0,
+      "score": 20,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "وزارة الدفاع تعزّي تركيا بضحايا تحطم مروحية عسكرية في ملاطية",
+          "excerpt": "افتتح محافظ حلب عزام الغريب ومعاون وزير الداخلية للشؤون المدنية عبد الله الطحلي اليوم الخميس المقر الجديد لدائرة الأحوال المدنية في مدينة منبج بريف حلب الشرقي، بطاقة استيعابية تتجاوز 600 مراجع يومياً، بهدف تحسين الخدمات، وتسهيل إنجاز معاملا",
+          "link": "https://sana.sy/politics/2633759/",
+          "publishedAt": "2026-11-12T18:40:58.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "45 شركة سورية وتركية تجتمع في دمشق.. انطلاق معرض دولي لصناعة النسيج",
+          "excerpt": "انطلاق معرض TAFMEX SYRIA 2026 في دمشق بمشاركة 45 شركة سورية وتركية، لعرض منتجات النسيج والأقمشة وآلات التصنيع ومستلزمات الإنتاج",
+          "link": "https://www.syria.tv/45-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AC%D8%AA%D9%85%D8%B9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC",
+          "publishedAt": "2026-11-12T18:04:31.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 19,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "على هامش مؤتمر المناخ.. مباحثات سورية أممية بشأن عودة اللاجئين والنازحين",
+          "excerpt": "بحث وزير الإدارة المحلية السوري محمد عنجراني مع المفوضية الأممية لشؤون اللاجئين سبل تعزيز العودة الطوعية والمستدامة للنازحين واللاجئين السوريين",
+          "link": "https://www.syria.tv/%D8%B9%D9%84%D9%89-%D9%87%D8%A7%D9%85%D8%B4-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D9%85%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86",
+          "publishedAt": "2026-11-12T21:39:13.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -324,7 +377,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -338,36 +391,8 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية صومالية لتطوير العلاقات الثنائية وتعزيز التنسيق ‏",
-          "excerpt": "التقى مستشار الشؤون العربية في وزارة الخارجية والمغتربين محمد طه الأحمد اليوم الأربعاء، ‏سفير جمهورية الصومال الفيدرالية، أبيب موسى فارح في دمشق.‏",
-          "link": "https://sana.sy/politics/2632766/",
-          "publishedAt": "2026-11-11T18:52:13.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية أردنية لتعزيز التعاون في مواجهة التحديات البيئية",
-          "excerpt": "التقى وزير الإدارة المحلية والبيئة محمد عنجراني اليوم الأربعاء وزير البيئة الأردني ‏أيمن عبد الله سليمان على هامش أعمال مؤتمر قمة المناخ (‏COP31‌‏) المنعقد في ‏مدينة أنطاليا التركية، وبحث معه سبل تعزيز التعاون البيئي المشترك بين البلدين.‏",
-          "link": "https://sana.sy/syria-and-the-world/2632683/",
-          "publishedAt": "2026-11-11T17:31:16.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -383,13 +408,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-12 16:19",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 6,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -402,7 +427,7 @@
           "files": [
             "sanctions"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         }
       ]
@@ -419,13 +444,13 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-12 16:19",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": -1,
       "items": [
         {
           "source": "The National",
@@ -438,7 +463,7 @@
           "files": [
             "economy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
