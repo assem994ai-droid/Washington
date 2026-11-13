@@ -1,0 +1,190 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-13T10:03:21.372Z",
+    "windowHours": 24,
+    "from": "2026-11-12T10:03:21.372Z",
+    "to": "2026-11-13T10:03:21.372Z"
+  },
+  "counts": {
+    "total": 18,
+    "byCircle": {
+      "الإعلام السوري المستقل": 9,
+      "الإعلام المتخصص": 5,
+      "المصادر الرسمية السورية": 3,
+      "الملف الإسرائيلي والتركي": 1
+    },
+    "bySource": {
+      "تلفزيون سوريا": 8,
+      "The National": 4,
+      "Al-Monitor": 1,
+      "سانا — قسم السياسة": 3,
+      "Jerusalem Post — الشرق الأوسط": 1,
+      "North Press Agency (English)": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "وقفة احتجاجية في القنيطرة تطالب بالإفراج عن المختطفين لدى الاحتلال الإسرائيلي",
+      "excerpt": "صعّد الاحتلال الإسرائيلي من انتهاكاته في القنيطرة ودرعا، في حين نظم أهالي مختطفين وقفة احتجاجية أمام مركز \"أندوف\"",
+      "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
+      "publishedAt": "2026-11-13T09:27:32.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Trump calls Muslim Brotherhood 'more dangerous' than communism",
+      "excerpt": "US President Donald Trump has described the Muslim Brotherhood as “more dangerous\" than communism and said the Islamist movement had to be \"neutralised\".Washington moved to designate three Muslim Brotherhood chapters as terrorist organisati",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/13/trump-calls-muslim-brotherhood-more-dangerous-than-communism/",
+      "publishedAt": "2026-11-13T08:46:27.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "'Inside Gaza': Reporting a war when it hits home",
+      "excerpt": "<div class=\"align-center media media--type-image media--view-mode-newsletter\"> <div> <img loading=\"lazy\" src=\"/sites/default/files/styles/newsletter/public/2026-11/000_93m32gt.jpg?itok=WBVlXWf1\" width=\"870\" height=\"580\" alt=\"Around 200 jour",
+      "link": "https://www.al-monitor.com/originals/2026/11/inside-gaza-reporting-war-when-it-hits-home",
+      "publishedAt": "2026-11-13T02:30:33.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تشارك في نداء دولي لإدخال المساعدات وتوفير الرعاية الصحية في غزة",
+      "excerpt": "شارك مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، اليوم الجمعة، في وقفة صحفية بمقر المنظمة الدولية في ‏نيويورك، بمشاركة ممثلي 53 دولة، لإطلاق نداء دولي يدعو إلى تكثيف الجهود الرامية إلى إدخال المساعدات ‏الإنسانية وتوفير الرعاية الصحية",
+      "link": "https://sana.sy/syria-and-the-world/2634030/",
+      "publishedAt": "2026-11-13T00:23:45.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "على هامش مؤتمر المناخ.. مباحثات سورية أممية بشأن عودة اللاجئين والنازحين",
+      "excerpt": "بحث وزير الإدارة المحلية السوري محمد عنجراني مع المفوضية الأممية لشؤون اللاجئين سبل تعزيز العودة الطوعية والمستدامة للنازحين واللاجئين السوريين",
+      "link": "https://www.syria.tv/%D8%B9%D9%84%D9%89-%D9%87%D8%A7%D9%85%D8%B4-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D9%85%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86",
+      "publishedAt": "2026-11-12T21:39:13.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "القنيطرة.. شتاء بلا دفء وأهالٍ يحرقون ملابسهم لمواجهة الصقيع",
+      "excerpt": "في حين بدأت الحكومة السورية توزيع مازوت التدفئة المدعوم في ثلاث محافظات، ينتظر سكان القنيطرة دورهم في الحصول على الوقود، وسط مخاوف من شتاء قاسٍ لا يملكون ...",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B4%D8%AA%D8%A7%D8%A1-%D8%A8%D9%84%D8%A7-%D8%AF%D9%81%D8%A1-%D9%88%D8%A3%D9%87%D8%A7%D9%84%D9%8D-%D9%8A%D8%AD%D8%B1%D9%82%D9%88%D9%86-%D9%85%D9%84%D8%A7%D8%A8%D8%B3%D9%87%D9%85-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D8%B5%D9%82%D9%8A%D8%B9",
+      "publishedAt": "2026-11-12T20:12:03.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "عنجراني يبحث مع المفوضية السامية تعزيز العودة الطوعية للنازحين واللاجئين السوريين",
+      "excerpt": "بحث وزير الإدارة المحلية والبيئة محمد عنجراني، اليوم الخميس، مع وفد المفوضية السامية للأمم المتحدة لشؤون ‏اللاجئين (‏UNHCR‏)، برئاسة أنطون ليس غارسيا مساعد المفوض السامي لشؤون العمليات، سبل تعزيز مقومات ‏العودة الطوعية والمستدامة للنازحين و",
+      "link": "https://sana.sy/politics/2633872/",
+      "publishedAt": "2026-11-12T19:58:36.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مراسل تلفزيون سوريا: الاحتلال الإسرائيلي ينصب حاجزاً ويفتش المارة في القنيطرة",
+      "excerpt": "الاحتلال الإسرائيلي ينصب حاجزاً عسكرياً على طريق عين البيضة وجباتا الخشب بريف القنيطرة الشمالي، ويفتش المارة في تحرك جديد بالمنطقة.",
+      "link": "https://www.syria.tv/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7%D9%8B-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-12T18:43:07.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "وزارة الدفاع تعزّي تركيا بضحايا تحطم مروحية عسكرية في ملاطية",
+      "excerpt": "افتتح محافظ حلب عزام الغريب ومعاون وزير الداخلية للشؤون المدنية عبد الله الطحلي اليوم الخميس المقر الجديد لدائرة الأحوال المدنية في مدينة منبج بريف حلب الشرقي، بطاقة استيعابية تتجاوز 600 مراجع يومياً، بهدف تحسين الخدمات، وتسهيل إنجاز معاملا",
+      "link": "https://sana.sy/politics/2633759/",
+      "publishedAt": "2026-11-12T18:40:58.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تصاعد الانتهاكات الإسرائيلية.. قصف مدفعي وتوغلات في القنيطرة ودرعا",
+      "excerpt": "شهدت محافظتا القنيطرة ودرعا، مساء الخميس، تصعيداً ميدانياً تمثّل بقصف مدفعي إسرائيلي وتوغلات عسكرية في عدد من المناطق، بالتزامن مع تحليق طائرات مسيّرة وحربية",
+      "link": "https://www.syria.tv/%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%88%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-11-12T18:05:02.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "45 شركة سورية وتركية تجتمع في دمشق.. انطلاق معرض دولي لصناعة النسيج",
+      "excerpt": "انطلاق معرض TAFMEX SYRIA 2026 في دمشق بمشاركة 45 شركة سورية وتركية، لعرض منتجات النسيج والأقمشة وآلات التصنيع ومستلزمات الإنتاج",
+      "link": "https://www.syria.tv/45-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AC%D8%AA%D9%85%D8%B9-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%AC",
+      "publishedAt": "2026-11-12T18:04:31.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "French warship makes first-ever call at Syrian port as Paris and Damascus deepen military ties",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/746140' alt='The French Navy’s defense and intervention frigate (FDI) Amiral Louzeau during its launching ceremony at t",
+      "link": "https://www.jpost.com/middle-east/article-914730",
+      "publishedAt": "2026-11-12T15:59:59.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "EU seeks to expand investment ties with Syria through Damascus forum",
+      "excerpt": "The EU is aiming to bolster investment ties with Syria, at a major forum in Damascus next week, as part of a wider effort to help stabilise the country and curb the influence of Iran and Russia, allies of the former Assad regime.Europe is p",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/12/eu-seeks-to-expand-investment-ties-with-syria-through-damascus-forum/",
+      "publishedAt": "2026-11-12T13:39:37.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Iraqi ex-MP's final movements revealed: Syrians, a Range Rover and a Beirut murder mystery",
+      "excerpt": "An Iraqi politician was escorted from a Beirut hotel by a mysterious group of Syrians in a Range Rover before being found dead in an apartment, it emerged on Thursday.Ahmed Al Alwani's last movements before his disappearance and killing wer",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/12/ahmed-al-alwani-beirut-killing-mystery/",
+      "publishedAt": "2026-11-12T13:12:15.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Mosque warned by UK charity regulator over 'inflammatory' sermons",
+      "excerpt": "A London mosque has been given a warning by the UK's charity regulator for hosting two “inflammatory” and “divisive” sermons.The Lewisham Islamic Centre, in the south-east of the city, has been told by the Charity Commission that it must im",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/12/mosque-warned-by-uk-charity-regulator-over-inflammatory-sermons/",
+      "publishedAt": "2026-11-12T12:52:31.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "آيزنكوت والاتفاق الأمني مع دمشق.. شروط جديدة أم استمرار لسياسة نتنياهو؟",
+      "excerpt": "مع تكليف رئيس أركان الاحتلال الإسرائيلي الأسبق غادي آيزنكوت بتشكيل حكومة جديدة، تبرز مواقفه من الوجود العسكري الإسرائيلي في سوريا وشروط الاتفاق الأمني مع دمشق..",
+      "link": "https://www.syria.tv/%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D9%85%D8%B9-%D8%AF%D9%85%D8%B4%D9%82-%D8%B4%D8%B1%D9%88%D8%B7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88%D8%9F",
+      "publishedAt": "2026-11-12T12:31:06.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "بسبب هتافات مسيئة للحكام والفرق المنافسة.. اتحاد الكرة السوري يفرض عقوبات",
+      "excerpt": "فرض اتحاد كرة القدم السوري غرامات على أندية القامشلي وتشرين والوحدة، وأوقف مدير فريق الجيش أربع مباريات، مع عقوبات أخرى في فئتي الشباب والناشئين.",
+      "link": "https://www.syria.tv/%D8%A8%D8%B3%D8%A8%D8%A8-%D9%87%D8%AA%D8%A7%D9%81%D8%A7%D8%AA-%D9%85%D8%B3%D9%8A%D8%A6%D8%A9-%D9%84%D9%84%D8%AD%D9%83%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA",
+      "publishedAt": "2026-11-12T10:52:37.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "UN committee backs Syrian sovereignty over natural resources in Golan Heights",
+      "excerpt": "DAMASCUS, Syria (North Press) – Syria&#8217;s Permanent Representative to the United Nations, Ibrahim Olabi, on Thursday welcomed a decision, which was submitted by Uruguay on behalf of the Group of 77 and China. The UN General Assembly&#82",
+      "link": "https://npasyria.com/en/143686/",
+      "publishedAt": "2026-11-12T10:30:10.000Z"
+    }
+  ]
+}
