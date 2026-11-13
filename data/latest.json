@@ -1,32 +1,58 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-12T22:17:54.695Z",
+    "generatedAt": "2026-11-13T02:40:56.657Z",
     "windowHours": 24,
-    "from": "2026-11-11T22:17:54.695Z",
-    "to": "2026-11-12T22:17:54.695Z"
+    "from": "2026-11-12T02:40:56.657Z",
+    "to": "2026-11-13T02:40:56.657Z"
   },
   "counts": {
-    "total": 22,
+    "total": 23,
     "byCircle": {
+      "الإعلام المتخصص": 4,
+      "الإعلام الدولي": 1,
+      "المصادر الرسمية السورية": 4,
       "الإعلام السوري المستقل": 13,
-      "المصادر الرسمية السورية": 3,
-      "الملف الإسرائيلي والتركي": 1,
-      "الإعلام المتخصص": 3,
-      "الملف الإسرائيلي": 1,
-      "التقارير الرسمية الدورية": 1
+      "الملف الإسرائيلي والتركي": 1
     },
     "bySource": {
+      "Al-Monitor": 1,
+      "Al Jazeera English": 1,
+      "سانا — قسم السياسة": 4,
       "تلفزيون سوريا": 11,
-      "سانا — قسم السياسة": 3,
       "Jerusalem Post — الشرق الأوسط": 1,
       "The National": 3,
-      "North Press Agency (English)": 2,
-      "Ynet News (English)": 1,
-      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1
+      "North Press Agency (English)": 2
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "'Inside Gaza': Reporting a war when it hits home",
+      "excerpt": "<div class=\"align-center media media--type-image media--view-mode-newsletter\"> <div> <img loading=\"lazy\" src=\"/sites/default/files/styles/newsletter/public/2026-11/000_93m32gt.jpg?itok=WBVlXWf1\" width=\"870\" height=\"580\" alt=\"Around 200 jour",
+      "link": "https://www.al-monitor.com/originals/2026/11/inside-gaza-reporting-war-when-it-hits-home",
+      "publishedAt": "2026-11-13T02:30:33.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+      "excerpt": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+      "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+      "publishedAt": "2026-11-13T01:44:55.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تشارك في نداء دولي لإدخال المساعدات وتوفير الرعاية الصحية في غزة",
+      "excerpt": "شارك مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، اليوم الجمعة، في وقفة صحفية بمقر المنظمة الدولية في ‏نيويورك، بمشاركة ممثلي 53 دولة، لإطلاق نداء دولي يدعو إلى تكثيف الجهود الرامية إلى إدخال المساعدات ‏الإنسانية وتوفير الرعاية الصحية",
+      "link": "https://sana.sy/syria-and-the-world/2634030/",
+      "publishedAt": "2026-11-13T00:23:45.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -199,15 +225,6 @@
       "publishedAt": "2026-11-12T07:35:15.000Z"
     },
     {
-      "source": "Ynet News (English)",
-      "sourceId": "ynet-en",
-      "circle": "الملف الإسرائيلي",
-      "title": "Palestinians say Hamas Khan Younis commander killed in Nasser Hospital strike",
-      "excerpt": "IDF has yet to confirm Khaled Abu Anza was killed; security officials say a drone fired 2-3 missiles at Hamas targets including an interrogation and torture facility inside the hospital, where MSF previously suspended operations over armed ",
-      "link": "https://www.ynetnews.com/article/sktgf17azg",
-      "publishedAt": "2026-11-12T07:09:47.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -215,15 +232,6 @@
       "excerpt": "احتفل العالم العربي والإسلامي عمومًا بهزيمة نتنياهو في الانتخابات الإسرائيلية، كما بهزيمة ترمب في الانتخابات الأميركية، على اعتبار أن المرحلة الماضية كانت..",
       "link": "https://www.syria.tv/%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D9%85%D8%A8-%D9%84%D9%8A%D8%B3%D8%AA-%D8%A5%D9%8A%D8%AC%D8%A7%D8%A8%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%86%D9%85%D9%88%D8%B0%D8%AC%D8%A7",
       "publishedAt": "2026-11-12T03:27:33.000Z"
-    },
-    {
-      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-      "sourceId": "unpress",
-      "circle": "التقارير الرسمية الدورية",
-      "title": "Second Committee Approves Five Texts, Including One Demanding Israel Halt Exploitation of Palestinian Natural Resources",
-      "excerpt": "The Second Committee (Economic and Financial) today approved four draft resolutions and one draft decision, voting on three, including one demanding that Israel cease exploiting, damaging, depleting or endangering natural resources in the O",
-      "link": "https://press.un.org/en/2026/gaef3630.doc.htm",
-      "publishedAt": "2026-11-11T22:57:56.000Z"
     }
   ]
 }
