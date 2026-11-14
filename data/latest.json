@@ -1,32 +1,78 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-14T02:52:02.296Z",
+    "generatedAt": "2026-11-14T09:44:54.444Z",
     "windowHours": 24,
-    "from": "2026-11-13T02:52:02.296Z",
-    "to": "2026-11-14T02:52:02.296Z"
+    "from": "2026-11-13T09:44:54.444Z",
+    "to": "2026-11-14T09:44:54.444Z"
   },
   "counts": {
-    "total": 20,
+    "total": 23,
     "byCircle": {
-      "الإعلام السوري المستقل": 7,
-      "الإعلام المتخصص": 5,
+      "الإعلام السوري المستقل": 11,
+      "الإعلام المتخصص": 4,
       "المصادر الرسمية السورية": 4,
       "الملف الإسرائيلي والتركي": 2,
       "مراكز الفكر": 1,
       "الكونغرس والتوازن السياسي الأمريكي": 1
     },
     "bySource": {
-      "تلفزيون سوريا": 7,
+      "تلفزيون سوريا": 8,
+      "North Press Agency (English)": 3,
       "Al-Monitor": 2,
       "سانا — قسم السياسة": 4,
       "Jerusalem Post — الشرق الأوسط": 2,
-      "The National": 3,
+      "The National": 2,
       "Atlantic Council — المجلس الأطلسي": 1,
       "The Hill — الكونغرس والسياسة الأمريكية": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "استطلاع إسرائيلي: ثلثا الشارع يؤيدون احتلال أراضٍ سورية جديدة وأغلبية تؤيد الضم",
+      "excerpt": "هكذا ينظر الشارع الإسرائيلي إلى التوغل في الأراضي السورية بعد سقوط النظام",
+      "link": "https://www.syria.tv/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AB%D9%84%D8%AB%D8%A7-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D8%B9-%D9%8A%D8%A4%D9%8A%D8%AF%D9%88%D9%86-%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8D-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%88%D8%A3%D8%BA%D9%84%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B6%D9%85",
+      "publishedAt": "2026-11-14T09:35:24.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "حجب الذاكرة.. كيف أدى صمت الآباء إلى تجذير هوية الجيل السوري الجديد في تركيا؟",
+      "excerpt": "\"أريد العودة إلى سوريا.. لكن بناتي نشأن هنا\": ثنائية الهوية وصراع الأجيال في أوساط اللاجئين السوريين بتركيا",
+      "link": "https://www.syria.tv/%D8%AD%D8%AC%D8%A8-%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D9%83%D9%8A%D9%81-%D8%A3%D8%AF%D9%89-%D8%B5%D9%85%D8%AA-%D8%A7%D9%84%D8%A2%D8%A8%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%AA%D8%AC%D8%B0%D9%8A%D8%B1-%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F",
+      "publishedAt": "2026-11-14T08:55:22.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "IFJ condemns Israeli gunfire targeting journalists in Syria’s Quneitra",
+      "excerpt": "QAMISHLI, Syria (North Press) – The International Federation of Journalists (IFJ) on Friday condemned Israeli forces for opening fire on a vehicle carrying four Syrian media workers near the villages of Bir Ajam and Bariqa in Quneitra south",
+      "link": "https://npasyria.com/en/143755/",
+      "publishedAt": "2026-11-14T08:49:20.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "EU seeks to revive 2008 association agreement with Syria",
+      "excerpt": "QAMISHLI, Syria (North Press) – The European Union is seeking to revive a long-stalled association agreement with Syria, proposing to sign a text first initialed in 2008 as Brussels moves to strengthen ties with Damascus following the fall ",
+      "link": "https://npasyria.com/en/143752/",
+      "publishedAt": "2026-11-14T07:43:49.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces raid homes, detain man in Syria’s Quneitra",
+      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces raided on Friday night more than 20 homes and commercial shops in the town of Jubata al-Khashab in the northern countryside of Quneitra, southern Syria, damaging property and detaining a young ",
+      "link": "https://npasyria.com/en/143749/",
+      "publishedAt": "2026-11-14T06:53:53.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -121,7 +167,7 @@
       "source": "The National",
       "sourceId": "the-national",
       "circle": "الإعلام المتخصص",
-      "title": "Iraq's first Jewish Museum opens a door to the past – and a contentious debate on the present",
+      "title": "Iraq's first Jewish museum opens a door to the past – and a contentious debate on the present",
       "excerpt": "Inside the Shamash Jewish Museum in Baghdad, the elegant glass-fronted wooden display cases hold a paper trail to a vanished Iraq.Some of the neatly arranged documents are originals, yellowed and fraying at the edges, while others are caref",
       "link": "https://www.thenationalnews.com/news/mena/2026/11/13/iraqi-jews-shamash-jewish-museum-baghdad-history/",
       "publishedAt": "2026-11-13T17:50:00.000Z"
@@ -188,24 +234,6 @@
       "excerpt": "Photographer Motaz Azaiza was celebrated worldwide for showing Gazans&#8217; suffering. But over the course of the last months, we have since learned how selective he was about what he chose to show. In September, the Palestinian photograph",
       "link": "https://thehill.com/opinion/international/6216669-scrutinizing-wartime-information-environment/",
       "publishedAt": "2026-11-13T12:30:00.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "وقفة احتجاجية في القنيطرة تطالب بالإفراج عن المختطفين لدى الاحتلال الإسرائيلي",
-      "excerpt": "صعّد الاحتلال الإسرائيلي من انتهاكاته في القنيطرة ودرعا، في حين نظم أهالي مختطفين وقفة احتجاجية أمام مركز \"أندوف\"",
-      "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
-      "publishedAt": "2026-11-13T09:27:32.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Trump calls Muslim Brotherhood 'more dangerous' than communism",
-      "excerpt": "US President Donald Trump has described the Muslim Brotherhood as “more dangerous\" than communism and said the Islamist movement had to be \"neutralised\".Washington moved to designate three Muslim Brotherhood chapters as terrorist organisati",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/13/trump-calls-muslim-brotherhood-more-dangerous-than-communism/",
-      "publishedAt": "2026-11-13T08:46:27.000Z"
     }
   ]
 }
