@@ -1,0 +1,211 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-14T02:52:02.296Z",
+    "windowHours": 24,
+    "from": "2026-11-13T02:52:02.296Z",
+    "to": "2026-11-14T02:52:02.296Z"
+  },
+  "counts": {
+    "total": 20,
+    "byCircle": {
+      "الإعلام السوري المستقل": 7,
+      "الإعلام المتخصص": 5,
+      "المصادر الرسمية السورية": 4,
+      "الملف الإسرائيلي والتركي": 2,
+      "مراكز الفكر": 1,
+      "الكونغرس والتوازن السياسي الأمريكي": 1
+    },
+    "bySource": {
+      "تلفزيون سوريا": 7,
+      "Al-Monitor": 2,
+      "سانا — قسم السياسة": 4,
+      "Jerusalem Post — الشرق الأوسط": 2,
+      "The National": 3,
+      "Atlantic Council — المجلس الأطلسي": 1,
+      "The Hill — الكونغرس والسياسة الأمريكية": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "كاتس: لا نحتاج موافقة المعارضة لتنفيذ عمليات عسكرية في سوريا وغزة ولبنان",
+      "excerpt": "قال وزير دفاع الاحتلال الإسرائيلي يسرائيل كاتس، إن حكومة تسيير الأعمال برئاسة بنيامين نتنياهو، ليست بحاجة إلى موافقة المعارضة أو انتظار تشكيل حكومة جديدة لتوجيه",
+      "link": "https://www.syria.tv/%D9%83%D8%A7%D8%AA%D8%B3-%D9%84%D8%A7-%D9%86%D8%AD%D8%AA%D8%A7%D8%AC-%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%BA%D8%B2%D8%A9-%D9%88%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "publishedAt": "2026-11-13T22:29:31.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تركيا وقطر تؤكدان دعم استقرار سوريا وضرورة إلزام إسرائيل باتفاقية فض الاشتباك",
+      "excerpt": "أكدت تركيا وقطر في ختام الدورة الثانية عشرة للجنة الاستراتيجية العليا في إسطنبول دعمهما لاستقرار سوريا وإعادة إعمارها",
+      "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D9%82%D8%B7%D8%B1-%D8%AA%D8%A4%D9%83%D8%AF%D8%A7%D9%86-%D8%AF%D8%B9%D9%85-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%A5%D9%84%D8%B2%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D8%B6-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83",
+      "publishedAt": "2026-11-13T22:17:17.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل في بلدة جباتا الخشب ويدهم منازل الأهالي",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الجمعة، في بلدة جباتا الخشب بريف القنيطرة الشمالي، مستخدمةً أكثر من عشر آليات عسكرية.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%AC%D8%A8%D8%A7%D8%AA%D8%A7-%D8%A7%D9%84%D8%AE%D8%B4%D8%A8-%D9%88%D9%8A%D8%AF%D9%87%D9%85-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A",
+      "publishedAt": "2026-11-13T22:14:52.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Turkey, Qatar sign mutual defence agreement",
+      "excerpt": "<p>Turkey and Qatar announced on Friday that they signed a mutual defence agreement, which they said was aimed at adopting a \"unified position\" in the face of an external attack.</p> <p>The announcement came after Turkish President Recep Ta",
+      "link": "https://www.al-monitor.com/originals/2026/11/turkey-qatar-sign-mutual-defence-agreement",
+      "publishedAt": "2026-11-13T20:30:27.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر وتركيا تجددان دعمهما استقرار سوريا وتدعوان لوقف الانتهاكات الإسرائيلية",
+      "excerpt": "أكدت قطر وتركيا، اليوم الجمعة، دعمهما لجهود الحكومة السورية في استعادة الاستقرار وتعزيز مؤسسات الدولة، مطالبين المجتمع الدولي بموقف حازم لوقف الانتهاكات الإسرائيلية المستمرة لسيادة سوريا وسلامتها الإقليمية.",
+      "link": "https://sana.sy/syria-and-the-world/2634544/",
+      "publishedAt": "2026-11-13T19:48:30.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا تلغي شرط الموافقة المسبقة لدخول مواطني أميركا والمملكة المتحدة",
+      "excerpt": "أعلنت وزارة الخارجية والمغتربين السورية إلغاء شرط الموافقة المسبقة لدخول مواطني الولايات المتحدة الأميركية والمملكة المتحدة إلى سوريا",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%84%D8%BA%D9%8A-%D8%B4%D8%B1%D8%B7-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A8%D9%82%D8%A9-%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+      "publishedAt": "2026-11-13T19:41:44.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تبحث مع صندوق الاستجابة للخسائر والأضرار دعم المشاريع المناخية على هامش COP31",
+      "excerpt": "بحث معاون وزير الطوارئ وإدارة الكوارث أحمد اقزيز مع المدير التنفيذي لصندوق الاستجابة للخسائر والأضرار (FRLD) إبراهيم شيخ ديونغ، اليوم الجمعة، المشاريع المزمع تنفيذها في سوريا في إطار الصندوق، وسبل تعزيز التعاون لدعم جهود مواجهة تداعيات التغ",
+      "link": "https://sana.sy/syria-and-the-world/2634516/",
+      "publishedAt": "2026-11-13T18:32:11.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي ينصب حاجزاً عسكرياً في ريف القنيطرة الأوسط ويفتش المارة",
+      "excerpt": "أفاد مراسل تلفزيون سوريا، الجمعة، بأن قوات الاحتلال الإسرائيلي نصبت حاجزاً عسكرياً بالقرب من مدرسة المشيرفة في ريف القنيطرة الأوسط.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7%D9%8B-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7%D9%8B-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-13T18:09:15.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Turkey, Qatar sign mutual defense agreement, agree to 'unified stance' against attacks",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1452,w_2048/746231' alt='Turkish President Recep Tayyip Erdogan met with Emir Sheikh Tamim bin Hamad Al Thani of Qatar at Dolmabahc",
+      "link": "https://www.jpost.com/middle-east/article-914824",
+      "publishedAt": "2026-11-13T17:58:14.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الخارجية تلغي شرط الموافقة المسبقة لدخول الأمريكيين والبريطانيين إلى سوريا",
+      "excerpt": "أكد معاون وزير الخارجية والمغتربين للشؤون القنصلية محمد يعقوب العمر، ‏أن الإجراءات المتعلقة بدخول مواطني الولايات المتحدة الأمريكية والمملكة المتحدة إلى الأراضي السورية عادت إلى ما كانت عليه سابقاً، وذلك بعد إلغاء شرط الحصول على موافقة مسبق",
+      "link": "https://sana.sy/politics/2634493/",
+      "publishedAt": "2026-11-13T17:56:21.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Iraq's first Jewish Museum opens a door to the past – and a contentious debate on the present",
+      "excerpt": "Inside the Shamash Jewish Museum in Baghdad, the elegant glass-fronted wooden display cases hold a paper trail to a vanished Iraq.Some of the neatly arranged documents are originals, yellowed and fraying at the edges, while others are caref",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/13/iraqi-jews-shamash-jewish-museum-baghdad-history/",
+      "publishedAt": "2026-11-13T17:50:00.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تعرب عن تعازيها لتركيا إثر تحطم طائرة عسكرية ووفاة أفراد طاقمها",
+      "excerpt": "أعربت الجمهورية العربية السورية عن تعازيها الصادقة ومواساتها لحكومة وشعب الجمهورية التركية الصديقة إثر تحطم طائرة عسكرية، ووفاة أفراد طاقمها.",
+      "link": "https://sana.sy/syria-and-the-world/2634442/",
+      "publishedAt": "2026-11-13T17:09:54.000Z"
+    },
+    {
+      "source": "Atlantic Council — المجلس الأطلسي",
+      "sourceId": "atlantic-council",
+      "circle": "مراكز الفكر",
+      "title": "Syria shouldn&#8217;t join the Mecca Alliance. It should cooperate with it.",
+      "excerpt": "Joining the alliance would expose Syria to a new set of threats and increase the chances of regional escalation. The post Syria shouldn&#8217;t join the Mecca Alliance. It should cooperate with it. appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/blogs/menasource/syria-shouldnt-join-the-mecca-alliance-it-should-cooperate-with-it/",
+      "publishedAt": "2026-11-13T16:47:45.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Syria rolls back new visa restrictions for US citizens after backlash: What to know",
+      "excerpt": "A number of Syrians on social media criticized the change, saying it would harm efforts to draw tourists to the post-war country.",
+      "link": "https://www.al-monitor.com/originals/2026/11/syria-rolls-back-new-visa-restrictions-us-citizens-after-backlash-what-know",
+      "publishedAt": "2026-11-13T15:38:59.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "WATCH: IDF provides thousands of tents, winter supplies to Gaza Strip, says Hamas exploiting aid",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1536,w_2048/746223' alt='Winter supplies enters the Gaza Strip. (photo credit: IDF SPOKESPERSON'S UNIT)' title='Winter supplies ent",
+      "link": "https://www.jpost.com/middle-east/article-914814",
+      "publishedAt": "2026-11-13T14:33:33.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "من القنيطرة إلى حلب.. وقفات احتجاجية في أربع محافظات ما مطالبها؟",
+      "excerpt": "نظم سوريون وقفات احتجاجية في أربع محافظات، طالبوا فيها بحل ملفات ما تزال عالقة",
+      "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D8%AD%D9%84%D8%A8-%D9%88%D9%82%D9%81%D8%A7%D8%AA-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A3%D8%B1%D8%A8%D8%B9-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA-%D9%85%D8%A7-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D9%87%D8%A7%D8%9F",
+      "publishedAt": "2026-11-13T13:44:23.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Hamas bodyguard to be extradited from UK to Germany over massacre plot",
+      "excerpt": "The bodyguard of the former leader of Hamas is wanted in Germany on charges of plotting an attack on Jewish targets, The National can reveal. Mohammed Al Fatih is accused along with seven other men of planning to carry out a massacre on the",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/13/hamas-bodyguard-to-be-extradited-from-uk-to-germany-over-massacre-plot/",
+      "publishedAt": "2026-11-13T13:41:00.000Z"
+    },
+    {
+      "source": "The Hill — الكونغرس والسياسة الأمريكية",
+      "sourceId": "thehill",
+      "circle": "الكونغرس والتوازن السياسي الأمريكي",
+      "title": "Hamas had far more control over the media&#8217;s Gaza coverage than people realize",
+      "excerpt": "Photographer Motaz Azaiza was celebrated worldwide for showing Gazans&#8217; suffering. But over the course of the last months, we have since learned how selective he was about what he chose to show. In September, the Palestinian photograph",
+      "link": "https://thehill.com/opinion/international/6216669-scrutinizing-wartime-information-environment/",
+      "publishedAt": "2026-11-13T12:30:00.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "وقفة احتجاجية في القنيطرة تطالب بالإفراج عن المختطفين لدى الاحتلال الإسرائيلي",
+      "excerpt": "صعّد الاحتلال الإسرائيلي من انتهاكاته في القنيطرة ودرعا، في حين نظم أهالي مختطفين وقفة احتجاجية أمام مركز \"أندوف\"",
+      "link": "https://www.syria.tv/%D9%88%D9%82%D9%81%D8%A9-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
+      "publishedAt": "2026-11-13T09:27:32.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Trump calls Muslim Brotherhood 'more dangerous' than communism",
+      "excerpt": "US President Donald Trump has described the Muslim Brotherhood as “more dangerous\" than communism and said the Islamist movement had to be \"neutralised\".Washington moved to designate three Muslim Brotherhood chapters as terrorist organisati",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/13/trump-calls-muslim-brotherhood-more-dangerous-than-communism/",
+      "publishedAt": "2026-11-13T08:46:27.000Z"
+    }
+  ]
+}

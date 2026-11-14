@@ -1,16 +1,16 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-13T22:51:50.611Z",
+    "generatedAt": "2026-11-14T02:52:02.296Z",
     "windowHours": 24,
-    "from": "2026-11-12T22:51:50.611Z",
-    "to": "2026-11-13T22:51:50.611Z"
+    "from": "2026-11-13T02:52:02.296Z",
+    "to": "2026-11-14T02:52:02.296Z"
   },
   "counts": {
-    "total": 21,
+    "total": 20,
     "byCircle": {
       "الإعلام السوري المستقل": 7,
       "الإعلام المتخصص": 5,
-      "المصادر الرسمية السورية": 5,
+      "المصادر الرسمية السورية": 4,
       "الملف الإسرائيلي والتركي": 2,
       "مراكز الفكر": 1,
       "الكونغرس والتوازن السياسي الأمريكي": 1
@@ -18,7 +18,7 @@
     "bySource": {
       "تلفزيون سوريا": 7,
       "Al-Monitor": 2,
-      "سانا — قسم السياسة": 5,
+      "سانا — قسم السياسة": 4,
       "Jerusalem Post — الشرق الأوسط": 2,
       "The National": 3,
       "Atlantic Council — المجلس الأطلسي": 1,
@@ -206,15 +206,6 @@
       "excerpt": "US President Donald Trump has described the Muslim Brotherhood as “more dangerous\" than communism and said the Islamist movement had to be \"neutralised\".Washington moved to designate three Muslim Brotherhood chapters as terrorist organisati",
       "link": "https://www.thenationalnews.com/news/mena/2026/11/13/trump-calls-muslim-brotherhood-more-dangerous-than-communism/",
       "publishedAt": "2026-11-13T08:46:27.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "سوريا تشارك في نداء دولي لإدخال المساعدات وتوفير الرعاية الصحية في غزة",
-      "excerpt": "شارك مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، اليوم الجمعة، في وقفة صحفية بمقر المنظمة الدولية في ‏نيويورك، بمشاركة ممثلي 53 دولة، لإطلاق نداء دولي يدعو إلى تكثيف الجهود الرامية إلى إدخال المساعدات ‏الإنسانية وتوفير الرعاية الصحية",
-      "link": "https://sana.sy/syria-and-the-world/2634030/",
-      "publishedAt": "2026-11-13T00:23:45.000Z"
     }
   ]
 }

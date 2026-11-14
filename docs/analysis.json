@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-13T22:51:50.611Z",
+    "generatedAt": "2026-11-14T02:52:02.296Z",
     "windowHours": 24,
-    "from": "2026-11-12T22:51:50.611Z",
-    "to": "2026-11-13T22:51:50.611Z"
+    "from": "2026-11-13T02:52:02.296Z",
+    "to": "2026-11-14T02:52:02.296Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 21,
+    "items": 20,
     "files": 4,
-    "withNew": 4,
-    "stale": 0,
+    "withNew": 0,
+    "stale": 4,
     "contested": 2,
     "echoed": 1,
     "americanItems": 4,
-    "archiveCycles": 1375
+    "archiveCycles": 1376
   },
   "emptyCircles": [
     "الكونغرس",
@@ -49,13 +49,13 @@
         "الملف الإسرائيلي والتركي",
         "الكونغرس والتوازن السياسي الأمريكي"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-13 22:51",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 3,
-      "score": 55,
+      "score": 37,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -66,7 +66,7 @@
           "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%84%D8%BA%D9%8A-%D8%B4%D8%B1%D8%B7-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A8%D9%82%D8%A9-%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%88%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
           "publishedAt": "2026-11-13T19:41:44.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -78,7 +78,7 @@
           "link": "https://sana.sy/syria-and-the-world/2634516/",
           "publishedAt": "2026-11-13T18:32:11.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -90,7 +90,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/11/13/iraqi-jews-shamash-jewish-museum-baghdad-history/",
           "publishedAt": "2026-11-13T17:50:00.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -164,18 +164,6 @@
           "files": [],
           "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تشارك في نداء دولي لإدخال المساعدات وتوفير الرعاية الصحية في غزة",
-          "excerpt": "شارك مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي، اليوم الجمعة، في وقفة صحفية بمقر المنظمة الدولية في ‏نيويورك، بمشاركة ممثلي 53 دولة، لإطلاق نداء دولي يدعو إلى تكثيف الجهود الرامية إلى إدخال المساعدات ‏الإنسانية وتوفير الرعاية الصحية",
-          "link": "https://sana.sy/syria-and-the-world/2634030/",
-          "publishedAt": "2026-11-13T00:23:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -197,13 +185,13 @@
         "المصادر الرسمية السورية",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-13 22:51",
       "isFollowUp": true,
-      "newItems": 4,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": true,
       "usItems": 0,
-      "score": 37,
+      "score": 16,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -217,7 +205,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -231,7 +219,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -246,7 +234,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -260,7 +248,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -291,13 +279,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-13 22:51",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 27,
+      "score": 10,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -311,7 +299,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -325,7 +313,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -339,7 +327,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -384,13 +372,13 @@
       "circles": [
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-13 22:51",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 11,
+      "score": 2,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -403,7 +391,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         }
       ]
