@@ -1,27 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-15T00:22:59.098Z",
+    "generatedAt": "2026-11-15T06:55:08.567Z",
     "windowHours": 24,
-    "from": "2026-11-14T00:22:59.098Z",
-    "to": "2026-11-15T00:22:59.098Z"
+    "from": "2026-11-14T06:55:08.567Z",
+    "to": "2026-11-15T06:55:08.567Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 17,
+    "items": 20,
     "files": 4,
     "withNew": 2,
     "stale": 2,
     "contested": 0,
     "echoed": 0,
     "americanItems": 0,
-    "archiveCycles": 1380
+    "archiveCycles": 1381
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام الدولي",
     "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
@@ -29,17 +28,142 @@
   "errors": [],
   "files": [
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "North Press Agency (English)",
+        "Middle East Eye",
+        "تلفزيون سوريا",
+        "Jerusalem Post — الشرق الأوسط"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي"
+      ],
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 3,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 32,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Saudi Arabia intercepts two Houthi missiles targeting Riyadh",
+          "excerpt": "DAMASCUS, Syria (North Press) – Saudi Arabia on Sunday announced that it had intercepted and destroyed two ballistic missiles targeting Riyadh, as well as three drones targeting the kingdom’s Eastern Province. Saudi Defense Ministry Spokesp",
+          "link": "https://npasyria.com/en/143778/",
+          "publishedAt": "2026-11-15T06:25:59.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Car bomb in Damascus suburb kills two, including child",
+          "excerpt": "<article data-history-node-id=\"450985\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/car-bomb-damascus-suburb-kills-two-including-child\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.ne",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/car-bomb-damascus-suburb-kills-two-including-child",
+          "publishedAt": "2026-11-15T03:45:46.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "هيئة العدالة الانتقالية تطلق \"السجل الوطني للضحايا في سوريا\" وتبدأ بجمع البيانات",
+          "excerpt": "أطلقت الهيئة الوطنية للعدالة الانتقالية في سوريا، مرحلة تجريبية لجمع بيانات الضحايا وذويهم، تمهيداً لبناء \"السجل الوطني للضحايا\"، مشيرة إلى أن التركيز في هذه ال",
+          "link": "https://www.syria.tv/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A8%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA",
+          "publishedAt": "2026-11-15T02:47:33.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Oil smuggling probe in Jurf Al-Sakhar tests Baghdad’s power over Iran-backed militias – analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/746309' alt='Members of the Iraqi armed group Kataib Hezbollah hold flags during the funeral of their members, who were",
+          "link": "https://www.jpost.com/middle-east/article-914883",
+          "publishedAt": "2026-11-14T22:31:08.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Explosion in Damascus countryside kills two people, injures one",
+          "excerpt": "QAMISHLI, Syria (North Press) – An explosion caused by an explosive device planted inside a car killed a man and a girl on Saturday and injured another person in Jaramana, in the Damascus countryside, Syria’s Internal Security Forces said. ",
+          "link": "https://npasyria.com/en/143775/",
+          "publishedAt": "2026-11-14T20:05:00.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Photos show aftermath of explosion in Damascus countryside",
+          "excerpt": "The post Photos show aftermath of explosion in Damascus countryside appeared first on North press agency.",
+          "link": "https://npasyria.com/en/143767/",
+          "publishedAt": "2026-11-14T19:12:57.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Four children die after mushroom poisoning in Syria’s Raqqa",
+          "excerpt": "QAMISHLI, Syria (North Press) – Four children died after consuming poisonous mushrooms in Raqqa, while three others remained in critical condition at a hospital in Aleppo, medical sources told North Press on Saturday. Wabel Mohammed, a resi",
+          "link": "https://npasyria.com/en/143764/",
+          "publishedAt": "2026-11-14T15:47:42.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "EU seeks to revive 2008 association agreement with Syria",
+          "excerpt": "QAMISHLI, Syria (North Press) – The European Union is seeking to revive a long-stalled association agreement with Syria, proposing to sign a text first initialed in 2008 as Brussels moves to strengthen ties with Damascus following the fall ",
+          "link": "https://npasyria.com/en/143752/",
+          "publishedAt": "2026-11-14T07:43:49.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
+        "Al Jazeera English",
         "Middle East Eye",
         "تلفزيون سوريا",
         "North Press Agency (English)"
       ],
       "circles": [
+        "الإعلام الدولي",
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
@@ -49,8 +173,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 25,
+      "score": 28,
       "items": [
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Israeli air strike kills senior Hamas commander in Gaza",
+          "excerpt": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+          "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+          "publishedAt": "2026-11-15T01:00:42.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Middle East Eye",
           "sourceId": "mee",
@@ -62,7 +200,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -148,104 +286,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israeli forces raid homes, detain man in Syria’s Quneitra",
-          "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces raided on Friday night more than 20 homes and commercial shops in the town of Jubata al-Khashab in the northern countryside of Quneitra, southern Syria, damaging property and detaining a young ",
-          "link": "https://npasyria.com/en/143749/",
-          "publishedAt": "2026-11-14T06:53:53.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "Jerusalem Post — الشرق الأوسط",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الملف الإسرائيلي والتركي",
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 15,
-      "items": [
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Oil smuggling probe in Jurf Al-Sakhar tests Baghdad’s power over Iran-backed militias – analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/746309' alt='Members of the Iraqi armed group Kataib Hezbollah hold flags during the funeral of their members, who were",
-          "link": "https://www.jpost.com/middle-east/article-914883",
-          "publishedAt": "2026-11-14T22:31:08.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Explosion in Damascus countryside kills two people, injures one",
-          "excerpt": "QAMISHLI, Syria (North Press) – An explosion caused by an explosive device planted inside a car killed a man and a girl on Saturday and injured another person in Jaramana, in the Damascus countryside, Syria’s Internal Security Forces said. ",
-          "link": "https://npasyria.com/en/143775/",
-          "publishedAt": "2026-11-14T20:05:00.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Photos show aftermath of explosion in Damascus countryside",
-          "excerpt": "The post Photos show aftermath of explosion in Damascus countryside appeared first on North press agency.",
-          "link": "https://npasyria.com/en/143767/",
-          "publishedAt": "2026-11-14T19:12:57.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Four children die after mushroom poisoning in Syria’s Raqqa",
-          "excerpt": "QAMISHLI, Syria (North Press) – Four children died after consuming poisonous mushrooms in Raqqa, while three others remained in critical condition at a hospital in Aleppo, medical sources told North Press on Saturday. Wabel Mohammed, a resi",
-          "link": "https://npasyria.com/en/143764/",
-          "publishedAt": "2026-11-14T15:47:42.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "EU seeks to revive 2008 association agreement with Syria",
-          "excerpt": "QAMISHLI, Syria (North Press) – The European Union is seeking to revive a long-stalled association agreement with Syria, proposing to sign a text first initialed in 2008 as Brussels moves to strengthen ties with Damascus following the fall ",
-          "link": "https://npasyria.com/en/143752/",
-          "publishedAt": "2026-11-14T07:43:49.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -263,7 +303,7 @@
         "الإعلام السوري المستقل",
         "الملف التركي"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-14 20:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-15 00:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -327,7 +367,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-14 20:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-15 00:22",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,

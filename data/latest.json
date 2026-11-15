@@ -1,28 +1,66 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-15T00:22:59.098Z",
+    "generatedAt": "2026-11-15T06:55:08.567Z",
     "windowHours": 24,
-    "from": "2026-11-14T00:22:59.098Z",
-    "to": "2026-11-15T00:22:59.098Z"
+    "from": "2026-11-14T06:55:08.567Z",
+    "to": "2026-11-15T06:55:08.567Z"
   },
   "counts": {
-    "total": 17,
+    "total": 20,
     "byCircle": {
-      "الإعلام المتخصص": 1,
+      "الإعلام السوري المستقل": 15,
+      "الإعلام المتخصص": 2,
+      "الإعلام الدولي": 1,
       "الملف الإسرائيلي والتركي": 1,
-      "الإعلام السوري المستقل": 14,
       "الملف التركي": 1
     },
     "bySource": {
-      "Middle East Eye": 1,
-      "Jerusalem Post — الشرق الأوسط": 1,
       "North Press Agency (English)": 6,
-      "تلفزيون سوريا": 8,
+      "Middle East Eye": 2,
+      "تلفزيون سوريا": 9,
+      "Al Jazeera English": 1,
+      "Jerusalem Post — الشرق الأوسط": 1,
       "Turkish Minute": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Saudi Arabia intercepts two Houthi missiles targeting Riyadh",
+      "excerpt": "DAMASCUS, Syria (North Press) – Saudi Arabia on Sunday announced that it had intercepted and destroyed two ballistic missiles targeting Riyadh, as well as three drones targeting the kingdom’s Eastern Province. Saudi Defense Ministry Spokesp",
+      "link": "https://npasyria.com/en/143778/",
+      "publishedAt": "2026-11-15T06:25:59.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Car bomb in Damascus suburb kills two, including child",
+      "excerpt": "<article data-history-node-id=\"450985\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/car-bomb-damascus-suburb-kills-two-including-child\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.ne",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/car-bomb-damascus-suburb-kills-two-including-child",
+      "publishedAt": "2026-11-15T03:45:46.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "هيئة العدالة الانتقالية تطلق \"السجل الوطني للضحايا في سوريا\" وتبدأ بجمع البيانات",
+      "excerpt": "أطلقت الهيئة الوطنية للعدالة الانتقالية في سوريا، مرحلة تجريبية لجمع بيانات الضحايا وذويهم، تمهيداً لبناء \"السجل الوطني للضحايا\"، مشيرة إلى أن التركيز في هذه ال",
+      "link": "https://www.syria.tv/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A8%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA",
+      "publishedAt": "2026-11-15T02:47:33.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "excerpt": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+      "publishedAt": "2026-11-15T01:00:42.000Z"
+    },
     {
       "source": "Middle East Eye",
       "sourceId": "mee",
@@ -166,15 +204,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – The European Union is seeking to revive a long-stalled association agreement with Syria, proposing to sign a text first initialed in 2008 as Brussels moves to strengthen ties with Damascus following the fall ",
       "link": "https://npasyria.com/en/143752/",
       "publishedAt": "2026-11-14T07:43:49.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli forces raid homes, detain man in Syria’s Quneitra",
-      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces raided on Friday night more than 20 homes and commercial shops in the town of Jubata al-Khashab in the northern countryside of Quneitra, southern Syria, damaging property and detaining a young ",
-      "link": "https://npasyria.com/en/143749/",
-      "publishedAt": "2026-11-14T06:53:53.000Z"
     }
   ]
 }
