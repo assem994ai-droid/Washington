@@ -1,22 +1,22 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-15T23:41:47.877Z",
+    "generatedAt": "2026-11-16T03:13:35.086Z",
     "windowHours": 24,
-    "from": "2026-11-14T23:41:47.877Z",
-    "to": "2026-11-15T23:41:47.877Z"
+    "from": "2026-11-15T03:13:35.086Z",
+    "to": "2026-11-16T03:13:35.086Z"
   },
   "counts": {
-    "total": 18,
+    "total": 17,
     "byCircle": {
       "الملف الإسرائيلي والتركي": 2,
-      "الإعلام السوري المستقل": 12,
+      "الإعلام السوري المستقل": 11,
       "المصادر الرسمية السورية": 1,
       "الكونغرس والتوازن السياسي الأمريكي": 1,
       "الإعلام المتخصص": 2
     },
     "bySource": {
       "Jerusalem Post — الشرق الأوسط": 2,
-      "تلفزيون سوريا": 7,
+      "تلفزيون سوريا": 6,
       "North Press Agency (English)": 5,
       "سانا — قسم السياسة": 1,
       "The Hill — الكونغرس والسياسة الأمريكية": 1,
@@ -178,15 +178,6 @@
       "excerpt": "DAMASCUS, Syria (North Press) – Saudi Arabia on Sunday announced that it had intercepted and destroyed two ballistic missiles targeting Riyadh, as well as three drones targeting the kingdom’s Eastern Province. Saudi Defense Ministry Spokesp",
       "link": "https://npasyria.com/en/143778/",
       "publishedAt": "2026-11-15T06:25:59.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "هيئة العدالة الانتقالية تطلق \"السجل الوطني للضحايا في سوريا\" وتبدأ بجمع البيانات",
-      "excerpt": "أطلقت الهيئة الوطنية للعدالة الانتقالية في سوريا، مرحلة تجريبية لجمع بيانات الضحايا وذويهم، تمهيداً لبناء \"السجل الوطني للضحايا\"، مشيرة إلى أن التركيز في هذه ال",
-      "link": "https://www.syria.tv/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A8%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA",
-      "publishedAt": "2026-11-15T02:47:33.000Z"
     }
   ]
 }
