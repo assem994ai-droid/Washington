@@ -1,27 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-16T21:13:00.422Z",
+    "generatedAt": "2026-11-17T03:56:30.990Z",
     "windowHours": 24,
-    "from": "2026-11-15T21:13:00.422Z",
-    "to": "2026-11-16T21:13:00.422Z"
+    "from": "2026-11-16T03:56:30.990Z",
+    "to": "2026-11-17T03:56:30.990Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 24,
-    "files": 4,
+    "items": 31,
+    "files": 5,
     "withNew": 4,
-    "stale": 0,
+    "stale": 1,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 1387
+    "americanItems": 2,
+    "archiveCycles": 1388
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام الدولي",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
@@ -32,28 +31,79 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 7,
       "sources": [
+        "تلفزيون سوريا",
+        "Al Jazeera English",
+        "Al-Monitor",
         "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة",
-        "تلفزيون سوريا",
         "The National",
         "North Press Agency (English)"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام الدولي",
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي",
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 10 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 10,
+      "newItems": 4,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 69,
+      "usItems": 2,
+      "score": 58,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا.. أهمية الإدارة الرشيدة في زمن العواصف والتحوّلات",
+          "excerpt": "يحظى الاجتماع الثلاثي المرتقب بعد أيام في الصين، بين كل من الرئيس الأميركي دونالد ترامب، والرئيس الروسي فلاديمير بوتين، والرئيس الصيني شي جين بينغ، باهتمام است",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D8%B5%D9%81-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%91%D9%84%D8%A7%D8%AA",
+          "publishedAt": "2026-11-17T02:36:58.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "كيف نجعل هذا الشتاء السوري دافئاً؟",
+          "excerpt": "تنص المادة 25 من الإعلان العالمي لحقوق الإنسان، الصادر عن الأمم المتحدة عام 1948، على: \"لكل شخص الحق في مستوى معيشة يكفي لضمان الصحة والرفاهية له ولأسرته،",
+          "link": "https://www.syria.tv/%D9%83%D9%8A%D9%81-%D9%86%D8%AC%D8%B9%D9%84-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%AF%D8%A7%D9%81%D8%A6%D8%A7%D9%8B%D8%9F",
+          "publishedAt": "2026-11-17T02:36:12.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "EU agrees to resurrect cooperation deal with Syria",
+          "excerpt": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+          "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+          "publishedAt": "2026-11-16T23:00:36.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "EU to revive long-stalled association agreement with Syria: What to know",
+          "excerpt": "The bloc plans to sign a 2008 agreement to deepen ties with Damascus while negotiating a modernized pact.",
+          "link": "https://www.al-monitor.com/originals/2026/11/eu-revive-long-stalled-association-agreement-syria-what-know",
+          "publishedAt": "2026-11-16T20:38:14.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -63,7 +113,7 @@
           "link": "https://www.jpost.com/middle-east/article-915084",
           "publishedAt": "2026-11-16T19:15:30.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -75,7 +125,7 @@
           "link": "https://sana.sy/syria-and-the-world/2636977/",
           "publishedAt": "2026-11-16T18:13:30.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -87,7 +137,7 @@
           "link": "https://www.syria.tv/%D9%85%D8%B5%D8%A7%D8%B1%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%AD%D8%B1%D8%B2-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%84%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D8%B9%D8%A9-%D8%A8%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A",
           "publishedAt": "2026-11-16T17:12:23.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -99,7 +149,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/11/16/stable-syria-in-europes-interest-eu-wins-backing-for-deal-with-damascus/",
           "publishedAt": "2026-11-16T16:49:40.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -111,7 +161,7 @@
           "link": "https://npasyria.com/en/143814/",
           "publishedAt": "2026-11-16T15:13:38.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -123,7 +173,7 @@
           "link": "https://www.syria.tv/%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%AE%D8%B5%D8%B5-300-%D8%A3%D9%84%D9%81-%D9%8A%D9%88%D8%B1%D9%88-%D9%84%D8%AF%D8%B9%D9%85-%D8%AC%D9%87%D9%88%D8%AF-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-11-16T14:17:07.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -135,7 +185,7 @@
           "link": "https://sana.sy/syria-and-the-world/2636657/",
           "publishedAt": "2026-11-16T14:00:16.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -147,7 +197,7 @@
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%B1%D9%81%D8%A7%D8%AA-6-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9-%D9%81%D9%8A-%D8%AD%D8%B1%D8%B3%D8%AA%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
           "publishedAt": "2026-11-16T13:15:11.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -159,7 +209,7 @@
           "link": "https://sana.sy/syria-and-the-world/2636554/",
           "publishedAt": "2026-11-16T12:22:06.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -171,7 +221,7 @@
           "link": "https://www.syria.tv/%D8%AF%D8%A7%D8%AE%D9%84-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%84%D9%84%D8%AB%D9%84%D8%A7%D8%AC%D8%A7%D8%AA-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%8A%D9%83%D8%B4%D9%81-%D9%83%D9%8A%D9%81-%D8%A7%D8%AE%D8%AA%D8%B7%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D8%A7%D8%AF-%D8%AC%D9%86%D8%B1%D8%A7%D9%84%D8%A7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D9%86-%D8%AF%D9%85%D8%B4%D9%82",
           "publishedAt": "2026-11-16T12:16:47.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -193,22 +243,52 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
         "تلفزيون سوريا",
+        "The National",
         "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 5,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 38,
+      "score": 31,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قصف إسرائيلي يستهدف قرى غربي درعا ويتسبب بنزوح مدنيين من كويا",
+          "excerpt": "شهد ريف درعا الغربي، فجر اليوم الثلاثاء، تصعيداً عسكرياً من قوات الاحتلال الإسرائيلي، شمل قصف محيط عدة قرى واستهداف منازل مدنيين بالرشاشات الثقيلة..",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%89-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D9%86%D8%B2%D9%88%D8%AD-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D9%83%D9%88%D9%8A%D8%A7",
+          "publishedAt": "2026-11-16T23:18:38.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Israeli military operations in Syria continue 'relentlessly', UN says",
+          "excerpt": "Israel is “relentlessly” conducting military operations in south-western Syria, violating Syrian sovereignty as Damascus struggles to stabilise the country, a senior UN official said on Monday.Claudio Cordone, the UN's deputy special envoy ",
+          "link": "https://www.thenationalnews.com/news/us/2026/11/16/israeli-military-syria-druze-sweida/",
+          "publishedAt": "2026-11-16T21:47:40.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -220,7 +300,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -235,7 +315,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -250,7 +330,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -265,7 +345,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -280,7 +360,7 @@
             "israel",
             "lebanon"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -328,6 +408,58 @@
       ]
     },
     {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "التقارير الرسمية الدورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+          "sourceId": "unpress",
+          "circle": "التقارير الرسمية الدورية",
+          "title": "Nearly Two Years after Assad’s Fall, Deputy Special Envoy Warns Security Council on Syria’s Political Gains, Persistent Violence",
+          "excerpt": "With the second anniversary of the fall of the Bashar al-Assad regime fast approaching, the Security Council today took stock of Syria’s transition, with speakers highlighting political gains and persistent challenges.",
+          "link": "https://press.un.org/en/2026/sc16511.doc.htm",
+          "publishedAt": "2026-11-16T22:02:50.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات عسكرية سورية أردنية لتعزيز التعاون والتنسيق المشترك",
+          "excerpt": "عقد مدير إدارة العمليات في الجيش العربي السوري العميد عناد الدرويش، لقاء مع وفد عسكري أردني برئاسة قائد فريق التخطيط الاستراتيجي في القوات المسلحة الأردنية العم",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83",
+          "publishedAt": "2026-11-16T16:40:44.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "turkey",
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
@@ -341,13 +473,13 @@
         "الإعلام السوري المستقل",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-16 21:13",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 17,
+      "score": 8,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -361,7 +493,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -398,50 +530,35 @@
       ]
     },
     {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "تلفزيون سوريا",
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل",
-        "التقارير الرسمية الدورية"
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 8,
       "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مباحثات عسكرية سورية أردنية لتعزيز التعاون والتنسيق المشترك",
-          "excerpt": "عقد مدير إدارة العمليات في الجيش العربي السوري العميد عناد الدرويش، لقاء مع وفد عسكري أردني برئاسة قائد فريق التخطيط الاستراتيجي في القوات المسلحة الأردنية العم",
-          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83",
-          "publishedAt": "2026-11-16T16:40:44.000Z",
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية نمساوية في فيينا لتعزيز الشراكة ‏ودعم إعادة الإعمار",
+          "excerpt": "بحثت مديرة إدارة شؤون المغتربين واللاجئين في ‏وزارة الخارجية ‏السورية نهلة عثمان مع نائب المدير ‏العام ورئيسة إدارة شؤون اللجوء ‏والرعاية الأساسية ‏والحدود والتأشيرات والعودة في وزارة الداخلية ‌‏النمساوية إليزابيث فينغر-دونيغ في فيينا، اليو",
+          "link": "https://sana.sy/syria-and-the-world/2636762/",
+          "publishedAt": "2026-11-16T15:18:51.000Z",
           "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Security Council, 10273rd Meeting (AM) Syria",
-          "excerpt": "The Security Council will meet at 10 a.m. today for a briefing on political and humanitarian developments in Syria under the agenda item \"The situation in the Middle East”.",
-          "link": "https://press.un.org/en/blog/sc16511",
-          "publishedAt": "2026-11-16T11:58:40.000Z",
-          "files": [
+            "economy",
             "diplomacy"
           ],
           "seenBefore": false,
