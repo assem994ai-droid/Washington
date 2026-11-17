@@ -1,0 +1,173 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-17T12:46:06.654Z",
+    "windowHours": 24,
+    "from": "2026-11-16T12:46:06.654Z",
+    "to": "2026-11-17T12:46:06.654Z"
+  },
+  "counts": {
+    "total": 16,
+    "byCircle": {
+      "الإعلام السوري المستقل": 5,
+      "المصادر الرسمية السورية": 4,
+      "الملف الإسرائيلي والتركي": 2,
+      "الإعلام المتخصص": 4,
+      "التقارير الرسمية الدورية": 1
+    },
+    "bySource": {
+      "North Press Agency (English)": 5,
+      "سانا — قسم السياسة": 4,
+      "Jerusalem Post — الشرق الأوسط": 2,
+      "The National": 3,
+      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1,
+      "Al-Monitor": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "World Bank approves $500 million in grants to support Syria’s recovery",
+      "excerpt": "DAMASCUS, Syria (North Press) – The World Bank has approved grants worth around $500 million to support Syria’s electricity, water, health and public financial management sectors, the bank’s Middle East Director Dahlia Khalifa said on Tuesd",
+      "link": "https://npasyria.com/en/143832/",
+      "publishedAt": "2026-11-17T11:01:02.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر تجدد تأكيدها أن الجولان أرض عربية سورية محتلة",
+      "excerpt": "جدّدت دولة قطر تأكيد موقفها الثابت بأن الجولان أرض عربية سورية محتلة، وأن جميع الإجراءات غير القانونية التي تفرضها إسرائيل فيه تشكل انتهاكاً للقانون الدولي.",
+      "link": "https://sana.sy/syria-and-the-world/2637306/",
+      "publishedAt": "2026-11-17T09:52:20.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Iran's attacks on Bahrain expose Tehran's broader strategy to destabilize the Gulf - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2019,w_3588/746674' alt='Locals in front of a wall where graffiti has been blackened out in a Shi’ite village in Diraz, Bahrain, No",
+      "link": "https://www.jpost.com/middle-east/article-915137",
+      "publishedAt": "2026-11-17T09:49:19.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Syrians flee as Israeli forces raid homes and shell farmland in south",
+      "excerpt": "Israeli forces raided homes and shelled farmland in south-western Syria overnight, forcing residents to flee amid “relentless” military operations in the country, Syrian state news agency Sana reported.Israeli troops entered Maariya, in wes",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/17/syrians-flee-as-israeli-forces-raid-homes-and-shell-farmland-in-south/",
+      "publishedAt": "2026-11-17T08:09:29.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli force enters villages in Syria&#8217;s Daraa with 30 vehicles",
+      "excerpt": "DARAA, Syria (North Press) – An Israeli force of entered on Monday the western countryside of Daraa, southern Syria, searched homes and fired toward a village, while local sources reported an assault on a minibus driver. An Israeli military",
+      "link": "https://npasyria.com/en/143826/",
+      "publishedAt": "2026-11-17T07:22:37.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Challenges persist in implementing NE Syria integration agreement – UN envoy",
+      "excerpt": "QAMISHLI, Syria (North Press) – UN Special Envoy for Syria Claudio Cordone said on Monday that challenges remain in implementing the January 29 agreement in northeast Syria, highlighting unresolved issues related to the integration of the S",
+      "link": "https://npasyria.com/en/143823/",
+      "publishedAt": "2026-11-17T06:32:48.000Z"
+    },
+    {
+      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+      "sourceId": "unpress",
+      "circle": "التقارير الرسمية الدورية",
+      "title": "Nearly Two Years after Assad’s Fall, Deputy Special Envoy Warns Security Council on Syria’s Political Gains, Persistent Violence",
+      "excerpt": "With the second anniversary of the fall of the Bashar al-Assad regime fast approaching, the Security Council today took stock of Syria’s transition, with speakers highlighting political gains and persistent challenges.",
+      "link": "https://press.un.org/en/2026/sc16511.doc.htm",
+      "publishedAt": "2026-11-16T22:02:50.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli military operations in Syria continue 'relentlessly', UN says",
+      "excerpt": "Israel is “relentlessly” conducting military operations in south-western Syria, violating Syrian sovereignty as Damascus struggles to stabilise the country, a senior UN official said on Monday.Claudio Cordone, the UN's deputy special envoy ",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/16/israeli-military-syria-druze-sweida/",
+      "publishedAt": "2026-11-16T21:47:40.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "EU to revive long-stalled association agreement with Syria: What to know",
+      "excerpt": "The bloc plans to sign a 2008 agreement to deepen ties with Damascus while negotiating a modernized pact.",
+      "link": "https://www.al-monitor.com/originals/2026/11/eu-revive-long-stalled-association-agreement-syria-what-know",
+      "publishedAt": "2026-11-16T20:38:14.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria’s UN envoy criticizes Israeli attacks at Security Council",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s ambassador to the United Nations, Ibrahim Olabi, said on Monday that Syrians were tired of Israeli attacks and what he described as weak pretexts used to justify them. Speaking at a UN Security Counci",
+      "link": "https://npasyria.com/en/143820/",
+      "publishedAt": "2026-11-16T19:38:31.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Iran’s proxy militia in Iraq rakes in hundreds of millions through oil smuggling, officials say",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/746309' alt='Members of the Iraqi armed group Kataib Hezbollah hold flags during the funeral of their members, who were",
+      "link": "https://www.jpost.com/middle-east/article-915084",
+      "publishedAt": "2026-11-16T19:15:30.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "علبي: سوريا تمثل اختباراً جديداً للمجتمع الدولي وفرصة لترجمة الدعم إلى شراكة",
+      "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي أن سوريا تمثل اليوم اختباراً للمجتمع الدولي بما تحمله من فرص واعدة، مشيراً إلى أن السؤال المطروح يتمثل في كيفية تحويل الدعم السياسي الذي يُعبّر عنه في مجلس الأمن إلى شراكة تحمي ما ينجزه ",
+      "link": "https://sana.sy/syria-and-the-world/2636977/",
+      "publishedAt": "2026-11-16T18:13:30.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "‘Stable Syria in Europe’s interest’: EU wins backing for deal with Damascus",
+      "excerpt": "European Union members have backed a proposal to reach an agreement with Syria that would open the door to more trade and closer political ties.Kaja Kallas, the EU's foreign affairs chief, said the bloc was seeking a “major upgrade in its t",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/16/stable-syria-in-europes-interest-eu-wins-backing-for-deal-with-damascus/",
+      "publishedAt": "2026-11-16T16:49:40.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية نمساوية في فيينا لتعزيز الشراكة ‏ودعم إعادة الإعمار",
+      "excerpt": "بحثت مديرة إدارة شؤون المغتربين واللاجئين في ‏وزارة الخارجية ‏السورية نهلة عثمان مع نائب المدير ‏العام ورئيسة إدارة شؤون اللجوء ‏والرعاية الأساسية ‏والحدود والتأشيرات والعودة في وزارة الداخلية ‌‏النمساوية إليزابيث فينغر-دونيغ في فيينا، اليو",
+      "link": "https://sana.sy/syria-and-the-world/2636762/",
+      "publishedAt": "2026-11-16T15:18:51.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria integration committee outlines plans for Rojava University",
+      "excerpt": "QAMISHLI, Syria (North Press) – A committee overseeing the integration of Autonomous Administration institutions into Syrian government bodies outlined on Monday proposed arrangements for Rojava University, saying admissions announced outsi",
+      "link": "https://npasyria.com/en/143814/",
+      "publishedAt": "2026-11-16T15:13:38.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مسؤولون أوروبيون يؤكدون دعم استقرار سوريا وتوسيع التعاون معها",
+      "excerpt": "أعرب مسؤولون أوروبيون اليوم الإثنين عن دعمهم جهود سوريا الرامية إلى تعزيز الأمن ‏والاستقرار، مؤكدين أهمية تطوير العلاقات معها وتوسيع مجالات التعاون.‏",
+      "link": "https://sana.sy/syria-and-the-world/2636657/",
+      "publishedAt": "2026-11-16T14:00:16.000Z"
+    }
+  ]
+}
