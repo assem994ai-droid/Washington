@@ -1,26 +1,28 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-17T21:23:19.543Z",
+    "generatedAt": "2026-11-18T02:59:58.636Z",
     "windowHours": 24,
-    "from": "2026-11-16T21:23:19.543Z",
-    "to": "2026-11-17T21:23:19.543Z"
+    "from": "2026-11-17T02:59:58.636Z",
+    "to": "2026-11-18T02:59:58.636Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 32,
+    "items": 27,
     "files": 6,
-    "withNew": 5,
-    "stale": 1,
+    "withNew": 2,
+    "stale": 4,
     "contested": 1,
     "echoed": 0,
     "americanItems": 5,
-    "archiveCycles": 1390
+    "archiveCycles": 1391
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الإعلام الدولي",
+    "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
@@ -31,28 +33,40 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "سانا — قسم السياسة",
         "تلفزيون سوريا",
-        "Al Jazeera English",
         "The National",
         "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الإعلام الدولي",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 8 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 8,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 64,
+      "score": 31,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مصر تدين التوغلات الإسرائيلية في ريفي القنيطرة ودرعا وتؤكد انتهاكها لسيادة ‏سوريا",
+          "excerpt": "أدانت مصر بأشد العبارات، اليوم الثلاثاء، استمرار التوغلات الإسرائيلية في ريفي ‏القنيطرة ودرعا وما يرافقها من اعتداءات متكررة بحق المدنيين، مؤكدة أنها تشكل ‏انتهاكاً صارخاً لسيادة سوريا ووحدة أراضيها وسلامتها ولقواعد القانون الدولي ‏والقانون",
+          "link": "https://sana.sy/politics/2637943/",
+          "publishedAt": "2026-11-17T21:26:04.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -65,7 +79,7 @@
             "israel",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -79,7 +93,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -93,7 +107,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -107,21 +121,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Israeli forces invade Syrian village leaving homes damaged",
-          "excerpt": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
-          "publishedAt": "2026-11-17T17:57:20.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -135,7 +135,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -149,7 +149,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -163,7 +163,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -207,31 +207,98 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "سانا — قسم السياسة",
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 4,
+      "score": 30,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية أمريكية لتعزيز التعاون في ملف المفقودين",
+          "excerpt": "بحث رئيس الهيئة الوطنية للمفقودين، محمد رضى جلخي، مع وفد من وزارة الخارجية الأمريكية، برئاسة رايلي إم. بارنز، مساعد وزير الخارجية لشؤون الديمقراطية وحقوق الإنسان والعمل (DRL)، وبمشاركة نائبه جيكوب ماك جي، وعدد من المسؤولين في الوزارة، آفاق ",
+          "link": "https://sana.sy/politics/2638005/",
+          "publishedAt": "2026-11-17T22:35:13.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": true
         },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "قصف إسرائيلي يستهدف قرى غربي درعا ويتسبب بنزوح مدنيين من كويا",
-          "excerpt": "شهد ريف درعا الغربي، فجر اليوم الثلاثاء، تصعيداً عسكرياً من قوات الاحتلال الإسرائيلي، شمل قصف محيط عدة قرى واستهداف منازل مدنيين بالرشاشات الثقيلة..",
-          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%89-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D9%86%D8%B2%D9%88%D8%AD-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D9%83%D9%88%D9%8A%D8%A7",
-          "publishedAt": "2026-11-16T23:18:38.000Z",
+          "title": "الشيباني وبراك يبحثان التنسيق لتعزيز الاستقرار وتطورات الشراكة السورية الأوروبية",
+          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني والمبعوث الأميركي الخاص إلى سوريا والعراق توماس براك، خلال لقائهما في العاصمة التركية أنقرة، تعزيز العلاقات بين دمشق",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
+          "publishedAt": "2026-11-17T20:59:24.000Z",
           "files": [
-            "israel"
+            "diplomacy"
           ],
           "seenBefore": true,
-          "us": false
+          "us": true
         },
         {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli military operations in Syria continue 'relentlessly', UN says",
-          "excerpt": "Israel is “relentlessly” conducting military operations in south-western Syria, violating Syrian sovereignty as Damascus struggles to stabilise the country, a senior UN official said on Monday.Claudio Cordone, the UN's deputy special envoy ",
-          "link": "https://www.thenationalnews.com/news/us/2026/11/16/israeli-military-syria-druze-sweida/",
-          "publishedAt": "2026-11-16T21:47:40.000Z",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria, U.S. discuss regional security in Barrack-Shaibani meeting",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani met U.S. Special Presidential Envoy for Syria and Iraq Thomas Barrack in Ankara on Tuesday to discuss bilateral relations and regional coordination. The Syrian Foreig",
+          "link": "https://npasyria.com/en/143846/",
+          "publishedAt": "2026-11-17T19:54:18.000Z",
           "files": [
-            "israel"
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الشيباني يبحث مع المبعوث الأمريكي تعزيز العلاقات واستقرار المنطقة",
+          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الثلاثاء، المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس باراك في العاصمة التركية أنقرة.",
+          "link": "https://sana.sy/politics/2637792/",
+          "publishedAt": "2026-11-17T19:14:49.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Work underway to reopen Qamishli-Nusaybin crossing- Al-Shaibani",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria is working to reopen the Qamishli-Nusaybin border crossing soon, Foreign Minister Asaad al-Shaibani said on Tuesday during a visit to Ankara. Speaking at a joint press conference with Turkish Foreign Mi",
+          "link": "https://npasyria.com/en/143839/",
+          "publishedAt": "2026-11-17T15:58:31.000Z",
+          "files": [
+            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -243,10 +310,9 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "North Press Agency (English)",
-        "Al-Monitor",
         "The National",
         "تلفزيون سوريا",
         "Jerusalem Post — الشرق الأوسط"
@@ -256,13 +322,13 @@
         "الإعلام المتخصص",
         "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-17 21:23",
       "isFollowUp": true,
-      "newItems": 4,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
-      "usItems": 2,
-      "score": 45,
+      "usItems": 1,
+      "score": 15,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -273,20 +339,8 @@
           "link": "https://npasyria.com/en/143843/",
           "publishedAt": "2026-11-17T18:36:29.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "UN agency warns of Gaza hypothermia deaths without more supplies",
-          "excerpt": "<p>By Emma Farge</p><p>GENEVA, Nov 17 (Reuters) - The UN migration agency warned on Tuesday of further deaths from hypothermia in Gaza and called for more funding and shelter supplies ahead of winter after a baby died from cold.</p><p>Heavy",
-          "link": "https://www.al-monitor.com/originals/2026/11/un-agency-warns-gaza-hypothermia-deaths-without-more-supplies",
-          "publishedAt": "2026-11-17T15:47:58.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
         },
         {
           "source": "The National",
@@ -297,7 +351,7 @@
           "link": "https://www.thenationalnews.com/news/uae/2026/11/17/sheikha-fatima-to-pay-for-75-million-restoration-of-umayyad-mosque-in-damascus/",
           "publishedAt": "2026-11-17T14:59:38.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -309,7 +363,7 @@
           "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D8%B0%D9%83%D8%B1-%D8%A8%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%B1%D9%85%D8%B2-%D8%A7%D9%84%D9%86%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D9%8F%D8%B7%D8%B1%D9%8A-%D9%81%D9%8A-5-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
           "publishedAt": "2026-11-17T12:39:47.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -335,127 +389,6 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "سوريا.. أهمية الإدارة الرشيدة في زمن العواصف والتحوّلات",
-          "excerpt": "يحظى الاجتماع الثلاثي المرتقب بعد أيام في الصين، بين كل من الرئيس الأميركي دونالد ترامب، والرئيس الروسي فلاديمير بوتين، والرئيس الصيني شي جين بينغ، باهتمام است",
-          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D8%B5%D9%81-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%91%D9%84%D8%A7%D8%AA",
-          "publishedAt": "2026-11-17T02:36:58.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "كيف نجعل هذا الشتاء السوري دافئاً؟",
-          "excerpt": "تنص المادة 25 من الإعلان العالمي لحقوق الإنسان، الصادر عن الأمم المتحدة عام 1948، على: \"لكل شخص الحق في مستوى معيشة يكفي لضمان الصحة والرفاهية له ولأسرته،",
-          "link": "https://www.syria.tv/%D9%83%D9%8A%D9%81-%D9%86%D8%AC%D8%B9%D9%84-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%AF%D8%A7%D9%81%D8%A6%D8%A7%D9%8B%D8%9F",
-          "publishedAt": "2026-11-17T02:36:12.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 4,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)",
-        "سانا — قسم السياسة",
-        "UN Press — بيانات الأمم المتحدة ومجلس الأمن"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "التقارير الرسمية الدورية"
-      ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 4,
-      "stale": false,
-      "echoed": false,
-      "usItems": 3,
-      "score": 42,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني وبراك يبحثان التنسيق لتعزيز الاستقرار وتطورات الشراكة السورية الأوروبية",
-          "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني والمبعوث الأميركي الخاص إلى سوريا والعراق توماس براك، خلال لقائهما في العاصمة التركية أنقرة، تعزيز العلاقات بين دمشق",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
-          "publishedAt": "2026-11-17T20:59:24.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria, U.S. discuss regional security in Barrack-Shaibani meeting",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani met U.S. Special Presidential Envoy for Syria and Iraq Thomas Barrack in Ankara on Tuesday to discuss bilateral relations and regional coordination. The Syrian Foreig",
-          "link": "https://npasyria.com/en/143846/",
-          "publishedAt": "2026-11-17T19:54:18.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يبحث مع المبعوث الأمريكي تعزيز العلاقات واستقرار المنطقة",
-          "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الثلاثاء، المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس باراك في العاصمة التركية أنقرة.",
-          "link": "https://sana.sy/politics/2637792/",
-          "publishedAt": "2026-11-17T19:14:49.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Work underway to reopen Qamishli-Nusaybin crossing- Al-Shaibani",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria is working to reopen the Qamishli-Nusaybin border crossing soon, Foreign Minister Asaad al-Shaibani said on Tuesday during a visit to Ankara. Speaking at a joint press conference with Turkish Foreign Mi",
-          "link": "https://npasyria.com/en/143839/",
-          "publishedAt": "2026-11-17T15:58:31.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-          "sourceId": "unpress",
-          "circle": "التقارير الرسمية الدورية",
-          "title": "Nearly Two Years after Assad’s Fall, Deputy Special Envoy Warns Security Council on Syria’s Political Gains, Persistent Violence",
-          "excerpt": "With the second anniversary of the fall of the Bashar al-Assad regime fast approaching, the Security Council today took stock of Syria’s transition, with speakers highlighting political gains and persistent challenges.",
-          "link": "https://press.un.org/en/2026/sc16511.doc.htm",
-          "publishedAt": "2026-11-16T22:02:50.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
@@ -473,13 +406,13 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-17 21:23",
       "isFollowUp": true,
-      "newItems": 4,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 33,
+      "score": 12,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -492,7 +425,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -507,7 +440,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -522,7 +455,7 @@
             "turkey",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -538,7 +471,7 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -555,13 +488,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-17 21:23",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 12,
+      "score": 3,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -574,7 +507,7 @@
           "files": [
             "sdf"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
@@ -591,7 +524,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-17 12:46",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-17 21:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,

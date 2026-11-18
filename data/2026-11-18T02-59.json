@@ -1,0 +1,270 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-18T02:59:58.636Z",
+    "windowHours": 24,
+    "from": "2026-11-17T02:59:58.636Z",
+    "to": "2026-11-18T02:59:58.636Z"
+  },
+  "counts": {
+    "total": 27,
+    "byCircle": {
+      "المصادر الرسمية السورية": 8,
+      "الإعلام السوري المستقل": 16,
+      "الإعلام المتخصص": 2,
+      "الملف الإسرائيلي والتركي": 1
+    },
+    "bySource": {
+      "سانا — قسم السياسة": 8,
+      "تلفزيون سوريا": 10,
+      "North Press Agency (English)": 6,
+      "The National": 2,
+      "Jerusalem Post — الشرق الأوسط": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية أمريكية لتعزيز التعاون في ملف المفقودين",
+      "excerpt": "بحث رئيس الهيئة الوطنية للمفقودين، محمد رضى جلخي، مع وفد من وزارة الخارجية الأمريكية، برئاسة رايلي إم. بارنز، مساعد وزير الخارجية لشؤون الديمقراطية وحقوق الإنسان والعمل (DRL)، وبمشاركة نائبه جيكوب ماك جي، وعدد من المسؤولين في الوزارة، آفاق ",
+      "link": "https://sana.sy/politics/2638005/",
+      "publishedAt": "2026-11-17T22:35:13.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مصر تدين التوغلات الإسرائيلية في ريفي القنيطرة ودرعا وتؤكد انتهاكها لسيادة ‏سوريا",
+      "excerpt": "أدانت مصر بأشد العبارات، اليوم الثلاثاء، استمرار التوغلات الإسرائيلية في ريفي ‏القنيطرة ودرعا وما يرافقها من اعتداءات متكررة بحق المدنيين، مؤكدة أنها تشكل ‏انتهاكاً صارخاً لسيادة سوريا ووحدة أراضيها وسلامتها ولقواعد القانون الدولي ‏والقانون",
+      "link": "https://sana.sy/politics/2637943/",
+      "publishedAt": "2026-11-17T21:26:04.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الخارجية: الاحتلال الإسرائيلي يسعى إلى فرض واقع غير شرعي بقوة السلاح بالقنيطرة ودرعا",
+      "excerpt": "أدانت وزارة الخارجية والمغتربين بأشد العبارات استمرار التوغلات الإسرائيلية في أرياف ‏محافظتَي القنيطرة ودرعا بالجنوب السوري، وما يرافقها من اعتداءات وتجاوزات متكررة بحق ‏المدنيين، بمن فيهم النساء والأطفال وكبار السن، الأمر الذي يُعد خرقاً ص",
+      "link": "https://sana.sy/politics/2637922/",
+      "publishedAt": "2026-11-17T21:14:46.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا تدين الاعتداءات الإسرائيلية في القنيطرة ودرعا وتطالب بموقف دولي حازم",
+      "excerpt": "الخارجية السورية تدين التوغلات الإسرائيلية في درعا والقنيطرة، بالتزامن مع تصعيد ميداني.. إلى أين تتجه الأوضاع؟",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D9%85%D9%88%D9%82%D9%81-%D8%AF%D9%88%D9%84%D9%8A-%D8%AD%D8%A7%D8%B2%D9%85",
+      "publishedAt": "2026-11-17T21:07:20.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الشيباني وبراك يبحثان التنسيق لتعزيز الاستقرار وتطورات الشراكة السورية الأوروبية",
+      "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني والمبعوث الأميركي الخاص إلى سوريا والعراق توماس براك، خلال لقائهما في العاصمة التركية أنقرة، تعزيز العلاقات بين دمشق",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
+      "publishedAt": "2026-11-17T20:59:24.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الأردن يدين استمرار التوغلات الإسرائيلية في جنوب سوريا ويدعو إلى وقف ‏الانتهاكات",
+      "excerpt": "أدان الأردن، اليوم الثلاثاء، استمرار التوغلات الإسرائيلية في جنوب سوريا، وما ‌‏يصاحبها من اعتداءات وانتهاكات متكررة بحق المدنيين، مشدداً على أنها تشكل ‏انتهاكاً لسيادة ‏الجمهورية العربية السورية ووحدة أراضيها، وخرقاً فاضحاً للقانون ‏الدولي.",
+      "link": "https://sana.sy/politics/2637921/",
+      "publishedAt": "2026-11-17T20:56:58.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria, U.S. discuss regional security in Barrack-Shaibani meeting",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syrian Foreign Minister Asaad al-Shaibani met U.S. Special Presidential Envoy for Syria and Iraq Thomas Barrack in Ankara on Tuesday to discuss bilateral relations and regional coordination. The Syrian Foreig",
+      "link": "https://npasyria.com/en/143846/",
+      "publishedAt": "2026-11-17T19:54:18.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "توغل للاحتلال الإسرائيلي وقصف مدفعي في القنيطرة وتحليق مروحي غربي درعا",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، اليوم الثلاثاء، بسيارتين في محيط قرية صيدا الحانوت بريف القنيطرة الجنوبي، بالتزامن مع قصف مدفعي استهدف أراضي زراعية",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%85%D8%B1%D9%88%D8%AD%D9%8A-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-11-17T19:21:23.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الشيباني يبحث مع المبعوث الأمريكي تعزيز العلاقات واستقرار المنطقة",
+      "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الثلاثاء، المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس باراك في العاصمة التركية أنقرة.",
+      "link": "https://sana.sy/politics/2637792/",
+      "publishedAt": "2026-11-17T19:14:49.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. strike targets air defense site on Iran’s Qeshm Island",
+      "excerpt": "QAMISHLI, Iran (North Press) – Iranian media reported on Tuesday that a U.S. strike targeted the Nariman air defense site on Qeshm Island following reports of several explosions and smoke over the island. Iran’s Fars News Agency reported th",
+      "link": "https://npasyria.com/en/143843/",
+      "publishedAt": "2026-11-17T18:36:29.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تركيا تكشف أعداد السوريين العائدين والمقيمين على أراضيها",
+      "excerpt": "أعلن وزير الداخلية التركي أن 775 ألفاً و389 سورياً عادوا طوعاً وبأمان وكرامة إلى بلادهم خلال الفترة الممتدة من 9 من كانون الأول 2024 حتى 31 من تشرين الأول 2026.",
+      "link": "https://www.syria.tv/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D9%83%D8%B4%D9%81-%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D9%82%D9%8A%D9%85%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
+      "publishedAt": "2026-11-17T17:06:35.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قطر تجدد رفضها الاحتلال الإسرائيلي للجولان وتدين التوغلات في سوريا",
+      "excerpt": "قطر ترفض التوغلات الإسرائيلية وتؤكد دعمها سيادة سوريا واستقلالها وسلامة أراضيها.. ما أهمية الموقف دولياً؟",
+      "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AC%D8%AF%D8%AF-%D8%B1%D9%81%D8%B6%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D9%88%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-17T16:12:27.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية تركية في أنقرة لتعزيز العلاقات والتعاون المشترك",
+      "excerpt": "بحث وزير الخارجية والمغتربين أسعد حسن الشيباني ووزير الدفاع اللواء مرهف أبو قصرة، مع وزير خارجية جمهورية تركيا هاكان فيدان ووزير الدفاع التركي يشار غولر، العلاقات الثنائية بين البلدين وسبل تعزيز التعاون المشترك في مختلف المجالات، وذلك في ال",
+      "link": "https://sana.sy/syria-and-the-world/2637553/",
+      "publishedAt": "2026-11-17T16:10:42.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Work underway to reopen Qamishli-Nusaybin crossing- Al-Shaibani",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria is working to reopen the Qamishli-Nusaybin border crossing soon, Foreign Minister Asaad al-Shaibani said on Tuesday during a visit to Ankara. Speaking at a joint press conference with Turkish Foreign Mi",
+      "link": "https://npasyria.com/en/143839/",
+      "publishedAt": "2026-11-17T15:58:31.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الشيباني وفيدان.. تعزيز العلاقات السورية التركية وتوسيع التعاون في مختلف ‏المجالات",
+      "excerpt": "أكد وزير الخارجية والمغتربين أسعد حسن الشيباني ونظيره التركي هاكان فيدان حرص ‏سوريا وتركيا على تعزيز العلاقات الثنائية، وتوسيع آفاق التعاون في مختلف ‏المجالات، وشددا على ضرورة احترام سيادة سوريا ووحدة أراضيها ووقف الاعتداءات ‏الإسرائيلية عل",
+      "link": "https://sana.sy/syria-and-the-world/2637527/",
+      "publishedAt": "2026-11-17T15:40:07.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الشيباني وفيدان يبحثان في أنقرة التعاون الأمني والاقتصادي وملفات الطاقة والمياه",
+      "excerpt": "بحث الشيباني وفيدان، سبل تعزيز التعاون الثنائي في المجالات الأمنية والدفاعية والاقتصادية، وتسريع تنفيذ مشاريع مشتركة في قطاعات الطاقة والنقل والربط الرقمي.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D9%88%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87",
+      "publishedAt": "2026-11-17T15:12:35.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Sheikha Fatima to pay for $75 million restoration of Umayyad Mosque in Damascus",
+      "excerpt": "Sheikha Fatima bint Mubarak, Mother of the Nation, is to pay for the $75 million restoration of Umayyad Mosque in Syria's capital, Damascus.State news agency Wam reported on Tuesday how Sheikha Fatima had directed the restoration, funded en",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/17/sheikha-fatima-to-pay-for-75-million-restoration-of-umayyad-mosque-in-damascus/",
+      "publishedAt": "2026-11-17T14:59:38.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "السورية للاتصالات تذكر بتعديل رمز النداء القُطري في 5 محافظات",
+      "excerpt": "الشركة السورية للاتصالات تذكّر المشتركين باعتماد رمز النداء القطري المعدّل في محافظات دير الزور وحمص وحماة وطرطوس واللاذقية ضمن خطة التنظيم.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D8%B0%D9%83%D8%B1-%D8%A8%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%B1%D9%85%D8%B2-%D8%A7%D9%84%D9%86%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%82%D9%8F%D8%B7%D8%B1%D9%8A-%D9%81%D9%8A-5-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
+      "publishedAt": "2026-11-17T12:39:47.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "من يمين إلى يسار.. كيف تتشكل رواية الإعلام الإسرائيلي عن سوريا بعد الانتخابات؟",
+      "excerpt": "رغم الاختلافات السياسية والأيديولوجية التي تفصل بين وسائل الإعلام الإسرائيلية، من الصحف الليبرالية واليسارية إلى المنابر المحسوبة على اليمين القومي والديني..",
+      "link": "https://www.syria.tv/%D9%85%D9%86-%D9%8A%D9%85%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D9%8A%D8%B3%D8%A7%D8%B1-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B4%D9%83%D9%84-%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%D8%9F",
+      "publishedAt": "2026-11-17T11:36:16.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "World Bank approves $500 million in grants to support Syria’s recovery",
+      "excerpt": "DAMASCUS, Syria (North Press) – The World Bank has approved grants worth around $500 million to support Syria’s electricity, water, health and public financial management sectors, the bank’s Middle East Director Dahlia Khalifa said on Tuesd",
+      "link": "https://npasyria.com/en/143832/",
+      "publishedAt": "2026-11-17T11:01:02.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "30 آلية وطرق مغلقة ومخلفات لتوغل الاحتلال.. ماذا جرى غربي درعا؟| فيديو",
+      "excerpt": "كشفت معلومات حصل عليها موقع تلفزيون سوريا تفاصيل جديدة عن التوغل الإسرائيلي الذي شهدته منطقة حوض اليرموك بريف درعا الغربي، مساء الإثنين وفجر الثلاثاء، ولا سيما",
+      "link": "https://www.syria.tv/30-%D8%A2%D9%84%D9%8A%D8%A9-%D9%88%D8%B7%D8%B1%D9%82-%D9%85%D8%BA%D9%84%D9%82%D8%A9-%D9%88%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D9%84%D8%AA%D9%88%D8%BA%D9%84-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%85%D8%A7%D8%B0%D8%A7-%D8%AC%D8%B1%D9%89-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7%D8%9F-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "publishedAt": "2026-11-17T10:20:52.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر تجدد تأكيدها أن الجولان أرض عربية سورية محتلة",
+      "excerpt": "جدّدت دولة قطر تأكيد موقفها الثابت بأن الجولان أرض عربية سورية محتلة، وأن جميع الإجراءات غير القانونية التي تفرضها إسرائيل فيه تشكل انتهاكاً للقانون الدولي.",
+      "link": "https://sana.sy/syria-and-the-world/2637306/",
+      "publishedAt": "2026-11-17T09:52:20.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Iran's attacks on Bahrain expose Tehran's broader strategy to destabilize the Gulf - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2019,w_3588/746674' alt='Locals in front of a wall where graffiti has been blackened out in a Shi’ite village in Diraz, Bahrain, No",
+      "link": "https://www.jpost.com/middle-east/article-915137",
+      "publishedAt": "2026-11-17T09:49:19.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli patrol comes under rare attack in southern Syria, security source says",
+      "excerpt": "The Israeli military attacked a Syrian village near the occupied Golan Heights in the early hours of Tuesday after one of its patrols came under a rare assault, a security source told The National.Gunmen fired “individual weapons” at an Isr",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/17/syrians-flee-as-israeli-forces-raid-homes-and-shell-farmland-in-south/",
+      "publishedAt": "2026-11-17T08:09:29.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "أزمة جامعة \"روج آفا\".. هل تكشف خلافات الدمج هشاشة التفاهمات بين الحكومة وقسد؟",
+      "excerpt": "أثارت توترات جامعة روج آفا تساؤلات بشأن دمج المؤسسات التعليمية في شمال شرقي سوريا، وقدرة التفاهمات بين دمشق وقسد على احتواء الخلافات.",
+      "link": "https://www.syria.tv/%D8%A3%D8%B2%D9%85%D8%A9-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B1%D9%88%D8%AC-%D8%A2%D9%81%D8%A7-%D9%87%D9%84-%D8%AA%D9%83%D8%B4%D9%81-%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%85%D8%AC-%D9%87%D8%B4%D8%A7%D8%B4%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D9%82%D8%B3%D8%AF%D8%9F",
+      "publishedAt": "2026-11-17T07:41:17.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli force enters villages in Syria&#8217;s Daraa with 30 vehicles",
+      "excerpt": "DARAA, Syria (North Press) – An Israeli force of entered on Monday the western countryside of Daraa, southern Syria, searched homes and fired toward a village, while local sources reported an assault on a minibus driver. An Israeli military",
+      "link": "https://npasyria.com/en/143826/",
+      "publishedAt": "2026-11-17T07:22:37.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Challenges persist in implementing NE Syria integration agreement – UN envoy",
+      "excerpt": "QAMISHLI, Syria (North Press) – UN Special Envoy for Syria Claudio Cordone said on Monday that challenges remain in implementing the January 29 agreement in northeast Syria, highlighting unresolved issues related to the integration of the S",
+      "link": "https://npasyria.com/en/143823/",
+      "publishedAt": "2026-11-17T06:32:48.000Z"
+    }
+  ]
+}

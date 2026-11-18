@@ -1,33 +1,46 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-17T21:23:19.543Z",
+    "generatedAt": "2026-11-18T02:59:58.636Z",
     "windowHours": 24,
-    "from": "2026-11-16T21:23:19.543Z",
-    "to": "2026-11-17T21:23:19.543Z"
+    "from": "2026-11-17T02:59:58.636Z",
+    "to": "2026-11-18T02:59:58.636Z"
   },
   "counts": {
-    "total": 32,
+    "total": 27,
     "byCircle": {
-      "المصادر الرسمية السورية": 6,
-      "الإعلام السوري المستقل": 19,
-      "الإعلام الدولي": 1,
-      "الإعلام المتخصص": 4,
-      "الملف الإسرائيلي والتركي": 1,
-      "التقارير الرسمية الدورية": 1
+      "المصادر الرسمية السورية": 8,
+      "الإعلام السوري المستقل": 16,
+      "الإعلام المتخصص": 2,
+      "الملف الإسرائيلي والتركي": 1
     },
     "bySource": {
-      "سانا — قسم السياسة": 6,
-      "تلفزيون سوريا": 13,
+      "سانا — قسم السياسة": 8,
+      "تلفزيون سوريا": 10,
       "North Press Agency (English)": 6,
-      "Al Jazeera English": 1,
-      "Al-Monitor": 1,
-      "The National": 3,
-      "Jerusalem Post — الشرق الأوسط": 1,
-      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 1
+      "The National": 2,
+      "Jerusalem Post — الشرق الأوسط": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية أمريكية لتعزيز التعاون في ملف المفقودين",
+      "excerpt": "بحث رئيس الهيئة الوطنية للمفقودين، محمد رضى جلخي، مع وفد من وزارة الخارجية الأمريكية، برئاسة رايلي إم. بارنز، مساعد وزير الخارجية لشؤون الديمقراطية وحقوق الإنسان والعمل (DRL)، وبمشاركة نائبه جيكوب ماك جي، وعدد من المسؤولين في الوزارة، آفاق ",
+      "link": "https://sana.sy/politics/2638005/",
+      "publishedAt": "2026-11-17T22:35:13.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مصر تدين التوغلات الإسرائيلية في ريفي القنيطرة ودرعا وتؤكد انتهاكها لسيادة ‏سوريا",
+      "excerpt": "أدانت مصر بأشد العبارات، اليوم الثلاثاء، استمرار التوغلات الإسرائيلية في ريفي ‏القنيطرة ودرعا وما يرافقها من اعتداءات متكررة بحق المدنيين، مؤكدة أنها تشكل ‏انتهاكاً صارخاً لسيادة سوريا ووحدة أراضيها وسلامتها ولقواعد القانون الدولي ‏والقانون",
+      "link": "https://sana.sy/politics/2637943/",
+      "publishedAt": "2026-11-17T21:26:04.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -101,15 +114,6 @@
       "publishedAt": "2026-11-17T18:36:29.000Z"
     },
     {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Israeli forces invade Syrian village leaving homes damaged",
-      "excerpt": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
-      "publishedAt": "2026-11-17T17:57:20.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -144,15 +148,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – Syria is working to reopen the Qamishli-Nusaybin border crossing soon, Foreign Minister Asaad al-Shaibani said on Tuesday during a visit to Ankara. Speaking at a joint press conference with Turkish Foreign Mi",
       "link": "https://npasyria.com/en/143839/",
       "publishedAt": "2026-11-17T15:58:31.000Z"
-    },
-    {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "UN agency warns of Gaza hypothermia deaths without more supplies",
-      "excerpt": "<p>By Emma Farge</p><p>GENEVA, Nov 17 (Reuters) - The UN migration agency warned on Tuesday of further deaths from hypothermia in Gaza and called for more funding and shelter supplies ahead of winter after a baby died from cold.</p><p>Heavy",
-      "link": "https://www.al-monitor.com/originals/2026/11/un-agency-warns-gaza-hypothermia-deaths-without-more-supplies",
-      "publishedAt": "2026-11-17T15:47:58.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
@@ -270,51 +265,6 @@
       "excerpt": "QAMISHLI, Syria (North Press) – UN Special Envoy for Syria Claudio Cordone said on Monday that challenges remain in implementing the January 29 agreement in northeast Syria, highlighting unresolved issues related to the integration of the S",
       "link": "https://npasyria.com/en/143823/",
       "publishedAt": "2026-11-17T06:32:48.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "سوريا.. أهمية الإدارة الرشيدة في زمن العواصف والتحوّلات",
-      "excerpt": "يحظى الاجتماع الثلاثي المرتقب بعد أيام في الصين، بين كل من الرئيس الأميركي دونالد ترامب، والرئيس الروسي فلاديمير بوتين، والرئيس الصيني شي جين بينغ، باهتمام است",
-      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D8%B5%D9%81-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%91%D9%84%D8%A7%D8%AA",
-      "publishedAt": "2026-11-17T02:36:58.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "كيف نجعل هذا الشتاء السوري دافئاً؟",
-      "excerpt": "تنص المادة 25 من الإعلان العالمي لحقوق الإنسان، الصادر عن الأمم المتحدة عام 1948، على: \"لكل شخص الحق في مستوى معيشة يكفي لضمان الصحة والرفاهية له ولأسرته،",
-      "link": "https://www.syria.tv/%D9%83%D9%8A%D9%81-%D9%86%D8%AC%D8%B9%D9%84-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%AF%D8%A7%D9%81%D8%A6%D8%A7%D9%8B%D8%9F",
-      "publishedAt": "2026-11-17T02:36:12.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "قصف إسرائيلي يستهدف قرى غربي درعا ويتسبب بنزوح مدنيين من كويا",
-      "excerpt": "شهد ريف درعا الغربي، فجر اليوم الثلاثاء، تصعيداً عسكرياً من قوات الاحتلال الإسرائيلي، شمل قصف محيط عدة قرى واستهداف منازل مدنيين بالرشاشات الثقيلة..",
-      "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%89-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D9%8A%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D9%86%D8%B2%D9%88%D8%AD-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D9%83%D9%88%D9%8A%D8%A7",
-      "publishedAt": "2026-11-16T23:18:38.000Z"
-    },
-    {
-      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
-      "sourceId": "unpress",
-      "circle": "التقارير الرسمية الدورية",
-      "title": "Nearly Two Years after Assad’s Fall, Deputy Special Envoy Warns Security Council on Syria’s Political Gains, Persistent Violence",
-      "excerpt": "With the second anniversary of the fall of the Bashar al-Assad regime fast approaching, the Security Council today took stock of Syria’s transition, with speakers highlighting political gains and persistent challenges.",
-      "link": "https://press.un.org/en/2026/sc16511.doc.htm",
-      "publishedAt": "2026-11-16T22:02:50.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Israeli military operations in Syria continue 'relentlessly', UN says",
-      "excerpt": "Israel is “relentlessly” conducting military operations in south-western Syria, violating Syrian sovereignty as Damascus struggles to stabilise the country, a senior UN official said on Monday.Claudio Cordone, the UN's deputy special envoy ",
-      "link": "https://www.thenationalnews.com/news/us/2026/11/16/israeli-military-syria-druze-sweida/",
-      "publishedAt": "2026-11-16T21:47:40.000Z"
     }
   ]
 }
