@@ -1,32 +1,119 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-18T19:28:53.702Z",
+    "generatedAt": "2026-11-19T01:22:51.480Z",
     "windowHours": 24,
-    "from": "2026-11-17T19:28:53.702Z",
-    "to": "2026-11-18T19:28:53.702Z"
+    "from": "2026-11-18T01:22:51.480Z",
+    "to": "2026-11-19T01:22:51.480Z"
   },
   "counts": {
-    "total": 38,
+    "total": 30,
     "byCircle": {
-      "المصادر الرسمية السورية": 14,
-      "الإعلام السوري المستقل": 18,
-      "الإعلام المتخصص": 4,
+      "التقارير الرسمية الدورية": 2,
+      "الإعلام السوري المستقل": 11,
+      "المصادر الرسمية السورية": 12,
+      "الإعلام المتخصص": 3,
       "الملف التركي": 1,
       "مراكز الفكر": 1
     },
     "bySource": {
-      "سانا — قسم السياسة": 14,
-      "North Press Agency (English)": 7,
-      "Middle East Eye": 1,
+      "UN Press — بيانات الأمم المتحدة ومجلس الأمن": 2,
       "تلفزيون سوريا": 11,
+      "سانا — قسم السياسة": 12,
+      "Middle East Eye": 2,
       "The National": 1,
-      "Al-Monitor": 2,
       "Turkish Minute": 1,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1
     }
   },
-  "errors": [],
+  "errors": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "message": "The operation was aborted due to timeout"
+    }
+  ],
   "items": [
+    {
+      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+      "sourceId": "unpress",
+      "circle": "التقارير الرسمية الدورية",
+      "title": "Third Committee Approves Resolutions on Human Rights in Syria, Myanmar, Ukraine, Iran, Democratic People’s Republic of Korea amid Divisions over Country-Specific Scrutiny",
+      "excerpt": "The Third Committee (Social, Humanitarian and Cultural) today approved six draft resolutions, five addressing country-specific human rights situations, amid divisions over accountability and international scrutiny.",
+      "link": "https://press.un.org/en/2026/gashc4460.doc.htm",
+      "publishedAt": "2026-11-18T23:42:00.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قطر تدين توغلات الاحتلال الإسرائيلي جنوبي سوريا وتطالب بتحرك دولي عاجل",
+      "excerpt": "أدانت دولة قطر استمرار توغلات قوات الاحتلال الإسرائيلي في ريفي محافظتي القنيطرة ودرعا جنوبي سوريا، وما يرافقها من اعتداءات متكررة بحق المدنيين..",
+      "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AD%D8%B1%D9%83-%D8%AF%D9%88%D9%84%D9%8A-%D8%B9%D8%A7%D8%AC%D9%84",
+      "publishedAt": "2026-11-18T23:07:22.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الكويت تدين انتهاكات الاحتلال الإسرائيلي في درعا والقنيطرة",
+      "excerpt": "دانت الكويت استمرار انتهاكات الاحتلال الإسرائيلي في سوريا، في ظل تصاعد الانتهاكات في القنيطرة ودرعا",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-18T22:50:50.000Z"
+    },
+    {
+      "source": "UN Press — بيانات الأمم المتحدة ومجلس الأمن",
+      "sourceId": "unpress",
+      "circle": "التقارير الرسمية الدورية",
+      "title": "Concluding Session, Fourth Committee Approves Five Drafts, Including Texts on UNRWA Humanitarian Response, Israeli Settlements in Palestine, Syrian Golan",
+      "excerpt": "Approving texts supporting the operations of the Palestine refugee agency and condemning Israeli settlements, the Fourth Committee (Special Political and Decolonization) concluded its session today, even as Israel’s delegate deplored the us",
+      "link": "https://press.un.org/en/2026/gaspd858.doc.htm",
+      "publishedAt": "2026-11-18T22:43:17.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مستشار الشؤون العربية في الخارجية يبحث مع المبعوث البريطاني دور سوريا بخفض التصعيد",
+      "excerpt": "التقى مستشار الشؤون العربية في وزارة الخارجية والمغتربين محمد طه الأحمد اليوم الأربعاء، ‏المبعوث الخاص للمملكة المتحدة إلى سوريا هاري بيتش.‏",
+      "link": "https://sana.sy/politics/2639130/",
+      "publishedAt": "2026-11-18T22:35:10.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Qatar condemns Israeli incursions into Syria",
+      "excerpt": "<article data-history-node-id=\"451172\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israeli-incursions-syria\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israeli-incursions-syria",
+      "publishedAt": "2026-11-18T22:26:34.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر تدين التوغلات الإسرائيلية في جنوب سوريا",
+      "excerpt": "أدانت دولة قطر بشدة استمرار توغلات الاحتلال الإسرائيلي في أرياف محافظتي القنيطرة ‏ودرعا جنوب سوريا، وما يرافقها من اعتداءات وانتهاكات متكررة بحق المدنيين، بمن فيهم ‏النساء والأطفال وكبار السن.‏",
+      "link": "https://sana.sy/politics/2639119/",
+      "publishedAt": "2026-11-18T21:56:52.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli forces say ground operation in Gaza to dismantle Hamas tunnels",
+      "excerpt": "<article data-history-node-id=\"451165\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-say-ground-operation-gaza-dismantle-hamas-tunnels\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-say-ground-operation-gaza-dismantle-hamas-tunnels",
+      "publishedAt": "2026-11-18T20:48:30.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الوزير الشيباني يلتقي السفير الأمريكي فردريك هوف في بروكسل",
+      "excerpt": "التقى وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الأربعاء، المستشار الخاص السابق لشؤون الانتقال في سوريا لدى الولايات المتحدة السفير فردريك هوف، وذلك على هامش منتدى الاتحاد الأوروبي والمتوسط للأمن والسلام المنعقد في العاصمة البلجيكية ",
+      "link": "https://sana.sy/syria-and-the-world/2638999/",
+      "publishedAt": "2026-11-18T19:35:19.000Z"
+    },
     {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
@@ -37,15 +124,6 @@
       "publishedAt": "2026-11-18T18:51:24.000Z"
     },
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syria condemns Iranian attacks on Gulf states, UAE tanker",
-      "excerpt": "QAMISHLI, Syria (North Press) – Syria condemned Iranian drone attacks targeting Kuwait and Bahrain, as well as an attack on an oil tanker belonging to the United Arab Emirates, the Foreign Ministry said on Wednesday. In a statement, the Min",
-      "link": "https://npasyria.com/en/143890/",
-      "publishedAt": "2026-11-18T18:48:23.000Z"
-    },
-    {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
       "circle": "المصادر الرسمية السورية",
@@ -53,15 +131,6 @@
       "excerpt": "أكد مندوب سوريا الدائم لدى الأمم المتحدة إبراهيم علبي تمسك سوريا بالدبلوماسية ‏والعمل المتعدد الأطراف لنيل حقوقها وحقوق شعبها، والوفاء بالتزاماتها دون التفريط ‏بالحقوق الثابتة والراسخة للسوريين والسوريات، مشدداً على أن الانتهاكات الإسرائيلي",
       "link": "https://sana.sy/politics/2638953/",
       "publishedAt": "2026-11-18T18:42:58.000Z"
-    },
-    {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
-      "circle": "الإعلام المتخصص",
-      "title": "Israeli defence minister says Israel will indefinitely occupy Gaza, Lebanon, Syria",
-      "excerpt": "<article data-history-node-id=\"451150\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-says-israel-will-indefinitely-occupy-gaza\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-says-israel-will-indefinitely-occupy-gaza",
-      "publishedAt": "2026-11-18T18:29:40.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
@@ -127,15 +196,6 @@
       "publishedAt": "2026-11-18T16:33:52.000Z"
     },
     {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Israel army launches ground operation in Hamas-controlled area of Gaza",
-      "excerpt": "<p>The Israeli military said it had launched an operation on Wednesday in a Hamas-controlled area of central Gaza, where an AFP journalist saw Israeli tanks position themselves east of the Nuseirat refugee camp.</p> <p>The rare ground opera",
-      "link": "https://www.al-monitor.com/originals/2026/11/israel-army-launches-ground-operation-hamas-controlled-area-gaza",
-      "publishedAt": "2026-11-18T16:30:27.000Z"
-    },
-    {
       "source": "سانا — قسم السياسة",
       "sourceId": "sana-ar",
       "circle": "المصادر الرسمية السورية",
@@ -154,15 +214,6 @@
       "publishedAt": "2026-11-18T16:05:43.000Z"
     },
     {
-      "source": "Al-Monitor",
-      "sourceId": "al-monitor",
-      "circle": "الإعلام المتخصص",
-      "title": "Turkey turns up pressure over integration of Kurdish-led forces in Syria",
-      "excerpt": "Ankara is pressing for faster implementation of a deal to fold the Kurdish-led Syrian Democratic Forces into state institutions.",
-      "link": "https://www.al-monitor.com/originals/2026/11/turkey-turns-pressure-over-integration-kurdish-led-forces-syria",
-      "publishedAt": "2026-11-18T15:17:13.000Z"
-    },
-    {
       "source": "Turkish Minute",
       "sourceId": "turkishminute",
       "circle": "الملف التركي",
@@ -170,15 +221,6 @@
       "excerpt": "A total of 775,389 Syrians have returned to Syria from Turkey since the fall of Bashar al-Assad in December 2024, bringing the total number of returns since 2016 to more than 1.5 million, Turkish Interior Minister Mustafa Çiftçi announced. ",
       "link": "https://turkishminute.com/2026/11/18/returns-to-syria-from-turkey-exceed-775000-since-assads-fall-minister/",
       "publishedAt": "2026-11-18T15:09:08.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "One security officer killed, three injured in Damascus countryside",
-      "excerpt": "QAMISHLI, Syria (North Press) – One member of Syria’s Internal Security Forces was killed and three others injured during an armed clash with a wanted man in Jaramana, Damascus countryside, on Wednesday, a security source said. Al-Ikhbariya",
-      "link": "https://npasyria.com/en/143878/",
-      "publishedAt": "2026-11-18T14:47:33.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
@@ -217,15 +259,6 @@
       "publishedAt": "2026-11-18T11:09:18.000Z"
     },
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Jordan, Egypt condemn Israeli incursions into southern Syria",
-      "excerpt": "DAMASCUS, Syria (North Press) – Jordan and Egypt on Wednesday condemned frequent Israeli military incursions into Syria’s southern governorates of Quneitra and Daraa, as well as attacks and violations targeting local residents. In a stateme",
-      "link": "https://npasyria.com/en/143861/",
-      "publishedAt": "2026-11-18T11:04:03.000Z"
-    },
-    {
       "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
       "sourceId": "fdd",
       "circle": "مراكز الفكر",
@@ -253,15 +286,6 @@
       "publishedAt": "2026-11-18T10:32:22.000Z"
     },
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Katz warns Israel could seize more territory in Lebanon, Syria, Gaza",
-      "excerpt": "DAMASCUS, Syria (North Press) – Israeli Defense Minister Israel Katz said the Israeli military would not withdraw from what he described as “security zones” in Lebanon, Syria and the Gaza Strip, warning that it was prepared to launch ground",
-      "link": "https://npasyria.com/en/143858/",
-      "publishedAt": "2026-11-18T10:11:59.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -271,15 +295,6 @@
       "publishedAt": "2026-11-18T09:29:50.000Z"
     },
     {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Pakistani man sentenced to 27 years for Trump assassination plot",
-      "excerpt": "DAMASCUS, Syria (North Press) – A Pakistani man was sentenced to 27 years and six months in prison on Tuesday for plotting to assassinate U.S. President Donald Trump in retaliation for the 2020 killing of Qassem Suleimani, commander of Iran",
-      "link": "https://npasyria.com/en/143855/",
-      "publishedAt": "2026-11-18T08:13:32.000Z"
-    },
-    {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
       "circle": "الإعلام السوري المستقل",
@@ -287,87 +302,6 @@
       "excerpt": "في الحادي عشر من تشرين الثاني، وبينما كان مزارعو مزرعة الفتيان في ريف القنيطرة الجنوبي يتهيؤون لقطاف زيتونهم، توغلت دورية إسرائيلية في القرية، فاعتقلت شابًا..",
       "link": "https://www.syria.tv/%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%88%D8%AD%D8%AF%D9%87%D8%A7-%D9%83%D9%8A%D9%81-%D9%8A%D8%B5%D8%A8%D8%AD-%D8%A7%D9%84%D8%B5%D9%85%D9%88%D8%AF-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9%D8%9F",
       "publishedAt": "2026-11-18T07:26:29.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Iranian military claims attack on U.S. drone, missile facilities in Kuwait",
-      "excerpt": "DAMASCUS, Syria (North Press) – Iran’s military on Wednesday said it targeted U.S. facilities for drones and missiles at Ali Al Salem Air Base in Kuwait, Iranian state media reported, as Kuwait’s military said its air defenses had intercept",
-      "link": "https://npasyria.com/en/143852/",
-      "publishedAt": "2026-11-18T06:55:51.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Direct flights between Syria, Kurdistan Region of Iraq to begin in December",
-      "excerpt": "DAMASCUS, Syria (North Press) – Fly Erbil will begin operating regular direct flights between Damascus and Erbil on Dec. 2, Syria’s General Authority of Civil Aviation and Air Transport said on Tuesday. In a statement, the authority said th",
-      "link": "https://npasyria.com/en/143849/",
-      "publishedAt": "2026-11-18T06:25:48.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "مباحثات سورية أمريكية لتعزيز التعاون في ملف المفقودين",
-      "excerpt": "بحث رئيس الهيئة الوطنية للمفقودين، محمد رضى جلخي، مع وفد من وزارة الخارجية الأمريكية، برئاسة رايلي إم. بارنز، مساعد وزير الخارجية لشؤون الديمقراطية وحقوق الإنسان والعمل (DRL)، وبمشاركة نائبه جيكوب ماك جي، وعدد من المسؤولين في الوزارة، آفاق ",
-      "link": "https://sana.sy/politics/2638005/",
-      "publishedAt": "2026-11-17T22:35:13.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "مصر تدين التوغلات الإسرائيلية في ريفي القنيطرة ودرعا وتؤكد انتهاكها لسيادة ‏سوريا",
-      "excerpt": "أدانت مصر بأشد العبارات، اليوم الثلاثاء، استمرار التوغلات الإسرائيلية في ريفي ‏القنيطرة ودرعا وما يرافقها من اعتداءات متكررة بحق المدنيين، مؤكدة أنها تشكل ‏انتهاكاً صارخاً لسيادة سوريا ووحدة أراضيها وسلامتها ولقواعد القانون الدولي ‏والقانون",
-      "link": "https://sana.sy/politics/2637943/",
-      "publishedAt": "2026-11-17T21:26:04.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "الخارجية: الاحتلال الإسرائيلي يسعى إلى فرض واقع غير شرعي بقوة السلاح بالقنيطرة ودرعا",
-      "excerpt": "أدانت وزارة الخارجية والمغتربين بأشد العبارات استمرار التوغلات الإسرائيلية في أرياف ‏محافظتَي القنيطرة ودرعا بالجنوب السوري، وما يرافقها من اعتداءات وتجاوزات متكررة بحق ‏المدنيين، بمن فيهم النساء والأطفال وكبار السن، الأمر الذي يُعد خرقاً ص",
-      "link": "https://sana.sy/politics/2637922/",
-      "publishedAt": "2026-11-17T21:14:46.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "سوريا تدين الاعتداءات الإسرائيلية في القنيطرة ودرعا وتطالب بموقف دولي حازم",
-      "excerpt": "الخارجية السورية تدين التوغلات الإسرائيلية في درعا والقنيطرة، بالتزامن مع تصعيد ميداني.. إلى أين تتجه الأوضاع؟",
-      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D9%85%D9%88%D9%82%D9%81-%D8%AF%D9%88%D9%84%D9%8A-%D8%AD%D8%A7%D8%B2%D9%85",
-      "publishedAt": "2026-11-17T21:07:20.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الشيباني وبراك يبحثان التنسيق لتعزيز الاستقرار وتطورات الشراكة السورية الأوروبية",
-      "excerpt": "بحث وزير الخارجية السوري أسعد الشيباني والمبعوث الأميركي الخاص إلى سوريا والعراق توماس براك، خلال لقائهما في العاصمة التركية أنقرة، تعزيز العلاقات بين دمشق",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%88%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
-      "publishedAt": "2026-11-17T20:59:24.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "الأردن يدين استمرار التوغلات الإسرائيلية في جنوب سوريا ويدعو إلى وقف ‏الانتهاكات",
-      "excerpt": "أدان الأردن، اليوم الثلاثاء، استمرار التوغلات الإسرائيلية في جنوب سوريا، وما ‌‏يصاحبها من اعتداءات وانتهاكات متكررة بحق المدنيين، مشدداً على أنها تشكل ‏انتهاكاً لسيادة ‏الجمهورية العربية السورية ووحدة أراضيها، وخرقاً فاضحاً للقانون ‏الدولي.",
-      "link": "https://sana.sy/politics/2637921/",
-      "publishedAt": "2026-11-17T20:56:58.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "باراك: منتدى تنسيق الشراكة من أجل سوريا في دمشق‏ خطوة تاريخية للبلاد",
-      "excerpt": "وصف المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق، ‏توماس باراك، أعمال منتدى تنسيق ‏الشراكة",
-      "link": "https://sana.sy/politics/2638129/",
-      "publishedAt": "2026-11-17T20:55:00.000Z"
     }
   ]
 }
