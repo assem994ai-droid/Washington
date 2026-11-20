@@ -1,0 +1,142 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-20T00:40:08.983Z",
+    "windowHours": 24,
+    "from": "2026-11-19T00:40:08.983Z",
+    "to": "2026-11-20T00:40:08.983Z"
+  },
+  "counts": {
+    "total": 13,
+    "byCircle": {
+      "المصادر الرسمية السورية": 4,
+      "الإعلام السوري المستقل": 8,
+      "الملف الإسرائيلي والتركي": 1
+    },
+    "bySource": {
+      "سانا — قسم السياسة": 4,
+      "North Press Agency (English)": 2,
+      "تلفزيون سوريا": 6,
+      "Jerusalem Post — الشرق الأوسط": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية بريطانية لتفعيل التعاون البرلماني ولجان الصداقة المشتركة",
+      "excerpt": "بحث رئيس مجلس الشعب عبد الحميد العوّاك، مع وفد بريطاني برئاسة المبعوث ‏الخاص إلى سوريا باري بيتش، سبل ‏تطوير التعاون البرلماني الثنائي وتفعيل لجان الصداقة المشتركة بين البلدين.‏",
+      "link": "https://sana.sy/politics/2639999/",
+      "publishedAt": "2026-11-19T19:55:33.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "المصطفى يبحث مع مسؤولة أوروبية تطوير الشراكة المستقبلية",
+      "excerpt": "التقى مستشار الشؤون الأوروبية في وزارة الخارجية والمغتربين حمزة المصطفى، رئيسة وحدة شؤون سوريا ولبنان والأردن والعراق وإيران في الإدارة العامة للشرق الأوسط وشمال أفريقيا والخليج بالمفوضية الأوروبية آنا بيرس.",
+      "link": "https://sana.sy/politics/2639982/",
+      "publishedAt": "2026-11-19T19:32:09.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria condemns Houthi attacks on Saudi Arabia",
+      "excerpt": "QAMISHLI, Syria (North Press) &#8211; Syria’s Foreign Ministry on Thursday condemned missile and drone attacks carried out by Yemen’s Houthi group against vital sites and facilities in Saudi Arabia, which caused material damage. In a statem",
+      "link": "https://npasyria.com/en/143916/",
+      "publishedAt": "2026-11-19T17:50:26.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syrian FM arrives in Riyadh for talks with Saudi counterpart",
+      "excerpt": "QAMISHLI, Syria (North Press) &#8211; Syrian Foreign Minister Asaad al-Shaibani arrived in Riyadh on Thursday for talks with his Saudi counterpart, Prince Faisal bin Farhan, the Syrian Arab News Agency (SANA) reported. The Syrian Foreign Mi",
+      "link": "https://npasyria.com/en/143910/",
+      "publishedAt": "2026-11-19T16:56:04.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "توغلات إسرائيلية في ريفي القنيطرة ودرعا وتحليق للطائرات الحربية",
+      "excerpt": "أفاد مراسل تلفزيون سوريا، الخميس، بتوغل قوات الاحتلال الإسرائيلي في بلدة الرفيد بريف القنيطرة الجنوبي، بالتزامن مع تحركات عسكرية إسرائيلية في مناطق متفرقة من",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%84%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9",
+      "publishedAt": "2026-11-19T16:26:59.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الشيباني يصل إلى الرياض لإجراء مباحثات مع نظيره السعودي",
+      "excerpt": "وزير الخارجية والمغتربين السوري أسعد الشيباني يصل إلى الرياض",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A",
+      "publishedAt": "2026-11-19T16:11:50.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الشيباني يصل الرياض لإجراء مباحثات مع نظيره السعودي",
+      "excerpt": "وصل وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الخميس، إلى العاصمة ‏السعودية الرياض.‏",
+      "link": "https://sana.sy/syria-and-the-world/2639601/",
+      "publishedAt": "2026-11-19T14:14:48.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Can Iraq beat ISIS without US troops? New airstrikes highlight ongoing security threats - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3666,w_5500/747201' alt='A U.S. military vehicle moves during the transportation of Islamic State detainees from Syria to Iraq, acc",
+      "link": "https://www.jpost.com/middle-east/article-915471",
+      "publishedAt": "2026-11-19T14:09:13.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا ترحّب باعتماد اللجنة الرابعة للجمعية العامة قرار الجولان السوري المحتل",
+      "excerpt": "رحّب وزير الخارجية والمغتربين أسعد حسن الشيباني باعتماد اللجنة الرابعة للجمعية ‏العامة للأمم المتحدة قرار الجولان السوري المحتل، بتأييد 149 دولة، بزيادة ثلاثة ‏أصوات مقارنة بالعام الماضي، مشيراً إلى أن ذلك تأكيد دولي متجدد على حقوق ‏سوريا ا",
+      "link": "https://sana.sy/politics/2639373/",
+      "publishedAt": "2026-11-19T11:13:47.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "ما حقيقة اقتراب حسام حسن من تدريب منتخب سوريا؟",
+      "excerpt": "أثارت أنباء متداولة بشأن دخول الاتحاد السوري لكرة القدم في مفاوضات مع المدرب المصري حسام حسن، لتولي قيادة منتخب سوريا خلفاً للإسباني خوسيه لانا، تساؤلات واسعة..",
+      "link": "https://www.syria.tv/%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%A8-%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D9%85%D9%86-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+      "publishedAt": "2026-11-19T09:37:23.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "إحاطة نسوية في مجلس الأمن: حملات تستهدف ناشطات وقيود على حرية التعبير في سوريا",
+      "excerpt": "حذّرت الباحثة النسوية هيمى اليوسفي أمام مجلس الأمن من حملات تستهدف الناشطات السوريات، واستمرار القيود على حرية التعبير وعمل المجتمع المدني.",
+      "link": "https://www.syria.tv/%D8%A5%D8%AD%D8%A7%D8%B7%D8%A9-%D9%86%D8%B3%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%86%D8%A7%D8%B4%D8%B7%D8%A7%D8%AA-%D9%88%D9%82%D9%8A%D9%88%D8%AF-%D8%B9%D9%84%D9%89-%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-19T07:36:44.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "بتأييد 149 دولة.. مشروع قرار أممي جديد يؤكد بطلان ضم الجولان السوري المحتل",
+      "excerpt": "اعتمدت اللجنة الرابعة للجمعية العامة للأمم المتحدة، الأربعاء، مشروع قرار بعنوان \"الجولان السوري المحتل\"، قدمته موريتانيا باسم جميع دول المجموعة العربية..",
+      "link": "https://www.syria.tv/%D8%A8%D8%AA%D8%A3%D9%8A%D9%8A%D8%AF-149-%D8%AF%D9%88%D9%84%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A3%D9%85%D9%85%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D8%A4%D9%83%D8%AF-%D8%A8%D8%B7%D9%84%D8%A7%D9%86-%D8%B6%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84",
+      "publishedAt": "2026-11-19T04:26:26.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "انطلاق مشروع لإزالة أكثر من 730 ألف متر مكعب من الأنقاض في حمص",
+      "excerpt": "بدأت وزارة الطوارئ وإدارة الكوارث السورية، بالتنسيق مع محافظة حمص، تنفيذ مشروع واسع لإزالة الأنقاض التي خلفها قصف النظام المخلوع وحلفائه..",
+      "link": "https://www.syria.tv/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-730-%D8%A3%D9%84%D9%81-%D9%85%D8%AA%D8%B1-%D9%85%D9%83%D8%B9%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D9%82%D8%A7%D8%B6-%D9%81%D9%8A-%D8%AD%D9%85%D8%B5",
+      "publishedAt": "2026-11-19T04:06:23.000Z"
+    }
+  ]
+}
