@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-20T07:45:03.655Z",
+    "generatedAt": "2026-11-20T16:24:27.753Z",
     "windowHours": 24,
-    "from": "2026-11-19T07:45:03.655Z",
-    "to": "2026-11-20T07:45:03.655Z"
+    "from": "2026-11-19T16:24:27.753Z",
+    "to": "2026-11-20T16:24:27.753Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
-    "files": 3,
-    "withNew": 0,
-    "stale": 3,
-    "contested": 0,
-    "echoed": 1,
-    "americanItems": 1,
-    "archiveCycles": 1398
+    "items": 11,
+    "files": 4,
+    "withNew": 2,
+    "stale": 2,
+    "contested": 1,
+    "echoed": 0,
+    "americanItems": 3,
+    "archiveCycles": 1399
   },
   "emptyCircles": [
     "الكونغرس",
@@ -22,6 +22,7 @@
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
     "الإعلام المتخصص",
+    "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
@@ -30,68 +31,154 @@
   "errors": [],
   "files": [
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "متنازع عليه — يحتاج تحققاً",
+      "contested": true,
       "independentSources": 3,
       "sources": [
+        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة"
       ],
       "circles": [
         "الإعلام السوري المستقل",
-        "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-20 00:40",
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 4,
+      "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 14,
+      "usItems": 3,
+      "score": 41,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Barrack says Syria open to large-scale U.S. investment deals",
+          "excerpt": "QAMISHLI, Syria (North Press)- U.S. Special Envoy to Syria Tom Barrack said Syria is open to large-scale investment deals with leading American companies, highlighting cooperation between Chevron and the Syrian Petroleum Company in developi",
+          "link": "https://npasyria.com/en/143926/",
+          "publishedAt": "2026-11-20T10:44:59.000Z",
+          "files": [
+            "economy"
+          ],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "توغلات إسرائيلية في ريفي القنيطرة ودرعا وتحليق للطائرات الحربية",
-          "excerpt": "أفاد مراسل تلفزيون سوريا، الخميس، بتوغل قوات الاحتلال الإسرائيلي في بلدة الرفيد بريف القنيطرة الجنوبي، بالتزامن مع تحركات عسكرية إسرائيلية في مناطق متفرقة من",
-          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%84%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9",
-          "publishedAt": "2026-11-19T16:26:59.000Z",
+          "title": "براك يشيد بتعاون \"شيفرون\" والسورية للبترول: فرص واسعة للاستثمار في قطاع الطاقة",
+          "excerpt": "أكد المبعوث الأميركي توم براك أن سوريا باتت منفتحة على صفقات استثمارية كبيرة مع الشركات الأميركية، مشيداً بالتعاون بين \"شيفرون\" والشركة السورية للبترول.",
+          "link": "https://www.syria.tv/%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%84-%D9%81%D8%B1%D8%B5-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9",
+          "publishedAt": "2026-11-20T10:29:59.000Z",
           "files": [
-            "israel"
+            "economy"
           ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Can Iraq beat ISIS without US troops? New airstrikes highlight ongoing security threats - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3666,w_5500/747201' alt='A U.S. military vehicle moves during the transportation of Islamic State detainees from Syria to Iraq, acc",
-          "link": "https://www.jpost.com/middle-east/article-915471",
-          "publishedAt": "2026-11-19T14:09:13.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
+          "seenBefore": false,
           "us": true
         },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "سوريا ترحّب باعتماد اللجنة الرابعة للجمعية العامة قرار الجولان السوري المحتل",
-          "excerpt": "رحّب وزير الخارجية والمغتربين أسعد حسن الشيباني باعتماد اللجنة الرابعة للجمعية ‏العامة للأمم المتحدة قرار الجولان السوري المحتل، بتأييد 149 دولة، بزيادة ثلاثة ‏أصوات مقارنة بالعام الماضي، مشيراً إلى أن ذلك تأكيد دولي متجدد على حقوق ‏سوريا ا",
-          "link": "https://sana.sy/politics/2639373/",
-          "publishedAt": "2026-11-19T11:13:47.000Z",
+          "title": "باراك: سوريا منفتحة على استثمارات واسعة النطاق مع كبرى الشركات الأمريكية",
+          "excerpt": "أكد المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس ‏باراك اليوم الجمعة، انفتاح سوريا على صفقات استثمارية واسعة النطاق مع كبرى ‏الشركات الأمريكية.‏",
+          "link": "https://sana.sy/syria-and-the-world/2640285/",
+          "publishedAt": "2026-11-20T09:16:01.000Z",
           "files": [
-            "israel"
+            "economy"
           ],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مباحثات سورية أردنية لفتح المجال أمام مشاريع استثمارية مشتركة",
+          "excerpt": "مباحثات سورية أردنية في عمان لبحث تسهيلات الاستثمار ومعالجة العقبات أمام المشاريع المشتركة.. ما أبرز القطاعات المستهدفة؟",
+          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9",
+          "publishedAt": "2026-11-20T09:09:10.000Z",
+          "files": [
+            "economy",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "North Press Agency (English)",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 2,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 18,
+      "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Saudi defenses intercept ballistic missile, drones amid cross-border escalation",
+          "excerpt": "QAMISHLI, Syria (North Press)- Saudi air defenses intercepted a ballistic missile launched by Yemen’s Houthi group toward the kingdom’s southern region on Friday, according to the Saudi-led coalition, amid continued military escalation and ",
+          "link": "https://npasyria.com/en/143923/",
+          "publishedAt": "2026-11-20T10:05:08.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "EgyptAir to resume direct flights to Damascus, Aleppo in December",
+          "excerpt": "QAMISHLI, Syria (North Press)- EgyptAir will resume direct flights to Syria in early December, with daily flights to Damascus and four weekly flights to Aleppo, according to the company. The flights to Damascus International Airport will be",
+          "link": "https://npasyria.com/en/143920/",
+          "publishedAt": "2026-11-20T09:28:15.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "المصطفى يبحث مع مسؤولة أوروبية تطوير الشراكة المستقبلية",
+          "excerpt": "التقى مستشار الشؤون الأوروبية في وزارة الخارجية والمغتربين حمزة المصطفى، رئيسة وحدة شؤون سوريا ولبنان والأردن والعراق وإيران في الإدارة العامة للشرق الأوسط وشمال أفريقيا والخليج بالمفوضية الأوروبية آنا بيرس.",
+          "link": "https://sana.sy/politics/2639982/",
+          "publishedAt": "2026-11-19T19:32:09.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria condemns Houthi attacks on Saudi Arabia",
+          "excerpt": "QAMISHLI, Syria (North Press) &#8211; Syria’s Foreign Ministry on Thursday condemned missile and drone attacks carried out by Yemen’s Houthi group against vital sites and facilities in Saudi Arabia, which caused material damage. In a statem",
+          "link": "https://npasyria.com/en/143916/",
+          "publishedAt": "2026-11-19T17:50:26.000Z",
+          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -100,25 +187,24 @@
     {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
+        "North Press Agency (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-20 00:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-20 07:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
-      "echoed": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 3,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -147,93 +233,40 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الشيباني يصل إلى الرياض لإجراء مباحثات مع نظيره السعودي",
-          "excerpt": "وزير الخارجية والمغتربين السوري أسعد الشيباني يصل إلى الرياض",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B4%D9%8A%D8%A8%D8%A7%D9%86%D9%8A-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D9%85%D8%B9-%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A",
-          "publishedAt": "2026-11-19T16:11:50.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الشيباني يصل الرياض لإجراء مباحثات مع نظيره السعودي",
-          "excerpt": "وصل وزير الخارجية والمغتربين أسعد حسن الشيباني اليوم الخميس، إلى العاصمة ‏السعودية الرياض.‏",
-          "link": "https://sana.sy/syria-and-the-world/2639601/",
-          "publishedAt": "2026-11-19T14:14:48.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 1,
       "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
         "تلفزيون سوريا"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-20 00:40",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-20 07:45",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 7,
+      "score": 3,
       "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "المصطفى يبحث مع مسؤولة أوروبية تطوير الشراكة المستقبلية",
-          "excerpt": "التقى مستشار الشؤون الأوروبية في وزارة الخارجية والمغتربين حمزة المصطفى، رئيسة وحدة شؤون سوريا ولبنان والأردن والعراق وإيران في الإدارة العامة للشرق الأوسط وشمال أفريقيا والخليج بالمفوضية الأوروبية آنا بيرس.",
-          "link": "https://sana.sy/politics/2639982/",
-          "publishedAt": "2026-11-19T19:32:09.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria condemns Houthi attacks on Saudi Arabia",
-          "excerpt": "QAMISHLI, Syria (North Press) &#8211; Syria’s Foreign Ministry on Thursday condemned missile and drone attacks carried out by Yemen’s Houthi group against vital sites and facilities in Saudi Arabia, which caused material damage. In a statem",
-          "link": "https://npasyria.com/en/143916/",
-          "publishedAt": "2026-11-19T17:50:26.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "ما حقيقة اقتراب حسام حسن من تدريب منتخب سوريا؟",
-          "excerpt": "أثارت أنباء متداولة بشأن دخول الاتحاد السوري لكرة القدم في مفاوضات مع المدرب المصري حسام حسن، لتولي قيادة منتخب سوريا خلفاً للإسباني خوسيه لانا، تساؤلات واسعة..",
-          "link": "https://www.syria.tv/%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%A8-%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86-%D9%85%D9%86-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
-          "publishedAt": "2026-11-19T09:37:23.000Z",
-          "files": [],
+          "title": "توغلات إسرائيلية في ريفي القنيطرة ودرعا وتحليق للطائرات الحربية",
+          "excerpt": "أفاد مراسل تلفزيون سوريا، الخميس، بتوغل قوات الاحتلال الإسرائيلي في بلدة الرفيد بريف القنيطرة الجنوبي، بالتزامن مع تحركات عسكرية إسرائيلية في مناطق متفرقة من",
+          "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%84%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9",
+          "publishedAt": "2026-11-19T16:26:59.000Z",
+          "files": [
+            "israel"
+          ],
           "seenBefore": true,
           "us": false
         }
