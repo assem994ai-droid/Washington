@@ -1,26 +1,51 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-21T18:14:49.058Z",
+    "generatedAt": "2026-11-21T23:23:59.253Z",
     "windowHours": 24,
-    "from": "2026-11-20T18:14:49.058Z",
-    "to": "2026-11-21T18:14:49.058Z"
+    "from": "2026-11-20T23:23:59.253Z",
+    "to": "2026-11-21T23:23:59.253Z"
   },
   "counts": {
-    "total": 11,
+    "total": 13,
     "byCircle": {
-      "الإعلام السوري المستقل": 9,
-      "الإعلام المتخصص": 1,
-      "المصادر الرسمية السورية": 1
+      "الإعلام السوري المستقل": 12,
+      "الإعلام المتخصص": 1
     },
     "bySource": {
-      "North Press Agency (English)": 2,
-      "Al-Monitor": 1,
-      "تلفزيون سوريا": 7,
-      "سانا — قسم السياسة": 1
+      "تلفزيون سوريا": 9,
+      "North Press Agency (English)": 3,
+      "Al-Monitor": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "فيدان يحذر من مخطط للاحتلال الإسرائيلي لشن عملية عسكرية داخل سوريا",
+      "excerpt": "قال وزير الخارجية التركي هاكان فيدان إن الاحتلال الإسرائيلي يدرس سيناريو لشن عملية عسكرية ضد سوريا، بذريعة حماية \"الدروز\"، مشيراً إلى أن الاحتلال يدعم..",
+      "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%85%D8%AE%D8%B7%D8%B7-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D8%B4%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-21T20:39:30.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Fidan says Israel has scenario for military operation in Syria",
+      "excerpt": "QAMISHLI, Syria (North Press)&#8211; Turkish Foreign Minister Hakan Fidan said Saturday that Israel has a scenario for launching a military operation targeting Syria, warning that it could extend beyond Syria. In a televised interview with ",
+      "link": "https://npasyria.com/en/143957/",
+      "publishedAt": "2026-11-21T19:48:50.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "التنقيب البحري في سوريا.. هل تفتح توتال أبواب الثروة النفطية والغازية؟",
+      "excerpt": "أكد الخبير الاقتصادي والباحث في شؤون الطاقة، زياد عربش، أن المفاوضات مع شركة \"توتال\" بشأن التنقيب عن النفط والغاز في المياه السورية تمثل خطوة مهمة على..",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%87%D9%84-%D8%AA%D9%81%D8%AA%D8%AD-%D8%AA%D9%88%D8%AA%D8%A7%D9%84-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%AB%D8%B1%D9%88%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A%D8%A9%D8%9F",
+      "publishedAt": "2026-11-21T19:40:44.000Z"
+    },
     {
       "source": "North Press Agency (English)",
       "sourceId": "npasyria-en",
@@ -35,7 +60,7 @@
       "sourceId": "al-monitor",
       "circle": "الإعلام المتخصص",
       "title": "Gaza civil defence says Israeli fire kills four",
-      "excerpt": "<p>Gaza's civil defence told AFP that Israeli fire killed four people on Saturday, including three in a strike on a vehicle carrying food aid in the war-ravaged territory.</p> <p>Israel and Hamas regularly accuse each other of violating the",
+      "excerpt": "<p>Gaza's civil defence told AFP that Israeli fire killed four people on Saturday, including three in a strike on a vehicle carrying food aid in the war-ravaged territory.</p> <p>The Israeli military said it had struck \"three terrorists fro",
       "link": "https://www.al-monitor.com/originals/2026/11/gaza-civil-defence-says-israeli-fire-kills-four",
       "publishedAt": "2026-11-21T14:30:21.000Z"
     },
@@ -110,15 +135,6 @@
       "excerpt": "بالتأكيد لم تكن \"يالطا\" جديدة، تلك القمة التي جمعت قادة الولايات المتحدة والصين وروسيا في \"شنتشن\" الصينية هي تعبير جديد عن طبيعة النظام الدولي الذي نعيش في ظله.",
       "link": "https://www.syria.tv/%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B4%D9%86%D8%AA%D8%B4%D9%86-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%AD%D9%88%D9%91%D8%B7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%8A%D8%A7%D8%B3%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9%D8%9F",
       "publishedAt": "2026-11-21T03:21:20.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "قطر تحذر من استمرار الاحتلال الإسرائيلي للأراضي السورية واعتداءاته في ‏المنطقة",
-      "excerpt": "حذرت دولة قطر اليوم الجمعة، من خطورة استمرار الاحتلال الإسرائيلي للأراضي ‏السورية واعتداءاته المتواصلة في المنطقة، مؤكدةً أن مواصلة إسرائيل انتهاك القانون ‏الدولي والإفلات من المساءلة يشكل تهديداً خطيراً للأمن والاستقرار الإقليمي والدولي.",
-      "link": "https://sana.sy/politics/2640870/",
-      "publishedAt": "2026-11-20T20:40:11.000Z"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-21T18:14:49.058Z",
+    "generatedAt": "2026-11-21T23:23:59.253Z",
     "windowHours": 24,
-    "from": "2026-11-20T18:14:49.058Z",
-    "to": "2026-11-21T18:14:49.058Z"
+    "from": "2026-11-20T23:23:59.253Z",
+    "to": "2026-11-21T23:23:59.253Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 11,
+    "items": 13,
     "files": 5,
-    "withNew": 3,
-    "stale": 2,
+    "withNew": 2,
+    "stale": 3,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1403
+    "archiveCycles": 1404
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,177 +23,13 @@
     "مراكز الفكر",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
+    "المصادر الرسمية السورية",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 3,
-      "sources": [
-        "Al-Monitor",
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 25,
-      "items": [
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Gaza civil defence says Israeli fire kills four",
-          "excerpt": "<p>Gaza's civil defence told AFP that Israeli fire killed four people on Saturday, including three in a strike on a vehicle carrying food aid in the war-ravaged territory.</p> <p>Israel and Hamas regularly accuse each other of violating the",
-          "link": "https://www.al-monitor.com/originals/2026/11/gaza-civil-defence-says-israeli-fire-kills-four",
-          "publishedAt": "2026-11-21T14:30:21.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال يتوغل في مناطق بريف القنيطرة وينصب حاجزا لتفتيش المارة",
-          "excerpt": "أفاد مراسل تلفزيون سوريا بتوغل قوات الاحتلال الإسرائيلي، السبت، على الطريق الواصل بين قريتي عين البيضة وجباتا الخشب.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9",
-          "publishedAt": "2026-11-21T12:25:55.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قطر تدعو إلى ردع الاعتداءات الإسرائيلية وتحذر من استمرار احتلال الأراضي السورية",
-          "excerpt": "دعت دولة قطر المجتمع الدولي ومؤسساته إلى التحرك السريع والحاسم لردع الاعتداءات الإسرائيلية، محذرة من أن استمرار إسرائيل في انتهاك القانون الدولي",
-          "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%B1%D8%AF%D8%B9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
-          "publishedAt": "2026-11-21T09:50:43.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "قطر تحذر من استمرار الاحتلال الإسرائيلي للأراضي السورية واعتداءاته في ‏المنطقة",
-          "excerpt": "حذرت دولة قطر اليوم الجمعة، من خطورة استمرار الاحتلال الإسرائيلي للأراضي ‏السورية واعتداءاته المتواصلة في المنطقة، مؤكدةً أن مواصلة إسرائيل انتهاك القانون ‏الدولي والإفلات من المساءلة يشكل تهديداً خطيراً للأمن والاستقرار الإقليمي والدولي.",
-          "link": "https://sana.sy/politics/2640870/",
-          "publishedAt": "2026-11-20T20:40:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "North Press Agency (English)",
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "CENTCOM says U.S. blockade against Iran reaches 130th day",
-          "excerpt": "QAMISHLI, Syria ( North Press)- U.S. Central Command (CENTCOM) said on Saturday that the U.S. blockade against Iran had reached its 130th consecutive day, as American forces continued enforcing maritime restrictions. In a post on X, CENTCOM",
-          "link": "https://npasyria.com/en/143948/",
-          "publishedAt": "2026-11-21T15:15:27.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"شيفرون\" تقترب من توقيع اتفاق للتنقيب قبالة سواحل سوريا.. ما المكاسب المتوقعة؟",
-          "excerpt": "تتجه المباحثات بين الشركة السورية للبترول وشركة \"شيفرون\" الأميركية نحو مرحلة جديدة، مع بحث الخطوات اللازمة لتحويل مذكرة التفاهم الموقعة",
-          "link": "https://www.syria.tv/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
-          "publishedAt": "2026-11-21T09:37:32.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تيم حسن يجسد شخصية الضابط فريد المذهان في فيلم \"قيصر\".. ما التفاصيل؟",
-          "excerpt": "يستعد الفنان السوري تيم حسن لتجسيد شخصية فريد المذهان، المعروف باسم \"قيصر\"، في فيلم سينمائي جديد يتناول قصة توثيقه انتهاكات التعذيب والقتل داخل سجون الأسد..",
-          "link": "https://www.syria.tv/%D8%AA%D9%8A%D9%85-%D8%AD%D8%B3%D9%86-%D9%8A%D8%AC%D8%B3%D8%AF-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%A7%D9%84%D8%B6%D8%A7%D8%A8%D8%B7-%D9%81%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A7%D9%86-%D9%81%D9%8A-%D9%81%D9%8A%D9%84%D9%85-%D9%82%D9%8A%D8%B5%D8%B1-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%D8%9F",
-          "publishedAt": "2026-11-21T14:21:16.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
     {
       "id": "turkey",
       "label": "الملف التركي",
@@ -207,14 +43,44 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 11:42",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
+      "newItems": 2,
+      "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": 23,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "فيدان يحذر من مخطط للاحتلال الإسرائيلي لشن عملية عسكرية داخل سوريا",
+          "excerpt": "قال وزير الخارجية التركي هاكان فيدان إن الاحتلال الإسرائيلي يدرس سيناريو لشن عملية عسكرية ضد سوريا، بذريعة حماية \"الدروز\"، مشيراً إلى أن الاحتلال يدعم..",
+          "link": "https://www.syria.tv/%D9%81%D9%8A%D8%AF%D8%A7%D9%86-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%85%D8%AE%D8%B7%D8%B7-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D8%B4%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-11-21T20:39:30.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Fidan says Israel has scenario for military operation in Syria",
+          "excerpt": "QAMISHLI, Syria (North Press)&#8211; Turkish Foreign Minister Hakan Fidan said Saturday that Israel has a scenario for launching a military operation targeting Syria, warning that it could extend beyond Syria. In a televised interview with ",
+          "link": "https://npasyria.com/en/143957/",
+          "publishedAt": "2026-11-21T19:48:50.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -260,6 +126,167 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 16,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "التنقيب البحري في سوريا.. هل تفتح توتال أبواب الثروة النفطية والغازية؟",
+          "excerpt": "أكد الخبير الاقتصادي والباحث في شؤون الطاقة، زياد عربش، أن المفاوضات مع شركة \"توتال\" بشأن التنقيب عن النفط والغاز في المياه السورية تمثل خطوة مهمة على..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%87%D9%84-%D8%AA%D9%81%D8%AA%D8%AD-%D8%AA%D9%88%D8%AA%D8%A7%D9%84-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%AB%D8%B1%D9%88%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A%D8%A9%D8%9F",
+          "publishedAt": "2026-11-21T19:40:44.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "CENTCOM says U.S. blockade against Iran reaches 130th day",
+          "excerpt": "QAMISHLI, Syria ( North Press)- U.S. Central Command (CENTCOM) said on Saturday that the U.S. blockade against Iran had reached its 130th consecutive day, as American forces continued enforcing maritime restrictions. In a post on X, CENTCOM",
+          "link": "https://npasyria.com/en/143948/",
+          "publishedAt": "2026-11-21T15:15:27.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"شيفرون\" تقترب من توقيع اتفاق للتنقيب قبالة سواحل سوريا.. ما المكاسب المتوقعة؟",
+          "excerpt": "تتجه المباحثات بين الشركة السورية للبترول وشركة \"شيفرون\" الأميركية نحو مرحلة جديدة، مع بحث الخطوات اللازمة لتحويل مذكرة التفاهم الموقعة",
+          "link": "https://www.syria.tv/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
+          "publishedAt": "2026-11-21T09:37:32.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "Al-Monitor",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 18:14",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Gaza civil defence says Israeli fire kills four",
+          "excerpt": "<p>Gaza's civil defence told AFP that Israeli fire killed four people on Saturday, including three in a strike on a vehicle carrying food aid in the war-ravaged territory.</p> <p>The Israeli military said it had struck \"three terrorists fro",
+          "link": "https://www.al-monitor.com/originals/2026/11/gaza-civil-defence-says-israeli-fire-kills-four",
+          "publishedAt": "2026-11-21T14:30:21.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يتوغل في مناطق بريف القنيطرة وينصب حاجزا لتفتيش المارة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بتوغل قوات الاحتلال الإسرائيلي، السبت، على الطريق الواصل بين قريتي عين البيضة وجباتا الخشب.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-21T12:25:55.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قطر تدعو إلى ردع الاعتداءات الإسرائيلية وتحذر من استمرار احتلال الأراضي السورية",
+          "excerpt": "دعت دولة قطر المجتمع الدولي ومؤسساته إلى التحرك السريع والحاسم لردع الاعتداءات الإسرائيلية، محذرة من أن استمرار إسرائيل في انتهاك القانون الدولي",
+          "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%B1%D8%AF%D8%B9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-11-21T09:50:43.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 18:14",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تيم حسن يجسد شخصية الضابط فريد المذهان في فيلم \"قيصر\".. ما التفاصيل؟",
+          "excerpt": "يستعد الفنان السوري تيم حسن لتجسيد شخصية فريد المذهان، المعروف باسم \"قيصر\"، في فيلم سينمائي جديد يتناول قصة توثيقه انتهاكات التعذيب والقتل داخل سجون الأسد..",
+          "link": "https://www.syria.tv/%D8%AA%D9%8A%D9%85-%D8%AD%D8%B3%D9%86-%D9%8A%D8%AC%D8%B3%D8%AF-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%A7%D9%84%D8%B6%D8%A7%D8%A8%D8%B7-%D9%81%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A7%D9%86-%D9%81%D9%8A-%D9%81%D9%8A%D9%84%D9%85-%D9%82%D9%8A%D8%B5%D8%B1-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%D8%9F",
+          "publishedAt": "2026-11-21T14:21:16.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
       "id": "diplomacy",
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدر واحد",
@@ -271,7 +298,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 11:42",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 18:14",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
