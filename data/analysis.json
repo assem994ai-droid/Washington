@@ -1,27 +1,26 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-21T11:42:36.451Z",
+    "generatedAt": "2026-11-21T18:14:49.058Z",
     "windowHours": 24,
-    "from": "2026-11-20T11:42:36.451Z",
-    "to": "2026-11-21T11:42:36.451Z"
+    "from": "2026-11-20T18:14:49.058Z",
+    "to": "2026-11-21T18:14:49.058Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 10,
+    "items": 11,
     "files": 5,
     "withNew": 3,
     "stale": 2,
     "contested": 0,
     "echoed": 0,
-    "americanItems": 1,
-    "archiveCycles": 1402
+    "americanItems": 3,
+    "archiveCycles": 1403
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
     "الإعلام الدولي",
     "التقارير الرسمية الدورية",
@@ -31,50 +30,39 @@
   "errors": [],
   "files": [
     {
-      "id": "turkey",
-      "label": "الملف التركي",
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "Al-Monitor",
         "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "سانا — قسم السياسة"
       ],
       "circles": [
-        "الإعلام السوري المستقل"
+        "الإعلام المتخصص",
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 3,
+      "newItems": 2,
       "stale": false,
       "echoed": false,
       "usItems": 0,
       "score": 25,
       "items": [
         {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تمهيدا لدمجها في منظومة التعليم السورية.. تركيا تغلق 4 كليات ومعهدين شمالي سوريا",
-          "excerpt": "أغلقت تركيا بمرسوم رئاسي 4 كليات جامعية ومعهدين مهنيين للتعليم العالي في سوريا، بالتوازي مع تحركات مجلس التعليم العالي السوري لدمج المؤسسات",
-          "link": "https://www.syria.tv/%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AF%D9%85%D8%AC%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%BA%D9%84%D9%82-4-%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D9%87%D8%AF%D9%8A%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-11-21T11:09:20.000Z",
+          "source": "Al-Monitor",
+          "sourceId": "al-monitor",
+          "circle": "الإعلام المتخصص",
+          "title": "Gaza civil defence says Israeli fire kills four",
+          "excerpt": "<p>Gaza's civil defence told AFP that Israeli fire killed four people on Saturday, including three in a strike on a vehicle carrying food aid in the war-ravaged territory.</p> <p>Israel and Hamas regularly accuse each other of violating the",
+          "link": "https://www.al-monitor.com/originals/2026/11/gaza-civil-defence-says-israeli-fire-kills-four",
+          "publishedAt": "2026-11-21T14:30:21.000Z",
           "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Turkey orders closure of Gaziantep University faculties, institutes in northern Syria",
-          "excerpt": "ALEPPO, Syria (North Press) – The Turkish presidency on Friday issued a decision to close several faculties and institutes affiliated with Gaziantep University in the northern countryside of Aleppo, less than a month after Syria’s Ministry ",
-          "link": "https://npasyria.com/en/143938/",
-          "publishedAt": "2026-11-21T08:53:30.000Z",
-          "files": [
-            "turkey"
+            "israel"
           ],
           "seenBefore": false,
           "us": false
@@ -83,40 +71,16 @@
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "25 معملا ينتقل من تركيا.. صناعة الذهب السورية أمام اختبار المنافسة | صور",
-          "excerpt": "تشهد صناعة الذهب في سوريا عودة عدد من الصاغة وأصحاب المعامل الذين عملوا لسنوات في تركيا، حاملين معهم خبرات فنية وتقنيات حديثة يسعون إلى توظيفها في السوق المحلية",
-          "link": "https://www.syria.tv/25-%D9%85%D8%B9%D9%85%D9%84%D8%A7-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%B5%D9%88%D8%B1",
-          "publishedAt": "2026-11-21T06:49:53.000Z",
+          "title": "الاحتلال يتوغل في مناطق بريف القنيطرة وينصب حاجزا لتفتيش المارة",
+          "excerpt": "أفاد مراسل تلفزيون سوريا بتوغل قوات الاحتلال الإسرائيلي، السبت، على الطريق الواصل بين قريتي عين البيضة وجباتا الخشب.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-21T12:25:55.000Z",
           "files": [
-            "turkey"
+            "israel"
           ],
           "seenBefore": false,
           "us": false
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 16,
-      "items": [
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -128,7 +92,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -154,8 +118,8 @@
       "contested": false,
       "independentSources": 2,
       "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
       ],
       "circles": [
         "الإعلام السوري المستقل"
@@ -165,9 +129,21 @@
       "newItems": 1,
       "stale": false,
       "echoed": false,
-      "usItems": 0,
-      "score": 12,
+      "usItems": 1,
+      "score": 15,
       "items": [
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "CENTCOM says U.S. blockade against Iran reaches 130th day",
+          "excerpt": "QAMISHLI, Syria ( North Press)- U.S. Central Command (CENTCOM) said on Saturday that the U.S. blockade against Iran had reached its 130th consecutive day, as American forces continued enforcing maritime restrictions. In a post on X, CENTCOM",
+          "link": "https://npasyria.com/en/143948/",
+          "publishedAt": "2026-11-21T15:15:27.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -177,18 +153,107 @@
           "link": "https://www.syria.tv/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
           "publishedAt": "2026-11-21T09:37:32.000Z",
           "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 15,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تيم حسن يجسد شخصية الضابط فريد المذهان في فيلم \"قيصر\".. ما التفاصيل؟",
+          "excerpt": "يستعد الفنان السوري تيم حسن لتجسيد شخصية فريد المذهان، المعروف باسم \"قيصر\"، في فيلم سينمائي جديد يتناول قصة توثيقه انتهاكات التعذيب والقتل داخل سجون الأسد..",
+          "link": "https://www.syria.tv/%D8%AA%D9%8A%D9%85-%D8%AD%D8%B3%D9%86-%D9%8A%D8%AC%D8%B3%D8%AF-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%A7%D9%84%D8%B6%D8%A7%D8%A8%D8%B7-%D9%81%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A7%D9%86-%D9%81%D9%8A-%D9%81%D9%8A%D9%84%D9%85-%D9%82%D9%8A%D8%B5%D8%B1-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%D8%9F",
+          "publishedAt": "2026-11-21T14:21:16.000Z",
+          "files": [
+            "sanctions"
+          ],
           "seenBefore": false,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 11:42",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 8,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تمهيدا لدمجها في منظومة التعليم السورية.. تركيا تغلق 4 كليات ومعهدين شمالي سوريا",
+          "excerpt": "أغلقت تركيا بمرسوم رئاسي 4 كليات جامعية ومعهدين مهنيين للتعليم العالي في سوريا، بالتوازي مع تحركات مجلس التعليم العالي السوري لدمج المؤسسات",
+          "link": "https://www.syria.tv/%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AF%D9%85%D8%AC%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%BA%D9%84%D9%82-4-%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D9%87%D8%AF%D9%8A%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-11-21T11:09:20.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
           "us": false
         },
         {
           "source": "North Press Agency (English)",
           "sourceId": "npasyria-en",
           "circle": "الإعلام السوري المستقل",
-          "title": "Syria arrests former regime brigadier over Oteiba ambush massacre",
-          "excerpt": "QAMISHLI, Syria (North Press)- Syrian Interior Minister Anas Khattab announced on Friday the arrest of former regime brigadier Rawad Zeidan, whom he accused of planning and ordering the Oteiba ambush massacre in Oteiba town, Damascus countr",
-          "link": "https://npasyria.com/en/143932/",
-          "publishedAt": "2026-11-20T16:46:16.000Z",
-          "files": [],
+          "title": "Turkey orders closure of Gaziantep University faculties, institutes in northern Syria",
+          "excerpt": "ALEPPO, Syria (North Press) – The Turkish presidency on Friday issued a decision to close several faculties and institutes affiliated with Gaziantep University in the northern countryside of Aleppo, less than a month after Syria’s Ministry ",
+          "link": "https://npasyria.com/en/143938/",
+          "publishedAt": "2026-11-21T08:53:30.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "25 معملا ينتقل من تركيا.. صناعة الذهب السورية أمام اختبار المنافسة | صور",
+          "excerpt": "تشهد صناعة الذهب في سوريا عودة عدد من الصاغة وأصحاب المعامل الذين عملوا لسنوات في تركيا، حاملين معهم خبرات فنية وتقنيات حديثة يسعون إلى توظيفها في السوق المحلية",
+          "link": "https://www.syria.tv/25-%D9%85%D8%B9%D9%85%D9%84%D8%A7-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%B5%D9%88%D8%B1",
+          "publishedAt": "2026-11-21T06:49:53.000Z",
+          "files": [
+            "turkey"
+          ],
           "seenBefore": true,
           "us": false
         }
@@ -206,7 +271,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 03:31",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 11:42",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -227,58 +292,6 @@
           ],
           "seenBefore": true,
           "us": true
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 03:31",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 0,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الأمم المتحدة والاتحاد الأوروبي يبحثان دعم التعافي وإعادة الإعمار في سوريا",
-          "excerpt": "بحث نائب المبعوث الخاص للأمين العام للأمم المتحدة إلى سوريا كلاوديو كوردوني، ‏مع الممثل الخاص للاتحاد الأوروبي لمنطقة الخليج لويجي دي مايو، سبل تعزيز ‏التعاون بين الاتحاد الأوروبي ودول الخليج، بالتنسيق مع الأمم المتحدة، لدعم جهود ‏التعافي و",
-          "link": "https://sana.sy/syria-and-the-world/2640780/",
-          "publishedAt": "2026-11-20T17:55:05.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية رومانية لتعزيز التعاون والتحضير لتنظيم لقاء اقتصادي مشترك",
-          "excerpt": "بحث القائم بأعمال السفارة السورية في بوخارست أنس البدوي، اليوم الجمعة مع مجموعة ‏الصداقة البرلمانية السورية – الرومانية فرص التعاون والاستثمار بين سوريا ورومانيا ‏وتطوير العلاقات الثنائية بين البلدين.‏",
-          "link": "https://sana.sy/politics/2640698/",
-          "publishedAt": "2026-11-20T16:30:25.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
         }
       ]
     }

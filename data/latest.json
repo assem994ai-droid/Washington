@@ -1,24 +1,62 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-21T11:42:36.451Z",
+    "generatedAt": "2026-11-21T18:14:49.058Z",
     "windowHours": 24,
-    "from": "2026-11-20T11:42:36.451Z",
-    "to": "2026-11-21T11:42:36.451Z"
+    "from": "2026-11-20T18:14:49.058Z",
+    "to": "2026-11-21T18:14:49.058Z"
   },
   "counts": {
-    "total": 10,
+    "total": 11,
     "byCircle": {
-      "الإعلام السوري المستقل": 7,
-      "المصادر الرسمية السورية": 3
+      "الإعلام السوري المستقل": 9,
+      "الإعلام المتخصص": 1,
+      "المصادر الرسمية السورية": 1
     },
     "bySource": {
-      "تلفزيون سوريا": 5,
       "North Press Agency (English)": 2,
-      "سانا — قسم السياسة": 3
+      "Al-Monitor": 1,
+      "تلفزيون سوريا": 7,
+      "سانا — قسم السياسة": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "CENTCOM says U.S. blockade against Iran reaches 130th day",
+      "excerpt": "QAMISHLI, Syria ( North Press)- U.S. Central Command (CENTCOM) said on Saturday that the U.S. blockade against Iran had reached its 130th consecutive day, as American forces continued enforcing maritime restrictions. In a post on X, CENTCOM",
+      "link": "https://npasyria.com/en/143948/",
+      "publishedAt": "2026-11-21T15:15:27.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Gaza civil defence says Israeli fire kills four",
+      "excerpt": "<p>Gaza's civil defence told AFP that Israeli fire killed four people on Saturday, including three in a strike on a vehicle carrying food aid in the war-ravaged territory.</p> <p>Israel and Hamas regularly accuse each other of violating the",
+      "link": "https://www.al-monitor.com/originals/2026/11/gaza-civil-defence-says-israeli-fire-kills-four",
+      "publishedAt": "2026-11-21T14:30:21.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تيم حسن يجسد شخصية الضابط فريد المذهان في فيلم \"قيصر\".. ما التفاصيل؟",
+      "excerpt": "يستعد الفنان السوري تيم حسن لتجسيد شخصية فريد المذهان، المعروف باسم \"قيصر\"، في فيلم سينمائي جديد يتناول قصة توثيقه انتهاكات التعذيب والقتل داخل سجون الأسد..",
+      "link": "https://www.syria.tv/%D8%AA%D9%8A%D9%85-%D8%AD%D8%B3%D9%86-%D9%8A%D8%AC%D8%B3%D8%AF-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%A7%D9%84%D8%B6%D8%A7%D8%A8%D8%B7-%D9%81%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A7%D9%86-%D9%81%D9%8A-%D9%81%D9%8A%D9%84%D9%85-%D9%82%D9%8A%D8%B5%D8%B1-%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%D8%9F",
+      "publishedAt": "2026-11-21T14:21:16.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يتوغل في مناطق بريف القنيطرة وينصب حاجزا لتفتيش المارة",
+      "excerpt": "أفاد مراسل تلفزيون سوريا بتوغل قوات الاحتلال الإسرائيلي، السبت، على الطريق الواصل بين قريتي عين البيضة وجباتا الخشب.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-21T12:25:55.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -81,33 +119,6 @@
       "excerpt": "حذرت دولة قطر اليوم الجمعة، من خطورة استمرار الاحتلال الإسرائيلي للأراضي ‏السورية واعتداءاته المتواصلة في المنطقة، مؤكدةً أن مواصلة إسرائيل انتهاك القانون ‏الدولي والإفلات من المساءلة يشكل تهديداً خطيراً للأمن والاستقرار الإقليمي والدولي.",
       "link": "https://sana.sy/politics/2640870/",
       "publishedAt": "2026-11-20T20:40:11.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "الأمم المتحدة والاتحاد الأوروبي يبحثان دعم التعافي وإعادة الإعمار في سوريا",
-      "excerpt": "بحث نائب المبعوث الخاص للأمين العام للأمم المتحدة إلى سوريا كلاوديو كوردوني، ‏مع الممثل الخاص للاتحاد الأوروبي لمنطقة الخليج لويجي دي مايو، سبل تعزيز ‏التعاون بين الاتحاد الأوروبي ودول الخليج، بالتنسيق مع الأمم المتحدة، لدعم جهود ‏التعافي و",
-      "link": "https://sana.sy/syria-and-the-world/2640780/",
-      "publishedAt": "2026-11-20T17:55:05.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Syria arrests former regime brigadier over Oteiba ambush massacre",
-      "excerpt": "QAMISHLI, Syria (North Press)- Syrian Interior Minister Anas Khattab announced on Friday the arrest of former regime brigadier Rawad Zeidan, whom he accused of planning and ordering the Oteiba ambush massacre in Oteiba town, Damascus countr",
-      "link": "https://npasyria.com/en/143932/",
-      "publishedAt": "2026-11-20T16:46:16.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "مباحثات سورية رومانية لتعزيز التعاون والتحضير لتنظيم لقاء اقتصادي مشترك",
-      "excerpt": "بحث القائم بأعمال السفارة السورية في بوخارست أنس البدوي، اليوم الجمعة مع مجموعة ‏الصداقة البرلمانية السورية – الرومانية فرص التعاون والاستثمار بين سوريا ورومانيا ‏وتطوير العلاقات الثنائية بين البلدين.‏",
-      "link": "https://sana.sy/politics/2640698/",
-      "publishedAt": "2026-11-20T16:30:25.000Z"
     }
   ]
 }
