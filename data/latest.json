@@ -1,26 +1,69 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-21T03:31:00.164Z",
+    "generatedAt": "2026-11-21T11:42:36.451Z",
     "windowHours": 24,
-    "from": "2026-11-20T03:31:00.164Z",
-    "to": "2026-11-21T03:31:00.164Z"
+    "from": "2026-11-20T11:42:36.451Z",
+    "to": "2026-11-21T11:42:36.451Z"
   },
   "counts": {
-    "total": 12,
+    "total": 10,
     "byCircle": {
       "الإعلام السوري المستقل": 7,
-      "المصادر الرسمية السورية": 4,
-      "الإعلام الدولي": 1
+      "المصادر الرسمية السورية": 3
     },
     "bySource": {
-      "تلفزيون سوريا": 3,
-      "سانا — قسم السياسة": 4,
-      "Al Jazeera English": 1,
-      "North Press Agency (English)": 4
+      "تلفزيون سوريا": 5,
+      "North Press Agency (English)": 2,
+      "سانا — قسم السياسة": 3
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تمهيدا لدمجها في منظومة التعليم السورية.. تركيا تغلق 4 كليات ومعهدين شمالي سوريا",
+      "excerpt": "أغلقت تركيا بمرسوم رئاسي 4 كليات جامعية ومعهدين مهنيين للتعليم العالي في سوريا، بالتوازي مع تحركات مجلس التعليم العالي السوري لدمج المؤسسات",
+      "link": "https://www.syria.tv/%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AF%D9%85%D8%AC%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%BA%D9%84%D9%82-4-%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D9%87%D8%AF%D9%8A%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-21T11:09:20.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قطر تدعو إلى ردع الاعتداءات الإسرائيلية وتحذر من استمرار احتلال الأراضي السورية",
+      "excerpt": "دعت دولة قطر المجتمع الدولي ومؤسساته إلى التحرك السريع والحاسم لردع الاعتداءات الإسرائيلية، محذرة من أن استمرار إسرائيل في انتهاك القانون الدولي",
+      "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%B1%D8%AF%D8%B9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+      "publishedAt": "2026-11-21T09:50:43.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "\"شيفرون\" تقترب من توقيع اتفاق للتنقيب قبالة سواحل سوريا.. ما المكاسب المتوقعة؟",
+      "excerpt": "تتجه المباحثات بين الشركة السورية للبترول وشركة \"شيفرون\" الأميركية نحو مرحلة جديدة، مع بحث الخطوات اللازمة لتحويل مذكرة التفاهم الموقعة",
+      "link": "https://www.syria.tv/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
+      "publishedAt": "2026-11-21T09:37:32.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Turkey orders closure of Gaziantep University faculties, institutes in northern Syria",
+      "excerpt": "ALEPPO, Syria (North Press) – The Turkish presidency on Friday issued a decision to close several faculties and institutes affiliated with Gaziantep University in the northern countryside of Aleppo, less than a month after Syria’s Ministry ",
+      "link": "https://npasyria.com/en/143938/",
+      "publishedAt": "2026-11-21T08:53:30.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "25 معملا ينتقل من تركيا.. صناعة الذهب السورية أمام اختبار المنافسة | صور",
+      "excerpt": "تشهد صناعة الذهب في سوريا عودة عدد من الصاغة وأصحاب المعامل الذين عملوا لسنوات في تركيا، حاملين معهم خبرات فنية وتقنيات حديثة يسعون إلى توظيفها في السوق المحلية",
+      "link": "https://www.syria.tv/25-%D9%85%D8%B9%D9%85%D9%84%D8%A7-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%B5%D9%88%D8%B1",
+      "publishedAt": "2026-11-21T06:49:53.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -38,15 +81,6 @@
       "excerpt": "حذرت دولة قطر اليوم الجمعة، من خطورة استمرار الاحتلال الإسرائيلي للأراضي ‏السورية واعتداءاته المتواصلة في المنطقة، مؤكدةً أن مواصلة إسرائيل انتهاك القانون ‏الدولي والإفلات من المساءلة يشكل تهديداً خطيراً للأمن والاستقرار الإقليمي والدولي.",
       "link": "https://sana.sy/politics/2640870/",
       "publishedAt": "2026-11-20T20:40:11.000Z"
-    },
-    {
-      "source": "Al Jazeera English",
-      "sourceId": "aljazeera-en",
-      "circle": "الإعلام الدولي",
-      "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-      "excerpt": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
-      "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-      "publishedAt": "2026-11-20T19:57:05.000Z"
     },
     {
       "source": "سانا — قسم السياسة",
@@ -74,60 +108,6 @@
       "excerpt": "بحث القائم بأعمال السفارة السورية في بوخارست أنس البدوي، اليوم الجمعة مع مجموعة ‏الصداقة البرلمانية السورية – الرومانية فرص التعاون والاستثمار بين سوريا ورومانيا ‏وتطوير العلاقات الثنائية بين البلدين.‏",
       "link": "https://sana.sy/politics/2640698/",
       "publishedAt": "2026-11-20T16:30:25.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Barrack says Syria open to large-scale U.S. investment deals",
-      "excerpt": "QAMISHLI, Syria (North Press)- U.S. Special Envoy to Syria Tom Barrack said Syria is open to large-scale investment deals with leading American companies, highlighting cooperation between Chevron and the Syrian Petroleum Company in developi",
-      "link": "https://npasyria.com/en/143926/",
-      "publishedAt": "2026-11-20T10:44:59.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "براك يشيد بتعاون \"شيفرون\" والسورية للبترول: فرص واسعة للاستثمار في قطاع الطاقة",
-      "excerpt": "أكد المبعوث الأميركي توم براك أن سوريا باتت منفتحة على صفقات استثمارية كبيرة مع الشركات الأميركية، مشيداً بالتعاون بين \"شيفرون\" والشركة السورية للبترول.",
-      "link": "https://www.syria.tv/%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%84-%D9%81%D8%B1%D8%B5-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9",
-      "publishedAt": "2026-11-20T10:29:59.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Saudi defenses intercept ballistic missile, drones amid cross-border escalation",
-      "excerpt": "QAMISHLI, Syria (North Press)- Saudi air defenses intercepted a ballistic missile launched by Yemen’s Houthi group toward the kingdom’s southern region on Friday, according to the Saudi-led coalition, amid continued military escalation and ",
-      "link": "https://npasyria.com/en/143923/",
-      "publishedAt": "2026-11-20T10:05:08.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "EgyptAir to resume direct flights to Damascus, Aleppo in December",
-      "excerpt": "QAMISHLI, Syria (North Press)- EgyptAir will resume direct flights to Syria in early December, with daily flights to Damascus and four weekly flights to Aleppo, according to the company. The flights to Damascus International Airport will be",
-      "link": "https://npasyria.com/en/143920/",
-      "publishedAt": "2026-11-20T09:28:15.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "باراك: سوريا منفتحة على استثمارات واسعة النطاق مع كبرى الشركات الأمريكية",
-      "excerpt": "أكد المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس ‏باراك اليوم الجمعة، انفتاح سوريا على صفقات استثمارية واسعة النطاق مع كبرى ‏الشركات الأمريكية.‏",
-      "link": "https://sana.sy/syria-and-the-world/2640285/",
-      "publishedAt": "2026-11-20T09:16:01.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "مباحثات سورية أردنية لفتح المجال أمام مشاريع استثمارية مشتركة",
-      "excerpt": "مباحثات سورية أردنية في عمان لبحث تسهيلات الاستثمار ومعالجة العقبات أمام المشاريع المشتركة.. ما أبرز القطاعات المستهدفة؟",
-      "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9",
-      "publishedAt": "2026-11-20T09:09:10.000Z"
     }
   ]
 }

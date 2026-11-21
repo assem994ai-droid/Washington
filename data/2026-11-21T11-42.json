@@ -1,0 +1,113 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-21T11:42:36.451Z",
+    "windowHours": 24,
+    "from": "2026-11-20T11:42:36.451Z",
+    "to": "2026-11-21T11:42:36.451Z"
+  },
+  "counts": {
+    "total": 10,
+    "byCircle": {
+      "الإعلام السوري المستقل": 7,
+      "المصادر الرسمية السورية": 3
+    },
+    "bySource": {
+      "تلفزيون سوريا": 5,
+      "North Press Agency (English)": 2,
+      "سانا — قسم السياسة": 3
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تمهيدا لدمجها في منظومة التعليم السورية.. تركيا تغلق 4 كليات ومعهدين شمالي سوريا",
+      "excerpt": "أغلقت تركيا بمرسوم رئاسي 4 كليات جامعية ومعهدين مهنيين للتعليم العالي في سوريا، بالتوازي مع تحركات مجلس التعليم العالي السوري لدمج المؤسسات",
+      "link": "https://www.syria.tv/%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AF%D9%85%D8%AC%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%BA%D9%84%D9%82-4-%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D9%87%D8%AF%D9%8A%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-21T11:09:20.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قطر تدعو إلى ردع الاعتداءات الإسرائيلية وتحذر من استمرار احتلال الأراضي السورية",
+      "excerpt": "دعت دولة قطر المجتمع الدولي ومؤسساته إلى التحرك السريع والحاسم لردع الاعتداءات الإسرائيلية، محذرة من أن استمرار إسرائيل في انتهاك القانون الدولي",
+      "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%B1%D8%AF%D8%B9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+      "publishedAt": "2026-11-21T09:50:43.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "\"شيفرون\" تقترب من توقيع اتفاق للتنقيب قبالة سواحل سوريا.. ما المكاسب المتوقعة؟",
+      "excerpt": "تتجه المباحثات بين الشركة السورية للبترول وشركة \"شيفرون\" الأميركية نحو مرحلة جديدة، مع بحث الخطوات اللازمة لتحويل مذكرة التفاهم الموقعة",
+      "link": "https://www.syria.tv/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
+      "publishedAt": "2026-11-21T09:37:32.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Turkey orders closure of Gaziantep University faculties, institutes in northern Syria",
+      "excerpt": "ALEPPO, Syria (North Press) – The Turkish presidency on Friday issued a decision to close several faculties and institutes affiliated with Gaziantep University in the northern countryside of Aleppo, less than a month after Syria’s Ministry ",
+      "link": "https://npasyria.com/en/143938/",
+      "publishedAt": "2026-11-21T08:53:30.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "25 معملا ينتقل من تركيا.. صناعة الذهب السورية أمام اختبار المنافسة | صور",
+      "excerpt": "تشهد صناعة الذهب في سوريا عودة عدد من الصاغة وأصحاب المعامل الذين عملوا لسنوات في تركيا، حاملين معهم خبرات فنية وتقنيات حديثة يسعون إلى توظيفها في السوق المحلية",
+      "link": "https://www.syria.tv/25-%D9%85%D8%B9%D9%85%D9%84%D8%A7-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%B5%D9%88%D8%B1",
+      "publishedAt": "2026-11-21T06:49:53.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "دلالات قمة الكبار في شنتشن.. كيف تتحوّط سوريا في سياستها الخارجية؟",
+      "excerpt": "بالتأكيد لم تكن \"يالطا\" جديدة، تلك القمة التي جمعت قادة الولايات المتحدة والصين وروسيا في \"شنتشن\" الصينية هي تعبير جديد عن طبيعة النظام الدولي الذي نعيش في ظله.",
+      "link": "https://www.syria.tv/%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B4%D9%86%D8%AA%D8%B4%D9%86-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%AD%D9%88%D9%91%D8%B7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%8A%D8%A7%D8%B3%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9%D8%9F",
+      "publishedAt": "2026-11-21T03:21:20.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر تحذر من استمرار الاحتلال الإسرائيلي للأراضي السورية واعتداءاته في ‏المنطقة",
+      "excerpt": "حذرت دولة قطر اليوم الجمعة، من خطورة استمرار الاحتلال الإسرائيلي للأراضي ‏السورية واعتداءاته المتواصلة في المنطقة، مؤكدةً أن مواصلة إسرائيل انتهاك القانون ‏الدولي والإفلات من المساءلة يشكل تهديداً خطيراً للأمن والاستقرار الإقليمي والدولي.",
+      "link": "https://sana.sy/politics/2640870/",
+      "publishedAt": "2026-11-20T20:40:11.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الأمم المتحدة والاتحاد الأوروبي يبحثان دعم التعافي وإعادة الإعمار في سوريا",
+      "excerpt": "بحث نائب المبعوث الخاص للأمين العام للأمم المتحدة إلى سوريا كلاوديو كوردوني، ‏مع الممثل الخاص للاتحاد الأوروبي لمنطقة الخليج لويجي دي مايو، سبل تعزيز ‏التعاون بين الاتحاد الأوروبي ودول الخليج، بالتنسيق مع الأمم المتحدة، لدعم جهود ‏التعافي و",
+      "link": "https://sana.sy/syria-and-the-world/2640780/",
+      "publishedAt": "2026-11-20T17:55:05.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria arrests former regime brigadier over Oteiba ambush massacre",
+      "excerpt": "QAMISHLI, Syria (North Press)- Syrian Interior Minister Anas Khattab announced on Friday the arrest of former regime brigadier Rawad Zeidan, whom he accused of planning and ordering the Oteiba ambush massacre in Oteiba town, Damascus countr",
+      "link": "https://npasyria.com/en/143932/",
+      "publishedAt": "2026-11-20T16:46:16.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية رومانية لتعزيز التعاون والتحضير لتنظيم لقاء اقتصادي مشترك",
+      "excerpt": "بحث القائم بأعمال السفارة السورية في بوخارست أنس البدوي، اليوم الجمعة مع مجموعة ‏الصداقة البرلمانية السورية – الرومانية فرص التعاون والاستثمار بين سوريا ورومانيا ‏وتطوير العلاقات الثنائية بين البلدين.‏",
+      "link": "https://sana.sy/politics/2640698/",
+      "publishedAt": "2026-11-20T16:30:25.000Z"
+    }
+  ]
+}

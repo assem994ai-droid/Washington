@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-21T03:31:00.164Z",
+    "generatedAt": "2026-11-21T11:42:36.451Z",
     "windowHours": 24,
-    "from": "2026-11-20T03:31:00.164Z",
-    "to": "2026-11-21T03:31:00.164Z"
+    "from": "2026-11-20T11:42:36.451Z",
+    "to": "2026-11-21T11:42:36.451Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 12,
-    "files": 4,
-    "withNew": 1,
-    "stale": 3,
-    "contested": 1,
+    "items": 10,
+    "files": 5,
+    "withNew": 3,
+    "stale": 2,
+    "contested": 0,
     "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 1401
+    "americanItems": 1,
+    "archiveCycles": 1402
   },
   "emptyCircles": [
     "الكونغرس",
@@ -23,6 +23,7 @@
     "مراكز الفكر",
     "الإعلام المتخصص",
     "الملف الإسرائيلي والتركي",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -30,27 +31,224 @@
   "errors": [],
   "files": [
     {
-      "id": "economy",
-      "label": "ملف الاقتصاد وإعادة الإعمار",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 3,
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
       "sources": [
-        "سانا — قسم السياسة",
-        "North Press Agency (English)",
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 3,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 25,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تمهيدا لدمجها في منظومة التعليم السورية.. تركيا تغلق 4 كليات ومعهدين شمالي سوريا",
+          "excerpt": "أغلقت تركيا بمرسوم رئاسي 4 كليات جامعية ومعهدين مهنيين للتعليم العالي في سوريا، بالتوازي مع تحركات مجلس التعليم العالي السوري لدمج المؤسسات",
+          "link": "https://www.syria.tv/%D8%AA%D9%85%D9%87%D9%8A%D8%AF%D8%A7-%D9%84%D8%AF%D9%85%D8%AC%D9%87%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%BA%D9%84%D9%82-4-%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D9%87%D8%AF%D9%8A%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-11-21T11:09:20.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Turkey orders closure of Gaziantep University faculties, institutes in northern Syria",
+          "excerpt": "ALEPPO, Syria (North Press) – The Turkish presidency on Friday issued a decision to close several faculties and institutes affiliated with Gaziantep University in the northern countryside of Aleppo, less than a month after Syria’s Ministry ",
+          "link": "https://npasyria.com/en/143938/",
+          "publishedAt": "2026-11-21T08:53:30.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "25 معملا ينتقل من تركيا.. صناعة الذهب السورية أمام اختبار المنافسة | صور",
+          "excerpt": "تشهد صناعة الذهب في سوريا عودة عدد من الصاغة وأصحاب المعامل الذين عملوا لسنوات في تركيا، حاملين معهم خبرات فنية وتقنيات حديثة يسعون إلى توظيفها في السوق المحلية",
+          "link": "https://www.syria.tv/25-%D9%85%D8%B9%D9%85%D9%84%D8%A7-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%B5%D9%88%D8%B1",
+          "publishedAt": "2026-11-21T06:49:53.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 16,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قطر تدعو إلى ردع الاعتداءات الإسرائيلية وتحذر من استمرار احتلال الأراضي السورية",
+          "excerpt": "دعت دولة قطر المجتمع الدولي ومؤسساته إلى التحرك السريع والحاسم لردع الاعتداءات الإسرائيلية، محذرة من أن استمرار إسرائيل في انتهاك القانون الدولي",
+          "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%B1%D8%AF%D8%B9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+          "publishedAt": "2026-11-21T09:50:43.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "قطر تحذر من استمرار الاحتلال الإسرائيلي للأراضي السورية واعتداءاته في ‏المنطقة",
+          "excerpt": "حذرت دولة قطر اليوم الجمعة، من خطورة استمرار الاحتلال الإسرائيلي للأراضي ‏السورية واعتداءاته المتواصلة في المنطقة، مؤكدةً أن مواصلة إسرائيل انتهاك القانون ‏الدولي والإفلات من المساءلة يشكل تهديداً خطيراً للأمن والاستقرار الإقليمي والدولي.",
+          "link": "https://sana.sy/politics/2640870/",
+          "publishedAt": "2026-11-20T20:40:11.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 12,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"شيفرون\" تقترب من توقيع اتفاق للتنقيب قبالة سواحل سوريا.. ما المكاسب المتوقعة؟",
+          "excerpt": "تتجه المباحثات بين الشركة السورية للبترول وشركة \"شيفرون\" الأميركية نحو مرحلة جديدة، مع بحث الخطوات اللازمة لتحويل مذكرة التفاهم الموقعة",
+          "link": "https://www.syria.tv/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
+          "publishedAt": "2026-11-21T09:37:32.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria arrests former regime brigadier over Oteiba ambush massacre",
+          "excerpt": "QAMISHLI, Syria (North Press)- Syrian Interior Minister Anas Khattab announced on Friday the arrest of former regime brigadier Rawad Zeidan, whom he accused of planning and ordering the Oteiba ambush massacre in Oteiba town, Damascus countr",
+          "link": "https://npasyria.com/en/143932/",
+          "publishedAt": "2026-11-20T16:46:16.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
         "تلفزيون سوريا"
       ],
       "circles": [
-        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-20 22:44",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 03:31",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
       "echoed": false,
-      "usItems": 3,
-      "score": 22,
+      "usItems": 1,
+      "score": 2,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "دلالات قمة الكبار في شنتشن.. كيف تتحوّط سوريا في سياستها الخارجية؟",
+          "excerpt": "بالتأكيد لم تكن \"يالطا\" جديدة، تلك القمة التي جمعت قادة الولايات المتحدة والصين وروسيا في \"شنتشن\" الصينية هي تعبير جديد عن طبيعة النظام الدولي الذي نعيش في ظله.",
+          "link": "https://www.syria.tv/%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B4%D9%86%D8%AA%D8%B4%D9%86-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%AD%D9%88%D9%91%D8%B7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%8A%D8%A7%D8%B3%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9%D8%9F",
+          "publishedAt": "2026-11-21T03:21:20.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": true,
+          "us": true
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "label": "ملف الاقتصاد وإعادة الإعمار",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 03:31",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 0,
+      "score": 0,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -79,209 +277,6 @@
             "economy",
             "diplomacy"
           ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Barrack says Syria open to large-scale U.S. investment deals",
-          "excerpt": "QAMISHLI, Syria (North Press)- U.S. Special Envoy to Syria Tom Barrack said Syria is open to large-scale investment deals with leading American companies, highlighting cooperation between Chevron and the Syrian Petroleum Company in developi",
-          "link": "https://npasyria.com/en/143926/",
-          "publishedAt": "2026-11-20T10:44:59.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "براك يشيد بتعاون \"شيفرون\" والسورية للبترول: فرص واسعة للاستثمار في قطاع الطاقة",
-          "excerpt": "أكد المبعوث الأميركي توم براك أن سوريا باتت منفتحة على صفقات استثمارية كبيرة مع الشركات الأميركية، مشيداً بالتعاون بين \"شيفرون\" والشركة السورية للبترول.",
-          "link": "https://www.syria.tv/%D8%A8%D8%B1%D8%A7%D9%83-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%84-%D9%81%D8%B1%D8%B5-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9",
-          "publishedAt": "2026-11-20T10:29:59.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "باراك: سوريا منفتحة على استثمارات واسعة النطاق مع كبرى الشركات الأمريكية",
-          "excerpt": "أكد المبعوث الرئاسي الخاص للولايات المتحدة الأمريكية إلى سوريا والعراق توماس ‏باراك اليوم الجمعة، انفتاح سوريا على صفقات استثمارية واسعة النطاق مع كبرى ‏الشركات الأمريكية.‏",
-          "link": "https://sana.sy/syria-and-the-world/2640285/",
-          "publishedAt": "2026-11-20T09:16:01.000Z",
-          "files": [
-            "economy"
-          ],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مباحثات سورية أردنية لفتح المجال أمام مشاريع استثمارية مشتركة",
-          "excerpt": "مباحثات سورية أردنية في عمان لبحث تسهيلات الاستثمار ومعالجة العقبات أمام المشاريع المشتركة.. ما أبرز القطاعات المستهدفة؟",
-          "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9",
-          "publishedAt": "2026-11-20T09:09:10.000Z",
-          "files": [
-            "economy",
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "diplomacy",
-      "label": "الحراك الدبلوماسي حول سوريا",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 11,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "دلالات قمة الكبار في شنتشن.. كيف تتحوّط سوريا في سياستها الخارجية؟",
-          "excerpt": "بالتأكيد لم تكن \"يالطا\" جديدة، تلك القمة التي جمعت قادة الولايات المتحدة والصين وروسيا في \"شنتشن\" الصينية هي تعبير جديد عن طبيعة النظام الدولي الذي نعيش في ظله.",
-          "link": "https://www.syria.tv/%D8%AF%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1-%D9%81%D9%8A-%D8%B4%D9%86%D8%AA%D8%B4%D9%86-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%AD%D9%88%D9%91%D8%B7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%8A%D8%A7%D8%B3%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9%D8%9F",
-          "publishedAt": "2026-11-21T03:21:20.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": false,
-          "us": true
-        }
-      ]
-    },
-    {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "سانا — قسم السياسة",
-        "Al Jazeera English"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية",
-        "الإعلام الدولي"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-20 22:44",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 7,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "قطر تحذر من استمرار الاحتلال الإسرائيلي للأراضي السورية واعتداءاته في ‏المنطقة",
-          "excerpt": "حذرت دولة قطر اليوم الجمعة، من خطورة استمرار الاحتلال الإسرائيلي للأراضي ‏السورية واعتداءاته المتواصلة في المنطقة، مؤكدةً أن مواصلة إسرائيل انتهاك القانون ‏الدولي والإفلات من المساءلة يشكل تهديداً خطيراً للأمن والاستقرار الإقليمي والدولي.",
-          "link": "https://sana.sy/politics/2640870/",
-          "publishedAt": "2026-11-20T20:40:11.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-          "excerpt": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
-          "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-          "publishedAt": "2026-11-20T19:57:05.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-20 22:44",
-      "isFollowUp": true,
-      "newItems": 0,
-      "stale": true,
-      "echoed": false,
-      "usItems": 0,
-      "score": 1,
-      "items": [
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria arrests former regime brigadier over Oteiba ambush massacre",
-          "excerpt": "QAMISHLI, Syria (North Press)- Syrian Interior Minister Anas Khattab announced on Friday the arrest of former regime brigadier Rawad Zeidan, whom he accused of planning and ordering the Oteiba ambush massacre in Oteiba town, Damascus countr",
-          "link": "https://npasyria.com/en/143932/",
-          "publishedAt": "2026-11-20T16:46:16.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Saudi defenses intercept ballistic missile, drones amid cross-border escalation",
-          "excerpt": "QAMISHLI, Syria (North Press)- Saudi air defenses intercepted a ballistic missile launched by Yemen’s Houthi group toward the kingdom’s southern region on Friday, according to the Saudi-led coalition, amid continued military escalation and ",
-          "link": "https://npasyria.com/en/143923/",
-          "publishedAt": "2026-11-20T10:05:08.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "EgyptAir to resume direct flights to Damascus, Aleppo in December",
-          "excerpt": "QAMISHLI, Syria (North Press)- EgyptAir will resume direct flights to Syria in early December, with daily flights to Damascus and four weekly flights to Aleppo, according to the company. The flights to Damascus International Airport will be",
-          "link": "https://npasyria.com/en/143920/",
-          "publishedAt": "2026-11-20T09:28:15.000Z",
-          "files": [],
           "seenBefore": true,
           "us": false
         }
