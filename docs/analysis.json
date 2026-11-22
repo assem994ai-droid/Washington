@@ -1,20 +1,20 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-21T23:23:59.253Z",
+    "generatedAt": "2026-11-22T03:20:19.194Z",
     "windowHours": 24,
-    "from": "2026-11-20T23:23:59.253Z",
-    "to": "2026-11-21T23:23:59.253Z"
+    "from": "2026-11-21T03:20:19.194Z",
+    "to": "2026-11-22T03:20:19.194Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
+    "items": 14,
     "files": 5,
-    "withNew": 2,
-    "stale": 3,
+    "withNew": 1,
+    "stale": 4,
     "contested": 0,
     "echoed": 0,
     "americanItems": 3,
-    "archiveCycles": 1404
+    "archiveCycles": 1405
   },
   "emptyCircles": [
     "الكونغرس",
@@ -43,14 +43,28 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 23,
+      "score": 20,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "من الجامعات إلى القواعد العسكرية.. كيف يتغير الدور التركي في سوريا؟",
+          "excerpt": "ناقش أحمد رمضان ومحمود علوش في برنامج \"سوريا اليوم\" دلالات نقل المؤسسات التركية إلى الإدارة السورية، ومستقبل التعاون العسكري بين دمشق وأنقرة.",
+          "link": "https://www.syria.tv/%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%83%D9%8A%D9%81-%D9%8A%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+          "publishedAt": "2026-11-22T02:02:38.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -63,7 +77,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -78,7 +92,7 @@
             "turkey",
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -126,65 +140,6 @@
       ]
     },
     {
-      "id": "other",
-      "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران مستقلان فأكثر",
-      "contested": false,
-      "independentSources": 2,
-      "sources": [
-        "تلفزيون سوريا",
-        "North Press Agency (English)"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 16,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "التنقيب البحري في سوريا.. هل تفتح توتال أبواب الثروة النفطية والغازية؟",
-          "excerpt": "أكد الخبير الاقتصادي والباحث في شؤون الطاقة، زياد عربش، أن المفاوضات مع شركة \"توتال\" بشأن التنقيب عن النفط والغاز في المياه السورية تمثل خطوة مهمة على..",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%87%D9%84-%D8%AA%D9%81%D8%AA%D8%AD-%D8%AA%D9%88%D8%AA%D8%A7%D9%84-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%AB%D8%B1%D9%88%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A%D8%A9%D8%9F",
-          "publishedAt": "2026-11-21T19:40:44.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "CENTCOM says U.S. blockade against Iran reaches 130th day",
-          "excerpt": "QAMISHLI, Syria ( North Press)- U.S. Central Command (CENTCOM) said on Saturday that the U.S. blockade against Iran had reached its 130th consecutive day, as American forces continued enforcing maritime restrictions. In a post on X, CENTCOM",
-          "link": "https://npasyria.com/en/143948/",
-          "publishedAt": "2026-11-21T15:15:27.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "\"شيفرون\" تقترب من توقيع اتفاق للتنقيب قبالة سواحل سوريا.. ما المكاسب المتوقعة؟",
-          "excerpt": "تتجه المباحثات بين الشركة السورية للبترول وشركة \"شيفرون\" الأميركية نحو مرحلة جديدة، مع بحث الخطوات اللازمة لتحويل مذكرة التفاهم الموقعة",
-          "link": "https://www.syria.tv/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
-          "publishedAt": "2026-11-21T09:37:32.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
       "id": "israel",
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
@@ -198,7 +153,7 @@
         "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 18:14",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 23:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -251,6 +206,65 @@
       ]
     },
     {
+      "id": "other",
+      "label": "بنود خارج الملفات المعرّفة",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "North Press Agency (English)"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 23:23",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 7,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "التنقيب البحري في سوريا.. هل تفتح توتال أبواب الثروة النفطية والغازية؟",
+          "excerpt": "أكد الخبير الاقتصادي والباحث في شؤون الطاقة، زياد عربش، أن المفاوضات مع شركة \"توتال\" بشأن التنقيب عن النفط والغاز في المياه السورية تمثل خطوة مهمة على..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%87%D9%84-%D8%AA%D9%81%D8%AA%D8%AD-%D8%AA%D9%88%D8%AA%D8%A7%D9%84-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%AB%D8%B1%D9%88%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A%D8%A9%D8%9F",
+          "publishedAt": "2026-11-21T19:40:44.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "CENTCOM says U.S. blockade against Iran reaches 130th day",
+          "excerpt": "QAMISHLI, Syria ( North Press)- U.S. Central Command (CENTCOM) said on Saturday that the U.S. blockade against Iran had reached its 130th consecutive day, as American forces continued enforcing maritime restrictions. In a post on X, CENTCOM",
+          "link": "https://npasyria.com/en/143948/",
+          "publishedAt": "2026-11-21T15:15:27.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "\"شيفرون\" تقترب من توقيع اتفاق للتنقيب قبالة سواحل سوريا.. ما المكاسب المتوقعة؟",
+          "excerpt": "تتجه المباحثات بين الشركة السورية للبترول وشركة \"شيفرون\" الأميركية نحو مرحلة جديدة، مع بحث الخطوات اللازمة لتحويل مذكرة التفاهم الموقعة",
+          "link": "https://www.syria.tv/%D8%B4%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%84%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%A8-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%82%D8%B9%D8%A9%D8%9F",
+          "publishedAt": "2026-11-21T09:37:32.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "sanctions",
       "label": "ملف العقوبات والاعتراف الأمريكي",
       "verification": "مصدر واحد",
@@ -262,7 +276,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 18:14",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 23:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -298,7 +312,7 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 18:14",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-21 23:23",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
