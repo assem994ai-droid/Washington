@@ -1,0 +1,124 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-23T04:05:27.684Z",
+    "windowHours": 24,
+    "from": "2026-11-22T04:05:27.684Z",
+    "to": "2026-11-23T04:05:27.684Z"
+  },
+  "counts": {
+    "total": 11,
+    "byCircle": {
+      "الإعلام السوري المستقل": 8,
+      "الإعلام المتخصص": 2,
+      "الملف الإسرائيلي والتركي": 1
+    },
+    "bySource": {
+      "تلفزيون سوريا": 6,
+      "Middle East Eye": 2,
+      "Jerusalem Post — الشرق الأوسط": 1,
+      "North Press Agency (English)": 2
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تحذير تركي من تصعيد إسرائيلي.. هل يتحول الجنوب السوري إلى ساحة مواجهة؟",
+      "excerpt": "حذر وزير الخارجية التركي هاكان فيدان من سيناريو إسرائيلي لشن عملية عسكرية داخل سوريا بذريعة حماية الدروز",
+      "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AA%D8%B1%D9%83%D9%8A-%D9%85%D9%86-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%87%D9%84-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D9%84%D9%89-%D8%B3%D8%A7%D8%AD%D8%A9-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9%D8%9F",
+      "publishedAt": "2026-11-23T03:35:29.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Why is Turkey warning of an Israeli military operation in Syria?",
+      "excerpt": "<article data-history-node-id=\"451392\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/why-turkey-warning-israeli-military-operation-syria\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.n",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/why-turkey-warning-israeli-military-operation-syria",
+      "publishedAt": "2026-11-23T01:39:15.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "\"عاد إلى بلدته في رِكاب الاحتلال\".. عاطف حسون يثير غضب السوريين",
+      "excerpt": "أعاد مقطع فيديو متداول على منصات التواصل الاجتماعي تسليط الضوء على عاطف حسون، بعد ظهوره خلال زيارة إلى مسقط رأسه في بلدة حضر بريف القنيطرة، برفقة جنود من قوات",
+      "link": "https://www.syria.tv/%D8%B9%D8%A7%D8%AF-%D8%A5%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%AA%D9%87-%D9%81%D9%8A-%D8%B1%D9%90%D9%83%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%B9%D8%A7%D8%B7%D9%81-%D8%AD%D8%B3%D9%88%D9%86-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%BA%D8%B6%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86",
+      "publishedAt": "2026-11-22T18:28:03.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Why is Turkey warning of an Israeli military operation in Syria?",
+      "excerpt": "<article data-history-node-id=\"451376\" about=\"https://www.middleeasteye.net/news/Why-Turkey-warning-of-Israeli-military-operation-in-Syria\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/Why-Turkey-warning-",
+      "link": "https://www.middleeasteye.net/news/Why-Turkey-warning-of-Israeli-military-operation-in-Syria",
+      "publishedAt": "2026-11-22T15:14:20.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Board of Peace: Israeli steps could pave way for Hamas disarmament",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5390,w_8085/733464' alt='US Vice President JD Vance, Jared Kushner, and US Secretary of State Marco Rubio look on as US President D",
+      "link": "https://www.jpost.com/middle-east/article-915703",
+      "publishedAt": "2026-11-22T13:27:23.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces restrict farmers&#8217; access to Daraa countryside",
+      "excerpt": "DARAA, Syria (North Press) – Israeli forces have imposed conditions on residents of Wadi al-Raqad in Daraa countryside, southern Syria, to allow them to harvest their olive crops, local sources told North Press on Sunday. Farmers are attemp",
+      "link": "https://npasyria.com/en/143982/",
+      "publishedAt": "2026-11-22T12:16:21.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يتوغل جنوبي بلدة الرفيد في القنيطرة ويمنع مزارعين من قطف الزيتون",
+      "excerpt": "أفاد مراسل تلفزيون سوريا، الأحد، بتوغل دورية تابعة للاحتلال الإسرائيلي مؤلفة من سيارتين عسكريتين في محيط بلدة الرفيد بريف القنيطرة الجنوبي.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%85%D9%86%D8%B9-%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86-%D9%85%D9%86-%D9%82%D8%B7%D9%81-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86",
+      "publishedAt": "2026-11-22T10:31:40.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "10 آلاف يورو وحظر دخول أوروبا.. خطة هولندية لتشجيع عودة السوريين لبلادهم",
+      "excerpt": "وسط تأييد سياسي.. مقترح هولندي لمنح السوريين 10 آلاف يورو مقابل العودة.",
+      "link": "https://www.syria.tv/%C2%A010-%D8%A2%D9%84%D8%A7%D9%81-%D9%8A%D9%88%D8%B1%D9%88-%D9%88%D8%AD%D8%B8%D8%B1-%D8%AF%D8%AE%D9%88%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AE%D8%B7%D8%A9-%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9-%D9%84%D8%AA%D8%B4%D8%AC%D9%8A%D8%B9-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D9%84%D8%A8%D9%84%D8%A7%D8%AF%D9%87%D9%85",
+      "publishedAt": "2026-11-22T10:28:04.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا ترفع وارداتها من الكهرباء التركية لتحسين التغذية في حلب وريفها",
+      "excerpt": "تعتزم الشركة السورية للكهرباء مضاعفة كميات الكهرباء المستجرة من تركيا، لتصل إلى 500 ميغاواط بنهاية شهر تشرين الثاني الجاري",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B1%D9%81%D8%B9-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7",
+      "publishedAt": "2026-11-22T09:21:10.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل شمالي القنيطرة وسط تحليق للمسيّرات غربي درعا",
+      "excerpt": "أفاد مراسل تلفزيون سوريا بأن قوات الاحتلال الإسرائيلي توغلت في ريف القنيطرة الشمالي، عقب تحليق مكثف للطائرات المسيرة الإسرائيلية في سماء ريف درعا",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D9%84%D9%8A%D9%82-%D9%84%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A7%D8%AA-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-11-22T08:08:49.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces open fire near village in Syria&#8217;s Daraa",
+      "excerpt": "DAMASCUS, Syria (North Press) – Israeli forces stationed in the western countryside of Daraa, southern Syria, opened heavy fire on Friday toward a village in the Yarmouk Basin, as Israeli military movements were also reported in several are",
+      "link": "https://npasyria.com/en/143969/",
+      "publishedAt": "2026-11-22T07:30:05.000Z"
+    }
+  ]
+}
