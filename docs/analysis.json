@@ -1,29 +1,28 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-24T11:39:58.221Z",
+    "generatedAt": "2026-11-24T21:31:06.251Z",
     "windowHours": 24,
-    "from": "2026-11-23T11:39:58.221Z",
-    "to": "2026-11-24T11:39:58.221Z"
+    "from": "2026-11-23T21:31:06.251Z",
+    "to": "2026-11-24T21:31:06.251Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 33,
+    "items": 27,
     "files": 5,
-    "withNew": 4,
-    "stale": 1,
+    "withNew": 3,
+    "stale": 2,
     "contested": 1,
     "echoed": 0,
-    "americanItems": 5,
-    "archiveCycles": 1412
+    "americanItems": 3,
+    "archiveCycles": 1413
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
-    "مراكز الفكر",
-    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي"
+    "الملف التركي",
+    "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
@@ -32,28 +31,126 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 6,
       "sources": [
-        "The National",
+        "سانا — قسم السياسة",
         "تلفزيون سوريا",
+        "FDD — مؤسسة الدفاع عن الديمقراطيات",
         "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
-        "سانا — قسم السياسة"
+        "The National"
       ],
       "circles": [
-        "الإعلام المتخصص",
+        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
+        "مراكز الفكر",
         "الملف الإسرائيلي والتركي",
-        "المصادر الرسمية السورية"
+        "الإعلام المتخصص"
       ],
       "history": "تطوّر جديد — 8 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
       "newItems": 8,
       "stale": false,
       "echoed": false,
-      "usItems": 4,
-      "score": 81,
+      "usItems": 2,
+      "score": 75,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الصالح يبحث مع مديرة منظمة حظر الأسلحة الكيميائية تعزيز التعاون بين سوريا والمنظمة",
+          "excerpt": "بحث وزير الطوارئ وإدارة الكوارث، رئيس الوفد السوري، رائد الصالح، مع المديرة العامة لمنظمة حظر الأسلحة ‏الكيميائية سابرينا دالافيور، سبل تعزيز التعاون بين سوريا والمنظمة، وذلك على هامش أعمال الدورة الحادية والثلاثين ‏لمؤتمر الدول الأطراف في ",
+          "link": "https://sana.sy/politics/2644310/",
+          "publishedAt": "2026-11-24T21:26:24.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "تحضيرات لإطلاق مشروع ياباني أممي لدعم مكافحة الألغام في سوريا",
+          "excerpt": "مباحثات سورية يابانية أممية لإطلاق مشروع يعزز مكافحة الألغام ويرفع كفاءة المركز الوطني.. ما أهدافه؟",
+          "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1%D8%A7%D8%AA-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A-%D8%A3%D9%85%D9%85%D9%8A-%D9%84%D8%AF%D8%B9%D9%85-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-11-24T20:34:03.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "منظمة حظر الأسلحة الكيميائية تشيد بتعاون سوريا في تدمير أسلحة من عهد النظام البائد",
+          "excerpt": "أعلنت المديرة العامة لمنظمة حظر الأسلحة الكيميائية سابرينا دالافيور، اليوم الثلاثاء، أن فرق المنظمة تحققت في آب ‏الماضي من تدمير 42 قنبلة جوية عُثر عليها في أيار الماضي، وكانت ضمن أسلحة كيميائية غير معلن عنها سابقاً في ‏سوريا في عهد النظام ",
+          "link": "https://sana.sy/politics/2644141/",
+          "publishedAt": "2026-11-24T19:41:15.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "فعالية سورية في لاهاي تبحث سبل معالجة إرث السلاح الكيميائي للنظام البائد",
+          "excerpt": "ناقشت فعالية نظمتها البعثة الدائمة للجمهورية العربية السورية لدى منظمة حظر الأسلحة الكيميائية اليوم الثلاثاء، على هامش اجتماعات الدورة الـ31 لمؤتمر الدول الأطراف في اتفاقية حظر الأسلحة الكيميائية المنعقدة في لاهاي الهولندية، سبل معالجة إرث ",
+          "link": "https://sana.sy/syria-and-the-world/2644048/",
+          "publishedAt": "2026-11-24T18:04:22.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
+          "sourceId": "fdd",
+          "circle": "مراكز الفكر",
+          "title": "Eisenkot nears government formation deadline, Hamas and other groups violate ceasefire 20 times Nov. 6–24",
+          "excerpt": "Israeli Prime Minister-designate Gadi Eisenkot is reportedly preparing to announce the formation of a government next week as negotiations with Israeli Prime Minister Benjamin Netanyahu’s Likud party... The post Eisenkot nears government fo",
+          "link": "https://www.fdd.org/analysis/eisenkot-nears-government-formation-deadline-hamas-and-other-groups-violate-ceasefire-20-times-nov-6-24/",
+          "publishedAt": "2026-11-24T17:21:45.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "حظر الأسلحة الكيميائية تؤكد إحراز تقدم في معالجة إرث نظام الأسد الكيميائي",
+          "excerpt": "وثائق ومعدات قيد الفحص قد تحمل إجابات عن قضايا عالقة في سوريا، فماذا تكشف المنظمة في الأيام المقبلة؟",
+          "link": "https://www.syria.tv/%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D8%A4%D9%83%D8%AF-%D8%A5%D8%AD%D8%B1%D8%A7%D8%B2-%D8%AA%D9%82%D8%AF%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A5%D8%B1%D8%AB-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A",
+          "publishedAt": "2026-11-24T15:33:37.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "US plans to train Syrian soldiers signal potential shift in military ties with Damascus - analysis",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3406,w_5500/709620' alt='Members of the Syrian military police gather outside al-Aqtan prison, where some Islamic State detainees a",
+          "link": "https://www.jpost.com/middle-east/article-915965",
+          "publishedAt": "2026-11-24T15:25:02.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Kurdistan PM rejects Baghdad&#8217;s move to control oil, border crossings",
+          "excerpt": "QAMISHLI, Syria (North Press) – Kurdistan Region Prime Minister Masrour Barzani on Tuesday rejected Iraqi Prime Minister Ali al-Zaidi’s directives to place the Region’s border crossings under federal control and expand Baghdad’s authority o",
+          "link": "https://npasyria.com/en/144057/",
+          "publishedAt": "2026-11-24T12:37:47.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -63,7 +160,7 @@
           "link": "https://www.thenationalnews.com/travel/2026/11/24/eurowings-to-launch-direct-flights-to-damascus-from-four-german-cities/",
           "publishedAt": "2026-11-24T11:17:51.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -75,7 +172,7 @@
           "link": "https://www.syria.tv/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AD%D8%A7%D8%AF-%D9%81%D9%8A-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%B9-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D9%85%D9%88%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
           "publishedAt": "2026-11-24T10:44:49.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -87,7 +184,7 @@
           "link": "https://www.jpost.com/middle-east/article-915924",
           "publishedAt": "2026-11-24T10:38:10.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -99,7 +196,7 @@
           "link": "https://npasyria.com/en/144040/",
           "publishedAt": "2026-11-24T09:34:39.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -111,7 +208,7 @@
           "link": "https://www.syria.tv/8-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%84%D9%85-%D8%AA%D9%8F%D9%83%D8%B4%D9%81-%D8%A8%D8%B9%D8%AF-%D8%A3%D8%B2%D9%85%D8%A9-%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
           "publishedAt": "2026-11-24T08:51:26.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -123,7 +220,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/11/24/landmine-casualties-hit-five-year-high-as-refugees-return-to-syria/",
           "publishedAt": "2026-11-24T08:00:41.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -135,7 +232,7 @@
           "link": "https://npasyria.com/en/144023/",
           "publishedAt": "2026-11-24T06:48:23.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -147,138 +244,6 @@
           "link": "https://www.syria.tv/%D8%A8%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D9%86%D8%B1%D9%88%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A3%D9%85%D9%85%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%B7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF%D8%A9",
           "publishedAt": "2026-11-24T03:41:51.000Z",
           "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "US 'discussing military training for Syrian forces'",
-          "excerpt": "The US is discussing plans to train Syrian soldiers in ⁠demining, five sources said, in what would be the first American ⁠training mission with the Syrian military since former rebel fighters took power in Damascus ​in 2024.The proposal for",
-          "link": "https://www.thenationalnews.com/news/us/2026/11/23/us-syria-troops-training/",
-          "publishedAt": "2026-11-23T20:31:09.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "US discussing plans to train Syrian troops in demining, in first such mission since fall of Assad",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3072,w_4608/738864' alt='A military police officer stands on a road following an explosion at a weapons depot in the Al-Eis area, i",
-          "link": "https://www.jpost.com/middle-east/article-915877",
-          "publishedAt": "2026-11-23T19:17:55.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Russian drone strike reported near presidential complex in Kyiv",
-          "excerpt": "QAMISHLI, Syria (North Press)- A Russian drone struck a building near Ukraine’s presidential complex in central Kyiv on Monday, as explosions were heard across the capital, according to a Sky News Arabia correspondent. The drone struck a bu",
-          "link": "https://npasyria.com/en/144017/",
-          "publishedAt": "2026-11-23T18:17:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مجلس الشعب السوري يدرس ضوابط جديدة للحجز الاحتياطي وحماية حق الملكية",
-          "excerpt": "بحثت لجنتا الشؤون الدستورية والتشريعية والحريات العامة وحقوق الإنسان في مجلس الشعب، الإثنين، مشروع قانون يضع ضوابط قانونية للحجز الاحتياطي، مع التركيز على حماية",
-          "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AD%D8%AC%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9",
-          "publishedAt": "2026-11-23T17:56:58.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "هيئة مكافحة غسل الأموال السورية تشارك غداً في الاجتماع العام لـ«مينافاتف» بأبوظبي",
-          "excerpt": "تشارك هيئة مكافحة غسل الأموال وتمويل الإرهاب في أعمال الاجتماع العام الـ43 لمجموعة العمل المالي لمنطقة الشرق الأوسط وشمال أفريقيا \"مينافاتف\"، الذي تستضيفه العاصمة الإماراتية أبوظبي من 24 حتى 26 من تشرين الثاني الجاري.",
-          "link": "https://sana.sy/syria-and-the-world/2643262/",
-          "publishedAt": "2026-11-23T17:17:59.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أول مهمة منذ سقوط النظام.. واشنطن تبحث تدريب الجيش السوري على إزالة الألغام",
-          "excerpt": "نقلت وكالة \"رويترز\"، الإثنين، عن خمسة أشخاص مطلعين على المقترح أن البرنامج ما يزال قيد النقاش، ويواجه عقبات قانونية في الولايات المتحدة، إلى جانب تحفظات لدى بعض",
-          "link": "https://www.syria.tv/%D8%A3%D9%88%D9%84-%D9%85%D9%87%D9%85%D8%A9-%D9%85%D9%86%D8%B0-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%BA%D8%A7%D9%85",
-          "publishedAt": "2026-11-23T15:29:46.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الصالح: نجاح سوريا في تدمير أول صاروخ كيميائي من مخلفات النظام البائد تحولٌ ‏تاريخي",
-          "excerpt": "أكد وزير الطوارئ وإدارة الكوارث رائد الصالح أن الجمهورية العربية السورية قطعت ‏خطوات عملية مهمة في معالجة إرث البرنامج الكيميائي الذي خلَّفه النظام السابق، ‏مشيراً إلى أن نجاح سوريا في تدمير أول صاروخ كيميائي من المخزون الذي ورثته، ‏تحت تحق",
-          "link": "https://sana.sy/syria-and-the-world/2643151/",
-          "publishedAt": "2026-11-23T15:24:36.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "ناجون من هجمات الكيميائي يشاركون باجتماعات منظمة حظر الأسلحة الكيميائية في ‏لاهاي",
-          "excerpt": "شارك ناجون وناجيات من هجمات النظام البائد بالأسلحة الكيميائية اليوم الإثنين في ‏اجتماعات اللجنة التنفيذية للدول الأعضاء في منظمة حظر الأسلحة الكيميائية، المنعقدة ‏في مدينة لاهاي الهولندية، بالتزامن مع مشاركة الوفد السوري برئاسة وزير الطوارئ",
-          "link": "https://sana.sy/syria-and-the-world/2643113/",
-          "publishedAt": "2026-11-23T14:57:41.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "ناجون سوريون يقدمون شهاداتهم أمام منظمة حظر الأسلحة الكيميائية",
-          "excerpt": "من لاهاي، ينقل ناجون سوريون شهاداتهم عن الهجمات الكيميائية ويطالبون بإنصاف الضحايا ومحاسبة المسؤولين، فهل تتحقق العدالة؟",
-          "link": "https://www.syria.tv/%D9%86%D8%A7%D8%AC%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%8A%D9%82%D8%AF%D9%85%D9%88%D9%86-%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA%D9%87%D9%85-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9",
-          "publishedAt": "2026-11-23T14:38:02.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تحقيقات مجزرة العتيبة تكشف تفاصيل تفخيخ طريق فرار الأهالي بريف دمشق",
-          "excerpt": "تكشف نتائج التحقيق مع أحمد طلال رسلان تفاصيل تفخيخ طريق العتيبة وزراعة 870 لغماً والتنسيق مع عناصر من حزب الله والمشاركة في أحداث آذار 2025.",
-          "link": "https://www.syria.tv/%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D8%A8%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D9%81%D8%AE%D9%8A%D8%AE-%D8%B7%D8%B1%D9%8A%D9%82-%D9%81%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
-          "publishedAt": "2026-11-23T13:43:23.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "إصابة 4 عناصر من الأمن الداخلي بهجوم لميليشيا \"الحرس الوطني\" في ريف السويداء",
-          "excerpt": "أصيب 4 من عناصر الأمن الداخلي السوري، من جراء استهدافهم بطائرة مسيّرة تابعة لـميليشيا\"الحرس الوطني\"، على محور بلدة ريمة حازم في ريف السويداء، في خرق جديد للهدنة",
-          "link": "https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-4-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
-          "publishedAt": "2026-11-23T13:11:14.000Z",
-          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -289,27 +254,68 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
-        "تلفزيون سوريا",
-        "Al-Monitor",
+        "سانا — قسم السياسة",
         "North Press Agency (English)",
-        "Middle East Eye",
-        "Ynet News (English)"
+        "Al Jazeera English",
+        "تلفزيون سوريا"
       ],
       "circles": [
+        "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص",
-        "الملف الإسرائيلي"
+        "الإعلام الدولي"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 5,
+      "newItems": 3,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 47,
+      "score": 34,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تؤكد التزامها بإزالة إرث الأسلحة الكيميائية وتدعو لوقف الاعتداءات الإسرائيلية",
+          "excerpt": "عقد وزير الطوارئ وإدارة الكوارث رائد الصالح اجتماعاً مع ممثلي الدول الأعضاء في فريق عمل «أنفاس الحرية» الذي ترأسه سوريا، بمشاركة الأمانة الفنية لمنظمة حظر الأسلحة الكيميائية، وحضور المندوب الدائم لسوريا لدى المنظمة محمد كتوب، وذلك على هامش ",
+          "link": "https://sana.sy/politics/2644289/",
+          "publishedAt": "2026-11-24T21:16:33.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Israel says Iran developing chemical weapons, Katz warns",
+          "excerpt": "QAMISHLI, Syria (North Press)- Israeli Defense Minister Israel Katz said on Tuesday that Iran is developing chemical weapons, warning that Israel will prevent Tehran from acquiring an operational capability. “Iran is in the process of devel",
+          "link": "https://npasyria.com/en/144065/",
+          "publishedAt": "2026-11-24T18:43:24.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Senior Hamas security official killed in Israeli drone strikes",
+          "excerpt": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
+          "publishedAt": "2026-11-24T18:20:00.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
@@ -321,21 +327,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli airstrikes kill at least six Palestinians in Gaza, medics say",
-          "excerpt": "<p>CAIRO, Nov 24 (Reuters) - Israeli airstrikes killed at least six Palestinians, including two police officers, in the Gaza Strip on Tuesday, local health and police officials said.</p><p>Medics said three people were killed in an Israeli ",
-          "link": "https://www.al-monitor.com/originals/2026/11/israeli-airstrikes-kill-least-six-palestinians-gaza-medics-say",
-          "publishedAt": "2026-11-24T09:46:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -349,21 +341,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli army storms Syrian village",
-          "excerpt": "<article data-history-node-id=\"451434\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-storms-syrian-village\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-storms-syrian-village",
-          "publishedAt": "2026-11-24T02:16:44.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -379,48 +357,6 @@
           ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "أوتشا: 280 حادثة توغل مسلح للاحتلال الإسرائيلي جنوبي سوريا خلال أيلول",
-          "excerpt": "وثقت الأمم المتحدة نحو 280 حادثة تضمنت توغلات إسرائيلية مسلحة جنوبي سوريا خلال أيلول، محذرة من تأثيرها على المدنيين والزراعة والخدمات الأساسية.",
-          "link": "https://www.syria.tv/%D8%A3%D9%88%D8%AA%D8%B4%D8%A7-280-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%AA%D9%88%D8%BA%D9%84-%D9%85%D8%B3%D9%84%D8%AD-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D9%84%D9%88%D9%84",
-          "publishedAt": "2026-11-23T17:05:40.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "الاحتلال الإسرائيلي يتوغل في تل أحمر بريف القنيطرة الشمالي",
-          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الإثنين، في منطقة تل أحمر قرب قرية عين النورية بريف القنيطرة الشمالي، وفق ما أفاد به مراسل تلفزيون سوريا.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
-          "publishedAt": "2026-11-23T12:21:14.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Ynet News (English)",
-          "sourceId": "ynet-en",
-          "circle": "الملف الإسرائيلي",
-          "title": "Could the next October 7 come from Egypt? Moroccan analyst warns Israel of shifting Middle East threats",
-          "excerpt": "Moroccan political analyst Amine Ayoub discusses Morocco’s deepening defense partnership with Israel, the prospects of Saudi normalization, Egypt’s growing economic instability and why Israel cannot afford to underestimate the threats posed",
-          "link": "https://www.ynetnews.com/article/hk7mrjby7l",
-          "publishedAt": "2026-11-23T11:55:07.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
         }
       ]
     },
@@ -429,16 +365,14 @@
       "label": "الحراك الدبلوماسي حول سوريا",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "The National",
-        "North Press Agency (English)",
-        "سانا — قسم السياسة"
+        "سانا — قسم السياسة",
+        "The National"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية"
+        "المصادر الرسمية السورية",
+        "الإعلام المتخصص"
       ],
       "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
@@ -446,8 +380,22 @@
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 16,
+      "score": 12,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مباحثات سورية ألمانية حول سبل تطوير العلاقات وتوسيع مجالات التعاون",
+          "excerpt": "بحث القائم بأعمال السفارة السورية في برلين محمد براء شكري مع رئيس لجنة الشؤون الخارجية في البرلمان الألماني \"البوندستاغ\" آرمين لاشيت، سبل تطوير العلاقات السورية الألمانية وتوسيع مجالات التعاون والتنسيق بين البلدين.",
+          "link": "https://sana.sy/politics/2644151/",
+          "publishedAt": "2026-11-24T19:58:57.000Z",
+          "files": [
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "The National",
           "sourceId": "the-national",
@@ -459,72 +407,8 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Al-Sharaa, UAE president discuss bilateral relations by phone",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syrian President Ahmed al-Sharaa and UAE President Mohammed bin Zayed Al Nahyan discussed bilateral relations and ways to strengthen cooperation during a phone call on Monday, November 23. According to the UA",
-          "link": "https://npasyria.com/en/144020/",
-          "publishedAt": "2026-11-23T19:51:56.000Z",
-          "files": [
-            "diplomacy"
-          ],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية فرنسية لتطوير العلاقات وتوسيع آفاق التعاون ‏",
-          "excerpt": "بحث مستشار الشؤون الأوروبية في وزارة الخارجية والمغتربين حمزة المصطفى اليوم الإثنين مع ‏وفد ‏من الجمعية الوطنية الفرنسية، سبل تطوير العلاقات الثنائية والأوروبية، والانتقال ‏بها ‏نحو آفاق أوسع من التعاون.‏",
-          "link": "https://sana.sy/politics/2643003/",
-          "publishedAt": "2026-11-23T12:17:57.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "sanctions",
-      "label": "ملف العقوبات والاعتراف الأمريكي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "تلفزيون سوريا"
-      ],
-      "circles": [
-        "الإعلام السوري المستقل"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 1,
-      "score": 15,
-      "items": [
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "اعتراضا على فيلم \"قيصر\".. عائلات الضحايا تطالب بتجميد المشروع",
-          "excerpt": "طالبت رابطة عائلات قيصر بتجميد مشروع إنتاج فيلم سينمائي يتناول قصة فريد المذهان، المعروف باسم \"قيصر\"، إلى حين التشاور مع ممثلي عائلات الضحايا وتقديم..",
-          "link": "https://www.syria.tv/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D9%84%D9%85-%D9%82%D9%8A%D8%B5%D8%B1-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9",
-          "publishedAt": "2026-11-24T07:22:37.000Z",
-          "files": [
-            "sanctions"
-          ],
-          "seenBefore": false,
-          "us": true
         }
       ]
     },
@@ -542,7 +426,7 @@
         "الإعلام السوري المستقل",
         "المصادر الرسمية السورية"
       ],
-      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-24 01:48",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-24 11:39",
       "isFollowUp": true,
       "newItems": 0,
       "stale": true,
@@ -578,6 +462,42 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "sanctions",
+      "label": "ملف العقوبات والاعتراف الأمريكي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-24 11:39",
+      "isFollowUp": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
+      "usItems": 1,
+      "score": 6,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "اعتراضا على فيلم \"قيصر\".. عائلات الضحايا تطالب بتجميد المشروع",
+          "excerpt": "طالبت رابطة عائلات قيصر بتجميد مشروع إنتاج فيلم سينمائي يتناول قصة فريد المذهان، المعروف باسم \"قيصر\"، إلى حين التشاور مع ممثلي عائلات الضحايا وتقديم..",
+          "link": "https://www.syria.tv/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D9%84%D9%85-%D9%82%D9%8A%D8%B5%D8%B1-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9",
+          "publishedAt": "2026-11-24T07:22:37.000Z",
+          "files": [
+            "sanctions"
+          ],
+          "seenBefore": true,
+          "us": true
         }
       ]
     }
