@@ -1,0 +1,246 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-24T01:48:34.150Z",
+    "windowHours": 24,
+    "from": "2026-11-23T01:48:34.150Z",
+    "to": "2026-11-24T01:48:34.150Z"
+  },
+  "counts": {
+    "total": 24,
+    "byCircle": {
+      "الإعلام السوري المستقل": 14,
+      "المصادر الرسمية السورية": 5,
+      "الإعلام الدولي": 1,
+      "الإعلام المتخصص": 2,
+      "الملف الإسرائيلي والتركي": 2
+    },
+    "bySource": {
+      "تلفزيون سوريا": 11,
+      "سانا — قسم السياسة": 5,
+      "Al Jazeera English": 1,
+      "Middle East Eye": 1,
+      "The National": 1,
+      "North Press Agency (English)": 3,
+      "Jerusalem Post — الشرق الأوسط": 2
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مباحثات سورية تركية لتوسيع الربط الرقمي وتطوير قطاع الاتصالات",
+      "excerpt": "بحث وزير الاتصالات عبد السلام هيكل والسفير التركي نوح يلماز تطوير شبكات الألياف الضوئية ومراكز البيانات، وتعزيز الاستثمارات والتعاون في الاقتصاد الرقمي.",
+      "link": "https://www.syria.tv/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%88%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA",
+      "publishedAt": "2026-11-23T23:19:54.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل في قرية عابدين بريف درعا",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، ليل الاثنين، في قرية عابدين بمنطقة حوض اليرموك في ريف درعا الغربي، ونفذت عمليات دهم لعدد من منازل الأهالي.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-11-23T22:47:54.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "وزير الاتصالات يبحث مع السفير التركي تعزيز الربط بين شبكات البلدين",
+      "excerpt": "بحث وزير الاتصالات وتقانة المعلومات عبد السلام هيكل مع سفير تركيا بدمشق نوح يلماز، تعزيز الربط بين شبكات الاتصالات في البلدين وتوسيع مسارات نقل البيانات إقليمياً ودولياً، بما يدعم موقع سوريا محوراً للاتصالات، ويحقق المصالح المشتركة للبلدين.",
+      "link": "https://sana.sy/syria-and-the-world/2643495/",
+      "publishedAt": "2026-11-23T22:02:15.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Israel’s southern Syria incursion triggers fear and destruction",
+      "excerpt": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+      "publishedAt": "2026-11-23T21:19:17.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "US could send troops back to Syria in training role, says report",
+      "excerpt": "<article data-history-node-id=\"451424\" about=\"https://www.middleeasteye.net/news/us-could-send-troops-back-syria-military-training-report\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/news/us-could-send-troops",
+      "link": "https://www.middleeasteye.net/news/us-could-send-troops-back-syria-military-training-report",
+      "publishedAt": "2026-11-23T20:32:28.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "US 'discussing military training for Syrian forces'",
+      "excerpt": "The US is discussing plans to train Syrian soldiers in ⁠demining, five people familiar with the proposal said, in what would be the first US ⁠training mission with the Syrian military since former rebel fighters took power in Damascus ​in 2",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/23/us-syria-troops-training/",
+      "publishedAt": "2026-11-23T20:31:09.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Al-Sharaa, UAE president discuss bilateral relations by phone",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syrian President Ahmed al-Sharaa and UAE President Mohammed bin Zayed Al Nahyan discussed bilateral relations and ways to strengthen cooperation during a phone call on Monday, November 23. According to the UA",
+      "link": "https://npasyria.com/en/144020/",
+      "publishedAt": "2026-11-23T19:51:56.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "US discussing plans to train Syrian troops in demining, in first such mission since fall of Assad",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3072,w_4608/738864' alt='A military police officer stands on a road following an explosion at a weapons depot in the Al-Eis area, i",
+      "link": "https://www.jpost.com/middle-east/article-915877",
+      "publishedAt": "2026-11-23T19:17:55.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Russian drone strike reported near presidential complex in Kyiv",
+      "excerpt": "QAMISHLI, Syria (North Press)- A Russian drone struck a building near Ukraine’s presidential complex in central Kyiv on Monday, as explosions were heard across the capital, according to a Sky News Arabia correspondent. The drone struck a bu",
+      "link": "https://npasyria.com/en/144017/",
+      "publishedAt": "2026-11-23T18:17:24.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مجلس الشعب السوري يدرس ضوابط جديدة للحجز الاحتياطي وحماية حق الملكية",
+      "excerpt": "بحثت لجنتا الشؤون الدستورية والتشريعية والحريات العامة وحقوق الإنسان في مجلس الشعب، الإثنين، مشروع قانون يضع ضوابط قانونية للحجز الاحتياطي، مع التركيز على حماية",
+      "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AD%D8%AC%D8%B2-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9",
+      "publishedAt": "2026-11-23T17:56:58.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "هيئة مكافحة غسل الأموال السورية تشارك غداً في الاجتماع العام لـ«مينافاتف» بأبوظبي",
+      "excerpt": "تشارك هيئة مكافحة غسل الأموال وتمويل الإرهاب في أعمال الاجتماع العام الـ43 لمجموعة العمل المالي لمنطقة الشرق الأوسط وشمال أفريقيا \"مينافاتف\"، الذي تستضيفه العاصمة الإماراتية أبوظبي من 24 حتى 26 من تشرين الثاني الجاري.",
+      "link": "https://sana.sy/syria-and-the-world/2643262/",
+      "publishedAt": "2026-11-23T17:17:59.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "أوتشا: 280 حادثة توغل مسلح للاحتلال الإسرائيلي جنوبي سوريا خلال أيلول",
+      "excerpt": "وثقت الأمم المتحدة نحو 280 حادثة تضمنت توغلات إسرائيلية مسلحة جنوبي سوريا خلال أيلول، محذرة من تأثيرها على المدنيين والزراعة والخدمات الأساسية.",
+      "link": "https://www.syria.tv/%D8%A3%D9%88%D8%AA%D8%B4%D8%A7-280-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%AA%D9%88%D8%BA%D9%84-%D9%85%D8%B3%D9%84%D8%AD-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D9%84%D9%88%D9%84",
+      "publishedAt": "2026-11-23T17:05:40.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "أول مهمة منذ سقوط النظام.. واشنطن تبحث تدريب الجيش السوري على إزالة الألغام",
+      "excerpt": "نقلت وكالة \"رويترز\"، الإثنين، عن خمسة أشخاص مطلعين على المقترح أن البرنامج ما يزال قيد النقاش، ويواجه عقبات قانونية في الولايات المتحدة، إلى جانب تحفظات لدى بعض",
+      "link": "https://www.syria.tv/%D8%A3%D9%88%D9%84-%D9%85%D9%87%D9%85%D8%A9-%D9%85%D9%86%D8%B0-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%BA%D8%A7%D9%85",
+      "publishedAt": "2026-11-23T15:29:46.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الصالح: نجاح سوريا في تدمير أول صاروخ كيميائي من مخلفات النظام البائد تحولٌ ‏تاريخي",
+      "excerpt": "أكد وزير الطوارئ وإدارة الكوارث رائد الصالح أن الجمهورية العربية السورية قطعت ‏خطوات عملية مهمة في معالجة إرث البرنامج الكيميائي الذي خلَّفه النظام السابق، ‏مشيراً إلى أن نجاح سوريا في تدمير أول صاروخ كيميائي من المخزون الذي ورثته، ‏تحت تحق",
+      "link": "https://sana.sy/syria-and-the-world/2643151/",
+      "publishedAt": "2026-11-23T15:24:36.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "ناجون من هجمات الكيميائي يشاركون باجتماعات منظمة حظر الأسلحة الكيميائية في ‏لاهاي",
+      "excerpt": "شارك ناجون وناجيات من هجمات النظام البائد بالأسلحة الكيميائية اليوم الإثنين في ‏اجتماعات اللجنة التنفيذية للدول الأعضاء في منظمة حظر الأسلحة الكيميائية، المنعقدة ‏في مدينة لاهاي الهولندية، بالتزامن مع مشاركة الوفد السوري برئاسة وزير الطوارئ",
+      "link": "https://sana.sy/syria-and-the-world/2643113/",
+      "publishedAt": "2026-11-23T14:57:41.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "ناجون سوريون يقدمون شهاداتهم أمام منظمة حظر الأسلحة الكيميائية",
+      "excerpt": "من لاهاي، ينقل ناجون سوريون شهاداتهم عن الهجمات الكيميائية ويطالبون بإنصاف الضحايا ومحاسبة المسؤولين، فهل تتحقق العدالة؟",
+      "link": "https://www.syria.tv/%D9%86%D8%A7%D8%AC%D9%88%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%8A%D9%82%D8%AF%D9%85%D9%88%D9%86-%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA%D9%87%D9%85-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9",
+      "publishedAt": "2026-11-23T14:38:02.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تحقيقات مجزرة العتيبة تكشف تفاصيل تفخيخ طريق فرار الأهالي بريف دمشق",
+      "excerpt": "تكشف نتائج التحقيق مع أحمد طلال رسلان تفاصيل تفخيخ طريق العتيبة وزراعة 870 لغماً والتنسيق مع عناصر من حزب الله والمشاركة في أحداث آذار 2025.",
+      "link": "https://www.syria.tv/%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D8%A8%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%AA%D9%81%D8%AE%D9%8A%D8%AE-%D8%B7%D8%B1%D9%8A%D9%82-%D9%81%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82",
+      "publishedAt": "2026-11-23T13:43:23.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "إصابة 4 عناصر من الأمن الداخلي بهجوم لميليشيا \"الحرس الوطني\" في ريف السويداء",
+      "excerpt": "أصيب 4 من عناصر الأمن الداخلي السوري، من جراء استهدافهم بطائرة مسيّرة تابعة لـميليشيا\"الحرس الوطني\"، على محور بلدة ريمة حازم في ريف السويداء، في خرق جديد للهدنة",
+      "link": "https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-4-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
+      "publishedAt": "2026-11-23T13:11:14.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال الإسرائيلي يتوغل في تل أحمر بريف القنيطرة الشمالي",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الإثنين، في منطقة تل أحمر قرب قرية عين النورية بريف القنيطرة الشمالي، وفق ما أفاد به مراسل تلفزيون سوريا.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A",
+      "publishedAt": "2026-11-23T12:21:14.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية فرنسية لتطوير العلاقات وتوسيع آفاق التعاون ‏",
+      "excerpt": "بحث مستشار الشؤون الأوروبية في وزارة الخارجية والمغتربين حمزة المصطفى اليوم الإثنين مع ‏وفد ‏من الجمعية الوطنية الفرنسية، سبل تطوير العلاقات الثنائية والأوروبية، والانتقال ‏بها ‏نحو آفاق أوسع من التعاون.‏",
+      "link": "https://sana.sy/politics/2643003/",
+      "publishedAt": "2026-11-23T12:17:57.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "US envoy highlights Syria's economic potential as American and European ties expand - analysis",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3659,w_5500/736996' alt='A worker operates a pipeline, as Syria begins to transport oil for the first time since the fall of Bashar",
+      "link": "https://www.jpost.com/middle-east/article-915801",
+      "publishedAt": "2026-11-23T11:08:20.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Israeli forces raid homes in Syria&#8217;s Quneitra",
+      "excerpt": "QUNEITRA, Syria (North Press) – Israeli forces on Sunday midnight raided several homes in the village of Raifd in the southern countryside of Quneitra, southern Syria, deploying 11 military vehicles amid helicopter and drone activity over t",
+      "link": "https://npasyria.com/en/144001/",
+      "publishedAt": "2026-11-23T09:59:47.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "توغل ليلي وتفتيش منازل.. انتهاكات جديدة لجيش الاحتلال الإسرائيلي في القنيطرة",
+      "excerpt": "توغلت دورية من جيش الاحتلال الإسرائيلي، ليل الأحد - الإثنين، في بلدة الرفيد بريف القنيطرة الجنوبي، وسط عمليات تفتيش طالت عدداً من المنازل.",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D9%84%D9%8A%D9%84%D9%8A-%D9%88%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-23T06:20:41.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "تحذير تركي من تصعيد إسرائيلي.. هل يتحول الجنوب السوري إلى ساحة مواجهة؟",
+      "excerpt": "حذر وزير الخارجية التركي هاكان فيدان من سيناريو إسرائيلي لشن عملية عسكرية داخل سوريا بذريعة حماية الدروز",
+      "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%AA%D8%B1%D9%83%D9%8A-%D9%85%D9%86-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%87%D9%84-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A5%D9%84%D9%89-%D8%B3%D8%A7%D8%AD%D8%A9-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9%D8%9F",
+      "publishedAt": "2026-11-23T03:35:29.000Z"
+    }
+  ]
+}
