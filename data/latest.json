@@ -1,31 +1,149 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-25T04:33:15.830Z",
+    "generatedAt": "2026-11-25T14:53:24.458Z",
     "windowHours": 24,
-    "from": "2026-11-24T04:33:15.830Z",
-    "to": "2026-11-25T04:33:15.830Z"
+    "from": "2026-11-24T14:53:24.458Z",
+    "to": "2026-11-25T14:53:24.458Z"
   },
   "counts": {
-    "total": 27,
+    "total": 29,
     "byCircle": {
-      "الإعلام السوري المستقل": 13,
-      "الإعلام المتخصص": 3,
-      "المصادر الرسمية السورية": 8,
+      "المصادر الرسمية السورية": 13,
+      "الإعلام المتخصص": 2,
+      "الإعلام السوري المستقل": 11,
+      "الإعلام الدولي": 1,
       "مراكز الفكر": 1,
-      "الملف الإسرائيلي والتركي": 2
+      "الملف الإسرائيلي والتركي": 1
     },
     "bySource": {
+      "سانا — قسم السياسة": 13,
+      "Al-Monitor": 2,
       "تلفزيون سوريا": 8,
-      "Middle East Eye": 1,
-      "سانا — قسم السياسة": 8,
-      "North Press Agency (English)": 5,
+      "Al Jazeera English": 1,
+      "North Press Agency (English)": 3,
       "FDD — مؤسسة الدفاع عن الديمقراطيات": 1,
-      "Jerusalem Post — الشرق الأوسط": 2,
-      "The National": 2
+      "Jerusalem Post — الشرق الأوسط": 1
     }
   },
   "errors": [],
   "items": [
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مباحثات سورية أوروبية لتطوير التواصل المؤسسي وتعزيز التنسيق المشترك ‏",
+      "excerpt": "التقت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين، سالي شوبط، رئيس ‏قسم التفتيش في جهاز العمل الخارجي الأوروبي، توم فينس، خلال زيارته إلى دمشق.‏",
+      "link": "https://sana.sy/politics/2644882/",
+      "publishedAt": "2026-11-25T14:51:24.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli opposition advances October 7 attack probe opposed by Netanyahu",
+      "excerpt": "<p>JERUSALEM, Nov 25 (Reuters) - Israel's opposition-run parliament gave the initial go-ahead on Wednesday for an independent investigation into the October 7, 2023, Hamas attack, a probe opposed by Prime Minister Benjamin Netanyahu while p",
+      "link": "https://www.al-monitor.com/originals/2026/11/israeli-opposition-advances-october-7-attack-probe-opposed-netanyahu",
+      "publishedAt": "2026-11-25T14:46:30.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "توغل جديد لجيش الاحتلال الإسرائيلي في القنيطرة والإفراج عن مدني مختطف",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي في تل أحمر بريف القنيطرة، بالتزامن مع إفراجها عن مدني اختطفته خلال توغل سابق في قرية جباتا الخشب.",
+      "link": "https://www.syria.tv/%D8%AA%D9%88%D8%BA%D9%84-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D9%85%D8%AF%D9%86%D9%8A-%D9%85%D8%AE%D8%AA%D8%B7%D9%81",
+      "publishedAt": "2026-11-25T14:18:57.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "برنامج الأمم المتحدة يعيد تأهيل 30 مدرسة في سوريا ضمن خطط التعافي",
+      "excerpt": "أُعيد تأهيل 30 مدرسة في سوريا بدعم أممي، في حين تعمل الوزارة على ترميم مئات المدارس.. فكم تبقى خارج الخدمة؟",
+      "link": "https://www.syria.tv/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%AA%D8%A3%D9%87%D9%8A%D9%84-30-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B6%D9%85%D9%86-%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A",
+      "publishedAt": "2026-11-25T13:04:36.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تعرب عن تعازيها لتركيا إثر حادث تحطم مروحية ‏في إسكي شهير",
+      "excerpt": "أعربت الجمهورية العربية السورية عن خالص تعازيها وصادق ‏مواساتها إلى الجمهورية التركية الصديقة، حكومة وشعباً، إثر ‏حادث تحطم مروحية في ولاية إسكي شهير، والذي أسفر عن ‏وفاة خمسة من أفراد القوات المسلحة التركية.‏",
+      "link": "https://sana.sy/syria-and-the-world/2644725/",
+      "publishedAt": "2026-11-25T12:07:47.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "Israeli strike in Gaza kills senior Hamas official, his wife and children",
+      "excerpt": "Gaza's internal security director and his family are among seven Palestinians killed by Israeli forces on Wednesday.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+      "publishedAt": "2026-11-25T11:24:37.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تدين هجوم ميليشيا الحوثي على برج مالي بالرياض ‏وتؤكد تضامنها مع المملكة",
+      "excerpt": "أدانت الجمهورية العربية السورية بأشد العبارات الهجوم ‏الإرهابي لميليشيا الحوثي الذي استهدف برجاً في الحي المالي ‏بالعاصمة السعودية الرياض",
+      "link": "https://sana.sy/syria-and-the-world/2644645/",
+      "publishedAt": "2026-11-25T10:34:35.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "بمشاركة وفد سوريا.. وقفة تكريمية في لاهاي لضحايا ‏الهجمات الكيميائية ‏",
+      "excerpt": "نظمت منظمة حظر الأسلحة الكيميائية وقفة تكريمية ‏لضحايا الهجمات الكيميائية في سوريا، وذلك على ‏هامش أعمال الدورة الحادية والثلاثين لمؤتمر الدول ‏الأطراف في مدينة لاهاي.‏",
+      "link": "https://sana.sy/politics/2644531/",
+      "publishedAt": "2026-11-25T10:33:08.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli strike kills Hamas official, his wife and children",
+      "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Nov 25 (Reuters) - Israel's military killed a senior Hamas security official as well as his wife and two children with an airstrike on their Gaza Strip apartment early on Wednesday, Gaza's Hamas-run Inte",
+      "link": "https://www.al-monitor.com/originals/2026/11/israeli-strike-kills-hamas-official-his-wife-and-children",
+      "publishedAt": "2026-11-25T09:46:30.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "UN urges Baghdad, Erbil to resolve disputes through constitutional channels",
+      "excerpt": "QAMISHLI, Syria (North Press) – The United Nations on Tuesday called on Iraq&#8217;s federal government and the Kurdistan Regional Government (KRG) to resolve their differences through constitutional mechanisms, as tensions escalated over B",
+      "link": "https://npasyria.com/en/144071/",
+      "publishedAt": "2026-11-25T07:49:59.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "المصرف المركزي يدرس تعويم الليرة السورية وخطة لاستعادة التعامل بها شمالي البلاد",
+      "excerpt": "تكشف وثيقة اجتماع تفاصيل نقاشات المصرف المركزي مع الأمم المتحدة والمخاوف من تداعيات التعويم والمهلة لاتخاذ القرار وتفاصيل أخرى تتعلق بسياسة المركزي",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%AA%D8%B9%D9%88%D9%8A%D9%85-%D8%A7%D9%84%D9%84%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%AE%D8%B7%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D9%87%D8%A7-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF",
+      "publishedAt": "2026-11-25T07:37:53.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "U.S. court sentences man to 15 years for creating ISIS propaganda",
+      "excerpt": "QAMISHLI, Syria (North Press) – A Houston man has been sentenced to 15 years in federal prison for concealing his role in producing and distributing propaganda for the Islamic State (ISIS) and making false statements to the FBI, the U.S. De",
+      "link": "https://npasyria.com/en/144068/",
+      "publishedAt": "2026-11-25T06:55:40.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "اختطفته خلال توغلها ليلا.. قوات الاحتلال تفرج عن شخص من ريف القنيطرة",
+      "excerpt": "أطلقت قوات الاحتلال الإسرائيلي سراح شخص اختطفته من قرية جباتا الخشب بريف القنيطرة الشمالي، خلال توغلها في القرية ليلة أمس.",
+      "link": "https://www.syria.tv/%D8%A7%D8%AE%D8%AA%D8%B7%D9%81%D8%AA%D9%87-%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D8%BA%D9%84%D9%87%D8%A7-%D9%84%D9%8A%D9%84%D8%A7-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%B4%D8%AE%D8%B5-%D9%85%D9%86-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-25T05:53:12.000Z"
+    },
     {
       "source": "تلفزيون سوريا",
       "sourceId": "syriatv-ar",
@@ -34,15 +152,6 @@
       "excerpt": "تزايدت الاعتداءات الإسرائيلية بشكل ملحوظ في جنوبي سوريا خلال الأسابيع والشهور الماضية",
       "link": "https://www.syria.tv/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B2%D8%A7%D9%8A%D8%AF%D8%AA-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
       "publishedAt": "2026-11-25T03:30:39.000Z"
-    },
-    {
-      "source": "Middle East Eye",
-      "sourceId": "mee",
-      "circle": "الإعلام المتخصص",
-      "title": "Israeli forces detain civilian during raid in southern Syria's Quneitra",
-      "excerpt": "<article data-history-node-id=\"451487\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-civilian-during-raid-southern-syrias-quneitra\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-civilian-during-raid-southern-syrias-quneitra",
-      "publishedAt": "2026-11-25T01:32:30.000Z"
     },
     {
       "source": "تلفزيون سوريا",
@@ -97,6 +206,15 @@
       "excerpt": "عقد وزير الطوارئ وإدارة الكوارث رائد الصالح اجتماعاً مع ممثلي الدول الأعضاء في فريق عمل «أنفاس الحرية» الذي ترأسه سوريا، بمشاركة الأمانة الفنية لمنظمة حظر الأسلحة الكيميائية، وحضور المندوب الدائم لسوريا لدى المنظمة محمد كتوب، وذلك على هامش ",
       "link": "https://sana.sy/politics/2644289/",
       "publishedAt": "2026-11-24T21:16:33.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "كتوب: خطة واضحة في سوريا لإغلاق ملف الكيميائي ‏وشراكات ‏دولية لملاحقة المجرمين ‏",
+      "excerpt": "أكد مندوب سوريا الدائم لدى منظمة حظر الأسلحة الكيميائية، ‌‏محمد كتوب، أن سوريا تمضي قدماً في تنفيذ خطة ‌‏استراتيجية واضحة",
+      "link": "https://sana.sy/syria-and-the-world/2644603/",
+      "publishedAt": "2026-11-24T20:43:00.000Z"
     },
     {
       "source": "تلفزيون سوريا",
@@ -169,105 +287,6 @@
       "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3406,w_5500/709620' alt='Members of the Syrian military police gather outside al-Aqtan prison, where some Islamic State detainees a",
       "link": "https://www.jpost.com/middle-east/article-915965",
       "publishedAt": "2026-11-24T15:25:02.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Kurdistan PM rejects Baghdad&#8217;s move to control oil, border crossings",
-      "excerpt": "QAMISHLI, Syria (North Press) – Kurdistan Region Prime Minister Masrour Barzani on Tuesday rejected Iraqi Prime Minister Ali al-Zaidi’s directives to place the Region’s border crossings under federal control and expand Baghdad’s authority o",
-      "link": "https://npasyria.com/en/144057/",
-      "publishedAt": "2026-11-24T12:37:47.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Eurowings to launch direct flights to Damascus from four German cities",
-      "excerpt": "German airline Eurowings is to launch flights to Damascus for the first time.The Lufthansa Group subsidiary will operate direct flights to the Syrian capital from Berlin, Dusseldorf, Hamburg and Stuttgart from January 2027, with five weekly",
-      "link": "https://www.thenationalnews.com/travel/2026/11/24/eurowings-to-launch-direct-flights-to-damascus-from-four-german-cities/",
-      "publishedAt": "2026-11-24T11:17:51.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "تقرير دولي: ارتفاع حاد في ضحايا الألغام بسوريا مع اتساع موجات العودة",
-      "excerpt": "كشف التقرير السنوي الصادر عن الحملة الدولية لحظر الألغام الأرضية، يوم الثلاثاء، عن ارتفاع أعداد ضحايا الألغام الأرضية والذخائر غير المنفجرة في سوريا..",
-      "link": "https://www.syria.tv/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AD%D8%A7%D8%AF-%D9%81%D9%8A-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D8%B9-%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D9%85%D9%88%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
-      "publishedAt": "2026-11-24T10:44:49.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "Hamas, Palestinian factions agree to Gaza disarmament roadmap, Board of Peace says",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5168,w_7848/747764' alt='United Nations Special Coordinator for the Middle East Peace Process Nickolay Mladenov speaks at a press c",
-      "link": "https://www.jpost.com/middle-east/article-915924",
-      "publishedAt": "2026-11-24T10:38:10.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "الاحتلال الإسرائيلي ينصب حاجزا ويفتش المارة بريف القنيطرة",
-      "excerpt": "قوات الاحتلال الإسرائيلي تنصب حاجزاً على طريق جباتا الخشب - عين البيضة بريف القنيطرة",
-      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-      "publishedAt": "2026-11-24T10:24:52.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Two Syrian Defense Ministry personnel wounded in Deir ez-Zor attack",
-      "excerpt": "DEIR EZ-ZOR, Syria (North Press) – Two Syrian Defense Ministry personnel were wounded late Monday after unidentified gunmen attacked a military bus in the town of Baghuz in the eastern countryside of Deir ez-Zor, eastern Syria. Local source",
-      "link": "https://npasyria.com/en/144040/",
-      "publishedAt": "2026-11-24T09:34:39.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "8 مواقع لم تُكشف بعد.. أزمة مالية تهدد استكمال تحقيقات الكيميائي في سوريا",
-      "excerpt": "تواجه منظمة حظر الأسلحة الكيميائية عجزاً مالياً حرجاً من جراء تأخر واشنطن عن سداد مستحقاتها، مما يهدد بإبطاء تحقيقاتها وتعليق أنشطتها مؤقتاً في سوريا.",
-      "link": "https://www.syria.tv/8-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%84%D9%85-%D8%AA%D9%8F%D9%83%D8%B4%D9%81-%D8%A8%D8%B9%D8%AF-%D8%A3%D8%B2%D9%85%D8%A9-%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-      "publishedAt": "2026-11-24T08:51:26.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Landmine casualties hit five-year high as refugees return to Syria",
-      "excerpt": "Landmines and unexploded weapons killed or wounded more people in 2025 than any of the previous five years, a report has found. According to the Landmine Monitor 2026 report, civilians continue to bear the brunt. The increase was fuelled by",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/24/landmine-casualties-hit-five-year-high-as-refugees-return-to-syria/",
-      "publishedAt": "2026-11-24T08:00:41.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "اعتراضا على فيلم \"قيصر\".. عائلات الضحايا تطالب بتجميد المشروع",
-      "excerpt": "طالبت رابطة عائلات قيصر بتجميد مشروع إنتاج فيلم سينمائي يتناول قصة فريد المذهان، المعروف باسم \"قيصر\"، إلى حين التشاور مع ممثلي عائلات الضحايا وتقديم..",
-      "link": "https://www.syria.tv/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D9%84%D9%85-%D9%82%D9%8A%D8%B5%D8%B1-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9",
-      "publishedAt": "2026-11-24T07:22:37.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Israeli forces raid homes in two villages in Syria&#8217;s Daraa",
-      "excerpt": "DARAA, Syria (North Press) – Israeli forces on Monday night advanced into the Yarmouk Basin area in western Daraa countryside, southern Syria, searching several homes and firing illumination flares. Local sources told North Press that a for",
-      "link": "https://npasyria.com/en/144026/",
-      "publishedAt": "2026-11-24T07:03:50.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "U.S. weighs training Syrian troops in mine clearance – Reuters",
-      "excerpt": "QAMISHLI, Syria (North Press) – The United States is discussing plans to train Syrian soldiers in demining and explosive ordnance disposal, a move that could mark the first direct U.S. military training mission with Syria’s new military sin",
-      "link": "https://npasyria.com/en/144023/",
-      "publishedAt": "2026-11-24T06:48:23.000Z"
     }
   ]
 }
