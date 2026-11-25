@@ -1,28 +1,31 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-25T14:53:24.458Z",
+    "generatedAt": "2026-11-25T23:27:00.608Z",
     "windowHours": 24,
-    "from": "2026-11-24T14:53:24.458Z",
-    "to": "2026-11-25T14:53:24.458Z"
+    "from": "2026-11-24T23:27:00.608Z",
+    "to": "2026-11-25T23:27:00.608Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 29,
-    "files": 5,
-    "withNew": 5,
-    "stale": 0,
-    "contested": 2,
-    "echoed": 1,
-    "americanItems": 1,
-    "archiveCycles": 1415
+    "items": 19,
+    "files": 6,
+    "withNew": 4,
+    "stale": 2,
+    "contested": 1,
+    "echoed": 0,
+    "americanItems": 4,
+    "archiveCycles": 1416
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
+    "مراكز الفكر",
+    "الإعلام المتخصص",
+    "الملف الإسرائيلي والتركي",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
-    "الملف التركي",
-    "الملف الإسرائيلي"
+    "الملف التركي"
   ],
   "errors": [],
   "files": [
@@ -31,28 +34,62 @@
       "label": "بنود خارج الملفات المعرّفة",
       "verification": "متنازع عليه — يحتاج تحققاً",
       "contested": true,
-      "independentSources": 5,
+      "independentSources": 4,
       "sources": [
         "سانا — قسم السياسة",
-        "North Press Agency (English)",
         "تلفزيون سوريا",
-        "FDD — مؤسسة الدفاع عن الديمقراطيات",
-        "Jerusalem Post — الشرق الأوسط"
+        "North Press Agency (English)",
+        "Ynet News (English)"
       ],
       "circles": [
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل",
-        "مراكز الفكر",
-        "الملف الإسرائيلي والتركي"
+        "الملف الإسرائيلي"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 4 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 5,
+      "newItems": 4,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 54,
+      "usItems": 2,
+      "score": 45,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مشاورات سياسية سورية فنلندية لبحث تطورات العلاقات السورية الأوروبية",
+          "excerpt": "عقدت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين، سالي شوبط اليوم الأربعاء، جلسة مشاورات سياسية مع المديرة العامة لإدارة إفريقيا والشرق الأوسط وأمريكا اللاتينية في وزارة الخارجية الفنلندية، آنا كايا هيكنن، والقائمة بأعمال السف",
+          "link": "https://sana.sy/politics/2645205/",
+          "publishedAt": "2026-11-25T20:15:50.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": true
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "لندن تشيد بجهود دمشق وحظر الأسلحة الكيميائية في تفكيك ترسانة النظام المخلوع",
+          "excerpt": "أعربت البعثة البريطانية لدى منظمة حظر الأسلحة الكيميائية عن ترحيبها بالتقدم الذي أحرزته الحكومة السورية ومنظمة حظر الأسلحة الكيميائية بشأن إرث النظام المخلوع",
+          "link": "https://www.syria.tv/%D9%84%D9%86%D8%AF%D9%86-%D8%AA%D8%B4%D9%8A%D8%AF-%D8%A8%D8%AC%D9%87%D9%88%D8%AF-%D8%AF%D9%85%D8%B4%D9%82-%D9%88%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%AA%D8%B1%D8%B3%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B9",
+          "publishedAt": "2026-11-25T19:11:16.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Syria seizes 2.3 million Captagon pills in Tartous",
+          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Anti-Narcotics Department seized on Wednesday around 2.3 million Captagon pills and arrested two people during a raid on a drug storage facility in Tartous governorate. The Ministry of Interior said i",
+          "link": "https://npasyria.com/en/144081/",
+          "publishedAt": "2026-11-25T15:44:01.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
@@ -62,7 +99,7 @@
           "link": "https://sana.sy/syria-and-the-world/2644645/",
           "publishedAt": "2026-11-25T10:34:35.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -73,6 +110,18 @@
           "excerpt": "نظمت منظمة حظر الأسلحة الكيميائية وقفة تكريمية ‏لضحايا الهجمات الكيميائية في سوريا، وذلك على ‏هامش أعمال الدورة الحادية والثلاثين لمؤتمر الدول ‏الأطراف في مدينة لاهاي.‏",
           "link": "https://sana.sy/politics/2644531/",
           "publishedAt": "2026-11-25T10:33:08.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Ynet News (English)",
+          "sourceId": "ynet-en",
+          "circle": "الملف الإسرائيلي",
+          "title": "Eisenkot bloc prepares to swear in government next week, with pressure mounting on Shas",
+          "excerpt": "With United Torah Judaism signaling willingness to join, bloc hopes to secure a 61-seat majority by bringing Shas on board; if Deri refuses, the bloc may have to rely on Arab parties abstaining, while Bennett and Golan remain unresolved obs",
+          "link": "https://www.ynetnews.com/article/r1ellmn1xx",
+          "publishedAt": "2026-11-25T08:06:31.000Z",
           "files": [],
           "seenBefore": false,
           "us": false
@@ -86,7 +135,7 @@
           "link": "https://npasyria.com/en/144071/",
           "publishedAt": "2026-11-25T07:49:59.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -98,159 +147,45 @@
           "link": "https://npasyria.com/en/144068/",
           "publishedAt": "2026-11-25T06:55:40.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "قطر ترحب بالتقدم في معالجة إرث برنامج الأسلحة الكيميائية العائد لعهد النظام البائد",
-          "excerpt": "رحبت قطر بالتقدم المحرز في معالجة إرث برنامج الأسلحة الكيميائية السوري العائد إلى عهد النظام البائد، مؤكدة أن ما ‏تحقق يمثل تحولاً مهماً في مسار عمل منظمة حظر الأسلحة الكيميائية، ويعكس أهمية العمل متعدد الأطراف.‏",
-          "link": "https://sana.sy/politics/2644362/",
-          "publishedAt": "2026-11-24T22:42:28.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الصالح يبحث مع مديرة منظمة حظر الأسلحة الكيميائية تعزيز التعاون بين سوريا والمنظمة",
-          "excerpt": "بحث وزير الطوارئ وإدارة الكوارث، رئيس الوفد السوري، رائد الصالح، مع المديرة العامة لمنظمة حظر الأسلحة ‏الكيميائية سابرينا دالافيور، سبل تعزيز التعاون بين سوريا والمنظمة، وذلك على هامش أعمال الدورة الحادية والثلاثين ‏لمؤتمر الدول الأطراف في ",
-          "link": "https://sana.sy/politics/2644310/",
-          "publishedAt": "2026-11-24T21:26:24.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "كتوب: خطة واضحة في سوريا لإغلاق ملف الكيميائي ‏وشراكات ‏دولية لملاحقة المجرمين ‏",
-          "excerpt": "أكد مندوب سوريا الدائم لدى منظمة حظر الأسلحة الكيميائية، ‌‏محمد كتوب، أن سوريا تمضي قدماً في تنفيذ خطة ‌‏استراتيجية واضحة",
-          "link": "https://sana.sy/syria-and-the-world/2644603/",
-          "publishedAt": "2026-11-24T20:43:00.000Z",
-          "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "تحضيرات لإطلاق مشروع ياباني أممي لدعم مكافحة الألغام في سوريا",
-          "excerpt": "مباحثات سورية يابانية أممية لإطلاق مشروع يعزز مكافحة الألغام ويرفع كفاءة المركز الوطني.. ما أهدافه؟",
-          "link": "https://www.syria.tv/%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1%D8%A7%D8%AA-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A-%D8%A3%D9%85%D9%85%D9%8A-%D9%84%D8%AF%D8%B9%D9%85-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-11-24T20:34:03.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "منظمة حظر الأسلحة الكيميائية تشيد بتعاون سوريا في تدمير أسلحة من عهد النظام البائد",
-          "excerpt": "أعلنت المديرة العامة لمنظمة حظر الأسلحة الكيميائية سابرينا دالافيور، اليوم الثلاثاء، أن فرق المنظمة تحققت في آب ‏الماضي من تدمير 42 قنبلة جوية عُثر عليها في أيار الماضي، وكانت ضمن أسلحة كيميائية غير معلن عنها سابقاً في ‏سوريا في عهد النظام ",
-          "link": "https://sana.sy/politics/2644141/",
-          "publishedAt": "2026-11-24T19:41:15.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "فعالية سورية في لاهاي تبحث سبل معالجة إرث السلاح الكيميائي للنظام البائد",
-          "excerpt": "ناقشت فعالية نظمتها البعثة الدائمة للجمهورية العربية السورية لدى منظمة حظر الأسلحة الكيميائية اليوم الثلاثاء، على هامش اجتماعات الدورة الـ31 لمؤتمر الدول الأطراف في اتفاقية حظر الأسلحة الكيميائية المنعقدة في لاهاي الهولندية، سبل معالجة إرث ",
-          "link": "https://sana.sy/syria-and-the-world/2644048/",
-          "publishedAt": "2026-11-24T18:04:22.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "FDD — مؤسسة الدفاع عن الديمقراطيات",
-          "sourceId": "fdd",
-          "circle": "مراكز الفكر",
-          "title": "Eisenkot nears government formation deadline, Hamas and other groups violate ceasefire 20 times Nov. 6–24",
-          "excerpt": "Israeli Prime Minister-designate Gadi Eisenkot is reportedly preparing to announce the formation of a government next week as negotiations with Israeli Prime Minister Benjamin Netanyahu’s Likud party... The post Eisenkot nears government fo",
-          "link": "https://www.fdd.org/analysis/eisenkot-nears-government-formation-deadline-hamas-and-other-groups-violate-ceasefire-20-times-nov-6-24/",
-          "publishedAt": "2026-11-24T17:21:45.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "حظر الأسلحة الكيميائية تؤكد إحراز تقدم في معالجة إرث نظام الأسد الكيميائي",
-          "excerpt": "وثائق ومعدات قيد الفحص قد تحمل إجابات عن قضايا عالقة في سوريا، فماذا تكشف المنظمة في الأيام المقبلة؟",
-          "link": "https://www.syria.tv/%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D8%A4%D9%83%D8%AF-%D8%A5%D8%AD%D8%B1%D8%A7%D8%B2-%D8%AA%D9%82%D8%AF%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A5%D8%B1%D8%AB-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A",
-          "publishedAt": "2026-11-24T15:33:37.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "US plans to train Syrian soldiers signal potential shift in military ties with Damascus - analysis",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3406,w_5500/709620' alt='Members of the Syrian military police gather outside al-Aqtan prison, where some Islamic State detainees a",
-          "link": "https://www.jpost.com/middle-east/article-915965",
-          "publishedAt": "2026-11-24T15:25:02.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
       "id": "israel",
       "label": "الملف الإسرائيلي",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 5,
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
       "sources": [
-        "Al-Monitor",
-        "تلفزيون سوريا",
-        "Al Jazeera English",
-        "سانا — قسم السياسة",
-        "North Press Agency (English)"
+        "North Press Agency (English)",
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل",
-        "الإعلام الدولي",
-        "المصادر الرسمية السورية"
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 5,
+      "newItems": 1,
       "stale": false,
-      "echoed": true,
-      "usItems": 0,
-      "score": 52,
+      "echoed": false,
+      "usItems": 1,
+      "score": 22,
       "items": [
         {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli opposition advances October 7 attack probe opposed by Netanyahu",
-          "excerpt": "<p>JERUSALEM, Nov 25 (Reuters) - Israel's opposition-run parliament gave the initial go-ahead on Wednesday for an independent investigation into the October 7, 2023, Hamas attack, a probe opposed by Prime Minister Benjamin Netanyahu while p",
-          "link": "https://www.al-monitor.com/originals/2026/11/israeli-opposition-advances-october-7-attack-probe-opposed-netanyahu",
-          "publishedAt": "2026-11-25T14:46:30.000Z",
+          "source": "North Press Agency (English)",
+          "sourceId": "npasyria-en",
+          "circle": "الإعلام السوري المستقل",
+          "title": "Araghchi accuses Israel of trying to drag U.S. into war with Iran",
+          "excerpt": "QAMISHLI, Syria ( North Press)&#8211; Iranian Foreign Minister Abbas Araghchi accused Israel on Wednesday of seeking to draw the United States into another war with Iran through allegations that Tehran is developing chemical weapons. In a s",
+          "link": "https://npasyria.com/en/144085/",
+          "publishedAt": "2026-11-25T19:15:21.000Z",
           "files": [
             "israel"
           ],
           "seenBefore": false,
-          "us": false
+          "us": true
         },
         {
           "source": "تلفزيون سوريا",
@@ -263,35 +198,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "Israeli strike in Gaza kills senior Hamas official, his wife and children",
-          "excerpt": "Gaza's internal security director and his family are among seven Palestinians killed by Israeli forces on Wednesday.",
-          "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
-          "publishedAt": "2026-11-25T11:24:37.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al-Monitor",
-          "sourceId": "al-monitor",
-          "circle": "الإعلام المتخصص",
-          "title": "Israeli strike kills Hamas official, his wife and children",
-          "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Nov 25 (Reuters) - Israel's military killed a senior Hamas security official as well as his wife and two children with an airstrike on their Gaza Strip apartment early on Wednesday, Gaza's Hamas-run Inte",
-          "link": "https://www.al-monitor.com/originals/2026/11/israeli-strike-kills-hamas-official-his-wife-and-children",
-          "publishedAt": "2026-11-25T09:46:30.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -305,7 +212,7 @@
           "files": [
             "israel"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -336,49 +243,94 @@
           ],
           "seenBefore": true,
           "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 2,
+      "sources": [
+        "تلفزيون سوريا",
+        "سانا — قسم السياسة"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "المصادر الرسمية السورية"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 16,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "أكثر من 27 مستثمرا تركيا في دير الزور.. ما المشاريع المطروحة؟",
+          "excerpt": "بحثت غرفة تجارة دير الزور مع أكثر من 27 مستثمراً تركياً فرص إقامة مشاريع في الطاقة والزراعة والإعمار، مع توقع توقيع مذكرات تفاهم الخميس.",
+          "link": "https://www.syria.tv/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-27-%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B7%D8%B1%D9%88%D8%AD%D8%A9%D8%9F",
+          "publishedAt": "2026-11-25T17:17:47.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
         },
         {
           "source": "سانا — قسم السياسة",
           "sourceId": "sana-ar",
           "circle": "المصادر الرسمية السورية",
-          "title": "قطر: الاعتداءات الإسرائيلية على سوريا ولبنان وغزة والضفة الغربية تقوض جهود السلام",
-          "excerpt": "أكدت الخارجية القطرية اليوم الثلاثاء أن الاعتداءات الإسرائيلية المتواصلة على سوريا ولبنان والضفة الغربية وغزة تقوض جهود السلام وتعكس عدم جدية إسرائيل لتحقيق هذا الهدف، مشددة على ضرورة تنفيذها التزامات خطة السلام والضغط عليها للوفاء بتعهداته",
-          "link": "https://sana.sy/politics/2644351/",
-          "publishedAt": "2026-11-24T21:55:40.000Z",
+          "title": "سوريا تعرب عن تعازيها لتركيا إثر حادث تحطم مروحية ‏في إسكي شهير",
+          "excerpt": "أعربت الجمهورية العربية السورية عن خالص تعازيها وصادق ‏مواساتها إلى الجمهورية التركية الصديقة، حكومة وشعباً، إثر ‏حادث تحطم مروحية في ولاية إسكي شهير، والذي أسفر عن ‏وفاة خمسة من أفراد القوات المسلحة التركية.‏",
+          "link": "https://sana.sy/syria-and-the-world/2644725/",
+          "publishedAt": "2026-11-25T12:07:47.000Z",
           "files": [
-            "israel",
+            "turkey"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "lebanon",
+      "label": "المسار اللبناني الموازي",
+      "verification": "مصدر واحد",
+      "contested": false,
+      "independentSources": 1,
+      "sources": [
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 1,
+      "stale": false,
+      "echoed": false,
+      "usItems": 1,
+      "score": 11,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "واشنطن تشيد بضبط سوريا أسلحة ومخدرات على الحدود اللبنانية",
+          "excerpt": "هنّأ قائد القيادة المركزية الأميركية براد كوبر السلطات السورية على ضبط شحنات كبتاغون وأسلحة مهربة من الحرس الثوري الإيراني كانت متجهة إلى لبنان.",
+          "link": "https://www.syria.tv/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B4%D9%8A%D8%AF-%D8%A8%D8%B6%D8%A8%D8%B7-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%88%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9",
+          "publishedAt": "2026-11-25T21:52:44.000Z",
+          "files": [
             "lebanon"
           ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تؤكد التزامها بإزالة إرث الأسلحة الكيميائية وتدعو لوقف الاعتداءات الإسرائيلية",
-          "excerpt": "عقد وزير الطوارئ وإدارة الكوارث رائد الصالح اجتماعاً مع ممثلي الدول الأعضاء في فريق عمل «أنفاس الحرية» الذي ترأسه سوريا، بمشاركة الأمانة الفنية لمنظمة حظر الأسلحة الكيميائية، وحضور المندوب الدائم لسوريا لدى المنظمة محمد كتوب، وذلك على هامش ",
-          "link": "https://sana.sy/politics/2644289/",
-          "publishedAt": "2026-11-24T21:16:33.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Israel says Iran developing chemical weapons, Katz warns",
-          "excerpt": "QAMISHLI, Syria (North Press)- Israeli Defense Minister Israel Katz said on Tuesday that Iran is developing chemical weapons, warning that Israel will prevent Tehran from acquiring an operational capability. “Iran is in the process of devel",
-          "link": "https://npasyria.com/en/144065/",
-          "publishedAt": "2026-11-24T18:43:24.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
-          "us": false
+          "seenBefore": false,
+          "us": true
         }
       ]
     },
@@ -396,13 +348,13 @@
         "المصادر الرسمية السورية",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-25 14:53",
       "isFollowUp": true,
-      "newItems": 2,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 18,
+      "score": 3,
       "items": [
         {
           "source": "سانا — قسم السياسة",
@@ -415,7 +367,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -429,71 +381,7 @@
           "files": [
             "diplomacy"
           ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية هولندية لتطوير إدارة الحدود وتعزيز كفاءة المنافذ",
-          "excerpt": "بحث مدير إدارة العلاقات والتعاون الدولي في الهيئة العامة للمنافذ والجمارك مازن علوش، مع وفد من السفارة الهولندية برئاسة نائب القائم بالأعمال لدى سوريا كريستيان بيرغويرف، سبل تعزيز التعاون المشترك في مجال إدارة الحدود، وتبادل الخبرات وبناء ا",
-          "link": "https://sana.sy/politics/2644288/",
-          "publishedAt": "2026-11-24T21:44:57.000Z",
-          "files": [
-            "diplomacy"
-          ],
           "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مباحثات سورية ألمانية حول سبل تطوير العلاقات وتوسيع مجالات التعاون",
-          "excerpt": "بحث القائم بأعمال السفارة السورية في برلين محمد براء شكري مع رئيس لجنة الشؤون الخارجية في البرلمان الألماني \"البوندستاغ\" آرمين لاشيت، سبل تطوير العلاقات السورية الألمانية وتوسيع مجالات التعاون والتنسيق بين البلدين.",
-          "link": "https://sana.sy/politics/2644151/",
-          "publishedAt": "2026-11-24T19:58:57.000Z",
-          "files": [
-            "diplomacy"
-          ],
-          "seenBefore": true,
-          "us": false
-        }
-      ]
-    },
-    {
-      "id": "turkey",
-      "label": "الملف التركي",
-      "verification": "مصدر واحد",
-      "contested": false,
-      "independentSources": 1,
-      "sources": [
-        "سانا — قسم السياسة"
-      ],
-      "circles": [
-        "المصادر الرسمية السورية"
-      ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
-      "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
-      "echoed": false,
-      "usItems": 0,
-      "score": 12,
-      "items": [
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تعرب عن تعازيها لتركيا إثر حادث تحطم مروحية ‏في إسكي شهير",
-          "excerpt": "أعربت الجمهورية العربية السورية عن خالص تعازيها وصادق ‏مواساتها إلى الجمهورية التركية الصديقة، حكومة وشعباً، إثر ‏حادث تحطم مروحية في ولاية إسكي شهير، والذي أسفر عن ‏وفاة خمسة من أفراد القوات المسلحة التركية.‏",
-          "link": "https://sana.sy/syria-and-the-world/2644725/",
-          "publishedAt": "2026-11-25T12:07:47.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": false,
           "us": false
         }
       ]
@@ -510,13 +398,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-25 14:53",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 8,
+      "score": -1,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -529,7 +417,7 @@
           "files": [
             "economy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         }
       ]
