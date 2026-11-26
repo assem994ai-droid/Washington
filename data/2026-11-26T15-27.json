@@ -1,0 +1,146 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-26T15:27:33.146Z",
+    "windowHours": 24,
+    "from": "2026-11-25T15:27:33.146Z",
+    "to": "2026-11-26T15:27:33.146Z"
+  },
+  "counts": {
+    "total": 13,
+    "byCircle": {
+      "الملف الإسرائيلي والتركي": 1,
+      "المصادر الرسمية السورية": 4,
+      "الإعلام المتخصص": 3,
+      "الإعلام الدولي": 1,
+      "الإعلام السوري المستقل": 4
+    },
+    "bySource": {
+      "Jerusalem Post — الشرق الأوسط": 1,
+      "سانا — قسم السياسة": 4,
+      "Al-Monitor": 1,
+      "Al Jazeera English": 1,
+      "North Press Agency (English)": 4,
+      "The National": 2
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "China seeks closer ties with Iraq, Syria as US looks to expand its Middle East influence - report",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1990,w_2983/746975' alt='China's President Xi Jinping and US President Donald Trump arrive to attend a welcome banquet for the Asia",
+      "link": "https://www.jpost.com/middle-east/article-916223",
+      "publishedAt": "2026-11-26T15:14:14.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "البرلمان العربي يدين الهجوم الإرهابي على مقر لوزارة الداخلية في الحسكة",
+      "excerpt": "أدان البرلمان العربي الهجوم الإرهابي الذي استهدف مقراً لوزارة الداخلية في حي المشيرفة غربي مدينة الحسكة، مؤكداً تضامنه مع سوريا ودعمه لأمنها واستقرارها وسيادة أراضيها.",
+      "link": "https://sana.sy/syria-and-the-world/2645862/",
+      "publishedAt": "2026-11-26T15:13:20.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر تدين الهجوم الإرهابي على موقع للأمن الداخلي في الحسكة",
+      "excerpt": "أدانت دولة قطر، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، وأدى إلى استشهاد عنصرين من قوى الأمن الداخلي وإصابة خمسة آخرين، مجددةً تضامنها مع سوريا ودعمها كلّ ما من شأنه الحفاظ على الأمن وترسيخ الاستق",
+      "link": "https://sana.sy/politics/2645750/",
+      "publishedAt": "2026-11-26T13:21:22.000Z"
+    },
+    {
+      "source": "Al-Monitor",
+      "sourceId": "al-monitor",
+      "circle": "الإعلام المتخصص",
+      "title": "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say",
+      "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Nov 26 (Reuters) - Israeli airstrikes and gunfire killed at least nine Palestinians in Gaza overnight, medics said, including the Hamas-appointed deputy minister of education, in a third consecutive nigh",
+      "link": "https://www.al-monitor.com/originals/2026/11/israel-kills-nine-gaza-including-hamas-appointed-minister-officials-say",
+      "publishedAt": "2026-11-26T12:46:28.000Z"
+    },
+    {
+      "source": "Al Jazeera English",
+      "sourceId": "aljazeera-en",
+      "circle": "الإعلام الدولي",
+      "title": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
+      "excerpt": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
+      "link": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
+      "publishedAt": "2026-11-26T11:56:53.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Jordan, Saudi Arabia condemn attack on Syrian security forces in Hasakah",
+      "excerpt": "DAMASCUS, Syria (North Press) – Jordan and Saudi Arabia on Thursday condemned the attack on a Syrian Internal Security Forces site in Hasakah Governorate, northeastern Syria, expressing solidarity with Syria and rejecting all forms of viole",
+      "link": "https://npasyria.com/en/144117/",
+      "publishedAt": "2026-11-26T10:25:26.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Explosion at Israeli position rocks Daraa, Quneitra countryside",
+      "excerpt": "DARAA, Syria (North Press) – A powerful explosion was heard across the Daraa and Quneitra countryside, southern Syria, on Thursday after Israeli forces carried out a demolition operation at the western Tel al-Ahmar position near the village",
+      "link": "https://npasyria.com/en/144099/",
+      "publishedAt": "2026-11-26T09:25:57.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "السعودية والأردن تدينان الهجوم الإرهابي على موقع للأمن الداخلي في الحسكة",
+      "excerpt": "أدانت المملكة العربية السعودية والأردن الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، ‌‏وأكدتا تضامنهما",
+      "link": "https://sana.sy/politics/2645502/",
+      "publishedAt": "2026-11-26T09:23:15.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Ten French ISIS members jailed by Iraqi court",
+      "excerpt": "An Iraqi court sentenced 10 French citizens on Thursday – eight to life imprisonment and two to 15 years – for membership of ISIS.They are part of a group of 47 Frenchmen transferred to Iraq from north-eastern Syria in July last year.The gr",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/26/ten-french-isis-members-jailed-by-iraqi-court/",
+      "publishedAt": "2026-11-26T08:23:09.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Deadly crash in Cairo, Trump's data centre tax threat and Dubai Islamic Bank's takeover",
+      "excerpt": "In today's episode of Trending Middle East, at least 31 people have been killed and 25 injured after a fuel tanker overturned and caught fire on Cairo's busy ring road. Two members of Syria's security forces have been killed and five injure",
+      "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/26/deadly-crash-in-cairo-trumps-data-centre-tax-threat-and-dubai-islamic-banks-takeover/",
+      "publishedAt": "2026-11-26T05:35:34.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مشاورات سياسية سورية فنلندية لبحث تطورات العلاقات السورية الأوروبية",
+      "excerpt": "عقدت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين، سالي شوبط اليوم الأربعاء، جلسة مشاورات سياسية مع المديرة العامة لإدارة إفريقيا والشرق الأوسط وأمريكا اللاتينية في وزارة الخارجية الفنلندية، آنا كايا هيكنن، والقائمة بأعمال السف",
+      "link": "https://sana.sy/politics/2645205/",
+      "publishedAt": "2026-11-25T20:15:50.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Araghchi accuses Israel of trying to drag U.S. into war with Iran",
+      "excerpt": "QAMISHLI, Syria ( North Press)&#8211; Iranian Foreign Minister Abbas Araghchi accused Israel on Wednesday of seeking to draw the United States into another war with Iran through allegations that Tehran is developing chemical weapons. In a s",
+      "link": "https://npasyria.com/en/144085/",
+      "publishedAt": "2026-11-25T19:15:21.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria seizes 2.3 million Captagon pills in Tartous",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Anti-Narcotics Department seized on Wednesday around 2.3 million Captagon pills and arrested two people during a raid on a drug storage facility in Tartous governorate. The Ministry of Interior said i",
+      "link": "https://npasyria.com/en/144081/",
+      "publishedAt": "2026-11-25T15:44:01.000Z"
+    }
+  ]
+}
