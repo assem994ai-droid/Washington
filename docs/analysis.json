@@ -1,26 +1,27 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-26T15:27:33.146Z",
+    "generatedAt": "2026-11-26T23:56:45.548Z",
     "windowHours": 24,
-    "from": "2026-11-25T15:27:33.146Z",
-    "to": "2026-11-26T15:27:33.146Z"
+    "from": "2026-11-25T23:56:45.548Z",
+    "to": "2026-11-26T23:56:45.548Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 13,
-    "files": 3,
+    "items": 29,
+    "files": 4,
     "withNew": 3,
-    "stale": 0,
-    "contested": 1,
-    "echoed": 0,
-    "americanItems": 4,
-    "archiveCycles": 1418
+    "stale": 1,
+    "contested": 0,
+    "echoed": 1,
+    "americanItems": 2,
+    "archiveCycles": 1419
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
+    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف التركي",
     "الملف الإسرائيلي"
@@ -30,31 +31,163 @@
     {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "متنازع عليه — يحتاج تحققاً",
-      "contested": true,
-      "independentSources": 5,
+      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "contested": false,
+      "independentSources": 6,
       "sources": [
-        "Jerusalem Post — الشرق الأوسط",
         "سانا — قسم السياسة",
-        "Al Jazeera English",
+        "تلفزيون سوريا",
+        "Middle East Eye",
+        "Jerusalem Post — الشرق الأوسط",
         "North Press Agency (English)",
         "The National"
       ],
       "circles": [
-        "الملف الإسرائيلي والتركي",
         "المصادر الرسمية السورية",
-        "الإعلام الدولي",
         "الإعلام السوري المستقل",
-        "الإعلام المتخصص"
+        "الإعلام المتخصص",
+        "الملف الإسرائيلي والتركي"
       ],
-      "history": "تطوّر جديد — 7 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 12 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 7,
+      "newItems": 12,
       "stale": false,
-      "echoed": false,
-      "usItems": 2,
-      "score": 61,
+      "echoed": true,
+      "usItems": 1,
+      "score": 87,
       "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تستعرض في لاهاي جهود معالجة &#8220;الملف الكيميائي&#8221; للنظام البائد وإزالة ‌‏الألغام",
+          "excerpt": "استعرض وفد وزارة الطوارئ وإدارة الكوارث برئاسة الوزير رائد الصالح، جهود ‌‏معالجة ملف الأسلحة الكيميائية الذي خلّفه النظام البائد، وذلك خلال لقاءات مع ‌‏مسؤولين دوليين في مدينة لاهاي الهولندية على هامش أعمال الدورة الحادية والثلاثين ‌‏لمؤتمر",
+          "link": "https://sana.sy/politics/2646280/",
+          "publishedAt": "2026-11-26T23:01:42.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "رابطة العالم الإسلامي تدين الهجوم الإرهابي على مقر للأمن الداخلي في الحسكة",
+          "excerpt": "أدانت رابطة العالم الإسلامي بشدة الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، مؤكدة تضامنها مع سوريا ورفضها للإرهاب بجميع أشكاله.",
+          "link": "https://sana.sy/politics/2646276/",
+          "publishedAt": "2026-11-26T22:53:04.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "العراق يغلق معبرا غير رسمي يربط إقليم كردستان بشمال شرقي سوريا",
+          "excerpt": "أعلنت قيادة قوات الحدود العراقية إغلاق معبر الوليد مع سوريا ومنفذ سرتك مع إيران.",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%BA%D9%84%D9%82-%D9%85%D8%B9%D8%A8%D8%B1%D8%A7-%D8%BA%D9%8A%D8%B1-%D8%B1%D8%B3%D9%85%D9%8A-%D9%8A%D8%B1%D8%A8%D8%B7-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B4%D9%85%D8%A7%D9%84-%D8%B4%D8%B1%D9%82%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+          "publishedAt": "2026-11-26T22:23:08.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "سوريا تدين الاعتداءات الإيرانية على الكويت وتؤكد تضامنها الكامل معها",
+          "excerpt": "أدانت الجمهورية العربية السورية بأشد العبارات الاعتداءات الإيرانية التي استهدفت أراضي دولة الكويت الشقيقة باستخدام الطائرات المسيّرة، وما أسفرت عنه من وفيات وإصابات، مؤكدة تضامنها الكامل مع دولة الكويت قيادةً وشعباً في مواجهة كل ما يمس أمنه",
+          "link": "https://sana.sy/syria-and-the-world/2646177/",
+          "publishedAt": "2026-11-26T20:53:07.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "البحرين والتعاون الإسلامي تدينان الهجوم الإرهابي في الحسكة وتؤكدان التضامن مع سوريا",
+          "excerpt": "أدانت مملكة البحرين ومنظمة التعاون الإسلامي الهجوم الإرهابي الذي استهدف أحد مقار وزارة الداخلية في مدينة الحسكة، مؤكدتين تضامنهما مع سوريا ودعمهما لجهود مكافحة الإرهاب والحفاظ على سيادة البلاد ووحدة أراضيها.",
+          "link": "https://sana.sy/politics/2646154/",
+          "publishedAt": "2026-11-26T20:23:25.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "مصر تدين الهجوم الإرهابي على مقر للأمن الداخلي في الحسكة وتؤكد تضامنها مع سوريا",
+          "excerpt": "أدانت مصر الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، مؤكدة وقوفها إلى جانب سوريا.",
+          "link": "https://sana.sy/politics/2646122/",
+          "publishedAt": "2026-11-26T19:19:32.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الإمارات تدين الهجوم الإرهابي في الحسكة وتؤكد تضامنها مع سوريا",
+          "excerpt": "أدانت الإمارات، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقرات وزارة ‏الداخلية في مدينة الحسكة، مؤكدة وقوفها إلى جانب سوريا.‏",
+          "link": "https://sana.sy/politics/2646106/",
+          "publishedAt": "2026-11-26T19:03:48.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Iraq closes two border crossings in Kurdistan region with Syria and Iran",
+          "excerpt": "<article data-history-node-id=\"451561\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/iraq-closes-two-border-crossings-kurdistan-region-syria-and-iran\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-closes-two-border-crossings-kurdistan-region-syria-and-iran",
+          "publishedAt": "2026-11-26T17:36:31.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "اليمن والجامعة العربية يدينان الهجوم الإرهابي في الحسكة ويؤكدان تضامنهما مع سوريا",
+          "excerpt": "أدان اليمن وجامعة الدول العربية، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقار قوى الأمن الداخلي في مدينة الحسكة، مؤكدين تضامنهما مع سوريا ودعمهما جهودها في مكافحة الإرهاب وتعزيز الأمن والاستقرار وصون سيادة البلاد ووحدة أراضيها.",
+          "link": "https://sana.sy/politics/2645967/",
+          "publishedAt": "2026-11-26T17:14:02.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "UK Jewish group files challenge against Hamas terror designation",
+          "excerpt": "<article data-history-node-id=\"451558\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/uk-jewish-group-files-challenge-against-hamas-terror-designation\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-jewish-group-files-challenge-against-hamas-terror-designation",
+          "publishedAt": "2026-11-26T16:23:32.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "جامعة الدول العربية تدين هجوم الحسكة وتؤكد دعم سوريا في محاربة الإرهاب",
+          "excerpt": "دانت جامعة الدول العربية في بيان هجوم تنظيم \"داعش\" الذي استهدف مقرا لقوى الأمن الداخلي في الحسكة",
+          "link": "https://www.syria.tv/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+          "publishedAt": "2026-11-26T16:21:13.000Z",
+          "files": [],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Jerusalem Post — الشرق الأوسط",
           "sourceId": "jpost-me",
@@ -64,7 +197,7 @@
           "link": "https://www.jpost.com/middle-east/article-916223",
           "publishedAt": "2026-11-26T15:14:14.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         },
         {
@@ -75,6 +208,18 @@
           "excerpt": "أدان البرلمان العربي الهجوم الإرهابي الذي استهدف مقراً لوزارة الداخلية في حي المشيرفة غربي مدينة الحسكة، مؤكداً تضامنه مع سوريا ودعمه لأمنها واستقرارها وسيادة أراضيها.",
           "link": "https://sana.sy/syria-and-the-world/2645862/",
           "publishedAt": "2026-11-26T15:13:20.000Z",
+          "files": [],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قطر تدين الهجوم على مقر قوى الأمن الداخلي بالحسكة",
+          "excerpt": "دانت دولة قطر الهجوم الإرهابي الذي استهدف مقرّاً للأمن الداخلي في مدينة الحسكة، مساء أمس الأربعاء، وأسفر عن ارتقاء عنصرين وإصابة خمسة من قوات الأمن.",
+          "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%82%D8%B1-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
+          "publishedAt": "2026-11-26T13:44:09.000Z",
           "files": [],
           "seenBefore": false,
           "us": false
@@ -88,19 +233,7 @@
           "link": "https://sana.sy/politics/2645750/",
           "publishedAt": "2026-11-26T13:21:22.000Z",
           "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Al Jazeera English",
-          "sourceId": "aljazeera-en",
-          "circle": "الإعلام الدولي",
-          "title": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
-          "excerpt": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
-          "link": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
-          "publishedAt": "2026-11-26T11:56:53.000Z",
-          "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -112,7 +245,7 @@
           "link": "https://npasyria.com/en/144117/",
           "publishedAt": "2026-11-26T10:25:26.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -124,7 +257,7 @@
           "link": "https://sana.sy/politics/2645502/",
           "publishedAt": "2026-11-26T09:23:15.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -136,30 +269,6 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/11/26/ten-french-isis-members-jailed-by-iraqi-court/",
           "publishedAt": "2026-11-26T08:23:09.000Z",
           "files": [],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مشاورات سياسية سورية فنلندية لبحث تطورات العلاقات السورية الأوروبية",
-          "excerpt": "عقدت مديرة إدارة الشؤون الأوروبية في وزارة الخارجية والمغتربين، سالي شوبط اليوم الأربعاء، جلسة مشاورات سياسية مع المديرة العامة لإدارة إفريقيا والشرق الأوسط وأمريكا اللاتينية في وزارة الخارجية الفنلندية، آنا كايا هيكنن، والقائمة بأعمال السف",
-          "link": "https://sana.sy/politics/2645205/",
-          "publishedAt": "2026-11-25T20:15:50.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": true
-        },
-        {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
-          "circle": "الإعلام السوري المستقل",
-          "title": "Syria seizes 2.3 million Captagon pills in Tartous",
-          "excerpt": "QAMISHLI, Syria (North Press) – Syria’s Anti-Narcotics Department seized on Wednesday around 2.3 million Captagon pills and arrested two people during a raid on a drug storage facility in Tartous governorate. The Ministry of Interior said i",
-          "link": "https://npasyria.com/en/144081/",
-          "publishedAt": "2026-11-25T15:44:01.000Z",
-          "files": [],
           "seenBefore": true,
           "us": false
         }
@@ -170,31 +279,60 @@
       "label": "الملف الإسرائيلي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 2,
+      "independentSources": 3,
       "sources": [
+        "تلفزيون سوريا",
         "Al-Monitor",
         "North Press Agency (English)"
       ],
       "circles": [
-        "الإعلام المتخصص",
-        "الإعلام السوري المستقل"
+        "الإعلام السوري المستقل",
+        "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 2 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 5 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 2,
+      "newItems": 5,
       "stale": false,
       "echoed": false,
-      "usItems": 1,
-      "score": 24,
+      "usItems": 0,
+      "score": 39,
       "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تنصب حاجزا في ريف القنيطرة وتخضع المدنيين للتفتيش",
+          "excerpt": "نصبت قوات الاحتلال الإسرائيلي حاجز تفتيش في ريف القنيطرة وأخضعت المارة للتفتيش",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D8%AE%D8%B6%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4",
+          "publishedAt": "2026-11-26T14:53:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
         {
           "source": "Al-Monitor",
           "sourceId": "al-monitor",
           "circle": "الإعلام المتخصص",
-          "title": "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say",
-          "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Nov 26 (Reuters) - Israeli airstrikes and gunfire killed at least nine Palestinians in Gaza overnight, medics said, including the Hamas-appointed deputy minister of education, in a third consecutive nigh",
-          "link": "https://www.al-monitor.com/originals/2026/11/israel-kills-nine-gaza-including-hamas-appointed-minister-officials-say",
+          "title": "Hamas weighs response after Israel kills 10 people in Gaza",
+          "excerpt": "<p>By Nidal al-Mughrabi</p><p>CAIRO, Nov 26 (Reuters) - Hamas chief Khalil Al-Hayya said on Thursday the group was not prepared to withstand continued Israeli attacks, after local medics said Israeli strikes killed at least 10 people in Gaz",
+          "link": "https://www.al-monitor.com/originals/2026/11/hamas-weighs-response-after-israel-kills-10-people-gaza",
           "publishedAt": "2026-11-26T12:46:28.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "جيش الاحتلال الإسرائيلي يفجّر حقل ألغام قرب بلدة الرفيد بريف القنيطرة",
+          "excerpt": "قوات الاحتلال فجّرت حقل ألغام غرب بلدة الرفيد بريف القنيطرة الجنوبي \"داخل الشريط الفاصل مع الجولان المحتل\"، ولم تذكر تفاصيل عن أسباب التفجير أو ما إذا أسفر عن",
+          "link": "https://www.syria.tv/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%AC%D9%91%D8%B1-%D8%AD%D9%82%D9%84-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%82%D8%B1%D8%A8-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-26T10:22:17.000Z",
           "files": [
             "israel"
           ],
@@ -212,22 +350,121 @@
           "files": [
             "israel"
           ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "بالصور.. مخلفات انسحاب الاحتلال الإسرائيلي من تل أحمر بريف القنيطرة",
+          "excerpt": "صور ميدانية لآثار الدمار والمخلّفات التي تركتها قوات الاحتلال الإسرائيلي في منطقة تل أحمر قرب قريتي أوفانيا وعين النورية بريف القنيطرة الشمالي",
+          "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D9%86-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+          "publishedAt": "2026-11-26T08:04:23.000Z",
+          "files": [
+            "israel"
+          ],
           "seenBefore": false,
           "us": false
         },
         {
-          "source": "North Press Agency (English)",
-          "sourceId": "npasyria-en",
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "Araghchi accuses Israel of trying to drag U.S. into war with Iran",
-          "excerpt": "QAMISHLI, Syria ( North Press)&#8211; Iranian Foreign Minister Abbas Araghchi accused Israel on Wednesday of seeking to draw the United States into another war with Iran through allegations that Tehran is developing chemical weapons. In a s",
-          "link": "https://npasyria.com/en/144085/",
-          "publishedAt": "2026-11-25T19:15:21.000Z",
+          "title": "تفجير للاحتلال الإسرائيلي في القنيطرة يحطم نوافذ منازل مدنيين",
+          "excerpt": "نفذت قوات الاحتلال الإسرائيلي، فجر الخميس، تفجيراً في منطقة تل أحمر قرب قريتي أوفانيا وعين النورية بريف القنيطرة الشمالي، ما تسبب بأضرار مادية في منازل المدنيين",
+          "link": "https://www.syria.tv/%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%8A%D8%AD%D8%B7%D9%85-%D9%86%D9%88%D8%A7%D9%81%D8%B0-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86",
+          "publishedAt": "2026-11-26T06:14:15.000Z",
           "files": [
             "israel"
           ],
+          "seenBefore": false,
+          "us": false
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "label": "الملف التركي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 3,
+      "sources": [
+        "سانا — قسم السياسة",
+        "Jerusalem Post — الشرق الأوسط",
+        "تلفزيون سوريا"
+      ],
+      "circles": [
+        "المصادر الرسمية السورية",
+        "الملف الإسرائيلي والتركي",
+        "الإعلام السوري المستقل"
+      ],
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 3,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 29,
+      "items": [
+        {
+          "source": "سانا — قسم السياسة",
+          "sourceId": "sana-ar",
+          "circle": "المصادر الرسمية السورية",
+          "title": "الأمن القومي التركي يؤكد أهمية تعزيز التعاون مع سوريا والعراق",
+          "excerpt": "أكد مجلس الأمن القومي التركي أهمية تعزيز التعاون مع سوريا والعراق في مختلف ‏المجالات، مشدداً على مواصلة الجهود الرامية إلى ترسيخ الأمن والاستقرار وبناء ‏مستقبل شامل ومزدهر في المنطقة، وذلك في ظل التطورات الأمنية والسياسية ‏الإقليمية والدولي",
+          "link": "https://sana.sy/politics/2646293/",
+          "publishedAt": "2026-11-26T23:30:30.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Jerusalem Post — الشرق الأوسط",
+          "sourceId": "jpost-me",
+          "circle": "الملف الإسرائيلي والتركي",
+          "title": "Israel monitors Erdogan-Sharaa alliance amid fears of Turkish military expansion in Syria",
+          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1312,w_2100/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confe",
+          "link": "https://www.jpost.com/middle-east/article-916253",
+          "publishedAt": "2026-11-26T18:18:14.000Z",
+          "files": [
+            "turkey",
+            "israel",
+            "diplomacy"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "سوريا تبحث مع تركيا تطوير معايير \"الحلال\" وتوريد صوامع لتخزين الحبوب",
+          "excerpt": "تحركات صناعية سورية في تركيا.. ما انعكاساتها على الاقتصاد المحلي؟",
+          "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%84-%D9%88%D8%AA%D9%88%D8%B1%D9%8A%D8%AF-%D8%B5%D9%88%D8%A7%D9%85%D8%B9-%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%A8%D9%88%D8%A8",
+          "publishedAt": "2026-11-26T12:22:31.000Z",
+          "files": [
+            "turkey"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "السيناريو الإسرائيلي في سوريا وفق التصور التركي",
+          "excerpt": "تناول وزير الخارجية التركي هاكان فيدان في مقابلة خاصة مع قناة \"تي آر تي\" التركية طيفا واسعا من قضايا السياسة الخارجية من الأوضاع في قطاع غزة..",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D9%81%D9%82-%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
+          "publishedAt": "2026-11-26T03:52:45.000Z",
+          "files": [
+            "turkey",
+            "israel"
+          ],
           "seenBefore": true,
-          "us": true
+          "us": false
         }
       ]
     },
@@ -243,13 +480,13 @@
       "circles": [
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-26 15:27",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 11,
+      "score": 2,
       "items": [
         {
           "source": "The National",
@@ -262,7 +499,7 @@
           "files": [
             "economy"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         }
       ]
