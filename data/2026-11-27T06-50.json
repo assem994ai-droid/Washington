@@ -1,0 +1,279 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-27T06:50:14.833Z",
+    "windowHours": 24,
+    "from": "2026-11-26T06:50:14.833Z",
+    "to": "2026-11-27T06:50:14.833Z"
+  },
+  "counts": {
+    "total": 28,
+    "byCircle": {
+      "الإعلام المتخصص": 2,
+      "الإعلام السوري المستقل": 13,
+      "المصادر الرسمية السورية": 11,
+      "الملف الإسرائيلي والتركي": 2
+    },
+    "bySource": {
+      "The National": 2,
+      "تلفزيون سوريا": 11,
+      "سانا — قسم السياسة": 11,
+      "Jerusalem Post — الشرق الأوسط": 2,
+      "North Press Agency (English)": 2
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Iraqi government closes two border crossing with Iran and Syria",
+      "excerpt": "Two Iraqi border crossings with Syria and Iran that were previously administered by the Kurdistan Regional Government (KRG) have been closed, as Baghdad moves to assert more control over the northern region. Al Waleed ​crossing ⁠with ‌Syria",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/iraqs-government-closes-two-border-crossing-with-iran-and-syria/",
+      "publishedAt": "2026-11-27T05:47:42.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "بيروت-دمشق.. حفاوة اللقاءات وبرودة الملفات",
+      "excerpt": "تتكثّف الزيارات الرسمية اللبنانية إلى سوريا، وتتّسع دائرة المباحثات بين البلدين الجارين. ففي الثاني من تشرين الثاني/نوفمبر الجاري، زار وفد وزاري لبناني برئاسة..",
+      "link": "https://www.syria.tv/%D8%A8%D9%8A%D8%B1%D9%88%D8%AA-%D8%AF%D9%85%D8%B4%D9%82-%D8%AD%D9%81%D8%A7%D9%88%D8%A9-%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%A1%D8%A7%D8%AA-%D9%88%D8%A8%D8%B1%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA",
+      "publishedAt": "2026-11-27T04:00:29.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "\"الأندوف\" تسيّر دوريات لمرافقة مزارعي الزيتون في منطقة الفصل جنوبي سوريا",
+      "excerpt": "أعلنت قوة الأمم المتحدة لمراقبة فض الاشتباك (الأندوف) استمرار دعمها للمزارعين في منطقة الفصل جنوبي سوريا خلال موسم قطاف الزيتون،",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%88%D9%81-%D8%AA%D8%B3%D9%8A%D9%91%D8%B1-%D8%AF%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%84%D9%85%D8%B1%D8%A7%D9%81%D9%82%D8%A9-%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D9%81%D8%B5%D9%84-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-27T00:54:23.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "مجلس الشعب يبحث مع أهالي القنيطرة ملف المختطفين في سجون الاحتلال الإسرائيلي",
+      "excerpt": "طالب أهالي وذوو المختطفين في سجون الاحتلال الإسرائيلي مجلس الشعب السوري بتكثيف التحركات المحلية والدولية للضغط من أجل الإفراج عن أبنائهم، ووضع ملف المعتقلين على",
+      "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
+      "publishedAt": "2026-11-27T00:49:38.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا تدين الاعتداءات الإيرانية على دولة الكويت وتؤكد تضامنها الكامل",
+      "excerpt": "أدانت وزارة الخارجية السورية الاعتداءات الإيرانية بمسيرات على الكويت، مؤكدة تضامنها الكامل معها في صون أمنها وسيادتها.",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%87%D8%A7-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84",
+      "publishedAt": "2026-11-27T00:45:06.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الأمن القومي التركي يؤكد أهمية تعزيز التعاون مع سوريا والعراق",
+      "excerpt": "أكد مجلس الأمن القومي التركي أهمية تعزيز التعاون مع سوريا والعراق في مختلف ‏المجالات، مشدداً على مواصلة الجهود الرامية إلى ترسيخ الأمن والاستقرار وبناء ‏مستقبل شامل ومزدهر في المنطقة، وذلك في ظل التطورات الأمنية والسياسية ‏الإقليمية والدولي",
+      "link": "https://sana.sy/politics/2646293/",
+      "publishedAt": "2026-11-26T23:30:30.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تستعرض في لاهاي جهود معالجة &#8220;الملف الكيميائي&#8221; للنظام البائد وإزالة ‌‏الألغام",
+      "excerpt": "استعرض وفد وزارة الطوارئ وإدارة الكوارث برئاسة الوزير رائد الصالح، جهود ‌‏معالجة ملف الأسلحة الكيميائية الذي خلّفه النظام البائد، وذلك خلال لقاءات مع ‌‏مسؤولين دوليين في مدينة لاهاي الهولندية على هامش أعمال الدورة الحادية والثلاثين ‌‏لمؤتمر",
+      "link": "https://sana.sy/politics/2646280/",
+      "publishedAt": "2026-11-26T23:01:42.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "رابطة العالم الإسلامي تدين الهجوم الإرهابي على مقر للأمن الداخلي في الحسكة",
+      "excerpt": "أدانت رابطة العالم الإسلامي بشدة الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، مؤكدة تضامنها مع سوريا ورفضها للإرهاب بجميع أشكاله.",
+      "link": "https://sana.sy/politics/2646276/",
+      "publishedAt": "2026-11-26T22:53:04.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "العراق يغلق معبرا غير رسمي يربط إقليم كردستان بشمال شرقي سوريا",
+      "excerpt": "أعلنت قيادة قوات الحدود العراقية إغلاق معبر الوليد مع سوريا ومنفذ سرتك مع إيران.",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%BA%D9%84%D9%82-%D9%85%D8%B9%D8%A8%D8%B1%D8%A7-%D8%BA%D9%8A%D8%B1-%D8%B1%D8%B3%D9%85%D9%8A-%D9%8A%D8%B1%D8%A8%D8%B7-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B4%D9%85%D8%A7%D9%84-%D8%B4%D8%B1%D9%82%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "publishedAt": "2026-11-26T22:23:08.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "سوريا تدين الاعتداءات الإيرانية على الكويت وتؤكد تضامنها الكامل معها",
+      "excerpt": "أدانت الجمهورية العربية السورية بأشد العبارات الاعتداءات الإيرانية التي استهدفت أراضي دولة الكويت الشقيقة باستخدام الطائرات المسيّرة، وما أسفرت عنه من وفيات وإصابات، مؤكدة تضامنها الكامل مع دولة الكويت قيادةً وشعباً في مواجهة كل ما يمس أمنه",
+      "link": "https://sana.sy/syria-and-the-world/2646177/",
+      "publishedAt": "2026-11-26T20:53:07.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "البحرين والتعاون الإسلامي تدينان الهجوم الإرهابي في الحسكة وتؤكدان التضامن مع سوريا",
+      "excerpt": "أدانت مملكة البحرين ومنظمة التعاون الإسلامي الهجوم الإرهابي الذي استهدف أحد مقار وزارة الداخلية في مدينة الحسكة، مؤكدتين تضامنهما مع سوريا ودعمهما لجهود مكافحة الإرهاب والحفاظ على سيادة البلاد ووحدة أراضيها.",
+      "link": "https://sana.sy/politics/2646154/",
+      "publishedAt": "2026-11-26T20:23:25.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "مصر تدين الهجوم الإرهابي على مقر للأمن الداخلي في الحسكة وتؤكد تضامنها مع سوريا",
+      "excerpt": "أدانت مصر الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، مؤكدة وقوفها إلى جانب سوريا.",
+      "link": "https://sana.sy/politics/2646122/",
+      "publishedAt": "2026-11-26T19:19:32.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الإمارات تدين الهجوم الإرهابي في الحسكة وتؤكد تضامنها مع سوريا",
+      "excerpt": "أدانت الإمارات، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقرات وزارة ‏الداخلية في مدينة الحسكة، مؤكدة وقوفها إلى جانب سوريا.‏",
+      "link": "https://sana.sy/politics/2646106/",
+      "publishedAt": "2026-11-26T19:03:48.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Israel monitors Erdogan-Sharaa alliance amid fears of Turkish military expansion in Syria",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1312,w_2100/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confe",
+      "link": "https://www.jpost.com/middle-east/article-916253",
+      "publishedAt": "2026-11-26T18:18:14.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "اليمن والجامعة العربية يدينان الهجوم الإرهابي في الحسكة ويؤكدان تضامنهما مع سوريا",
+      "excerpt": "أدان اليمن وجامعة الدول العربية، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقار قوى الأمن الداخلي في مدينة الحسكة، مؤكدين تضامنهما مع سوريا ودعمهما جهودها في مكافحة الإرهاب وتعزيز الأمن والاستقرار وصون سيادة البلاد ووحدة أراضيها.",
+      "link": "https://sana.sy/politics/2645967/",
+      "publishedAt": "2026-11-26T17:14:02.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "جامعة الدول العربية تدين هجوم الحسكة وتؤكد دعم سوريا في محاربة الإرهاب",
+      "excerpt": "دانت جامعة الدول العربية في بيان هجوم تنظيم \"داعش\" الذي استهدف مقرا لقوى الأمن الداخلي في الحسكة",
+      "link": "https://www.syria.tv/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+      "publishedAt": "2026-11-26T16:21:13.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "China seeks closer ties with Iraq, Syria as US looks to expand its Middle East influence - report",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1990,w_2983/746975' alt='China's President Xi Jinping and US President Donald Trump arrive to attend a welcome banquet for the Asia",
+      "link": "https://www.jpost.com/middle-east/article-916223",
+      "publishedAt": "2026-11-26T15:14:14.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "البرلمان العربي يدين الهجوم الإرهابي على مقر لوزارة الداخلية في الحسكة",
+      "excerpt": "أدان البرلمان العربي الهجوم الإرهابي الذي استهدف مقراً لوزارة الداخلية في حي المشيرفة غربي مدينة الحسكة، مؤكداً تضامنه مع سوريا ودعمه لأمنها واستقرارها وسيادة أراضيها.",
+      "link": "https://sana.sy/syria-and-the-world/2645862/",
+      "publishedAt": "2026-11-26T15:13:20.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قوات الاحتلال تنصب حاجزا في ريف القنيطرة وتخضع المدنيين للتفتيش",
+      "excerpt": "نصبت قوات الاحتلال الإسرائيلي حاجز تفتيش في ريف القنيطرة وأخضعت المارة للتفتيش",
+      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D8%AE%D8%B6%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4",
+      "publishedAt": "2026-11-26T14:53:41.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قطر تدين الهجوم على مقر قوى الأمن الداخلي بالحسكة",
+      "excerpt": "دانت دولة قطر الهجوم الإرهابي الذي استهدف مقرّاً للأمن الداخلي في مدينة الحسكة، مساء أمس الأربعاء، وأسفر عن ارتقاء عنصرين وإصابة خمسة من قوات الأمن.",
+      "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%82%D8%B1-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
+      "publishedAt": "2026-11-26T13:44:09.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "قطر تدين الهجوم الإرهابي على موقع للأمن الداخلي في الحسكة",
+      "excerpt": "أدانت دولة قطر، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، وأدى إلى استشهاد عنصرين من قوى الأمن الداخلي وإصابة خمسة آخرين، مجددةً تضامنها مع سوريا ودعمها كلّ ما من شأنه الحفاظ على الأمن وترسيخ الاستق",
+      "link": "https://sana.sy/politics/2645750/",
+      "publishedAt": "2026-11-26T13:21:22.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "سوريا تبحث مع تركيا تطوير معايير \"الحلال\" وتوريد صوامع لتخزين الحبوب",
+      "excerpt": "تحركات صناعية سورية في تركيا.. ما انعكاساتها على الاقتصاد المحلي؟",
+      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%84-%D9%88%D8%AA%D9%88%D8%B1%D9%8A%D8%AF-%D8%B5%D9%88%D8%A7%D9%85%D8%B9-%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%A8%D9%88%D8%A8",
+      "publishedAt": "2026-11-26T12:22:31.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Jordan, Saudi Arabia condemn attack on Syrian security forces in Hasakah",
+      "excerpt": "DAMASCUS, Syria (North Press) – Jordan and Saudi Arabia on Thursday condemned the attack on a Syrian Internal Security Forces site in Hasakah Governorate, northeastern Syria, expressing solidarity with Syria and rejecting all forms of viole",
+      "link": "https://npasyria.com/en/144117/",
+      "publishedAt": "2026-11-26T10:25:26.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "جيش الاحتلال الإسرائيلي يفجّر حقل ألغام قرب بلدة الرفيد بريف القنيطرة",
+      "excerpt": "قوات الاحتلال فجّرت حقل ألغام غرب بلدة الرفيد بريف القنيطرة الجنوبي \"داخل الشريط الفاصل مع الجولان المحتل\"، ولم تذكر تفاصيل عن أسباب التفجير أو ما إذا أسفر عن",
+      "link": "https://www.syria.tv/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%AC%D9%91%D8%B1-%D8%AD%D9%82%D9%84-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%82%D8%B1%D8%A8-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-26T10:22:17.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Explosion at Israeli position rocks Daraa, Quneitra countryside",
+      "excerpt": "DARAA, Syria (North Press) – A powerful explosion was heard across the Daraa and Quneitra countryside, southern Syria, on Thursday after Israeli forces carried out a demolition operation at the western Tel al-Ahmar position near the village",
+      "link": "https://npasyria.com/en/144099/",
+      "publishedAt": "2026-11-26T09:25:57.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "السعودية والأردن تدينان الهجوم الإرهابي على موقع للأمن الداخلي في الحسكة",
+      "excerpt": "أدانت المملكة العربية السعودية والأردن الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، ‌‏وأكدتا تضامنهما",
+      "link": "https://sana.sy/politics/2645502/",
+      "publishedAt": "2026-11-26T09:23:15.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Ten French ISIS members jailed by Iraqi court",
+      "excerpt": "An Iraqi court sentenced 10 French citizens on Thursday – eight to life imprisonment and two to 15 years – for membership of ISIS.They are part of a group of 47 Frenchmen transferred to Iraq from north-eastern Syria in July last year.The gr",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/26/ten-french-isis-members-jailed-by-iraqi-court/",
+      "publishedAt": "2026-11-26T08:23:09.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "بالصور.. مخلفات انسحاب الاحتلال الإسرائيلي من تل أحمر بريف القنيطرة",
+      "excerpt": "صور ميدانية لآثار الدمار والمخلّفات التي تركتها قوات الاحتلال الإسرائيلي في منطقة تل أحمر قرب قريتي أوفانيا وعين النورية بريف القنيطرة الشمالي",
+      "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D9%86-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+      "publishedAt": "2026-11-26T08:04:23.000Z"
+    }
+  ]
+}
