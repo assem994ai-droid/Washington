@@ -1,36 +1,174 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-27T06:50:14.833Z",
+    "generatedAt": "2026-11-27T17:08:14.541Z",
     "windowHours": 24,
-    "from": "2026-11-26T06:50:14.833Z",
-    "to": "2026-11-27T06:50:14.833Z"
+    "from": "2026-11-26T17:08:14.541Z",
+    "to": "2026-11-27T17:08:14.541Z"
   },
   "counts": {
-    "total": 28,
+    "total": 30,
     "byCircle": {
-      "الإعلام المتخصص": 2,
       "الإعلام السوري المستقل": 13,
-      "المصادر الرسمية السورية": 11,
-      "الملف الإسرائيلي والتركي": 2
+      "الإعلام المتخصص": 5,
+      "الملف التركي": 1,
+      "الملف الإسرائيلي والتركي": 2,
+      "المصادر الرسمية السورية": 9
     },
     "bySource": {
+      "North Press Agency (English)": 4,
       "The National": 2,
-      "تلفزيون سوريا": 11,
-      "سانا — قسم السياسة": 11,
+      "تلفزيون سوريا": 9,
+      "Middle East Eye": 3,
+      "Turkish Minute": 1,
       "Jerusalem Post — الشرق الأوسط": 2,
-      "North Press Agency (English)": 2
+      "سانا — قسم السياسة": 9
     }
   },
   "errors": [],
   "items": [
     {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria condemns Iranian drone attacks on Kuwait",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria condemned Iranian drone attacks targeting vital sites in Kuwait, expressing full solidarity with the Gulf state following casualties and material damage. In a statement issued on Thursday, the Syrian Mi",
+      "link": "https://npasyria.com/en/144146/",
+      "publishedAt": "2026-11-27T17:01:00.000Z"
+    },
+    {
       "source": "The National",
       "sourceId": "the-national",
       "circle": "الإعلام المتخصص",
-      "title": "Iraqi government closes two border crossing with Iran and Syria",
-      "excerpt": "Two Iraqi border crossings with Syria and Iran that were previously administered by the Kurdistan Regional Government (KRG) have been closed, as Baghdad moves to assert more control over the northern region. Al Waleed ​crossing ⁠with ‌Syria",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/iraqs-government-closes-two-border-crossing-with-iran-and-syria/",
-      "publishedAt": "2026-11-27T05:47:42.000Z"
+      "title": "Israel says it killed alleged Hamas members despite Gaza ‘ceasefire’",
+      "excerpt": "The Israeli army has said it “eliminated” at least seven people it claimed were Hamas operatives in the past week, including some who allegedly participated in the attacks on October 7, 2023. Hamas on Thursday confirmed that Gaza's Deputy M",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/israel-says-it-killed-alleged-hamas-members-despite-gaza-ceasefire/",
+      "publishedAt": "2026-11-27T16:47:22.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قصف للاحتلال الإسرائيلي يستهدف الأراضي الزراعية غربي درعا",
+      "excerpt": "قوات الاحتلال الإسرائيلي تقصف بقذائف الهاون أراضي زراعية في وادي الرقاد بريف درعا الغربي، وفق ما أفاد به مراسل تلفزيون سوريا.",
+      "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-11-27T16:17:41.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Hamas says son of leader Khalil al-Hayya survived Israeli attack",
+      "excerpt": "<article data-history-node-id=\"451600\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-son-leader-khalil-al-hayya-survived-israeli-attack\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-son-leader-khalil-al-hayya-survived-israeli-attack",
+      "publishedAt": "2026-11-27T16:00:50.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Pro-Israel groups brand US Gaza advert 'antisemitic Hamas propaganda'",
+      "excerpt": "<article data-history-node-id=\"451599\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-groups-brand-us-gaza-advert-antisemitic-hamas-propaganda\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-groups-brand-us-gaza-advert-antisemitic-hamas-propaganda",
+      "publishedAt": "2026-11-27T15:55:14.000Z"
+    },
+    {
+      "source": "Turkish Minute",
+      "sourceId": "turkishminute",
+      "circle": "الملف التركي",
+      "title": "Turkey removes park director after mother bear and cub are shot dead",
+      "excerpt": "Turkey’s Ministry of Agriculture and Forestry on Friday announced it had removed the director of Soğuksu National Park in Ankara’s Kızılcahamam district after a mother brown bear and one of her cubs were shot dead in the park. The mother be",
+      "link": "https://turkishminute.com/2026/11/27/turkey-removes-park-director-after-mother-bear-and-cub-are-shot-dead/",
+      "publishedAt": "2026-11-27T15:43:14.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "هل من تحرّك سوري نحو محكمتي العدل والجنائية الدوليتين؟",
+      "excerpt": "خلال أسبوع واحد فقط، صدر عن اللجان التابعة للأمم المتحدة قراران مهمان لصالح سوريا، وضد \"إسرائيل\"، على خلفية انتهاكاتها المستمرة في الجنوب السوري..",
+      "link": "https://www.syria.tv/%D9%87%D9%84-%D9%85%D9%86-%D8%AA%D8%AD%D8%B1%D9%91%D9%83-%D8%B3%D9%88%D8%B1%D9%8A-%D9%86%D8%AD%D9%88-%D9%85%D8%AD%D9%83%D9%85%D8%AA%D9%8A-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%AA%D9%8A%D9%86%D8%9F",
+      "publishedAt": "2026-11-27T14:29:08.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Two Syrian soldiers killed in attack in Daraa countryside",
+      "excerpt": "QAMISHLI, Syria (North Press)&#8211; Two Syrian army soldiers were killed on Friday in an attack by unidentified gunmen on the Quneitra-Sanamayn road in northern Daraa countryside. The Defense Ministry’s Media and Communications Department ",
+      "link": "https://npasyria.com/en/144143/",
+      "publishedAt": "2026-11-27T13:32:31.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Hamas confirms son of Khalil al-Hayya targeted in Gaza, claims no casualties following strike",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2068,w_2900/732055' alt='Senior Hamas terrorist Khalil al-Hayya speaks during an anti-Israel rally organised by Hamas in Gaza. (pho",
+      "link": "https://www.jpost.com/middle-east/article-916319",
+      "publishedAt": "2026-11-27T12:24:59.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israel kills Gaza deputy education minister and wife in fresh attack on Gaza",
+      "excerpt": "<article data-history-node-id=\"451590\" about=\"https://www.middleeasteye.net/news/israel-kills-palestinian-education-minister-killed-alongside-wife-third-israeli-attack-hamas\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middlee",
+      "link": "https://www.middleeasteye.net/news/israel-kills-palestinian-education-minister-killed-alongside-wife-third-israeli-attack-hamas",
+      "publishedAt": "2026-11-27T12:16:52.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Erdogan ratifies Turkey-Saudi-Pakistan defense pact",
+      "excerpt": "QAMISHLI, Syria (North Press)- Turkish President Recep Tayyip Erdogan officially ratified a mutual defense agreement between Turkey, Saudi Arabia and Pakistan, according to the Turkish Official Gazette on Friday. The ratification completes ",
+      "link": "https://npasyria.com/en/144137/",
+      "publishedAt": "2026-11-27T10:24:45.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الكويت تدين الهجوم الإرهابي على مقر للأمن الداخلي في الحسكة",
+      "excerpt": "أعربت دولة الكويت اليوم الجمعة عن إدانتها واستنكارها للهجوم الإرهابي الذي استهدف أحد مقرات وزارة ‏الداخلية في مدينة الحسكة. ‏",
+      "link": "https://sana.sy/syria-and-the-world/2646512/",
+      "publishedAt": "2026-11-27T10:17:52.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Turkey pledges closer cooperation with Syria, Iraq",
+      "excerpt": "QAMISHLI, Syria (North Press)- Turkey’s National Security Council reaffirmed Ankara’s commitment to strengthening cooperation with Syria and Iraq to support regional security and stability and build a shared future. The statement followed a",
+      "link": "https://npasyria.com/en/144134/",
+      "publishedAt": "2026-11-27T10:10:14.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Demise of Kurdish autonomy in Syria casts shadow as Baghdad pressures Kurdistan",
+      "excerpt": "When Syrian Kurdish leader Mazloum Abdi began to capitulate to the post-Assad order last year, the writing was on the wall for Iraq’s Kurds.Iraq’s Kurdistan region is facing one of the biggest threats to its existence. The semi-autonomous r",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/syria-iraq-kurds-barzani/",
+      "publishedAt": "2026-11-27T09:53:20.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "أوروبا ترسم مستقبل العلاقات مع سوريا.. شراكة مشروطة وعقوبات قابلة للعودة",
+      "excerpt": "أقر البرلمان الأوروبي، يوم الأربعاء 25 تشرين الثاني، تقريره بشأن العلاقات السياسية بين الاتحاد الأوروبي وسوريا.",
+      "link": "https://www.syria.tv/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D8%B1%D8%B3%D9%85-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B7%D8%A9-%D9%88%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%82%D8%A7%D8%A8%D9%84%D8%A9-%D9%84%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
+      "publishedAt": "2026-11-27T09:32:06.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قوات الاحتلال تتوغّل في ريف القنيطرة وتنصب حاجز تفتيش",
+      "excerpt": "توغّلت قوات الاحتلال الإسرائيلي بأربع آليات عسكرية في ريف القنيطرة وأقامت حاجز تفتيش في المنطقة، وسط استمرار انتهاكات الاحتلال",
+      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%91%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4",
+      "publishedAt": "2026-11-27T07:16:52.000Z"
     },
     {
       "source": "تلفزيون سوريا",
@@ -157,123 +295,6 @@
       "excerpt": "أدان اليمن وجامعة الدول العربية، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقار قوى الأمن الداخلي في مدينة الحسكة، مؤكدين تضامنهما مع سوريا ودعمهما جهودها في مكافحة الإرهاب وتعزيز الأمن والاستقرار وصون سيادة البلاد ووحدة أراضيها.",
       "link": "https://sana.sy/politics/2645967/",
       "publishedAt": "2026-11-26T17:14:02.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "جامعة الدول العربية تدين هجوم الحسكة وتؤكد دعم سوريا في محاربة الإرهاب",
-      "excerpt": "دانت جامعة الدول العربية في بيان هجوم تنظيم \"داعش\" الذي استهدف مقرا لقوى الأمن الداخلي في الحسكة",
-      "link": "https://www.syria.tv/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D9%86-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9-%D9%88%D8%AA%D8%A4%D9%83%D8%AF-%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
-      "publishedAt": "2026-11-26T16:21:13.000Z"
-    },
-    {
-      "source": "Jerusalem Post — الشرق الأوسط",
-      "sourceId": "jpost-me",
-      "circle": "الملف الإسرائيلي والتركي",
-      "title": "China seeks closer ties with Iraq, Syria as US looks to expand its Middle East influence - report",
-      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1990,w_2983/746975' alt='China's President Xi Jinping and US President Donald Trump arrive to attend a welcome banquet for the Asia",
-      "link": "https://www.jpost.com/middle-east/article-916223",
-      "publishedAt": "2026-11-26T15:14:14.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "البرلمان العربي يدين الهجوم الإرهابي على مقر لوزارة الداخلية في الحسكة",
-      "excerpt": "أدان البرلمان العربي الهجوم الإرهابي الذي استهدف مقراً لوزارة الداخلية في حي المشيرفة غربي مدينة الحسكة، مؤكداً تضامنه مع سوريا ودعمه لأمنها واستقرارها وسيادة أراضيها.",
-      "link": "https://sana.sy/syria-and-the-world/2645862/",
-      "publishedAt": "2026-11-26T15:13:20.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "قوات الاحتلال تنصب حاجزا في ريف القنيطرة وتخضع المدنيين للتفتيش",
-      "excerpt": "نصبت قوات الاحتلال الإسرائيلي حاجز تفتيش في ريف القنيطرة وأخضعت المارة للتفتيش",
-      "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D8%AE%D8%B6%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4",
-      "publishedAt": "2026-11-26T14:53:41.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "قطر تدين الهجوم على مقر قوى الأمن الداخلي بالحسكة",
-      "excerpt": "دانت دولة قطر الهجوم الإرهابي الذي استهدف مقرّاً للأمن الداخلي في مدينة الحسكة، مساء أمس الأربعاء، وأسفر عن ارتقاء عنصرين وإصابة خمسة من قوات الأمن.",
-      "link": "https://www.syria.tv/%D9%82%D8%B7%D8%B1-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%82%D8%B1-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9",
-      "publishedAt": "2026-11-26T13:44:09.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "قطر تدين الهجوم الإرهابي على موقع للأمن الداخلي في الحسكة",
-      "excerpt": "أدانت دولة قطر، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، وأدى إلى استشهاد عنصرين من قوى الأمن الداخلي وإصابة خمسة آخرين، مجددةً تضامنها مع سوريا ودعمها كلّ ما من شأنه الحفاظ على الأمن وترسيخ الاستق",
-      "link": "https://sana.sy/politics/2645750/",
-      "publishedAt": "2026-11-26T13:21:22.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "سوريا تبحث مع تركيا تطوير معايير \"الحلال\" وتوريد صوامع لتخزين الحبوب",
-      "excerpt": "تحركات صناعية سورية في تركيا.. ما انعكاساتها على الاقتصاد المحلي؟",
-      "link": "https://www.syria.tv/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%AD%D9%84%D8%A7%D9%84-%D9%88%D8%AA%D9%88%D8%B1%D9%8A%D8%AF-%D8%B5%D9%88%D8%A7%D9%85%D8%B9-%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%A8%D9%88%D8%A8",
-      "publishedAt": "2026-11-26T12:22:31.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Jordan, Saudi Arabia condemn attack on Syrian security forces in Hasakah",
-      "excerpt": "DAMASCUS, Syria (North Press) – Jordan and Saudi Arabia on Thursday condemned the attack on a Syrian Internal Security Forces site in Hasakah Governorate, northeastern Syria, expressing solidarity with Syria and rejecting all forms of viole",
-      "link": "https://npasyria.com/en/144117/",
-      "publishedAt": "2026-11-26T10:25:26.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "جيش الاحتلال الإسرائيلي يفجّر حقل ألغام قرب بلدة الرفيد بريف القنيطرة",
-      "excerpt": "قوات الاحتلال فجّرت حقل ألغام غرب بلدة الرفيد بريف القنيطرة الجنوبي \"داخل الشريط الفاصل مع الجولان المحتل\"، ولم تذكر تفاصيل عن أسباب التفجير أو ما إذا أسفر عن",
-      "link": "https://www.syria.tv/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%AC%D9%91%D8%B1-%D8%AD%D9%82%D9%84-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%82%D8%B1%D8%A8-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%AF-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-      "publishedAt": "2026-11-26T10:22:17.000Z"
-    },
-    {
-      "source": "North Press Agency (English)",
-      "sourceId": "npasyria-en",
-      "circle": "الإعلام السوري المستقل",
-      "title": "Explosion at Israeli position rocks Daraa, Quneitra countryside",
-      "excerpt": "DARAA, Syria (North Press) – A powerful explosion was heard across the Daraa and Quneitra countryside, southern Syria, on Thursday after Israeli forces carried out a demolition operation at the western Tel al-Ahmar position near the village",
-      "link": "https://npasyria.com/en/144099/",
-      "publishedAt": "2026-11-26T09:25:57.000Z"
-    },
-    {
-      "source": "سانا — قسم السياسة",
-      "sourceId": "sana-ar",
-      "circle": "المصادر الرسمية السورية",
-      "title": "السعودية والأردن تدينان الهجوم الإرهابي على موقع للأمن الداخلي في الحسكة",
-      "excerpt": "أدانت المملكة العربية السعودية والأردن الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، ‌‏وأكدتا تضامنهما",
-      "link": "https://sana.sy/politics/2645502/",
-      "publishedAt": "2026-11-26T09:23:15.000Z"
-    },
-    {
-      "source": "The National",
-      "sourceId": "the-national",
-      "circle": "الإعلام المتخصص",
-      "title": "Ten French ISIS members jailed by Iraqi court",
-      "excerpt": "An Iraqi court sentenced 10 French citizens on Thursday – eight to life imprisonment and two to 15 years – for membership of ISIS.They are part of a group of 47 Frenchmen transferred to Iraq from north-eastern Syria in July last year.The gr",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/26/ten-french-isis-members-jailed-by-iraqi-court/",
-      "publishedAt": "2026-11-26T08:23:09.000Z"
-    },
-    {
-      "source": "تلفزيون سوريا",
-      "sourceId": "syriatv-ar",
-      "circle": "الإعلام السوري المستقل",
-      "title": "بالصور.. مخلفات انسحاب الاحتلال الإسرائيلي من تل أحمر بريف القنيطرة",
-      "excerpt": "صور ميدانية لآثار الدمار والمخلّفات التي تركتها قوات الاحتلال الإسرائيلي في منطقة تل أحمر قرب قريتي أوفانيا وعين النورية بريف القنيطرة الشمالي",
-      "link": "https://www.syria.tv/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D9%86-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
-      "publishedAt": "2026-11-26T08:04:23.000Z"
     }
   ]
 }
