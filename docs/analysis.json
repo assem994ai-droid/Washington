@@ -1,36 +1,188 @@
 {
   "cycle": {
-    "generatedAt": "2026-11-27T17:08:14.541Z",
+    "generatedAt": "2026-11-28T00:30:47.778Z",
     "windowHours": 24,
-    "from": "2026-11-26T17:08:14.541Z",
-    "to": "2026-11-27T17:08:14.541Z"
+    "from": "2026-11-27T00:30:47.778Z",
+    "to": "2026-11-28T00:30:47.778Z"
   },
   "generatedBy": "analyze.mjs (قواعد فقط — بلا ذكاء اصطناعي)",
   "totals": {
-    "items": 30,
-    "files": 4,
-    "withNew": 4,
-    "stale": 0,
+    "items": 23,
+    "files": 5,
+    "withNew": 2,
+    "stale": 3,
     "contested": 0,
-    "echoed": 1,
+    "echoed": 0,
     "americanItems": 1,
-    "archiveCycles": 1421
+    "archiveCycles": 1422
   },
   "emptyCircles": [
     "الكونغرس",
     "الإدارة التنفيذية الأمريكية",
     "الكونغرس والتوازن السياسي الأمريكي",
     "مراكز الفكر",
-    "الإعلام الدولي",
     "التقارير الرسمية الدورية",
     "الملف الإسرائيلي"
   ],
   "errors": [],
   "files": [
     {
+      "id": "israel",
+      "label": "الملف الإسرائيلي",
+      "verification": "مصدران مستقلان فأكثر",
+      "contested": false,
+      "independentSources": 4,
+      "sources": [
+        "تلفزيون سوريا",
+        "Al Jazeera English",
+        "The National",
+        "Middle East Eye"
+      ],
+      "circles": [
+        "الإعلام السوري المستقل",
+        "الإعلام الدولي",
+        "الإعلام المتخصص"
+      ],
+      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "isFollowUp": true,
+      "newItems": 3,
+      "stale": false,
+      "echoed": false,
+      "usItems": 0,
+      "score": 37,
+      "items": [
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "الاحتلال يتوغل في تل أحمر بريف القنيطرة ويقيم حاجزا لتفتيش المدنيين",
+          "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الجمعة، في تل أحمر بالقرب من قرية عين النورية ​​​​​​​بريف القنيطرة الشمالي",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D9%8A%D9%85-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86",
+          "publishedAt": "2026-11-27T22:52:07.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+          "excerpt": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+          "publishedAt": "2026-11-27T20:18:45.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "Al Jazeera English",
+          "sourceId": "aljazeera-en",
+          "circle": "الإعلام الدولي",
+          "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+          "excerpt": "Four of Khalil al-Hayya's other sons were previously killed by Israeli forces, according to the Palestinian group.",
+          "link": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+          "publishedAt": "2026-11-27T19:53:25.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": false,
+          "us": false
+        },
+        {
+          "source": "The National",
+          "sourceId": "the-national",
+          "circle": "الإعلام المتخصص",
+          "title": "Israel says it killed alleged Hamas members despite Gaza ‘ceasefire’",
+          "excerpt": "The Israeli army has said it “eliminated” at least seven people it claimed were Hamas operatives in the past week, including some who allegedly participated in the attacks on October 7, 2023. Hamas on Thursday confirmed that Gaza's Deputy M",
+          "link": "https://www.thenationalnews.com/news/mena/2026/11/27/israel-says-it-killed-alleged-hamas-members-despite-gaza-ceasefire/",
+          "publishedAt": "2026-11-27T16:47:22.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قصف للاحتلال الإسرائيلي يستهدف الأراضي الزراعية غربي درعا",
+          "excerpt": "قوات الاحتلال الإسرائيلي تقصف بقذائف الهاون أراضي زراعية في وادي الرقاد بريف درعا الغربي، وفق ما أفاد به مراسل تلفزيون سوريا.",
+          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+          "publishedAt": "2026-11-27T16:17:41.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Hamas says son of leader Khalil al-Hayya survived Israeli attack",
+          "excerpt": "<article data-history-node-id=\"451600\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-son-leader-khalil-al-hayya-survived-israeli-attack\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-son-leader-khalil-al-hayya-survived-israeli-attack",
+          "publishedAt": "2026-11-27T16:00:50.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "Middle East Eye",
+          "sourceId": "mee",
+          "circle": "الإعلام المتخصص",
+          "title": "Pro-Israel groups brand US Gaza advert 'antisemitic Hamas propaganda'",
+          "excerpt": "<article data-history-node-id=\"451599\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-groups-brand-us-gaza-advert-antisemitic-hamas-propaganda\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-groups-brand-us-gaza-advert-antisemitic-hamas-propaganda",
+          "publishedAt": "2026-11-27T15:55:14.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "قوات الاحتلال تتوغّل في ريف القنيطرة وتنصب حاجز تفتيش",
+          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي بأربع آليات عسكرية في ريف القنيطرة وأقامت حاجز تفتيش في المنطقة، وسط استمرار انتهاكات الاحتلال",
+          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%91%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4",
+          "publishedAt": "2026-11-27T07:16:52.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        },
+        {
+          "source": "تلفزيون سوريا",
+          "sourceId": "syriatv-ar",
+          "circle": "الإعلام السوري المستقل",
+          "title": "مجلس الشعب يبحث مع أهالي القنيطرة ملف المختطفين في سجون الاحتلال الإسرائيلي",
+          "excerpt": "طالب أهالي وذوو المختطفين في سجون الاحتلال الإسرائيلي مجلس الشعب السوري بتكثيف التحركات المحلية والدولية للضغط من أجل الإفراج عن أبنائهم، ووضع ملف المعتقلين على",
+          "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
+          "publishedAt": "2026-11-27T00:49:38.000Z",
+          "files": [
+            "israel"
+          ],
+          "seenBefore": true,
+          "us": false
+        }
+      ]
+    },
+    {
       "id": "other",
       "label": "بنود خارج الملفات المعرّفة",
-      "verification": "مصدران بصياغة متطابقة — قد يعودان لأصل واحد",
+      "verification": "مصدران مستقلان فأكثر",
       "contested": false,
       "independentSources": 5,
       "sources": [
@@ -46,13 +198,13 @@
         "المصادر الرسمية السورية",
         "الإعلام المتخصص"
       ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-27 17:08",
       "isFollowUp": true,
-      "newItems": 6,
-      "stale": false,
-      "echoed": true,
+      "newItems": 0,
+      "stale": true,
+      "echoed": false,
       "usItems": 0,
-      "score": 56,
+      "score": 19,
       "items": [
         {
           "source": "North Press Agency (English)",
@@ -63,7 +215,7 @@
           "link": "https://npasyria.com/en/144146/",
           "publishedAt": "2026-11-27T17:01:00.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -75,7 +227,7 @@
           "link": "https://www.syria.tv/%D9%87%D9%84-%D9%85%D9%86-%D8%AA%D8%AD%D8%B1%D9%91%D9%83-%D8%B3%D9%88%D8%B1%D9%8A-%D9%86%D8%AD%D9%88-%D9%85%D8%AD%D9%83%D9%85%D8%AA%D9%8A-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%AA%D9%8A%D9%86%D8%9F",
           "publishedAt": "2026-11-27T14:29:08.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -87,7 +239,7 @@
           "link": "https://npasyria.com/en/144143/",
           "publishedAt": "2026-11-27T13:32:31.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -99,7 +251,7 @@
           "link": "https://www.jpost.com/middle-east/article-916319",
           "publishedAt": "2026-11-27T12:24:59.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -111,7 +263,7 @@
           "link": "https://sana.sy/syria-and-the-world/2646512/",
           "publishedAt": "2026-11-27T10:17:52.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -123,7 +275,7 @@
           "link": "https://www.thenationalnews.com/news/mena/2026/11/27/syria-iraq-kurds-barzani/",
           "publishedAt": "2026-11-27T09:53:20.000Z",
           "files": [],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -161,224 +313,41 @@
           "files": [],
           "seenBefore": true,
           "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تستعرض في لاهاي جهود معالجة &#8220;الملف الكيميائي&#8221; للنظام البائد وإزالة ‌‏الألغام",
-          "excerpt": "استعرض وفد وزارة الطوارئ وإدارة الكوارث برئاسة الوزير رائد الصالح، جهود ‌‏معالجة ملف الأسلحة الكيميائية الذي خلّفه النظام البائد، وذلك خلال لقاءات مع ‌‏مسؤولين دوليين في مدينة لاهاي الهولندية على هامش أعمال الدورة الحادية والثلاثين ‌‏لمؤتمر",
-          "link": "https://sana.sy/politics/2646280/",
-          "publishedAt": "2026-11-26T23:01:42.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "رابطة العالم الإسلامي تدين الهجوم الإرهابي على مقر للأمن الداخلي في الحسكة",
-          "excerpt": "أدانت رابطة العالم الإسلامي بشدة الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، مؤكدة تضامنها مع سوريا ورفضها للإرهاب بجميع أشكاله.",
-          "link": "https://sana.sy/politics/2646276/",
-          "publishedAt": "2026-11-26T22:53:04.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "العراق يغلق معبرا غير رسمي يربط إقليم كردستان بشمال شرقي سوريا",
-          "excerpt": "أعلنت قيادة قوات الحدود العراقية إغلاق معبر الوليد مع سوريا ومنفذ سرتك مع إيران.",
-          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%BA%D9%84%D9%82-%D9%85%D8%B9%D8%A8%D8%B1%D8%A7-%D8%BA%D9%8A%D8%B1-%D8%B1%D8%B3%D9%85%D9%8A-%D9%8A%D8%B1%D8%A8%D8%B7-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B4%D9%85%D8%A7%D9%84-%D8%B4%D8%B1%D9%82%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-          "publishedAt": "2026-11-26T22:23:08.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "سوريا تدين الاعتداءات الإيرانية على الكويت وتؤكد تضامنها الكامل معها",
-          "excerpt": "أدانت الجمهورية العربية السورية بأشد العبارات الاعتداءات الإيرانية التي استهدفت أراضي دولة الكويت الشقيقة باستخدام الطائرات المسيّرة، وما أسفرت عنه من وفيات وإصابات، مؤكدة تضامنها الكامل مع دولة الكويت قيادةً وشعباً في مواجهة كل ما يمس أمنه",
-          "link": "https://sana.sy/syria-and-the-world/2646177/",
-          "publishedAt": "2026-11-26T20:53:07.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "البحرين والتعاون الإسلامي تدينان الهجوم الإرهابي في الحسكة وتؤكدان التضامن مع سوريا",
-          "excerpt": "أدانت مملكة البحرين ومنظمة التعاون الإسلامي الهجوم الإرهابي الذي استهدف أحد مقار وزارة الداخلية في مدينة الحسكة، مؤكدتين تضامنهما مع سوريا ودعمهما لجهود مكافحة الإرهاب والحفاظ على سيادة البلاد ووحدة أراضيها.",
-          "link": "https://sana.sy/politics/2646154/",
-          "publishedAt": "2026-11-26T20:23:25.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "مصر تدين الهجوم الإرهابي على مقر للأمن الداخلي في الحسكة وتؤكد تضامنها مع سوريا",
-          "excerpt": "أدانت مصر الهجوم الإرهابي الذي استهدف أحد مقرات وزارة الداخلية في مدينة الحسكة، مؤكدة وقوفها إلى جانب سوريا.",
-          "link": "https://sana.sy/politics/2646122/",
-          "publishedAt": "2026-11-26T19:19:32.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الإمارات تدين الهجوم الإرهابي في الحسكة وتؤكد تضامنها مع سوريا",
-          "excerpt": "أدانت الإمارات، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقرات وزارة ‏الداخلية في مدينة الحسكة، مؤكدة وقوفها إلى جانب سوريا.‏",
-          "link": "https://sana.sy/politics/2646106/",
-          "publishedAt": "2026-11-26T19:03:48.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "اليمن والجامعة العربية يدينان الهجوم الإرهابي في الحسكة ويؤكدان تضامنهما مع سوريا",
-          "excerpt": "أدان اليمن وجامعة الدول العربية، اليوم الخميس، الهجوم الإرهابي الذي استهدف أحد مقار قوى الأمن الداخلي في مدينة الحسكة، مؤكدين تضامنهما مع سوريا ودعمهما جهودها في مكافحة الإرهاب وتعزيز الأمن والاستقرار وصون سيادة البلاد ووحدة أراضيها.",
-          "link": "https://sana.sy/politics/2645967/",
-          "publishedAt": "2026-11-26T17:14:02.000Z",
-          "files": [],
-          "seenBefore": true,
-          "us": false
         }
       ]
     },
     {
-      "id": "israel",
-      "label": "الملف الإسرائيلي",
-      "verification": "مصدران مستقلان فأكثر",
+      "id": "diplomacy",
+      "label": "الحراك الدبلوماسي حول سوريا",
+      "verification": "مصدر واحد",
       "contested": false,
-      "independentSources": 3,
+      "independentSources": 1,
       "sources": [
-        "The National",
-        "تلفزيون سوريا",
-        "Middle East Eye"
+        "تلفزيون سوريا"
       ],
       "circles": [
-        "الإعلام المتخصص",
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 6 بند جديد على ملف رُصد سابقاً",
+      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
       "isFollowUp": true,
-      "newItems": 6,
+      "newItems": 1,
       "stale": false,
       "echoed": false,
       "usItems": 0,
-      "score": 44,
+      "score": 8,
       "items": [
         {
-          "source": "The National",
-          "sourceId": "the-national",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel says it killed alleged Hamas members despite Gaza ‘ceasefire’",
-          "excerpt": "The Israeli army has said it “eliminated” at least seven people it claimed were Hamas operatives in the past week, including some who allegedly participated in the attacks on October 7, 2023. Hamas on Thursday confirmed that Gaza's Deputy M",
-          "link": "https://www.thenationalnews.com/news/mena/2026/11/27/israel-says-it-killed-alleged-hamas-members-despite-gaza-ceasefire/",
-          "publishedAt": "2026-11-27T16:47:22.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
           "source": "تلفزيون سوريا",
           "sourceId": "syriatv-ar",
           "circle": "الإعلام السوري المستقل",
-          "title": "قصف للاحتلال الإسرائيلي يستهدف الأراضي الزراعية غربي درعا",
-          "excerpt": "قوات الاحتلال الإسرائيلي تقصف بقذائف الهاون أراضي زراعية في وادي الرقاد بريف درعا الغربي، وفق ما أفاد به مراسل تلفزيون سوريا.",
-          "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
-          "publishedAt": "2026-11-27T16:17:41.000Z",
+          "title": "الأمم المتحدة لشؤون اللاجئين تخصص 317 مليون دولار لدعم سوريا في 2027",
+          "excerpt": "أعلنت المفوضية السامية للأمم المتحدة لشؤون اللاجئين تخصيص 317 مليون دولار لتمويل عملياتها داخل سوريا خلال عام 2027، بهدف دعم الحماية وعودة اللاجئين والنازحين",
+          "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D8%AA%D8%AE%D8%B5%D8%B5-317-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-2027",
+          "publishedAt": "2026-11-27T19:22:41.000Z",
           "files": [
-            "israel"
+            "diplomacy"
           ],
           "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Hamas says son of leader Khalil al-Hayya survived Israeli attack",
-          "excerpt": "<article data-history-node-id=\"451600\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-son-leader-khalil-al-hayya-survived-israeli-attack\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-son-leader-khalil-al-hayya-survived-israeli-attack",
-          "publishedAt": "2026-11-27T16:00:50.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Pro-Israel groups brand US Gaza advert 'antisemitic Hamas propaganda'",
-          "excerpt": "<article data-history-node-id=\"451599\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-groups-brand-us-gaza-advert-antisemitic-hamas-propaganda\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www",
-          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-groups-brand-us-gaza-advert-antisemitic-hamas-propaganda",
-          "publishedAt": "2026-11-27T15:55:14.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "Middle East Eye",
-          "sourceId": "mee",
-          "circle": "الإعلام المتخصص",
-          "title": "Israel kills Gaza deputy education minister and wife in fresh attack on Gaza",
-          "excerpt": "<article data-history-node-id=\"451590\" about=\"https://www.middleeasteye.net/news/israel-kills-palestinian-education-minister-killed-alongside-wife-third-israeli-attack-hamas\" class=\"story default clearfix\"> <h2> <a href=\"https://www.middlee",
-          "link": "https://www.middleeasteye.net/news/israel-kills-palestinian-education-minister-killed-alongside-wife-third-israeli-attack-hamas",
-          "publishedAt": "2026-11-27T12:16:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "قوات الاحتلال تتوغّل في ريف القنيطرة وتنصب حاجز تفتيش",
-          "excerpt": "توغّلت قوات الاحتلال الإسرائيلي بأربع آليات عسكرية في ريف القنيطرة وأقامت حاجز تفتيش في المنطقة، وسط استمرار انتهاكات الاحتلال",
-          "link": "https://www.syria.tv/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%AA%D9%88%D8%BA%D9%91%D9%84-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%AA%D9%81%D8%AA%D9%8A%D8%B4",
-          "publishedAt": "2026-11-27T07:16:52.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "تلفزيون سوريا",
-          "sourceId": "syriatv-ar",
-          "circle": "الإعلام السوري المستقل",
-          "title": "مجلس الشعب يبحث مع أهالي القنيطرة ملف المختطفين في سجون الاحتلال الإسرائيلي",
-          "excerpt": "طالب أهالي وذوو المختطفين في سجون الاحتلال الإسرائيلي مجلس الشعب السوري بتكثيف التحركات المحلية والدولية للضغط من أجل الإفراج عن أبنائهم، ووضع ملف المعتقلين على",
-          "link": "https://www.syria.tv/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B7%D9%81%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%AC%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A",
-          "publishedAt": "2026-11-27T00:49:38.000Z",
-          "files": [
-            "israel"
-          ],
-          "seenBefore": true,
           "us": false
         }
       ]
@@ -388,26 +357,22 @@
       "label": "الملف التركي",
       "verification": "مصدران مستقلان فأكثر",
       "contested": false,
-      "independentSources": 4,
+      "independentSources": 2,
       "sources": [
         "Turkish Minute",
-        "North Press Agency (English)",
-        "سانا — قسم السياسة",
-        "Jerusalem Post — الشرق الأوسط"
+        "North Press Agency (English)"
       ],
       "circles": [
         "الملف التركي",
-        "الإعلام السوري المستقل",
-        "المصادر الرسمية السورية",
-        "الملف الإسرائيلي والتركي"
+        "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 3 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-27 17:08",
       "isFollowUp": true,
-      "newItems": 3,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 0,
-      "score": 33,
+      "score": 8,
       "items": [
         {
           "source": "Turkish Minute",
@@ -420,7 +385,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -434,7 +399,7 @@
           "files": [
             "turkey"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": false
         },
         {
@@ -447,36 +412,6 @@
           "publishedAt": "2026-11-27T10:10:14.000Z",
           "files": [
             "turkey"
-          ],
-          "seenBefore": false,
-          "us": false
-        },
-        {
-          "source": "سانا — قسم السياسة",
-          "sourceId": "sana-ar",
-          "circle": "المصادر الرسمية السورية",
-          "title": "الأمن القومي التركي يؤكد أهمية تعزيز التعاون مع سوريا والعراق",
-          "excerpt": "أكد مجلس الأمن القومي التركي أهمية تعزيز التعاون مع سوريا والعراق في مختلف ‏المجالات، مشدداً على مواصلة الجهود الرامية إلى ترسيخ الأمن والاستقرار وبناء ‏مستقبل شامل ومزدهر في المنطقة، وذلك في ظل التطورات الأمنية والسياسية ‏الإقليمية والدولي",
-          "link": "https://sana.sy/politics/2646293/",
-          "publishedAt": "2026-11-26T23:30:30.000Z",
-          "files": [
-            "turkey"
-          ],
-          "seenBefore": true,
-          "us": false
-        },
-        {
-          "source": "Jerusalem Post — الشرق الأوسط",
-          "sourceId": "jpost-me",
-          "circle": "الملف الإسرائيلي والتركي",
-          "title": "Israel monitors Erdogan-Sharaa alliance amid fears of Turkish military expansion in Syria",
-          "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1312,w_2100/702383' alt='Syrian President Ahmed al-Sharaa and Turkish President Recep Tayyip Erdogan arrive for a joint press confe",
-          "link": "https://www.jpost.com/middle-east/article-916253",
-          "publishedAt": "2026-11-26T18:18:14.000Z",
-          "files": [
-            "turkey",
-            "israel",
-            "diplomacy"
           ],
           "seenBefore": true,
           "us": false
@@ -495,13 +430,13 @@
       "circles": [
         "الإعلام السوري المستقل"
       ],
-      "history": "تطوّر جديد — 1 بند جديد على ملف رُصد سابقاً",
+      "history": "لا جديد — نفس البنود المرصودة في دورة 2026-11-27 17:08",
       "isFollowUp": true,
-      "newItems": 1,
-      "stale": false,
+      "newItems": 0,
+      "stale": true,
       "echoed": false,
       "usItems": 1,
-      "score": 15,
+      "score": 6,
       "items": [
         {
           "source": "تلفزيون سوريا",
@@ -514,7 +449,7 @@
           "files": [
             "sanctions"
           ],
-          "seenBefore": false,
+          "seenBefore": true,
           "us": true
         }
       ]
