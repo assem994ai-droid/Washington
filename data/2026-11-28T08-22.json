@@ -1,0 +1,192 @@
+{
+  "cycle": {
+    "generatedAt": "2026-11-28T08:22:58.696Z",
+    "windowHours": 24,
+    "from": "2026-11-27T08:22:58.696Z",
+    "to": "2026-11-28T08:22:58.696Z"
+  },
+  "counts": {
+    "total": 18,
+    "byCircle": {
+      "الإعلام السوري المستقل": 12,
+      "الإعلام المتخصص": 3,
+      "الملف التركي": 1,
+      "الملف الإسرائيلي والتركي": 1,
+      "المصادر الرسمية السورية": 1
+    },
+    "bySource": {
+      "تلفزيون سوريا": 7,
+      "North Press Agency (English)": 5,
+      "Middle East Eye": 1,
+      "The National": 2,
+      "Turkish Minute": 1,
+      "Jerusalem Post — الشرق الأوسط": 1,
+      "سانا — قسم السياسة": 1
+    }
+  },
+  "errors": [],
+  "items": [
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "دمج الجامعات في الشمال السوري.. قرارات إدارية تفرض على طلاب تغيير اختصاصهم",
+      "excerpt": "عقب مرسوم تركي بإغلاقها وبدء دمجها بجامعة حلب، يواجه طلاب كليات الشمال السوري أزمة إدارية تهدد بتغيير اختصاصهم وتأخر تخرجهم وسط غياب الكوادر وضبابية القرارات",
+      "link": "https://www.syria.tv/%D8%AF%D9%85%D8%AC-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D9%81%D8%B1%D8%B6-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A7%D8%A8-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D9%87%D9%85",
+      "publishedAt": "2026-11-28T07:21:54.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Reuters reports U.S. Air Force cloud platform breached in cyberattack,",
+      "excerpt": "QAMISHLI, Syria (North Press) – Hackers breached the U.S. Air Force’s flagship cloud computing platform in October, potentially exposing sensitive military and personnel information, Reuters reported on Friday, citing multiple sources famil",
+      "link": "https://npasyria.com/en/144152/",
+      "publishedAt": "2026-11-28T06:55:23.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "خلف خطوط المعركة.. حكايات سوريين أيام \"ردع العدوان\" في الشمال السوري",
+      "excerpt": "قبل انطلاق معركة \"ردع العدوان\"، لم يكن ما يفصل السوريين في الشمال المحرر عن مدنهم وقراهم مجرد خطوط الجبهات، بل سنوات من القصف والتهجير والانتظار",
+      "link": "https://www.syria.tv/%D8%AE%D9%84%D9%81-%D8%AE%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86-%D8%A3%D9%8A%D8%A7%D9%85-%D8%B1%D8%AF%D8%B9-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+      "publishedAt": "2026-11-28T04:01:12.000Z"
+    },
+    {
+      "source": "Middle East Eye",
+      "sourceId": "mee",
+      "circle": "الإعلام المتخصص",
+      "title": "Israeli military claims MSF workers killed in Gaza strike were Hamas members",
+      "excerpt": "<article data-history-node-id=\"451622\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-claims-msf-workers-killed-gaza-strike-were-hamas\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.m",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-claims-msf-workers-killed-gaza-strike-were-hamas",
+      "publishedAt": "2026-11-28T01:26:01.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الاحتلال يتوغل في تل أحمر بريف القنيطرة ويقيم حاجزا لتفتيش المدنيين",
+      "excerpt": "توغلت قوات الاحتلال الإسرائيلي، الجمعة، في تل أحمر بالقرب من قرية عين النورية ​​​​​​​بريف القنيطرة الشمالي",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%AA%D9%84-%D8%A3%D8%AD%D9%85%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D9%8A%D9%82%D9%8A%D9%85-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86",
+      "publishedAt": "2026-11-27T22:52:07.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "الأمم المتحدة لشؤون اللاجئين تخصص 317 مليون دولار لدعم سوريا في 2027",
+      "excerpt": "أعلنت المفوضية السامية للأمم المتحدة لشؤون اللاجئين تخصيص 317 مليون دولار لتمويل عملياتها داخل سوريا خلال عام 2027، بهدف دعم الحماية وعودة اللاجئين والنازحين",
+      "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D8%AA%D8%AE%D8%B5%D8%B5-317-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%AF%D8%B9%D9%85-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-2027",
+      "publishedAt": "2026-11-27T19:22:41.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Syria condemns Iranian drone attacks on Kuwait",
+      "excerpt": "QAMISHLI, Syria (North Press) – Syria condemned Iranian drone attacks targeting vital sites in Kuwait, expressing full solidarity with the Gulf state following casualties and material damage. In a statement issued on Thursday, the Syrian Mi",
+      "link": "https://npasyria.com/en/144146/",
+      "publishedAt": "2026-11-27T17:01:00.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Israel says it killed alleged Hamas members despite Gaza ‘ceasefire’",
+      "excerpt": "The Israeli army has said it “eliminated” at least seven people it claimed were Hamas operatives in the past week, including some who allegedly participated in the attacks on October 7, 2023. Hamas on Thursday confirmed that Gaza's Deputy M",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/israel-says-it-killed-alleged-hamas-members-despite-gaza-ceasefire/",
+      "publishedAt": "2026-11-27T16:47:22.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "قصف للاحتلال الإسرائيلي يستهدف الأراضي الزراعية غربي درعا",
+      "excerpt": "قوات الاحتلال الإسرائيلي تقصف بقذائف الهاون أراضي زراعية في وادي الرقاد بريف درعا الغربي، وفق ما أفاد به مراسل تلفزيون سوريا.",
+      "link": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7",
+      "publishedAt": "2026-11-27T16:17:41.000Z"
+    },
+    {
+      "source": "Turkish Minute",
+      "sourceId": "turkishminute",
+      "circle": "الملف التركي",
+      "title": "Turkey removes park director after mother bear and cub are shot dead",
+      "excerpt": "Turkey’s Ministry of Agriculture and Forestry on Friday announced it had removed the director of Soğuksu National Park in Ankara’s Kızılcahamam district after a mother brown bear and one of her cubs were shot dead in the park. The mother be",
+      "link": "https://turkishminute.com/2026/11/27/turkey-removes-park-director-after-mother-bear-and-cub-are-shot-dead/",
+      "publishedAt": "2026-11-27T15:43:14.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "هل من تحرّك سوري نحو محكمتي العدل والجنائية الدوليتين؟",
+      "excerpt": "خلال أسبوع واحد فقط، صدر عن اللجان التابعة للأمم المتحدة قراران مهمان لصالح سوريا، وضد \"إسرائيل\"، على خلفية انتهاكاتها المستمرة في الجنوب السوري..",
+      "link": "https://www.syria.tv/%D9%87%D9%84-%D9%85%D9%86-%D8%AA%D8%AD%D8%B1%D9%91%D9%83-%D8%B3%D9%88%D8%B1%D9%8A-%D9%86%D8%AD%D9%88-%D9%85%D8%AD%D9%83%D9%85%D8%AA%D9%8A-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%AA%D9%8A%D9%86%D8%9F",
+      "publishedAt": "2026-11-27T14:29:08.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Two Syrian soldiers killed in attack in Daraa countryside",
+      "excerpt": "QAMISHLI, Syria (North Press)&#8211; Two Syrian army soldiers were killed on Friday in an attack by unidentified gunmen on the Quneitra-Sanamayn road in northern Daraa countryside. The Defense Ministry’s Media and Communications Department ",
+      "link": "https://npasyria.com/en/144143/",
+      "publishedAt": "2026-11-27T13:32:31.000Z"
+    },
+    {
+      "source": "Jerusalem Post — الشرق الأوسط",
+      "sourceId": "jpost-me",
+      "circle": "الملف الإسرائيلي والتركي",
+      "title": "Hamas confirms son of Khalil al-Hayya targeted in Gaza, claims no casualties following strike",
+      "excerpt": "<img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2068,w_2900/732055' alt='Senior Hamas terrorist Khalil al-Hayya speaks during an anti-Israel rally organised by Hamas in Gaza. (pho",
+      "link": "https://www.jpost.com/middle-east/article-916319",
+      "publishedAt": "2026-11-27T12:24:59.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Erdogan ratifies Turkey-Saudi-Pakistan defense pact",
+      "excerpt": "QAMISHLI, Syria (North Press)- Turkish President Recep Tayyip Erdogan officially ratified a mutual defense agreement between Turkey, Saudi Arabia and Pakistan, according to the Turkish Official Gazette on Friday. The ratification completes ",
+      "link": "https://npasyria.com/en/144137/",
+      "publishedAt": "2026-11-27T10:24:45.000Z"
+    },
+    {
+      "source": "سانا — قسم السياسة",
+      "sourceId": "sana-ar",
+      "circle": "المصادر الرسمية السورية",
+      "title": "الكويت تدين الهجوم الإرهابي على مقر للأمن الداخلي في الحسكة",
+      "excerpt": "أعربت دولة الكويت اليوم الجمعة عن إدانتها واستنكارها للهجوم الإرهابي الذي استهدف أحد مقرات وزارة ‏الداخلية في مدينة الحسكة. ‏",
+      "link": "https://sana.sy/syria-and-the-world/2646512/",
+      "publishedAt": "2026-11-27T10:17:52.000Z"
+    },
+    {
+      "source": "North Press Agency (English)",
+      "sourceId": "npasyria-en",
+      "circle": "الإعلام السوري المستقل",
+      "title": "Turkey pledges closer cooperation with Syria, Iraq",
+      "excerpt": "QAMISHLI, Syria (North Press)- Turkey’s National Security Council reaffirmed Ankara’s commitment to strengthening cooperation with Syria and Iraq to support regional security and stability and build a shared future. The statement followed a",
+      "link": "https://npasyria.com/en/144134/",
+      "publishedAt": "2026-11-27T10:10:14.000Z"
+    },
+    {
+      "source": "The National",
+      "sourceId": "the-national",
+      "circle": "الإعلام المتخصص",
+      "title": "Demise of Kurdish autonomy in Syria casts shadow as Baghdad pressures Kurdistan",
+      "excerpt": "When Syrian Kurdish leader Mazloum Abdi began to capitulate to the post-Assad order last year, the writing was on the wall for Iraq’s Kurds.Iraq’s Kurdistan region is facing one of the biggest threats to its existence. The semi-autonomous r",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/syria-iraq-kurds-barzani/",
+      "publishedAt": "2026-11-27T09:53:20.000Z"
+    },
+    {
+      "source": "تلفزيون سوريا",
+      "sourceId": "syriatv-ar",
+      "circle": "الإعلام السوري المستقل",
+      "title": "أوروبا ترسم مستقبل العلاقات مع سوريا.. شراكة مشروطة وعقوبات قابلة للعودة",
+      "excerpt": "أقر البرلمان الأوروبي، يوم الأربعاء 25 تشرين الثاني، تقريره بشأن العلاقات السياسية بين الاتحاد الأوروبي وسوريا.",
+      "link": "https://www.syria.tv/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D8%B1%D8%B3%D9%85-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B7%D8%A9-%D9%88%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%82%D8%A7%D8%A8%D9%84%D8%A9-%D9%84%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
+      "publishedAt": "2026-11-27T09:32:06.000Z"
+    }
+  ]
+}
